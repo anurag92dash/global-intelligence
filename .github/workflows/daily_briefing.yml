@@ -1,0 +1,38 @@
+name: Daily Intelligence Briefing
+
+on:
+  schedule:
+    # Runs every day at 06:00 UTC (11:30 IST)
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests feedparser python-dateutil
+
+      - name: Fetch and process news
+        env:
+          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
+        run: python fetch_news.py
+
+      - name: Commit updated data
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add news_data.json conflicts_data.json
+          git diff --quiet && git diff --staged --quiet || git commit -m "Daily briefing: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
