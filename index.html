@@ -1,0 +1,1105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Intelligence — Daily Briefing</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0d0d0e;
+    --surface: #141416;
+    --surface2: #1a1a1e;
+    --border: rgba(255,255,255,0.08);
+    --border-strong: rgba(255,255,255,0.14);
+    --text: #e8e6e0;
+    --text-muted: #7a7870;
+    --text-dim: #4a4840;
+    --accent: #c8a96e;
+    --accent-dim: rgba(200,169,110,0.15);
+    --red: #e05c5c;
+    --orange: #e08c3a;
+    --yellow: #d4b84a;
+    --green: #5caa72;
+    --blue: #5a9fd4;
+    --purple: #9a72d4;
+    --teal: #4ab8b0;
+  }
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  html { scroll-behavior: smooth; }
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
+
+  /* HEADER */
+  header {
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    position: sticky; top: 0; z-index: 100;
+    background: rgba(13,13,14,0.95);
+    backdrop-filter: blur(12px);
+    display: flex; align-items: center; justify-content: space-between;
+    height: 56px;
+  }
+  .logo {
+    font-family: 'Playfair Display', serif;
+    font-size: 18px; font-weight: 700;
+    letter-spacing: 0.02em;
+    color: var(--text);
+  }
+  .logo span { color: var(--accent); }
+  .header-meta {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; color: var(--text-muted);
+    display: flex; align-items: center; gap: 16px;
+  }
+  .live-dot {
+    width: 6px; height: 6px; border-radius: 50%;
+    background: var(--green);
+    animation: pulse 2s infinite;
+    display: inline-block; margin-right: 6px;
+  }
+  @keyframes pulse { 0%,100%{opacity:1;} 50%{opacity:0.3;} }
+
+  /* NAV TABS */
+  nav {
+    display: flex; gap: 0;
+    border-bottom: 1px solid var(--border);
+    padding: 0 2rem;
+    overflow-x: auto;
+    background: var(--surface);
+  }
+  nav::-webkit-scrollbar { display: none; }
+  .nav-tab {
+    padding: 12px 20px;
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--text-muted);
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    white-space: nowrap;
+    transition: color 0.2s, border-color 0.2s;
+    user-select: none;
+  }
+  .nav-tab:hover { color: var(--text); }
+  .nav-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+  /* MAIN LAYOUT */
+  main { max-width: 1400px; margin: 0 auto; padding: 2rem; }
+
+  /* REGION GRID */
+  .region-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+  .region-btn {
+    background: var(--surface);
+    padding: 14px 8px;
+    text-align: center;
+    cursor: pointer;
+    transition: background 0.2s;
+    user-select: none;
+  }
+  .region-btn:hover { background: var(--surface2); }
+  .region-btn.active { background: var(--accent-dim); }
+  .region-code {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 13px; font-weight: 500;
+    color: var(--accent);
+    display: block;
+  }
+  .region-name {
+    font-size: 10px; color: var(--text-muted);
+    display: block; margin-top: 2px;
+    letter-spacing: 0.04em;
+  }
+
+  /* DATE SELECTOR */
+  .date-bar {
+    display: flex; align-items: center; justify-content: space-between;
+    margin-bottom: 1.5rem; flex-wrap: wrap; gap: 12px;
+  }
+  .date-pills {
+    display: flex; gap: 6px; flex-wrap: wrap;
+  }
+  .date-pill {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; padding: 5px 12px;
+    border: 1px solid var(--border);
+    border-radius: 2px; cursor: pointer;
+    color: var(--text-muted);
+    transition: all 0.2s;
+    user-select: none;
+  }
+  .date-pill:hover { border-color: var(--border-strong); color: var(--text); }
+  .date-pill.active { border-color: var(--accent); color: var(--accent); }
+  .category-filter {
+    display: flex; gap: 6px;
+  }
+  .cat-btn {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; padding: 5px 10px;
+    border: 1px solid var(--border);
+    border-radius: 2px; cursor: pointer;
+    color: var(--text-muted);
+    transition: all 0.2s;
+    user-select: none; text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+  .cat-btn:hover { color: var(--text); border-color: var(--border-strong); }
+  .cat-btn.active { background: var(--accent-dim); border-color: var(--accent); color: var(--accent); }
+
+  /* STORIES GRID */
+  .stories-container { display: flex; flex-direction: column; gap: 2rem; }
+
+  /* CONFLICT TRACKER */
+  .conflict-section {
+    margin-bottom: 2rem;
+  }
+  .section-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; font-weight: 500;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: var(--text-dim);
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid var(--border);
+  }
+  .conflict-chips {
+    display: flex; flex-wrap: wrap; gap: 8px;
+  }
+  .conflict-chip {
+    display: flex; align-items: center; gap: 8px;
+    padding: 7px 12px;
+    border: 1px solid var(--border);
+    border-radius: 2px;
+    cursor: pointer;
+    transition: all 0.2s;
+    background: var(--surface);
+    font-size: 12px;
+    user-select: none;
+  }
+  .conflict-chip:hover { border-color: var(--border-strong); background: var(--surface2); }
+  .conflict-chip.open { border-left: 2px solid var(--red); }
+  .conflict-chip.ongoing { border-left: 2px solid var(--orange); }
+  .conflict-chip.closed { border-left: 2px solid var(--green); }
+  .chip-status {
+    font-size: 14px; line-height: 1;
+  }
+  .chip-name { color: var(--text); }
+  .chip-region {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; color: var(--text-muted);
+    margin-left: 2px;
+  }
+
+  /* NEWS CARD */
+  .news-day-group { }
+  .day-header {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; font-weight: 500;
+    color: var(--text-muted);
+    padding: 6px 0 12px;
+    letter-spacing: 0.08em;
+    display: flex; align-items: center; gap: 12px;
+  }
+  .day-header::after {
+    content: ''; flex: 1;
+    height: 1px; background: var(--border);
+  }
+
+  .news-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+    gap: 1px;
+    background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+  .news-card {
+    background: var(--surface);
+    padding: 18px 20px;
+    transition: background 0.2s;
+    cursor: pointer;
+    position: relative;
+  }
+  .news-card:hover { background: var(--surface2); }
+  .card-meta {
+    display: flex; align-items: center; gap: 8px;
+    margin-bottom: 8px;
+  }
+  .cat-tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px; font-weight: 500;
+    letter-spacing: 0.1em; text-transform: uppercase;
+    padding: 2px 7px; border-radius: 1px;
+  }
+  .cat-tag.politics { background: rgba(90,159,212,0.15); color: var(--blue); }
+  .cat-tag.geopolitics { background: rgba(154,114,212,0.15); color: var(--purple); }
+  .cat-tag.business { background: rgba(200,169,110,0.15); color: var(--accent); }
+  .source-name {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; color: var(--text-muted);
+  }
+  .card-time {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; color: var(--text-dim);
+    margin-left: auto;
+  }
+  .card-headline {
+    font-family: 'Playfair Display', serif;
+    font-size: 16px; font-weight: 600;
+    line-height: 1.35;
+    color: var(--text);
+    margin-bottom: 8px;
+    letter-spacing: -0.01em;
+  }
+  .card-summary {
+    font-size: 12px; color: var(--text-muted);
+    line-height: 1.6;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-footer {
+    margin-top: 12px;
+    display: flex; align-items: center; gap: 8px;
+    flex-wrap: wrap;
+  }
+  .region-tag {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px;
+    padding: 2px 6px;
+    border: 1px solid var(--border);
+    border-radius: 1px;
+    color: var(--text-dim);
+    letter-spacing: 0.08em;
+  }
+  .related-conflict {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px;
+    padding: 2px 7px;
+    border-radius: 1px;
+    color: var(--orange);
+    background: rgba(224,140,58,0.1);
+    border: 1px solid rgba(224,140,58,0.2);
+  }
+
+  /* CONFLICT DETAIL MODAL */
+  .modal-backdrop {
+    display: none; position: fixed; inset: 0;
+    background: rgba(0,0,0,0.75);
+    z-index: 200;
+    backdrop-filter: blur(6px);
+    padding: 2rem 1rem;
+    overflow-y: auto;
+  }
+  .modal-backdrop.open { display: flex; align-items: flex-start; justify-content: center; }
+  .modal {
+    background: var(--surface);
+    border: 1px solid var(--border-strong);
+    border-radius: 4px;
+    padding: 0;
+    max-width: 680px; width: 100%;
+    position: relative;
+    margin: auto;
+  }
+  .modal-header {
+    padding: 1.75rem 2rem 1.25rem;
+    border-bottom: 1px solid var(--border);
+    position: sticky; top: 0;
+    background: var(--surface);
+    z-index: 10;
+  }
+  .modal-close {
+    position: absolute; top: 1.25rem; right: 1.25rem;
+    background: none; border: 1px solid var(--border);
+    color: var(--text-muted); cursor: pointer;
+    font-size: 13px; line-height: 1;
+    padding: 4px 10px; border-radius: 2px;
+    transition: all 0.15s;
+  }
+  .modal-close:hover { color: var(--text); border-color: var(--border-strong); }
+  .modal-status {
+    display: flex; align-items: center; gap: 10px;
+    margin-bottom: 10px; flex-wrap: wrap;
+  }
+  .status-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.1em;
+    padding: 3px 9px; border-radius: 2px;
+  }
+  .status-badge.open    { background: rgba(224,92,92,0.15);  color: var(--red);    border: 1px solid rgba(224,92,92,0.3); }
+  .status-badge.ongoing { background: rgba(224,140,58,0.15); color: var(--orange); border: 1px solid rgba(224,140,58,0.3); }
+  .status-badge.closed  { background: rgba(92,170,114,0.15); color: var(--green);  border: 1px solid rgba(92,170,114,0.3); }
+  .signal-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; padding: 3px 9px; border-radius: 2px;
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+  }
+  .signal-badge.escalating  { color: var(--red);    border-color: rgba(224,92,92,0.3); }
+  .signal-badge.de-escalating { color: var(--green); border-color: rgba(92,170,114,0.3); }
+  .modal-title { font-family: 'Playfair Display', serif; font-size: 24px; line-height: 1.2; margin-bottom: 6px; }
+  .modal-desc { font-size: 13px; color: var(--text-muted); line-height: 1.7; }
+  .modal-tabs {
+    display: flex; border-bottom: 1px solid var(--border);
+  }
+  .modal-tab {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; font-weight: 500;
+    text-transform: uppercase; letter-spacing: 0.08em;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-bottom: 2px solid transparent;
+    color: var(--text-muted);
+    transition: all 0.15s;
+    user-select: none;
+  }
+  .modal-tab:hover { color: var(--text); }
+  .modal-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+  .modal-body { padding: 1.5rem 2rem 2rem; }
+  .modal-panel { display: none; }
+  .modal-panel.active { display: block; }
+
+  /* HISTORY TIMELINE */
+  .history-intro {
+    font-size: 13px; color: var(--text-muted); line-height: 1.7;
+    margin-bottom: 1.5rem; padding-bottom: 1rem;
+    border-bottom: 1px solid var(--border);
+  }
+  .history-sources {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; color: var(--text-dim);
+    margin-bottom: 1.5rem;
+    display: flex; gap: 8px; flex-wrap: wrap; align-items: center;
+  }
+  .source-chip {
+    padding: 2px 7px; border: 1px solid var(--border);
+    border-radius: 1px; color: var(--text-dim);
+  }
+  .history-timeline { position: relative; }
+  .history-timeline::before {
+    content: ''; position: absolute;
+    left: 68px; top: 0; bottom: 0;
+    width: 1px; background: var(--border);
+  }
+  .history-item {
+    display: flex; gap: 0;
+    margin-bottom: 0;
+    position: relative;
+    padding: 8px 0;
+  }
+  .history-item:last-child { margin-bottom: 0; }
+  .history-date {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; color: var(--text-muted);
+    min-width: 68px; padding-right: 16px;
+    padding-top: 2px;
+    text-align: right;
+    flex-shrink: 0;
+    line-height: 1.4;
+  }
+  .history-dot {
+    width: 7px; height: 7px; border-radius: 50%;
+    background: var(--surface2);
+    border: 1.5px solid var(--border-strong);
+    flex-shrink: 0;
+    margin-top: 5px;
+    position: relative; z-index: 1;
+  }
+  .history-item.current .history-dot {
+    background: var(--accent);
+    border-color: var(--accent);
+    box-shadow: 0 0 0 3px rgba(200,169,110,0.15);
+  }
+  .history-event {
+    font-size: 13px; color: var(--text); line-height: 1.55;
+    padding-left: 16px; padding-top: 1px;
+  }
+  .history-item.current .history-event { color: var(--text); font-weight: 400; }
+
+  /* RECENT NEWS PANEL */
+  .recent-story {
+    padding: 12px 0;
+    border-bottom: 1px solid var(--border);
+    cursor: pointer;
+  }
+  .recent-story:last-child { border-bottom: none; }
+  .recent-story:hover .recent-headline { color: var(--accent); }
+  .recent-meta {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; color: var(--text-dim);
+    margin-bottom: 4px; display: flex; gap: 10px;
+  }
+  .recent-headline { font-size: 13px; color: var(--text); line-height: 1.4; transition: color 0.15s; }
+
+  /* TIMELINE (conflict panel — kept for recent events) */
+  .timeline { margin-top: 0; padding-top: 0; border-top: none; }
+  .timeline-label {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; text-transform: uppercase;
+    letter-spacing: 0.1em; color: var(--text-dim);
+    margin-bottom: 12px;
+  }
+  .timeline-item {
+    display: flex; gap: 12px;
+    margin-bottom: 10px; font-size: 12px;
+  }
+  .timeline-date {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 11px; color: var(--text-muted);
+    min-width: 72px;
+  }
+  .timeline-event { color: var(--text); line-height: 1.5; }
+
+  /* EMPTY STATE */
+  .empty-state {
+    text-align: center; padding: 4rem 2rem;
+    color: var(--text-dim);
+    font-size: 13px;
+  }
+  .empty-state .icon { font-size: 32px; margin-bottom: 1rem; }
+
+  /* LOADING STATE */
+  .loading {
+    display: flex; align-items: center; justify-content: center;
+    padding: 3rem;
+    color: var(--text-muted);
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 12px;
+    gap: 10px;
+  }
+  .spinner {
+    width: 16px; height: 16px;
+    border: 1.5px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* STATS BAR */
+  .stats-bar {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1px; background: var(--border);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+  }
+  .stat-cell {
+    background: var(--surface);
+    padding: 14px 16px;
+  }
+  .stat-num {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 22px; font-weight: 500;
+    color: var(--accent);
+    line-height: 1;
+  }
+  .stat-label {
+    font-size: 11px; color: var(--text-muted);
+    margin-top: 4px;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+  }
+
+  /* FOOTER */
+  footer {
+    border-top: 1px solid var(--border);
+    padding: 1.5rem 2rem;
+    margin-top: 4rem;
+    display: flex; align-items: center; justify-content: space-between;
+    flex-wrap: wrap; gap: 12px;
+  }
+  .footer-text {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 10px; color: var(--text-dim);
+  }
+  .sources-list {
+    display: flex; gap: 12px; flex-wrap: wrap;
+  }
+  .source-badge {
+    font-family: 'IBM Plex Mono', monospace;
+    font-size: 9px; color: var(--text-dim);
+    padding: 2px 6px; border: 1px solid var(--border);
+    border-radius: 1px;
+  }
+
+  @media (max-width: 768px) {
+    main { padding: 1rem; }
+    .region-grid { grid-template-columns: repeat(3, 1fr); }
+    .stats-bar { grid-template-columns: repeat(2, 1fr); }
+    .news-grid { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">Global <span>Intelligence</span></div>
+  <div class="header-meta">
+    <span><span class="live-dot"></span>Updated daily</span>
+    <span id="last-updated">—</span>
+  </div>
+</header>
+
+<nav id="category-nav">
+  <div class="nav-tab active" data-cat="all">All Topics</div>
+  <div class="nav-tab" data-cat="politics">Politics</div>
+  <div class="nav-tab" data-cat="geopolitics">Geopolitics</div>
+  <div class="nav-tab" data-cat="business">Business</div>
+</nav>
+
+<main>
+
+  <!-- Stats -->
+  <div class="stats-bar" id="stats-bar">
+    <div class="stat-cell"><div class="stat-num" id="stat-stories">—</div><div class="stat-label">Stories Today</div></div>
+    <div class="stat-cell"><div class="stat-num" id="stat-conflicts">—</div><div class="stat-label">Active Conflicts</div></div>
+    <div class="stat-cell"><div class="stat-num" id="stat-regions">5</div><div class="stat-label">Regions Covered</div></div>
+    <div class="stat-cell"><div class="stat-num" id="stat-sources">—</div><div class="stat-label">News Sources</div></div>
+  </div>
+
+  <!-- Region Filter -->
+  <div class="region-grid" id="region-grid">
+    <div class="region-btn active" data-region="all"><span class="region-code">ALL</span><span class="region-name">Global</span></div>
+    <div class="region-btn" data-region="EU"><span class="region-code">EU</span><span class="region-name">Europe</span></div>
+    <div class="region-btn" data-region="NA"><span class="region-code">NA</span><span class="region-name">North America</span></div>
+    <div class="region-btn" data-region="MENA"><span class="region-code">MENA</span><span class="region-name">Mid East / N.Africa</span></div>
+    <div class="region-btn" data-region="APJ"><span class="region-code">APJ</span><span class="region-name">Asia Pacific</span></div>
+    <div class="region-btn" data-region="SA"><span class="region-code">SA</span><span class="region-name">South Asia / Lat Am</span></div>
+  </div>
+
+  <!-- Conflict Tracker -->
+  <div class="conflict-section">
+    <div class="section-label">Ongoing Situations</div>
+    <div class="conflict-chips" id="conflict-chips">
+      <div class="loading"><div class="spinner"></div> Loading situations...</div>
+    </div>
+  </div>
+
+  <!-- Topics Library -->
+  <div class="conflict-section" id="topics-section" style="display:none">
+    <div class="section-label">Topic Library — click any topic to read its full history</div>
+    <div class="conflict-chips" id="topic-chips"></div>
+  </div>
+
+  <!-- Date Bar -->
+  <div class="date-bar">
+    <div class="date-pills" id="date-pills"></div>
+    <div class="category-filter" id="cat-filter">
+      <div class="cat-btn active" data-cat="all">All</div>
+      <div class="cat-btn" data-cat="politics">Politics</div>
+      <div class="cat-btn" data-cat="geopolitics">Geopolitics</div>
+      <div class="cat-btn" data-cat="business">Business</div>
+    </div>
+  </div>
+
+  <!-- Stories -->
+  <div class="stories-container" id="stories-container">
+    <div class="loading"><div class="spinner"></div> Loading intelligence briefing...</div>
+  </div>
+
+</main>
+
+<!-- Conflict / History Modal -->
+<div class="modal-backdrop" id="modal-backdrop" onclick="closeModal(event)">
+  <div class="modal" id="modal-content">
+    <div class="modal-header">
+      <button class="modal-close" onclick="closeModal()">✕ close</button>
+      <div class="modal-status">
+        <span class="status-badge" id="modal-status-badge">—</span>
+        <span class="signal-badge" id="modal-signal-badge"></span>
+        <span id="modal-region" style="font-family:'IBM Plex Mono',monospace;font-size:11px;color:var(--text-dim)">—</span>
+      </div>
+      <div class="modal-title" id="modal-title">—</div>
+      <div class="modal-desc" id="modal-desc">—</div>
+    </div>
+    <div class="modal-tabs">
+      <div class="modal-tab active" onclick="switchTab('history')">Full History</div>
+      <div class="modal-tab" onclick="switchTab('timeline')">Key Events</div>
+      <div class="modal-tab" onclick="switchTab('recent')">Recent Coverage</div>
+    </div>
+    <div class="modal-body">
+      <div class="modal-panel active" id="panel-history"></div>
+      <div class="modal-panel" id="panel-timeline"></div>
+      <div class="modal-panel" id="panel-recent"></div>
+    </div>
+  </div>
+</div>
+
+<footer>
+  <div class="footer-text">Global Intelligence · Automated daily briefing · Data from open news APIs &amp; RSS feeds</div>
+  <div class="sources-list">
+    <span class="source-badge">Reuters</span>
+    <span class="source-badge">BBC News</span>
+    <span class="source-badge">Al Jazeera</span>
+    <span class="source-badge">Financial Times</span>
+    <span class="source-badge">The Guardian</span>
+    <span class="source-badge">AP News</span>
+    <span class="source-badge">Bloomberg</span>
+  </div>
+</footer>
+
+<script>
+// ─────────────────────────────────────────────
+// STATE
+// ─────────────────────────────────────────────
+let allNews = [];
+let allConflicts = [];
+let allHistories = [];
+let activeRegion = 'all';
+let activeCat = 'all';
+let activeDate = null;
+let availableDates = [];
+
+const STATUS_EMOJI = { open: '🔴', ongoing: '🟠', closed: '🟢' };
+const STATUS_LABEL = { open: 'Escalating', ongoing: 'Ongoing', closed: 'Resolved' };
+const SIGNAL_LABEL = { escalating: '↑ Escalating', stable: '→ Stable', 'de-escalating': '↓ De-escalating' };
+
+// ─────────────────────────────────────────────
+// LOAD DATA
+// ─────────────────────────────────────────────
+async function loadData() {
+  try {
+    const [newsRes, conflictsRes, historiesRes] = await Promise.all([
+      fetch('news_data.json').catch(() => null),
+      fetch('conflicts_data.json').catch(() => null),
+      fetch('histories.json').catch(() => null)
+    ]);
+
+    if (newsRes && newsRes.ok) {
+      const data = await newsRes.json();
+      allNews = data.stories || [];
+      document.getElementById('last-updated').textContent = data.updated ? formatTimestamp(data.updated) : '—';
+    } else {
+      allNews = getSampleNews();
+      document.getElementById('last-updated').textContent = 'Sample data';
+    }
+
+    if (conflictsRes && conflictsRes.ok) {
+      allConflicts = await conflictsRes.json();
+    } else {
+      allConflicts = getSampleConflicts();
+    }
+
+    if (historiesRes && historiesRes.ok) {
+      allHistories = await historiesRes.json();
+    }
+
+    initDates();
+    renderAll();
+  } catch(e) {
+    allNews = getSampleNews();
+    allConflicts = getSampleConflicts();
+    document.getElementById('last-updated').textContent = 'Sample data';
+    initDates();
+    renderAll();
+  }
+}
+
+function initDates() {
+  const dates = [...new Set(allNews.map(n => n.date))].sort().reverse();
+  availableDates = dates.slice(0, 7);
+  activeDate = availableDates[0] || null;
+}
+
+// ─────────────────────────────────────────────
+// RENDER
+// ─────────────────────────────────────────────
+function renderAll() {
+  renderStats();
+  renderConflicts();
+  renderTopics();
+  renderDatePills();
+  renderStories();
+}
+
+function renderStats() {
+  const todayStories = allNews.filter(n => n.date === activeDate).length;
+  const activeConflicts = allConflicts.filter(c => c.status !== 'closed').length;
+  const sources = [...new Set(allNews.map(n => n.source))].length;
+  document.getElementById('stat-stories').textContent = todayStories;
+  document.getElementById('stat-conflicts').textContent = activeConflicts;
+  document.getElementById('stat-sources').textContent = sources || '—';
+}
+
+function renderConflicts() {
+  const el = document.getElementById('conflict-chips');
+  if (!allConflicts.length) { el.innerHTML = '<span style="color:var(--text-dim);font-size:12px;">No situations tracked</span>'; return; }
+  el.innerHTML = allConflicts.map(c => `
+    <div class="conflict-chip ${c.status}" onclick="openConflict('${c.id}')">
+      <span class="chip-status">${STATUS_EMOJI[c.status]}</span>
+      <span class="chip-name">${c.name}</span>
+      <span class="chip-region">${c.region}</span>
+    </div>
+  `).join('');
+}
+
+function renderTopics() {
+  const section = document.getElementById('topics-section');
+  const el = document.getElementById('topic-chips');
+  // Show topics that are in histories but NOT already in conflicts
+  const conflictIds = new Set(allConflicts.map(c => c.id));
+  const extraTopics = allHistories.filter(h => !conflictIds.has(h.id));
+  if (!extraTopics.length) { section.style.display = 'none'; return; }
+  section.style.display = '';
+  const CAT_COLORS = { geopolitics: 'var(--purple)', politics: 'var(--blue)', business: 'var(--accent)' };
+  el.innerHTML = extraTopics.map(h => `
+    <div class="conflict-chip ongoing" onclick="openHistoryTopic('${h.id}')" style="border-left-color:${CAT_COLORS[h.category]||'var(--text-muted)'}">
+      <span class="chip-status" style="font-size:13px">${h.category === 'business' ? '📈' : h.category === 'politics' ? '🏛' : '🌐'}</span>
+      <span class="chip-name">${h.name}</span>
+      <span class="chip-region">${h.region}</span>
+    </div>
+  `).join('');
+}
+
+function renderDatePills() {
+  const el = document.getElementById('date-pills');
+  el.innerHTML = availableDates.map(d => `
+    <div class="date-pill ${d === activeDate ? 'active' : ''}" onclick="setDate('${d}')">${formatDate(d)}</div>
+  `).join('');
+}
+
+function renderStories() {
+  const container = document.getElementById('stories-container');
+  let filtered = allNews;
+  if (activeRegion !== 'all') filtered = filtered.filter(n => n.region === activeRegion);
+  if (activeCat !== 'all') filtered = filtered.filter(n => n.category === activeCat);
+
+  const grouped = {};
+  filtered.forEach(n => {
+    if (!grouped[n.date]) grouped[n.date] = [];
+    grouped[n.date].push(n);
+  });
+
+  const sortedDates = Object.keys(grouped).sort().reverse();
+  if (!sortedDates.length) {
+    container.innerHTML = `<div class="empty-state"><div class="icon">📡</div>No stories match this filter.</div>`;
+    return;
+  }
+
+  container.innerHTML = sortedDates.map(date => `
+    <div class="news-day-group">
+      <div class="day-header">${formatDateFull(date)}</div>
+      <div class="news-grid">
+        ${grouped[date].map(renderCard).join('')}
+      </div>
+    </div>
+  `).join('');
+}
+
+function renderCard(story) {
+  const conflict = story.conflict_id ? allConflicts.find(c => c.id === story.conflict_id) : null;
+  return `
+    <div class="news-card" onclick="window.open('${story.url}','_blank')">
+      <div class="card-meta">
+        <span class="cat-tag ${story.category}">${story.category}</span>
+        <span class="source-name">${story.source}</span>
+        <span class="card-time">${story.time || ''}</span>
+      </div>
+      <div class="card-headline">${story.headline}</div>
+      <div class="card-summary">${story.summary}</div>
+      <div class="card-footer">
+        <span class="region-tag">${story.region}</span>
+        ${story.country ? `<span class="region-tag">${story.country}</span>` : ''}
+        ${conflict ? `<span class="related-conflict" onclick="event.stopPropagation();openConflict('${conflict.id}')">${STATUS_EMOJI[conflict.status]} ${conflict.name}</span>` : ''}
+      </div>
+    </div>
+  `;
+}
+
+// ─────────────────────────────────────────────
+// MODAL — TABBED WITH HISTORY
+// ─────────────────────────────────────────────
+let currentModalId = null;
+
+function switchTab(tab) {
+  document.querySelectorAll('.modal-tab').forEach((t,i) => {
+    const tabs = ['history','timeline','recent'];
+    t.classList.toggle('active', tabs[i] === tab);
+  });
+  document.querySelectorAll('.modal-panel').forEach(p => p.classList.remove('active'));
+  document.getElementById('panel-' + tab).classList.add('active');
+}
+
+function openConflict(id) {
+  const c = allConflicts.find(x => x.id === id);
+  if (!c) return;
+  currentModalId = id;
+
+  // Header
+  const statusBadge = document.getElementById('modal-status-badge');
+  statusBadge.textContent = STATUS_LABEL[c.status] || c.status;
+  statusBadge.className = `status-badge ${c.status}`;
+
+  const signalBadge = document.getElementById('modal-signal-badge');
+  if (c.status_signal && c.status_signal !== 'stable') {
+    signalBadge.textContent = SIGNAL_LABEL[c.status_signal] || c.status_signal;
+    signalBadge.className = `signal-badge ${c.status_signal}`;
+    signalBadge.style.display = '';
+  } else {
+    signalBadge.style.display = 'none';
+  }
+
+  document.getElementById('modal-region').textContent = c.region;
+  document.getElementById('modal-title').textContent = c.name;
+  document.getElementById('modal-desc').textContent = c.description || '';
+
+  // ── TAB 1: FULL HISTORY
+  const history = allHistories.find(h => h.id === id);
+  const historyPanel = document.getElementById('panel-history');
+  if (history && history.history && history.history.length) {
+    const lastIdx = history.history.length - 1;
+    historyPanel.innerHTML = `
+      <div class="history-intro">${history.summary || ''}</div>
+      <div class="history-sources">
+        <span style="color:var(--text-dim);margin-right:2px">Sources:</span>
+        ${(history.sources || []).map(s => `<span class="source-chip">${s}</span>`).join('')}
+      </div>
+      <div class="history-timeline">
+        ${history.history.map((item, i) => `
+          <div class="history-item ${i === lastIdx ? 'current' : ''}">
+            <div class="history-date">${item.date}</div>
+            <div class="history-dot"></div>
+            <div class="history-event">${item.event}</div>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  } else {
+    historyPanel.innerHTML = `<div style="color:var(--text-dim);font-size:13px;padding:1rem 0;">No detailed history available for this topic yet.<br>Add it to <code>histories.json</code> in your repository.</div>`;
+  }
+
+  // ── TAB 2: KEY EVENTS (conflict timeline)
+  const timelinePanel = document.getElementById('panel-timeline');
+  if (c.timeline && c.timeline.length) {
+    timelinePanel.innerHTML = `
+      <div class="timeline">
+        <div class="timeline-label">Key milestones</div>
+        ${c.timeline.map(t => `
+          <div class="timeline-item">
+            <span class="timeline-date">${t.date}</span>
+            <span class="timeline-event">${t.event}</span>
+          </div>
+        `).join('')}
+      </div>
+    `;
+  } else {
+    timelinePanel.innerHTML = `<div style="color:var(--text-dim);font-size:13px;padding:1rem 0;">No key events listed. Edit <code>conflicts_data.json</code> to add milestones.</div>`;
+  }
+
+  // ── TAB 3: RECENT COVERAGE
+  const recentPanel = document.getElementById('panel-recent');
+  const recentStories = allNews.filter(s => s.conflict_id === id).slice(0, 10);
+  const recentHeadlines = c.recent_headlines || [];
+  if (recentStories.length) {
+    recentPanel.innerHTML = recentStories.map(s => `
+      <div class="recent-story" onclick="window.open('${s.url}','_blank')">
+        <div class="recent-meta">
+          <span>${s.source}</span>
+          <span>${s.date}${s.time ? ' · ' + s.time : ''}</span>
+          <span style="text-transform:uppercase;letter-spacing:0.06em">${s.category}</span>
+        </div>
+        <div class="recent-headline">${s.headline}</div>
+      </div>
+    `).join('');
+  } else if (recentHeadlines.length) {
+    recentPanel.innerHTML = recentHeadlines.map(h => `
+      <div class="recent-story">
+        <div class="recent-meta"><span>${h.source}</span><span>${h.date}</span></div>
+        <div class="recent-headline">${h.headline}</div>
+      </div>
+    `).join('');
+  } else {
+    recentPanel.innerHTML = `<div style="color:var(--text-dim);font-size:13px;padding:1rem 0;">No recent stories found matching this situation.</div>`;
+  }
+
+  // Reset to history tab
+  switchTab('history');
+  document.getElementById('modal-backdrop').classList.add('open');
+  document.getElementById('modal-content').scrollTop = 0;
+}
+
+function openHistoryTopic(id) {
+  const h = allHistories.find(x => x.id === id);
+  if (!h) return;
+
+  const statusBadge = document.getElementById('modal-status-badge');
+  const CAT_LABELS = { geopolitics: 'Geopolitics', politics: 'Politics', business: 'Business' };
+  statusBadge.textContent = CAT_LABELS[h.category] || h.category;
+  statusBadge.className = 'status-badge ongoing';
+
+  document.getElementById('modal-signal-badge').style.display = 'none';
+  document.getElementById('modal-region').textContent = h.region;
+  document.getElementById('modal-title').textContent = h.name;
+  document.getElementById('modal-desc').textContent = h.summary || '';
+
+  // History panel
+  const historyPanel = document.getElementById('panel-history');
+  const lastIdx = h.history.length - 1;
+  historyPanel.innerHTML = `
+    <div class="history-sources">
+      <span style="color:var(--text-dim);margin-right:2px">Sources:</span>
+      ${(h.sources || []).map(s => `<span class="source-chip">${s}</span>`).join('')}
+    </div>
+    <div class="history-timeline">
+      ${h.history.map((item, i) => `
+        <div class="history-item ${i === lastIdx ? 'current' : ''}">
+          <div class="history-date">${item.date}</div>
+          <div class="history-dot"></div>
+          <div class="history-event">${item.event}</div>
+        </div>
+      `).join('')}
+    </div>
+  `;
+
+  // Timeline panel — reuse history as milestones
+  document.getElementById('panel-timeline').innerHTML = `<div style="color:var(--text-dim);font-size:13px;padding:1rem 0;">See Full History tab for the complete chronology of events.</div>`;
+
+  // Recent news panel
+  const recentPanel = document.getElementById('panel-recent');
+  const recentStories = allNews.filter(s => {
+    if (!h.history) return false;
+    const name = h.name.toLowerCase();
+    const text = (s.headline + ' ' + s.summary).toLowerCase();
+    return name.split(' ').filter(w => w.length > 4).some(w => text.includes(w));
+  }).slice(0, 8);
+  recentPanel.innerHTML = recentStories.length
+    ? recentStories.map(s => `
+        <div class="recent-story" onclick="window.open('${s.url}','_blank')">
+          <div class="recent-meta"><span>${s.source}</span><span>${s.date}</span></div>
+          <div class="recent-headline">${s.headline}</div>
+        </div>
+      `).join('')
+    : `<div style="color:var(--text-dim);font-size:13px;padding:1rem 0;">No recent stories found matching this topic.</div>`;
+
+  switchTab('history');
+  document.getElementById('modal-backdrop').classList.add('open');
+  document.getElementById('modal-content').scrollTop = 0;
+}
+  if (!e || e.target === document.getElementById('modal-backdrop')) {
+    document.getElementById('modal-backdrop').classList.remove('open');
+  }
+}
+
+// ─────────────────────────────────────────────
+// FILTERS
+// ─────────────────────────────────────────────
+document.getElementById('region-grid').addEventListener('click', e => {
+  const btn = e.target.closest('.region-btn');
+  if (!btn) return;
+  document.querySelectorAll('.region-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeRegion = btn.dataset.region;
+  renderStories(); renderStats();
+});
+
+document.getElementById('category-nav').addEventListener('click', e => {
+  const tab = e.target.closest('.nav-tab');
+  if (!tab) return;
+  document.querySelectorAll('.nav-tab').forEach(t => t.classList.remove('active'));
+  tab.classList.add('active');
+  activeCat = tab.dataset.cat;
+  renderStories();
+});
+
+document.getElementById('cat-filter').addEventListener('click', e => {
+  const btn = e.target.closest('.cat-btn');
+  if (!btn) return;
+  document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeCat = btn.dataset.cat;
+  renderStories();
+});
+
+function setDate(d) {
+  activeDate = d;
+  renderDatePills();
+  renderStories();
+  renderStats();
+}
+
+// ─────────────────────────────────────────────
+// DATE HELPERS
+// ─────────────────────────────────────────────
+function formatDate(d) {
+  const dt = new Date(d + 'T00:00:00Z');
+  const today = new Date(); today.setUTCHours(0,0,0,0);
+  const diff = Math.round((today - dt) / 86400000);
+  if (diff === 0) return 'Today';
+  if (diff === 1) return 'Yesterday';
+  return dt.toLocaleDateString('en-GB', { month: 'short', day: 'numeric', timeZone: 'UTC' });
+}
+function formatDateFull(d) {
+  const dt = new Date(d + 'T00:00:00Z');
+  return dt.toLocaleDateString('en-GB', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', timeZone: 'UTC' });
+}
+function formatTimestamp(ts) {
+  const d = new Date(ts);
+  return d.toLocaleString('en-GB', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+}
+
+// ─────────────────────────────────────────────
+// SAMPLE DATA (shown when JSON files not found)
+// ─────────────────────────────────────────────
+function getSampleNews() {
+  const today = new Date().toISOString().split('T')[0];
+  const yesterday = new Date(Date.now()-86400000).toISOString().split('T')[0];
+  return [
+    { headline:"EU Parliament debates new AI governance framework", summary:"European lawmakers are set to vote on a sweeping package of regulations that would impose strict transparency requirements on large AI models deployed across member states.", category:"politics", region:"EU", country:"EU", source:"Reuters", date:today, time:"08:14", url:"https://reuters.com", conflict_id:null },
+    { headline:"NATO allies increase Baltic defense spending", summary:"Alliance members bordering Russia have pledged additional military expenditure following security assessments at this week's Brussels summit.", category:"geopolitics", region:"EU", country:"Germany", source:"BBC News", date:today, time:"10:32", url:"https://bbc.com", conflict_id:"ukraine" },
+    { headline:"Germany's coalition faces budget deficit crisis", summary:"The governing three-party coalition is struggling to reconcile deep cuts demanded by the finance ministry with social spending commitments.", category:"politics", region:"EU", country:"Germany", source:"Financial Times", date:today, time:"07:55", url:"https://ft.com", conflict_id:null },
+    { headline:"Federal Reserve signals prolonged high rate environment", summary:"Fed Chair indicated rates will remain elevated well into 2025 citing persistent services inflation, sending equities sharply lower.", category:"business", region:"NA", country:"USA", source:"Bloomberg", date:today, time:"15:00", url:"https://bloomberg.com", conflict_id:null },
+    { headline:"US-China trade tensions escalate over EV tariffs", summary:"Washington has moved to impose sweeping tariffs on Chinese electric vehicles, with Beijing warning of reciprocal measures targeting American agriculture.", category:"geopolitics", region:"NA", country:"USA", source:"AP News", date:today, time:"11:20", url:"https://apnews.com", conflict_id:"us-china" },
+    { headline:"Mexico elections: ruling party wins majority", summary:"Claudia Sheinbaum's Morena party secured a commanding majority in congressional elections, giving the incoming president a strong mandate for reform.", category:"politics", region:"SA", country:"Mexico", source:"Reuters", date:today, time:"06:45", url:"https://reuters.com", conflict_id:null },
+    { headline:"Gaza ceasefire talks resume in Cairo", summary:"Negotiators from Hamas, Israel and mediating nations met in the Egyptian capital for renewed discussions on a hostage and ceasefire agreement.", category:"geopolitics", region:"MENA", country:"Israel/Gaza", source:"Al Jazeera", date:today, time:"13:10", url:"https://aljazeera.com", conflict_id:"israel-hamas" },
+    { headline:"Saudi Aramco cuts oil output amid demand uncertainty", summary:"The state energy giant announced a production reduction in line with OPEC+ targets as global oil demand forecasts are revised downward.", category:"business", region:"MENA", country:"Saudi Arabia", source:"Financial Times", date:today, time:"09:00", url:"https://ft.com", conflict_id:null },
+    { headline:"India-Pakistan border tensions rise after Kashmir incident", summary:"An exchange of fire along the Line of Control has prompted both governments to summon each other's envoys and place forces on heightened alert.", category:"geopolitics", region:"APJ", country:"India", source:"Reuters", date:today, time:"14:30", url:"https://reuters.com", conflict_id:"india-pakistan" },
+    { headline:"China's Evergrande liquidation triggers bond market tremors", summary:"A Hong Kong court order to liquidate the embattled developer has sent shockwaves through Chinese property bond markets and raised contagion fears.", category:"business", region:"APJ", country:"China", source:"Bloomberg", date:today, time:"05:10", url:"https://bloomberg.com", conflict_id:null },
+    { headline:"Japan's PM faces no-confidence vote after LDP scandal", summary:"Opposition parties have united to file a formal no-confidence motion following a funding scandal that has engulfed multiple senior Liberal Democratic Party members.", category:"politics", region:"APJ", country:"Japan", source:"BBC News", date:today, time:"08:00", url:"https://bbc.com", conflict_id:null },
+    { headline:"Brazil's central bank raises rates to tame inflation", summary:"The Banco do Brasil increased its benchmark Selic rate by 50 basis points, the second consecutive rise this year, amid currency weakness and sticky inflation.", category:"business", region:"SA", country:"Brazil", source:"Reuters", date:yesterday, time:"18:00", url:"https://reuters.com", conflict_id:null },
+    { headline:"Russia advances in eastern Ukraine as winter sets in", summary:"Russian forces have gained territory around Avdiivka as the conflict enters its third winter, with Ukrainian commanders acknowledging supply pressures.", category:"geopolitics", region:"EU", country:"Ukraine", source:"The Guardian", date:yesterday, time:"12:00", url:"https://theguardian.com", conflict_id:"ukraine" },
+    { headline:"UK general election: Labour extends polling lead", summary:"New polling shows Keir Starmer's Labour party ahead by 20 points as the Conservatives face internal divisions over immigration policy.", category:"politics", region:"EU", country:"UK", source:"BBC News", date:yesterday, time:"09:30", url:"https://bbc.com", conflict_id:null },
+  ];
+}
+
+function getSampleConflicts() {
+  return [
+    { id:"ukraine", name:"Russia–Ukraine War", region:"EU", status:"ongoing", description:"Full-scale Russian invasion of Ukraine began February 2022. Fighting is concentrated in eastern and southern regions. Peace negotiations remain stalled.", timeline:[{date:"Feb 2022",event:"Russia launches full-scale invasion"},{date:"Nov 2022",event:"Ukraine recaptures Kherson"},{date:"Jun 2023",event:"Ukrainian counteroffensive begins"},{date:"Feb 2024",event:"Russia advances on Avdiivka"}] },
+    { id:"israel-hamas", name:"Israel–Hamas Conflict", region:"MENA", status:"ongoing", description:"Military conflict in Gaza following Hamas attacks on October 7, 2023. Significant civilian casualties and humanitarian crisis. Ceasefire negotiations ongoing.", timeline:[{date:"Oct 2023",event:"Hamas attacks southern Israel; IDF launches Gaza operation"},{date:"Nov 2023",event:"Temporary ceasefire and hostage exchanges"},{date:"Jan 2024",event:"ICJ orders Israel to prevent genocide"},{date:"Mar 2024",event:"Ceasefire talks resume in Cairo"}] },
+    { id:"us-china", name:"US–China Trade War", region:"APJ", status:"ongoing", description:"Escalating economic and technology rivalry between the United States and China, featuring tariffs, export controls on semiconductors, and EV tariff disputes.", timeline:[{date:"2018",event:"Trump administration imposes first tariffs"},{date:"2022",event:"CHIPS Act passes; semiconductor export controls"},{date:"2024",event:"Biden imposes EV tariffs on Chinese vehicles"}] },
+    { id:"india-pakistan", name:"India–Pakistan Border Tensions", region:"APJ", status:"open", description:"Heightened military tensions along the Line of Control in Kashmir following recent exchange of fire. Both sides have put forces on alert.", timeline:[{date:"2019",event:"India revokes Article 370 in Kashmir"},{date:"2023",event:"Cross-border firing incidents increase"},{date:"Mar 2024",event:"Diplomatic envoys summoned after LoC incident"}] },
+    { id:"armenia-azerbaijan", name:"Nagorno-Karabakh", region:"MENA", status:"closed", description:"Decades-long dispute over the Nagorno-Karabakh enclave concluded with Azerbaijani military operations in September 2023 and the dissolution of the separatist government.", timeline:[{date:"1994",event:"Ceasefire ends first war"},{date:"2020",event:"44-day war; Azerbaijan regains territory"},{date:"Sep 2023",event:"Azerbaijan offensive; Karabakh government dissolved"}] },
+  ];
+}
+
+// ─────────────────────────────────────────────
+// INIT
+// ─────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>
