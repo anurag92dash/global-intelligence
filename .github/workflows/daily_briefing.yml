@@ -2,15 +2,17 @@ name: Daily Intelligence Briefing
 
 on:
   schedule:
-    # Runs every day at 06:00 UTC (11:30 IST)
     - cron: '0 6 * * *'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   fetch-news:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
+    env:
+      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
     steps:
       - name: Checkout repository
@@ -22,17 +24,27 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests feedparser python-dateutil
+        run: pip install feedparser python-dateutil requests
 
       - name: Fetch and process news
         env:
           NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
         run: python fetch_news.py
 
-      - name: Commit updated data
+      - name: Show output files
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          echo "=== news_data.json size ==="
+          wc -c news_data.json || echo "FILE NOT FOUND"
+          echo "=== conflicts_data.json size ==="
+          wc -c conflicts_data.json || echo "FILE NOT FOUND"
+          echo "=== first 500 chars of news_data.json ==="
+          head -c 500 news_data.json || echo "FILE NOT FOUND"
+
+      - name: Commit and push data files
+        run: |
+          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           git add news_data.json conflicts_data.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Daily briefing: $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git status
+          git diff --staged --quiet || git commit -m "Daily briefing: $(date -u '+%Y-%m-%d %H:%M UTC')"
           git push
