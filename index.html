@@ -683,12 +683,26 @@ const SIGNAL_LABEL = { escalating: '↑ Escalating', stable: '→ Stable', 'de-e
 // LOAD DATA
 // ─────────────────────────────────────────────
 async function loadData() {
-  const base = window.location.href.replace(/\/[^\/]*$/, '/');
-  const tryFetch = async (f) => {
-    try {
-      const r = await fetch(base + f + '?t=' + Date.now());
-      return r.ok ? r : null;
-    } catch(e) { return null; }
+  // Try multiple URL patterns — works on GitHub Pages, jsDelivr CDN, and locally
+  const REPO = 'anurag92dash/global-intelligence';
+  const BRANCH = 'main';
+  const CDN = 'https://cdn.jsdelivr.net/gh/' + REPO + '@' + BRANCH + '/';
+  const RAW = 'https://raw.githubusercontent.com/' + REPO + '/' + BRANCH + '/';
+
+  const tryFetch = async (filename) => {
+    // Try CDN first (cached, fast), then raw GitHub, then relative
+    const urls = [
+      CDN + filename + '?t=' + Date.now(),
+      RAW + filename + '?t=' + Date.now(),
+      filename + '?t=' + Date.now()
+    ];
+    for (const url of urls) {
+      try {
+        const r = await fetch(url);
+        if (r.ok) { console.log('Loaded ' + filename + ' from ' + url); return r; }
+      } catch(e) { console.warn('Failed ' + url + ': ' + e); }
+    }
+    return null;
   };
 
   const [newsRes, conflictsRes, historiesRes] = await Promise.all([
