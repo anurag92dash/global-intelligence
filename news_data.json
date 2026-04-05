@@ -1,8 +1,22 @@
 {
-  "updated": "2026-04-05T19:46:57.064623+00:00",
-  "story_count": 70,
-  "source_count": 9,
+  "updated": "2026-04-05T20:18:52.055627+00:00",
+  "story_count": 75,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-04-05-d9871603",
+      "headline": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "20:02",
+      "conflict_id": null,
+      "score": 60.0
+    },
     {
       "id": "2026-04-05-19c99ba1",
       "headline": "US rescues second fighter jet airman shot down over Iran",
@@ -18,16 +32,30 @@
       "score": 59.4
     },
     {
-      "id": "2026-04-05-9f736ae0",
-      "headline": "Seriously wounded US airman rescued from Iran, Trump says",
-      "summary": "The recovery of the airman follows separate search efforts by both the US and Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr41evk126go?at_medium=RSS&at_campaign=rss",
+      "id": "2026-04-05-5f13252c",
+      "headline": "Trump Revels in Threats to Commit War Crimes in Iran",
+      "summary": "The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html",
       "region": "NA",
-      "country": "Trump",
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "16:46",
+      "time": "20:15",
+      "conflict_id": null,
+      "score": 57.2
+    },
+    {
+      "id": "2026-04-05-15ac7b5f",
+      "headline": "How rescue of US airman in remote part of Iran unfolded",
+      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "20:00",
       "conflict_id": null,
       "score": 52.0
     },
@@ -60,34 +88,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-05-99f28af6",
-      "headline": "US Rescues Missing Airman as Iran Strikes Gulf Arab States",
-      "summary": "US forces rescued an airman from Iran more than a day after his fighter jet was shot down and President Donald Trump threatened to target the country’s infrastructure, while the Islamic Republic’s continued attacks damaged Kuwait’s oil headquarters and shut down an Emirati petrochemicals plant.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios",
-      "region": "NA",
-      "country": "Kuwait",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "03:49",
-      "conflict_id": null,
-      "score": 51.1
-    },
-    {
-      "id": "2026-04-05-03bebfe6",
-      "headline": "US Successfully Rescues Second Airman from Iran",
-      "summary": "Breaking News on Bloomberg This Weekend - there has been a successful rescue of a second US airman from Iran. Bloomberg's White House correspondent Jeff Mason and Bloomberg's Jerusalem reporter Dan Williams join hosts Christina Ruffini and Joe Mathieu and provide insight on the context and on going situation in Iran. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-05/us-successfully-rescues-second-airman-from-iran-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "12:44",
-      "conflict_id": null,
-      "score": 51.1
-    },
-    {
       "id": "2026-04-05-b46ddf1f",
       "headline": "A Harrowing Race Against Time to Find a Downed U.S. Airman in Iran",
       "summary": "For the Iranians, the Air Force colonel whose fighter jet had been shot down was possible leverage. For the U.S. military, finding him was a moral imperative.",
@@ -97,7 +97,7 @@
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "19:26",
+      "time": "19:45",
       "conflict_id": null,
       "score": 50.2
     },
@@ -116,6 +116,20 @@
       "score": 50.2
     },
     {
+      "id": "2026-04-05-ce08aee5",
+      "headline": "Zelenskyy warns US-Iran war could divert critical aid from Ukraine",
+      "summary": "President Zelenskyy has warned that a prolonged US-Israeli war with Iran is threatening the supply of vital Patriot missiles and boosting Russia’s economy through surging oil prices.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "07:23",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
       "id": "2026-04-05-ec7413e7",
       "headline": "OPEC+ agrees to hike oil output, warns of slow recovery after attacks",
       "summary": "The rise is largely symbolic as some key members are unable to raise ​production amid the US-Israel war on Iran.",
@@ -130,32 +144,32 @@
       "score": 47.4
     },
     {
-      "id": "2026-04-05-3e4c0ecb",
-      "headline": "Nepal announces two-day weekends as fuel crisis caused by Iran war deepens",
-      "summary": "Saturday had been the only day off in Himalayan nation, which relies almost entirely on India for its fuel supplies.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/nepal-announces-two-day-weekends-as-fuel-crisis-caused-by-iran-war-deepens?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
+      "id": "2026-04-05-3b0baca6",
+      "headline": "Iran war suspends Easter church gatherings in Dubai, but Christians remain defiant against attacks",
+      "summary": "Due to safety concerns as Iran’s attacks continue, churches in Dubai suspended Easter in-person masses to avoid large gatherings. Catholic Christians in the UAE and the Gulf have embraced Easter’s message with hope and defiance amid the constant threat.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/05/iran-war-suspends-easter-church-gatherings-in-dubai-but-christians-remain-defiant-against-",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "14:48",
+      "time": "13:46",
       "conflict_id": null,
-      "score": 47.4
+      "score": 45.0
     },
     {
-      "id": "2026-04-05-d7c15b00",
-      "headline": "Oman, Iran discuss smooth transit in Strait of Hormuz, Muscat says",
-      "summary": "The talks focus on a &#039;smooth passage&#039; through the Strait of Hormuz, as Tehran effectively blocks the vital waterway.",
+      "id": "2026-04-05-a7cf8b0f",
+      "headline": "Israeli air strike hits crowd in Gaza City",
+      "summary": "Several Palestinians were rushed to hospital with severe injuries after an Israeli air strike hit a crowd in Gaza City.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/5/oman-iran-discuss-smooth-transit-in-the-strait-of-hormuz-muscat-says?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israeli-air-strike-hits-crowd-in-gaza-city?traffic_source=rss",
       "region": "MENA",
-      "country": "Tehran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "12:18",
-      "conflict_id": null,
-      "score": 47.4
+      "time": "20:09",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-04-05-75623bfa",
@@ -172,20 +186,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-04-05-4d89a14b",
-      "headline": "OPEC+ Makes Symbolic Oil Hike, Sees Long Supply Hit From War",
-      "summary": "OPEC+ warned that damage to Middle East energy assets will have a prolonged impact on oil supply even after the Iran war ends, as it approved a symbolic increase in output quotas for next month.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "07:30",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-04-05-dae85bfa",
       "headline": "OPEC+ Plans Symbolic Oil Quota Hike for May",
       "summary": "Bloomberg News Equities Reporter Natalia Kniazhevich joins Joe Mathieu and Christina Ruffini on Bloomberg This Weekend to discuss the latest impact the war in Iran is having on the energy markets. Watch the show LIVE every Saturday and Sunday morning. (Source: Bloomberg)",
@@ -200,32 +200,32 @@
       "score": 42.1
     },
     {
-      "id": "2026-04-05-8fb8acc6",
-      "headline": "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
-      "summary": "Economist James Meadway says US President Donald Trump offers threats but no clear plan to end the crisis.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/4/5/trump-offers-no-concrete-plan-as-strait-of-hormuz-closure-shocks-europe?traffic_source=rss",
+      "id": "2026-04-05-8c2ef2d1",
+      "headline": "In first Easter blessing as pontiff, Pope Leo XIV urges those who can unleash wars to 'choose peace'",
+      "summary": "In his first Easter blessing, Pope Leo XIV urged \"those who have the power to unleash wars\" to \"choose peace\" as Christians around the world celebrate Easter Sunday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/05/in-first-easter-blessing-as-pontiff-pope-leo-xiv-urges-those-who-can-unleash-wars-to-choos",
       "region": "EU",
-      "country": "Europe",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "13:23",
+      "time": "17:22",
       "conflict_id": null,
-      "score": 39.4
+      "score": 37.0
     },
     {
-      "id": "2026-04-05-6015068c",
-      "headline": "Who is Viktor Orban, Hungarian PM fighting to stay in power after 16 years?",
-      "summary": "Since 2010, Orbán has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "geopolitics",
+      "id": "2026-04-05-01acb199",
+      "headline": "Trading Open Shadowed by Trump Escalation Threats: Markets Wrap",
+      "summary": "US President Donald Trump’s warning that he may significantly escalate the war in Iran, potentially worsening an energy-price shock that’s already upending the global economic outlook, is shadowing stock, bond and oil markets before the start of the trading week.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-05/trading-open-shadowed-by-trump-escalation-threats-markets-wrap",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
       "date": "2026-04-05",
-      "time": "17:04",
+      "time": "20:00",
       "conflict_id": null,
-      "score": 35.0
+      "score": 34.1
     },
     {
       "id": "2026-04-05-ffd911bb",
@@ -424,6 +424,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-04-05-375f229a",
+      "headline": "Australian Human Rights Commission investigates alleged racial discrimination by NSW government",
+      "summary": "South Asian Muslim and caste-oppressed Hindu community representatives accuse multiculturalism minister and department of discriminationGet our breaking news email, free app or daily news podcastThe Australian Human Rights Commission is investigating a complaint against the New South Wales multiculturalism minister and his department over allegations of racial discrimination against organisations representing south Asian Muslims and caste-oppress",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/05/alleged-racial-discrimination-by-nsw-government-investigated-by-human-rights-commission",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-04-05",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-04-05-afa5bba3",
       "headline": "Labour to back down on foie gras and fur bans to ease EU trade deal",
       "summary": "Exclusive: Animal welfare charities ‘bitterly disappointed’ UK government plans to backtrack on manifesto promisesThis article contains an image of a duck being force-fed that some readers may find upsettingThe UK government is to break a manifesto commitment to ban foie gras imports, and has declined to stop fur imports, after the EU made these red lines in its discussions for a trade deal.Animal welfare charities say they are “bitterly disappoi",
@@ -480,6 +494,48 @@
       "score": 22.8
     },
     {
+      "id": "2026-04-05-54e6b6c8",
+      "headline": "State medical insurance reform aims to expand access to healthcare",
+      "summary": "The reform will introduce digital referrals, a national health insurance fund and a guaranteed package of medical services funded through the state budget. Officials say the changes aim to improve efficiency, expand access and reduce informal payments.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/health/2026/04/05/state-medical-insurance-reform-aims-to-expand-access-to-healthcare",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "13:12",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-05-1e7b0f1f",
+      "headline": "Explosives found near gas pipeline connecting Serbia and Hungary, Vučić says",
+      "summary": "Serbian president Aleksandar Vučić has said that explosives were found by police near a pipeline that carries gas from Russia to Serbia and Hungary, but did not elaborate on potential suspects or their motives.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/05/serbian-president-explosives-found-near-gas-pipeline-to-hungary",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "11:04",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-05-80c3d839",
+      "headline": "Help or hinderance? Amateur archaeologist digs at German castle ruins without permission",
+      "summary": "Germany's cultural heritage community is embroiled in a row after an amateur archaeologist uncovered an ancient construction. The problem however is that he didn't have permission to dig at the site of Metilstein Castle near Eisenach.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/04/05/help-or-hinderance-amateur-archaeologist-digs-at-german-castle-ruins-without-permission",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "09:46",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-04-0a74c4a5",
       "headline": "What we know so far about the search for missing US airman in Iran",
       "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
@@ -505,7 +561,7 @@
       "date": "2026-04-04",
       "time": "17:29",
       "conflict_id": null,
-      "score": 57.2
+      "score": 58.2
     },
     {
       "id": "2026-04-04-c2cabb9c",
@@ -746,6 +802,20 @@
       "score": 24.9
     },
     {
+      "id": "2026-04-04-a2bbcf01",
+      "headline": "Meloni in the Gulf: harmony on gas and defence with Qatar, the Emirates and Saudi Arabia",
+      "summary": "The focus of the talks of Italian prime minister with Qatar, the Emirates and Saudi Arabia was the restoration of energy supplies and security in Hormuz. Italy offered technical support for affected infrastructure and defence against Iranian raids.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/04/meloni-in-the-gulf-harmony-on-gas-and-defence-with-qatar-the-emirates-and-saudi-arabia",
+      "region": "MENA",
+      "country": "Italy",
+      "category": "politics",
+      "date": "2026-04-04",
+      "time": "17:44",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-03-36927ab8",
       "headline": "Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member",
       "summary": "An F-15 fighter jet and an A-10 attack plane were lost to hostile fire. Two search-and-rescue helicopters also were hit, injuring the crews, before safely returning to their base, officials said.",
@@ -816,20 +886,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-02-fab8dd88",
-      "headline": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
-      "summary": "Yvette Cooper said coordinated diplomatic and economic measures are required to reopen the shipping lane.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-02",
-      "time": "17:15",
-      "conflict_id": null,
-      "score": 60.0
-    },
-    {
       "id": "2026-04-02-61987dad",
       "headline": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
       "summary": "There were some glaring omissions in the US president's primetime address, writes the BBC's Gary O'Donoghue.",
@@ -842,6 +898,20 @@
       "time": "03:22",
       "conflict_id": null,
       "score": 60.0
+    },
+    {
+      "id": "2026-04-02-fab8dd88",
+      "headline": "UK and allies discuss sanctions to stop Iran blocking Strait of Hormuz",
+      "summary": "Yvette Cooper said coordinated diplomatic and economic measures are required to reopen the shipping lane.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2d0md89v2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-02",
+      "time": "17:15",
+      "conflict_id": null,
+      "score": 59.0
     },
     {
       "id": "2026-04-02-c9d9ac21",
