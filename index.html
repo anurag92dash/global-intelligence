@@ -683,41 +683,43 @@ const SIGNAL_LABEL = { escalating: '↑ Escalating', stable: '→ Stable', 'de-e
 // LOAD DATA
 // ─────────────────────────────────────────────
 async function loadData() {
-  try {
-    const [newsRes, conflictsRes, historiesRes] = await Promise.all([
-      fetch('news_data.json').catch(() => null),
-      fetch('conflicts_data.json').catch(() => null),
-      fetch('histories.json').catch(() => null)
-    ]);
+  const base = window.location.href.replace(/\/[^\/]*$/, '/');
+  const tryFetch = async (f) => {
+    try {
+      const r = await fetch(base + f + '?t=' + Date.now());
+      return r.ok ? r : null;
+    } catch(e) { return null; }
+  };
 
-    if (newsRes && newsRes.ok) {
+  const [newsRes, conflictsRes, historiesRes] = await Promise.all([
+    tryFetch('news_data.json'),
+    tryFetch('conflicts_data.json'),
+    tryFetch('histories.json')
+  ]);
+
+  if (newsRes) {
+    try {
       const data = await newsRes.json();
       allNews = data.stories || [];
-      document.getElementById('last-updated').textContent = data.updated ? formatTimestamp(data.updated) : '—';
-    } else {
-      allNews = getSampleNews();
-      document.getElementById('last-updated').textContent = 'Sample data';
-    }
-
-    if (conflictsRes && conflictsRes.ok) {
-      allConflicts = await conflictsRes.json();
-    } else {
-      allConflicts = getSampleConflicts();
-    }
-
-    if (historiesRes && historiesRes.ok) {
-      allHistories = await historiesRes.json();
-    }
-
-    initDates();
-    renderAll();
-  } catch(e) {
+      document.getElementById('last-updated').textContent = data.updated ? formatTimestamp(data.updated) : 'Live';
+    } catch(e) { allNews = getSampleNews(); }
+  } else {
     allNews = getSampleNews();
-    allConflicts = getSampleConflicts();
     document.getElementById('last-updated').textContent = 'Sample data';
-    initDates();
-    renderAll();
   }
+
+  if (conflictsRes) {
+    try { allConflicts = await conflictsRes.json(); }
+    catch(e) { allConflicts = getSampleConflicts(); }
+  } else { allConflicts = getSampleConflicts(); }
+
+  if (historiesRes) {
+    try { allHistories = await historiesRes.json(); }
+    catch(e) { allHistories = []; }
+  }
+
+  initDates();
+  renderAll();
 }
 
 function initDates() {
