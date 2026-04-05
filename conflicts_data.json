@@ -1,0 +1,243 @@
+[
+  {
+    "id": "ukraine-war",
+    "name": "Russia–Ukraine War",
+    "region": "EU",
+    "status": "ongoing",
+    "auto_status": false,
+    "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
+    "status_signal": "escalating",
+    "last_activity": "2026-04-04",
+    "recent_headlines": [
+      {
+        "headline": "Fifteen dead in 'massive' Russian attack while Kyiv signals readiness for Easter ceasefire",
+        "source": "Euronews",
+        "date": "2026-04-04"
+      },
+      {
+        "headline": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
+        "source": "BBC News",
+        "date": "2026-04-04"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Feb 2022",
+        "event": "Russia launches full-scale invasion"
+      },
+      {
+        "date": "Nov 2022",
+        "event": "Ukraine recaptures Kherson"
+      },
+      {
+        "date": "Jun 2023",
+        "event": "Ukrainian counteroffensive begins"
+      },
+      {
+        "date": "Feb 2024",
+        "event": "Russia advances on Avdiivka"
+      }
+    ]
+  },
+  {
+    "id": "israel-hamas",
+    "name": "Israel–Hamas Conflict",
+    "region": "MENA",
+    "status": "ongoing",
+    "auto_status": false,
+    "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
+    "status_signal": "stable",
+    "last_activity": "2026-04-04",
+    "recent_headlines": [
+      {
+        "headline": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
+        "source": "Al Jazeera",
+        "date": "2026-04-04"
+      },
+      {
+        "headline": "Arrest of Wisconsin Mosque Leader Was Tied to Trump Antisemitism Campaign",
+        "source": "New York Times",
+        "date": "2026-04-04"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Oct 2023",
+        "event": "Hamas attacks; IDF launches Gaza operation"
+      },
+      {
+        "date": "Nov 2023",
+        "event": "Temporary ceasefire and hostage exchanges"
+      },
+      {
+        "date": "Jan 2024",
+        "event": "ICJ orders Israel to prevent genocide"
+      },
+      {
+        "date": "Mar 2024",
+        "event": "Cairo ceasefire talks resume"
+      }
+    ]
+  },
+  {
+    "id": "us-china-trade",
+    "name": "US–China Tech & Trade War",
+    "region": "APJ",
+    "status": "ongoing",
+    "auto_status": false,
+    "description": "Escalating economic and technology rivalry. Semiconductor controls, EV tariffs, Taiwan Strait tensions.",
+    "status_signal": "stable",
+    "last_activity": null,
+    "recent_headlines": [],
+    "timeline": [
+      {
+        "date": "2018",
+        "event": "Trump imposes first tariff wave"
+      },
+      {
+        "date": "2022",
+        "event": "CHIPS Act + semiconductor export controls"
+      },
+      {
+        "date": "2024",
+        "event": "Biden imposes EV tariffs on Chinese vehicles"
+      }
+    ]
+  },
+  {
+    "id": "india-pakistan",
+    "name": "India–Pakistan Tensions",
+    "region": "APJ",
+    "status": "open",
+    "auto_status": false,
+    "description": "Heightened tensions along the Line of Control in Kashmir.",
+    "status_signal": "stable",
+    "last_activity": "2026-04-04",
+    "recent_headlines": [
+      {
+        "headline": "Germany Among States Pushing EU to Tax Energy Windfall Profits",
+        "source": "Bloomberg",
+        "date": "2026-04-04"
+      },
+      {
+        "headline": "Trump Contemplates Other Cabinet Changes as He Faces Political Clock",
+        "source": "New York Times",
+        "date": "2026-04-04"
+      },
+      {
+        "headline": "One killed and buildings damaged as magnitude 7.4 earthquake strikes Indonesia",
+        "source": "The Guardian",
+        "date": "2026-04-02"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "2019",
+        "event": "India revokes Article 370"
+      },
+      {
+        "date": "2023",
+        "event": "Cross-border firing incidents increase"
+      },
+      {
+        "date": "2024",
+        "event": "Envoys summoned after LoC incident"
+      }
+    ]
+  },
+  {
+    "id": "sudan-civil-war",
+    "name": "Sudan Civil War",
+    "region": "MENA",
+    "status": "ongoing",
+    "auto_status": false,
+    "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
+    "status_signal": "stable",
+    "last_activity": "2026-04-05",
+    "recent_headlines": [
+      {
+        "headline": "Renters’ Rights Act brings big changes to UK property market",
+        "source": "Financial Times",
+        "date": "2026-04-05"
+      },
+      {
+        "headline": "What we know so far about the US fighter jet shot down over Iran",
+        "source": "BBC News",
+        "date": "2026-04-04"
+      },
+      {
+        "headline": "Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member",
+        "source": "Washington Post",
+        "date": "2026-04-03"
+      }
+    ],
+    "timeline": [
+      {
+        "date": "Apr 2023",
+        "event": "Fighting erupts between SAF and RSF"
+      },
+      {
+        "date": "Jun 2023",
+        "event": "RSF atrocities reported in El Fasher"
+      },
+      {
+        "date": "2024",
+        "event": "Over 8 million displaced; famine conditions"
+      }
+    ]
+  },
+  {
+    "id": "iran-tensions",
+    "name": "Iran Nuclear Tensions",
+    "region": "MENA",
+    "status": "ongoing",
+    "auto_status": false,
+    "description": "Iran enriches beyond JCPOA limits. IAEA access restricted. Regional proxy conflicts intensify.",
+    "status_signal": "stable",
+    "last_activity": null,
+    "recent_headlines": [],
+    "timeline": [
+      {
+        "date": "2018",
+        "event": "US withdraws from JCPOA"
+      },
+      {
+        "date": "2021",
+        "event": "Iran resumes 60% enrichment"
+      },
+      {
+        "date": "2023",
+        "event": "IAEA reports 83.7% enrichment"
+      },
+      {
+        "date": "2024",
+        "event": "Regional proxy escalation post-Gaza"
+      }
+    ]
+  },
+  {
+    "id": "nagorno-karabakh",
+    "name": "Nagorno-Karabakh",
+    "region": "MENA",
+    "status": "closed",
+    "auto_status": false,
+    "description": "Azerbaijani operations in Sep 2023 dissolved separatist government. Conflict concluded.",
+    "status_signal": "stable",
+    "last_activity": null,
+    "recent_headlines": [],
+    "timeline": [
+      {
+        "date": "1994",
+        "event": "Ceasefire ends first war"
+      },
+      {
+        "date": "2020",
+        "event": "44-day war; Azerbaijan regains territory"
+      },
+      {
+        "date": "Sep 2023",
+        "event": "Azerbaijan offensive; Karabakh government dissolved"
+      }
+    ]
+  }
+]
