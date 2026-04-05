@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-05T06:53:28.691823+00:00",
-  "story_count": 75,
+  "updated": "2026-04-05T10:34:36.463993+00:00",
+  "story_count": 74,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-04-05-a8993424",
-      "headline": "Iran war live: Trump confirms rescue of US officer, says ‘we got him’",
-      "summary": "Iran says US-Israeli attacks on the Mahshahr Petrochemical Zone have killed five and wounded 170.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/5/iran-war-live-tehran-rejects-trumps-ultimatum-fire-at-kuwait-oil-complex?traffic_source=rss",
-      "region": "NA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 64.4
-    },
     {
       "id": "2026-04-05-19c99ba1",
       "headline": "US rescues second fighter jet airman shot down over Iran",
@@ -32,18 +18,32 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-05-6ba9d865",
-      "headline": "Missing US Airman Rescued as Iran Steps Up Attacks on Neighbors",
-      "summary": "US forces rescued an airman who went missing on Friday after Iran downed an American fighter jet in the country, President Donald Trump said.",
+      "id": "2026-04-05-796a8ee6",
+      "headline": "US Rescues Missing Airman as Iran Strikes Persian Gulf States",
+      "summary": "US forces rescued an airman from Iran after his fighter jet was shot down, while the Islamic Republic’s continued attacks sparked fires that damaged Kuwait’s oil headquarters and shut down an Emirati petrochemicals plant.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios",
-      "region": "NA",
-      "country": "America",
+      "region": "MENA",
+      "country": "Kuwait",
       "category": "geopolitics",
       "date": "2026-04-05",
       "time": "03:49",
       "conflict_id": null,
       "score": 51.1
+    },
+    {
+      "id": "2026-04-05-738f3040",
+      "headline": "What we know so far about rescue of US airman in Iran",
+      "summary": "The US has rescued the missing crew member of the US F-15 fighter jet which was shot down over southern Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "10:07",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-04-05-06224a2d",
@@ -55,9 +55,37 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "06:37",
+      "time": "07:03",
       "conflict_id": null,
       "score": 50.2
+    },
+    {
+      "id": "2026-04-05-ce08aee5",
+      "headline": "Zelenskyy warns US-Iran war could divert critical aid from Ukraine",
+      "summary": "President Zelenskyy has warned that a prolonged US-Israeli war with Iran is threatening the supply of vital Patriot missiles and boosting Russia’s economy through surging oil prices.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "07:23",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
+      "id": "2026-04-05-de913eaf",
+      "headline": "US pilot from downed F-15E plane rescued in Iran: What we know",
+      "summary": "The second pilot from the fighter jet shot down in Iran is rescued by US rescue forces after 48 hours.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/5/us-pilot-from-downed-f-15-plane-rescued-in-iran-what-we-know?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "10:10",
+      "conflict_id": null,
+      "score": 48.4
     },
     {
       "id": "2026-04-05-ca54d85d",
@@ -74,18 +102,18 @@
       "score": 46.8
     },
     {
-      "id": "2026-04-05-a0a919cc",
-      "headline": "Chinese coal miners eye comeback as Iran war shakes energy market",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/chinese-coal-miners-eye-comeback-as-iran-war-shakes-energy-market",
+      "id": "2026-04-05-b7a8d3a8",
+      "headline": "Footage shows IDF military dog attacking Palestinian man inside mosque",
+      "summary": "CCTV footage circulated online shows the moment that an Israeli military dog attacks a worshipper leaving a mosque",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/footage-shows-idf-military-dog-attacking-palestinian-man-inside-mosque?traffic_source=rss",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "",
-      "conflict_id": null,
-      "score": 46.8
+      "time": "10:04",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-04-05-2d9a0ee0",
@@ -144,34 +172,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-05-43136495",
-      "headline": "UK courts Anthropic to expand in London after US defence clash",
-      "summary": "Keir Starmer’s government steps up efforts to get American AI start-up to grow its presence in Britain",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5",
-      "region": "EU",
-      "country": "Britain",
-      "category": "politics",
-      "date": "2026-04-05",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-04-05-ed9455cd",
-      "headline": "400% gains for AI stocks help drive Hong Kong IPOs to 5-year high",
-      "summary": "Deal backlogs and stricter quality controls are pushing some tech firms back to mainland Chinese listings",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/77736111-3975-41a7-a0a3-d9d482ea2679",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "business",
-      "date": "2026-04-05",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-04-05-95e5f1f6",
       "headline": "Renters’ Rights Act brings big changes to UK property market",
       "summary": "New rules aim to provide safety and security for tenants, but landlords are anxious",
@@ -180,6 +180,34 @@
       "region": "EU",
       "country": null,
       "category": "business",
+      "date": "2026-04-05",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-04-05-25498120",
+      "headline": "Campaign to curb cars in Berlin sparks uproar ahead of election",
+      "summary": "Conservatives and far right are opposing a citizens’ initiative to restrict traffic in the German capital",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8ac85c84-7947-4ed0-8c41-12733b71c88d",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-05",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-04-05-43136495",
+      "headline": "UK courts Anthropic to expand in London after US defence clash",
+      "summary": "Keir Starmer’s government steps up efforts to get American AI start-up to grow its presence in Britain",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6bfd7b59-5e63-4a4d-ab55-7c2bd39b05a5",
+      "region": "EU",
+      "country": "Britain",
+      "category": "politics",
       "date": "2026-04-05",
       "time": "04:00",
       "conflict_id": null,
@@ -198,6 +226,48 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-04-05-1f6e8f85",
+      "headline": "Why McDonald’s and KFC are growing like wildfire in China",
+      "summary": "Western fast-food brands are expanding into the countryside",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/05/why-mcdonalds-and-kfc-are-growing-like-wildfire-in-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "08:30",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
+      "id": "2026-04-05-be163b7b",
+      "headline": "More Drivers Are Showing an Interest in Electric Vehicles",
+      "summary": "From the gas pump to the auto show, drivers are talking about electric vehicles.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/05/us/twelve-dollars-for-two-gallons-evs-lure-drivers-as-gas-prices-rise.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-04-05-a7de84e4",
+      "headline": "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly",
+      "summary": "The architect of President Trump’s mass deportation campaign wants “a moratorium on immigration from third world countries until we can heal ourselves as a nation.” The chaos in Minneapolis has not pushed him off that course.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/05/us/politics/stephen-miller-immigration-agenda.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-05",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-04-05-69a08aee",
@@ -226,6 +296,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-04-05-80c3d839",
+      "headline": "Help or hinderance? Amateur archaeologist digs at German castle ruins without permission",
+      "summary": "Germany's cultural heritage community is embroiled in a row after an amateur archaeologist uncovered an ancient construction. The problem however is that he didn't have permission to dig at the site of Metilstein Castle near Eisenach.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/04/05/help-or-hinderance-amateur-archaeologist-digs-at-german-castle-ruins-without-permission",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "09:46",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-04-05-561b3a2c",
@@ -284,6 +368,20 @@
       "score": 64.4
     },
     {
+      "id": "2026-04-04-0a74c4a5",
+      "headline": "What we know so far about the search for missing US airman in Iran",
+      "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-04-04",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 60.0
+    },
+    {
       "id": "2026-04-04-96d2f148",
       "headline": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
       "summary": "President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.",
@@ -312,48 +410,6 @@
       "score": 54.0
     },
     {
-      "id": "2026-04-04-a74ed127",
-      "headline": "What we know so far about the US fighter jet shot down over Iran",
-      "summary": "The pilot of the downed jet has been safely rescued, but a search and rescue operation is still under way for the jet's second crew member, US media reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2k1dgz142o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-04",
-      "time": "20:06",
-      "conflict_id": null,
-      "score": 52.0
-    },
-    {
-      "id": "2026-04-04-da427e8c",
-      "headline": "Italy’s Meloni meets Qatar emir to discuss energy issues amid Iran war",
-      "summary": "Prime Minister Meloni is the first EU and NATO country leader to visit the region since the war began.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/4/italys-meloni-meets-qatar-emir-to-discuss-energy-issues-amid-iran-war?traffic_source=rss",
-      "region": "EU",
-      "country": "Italy",
-      "category": "politics",
-      "date": "2026-04-04",
-      "time": "17:39",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-04-04-59ba6399",
-      "headline": "Vehicle engulfed in flames after Israeli drone strike in central Gaza",
-      "summary": "Palestinians in Gaza scrambled to extinguish a vehicle engulfed in flames after it was targeted by an Israeli drone.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/4/vehicle-engulfed-in-flames-after-israeli-drone-strike-in-central-gaza?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-04",
-      "time": "18:43",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
       "id": "2026-04-04-c2cabb9c",
       "headline": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
       "summary": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
@@ -366,20 +422,6 @@
       "time": "08:34",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-04-45f05147",
-      "headline": "Germany Among States Pushing EU to Tax Energy Windfall Profits",
-      "summary": "Five European Union members urged the bloc to tax windfall profits energy ​companies are reaping as a result of the US-Israeli war on Iran.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-04/five-eu-states-call-for-energy-windfall-profit-tax-reuters-says",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-04-04",
-      "time": "07:49",
-      "conflict_id": null,
-      "score": 42.1
     },
     {
       "id": "2026-04-04-fd467882",
@@ -480,18 +522,18 @@
       "score": 31.4
     },
     {
-      "id": "2026-04-04-614eb081",
-      "headline": "Five EU ministers call for new windfall tax on energy profits amid price surge",
-      "summary": "Economy and finance ministers from Italy, Germany, Spain, Portugal and Austria are asking the EU for a tax on energy surplus profits to curb price increases.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/04/letter-to-eu-from-five-member-states-tax-extra-profits-of-energy-companies",
+      "id": "2026-04-04-c1c002c4",
+      "headline": "AI videos fuel rhetoric as Orbán bids for four more years in Hungary",
+      "summary": "Videos have targeted Viktor Orbán's election rival, who could unseat him after 16 years in office.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yj97yd6v5o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Portugal",
+      "country": "Hungary",
       "category": "politics",
       "date": "2026-04-04",
-      "time": "10:40",
+      "time": "23:15",
       "conflict_id": null,
-      "score": 29.0
+      "score": 27.0
     },
     {
       "id": "2026-04-04-923af425",
@@ -504,20 +546,6 @@
       "category": "politics",
       "date": "2026-04-04",
       "time": "18:30",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-04-686f1176",
-      "headline": "Senegal bans ministers from foreign travel as oil price rise bites",
-      "summary": "The fuel cost is nearly double what the government budgeted for putting pressure on stretched finances.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp84z5r4d32o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-04",
-      "time": "10:15",
       "conflict_id": null,
       "score": 27.0
     },
@@ -536,20 +564,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-04-a499addb",
-      "headline": "Sleijpen Says ECB Discussion Will Be Rate Hike or Hold: Podcast",
-      "summary": "The European Central Bank’s next discussion will between increasing interest rates or holding them steady, according to Governing Council member Olaf Sleijpen.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-04/sleijpen-says-ecb-discussion-will-be-rate-hike-or-hold-podcast",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-04-04",
-      "time": "18:02",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-04-849e334d",
       "headline": "Pakistan Says It Will Repay Matured Loan Deposits to UAE",
       "summary": "Pakistan will return matured loan deposits to the United Arab Emirates, in a move that will strain the South Asian nation’s reserves.",
@@ -564,6 +578,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-04-04-a499addb",
+      "headline": "Sleijpen Says ECB Discussion Will Be Rate Hike or Hold: Podcast",
+      "summary": "The European Central Bank’s next discussion will between increasing interest rates or holding them steady, according to Governing Council member Olaf Sleijpen.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-04/sleijpen-says-ecb-discussion-will-be-rate-hike-or-hold-podcast",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-04-04",
+      "time": "18:02",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-04-446901bf",
       "headline": "NATO's Rutte to Meet With Trump Next Week",
       "summary": "Former US Ambassador to NATO Ivo Daalder joins Christina Ruffini and Joe Mathieu on Bloomberg This Weekend to discuss NATO Secretary General Mark Rutte's upcoming visit with US President Trump following his latest threats to withdraw the US from the organization. (Source: Bloomberg)",
@@ -574,6 +602,20 @@
       "category": "politics",
       "date": "2026-04-04",
       "time": "16:12",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-04-de56490c",
+      "headline": "France to Offer Loans to Small Businesses Hit by Fuel Costs",
+      "summary": "The French government will offer loans of as much as €50,000 ($57,600) to small businesses that are the most exposed to rising fuel costs in transportation, fishing and agriculture.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-04/france-to-offer-loans-to-small-businesses-hit-by-fuel-costs",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-04-04",
+      "time": "07:08",
       "conflict_id": null,
       "score": 26.1
     },
@@ -632,20 +674,6 @@
       "time": "00:21",
       "conflict_id": null,
       "score": 24.9
-    },
-    {
-      "id": "2026-04-04-30267dbd",
-      "headline": "Italian council buys Mussolini’s villa to keep it away from ‘fascist nostalgics’",
-      "summary": "Riccione’s leftwing mayor, Daniela Angelini, says public purchase is victory for town and ‘act of love and vision’An Italian council has bought a villa where Benito Mussolini spent his summer holidays, partly to avoid the property falling into the hands of “fascist nostalgics”.Daniela Angelini, the leftwing mayor of Riccione, a town close to Rimini along Italy’s Adriatic coast, said the acquisition of Villa Mussolini through an auction was “an ac",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/04/italian-council-buys-mussolini-villa-riccione-fascist-nostalgics",
-      "region": "EU",
-      "country": "Italy",
-      "category": "business",
-      "date": "2026-04-04",
-      "time": "08:00",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-04-04-a2bbcf01",
@@ -760,34 +788,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-04-03-9fb815c8",
-      "headline": "How Trump came to re-endorse a Republican congressman he had just ditched",
-      "summary": "House leaders and lobbyists rallied around Rep. Jeff Hurd (Colorado) after Trump, angry about Hurd’s vote against tariffs, withdrew support for his reelection.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/03/trump-jeff-hurd-endorsement/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-03",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-04-03-2d737c62",
-      "headline": "Trump seeks $1.5tn for defence alongside domestic spending cuts",
-      "summary": "The US president's new budget would cut non-defence spending by 10%, partly by slashing domestic programmes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crr1q4kjvn2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-03",
-      "time": "15:45",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-04-03-2eb068fd",
       "headline": "Italy's Uffizi Galleries targeted in cyber-attack but deny security breach",
       "summary": "Hackers were reported to have infiltrated IT systems - but the gallery says its works are safe.",
@@ -900,6 +900,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-04-02-f8c60d7b",
+      "headline": "What to know about Acting Attorney General Todd Blanche",
+      "summary": "The former prosecutor has a long-standing relationship with President Trump, having represented him in the criminal hush-money case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c747w0zejzmo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-02",
+      "time": "21:44",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-04-02-2ec24ae7",
       "headline": "Macron calls Trump's remarks on his marriage 'inelegant'",
       "summary": "French President Emmanuel Macron has said Donald Trump's comments about his marriage were \"neither elegant nor up to standard\".",
@@ -928,34 +942,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-02-c0985974",
-      "headline": "Alleged maple syrup scam in Quebec uncovered by Canadian broadcaster",
-      "summary": "A Radio-Canada reporter noticed his maple syrup tasted odd; testing revealed it was adulterated with cane sugarAn investigation by Canada’s national broadcaster has found that a major Quebec producer has been diluting its maple syrup with cane sugar and selling the fraudulent product to grocery chains.In a sting operation that involved false identities and covert recordings, journalists from Radio-Canada’s Enquête programme found that a low-cost ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/maple-syrup-scam-quebec-canada",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-04-02",
-      "time": "19:07",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-04-02-eee886f9",
-      "headline": "New Zealand signs defence pact with Cook Islands after quarrel over China deal",
-      "summary": "Agreement comes after Wellington halted millions in aid to its former colony after Cook Islands formed strategic partnership with Beijing  New Zealand and the Cook Islands have signed a defence and security declaration, ending a year-long diplomatic row that erupted after the Cook Islands struck strategic agreements with China.The Cook Islands was a dependent New Zealand colony from 1901-65 but has since operated as a self-governing nation in “fr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/02/new-zealand-cook-islands-defense",
-      "region": "APJ",
-      "country": "New Zealand",
-      "category": "geopolitics",
-      "date": "2026-04-02",
-      "time": "01:55",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-04-01-1d1d4fa8",
       "headline": "Asia ramps up use of dirty fuels to cover energy shortfall triggered by Iran war",
       "summary": "South Korea will delay the shutdown of coal-fired plants, while the Philippines also plans to boost the output of its coal-burning plantsGovernments across Asia are ramping up their use of coal, the dirtiest fossil fuel, as they try to cover huge energy shortfalls triggered by the US-Israel war on Iran.The move has triggered warnings from climate experts who point to coal’s devastating environmental impact, and say the energy crisis should be a w",
@@ -967,7 +953,7 @@
       "date": "2026-04-01",
       "time": "05:05",
       "conflict_id": null,
-      "score": 56.0
+      "score": 48.0
     },
     {
       "id": "2026-04-01-52a029ca",
