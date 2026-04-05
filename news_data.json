@@ -1,8 +1,22 @@
 {
-  "updated": "2026-04-05T21:20:02.794222+00:00",
-  "story_count": 72,
-  "source_count": 9,
+  "updated": "2026-04-05T21:51:42.850539+00:00",
+  "story_count": 75,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-04-05-d9871603",
+      "headline": "Analysis: Trump declares victory in Iran war after rescue, but threats to US operation still loom",
+      "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy01vg7x5ppo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "20:02",
+      "conflict_id": null,
+      "score": 60.0
+    },
     {
       "id": "2026-04-05-19c99ba1",
       "headline": "US rescues second fighter jet airman shot down over Iran",
@@ -113,7 +127,21 @@
       "date": "2026-04-05",
       "time": "15:26",
       "conflict_id": null,
-      "score": 50.2
+      "score": 49.2
+    },
+    {
+      "id": "2026-04-05-ce08aee5",
+      "headline": "Zelenskyy warns US-Iran war could divert critical aid from Ukraine",
+      "summary": "President Zelenskyy has warned that a prolonged US-Israeli war with Iran is threatening the supply of vital Patriot missiles and boosting Russia’s economy through surging oil prices.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "07:23",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-04-05-ec7413e7",
@@ -128,6 +156,20 @@
       "time": "17:33",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-04-05-3b0baca6",
+      "headline": "Iran war suspends Easter church gatherings in Dubai, but Christians remain defiant against attacks",
+      "summary": "Due to safety concerns as Iran’s attacks continue, churches in Dubai suspended Easter in-person masses to avoid large gatherings. Catholic Christians in the UAE and the Gulf have embraced Easter’s message with hope and defiance amid the constant threat.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/05/iran-war-suspends-easter-church-gatherings-in-dubai-but-christians-remain-defiant-against-",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "13:46",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-04-05-6f5d5550",
@@ -200,18 +242,18 @@
       "score": 42.1
     },
     {
-      "id": "2026-04-05-6015068c",
-      "headline": "Who is Viktor Orban, Hungarian PM fighting to stay in power after 16 years?",
-      "summary": "Since 2010, Orbán has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-04-05-8c2ef2d1",
+      "headline": "In first Easter blessing as pontiff, Pope Leo XIV urges those who can unleash wars to 'choose peace'",
+      "summary": "In his first Easter blessing, Pope Leo XIV urged \"those who have the power to unleash wars\" to \"choose peace\" as Christians around the world celebrate Easter Sunday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/05/in-first-easter-blessing-as-pontiff-pope-leo-xiv-urges-those-who-can-unleash-wars-to-choos",
       "region": "EU",
-      "country": "Hungary",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "17:04",
+      "time": "17:22",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
     },
     {
       "id": "2026-04-05-01acb199",
@@ -508,18 +550,46 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-04-0a74c4a5",
-      "headline": "What we know so far about the search for missing US airman in Iran",
-      "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c7vqlr5gqr0o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-04",
-      "time": "11:00",
+      "id": "2026-04-05-54e6b6c8",
+      "headline": "State medical insurance reform aims to expand access to healthcare",
+      "summary": "The reform will introduce digital referrals, a national health insurance fund and a guaranteed package of medical services funded through the state budget. Officials say the changes aim to improve efficiency, expand access and reduce informal payments.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/health/2026/04/05/state-medical-insurance-reform-aims-to-expand-access-to-healthcare",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "13:12",
       "conflict_id": null,
-      "score": 60.0
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-05-1e7b0f1f",
+      "headline": "Explosives found near gas pipeline connecting Serbia and Hungary, Vučić says",
+      "summary": "Serbian president Aleksandar Vučić has said that explosives were found by police near a pipeline that carries gas from Russia to Serbia and Hungary, but did not elaborate on potential suspects or their motives.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/05/serbian-president-explosives-found-near-gas-pipeline-to-hungary",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "11:04",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-05-80c3d839",
+      "headline": "Help or hinderance? Amateur archaeologist digs at German castle ruins without permission",
+      "summary": "Germany's cultural heritage community is embroiled in a row after an amateur archaeologist uncovered an ancient construction. The problem however is that he didn't have permission to dig at the site of Metilstein Castle near Eisenach.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/04/05/help-or-hinderance-amateur-archaeologist-digs-at-german-castle-ruins-without-permission",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "09:46",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-04-04-96d2f148",
@@ -560,20 +630,6 @@
       "category": "geopolitics",
       "date": "2026-04-04",
       "time": "21:16",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-04-a4f16e10",
-      "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-04",
-      "time": "06:42",
       "conflict_id": null,
       "score": 35.0
     },
@@ -746,20 +802,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-04-04-a1b9d0e3",
-      "headline": "Arrest of Wisconsin Mosque Leader Was Tied to Trump Antisemitism Campaign",
-      "summary": "Immigration lawyers and former federal officials say the case of Salah Sarsour echoes those against other pro-Palestinian activists.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/03/us/wisconsin-mosque-leader-antisemitism.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-04",
-      "time": "03:04",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-04-04-fae5dfb7",
       "headline": "Todd Blanche takes on DOJ’s top job and the burden of Trump’s expectations",
       "summary": "After Trump ousted Pam Bondi, her deputy is set to lead the department — and take on many of the same challenges.",
@@ -774,18 +816,18 @@
       "score": 24.9
     },
     {
-      "id": "2026-04-03-36927ab8",
-      "headline": "Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member",
-      "summary": "An F-15 fighter jet and an A-10 attack plane were lost to hostile fire. Two search-and-rescue helicopters also were hit, injuring the crews, before safely returning to their base, officials said.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/04/03/f-15-crash-iran-missing/",
+      "id": "2026-04-04-a2bbcf01",
+      "headline": "Meloni in the Gulf: harmony on gas and defence with Qatar, the Emirates and Saudi Arabia",
+      "summary": "The focus of the talks of Italian prime minister with Qatar, the Emirates and Saudi Arabia was the restoration of energy supplies and security in Hormuz. Italy offered technical support for affected infrastructure and defence against Iranian raids.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/04/meloni-in-the-gulf-harmony-on-gas-and-defence-with-qatar-the-emirates-and-saudi-arabia",
       "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-03",
-      "time": "21:49",
+      "country": "Italy",
+      "category": "politics",
+      "date": "2026-04-04",
+      "time": "17:44",
       "conflict_id": null,
-      "score": 57.9
+      "score": 21.0
     },
     {
       "id": "2026-04-03-49177b9e",
