@@ -1016,6 +1016,8 @@ function openHistoryTopic(id) {
   document.getElementById('modal-backdrop').classList.add('open');
   document.getElementById('modal-content').scrollTop = 0;
 }
+
+function closeModal(e) {
   if (!e || e.target === document.getElementById('modal-backdrop')) {
     document.getElementById('modal-backdrop').classList.remove('open');
   }
