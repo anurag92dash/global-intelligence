@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-05T19:07:55.165399+00:00",
-  "story_count": 74,
-  "source_count": 10,
+  "updated": "2026-04-05T19:32:58.837435+00:00",
+  "story_count": 70,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-04-05-19c99ba1",
@@ -88,6 +88,20 @@
       "score": 51.1
     },
     {
+      "id": "2026-04-05-b46ddf1f",
+      "headline": "A Harrowing Race Against Time to Find a Downed U.S. Airman in Iran",
+      "summary": "For the Iranians, the Air Force colonel whose fighter jet had been shot down was possible leverage. For the U.S. military, finding him was a moral imperative.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "19:26",
+      "conflict_id": null,
+      "score": 50.2
+    },
+    {
       "id": "2026-04-05-9eb2b7d0",
       "headline": "U.S. Rescues Missing Air Force Officer Whose Fighter Jet Was Downed by Iran",
       "summary": "An Air Force officer of a F-15E Strike Eagle shot down on Friday by Iran spent a day in hostile territory with little more than a pistol for protection.",
@@ -100,20 +114,6 @@
       "time": "15:26",
       "conflict_id": null,
       "score": 50.2
-    },
-    {
-      "id": "2026-04-05-ce08aee5",
-      "headline": "Zelenskyy warns US-Iran war could divert critical aid from Ukraine",
-      "summary": "President Zelenskyy has warned that a prolonged US-Israeli war with Iran is threatening the supply of vital Patriot missiles and boosting Russia’s economy through surging oil prices.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/05/zelenskyy-warns-us-iran-war-could-divert-critical-aid-from-ukraine",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "07:23",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
     },
     {
       "id": "2026-04-05-ec7413e7",
@@ -158,6 +158,20 @@
       "score": 47.4
     },
     {
+      "id": "2026-04-05-75623bfa",
+      "headline": "Israel continues deadly attacks on Gaza while striking Iran, Lebanon",
+      "summary": "Israel has kept up its attacks on Gaza while striking Iran and Lebanon, killing at least four Palestinians on Sunday.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "18:36",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
       "id": "2026-04-05-4d89a14b",
       "headline": "OPEC+ Makes Symbolic Oil Hike, Sees Long Supply Hit From War",
       "summary": "OPEC+ warned that damage to Middle East energy assets will have a prolonged impact on oil supply even after the Iran war ends, as it approved a symbolic increase in output quotas for next month.",
@@ -186,20 +200,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-04-05-1e025755",
-      "headline": "Mearsheimer: No signs of quick end to US-Israel war on Iran",
-      "summary": "US political scientist John Mearsheimer argues Israel, not Iran, is the Middle East country that is ‘highly aggressive’.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/4/5/mearsheimer-no-signs-of-quick-end-to-us-israel-war-on-iran?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "15:21",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-04-05-8fb8acc6",
       "headline": "Trump offers no concrete plan as Strait of Hormuz closure shocks Europe",
       "summary": "Economist James Meadway says US President Donald Trump offers threats but no clear plan to end the crisis.",
@@ -214,32 +214,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-04-05-8c2ef2d1",
-      "headline": "In first Easter blessing as pontiff, Pope Leo XIV urges those who can unleash wars to 'choose peace'",
-      "summary": "In his first Easter blessing, Pope Leo XIV urged \"those who have the power to unleash wars\" to \"choose peace\" as Christians around the world celebrate Easter Sunday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/05/in-first-easter-blessing-as-pontiff-pope-leo-xiv-urges-those-who-can-unleash-wars-to-choos",
+      "id": "2026-04-05-6015068c",
+      "headline": "Who is Viktor Orban, Hungarian PM fighting to stay in power after 16 years?",
+      "summary": "Since 2010, Orbán has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": null,
+      "country": "Hungary",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "17:22",
+      "time": "17:04",
       "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-04-05-c3774c7d",
-      "headline": "High Gas Prices Push More Drivers to Consider EVs",
-      "summary": "From the gas pump to the auto show, drivers are talking about electric vehicles.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/05/us/gas-prices-iran-oil-electric-vehicles.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-05",
-      "time": "09:01",
-      "conflict_id": null,
-      "score": 33.2
+      "score": 35.0
     },
     {
       "id": "2026-04-05-ffd911bb",
@@ -382,6 +368,20 @@
       "score": 25.8
     },
     {
+      "id": "2026-04-05-c3774c7d",
+      "headline": "High Gas Prices Push More Drivers to Consider EVs",
+      "summary": "From the gas pump to the auto show, drivers are talking about electric vehicles.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/05/us/gas-prices-iran-oil-electric-vehicles.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-04-05-a7de84e4",
       "headline": "Stephen Miller Is Still Pursuing His Immigration Agenda, but More Quietly",
       "summary": "The architect of President Trump’s mass deportation campaign wants “a moratorium on immigration from third world countries until we can heal ourselves as a nation.” The chaos in Minneapolis has not pushed him off that course.",
@@ -480,48 +480,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-05-54e6b6c8",
-      "headline": "State medical insurance reform aims to expand access to healthcare",
-      "summary": "The reform will introduce digital referrals, a national health insurance fund and a guaranteed package of medical services funded through the state budget. Officials say the changes aim to improve efficiency, expand access and reduce informal payments.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/health/2026/04/05/state-medical-insurance-reform-aims-to-expand-access-to-healthcare",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-05",
-      "time": "13:12",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-04-05-1e7b0f1f",
-      "headline": "Explosives found near gas pipeline connecting Serbia and Hungary, Vučić says",
-      "summary": "Serbian president Aleksandar Vučić has said that explosives were found by police near a pipeline that carries gas from Russia to Serbia and Hungary, but did not elaborate on potential suspects or their motives.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/05/serbian-president-explosives-found-near-gas-pipeline-to-hungary",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "business",
-      "date": "2026-04-05",
-      "time": "11:04",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-04-05-80c3d839",
-      "headline": "Help or hinderance? Amateur archaeologist digs at German castle ruins without permission",
-      "summary": "Germany's cultural heritage community is embroiled in a row after an amateur archaeologist uncovered an ancient construction. The problem however is that he didn't have permission to dig at the site of Metilstein Castle near Eisenach.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/04/05/help-or-hinderance-amateur-archaeologist-digs-at-german-castle-ruins-without-permission",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-04-05",
-      "time": "09:46",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-04-0a74c4a5",
       "headline": "What we know so far about the search for missing US airman in Iran",
       "summary": "US and Iranian forces are searching for a missing American crew member after a US warplane was shot down.",
@@ -547,7 +505,7 @@
       "date": "2026-04-04",
       "time": "17:29",
       "conflict_id": null,
-      "score": 58.2
+      "score": 57.2
     },
     {
       "id": "2026-04-04-c2cabb9c",
@@ -574,6 +532,20 @@
       "category": "geopolitics",
       "date": "2026-04-04",
       "time": "21:16",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-04-a4f16e10",
+      "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
+      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-04",
+      "time": "06:42",
       "conflict_id": null,
       "score": 35.0
     },
@@ -774,20 +746,6 @@
       "score": 24.9
     },
     {
-      "id": "2026-04-04-a2bbcf01",
-      "headline": "Meloni in the Gulf: harmony on gas and defence with Qatar, the Emirates and Saudi Arabia",
-      "summary": "The focus of the talks of Italian prime minister with Qatar, the Emirates and Saudi Arabia was the restoration of energy supplies and security in Hormuz. Italy offered technical support for affected infrastructure and defence against Iranian raids.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/04/meloni-in-the-gulf-harmony-on-gas-and-defence-with-qatar-the-emirates-and-saudi-arabia",
-      "region": "MENA",
-      "country": "Italy",
-      "category": "politics",
-      "date": "2026-04-04",
-      "time": "17:44",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-03-36927ab8",
       "headline": "Two U.S. warplanes shot down; search ongoing in Iran for 1 missing crew member",
       "summary": "An F-15 fighter jet and an A-10 attack plane were lost to hostile fire. Two search-and-rescue helicopters also were hit, injuring the crews, before safely returning to their base, officials said.",
@@ -828,20 +786,6 @@
       "time": "06:49",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-03-01483be3",
-      "headline": "A day in the life of Asia’s fuel crisis",
-      "summary": "From farms in New Zealand to factories in Delhi, the effects of the oil crisis triggered by the Iran war are rippling across Asia Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers",
-      "region": "MENA",
-      "country": "New Zealand",
-      "category": "geopolitics",
-      "date": "2026-04-03",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-04-03-772e12a0",
