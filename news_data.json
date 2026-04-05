@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-05T22:55:52.320661+00:00",
-  "story_count": 75,
+  "updated": "2026-04-05T23:24:00.067890+00:00",
+  "story_count": 76,
   "source_count": 10,
   "stories": [
     {
@@ -34,7 +34,7 @@
     {
       "id": "2026-04-05-9678ff1c",
       "headline": "Gold Falls as Trump Threatens Escalation of US Attacks on Iran",
-      "summary": "Gold fell, after US President Donald Trump renewed threats to destroy Iran’s power plants and Tehran showed little sign of accepting American demands to end the war in the Middle East.",
+      "summary": "Gold declined after US President Donald Trump stepped up threats to destroy Iran’s power plants and Tehran showed little sign of accepting American demands to end the war in the Middle East.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-05/gold-falls-as-trump-threatens-escalation-of-us-attacks-on-iran",
       "region": "NA",
@@ -57,7 +57,21 @@
       "date": "2026-04-05",
       "time": "22:00",
       "conflict_id": null,
-      "score": 58.2
+      "score": 57.2
+    },
+    {
+      "id": "2026-04-05-4e8d4d93",
+      "headline": "Trump issues expletive-laden threat  to Iran over Hormuz Strait blockage",
+      "summary": "The US president says he will destroy Iranian power plants and bridges if the vital waterway is not reopened.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg0q6wdzp1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "21:10",
+      "conflict_id": null,
+      "score": 52.0
     },
     {
       "id": "2026-04-05-15ac7b5f",
@@ -88,20 +102,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-05-99f28af6",
-      "headline": "US Rescues Missing Airman as Iran Strikes Gulf Arab States",
-      "summary": "US forces rescued an airman from Iran more than a day after his fighter jet was shot down and President Donald Trump threatened to target the country’s infrastructure, while the Islamic Republic’s continued attacks damaged Kuwait’s oil headquarters and shut down an Emirati petrochemicals plant.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-05/missing-us-airman-rescued-after-jet-downed-in-iran-axios",
-      "region": "NA",
-      "country": "Kuwait",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "03:49",
-      "conflict_id": null,
-      "score": 51.1
-    },
-    {
       "id": "2026-04-05-b46ddf1f",
       "headline": "A Harrowing Race Against Time to Find a Downed U.S. Airman in Iran",
       "summary": "For the Iranians, the Air Force colonel whose fighter jet had been shot down was possible leverage. For the U.S. military, finding him was a moral imperative.",
@@ -114,6 +114,20 @@
       "time": "22:28",
       "conflict_id": null,
       "score": 50.2
+    },
+    {
+      "id": "2026-04-05-e2409206",
+      "headline": "Oil Rises on New Deadline as Trump Raises the Stakes Over Hormuz",
+      "summary": "Oil gained as President Donald Trump imposed a fresh ultimatum on Tehran and threatened to strike power plants and other civilian infrastructure in Iran if the Strait of Hormuz is not reopened.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-05/latest-oil-market-news-and-analysis-for-april-6",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "22:02",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-04-05-9eb2b7d0",
@@ -214,9 +228,9 @@
       "score": 43.4
     },
     {
-      "id": "2026-04-05-474eb0c6",
-      "headline": "US Stock Futures Fall on Trump Escalation Threats: Markets Wrap",
-      "summary": "US equity-index futures dropped and oil climbed after US President Donald Trump’s warning that he may significantly escalate the war in Iran, potentially worsening an energy-price shock that’s already upending the global economic outlook.",
+      "id": "2026-04-05-0efba410",
+      "headline": "US Stock Futures Fall, Oil Climbs on Trump Threats: Markets Wrap",
+      "summary": "US equity-index futures fell and oil extended gains after President Donald Trump signaled a sharp escalation in the Iran war, heightening the risk of an energy shock already weighing on the global economic outlook.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-05/trading-open-shadowed-by-trump-escalation-threats-markets-wrap",
       "region": "NA",
@@ -224,20 +238,6 @@
       "category": "business",
       "date": "2026-04-05",
       "time": "20:00",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-04-05-4d89a14b",
-      "headline": "OPEC+ Makes Symbolic Oil Hike, Sees Long Supply Hit From War",
-      "summary": "OPEC+ warned that damage to Middle East energy assets will have a prolonged impact on oil supply even after the Iran war ends, as it approved a symbolic increase in output quotas for next month.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-05/opec-plans-symbolic-output-quota-hike-amid-war-delegates-say",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "07:30",
       "conflict_id": null,
       "score": 42.1
     },
@@ -368,6 +368,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-05-1be28093",
+      "headline": "Indian Bank Stocks’ $95 Billion Rout May Deepen on Macro Risks",
+      "summary": "More pain awaits Indian banks stocks &mdash; the biggest component of the country’s stock market &mdash; as the central bank’s moves in the currency market and growth shock to the economy from rising energy prices dent profit outlook.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-05/indian-bank-stocks-95-billion-rout-may-deepen-on-macro-risks",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-04-05",
+      "time": "23:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-05-55c0781e",
       "headline": "Debanking Is a Confusing Nightmare. It’s at Risk of Getting Worse",
       "summary": "Trump’s regulators are reshaping rules, potentially making it harder for banks to eject clients over suspicious behavior.",
@@ -468,14 +482,14 @@
     {
       "id": "2026-04-05-967419e9",
       "headline": "Australia news live: Moira Deeming secures top spot on Victorian Liberal ticket; Chris Bowen calls for Hormuz reopening",
-      "summary": "State upper house MP runs unopposed after initially being dropped during a preselection challenge. Follow today’s news liveBowen says Australian fuel supplies ‘OK’ through April and into MayBowen said he’s been encouraged by how fuel retailers have passed on cuts to the fuel excise.We’re encouraged by how quickly that’s been passed on. Obviously, the ACCC is monitoring closely any particular service stations or suppliers that might not do the rig",
+      "summary": "State upper house MP runs unopposed after initially being dropped during a preselection challenge. Follow today’s news liveLong weekend sees spate of road fatalities across AustraliaThe Easter long weekend was marred by a string of road fatalities across the country, with many involving motorcyclists, AAP reports.These proposals are intended to strengthen confidence in sunscreen performance. If accepted, options presented in this paper would be i",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/06/anthony-albanese-fuel-crisis-angus-taylor-middle-east-labor-liberals-moira-deeming-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-04-05",
-      "time": "22:29",
+      "time": "23:04",
       "conflict_id": null,
       "score": 24.0
     },
