@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-06T09:21:53.898092+00:00",
+  "updated": "2026-04-06T10:35:15.580674+00:00",
   "story_count": 74,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-04-06-1f6f1f8c",
@@ -74,27 +74,13 @@
       "score": 49.0
     },
     {
-      "id": "2026-04-06-6ce17c88",
-      "headline": "Iran war: What is happening on day 38 of US-Israeli attacks?",
-      "summary": "Tensions continue after Trump&#039;s threat on Truth Social for Iran to reopen the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "08:01",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-04-06-ebc3caba",
-      "headline": "Iran war live: Tehran rejects Trump’s Hormuz deadline; 2 killed in Haifa",
-      "summary": "Iranian officials dismiss Trump&#039;s ultimatum, condemn latest threats as &#039;incitement to war crimes&#039;.",
+      "id": "2026-04-06-5c7d274f",
+      "headline": "Iran war live: Tehran says response to ceasefire proposals formulated",
+      "summary": "Iran says no direct talks during escalating US-Israeli attacks as Trump&#039;s Hormuz deadline looms.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/6/iran-war-live-tehran-rejects-trumps-tuesday-deadline-on-strait-of-hormuz?traffic_source=rss",
       "region": "MENA",
-      "country": "Tehran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-06",
       "time": "00:00",
@@ -242,18 +228,32 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-06-9358cce0",
-      "headline": "Let technology explore what the voters really want",
-      "summary": "New insights into motivation and strength of feeling could help democracy work better",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4df5c927-00d1-43dc-9731-b1fac4980dca",
-      "region": "EU",
+      "id": "2026-04-06-25d7c340",
+      "headline": "Oil Shock Is Adding Stress to the Global Economy",
+      "summary": "Energy market stress has reached a fever pitch.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-06/oil-shock-is-adding-stress-to-the-global-economy",
+      "region": "NA",
       "country": null,
-      "category": "politics",
+      "category": "business",
       "date": "2026-04-06",
-      "time": "04:00",
+      "time": "09:34",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-06-8276031c",
+      "headline": "Ex-Wall Street Trader Attempts Distressed M&amp;A Turnarounds in Milei’s Argentina",
+      "summary": "After years trading securities in New York for Oppenheimer &amp; Co. and Morgan Stanley, Esteban Nofal’s hunt for returns has brought him home to Argentina.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/argentina-is-ripe-for-ex-wall-street-trader-hunting-for-m-a-returns",
+      "region": "SA",
+      "country": "Argentina",
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "09:30",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-06-aa1e6c28",
@@ -340,6 +340,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-04-06-247d354c",
+      "headline": "Trump administration’s secrecy on health deals alarms experts, governments",
+      "summary": "A dearth of information has been disclosed about the agreements, fueling speculation that the “America First” approach to foreign aid is exploitative.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/04/06/trump-global-health-deals/",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 24.9
+    },
+    {
       "id": "2026-04-06-ceeafe2e",
       "headline": "Virginians deeply divided on Spanberger months after her landslide win",
       "summary": "A Washington Post-Schar School poll finds that Virginia voters are highly polarized over Gov. Abigail Spanberger (D), who ran as a unifying centrist.",
@@ -368,6 +382,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-04-06-505c0a32",
+      "headline": "Mazda halts production for Middle East exports through May",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/mazda-halts-production-for-middle-east-exports-through-may",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-04-06-f58e1439",
       "headline": "Malaysia launches push to encourage local investors to buy stocks",
       "summary": "",
@@ -394,6 +422,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-04-06-971d0b20",
+      "headline": "Pro-Orbán actors accuse Meta of interference in Hungarian elections, despite lack of evidence",
+      "summary": "Meta has found itself embroiled in Hungary's tense election campaign, after supporters of the ruling Fidesz party claimed their posts are being restricted to favour opposition parties. In reality, there is no weight to the allegations.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/06/pro-orban-actors-accuse-meta-of-interference-in-hungarian-elections-despite-lack-of-eviden",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "09:42",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-04-06-347ff973",
@@ -480,18 +522,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-05-120962b6",
-      "headline": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
-      "summary": "Trump escalated threats against Iran’s power plants, bridges and other infrastructure in an expletive-laden post on Truth Social on Easter morning.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat/",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-04-05-881281b3",
+      "headline": "Gold Steadies After Report on Diplomatic Push for Iran Ceasefire",
+      "summary": "Gold edged higher as traders weighed a report on a diplomatic push for a ceasefire in the Iran war.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-05/gold-falls-as-trump-threatens-escalation-of-us-attacks-on-iran",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "17:17",
+      "time": "22:14",
       "conflict_id": null,
-      "score": 48.9
+      "score": 50.1
     },
     {
       "id": "2026-04-05-a7cf8b0f",
@@ -508,32 +550,32 @@
       "score": 43.4
     },
     {
-      "id": "2026-04-05-75623bfa",
-      "headline": "Israel continues deadly attacks on Gaza while striking Iran, Lebanon",
-      "summary": "Israel has kept up its attacks on Gaza while striking Iran and Lebanon, killing at least four Palestinians on Sunday.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/5/israel-continues-deadly-attacks-on-gaza-while-striking-iran-lebanon?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
+      "id": "2026-04-05-c325b73a",
+      "headline": "US Stock Futures Gain on Report of Ceasefire Push: Markets Wrap",
+      "summary": "US stock futures rose and crude oil dipped as investors focused their attention on a report of a push to secure a potential ceasefire in the war in Iran.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-05/trading-open-shadowed-by-trump-escalation-threats-markets-wrap",
+      "region": "NA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "18:36",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
-      "id": "2026-04-05-8c2ef2d1",
-      "headline": "In first Easter blessing as pontiff, Pope Leo XIV urges those who can unleash wars to 'choose peace'",
-      "summary": "In his first Easter blessing, Pope Leo XIV urged \"those who have the power to unleash wars\" to \"choose peace\" as Christians around the world celebrate Easter Sunday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/05/in-first-easter-blessing-as-pontiff-pope-leo-xiv-urges-those-who-can-unleash-wars-to-choos",
+      "id": "2026-04-05-e197d12b",
+      "headline": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "summary": "It comes a week before votes are cast and follows warnings of so-called false flag operations blamed on Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": null,
+      "country": "Hungary",
       "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "17:22",
+      "time": "19:17",
       "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
     },
     {
       "id": "2026-04-05-288eac1b",
@@ -548,20 +590,6 @@
       "time": "11:45",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-04-05-f266ec29",
-      "headline": "Cambodia unveils statue to honour famous landmine-sniffing rat",
-      "summary": "The statue honours the late African giant pouched rat who sniffed out more than 100 landmines during his lifetime.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0rx7xzd10xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-05",
-      "time": "01:09",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-04-05-e4d449cd",
@@ -620,18 +648,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-05-55c0781e",
-      "headline": "Debanking Is a Confusing Nightmare. It’s at Risk of Getting Worse",
-      "summary": "Trump’s regulators are reshaping rules, potentially making it harder for banks to eject clients over suspicious behavior.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/features/2026-04-05/what-is-debanking-trump-regulators-rejected-clients-to-rewrite-rules",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
+      "id": "2026-04-05-1f6e8f85",
+      "headline": "Why McDonald’s and KFC are growing like wildfire in China",
+      "summary": "Western fast-food brands are expanding into the countryside",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/05/why-mcdonalds-and-kfc-are-growing-like-wildfire-in-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-04-05",
-      "time": "21:00",
+      "time": "08:30",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.8
     },
     {
       "id": "2026-04-05-c3774c7d",
@@ -674,20 +702,6 @@
       "time": "13:47",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-04-05-ffd911bb",
-      "headline": "In Hungarian election, Trump and Putin are backing Viktor Orban",
-      "summary": "Viktor Orban, who has built strong ties to the MAGA movement and the Kremlin, faces a tough electoral challenge from center-right candidate Peter Magyar on April 12.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/04/05/vance-hungary-orban-election/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-05",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 24.9
     },
     {
       "id": "2026-04-05-d8b8529c",
@@ -840,20 +854,6 @@
       "category": "geopolitics",
       "date": "2026-04-03",
       "time": "23:14",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-04-03-b7cdc391",
-      "headline": "Myanmar's coup leader who set off a brutal civil war becomes president",
-      "summary": "General Min Aung Hlaing has been chosen as the next president by the newly-elected parliament.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1782nk0018o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Myanmar",
-      "category": "geopolitics",
-      "date": "2026-04-03",
-      "time": "06:49",
       "conflict_id": null,
       "score": 43.0
     },
