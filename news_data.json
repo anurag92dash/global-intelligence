@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-06T19:17:19.394295+00:00",
-  "story_count": 71,
-  "source_count": 10,
+  "updated": "2026-04-06T20:02:36.957438+00:00",
+  "story_count": 72,
+  "source_count": 8,
   "stories": [
     {
       "id": "2026-04-06-e32e264d",
@@ -58,6 +58,20 @@
       "time": "17:38",
       "conflict_id": null,
       "score": 56.4
+    },
+    {
+      "id": "2026-04-06-3760906c",
+      "headline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
+      "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c77md512n71o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "19:11",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-04-06-f2c88876",
@@ -144,20 +158,6 @@
       "score": 47.4
     },
     {
-      "id": "2026-04-06-2a38c6de",
-      "headline": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
-      "summary": "Ukraine increases attacks on Russia&#039;s energy infrastructure in bid to disrupt financing of its war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "14:14",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-04-06-9034a697",
       "headline": "EU warns capitals against turning energy crunch into fiscal crisis",
       "summary": "Excessive spending to cushion soaring prices would have ‘serious fiscal implications’, says economy commissioner",
@@ -214,6 +214,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-04-06-30de25c0",
+      "headline": "Child rescued from rubble after Russia ramps up strikes on Ukraine",
+      "summary": "A child was rescued from the rubble of a collapsed home in Odesa after a Russian strike killed at least three people.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/6/child-rescued-from-rubble-after-russia-ramps-up-strikes-on-ukraine?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "19:34",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-04-06-d218baa6",
       "headline": "Southeast Asia oil crisis puts sovereign ratings at risk",
       "summary": "",
@@ -268,6 +282,20 @@
       "time": "16:43",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-04-06-350834eb",
+      "headline": "SpaceX’s IPO Pitch Centers on Elon Musk’s Ability to ‘Sell the Dream’",
+      "summary": "SpaceX and investment bankers will host meetings to pressure-test the Elon Musk-led company’s targeted $2 trillion valuation, a crucial step as it drives toward the largest-ever initial public offering, people familiar with the matter said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/spacex-s-ipo-pitch-centers-on-elon-musk-s-ability-to-sell-the-dream",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "19:35",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-04-06-4045dfa4",
@@ -382,6 +410,62 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-06-066b0415",
+      "headline": "MAK Capital Tells Evotec to List US Unit Worth Over €1 billion",
+      "summary": "Activist fund MAK Capital, led by Michael A. Kaufman, has urged the leadership of German biotech firm Evotec SE to list its US unit and speed up its cost cutting program after the shares have lost about 85% over the past five years.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/mak-capital-tells-evotec-to-list-us-unit-worth-over-1-billion",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "19:37",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-06-de94978d",
+      "headline": "Retail Crowd Seen Resuming Stock-Buying Binge After Tax Deadline",
+      "summary": "Equity bulls expecting a bumpy ride for US equities to be over soon have a historically favorable seasonal pattern on their side.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/retail-crowd-seen-resuming-stock-buying-binge-after-tax-deadline",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "19:35",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-06-6097618f",
+      "headline": "Chatter About Fed’s Balance Sheet Is Ahead of Reality, CIBC Says",
+      "summary": "Fixed‑income markets are overestimating the impact of potential changes to the Federal Reserve’s balance‑sheet policy, which are likely to be slow and limited, according to Canadian Imperial Bank of Commerce.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/chatter-about-fed-s-balance-sheet-is-ahead-of-reality-cibc-says",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "19:28",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-06-ac067bcf",
+      "headline": "Microsoft-Tied Data Center Bond Sale Draws $12.5 Billion Demand",
+      "summary": "Blackstone Inc.-backed QTS drew about $12.5 billion of peak demand for a debut high-grade bond sale that will help fund a Microsoft Corp.-tied data center, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/blackstone-backed-data-center-firm-qts-kicks-off-bond-sale",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "13:20",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-06-95233ae6",
       "headline": "Morgan Stanley Plans Private Credit Fund Even as Investors Flee",
       "summary": "Morgan Stanley plans to debut an interval fund investing predominantly in private credit, just as retail investment vehicles in the $1.8 trillion market are being hit with record redemption requests.",
@@ -410,34 +494,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-06-8f28af3b",
-      "headline": "Cautious on Public Credit: PIMCO's Braun",
-      "summary": "David Braun, generalist portfolio manager at PIMCO, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" Braun helps manage $7.7B PIMCO active bond ETF. They also discuss Carson Block's bearish bets on some of the biggest corporate credit ETFs.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-06/cautious-on-public-credit-pimco-s-braun-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "18:57",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-06-130328ba",
-      "headline": "US Stock Rally Stalls Amid Trump’s Threat to ‘Take Out’ Iran",
-      "summary": "US equities pared earlier gains after President Donald Trump said Iran could be taken out Tuesday night.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/us-stock-futures-rise-as-dip-buyers-return-amid-ceasefire-hopes",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "12:39",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-06-917a8191",
       "headline": "Japan M&amp;A Momentum to Persist, Alvarez &amp; Marsal’s Aversano Says",
       "summary": "Deal flow in Japan will likely keep up its brisk pace, thanks in part to regulatory policies that are fueling mergers and acquisitions as well as broader macroeconomic trends, according to Alvarez &amp; Marsal Inc.’s Paul Aversano.",
@@ -452,50 +508,22 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-06-b33342af",
-      "headline": "Leftist Mello Gets Planning Job, Ending Brazil Central Bank Talk",
-      "summary": "Brazil’s new Planning Minister Bruno Moretti will name leftist economist Guilherme Mello as his deputy, removing him from contention for a seat on the central bank’s board and advancing a shakeup of the federal government’s economic team ahead of elections, according to a person familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/leftist-economist-mello-gets-planning-job-not-central-bank-post",
-      "region": "EU",
-      "country": "Brazil",
+      "id": "2026-04-06-12f18e81",
+      "headline": "Shots Fired at Indianapolis Councilman’s Home, After Vote Backing Data Center",
+      "summary": "No one was injured, but the councilman, Ron Gibson, called it “deeply unsettling.”",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/06/us/indianapolis-data-center-shooting.html",
+      "region": "SA",
+      "country": "India",
       "category": "politics",
       "date": "2026-04-06",
-      "time": "16:29",
+      "time": "19:40",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
-      "id": "2026-04-06-fa853251",
-      "headline": "Cotton Climbs to Highest Since 2024 on Tight Supply Outlook",
-      "summary": "Cotton futures in New York surged to the highest since December 2024 as traders weigh a preliminary government US planting report against an outlook for tighter global supplies this year.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/cotton-climbs-to-highest-since-2024-on-tight-supply-outlook",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-06",
-      "time": "16:03",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-06-0bac4b0c",
-      "headline": "Industrial Firm Madison Air Seeks $2.23 Billion in IPO",
-      "summary": "Madison Air Solutions Corp. is seeking to raise as much as $2.23 billion in its initial public offering, in what would be the biggest US listing of an industrial company in close to three decades.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/industrial-firm-madison-air-seeks-to-raise-2-23-billion-in-ipo",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-06",
-      "time": "11:12",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-06-cab12ed3",
-      "headline": "Trump Administration to Pull Out of Civil Rights Settlements Backing Trans Students",
+      "id": "2026-04-06-1e0cfd09",
+      "headline": "Trump Administration Pulls Out of Civil Rights Settlements Backing Trans Students",
       "summary": "The Education Department said there was no precedent for the federal government terminating settlements stemming from civil rights investigations into schools.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/06/us/politics/transgender-students-civil-rights.html",
@@ -503,7 +531,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-04-06",
-      "time": "18:45",
+      "time": "19:37",
       "conflict_id": null,
       "score": 25.2
     },
@@ -550,6 +578,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-04-06-cc37d51c",
+      "headline": "Ahead of 2026 Midterms, Republicans Unveil a $342 Million Battle Plan to Keep the Senate",
+      "summary": "The main super PAC for Senate Republicans is focusing on eight states, and plans to spend big money to defend G.O.P.-held seats in Alaska, Iowa and Ohio.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/06/us/politics/republican-midterms-fundraising-super-pac.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "14:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-04-06-a508efb1",
       "headline": "Diesel remains volatile as prices rise again despite Labor’s fuel tax relief",
       "summary": "Energy minister Chris Bowen says 3.4% of Australia’s service stations had no diesel, as of Monday, after wholesale prices surgedTrack Australia’s fuel prices, service station outages and shipments in chartsGet our breaking news email, free app or daily news podcastDiesel users in Australia are not enjoying the same relief as unleaded customers, with one in 30 service stations still entirely out of diesel and prices rising again after an initial s",
@@ -562,6 +604,34 @@
       "time": "07:38",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-04-06-a8d49c27",
+      "headline": "Japan PM Takaichi's attendance in parliament down 40% from predecessor",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/japan-pm-takaichi-s-attendance-in-parliament-down-40-from-predecessor",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-04-06-72bb5682",
+      "headline": "Turbulent stock market isn't buying big Japanese M&A moves",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/turbulent-stock-market-isn-t-buying-big-japanese-m-a-moves",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-04-06-505c0a32",
@@ -585,20 +655,6 @@
       "url": "https://asia.nikkei.com/business/markets/trading-asia/malaysia-launches-push-to-encourage-local-investors-to-buy-stocks",
       "region": "APJ",
       "country": "Malaysia",
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-06-69a08aee",
-      "headline": "Japan's corporate bond issuance hits record high on retail investors",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/bonds/japan-s-corporate-bond-issuance-hits-record-high-on-retail-investors",
-      "region": "APJ",
-      "country": "Japan",
       "category": "business",
       "date": "2026-04-06",
       "time": "",
@@ -634,6 +690,20 @@
       "score": 21.0
     },
     {
+      "id": "2026-04-06-971d0b20",
+      "headline": "Pro-Orbán actors accuse Meta of interference in Hungarian elections, despite lack of evidence",
+      "summary": "Meta has found itself embroiled in Hungary's tense election campaign, after supporters of the ruling Fidesz party claimed their posts are being restricted to favour opposition parties. In reality, there is no weight to the allegations.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/06/pro-orban-actors-accuse-meta-of-interference-in-hungarian-elections-despite-lack-of-eviden",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "09:42",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-06-347ff973",
       "headline": "Revellers parade giant phalluses at Japan’s fertility festival",
       "summary": "Crowds pack Kawasaki for Kanamara Matsuri, Japan’s colourful fertility festival using phallic shrines to celebrate life and challenge sex taboos.",
@@ -648,8 +718,8 @@
       "score": 21.0
     },
     {
-      "id": "2026-04-05-b1538506",
-      "headline": "Oil Rises as Trump Threatens Imminent Escalation in Iran War",
+      "id": "2026-04-05-200e645f",
+      "headline": "Oil Edges Up as Trump Iran Threats Outweigh Higher Hormuz Flows",
       "summary": "Oil rose as US President Donald Trump signaled that an escalation in strikes on Iran could come as soon as Tuesday, heightening fears that imminent military action will derail tentative progress toward restoring energy flows through the crucial Strait of Hormuz.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-05/latest-oil-market-news-and-analysis-for-april-6",
@@ -688,20 +758,6 @@
       "time": "23:19",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-04-05-dbfef23a",
-      "headline": "Oil Climbs Amid Trump’s Threats as Stocks Whipsaw: Markets Wrap",
-      "summary": "Oil climbed and stocks whipsawed after President Donald Trump signaled that an escalation of strikes on Iran could come as soon as Tuesday, overshadowing hopes for a ceasefire.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-05/trading-open-shadowed-by-trump-escalation-threats-markets-wrap",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-05",
-      "time": "20:00",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-04-05-b3c197d3",
@@ -758,20 +814,6 @@
       "time": "08:34",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-04-b4f64eb7",
-      "headline": "Trump files emergency appeal to keep building White House ballroom",
-      "summary": "“Time is of the essence!” Justice Department lawyers wrote, saying a ruling to pause construction puts the president at risk.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/04/trump-ballroom-appeal-emergency/",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-04-04",
-      "time": "19:19",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-04-03-49177b9e",
@@ -928,20 +970,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-01-732b3d79",
-      "headline": "War with Iran could accelerate Africa’s oil revival",
-      "summary": "Favourable geology and new technologies make it an attractive place to drill",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/01/war-with-iran-could-accelerate-africas-oil-revival",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-01",
-      "time": "12:51",
-      "conflict_id": null,
-      "score": 41.8
-    },
-    {
       "id": "2026-04-01-52a029ca",
       "headline": "China is trying to play peacemaker in the Iran war - will it work?",
       "summary": "It's a turnaround for Beijing, whose official response has been muted so far. Why is China stepping in now?",
@@ -968,20 +996,6 @@
       "time": "22:48",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-03-31-52c456ac",
-      "headline": "Huge fires at Russian oil facilities following Ukraine strikes, satellite images show",
-      "summary": "BBC Verify examines recent damage to three key Russian oil export facilities near the Baltic Sea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9qdwpnwzwpo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-03-31",
-      "time": "10:09",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-03-30-a08ff9ad",
