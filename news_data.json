@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-06T13:55:34.280022+00:00",
-  "story_count": 76,
+  "updated": "2026-04-06T14:39:40.465147+00:00",
+  "story_count": 75,
   "source_count": 10,
   "stories": [
     {
@@ -32,48 +32,6 @@
       "score": 58.2
     },
     {
-      "id": "2026-04-06-fdfba8a1",
-      "headline": "Vietnam’s gig workers slammed by rising fuel costs amid fallout of Iran war",
-      "summary": "Diesel prices have more than doubled in the Southeast Asian nation amid Iran&#039;s blockade of the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/6/vietnams-gig-workers-slammed-by-rising-fuel-costs-amid-fallout-of-iran-war?traffic_source=rss",
-      "region": "MENA",
-      "country": "Vietnam",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "01:14",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-04-06-3d5a90f8",
-      "headline": "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran",
-      "summary": "Iran, while still reviewing the proposal, says it won&#039;t reopen Hormuz as part of a temporary ceasefire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/6/pakistan-offers-two-tier-truce-iran-wont-open-hormuz-under-temporary-one?traffic_source=rss",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "11:25",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-04-06-ca54d85d",
-      "headline": "Pakistan drastically hikes fuel prices despite mediator role in Iran war",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-drastically-hikes-fuel-prices-despite-mediator-role-in-iran-war",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "",
-      "conflict_id": null,
-      "score": 54.8
-    },
-    {
       "id": "2026-04-06-3c58cab8",
       "headline": "Trump declares victory after rescue but threats to US operation in Iran still loom",
       "summary": "The rescue could impact how Trump views a ground operation to take Kharg Island or to seize enriched uranium sites.",
@@ -102,32 +60,60 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-06-ccff6b79",
-      "headline": "US stock futures rise on Middle East ceasefire proposal",
-      "summary": "Proposal for 45-day ceasefire was shared by Pakistan, Egypt and Turkey ahead of Trump deadline",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/43f8ea8a-d8a9-444c-82c5-8a0358c948ed",
+      "id": "2026-04-06-c0534c80",
+      "headline": "How US operation to rescue air officer from Iran unfolded",
+      "summary": "President Trump says US service member whose fighter jet was shot down over Iran is rescued during two raids.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/how-us-operation-to-rescue-air-officer-from-iran-unfolded?traffic_source=rss",
       "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "12:42",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-04-06-3d5a90f8",
+      "headline": "Pakistan offers ‘two-phased’ truce deal to end US-Israel war on Iran",
+      "summary": "Iran, while still reviewing the proposal, says it won&#039;t reopen Hormuz as part of a temporary ceasefire.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/pakistan-offers-two-tier-truce-iran-wont-open-hormuz-under-temporary-one?traffic_source=rss",
+      "region": "MENA",
       "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-04-06",
-      "time": "13:33",
+      "time": "11:25",
       "conflict_id": null,
-      "score": 50.4
+      "score": 47.4
     },
     {
-      "id": "2026-04-06-9f623529",
-      "headline": "US Stocks Rise as Dip Buyers Return Amid Ceasefire Hopes",
-      "summary": "US equities and crude oil prices edged higher as investors focus on signs of a potential diplomatic push toward a ceasefire in the Iran war.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/us-stock-futures-rise-as-dip-buyers-return-amid-ceasefire-hopes",
+      "id": "2026-04-06-ca54d85d",
+      "headline": "Pakistan drastically hikes fuel prices despite mediator role in Iran war",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/pakistan-drastically-hikes-fuel-prices-despite-mediator-role-in-iran-war",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "",
+      "conflict_id": null,
+      "score": 46.8
+    },
+    {
+      "id": "2026-04-06-15ac7b5f",
+      "headline": "How rescue of US airman in remote part of Iran unfolded",
+      "summary": "The operation to extract him from the ground in hostile territory was hugely complex and involved multiple US government agencies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2vpz1kwreo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-06",
-      "time": "12:39",
+      "time": "12:22",
       "conflict_id": null,
-      "score": 50.1
+      "score": 43.0
     },
     {
       "id": "2026-04-06-9034a697",
@@ -172,6 +158,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-04-06-2a38c6de",
+      "headline": "Ukraine strikes Russian Black Sea energy hub Novorossiysk",
+      "summary": "Ukraine has increased attacks on Russian energy infrastructure in bid to disrupt financing of its war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/ukraine-strikes-russian-black-sea-energy-hub-novorossiysk?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "14:14",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-04-06-ab141297",
       "headline": "Iran’s top university bombed as US, Israel intensify attacks; 34 killed",
       "summary": "Tehran says it will respond &#039;in kind&#039; to attacks on its infrastructure, accuses Trump of inciting &#039;war crimes&#039;.",
@@ -182,6 +182,20 @@
       "category": "geopolitics",
       "date": "2026-04-06",
       "time": "08:31",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-04-06-6ce17c88",
+      "headline": "Iran war: What is happening on day 38 of US-Israeli attacks?",
+      "summary": "Tensions continue after Trump&#039;s threat on Truth Social for Iran to reopen the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/6/iran-war-what-is-happening-on-day-38-of-us-israeli-attacks?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "08:01",
       "conflict_id": null,
       "score": 39.4
     },
@@ -198,6 +212,20 @@
       "time": "08:24",
       "conflict_id": null,
       "score": 37.0
+    },
+    {
+      "id": "2026-04-06-606cd26b",
+      "headline": "US Bonds Steady as Traders Bet War Uncertainty Keeps Fed on Hold",
+      "summary": "Bond traders kicked off the week betting that the Federal Reserve will keep interest rates on hold for the coming year, with the Treasuries market holding steady ahead of President Donald Trump’s extended deadline for Iran to reopen the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/us-bonds-steady-as-traders-bet-war-uncertainty-keeps-fed-on-hold",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "14:13",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-04-06-513d1bb8",
@@ -224,20 +252,6 @@
       "category": "business",
       "date": "2026-04-06",
       "time": "11:42",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-06-545d03af",
-      "headline": "India Raises Gas Supply for Fertilizer Firms as Imports Improve",
-      "summary": "India has increased the allocation of natural gas to urea plants as supply improves after disruptions due to the Middle East crisis, according to the oil ministry.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/india-raises-gas-supply-for-fertilizer-firms-as-imports-improve",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "11:11",
       "conflict_id": null,
       "score": 34.1
     },
@@ -340,9 +354,51 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-06-a9d4ec62",
+      "headline": "Growth Slows at US Service Providers as Price Gauge Surges",
+      "summary": "The US service economy expanded in March at a slower pace as employment shrank by the most since 2023 and input prices accelerated sharply.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/growth-slows-at-us-service-providers-as-price-gauge-surges",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "14:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-06-3a9583e1",
+      "headline": "Sunway Abandons IJM Takeover Bid After Shareholders Reject Offer",
+      "summary": "Malaysian conglomerate Sunway Bhd. is abandoning its takeover bid of IJM Corp Bhd. after failing to secure enough support from the target company’s shareholders.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/sunway-abandons-ijm-takeover-bid-after-shareholders-reject-offer",
+      "region": "APJ",
+      "country": "Malaysia",
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "14:14",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-06-402d7f7d",
+      "headline": "Micron Worries Pile Up Ahead of Rival’s $10 Billion US Listing",
+      "summary": "Micron Technology Inc. is having a tough few weeks in the stock market, and the upcoming US listing of South Korean rival SK Hynix Inc. will only add to its challenges.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/micron-is-slumping-and-rival-s-10-billion-us-listing-won-t-help",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-04-06",
+      "time": "10:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-06-9c0fa993",
       "headline": "Qatar LNG Ships U-Turn After Attempt to Pass Through Hormuz",
-      "summary": "Two liquefied natural gas tankers from Qatar in the Persian Gulf have switched to Pakistan as new destinations after appearing to abort an earlier attempt to leave via the Strait of Hormuz.",
+      "summary": "Two liquefied natural gas tankers from Qatar in the Persian Gulf have switched to Pakistan as their next destinations after appearing to abort an earlier attempt to leave via the Strait of Hormuz.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-06/qatar-lng-vessels-u-turn-after-attempt-to-pass-through-hormuz",
       "region": "MENA",
@@ -382,34 +438,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-06-98190770",
-      "headline": "Senior Housing-Focused REIT National Healthcare Files for US IPO",
-      "summary": "National Healthcare Properties Inc., a real estate investment trust, filed for an initial public offering, positioning itself to capitalize on favorable demographic trends associated with a growing elderly population in the US.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/senior-housing-focused-reit-national-healthcare-files-for-us-ipo",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "12:58",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-06-d70916e7",
-      "headline": "Strategy Posts $14.5 Billion Unrealized Loss in First Quarter",
-      "summary": "Bitcoin accumulator Strategy Inc. registered a roughly $14.5 billion unrealized loss in the first quarter as the value of the Michael Saylor-led company’s cryptocurrency holdings fell.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/strategy-posts-14-5-billion-unrealized-loss-in-first-quarter",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "12:57",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-06-e7722123",
       "headline": "India’s Refiners Delay Maintenance to Stabilize Fuel Supplies",
       "summary": "Indian Oil Corp. and Bharat Petroleum Corp. have delayed routine maintenance at some of their units to ensure adequate supplies in the world’s third-largest oil consumer, according to a senior government official.",
@@ -418,20 +446,6 @@
       "region": "EU",
       "country": "India",
       "category": "politics",
-      "date": "2026-04-06",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-06-8a1edcab",
-      "headline": "Chile Private Debt Attract New Cash Even as US Investors Seek Exits",
-      "summary": "SURA Investments and BTG Pactual Chile launched new private-credit funds in Chile, expanding in an industry that has set off alarm bells in the US after years of extraordinary growth.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/chile-private-debt-attracts-new-cash-as-us-investors-take-fright",
-      "region": "NA",
-      "country": "Chile",
-      "category": "business",
       "date": "2026-04-06",
       "time": "12:00",
       "conflict_id": null,
@@ -452,32 +466,32 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-06-e6b20ca5",
-      "headline": "Italy Is Set to Name New Leonardo Chief as Soon as This Week",
-      "summary": "Italy is set to name a replacement for Leonardo SpA Chief Executive Officer Roberto Cingolani as soon as this week, according to people familiar with the matter, capping weeks of negotiations over the key corporate appointment.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/italy-is-set-to-name-new-leonardo-chief-as-soon-as-this-week",
-      "region": "EU",
-      "country": "Italy",
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "11:17",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-06-7d954f9e",
-      "headline": "Industrial Firm Madison Air Seeks to Raise $2.23 Billion in IPO",
-      "summary": "Madison Air Solutions Corp. is seeking to raise as much as $2.23 billion in its initial public offering, in what would be the biggest US listing of an industrial company in close to three decades.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/industrial-firm-madison-air-seeks-to-raise-2-23-billion-in-ipo",
+      "id": "2026-04-06-e2db029f",
+      "headline": "Supreme Court Clears the Way for Dismissal of Bannon Conviction",
+      "summary": "Stephen K. Bannon, a former close aide to President Trump, was convicted for failing to comply with a congressional subpoena related to the investigation into the Jan. 6 attack.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/06/us/politics/supreme-court-bannon-trump.html",
       "region": "NA",
-      "country": null,
+      "country": "Congress",
       "category": "politics",
       "date": "2026-04-06",
-      "time": "11:12",
+      "time": "14:02",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
+    },
+    {
+      "id": "2026-04-06-b7392f12",
+      "headline": "Republicans Unveil a $342 Million Battle Plan to Keep the Senate",
+      "summary": "The main super PAC for Senate Republicans is focusing on eight states, and plans to spend big money to defend G.O.P.-held seats in Alaska, Iowa and Ohio.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/06/us/politics/republican-midterms-fundraising-super-pac.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "14:00",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-04-06-43f61fab",
@@ -774,20 +788,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-04-96d2f148",
-      "headline": "Trump Pledged a Quick End to the Iran War, but He Hasn’t Explained How",
-      "summary": "President Trump bet that American firepower could cow Iran into compliance. So far, Iran’s leaders have been unwilling to quit.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/04/us/politics/trump-endless-wars.html",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-04",
-      "time": "17:29",
-      "conflict_id": null,
-      "score": 58.2
-    },
-    {
       "id": "2026-04-04-c2cabb9c",
       "headline": "Russia chose 'Easter escalation' over ceasefire, says Zelensky",
       "summary": "Six civilians were killed and 40 others injured as Russia launched hundreds of drones and missiles.",
@@ -800,20 +800,6 @@
       "time": "08:34",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-04-a4f16e10",
-      "headline": "Artemis II crew now halfway to Moon as they take 'spectacular' image of Earth",
-      "summary": "The snap was taken aboard the Orion capsule by its commander, Reid Wiseman, as the crew head towards the Moon.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8jzr423p9o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-04",
-      "time": "06:42",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-04-b4f64eb7",
@@ -856,20 +842,6 @@
       "time": "18:30",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-04-ad4b5a36",
-      "headline": "New Attorney General, Same Albatross: Trump’s Quest for Retribution",
-      "summary": "The name atop the Justice Department’s organizational chart matters less than the presence of a president whose demands for revenge have become so extreme that even his most obsequious appointees have fallen short.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/04/us/politics/attorney-general-trump.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-04",
-      "time": "09:02",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-04-03-49177b9e",
@@ -928,20 +900,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-02-9c618a9b",
-      "headline": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-02",
-      "time": "13:41",
-      "conflict_id": null,
-      "score": 60.0
-    },
-    {
       "id": "2026-04-02-61987dad",
       "headline": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
       "summary": "There were some glaring omissions in the US president's primetime address, writes the BBC's Gary O'Donoghue.",
@@ -954,6 +912,20 @@
       "time": "03:22",
       "conflict_id": null,
       "score": 60.0
+    },
+    {
+      "id": "2026-04-02-9c618a9b",
+      "headline": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
+      "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-02",
+      "time": "13:41",
+      "conflict_id": null,
+      "score": 59.0
     },
     {
       "id": "2026-04-02-c9d9ac21",
@@ -980,6 +952,20 @@
       "category": "geopolitics",
       "date": "2026-04-02",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-02-5a61b7c3",
+      "headline": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
+      "summary": "It is the latest sign of warming relations between the US and Venezuela after Nicolás Maduro was seized in a commando raid.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-04-02",
+      "time": "11:55",
       "conflict_id": null,
       "score": 43.0
     },
@@ -1051,7 +1037,7 @@
       "date": "2026-03-31",
       "time": "22:48",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     },
     {
       "id": "2026-03-30-a08ff9ad",
