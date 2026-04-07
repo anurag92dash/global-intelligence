@@ -1,12 +1,26 @@
 {
-  "updated": "2026-04-07T11:34:56.381553+00:00",
-  "story_count": 74,
-  "source_count": 10,
+  "updated": "2026-04-07T12:41:22.664339+00:00",
+  "story_count": 80,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-04-07-235c782a",
-      "headline": "Ukraine, Russia kill three civilians each in tit-for-tat drone attacks",
-      "summary": "Drone attacks killed civilians in Russia and Ukraine, a day after Zelenskyy renewed his Easter ceasefire offer.",
+      "id": "2026-04-07-a5c2e72c",
+      "headline": "Trump Reiterates Threat to Destroy Iran as Deadline Nears",
+      "summary": "US President Donald Trump reiterated his ultimatum for Iran to agree to a ceasefire deal or face a major military escalation, as both sides kept up attacks in the sixth week of the war.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/iran-keeps-up-attacks-before-us-deadline-dimming-peace-chances",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "08:28",
+      "conflict_id": null,
+      "score": 67.1
+    },
+    {
+      "id": "2026-04-07-96e0218e",
+      "headline": "Ukraine, Russia kill several civilians in tit-for-tat attacks",
+      "summary": "At least seven people killed in Ukraine and three in Russia, a day after Zelenskyy renewed his Easter ceasefire offer.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/7/three-civilians-killed-in-both-russia-ukraine-following-drone-attacks?traffic_source=rss",
       "region": "EU",
@@ -15,21 +29,49 @@
       "date": "2026-04-07",
       "time": "10:12",
       "conflict_id": "ukraine-war",
-      "score": 67.4
+      "score": 59.4
     },
     {
-      "id": "2026-04-07-676bd245",
-      "headline": "Trump Escalates Iran War Threats as Deadline Looms | The Opening Trade 4/7/2026",
-      "summary": "President Donald Trump insisted that freedom of navigation through the Strait of Hormuz be part of any deal to end the Middle East war and escalated threats to obliterate key Iranian infrastructure if his terms aren’t met before a Tuesday deadline. Trump said the US military could destroy ''every bridge in Iran by 12 o’clock tomorrow night.” Power plants would be rendered “burning, exploding and never to be used again,” he said. \n\nThe Opening Tra",
+      "id": "2026-04-07-42636d6e",
+      "headline": "Iran War: Trump 'Not At All' Concerned About Committing War Crimes | The Pulse 4/7",
+      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: \nWolf von Rotberg, J Safra Sarasin, Equity Strategist; Azadeh Zamirirad, German Institute for International and Security Affairs, Africa and Middle East Research Head. ",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-07/the-opening-trade-4-7-2026-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/the-pulse-4-7-video",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-04-07",
-      "time": "10:05",
+      "time": "11:51",
       "conflict_id": null,
-      "score": 59.1
+      "score": 58.1
+    },
+    {
+      "id": "2026-04-07-01a0a55d",
+      "headline": "War in Iran Drives Russian Oil Prices to a 13-Year High",
+      "summary": "Russian crude prices rose to the highest in more than 13 years as Moscow benefited from the Iran-linked global oil rally.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/war-in-iran-drives-russian-oil-prices-to-a-13-year-high",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "11:13",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
+      "id": "2026-04-07-226f7724",
+      "headline": "Can Africa tackle the oil shock from the Iran war?",
+      "summary": "African nations are scrambling to secure oil and gas as the Iran war disrupts supplies from the Middle East.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/4/7/can-africa-tackle-the-oil-shock-from-the-iran-war?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "11:13",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-04-07-62da9e18",
@@ -44,6 +86,20 @@
       "time": "07:52",
       "conflict_id": null,
       "score": 55.4
+    },
+    {
+      "id": "2026-04-07-7997ef9c",
+      "headline": "How the Iran war and AI are making tech more expensive",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/how-the-iran-war-and-ai-are-making-tech-more-expensive",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "",
+      "conflict_id": null,
+      "score": 54.8
     },
     {
       "id": "2026-04-07-8781b26a",
@@ -74,32 +130,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-07-01a0a55d",
-      "headline": "War in Iran Drives Russian Oil Prices to a 13-Year High",
-      "summary": "Russian crude prices rose to the highest in more than 13 years as Moscow benefited from the Iran-linked global oil rally.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-07/war-in-iran-drives-russian-oil-prices-to-a-13-year-high",
+      "id": "2026-04-07-df0a9306",
+      "headline": "Russia provided Iran with intelligence on Israeli energy sites, Ukraine says",
+      "summary": "Kyiv stated that Moscow is sharing its satellite intelligence with Iran to help Tehran strike Israel’s energy sites, which could cause power grid collapse and mass blackouts.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/07/russia-provided-iran-with-intelligence-on-israeli-energy-sites-ukraine-says",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-07",
-      "time": "11:13",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-04-07-7997ef9c",
-      "headline": "How the Iran war and AI are making tech more expensive",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/podcasts/podcast-tech-latest/how-the-iran-war-and-ai-are-making-tech-more-expensive",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-07",
-      "time": "",
-      "conflict_id": null,
-      "score": 46.8
+      "time": "12:18",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-04-07-17cfce5e",
@@ -112,20 +154,6 @@
       "category": "geopolitics",
       "date": "2026-04-07",
       "time": "10:16",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-04-07-10bbf8fe",
-      "headline": "Newsletter: Trump sharpens threatening rhetoric over the Strait of Hormuz",
-      "summary": "Also in this newsletter: US President JD Vance travels to Hungary to support Viktor Orbán for the general elections. UN Goodwill Ambassador and actress Kristin Davis talks about the war in Sudan.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/07/newsletter-trump-sharpens-threatening-rhetoric-over-the-strait-of-hormuz",
-      "region": "NA",
-      "country": "Hungary",
-      "category": "politics",
-      "date": "2026-04-07",
-      "time": "07:32",
       "conflict_id": null,
       "score": 45.0
     },
@@ -144,6 +172,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-04-07-9df81a8e",
+      "headline": "Trump Doubles Down on Iran Deadline; Universal Music Acquisition Proposal | Bloomberg Brief 4/7/2026",
+      "summary": "US equity futures and oil fluctuate as President Trump’s deadline for Iran to make a peace deal approaches. Bill Ackman's Pershing Square proposes an acquisition of Universal Music Group that would value the record label close to $65 billion. Sitara Sundar of JPMorgan Private Bank discusses her market outlook amid geopolitical uncertainties. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-07/bloomberg-brief-4-7-2026-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "11:10",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
       "id": "2026-04-07-5849c31f",
       "headline": "Ben Roberts-Smith arrested: former Australian soldier charged with five war crime murders in Afghanistan",
       "summary": "Roberts-Smith previously failed in his attempt to sue three newspapers which published allegations he murdered unarmed civilians and bullied comradesGet our breaking news email, free app or daily news podcastAustralia’s most decorated living soldier, Ben Roberts-Smith, has been arrested at Sydney airport and charged with war crimes.The Australian federal police and the Office of the Special Investigator announced details of the investigation in S",
@@ -153,7 +195,7 @@
       "country": "Afghanistan",
       "category": "business",
       "date": "2026-04-07",
-      "time": "09:06",
+      "time": "11:44",
       "conflict_id": null,
       "score": 40.0
     },
@@ -172,30 +214,16 @@
       "score": 40.0
     },
     {
-      "id": "2026-04-07-760b090b",
-      "headline": "How US, Israel are waging a war on Iranian culture, education",
-      "summary": "Iranian officials have told Al Jazeera the US and Israel&#039;s attacks seek to wipe out Iranian identity.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/how-us-israel-are-waging-a-war-on-iranian-culture-education?traffic_source=rss",
-      "region": "MENA",
+      "id": "2026-04-07-7c3ef4ce",
+      "headline": "Three gunmen 'neutralised' in shooting incident near Israeli consulate in Istanbul",
+      "summary": "Authorities said a comprehensive investigation is being carried out with law enforcement units under the coordination of the chief public prosecutor's office.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/07/two-gunmen-killed-in-shooting-incident-near-israeli-consulate-in-istanbul",
+      "region": "EU",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-07",
-      "time": "10:43",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-04-07-8ac0147d",
-      "headline": "Russian drone strike on bus stop in central Ukraine kills three and injures 12",
-      "summary": "The Russian drone targeted a moving bus deliberately as it was pulling in to a stop to allow waiting passengers on board, officials said.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/07/russian-drone-strike-on-bus-stop-kills-three-and-injures-12-in-dnipro",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-07",
-      "time": "08:09",
+      "time": "10:29",
       "conflict_id": null,
       "score": 37.0
     },
@@ -214,6 +242,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-04-07-db079886",
+      "headline": "Taiwan opposition leader visits China for expected meeting with Xi Jinping",
+      "summary": "Cheng Li-wun said she \"gladly accepted\" Xi Jinping's invitation and hopes to be a \"bridge for peace\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0krnz7mmmjo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "07:29",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-07-41f3312d",
       "headline": "India's high-growth economy gets a Middle East oil shock",
       "summary": "India's currency, stocks and growth projections take a beating as the country faces a triple energy shock due to Iran war.",
@@ -228,18 +270,46 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-07-a7095726",
-      "headline": "Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal",
-      "summary": "Proposed transaction would combine world’s largest music group with a blank-cheque company",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
+      "id": "2026-04-07-38a70fb6",
+      "headline": "McEwen Copper in Talks With Lenders to Fund Argentina Project",
+      "summary": "McEwen Copper Inc. is in talks with global lenders as it seeks financing for its $4 billion Los Azules project in Argentina, a potential step toward bringing one of the country’s largest undeveloped deposits into production.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/mcewen-copper-in-talks-with-lenders-to-fund-argentina-project",
+      "region": "SA",
+      "country": "Argentina",
+      "category": "geopolitics",
       "date": "2026-04-07",
-      "time": "09:47",
+      "time": "12:22",
       "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-07-3593cea8",
+      "headline": "Argentina Looks to Global Debt Markets to Finance Energy Boom",
+      "summary": "Argentina’s corporate borrowers are turning to global debt markets with a different goal this year &mdash; funding an energy-driven expansion rather than patching up balance sheets battered by years of crisis.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/argentina-looks-to-global-debt-markets-to-finance-energy-boom",
+      "region": "SA",
+      "country": "Argentina",
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "12:10",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-07-de4555e1",
+      "headline": "Bond Traders Risk Being Wrongfooted by 2022 Playbook, UBS Warns",
+      "summary": "Traders risk being wrongfooted by bets that major central banks will move in unison to respond to the threat of prolonged war in Iran, according to Bhanu Baweja, chief strategist at UBS Group AG.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/bond-traders-risk-being-wrongfooted-by-2022-playbook-ubs-warns",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "11:37",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-04-07-ffbf1847",
@@ -252,48 +322,6 @@
       "category": "business",
       "date": "2026-04-07",
       "time": "10:31",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-07-32462a5b",
-      "headline": "Emerging Markets Extend Rebound as Traders Weigh Ceasefire Odds",
-      "summary": "Emerging-market stocks and currencies extended gains for a third day, as traders pinned hopes on the possibility of a ceasefire in the Middle East and awaited the expiry of President Donald Trump’s deadline for Iran to agree a peace deal.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-07/emerging-markets-extend-rebound-as-traders-weigh-ceasefire-odds",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-07",
-      "time": "09:33",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-07-0a390ad2",
-      "headline": "Brent Oil Is Stressed, Not Broken, by War, Morgan Stanley Says",
-      "summary": "The growing stress in the oil market triggered by the Middle East war is showing up in huge premiums for prompt real-world barrels, with the wider Brent complex working as it should, according to Morgan Stanley.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-07/oil-sees-exceptional-premiums-on-war-stress-morgan-stanley-says",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-07",
-      "time": "06:31",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-07-1f3113e0",
-      "headline": "Ackman Proposes €56 Billion Universal Music Deal",
-      "summary": "Billionaire activist Bill Ackman has pitched a deal which would see his investment firm, Pershing Square, combine with Universal Music, the world’s largest music company. Bloomberg's Benoit Berthelot breaks down the proposal. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-07/ackman-proposes-56-billion-universal-music-deal-video",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-07",
-      "time": "09:26",
       "conflict_id": null,
       "score": 34.1
     },
@@ -321,7 +349,7 @@
       "country": "Australia",
       "category": "geopolitics",
       "date": "2026-04-07",
-      "time": "09:15",
+      "time": "12:03",
       "conflict_id": null,
       "score": 32.0
     },
@@ -354,20 +382,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-04-07-8b9aa9c1",
-      "headline": "Australia charges ex-soldier Roberts-Smith with Afghan war crimes",
-      "summary": "Charges come after Roberts-Smith lost case against reporters who said he was involved in murders of unarmed Afghan men.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/7/australian-soldier-ben-roberts-smith-arrested-over-alleged-war-crimes?traffic_source=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-04-07",
-      "time": "06:14",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-04-07-67e3042b",
       "headline": "Music giant Universal gets $64bn takeover offer",
       "summary": "The music giant behind acts such as Taylor Swift and Sabrina Carpenter gets an offer from Bill Ackman's Pershing Square.",
@@ -377,7 +391,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-04-07",
-      "time": "10:35",
+      "time": "12:35",
       "conflict_id": null,
       "score": 27.0
     },
@@ -394,6 +408,20 @@
       "time": "10:59",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-04-07-a7095726",
+      "headline": "Bill Ackman’s Pershing offers to buy Universal Music in €55bn deal",
+      "summary": "Proposed transaction would combine world’s largest music group with a blank-cheque company",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3322139e-5df5-4a4a-a6d2-ec42ca6a3c4b",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-07",
+      "time": "12:29",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-04-07-a2ecb97a",
@@ -452,6 +480,62 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-07-8aeef4fa",
+      "headline": "Brazil Courts Investors Ahead of Potential Euro Bond Return",
+      "summary": "Brazil is sounding out investors as it weighs a return to global debt markets, potentially paving the way for its first euro-denominated issuance in more than a decade.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/brazil-courts-investors-ahead-of-potential-euro-bond-return",
+      "region": "EU",
+      "country": "Brazil",
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "12:28",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-07-0698a0f3",
+      "headline": "BlackRock, State Street Target Invesco’s $379 Billion Tech Grip",
+      "summary": "Wall Street’s biggest ETF issuers are circling Invesco Ltd.’s Nasdaq 100 franchise, threatening to end its near-exclusive hold on the index.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/blackrock-state-street-target-invesco-s-379-billion-tech-grip",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-07",
+      "time": "11:56",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-07-18b3efd7",
+      "headline": "US Premarket Movers: Broadcom, CVS, Estée Lauder, Wingstop",
+      "summary": "S&amp;P 500 Index futures fall 0.5% as of 7:50 a.m. in New York as traders await President Donald Trump’s Tuesday evening deadline for Iran to make a peace deal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/us-stock-futures-today-broadcom-cvs-estee-lauder-wingstop",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "11:55",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-07-15e34c2a",
+      "headline": "Mozambique Dollar Bonds Slump to 2023 Low on Restructure Plan",
+      "summary": "Mozambique’s dollar bonds fell to the lowest in almost three years after authorities gave the strongest signal yet of plans to seek restructuring talks with creditors.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-07/mozambique-dollar-bonds-slump-to-2023-low-on-restructure-plan",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "11:41",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-07-42c7ff59",
       "headline": "Blackstone Hits $10 Billion Cap for Opportunistic Credit Fund",
       "summary": "Blackstone Inc. raised $10 billion for its latest opportunistic credit fund, signaling sustained appetite from institutional investors to capitalize on upheaval in the private debt market.",
@@ -480,32 +564,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-07-291aeb01",
-      "headline": "Another Trump Ultimatum Leaves Investors Grasping for Direction",
-      "summary": "Stock-index futures erase losses as latest turning point looms",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-04-07/another-trump-ultimatum-leaves-investors-grasping-for-direction",
+      "id": "2026-04-07-32a761cb",
+      "headline": "Trump Calls Artemis II Astronauts After Their Historic Journey Around the Moon",
+      "summary": "The conversation celebrated a small, but significant, step in an ambitious plan for missions to the moon and Mars that Mr. Trump had set early in his first term.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/07/us/politics/trump-nasa-artemis-astronauts-moon.html",
       "region": "NA",
       "country": "Trump",
       "category": "business",
       "date": "2026-04-07",
-      "time": "10:23",
+      "time": "04:26",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-07-c8b4b288",
-      "headline": "How Goldman Sachs Dodged a Private Credit Exodus",
-      "summary": "Goldman Sachs Group says its private credit fund narrowly escaped a broader exodus due to its reliance on institutional investors. Goldman Sachs Private Credit, which manages a so-called non-traded business development company, met redemption requests in the first quarter amounting to 4.999% of its outstanding shares. That contrasts with peers including Blue Owl Capital that saw redemption requests dramatically higher than an industry-wide 5% lim",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-07/how-goldman-sachs-dodged-a-private-credit-exodus-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-07",
-      "time": "09:16",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-04-07-61b41e90",
@@ -522,6 +592,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-04-07-3b76b638",
+      "headline": "Japan has enough oil to last beyond this year, says PM Takaichi",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-has-enough-oil-to-last-beyond-this-year-says-pm-takaichi",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-04-07-989adc66",
       "headline": "Vietnam communist chief becomes president, taking rare dual role",
       "summary": "",
@@ -530,6 +614,20 @@
       "region": "APJ",
       "country": "Vietnam",
       "category": "politics",
+      "date": "2026-04-07",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-04-07-1d11fc5d",
+      "headline": "ASEAN survey finds growing doubts over US on trade and security",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/asean-survey-finds-growing-doubts-over-us-on-trade-and-security",
+      "region": "NA",
+      "country": "ASEAN",
+      "category": "business",
       "date": "2026-04-07",
       "time": "",
       "conflict_id": null,
@@ -592,6 +690,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-04-07-18c76774",
+      "headline": "Venture capital surges to $320mn as Central Asia's startup scene takes off",
+      "summary": "Fresh data from the Central Eurasia Venture Forum in Tashkent points to rising startup funding, AI investment and cross-border activity as governments move to improve access to capital and support market expansion.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/04/07/venture-capital-surges-to-320mn-as-central-asias-startup-scene-takes-off",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "12:05",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-07-99ba03d7",
+      "headline": "Japan enacts largest state budget in history worth €664 billion",
+      "summary": "The upper house of the Japanese parliament has enacted a state budget of ¥122.3 trillion (€664bn), the largest allocation in the country's history. The move reflects PM Takaichi's goal of an expansionary fiscal policy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/04/07/japan-enacts-largest-state-budget-in-history-worth-664-billion",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "politics",
+      "date": "2026-04-07",
+      "time": "11:34",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-07-b99eee8f",
       "headline": "Robot taxes, four-day work week: Inside OpenAI’s plan for an AI-driven economy",
       "summary": "The company believes that AIs will soon become smarter than humans, which will have a drastic effect on how people work, live and pay taxes.",
@@ -604,20 +730,6 @@
       "time": "10:13",
       "conflict_id": null,
       "score": 21.0
-    },
-    {
-      "id": "2026-04-06-6328ca5b",
-      "headline": "Stocks Drop and Oil Climbs Before Iran Deadline: Markets Wrap",
-      "summary": "Stocks fell and oil advanced in the countdown to US President Donald Trump’s Tuesday evening deadline for Iran to agree to a ceasefire or face escalation.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-06/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-06",
-      "time": "22:36",
-      "conflict_id": null,
-      "score": 58.1
     },
     {
       "id": "2026-04-06-3760906c",
@@ -634,6 +746,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-04-06-3b5e19e4",
+      "headline": "Little sign of breakthrough as Trump's Iran deadline nears",
+      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "23:04",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
       "id": "2026-04-06-9fccf3a4",
       "headline": "Trump threatens to take out Iran in 'one night' if no deal before deadline",
       "summary": "The US president wants Tehran to reopen the Strait of Hormuz, a critical global energy route, before his Tuesday deadline.",
@@ -648,60 +774,18 @@
       "score": 52.0
     },
     {
-      "id": "2026-04-06-7b1cd26c",
-      "headline": "Trump's deadline looms but Asian nations already have deals with Iran",
-      "summary": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "23:34",
-      "conflict_id": null,
-      "score": 52.0
-    },
-    {
-      "id": "2026-04-06-0c973906",
-      "headline": "Markets on edge as Trump’s deadline for Iran deal looms",
-      "summary": "Tehran says US president’s ‘rude’ and ‘baseless’ threats do not make up for America’s ‘humiliation’ in the region",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e49f0110-f07b-4480-9ea4-2b37aab2c906",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "23:39",
-      "conflict_id": null,
-      "score": 51.4
-    },
-    {
-      "id": "2026-04-06-a01d361c",
-      "headline": "Oil Swings Sharply in Choppy Trade Before Trump’s Iran Deadline",
+      "id": "2026-04-06-8cc49715",
+      "headline": "Oil Edges Higher in Choppy Trading Before Trump’s Iran Deadline",
       "summary": "Oil bounced between gains and losses in a volatile session, with a deadline looming for Iran to meet US President Donald Trump’s demand to reopen the Strait of Hormuz or face the destruction of key infrastructure.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-06/latest-oil-market-news-and-analysis-for-april-7",
       "region": "NA",
       "country": "Trump",
-      "category": "business",
+      "category": "geopolitics",
       "date": "2026-04-06",
       "time": "22:07",
       "conflict_id": null,
       "score": 51.1
-    },
-    {
-      "id": "2026-04-06-3b5e19e4",
-      "headline": "Little sign of breakthrough as Trump's Iran deadline nears",
-      "summary": "The US president is in a delicate political position as the final hours to Tuesday's deadline for Iran to open the Strait of Hormuz tick down.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czexw94rj5jo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-06",
-      "time": "23:04",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-04-06-20426b20",
@@ -714,6 +798,20 @@
       "category": "geopolitics",
       "date": "2026-04-06",
       "time": "04:56",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-04-06-7b1cd26c",
+      "headline": "Trump's deadline looms but Asian nations already have deals with Iran",
+      "summary": "Nations in the region have been keen to reach agreements as their economies are heavily reliant on Middle East energy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c79jqx1xdy9o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-06",
+      "time": "23:34",
       "conflict_id": null,
       "score": 51.0
     },
@@ -788,6 +886,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-06-edac3465",
+      "headline": "MAK Tells Evotec to List US Unit Worth Over €1 Billion",
+      "summary": "Activist fund MAK Capital, led by Michael A. Kaufman, has urged the leadership of German biotech firm Evotec SE to list its US unit and speed up its cost cutting program after the shares have lost about 85% over the past five years.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-06/mak-capital-tells-evotec-to-list-us-unit-worth-over-1-billion",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-06",
+      "time": "19:37",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-06-12f18e81",
       "headline": "Shots Fired at Indianapolis Councilman’s Home, After Vote Backing Data Center",
       "summary": "No one was injured, but the councilman, Ron Gibson, called it “deeply unsettling.”",
@@ -814,20 +926,6 @@
       "time": "15:19",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-04-05-120962b6",
-      "headline": "Trump threatens Iran with ‘Hell’ over Strait of Hormuz in profane post",
-      "summary": "Trump escalated threats against Iran’s power plants, bridges and other infrastructure in an expletive-laden post on Truth Social on Easter morning.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/05/trump-iran-strait-hormuz-easter-threat/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "17:17",
-      "conflict_id": null,
-      "score": 49.9
     },
     {
       "id": "2026-04-05-e197d12b",
@@ -912,20 +1010,6 @@
       "time": "23:14",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-03-01483be3",
-      "headline": "A day in the life of Asia’s fuel crisis",
-      "summary": "From farms in New Zealand to factories in Delhi, the effects of the oil crisis triggered by the Iran war are rippling across Asia Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/03/asia-fuel-crisis-iran-war-ordinary-workers",
-      "region": "MENA",
-      "country": "New Zealand",
-      "category": "geopolitics",
-      "date": "2026-04-03",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-04-03-772e12a0",
@@ -1023,7 +1107,7 @@
       "date": "2026-04-01",
       "time": "12:51",
       "conflict_id": null,
-      "score": 49.8
+      "score": 57.8
     },
     {
       "id": "2026-04-01-52a029ca",
