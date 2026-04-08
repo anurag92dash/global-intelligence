@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-08T08:18:44.563248+00:00",
-  "story_count": 72,
-  "source_count": 8,
+  "updated": "2026-04-08T09:40:12.211711+00:00",
+  "story_count": 80,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-04-08-c1071b5e",
@@ -18,22 +18,8 @@
       "score": 68.0
     },
     {
-      "id": "2026-04-08-7550a24c",
-      "headline": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "08:15",
-      "conflict_id": null,
-      "score": 68.0
-    },
-    {
-      "id": "2026-04-08-2a0fdaca",
-      "headline": "Stock Futures Jump on US, Iran Agreement for Two-Week Ceasefire",
+      "id": "2026-04-08-2195d9c3",
+      "headline": "US Stock Futures Jump as Two-Week Ceasefire Brings Relief",
       "summary": "US stock index futures rallied after President Donald Trump’s announcement of a two-week ceasefire in the Iran war triggered relief across markets.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-07/us-stock-futures-rise-oscar-health-levi-strauss-gain",
@@ -46,18 +32,32 @@
       "score": 67.1
     },
     {
-      "id": "2026-04-08-b3599908",
-      "headline": "Iran War: Trump Agrees to Two-Week Iran Ceasefire, Oil Slumps | Daybreak Europe 4/8/2026",
-      "summary": "Bloomberg Daybreak Europe is your essential morning viewing to stay ahead. Live from London, we set the agenda for your day, catching you up with overnight markets news from the US and Asia. \n\nOn today's show, the US and Iran have agreed to a two‑week ceasefire. President Trump said the pause is subject to the Strait of Hormuz reopening and that he’s also received a 10-point proposal from Iran.\n\nIran said safe passage through the strait would be ",
+      "id": "2026-04-08-267e7bc4",
+      "headline": "Korean Stocks, Won Surge as Iran Ceasefire Spurs Relief Rally",
+      "summary": "South Korean assets surged after a last-minute temporary truce in the six-week old war in Iran raised hopes of easing energy supply disruptions, lifting risk appetite.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-08/daybreak-europe-4-8-2026-video",
-      "region": "EU",
-      "country": "Europe",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/korean-stocks-won-surge-after-iran-ceasefire-brings-relief",
+      "region": "MENA",
+      "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-04-08",
-      "time": "06:54",
+      "time": "01:30",
       "conflict_id": null,
       "score": 67.1
+    },
+    {
+      "id": "2026-04-08-7550a24c",
+      "headline": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but is higher than before the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "08:15",
+      "conflict_id": null,
+      "score": 67.0
     },
     {
       "id": "2026-04-08-4f198a37",
@@ -132,12 +132,12 @@
     {
       "id": "2026-04-08-b78fb503",
       "headline": "US and Iran agree 2-week ceasefire that will open Strait of Hormuz",
-      "summary": "Agreement sparks relief rally in global stock markets as oil price tumbles",
+      "summary": "Donald Trump says 10-point plan from Iran is ‘workable basis’ for negotiations",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/d8e9e0e9-9417-47ad-a915-ba08049d643f",
       "region": "NA",
-      "country": "Iran",
-      "category": "business",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-04-08",
       "time": "07:27",
       "conflict_id": null,
@@ -158,32 +158,46 @@
       "score": 59.4
     },
     {
-      "id": "2026-04-08-edae61d5",
-      "headline": "Soybean Oil Tumbles After US, Iran Ceasefire Plan",
-      "summary": "Soybean oil fell the most in three weeks after a temporary ceasefire between the US and Iran pushed crude prices lower, denting the appeal of crop-based biofuels. Palm oil also declined.",
+      "id": "2026-04-08-a1e2574c",
+      "headline": "Iran Ceasefire Deal Sends Wave of Relief Through Markets",
+      "summary": "Markets breathed a sigh of relief after the US-Iran ceasefire sent oil plunging. Ruth Carson explains. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-08/us-soybean-oil-futures-sink-5-on-iran-ceasefire-plan",
-      "region": "NA",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-08/iran-ceasefire-deal-sends-wave-of-relief-through-markets-video",
+      "region": "MENA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-08",
-      "time": "00:37",
+      "time": "09:34",
       "conflict_id": null,
       "score": 59.1
     },
     {
-      "id": "2026-04-08-5a8b10fe",
-      "headline": "US and Iran Agree to Two-Week Ceasefire",
-      "summary": "The US and Iran have agreed to a two-week ceasefire in exchange for Tehran reopening the Strait of Hormuz.\n\nIt comes after President Donald Trump’s earlier threats to unleash massive devastation in Iran if its leaders didn’t comply with his demands. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-08/us-and-iran-agree-to-two-week-ceasefire-video",
+      "id": "2026-04-08-76e4e469",
+      "headline": "Lawmakers Greet Iran Cease-fire With Relief and More Questions",
+      "summary": "Democrats continued to raise serious questions about a path forward while Republican leaders were mostly mum on President Trump’s decision to de-escalate tensions.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/07/us/politics/lawmakers-cease-fire-reaction.html",
       "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "02:43",
+      "conflict_id": null,
+      "score": 57.2
+    },
+    {
+      "id": "2026-04-08-23d089e8",
+      "headline": "Tehran celebrates as Iran, US agree to two-week ceasefire",
+      "summary": "Iran hails the pause in hostilities as a &#039;victory&#039;, crediting national unity and patience for the agreement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/4/8/tehran-celebrates-as-iran-us-agree-to-two-week-ceasefire?traffic_source=rss",
+      "region": "MENA",
       "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-04-08",
-      "time": "06:54",
+      "time": "08:21",
       "conflict_id": null,
-      "score": 59.1
+      "score": 56.4
     },
     {
       "id": "2026-04-08-419478c1",
@@ -214,6 +228,48 @@
       "score": 55.8
     },
     {
+      "id": "2026-04-08-328557db",
+      "headline": "Iran ceasefire effect: Oil plunges as European markets surge",
+      "summary": "Oil prices plunged below $100 a barrel after the US and Iran agreed to a two-week ceasefire that includes the reopening of the Strait of Hormuz.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/04/08/iran-ceasefire-pushes-oil-prices-down-as-markets-remain-cautious",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "07:14",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-04-08-ca1781e2",
+      "headline": "Emerging Market Stocks Surge Most Since 2022 After Iran Truce",
+      "summary": "The rebound in emerging-market assets accelerated Wednesday, with stocks heading for their best day since 2022 and currencies erasing year-to-date losses after a ceasefire between the US and Iran pushed oil prices lower.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/emerging-market-assets-rally-as-iran-ceasefire-spurs-risk-demand",
+      "region": "NA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-04-08",
+      "time": "03:24",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-04-08-62bf4671",
+      "headline": "Shell Says Oil Trade Profit Surged as Iran War Caused Chaos",
+      "summary": "Shell Plc’s vast oil trading operation boosted earnings in the first quarter as the war in the Middle East upended global energy markets.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/shell-says-oil-trading-significantly-higher-despite-war-woes",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-04-08",
+      "time": "06:13",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
       "id": "2026-04-08-7d6c4c5c",
       "headline": "Ben Roberts-Smith to remain in jail after bail hearing over war crimes charges",
       "summary": "Former SAS soldier and Victoria Cross recipient, who has always denied wrongdoing, did not immediately apply for bail on WednesdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBen Roberts-Smith will remain in jail for at least a week after his legal representatives declined to apply for bail on Wednesday, a day after Australia’s most decorated soldier was charged with war crimes.H",
@@ -226,6 +282,48 @@
       "time": "05:21",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-04-08-4f2e2b82",
+      "headline": "Newsletter: US and Iran agree to two-week truce, Strait of Hormuz set to reopen",
+      "summary": "Also in this newsletter: JD Vance attacks the EU to boost Orbán’s campaign ahead of Hungarian vote.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/08/newsletter-us-and-iran-agree-to-two-week-truce-strait-of-hormuz-set-to-reopen",
+      "region": "EU",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "06:50",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
+      "id": "2026-04-08-6a64723e",
+      "headline": "Europe Today: Trump backs down on Iran again as Hormuz set to reopen after temporary deal",
+      "summary": "Tune in to Europe Today, Euronews' flagship morning programme at 8 am Brussels time. In just 20 minutes, we bring you up to speed on the biggest news of the day.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/08/europe-today-trump-backs-down-on-iran-again-as-hormuz-set-to-reopen-after-temporary-deal",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "05:52",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
+      "id": "2026-04-08-ad0b8e08",
+      "headline": "EU made 'no diplomatic effort' to end Iran war, MEP Botenga tells Euronews",
+      "summary": "The Left MEP told Euronews' morning show Europe Today on Wednesday that the EU should have \"condemned war crimes\" in Iran and welcomed the announcement of the two-week ceasefire by Washington and Tehran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/08/eu-made-no-diplomatic-effort-to-end-iran-war-mep-botenga-tells-euronews",
+      "region": "EU",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "08:54",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-04-08-fc204d70",
@@ -256,20 +354,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-08-68ed5127",
-      "headline": "European Stocks Soar Most in a Year on US-Iran Ceasefire",
-      "summary": "European stocks soared the most in a year as investors rushed to buy stocks in the wake of US and Iran agreeing to a two-week ceasefire in exchange for Tehran reopening the Strait of Hormuz.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-08/european-stocks-set-for-biggest-rise-since-2022-on-iran-us-deal",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "05:27",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-04-08-bbc0d5d8",
       "headline": "Polls in Wisconsin Reflect a More Muted Supreme Court Race",
       "summary": "This year’s election has featured more undecided voters and lower overall awareness compared with recent cycles.",
@@ -284,8 +368,8 @@
       "score": 41.2
     },
     {
-      "id": "2026-04-08-f0f16ec9",
-      "headline": "Truck drivers warn fuel crisis could see industry ‘grind to a halt’ – As it happened",
+      "id": "2026-04-08-94b9e66b",
+      "headline": "Truck drivers warn fuel crisis could see industry ‘grind to a halt’ – as it happened",
       "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastCyclone-hammered reefs can take many years to recover, study findsStorm-ravaged coral reefs might never have the years required to recover if tropical cyclones become more intense and frequent due to climate change, marine researchers say. Continue reading...",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/08/ben-roberts-smith-court-anthony-albanese-labor-angus-taylor-matt-canavan-liberal-national-coalition-fuel-prices-oil-crisis-iran-war-ntwnfb",
@@ -314,16 +398,30 @@
     {
       "id": "2026-04-08-a89180fa",
       "headline": "JD Vance continues Hungary visit after accusing EU of election interference – Europe live",
-      "summary": "US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on SundayUS vice-president JD Vance continues his stay in Budapest, where he is expected to address the conservative Mathias Corvinus Collegium this morning on the back of his yesterday’s “not-at-all endorsement” of the embattled prime minister Viktor Orbán, five days out from the key election on Sunday.His comments yesterday caused quite a stir after he repeatedly blast",
+      "summary": "US vice-president has repeatedly endorsed Viktor Orbán ahead of key election on SundayHere we go. The Budapest event with JD Vance now gets under way. Continue reading...",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/apr/08/jd-vance-hungary-viktor-orban-election-nato-europe-latest-news-updates",
       "region": "EU",
       "country": "Hungary",
       "category": "politics",
       "date": "2026-04-08",
-      "time": "07:52",
+      "time": "09:23",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-04-08-81111192",
+      "headline": "Simkus Says Situation Moving Toward ECB’s Adverse Scenario",
+      "summary": "The Iran war is pushing the euro-area economy closer to the European Central Bank’s adverse scenario, Governing Council member Gediminas Simkus said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-08/simkus-says-situation-is-moving-toward-ecb-s-adverse-scenario",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-04-08",
+      "time": "08:56",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-04-08-72c14c36",
@@ -408,6 +506,34 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-04-08-cdb3ec53",
+      "headline": "Rutte meets Trump in Washington amid US threat to leave NATO",
+      "summary": "The Secretary General faces a delicate task: persuading Trump of the benefits of remaining in NATO, or risking deeper isolation in an increasingly unstable world. While Rutte’s reliance on flattery towards the US president has unsettled some allies, NATO observers say it's necessary.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/08/rutte-meets-trump-in-washington-amid-us-threat-to-leave-nato",
+      "region": "NA",
+      "country": "Washington",
+      "category": "politics",
+      "date": "2026-04-08",
+      "time": "08:04",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-04-08-f291f42a",
+      "headline": "European bonds surge as traders trim bets on interest rate rises",
+      "summary": "Government debt in UK and Eurozone on course for strongest day since 2023",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d95b2a55-9441-4d68-80e3-1dee0ead31c8",
+      "region": "EU",
+      "country": "Eurozone",
+      "category": "business",
+      "date": "2026-04-08",
+      "time": "09:16",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-04-08-79dcc84e",
@@ -540,7 +666,7 @@
       "headline": "Japan passes its biggest ever budget: 5 things to know",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/explainer/japan-passes-its-biggest-ever-budget-5-things-to-know",
+      "url": "https://asia.nikkei.com/politics/japan-passes-its-biggest-ever-budget-5-things-to-know2",
       "region": "APJ",
       "country": "Japan",
       "category": "business",
@@ -620,18 +746,32 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-08-3b76b638",
-      "headline": "Japan has enough oil to last beyond this year, says PM Takaichi",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-has-enough-oil-to-last-beyond-this-year-says-pm-takaichi",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-04-08-a66f4693",
+      "headline": "Art Paris 2026: Language, memory and reparation take centre stage at the Grand Palais",
+      "summary": "Art Paris returns to the Grand Palais this weekend with 160 galleries, new design showcases and curated themes exploring language, history and reparation.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/04/08/art-paris-2026-language-memory-and-reparation-take-centre-stage-at-the-grand-palais",
+      "region": "EU",
+      "country": null,
       "category": "business",
       "date": "2026-04-08",
-      "time": "",
+      "time": "05:14",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-08-88c7148c",
+      "headline": "Road trips for gig trips: New app can curate music travel itineraries for fans",
+      "summary": "Music tourism has become one of travel’s hottest trends and now a US-based app is aiming for similar chart-topping popularity.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/04/08/road-trips-for-gig-trips-new-app-can-curate-music-travel-itineraries-for-fans",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-08",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-04-07-d25670a5",
@@ -676,20 +816,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-04-07-dc26ef64",
-      "headline": "Vance says he prays U.S. is ‘on God’s side’ in Iran war",
-      "summary": "When asked whether he shared Trump’s view that the U.S.-Israeli war on Iran carried divine backing, the vice president declined to go as far.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/07/vance-iran-war-god/",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-07",
-      "time": "16:01",
-      "conflict_id": null,
-      "score": 48.9
-    },
-    {
       "id": "2026-04-07-f733723c",
       "headline": "World held hostage by reliance on fossil fuels, Christiana Figueres warns – and climate health impacts are ‘mother of all injustices’",
       "summary": "Exclusive: Former UN climate chief to co-chair Lancet Commission examining how sea-level rise is reshaping health, wellbeing and inequalityWhat are the health impacts of sea-level rise, and who should pay?Christiana Figueres: Sea-level rise is a health crisis and we must hold polluters accountableCountries are being “held hostage” by their reliance on fossil fuels, a former UN climate chief has warned, describing the health impacts of climate cha",
@@ -714,20 +840,6 @@
       "category": "politics",
       "date": "2026-04-07",
       "time": "18:11",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-07-d45dfbdd",
-      "headline": "Why Real Madrid tie could make or break Kane's Ballon d'Or hopes",
-      "summary": "Harry Kane is the leading goalscorer in Europe but does he need to win a major trophy to have a chance of winning the prestigious award?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-04-07",
-      "time": "05:40",
       "conflict_id": null,
       "score": 35.0
     },
@@ -788,20 +900,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-07-cf02c50d",
-      "headline": "Vietnam's leader To Lam strengthens power in unanimous assembly vote",
-      "summary": "Vietnam's communist party chief is now also the country's president - an unusual concentration of power.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgwkmn1rzxo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Vietnam",
-      "category": "politics",
-      "date": "2026-04-07",
-      "time": "10:59",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-04-07-b256431f",
       "headline": "Carnival fever hits Lagos as locals celebrate Afro-Brazilian heritage",
       "summary": "The centuries-old Fanti Carnival returned to Nigeria on Monday with a burst of colour and spectacle.",
@@ -826,6 +924,20 @@
       "category": "business",
       "date": "2026-04-07",
       "time": "13:24",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-04-07-0ea4bc52",
+      "headline": "The US refinery now processing Venezuelan oil",
+      "summary": "Chevron is now importing 250,000 barrels of crude per day from Venezuela.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx24n8eqzgyo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-04-07",
+      "time": "23:00",
       "conflict_id": null,
       "score": 27.0
     },
@@ -872,6 +984,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-04-07-6d1295a6",
+      "headline": "Police destroy opium poppy fields in Pakistan",
+      "summary": "Pakistani police destroyed hectares of opium poppy fields in a tribal region near the Afghan border, as farmers said poverty leaves them few alternatives.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/08/police-destroy-opium-poppy-fields-in-pakistan",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "22:56",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-06-3760906c",
       "headline": "Ten killed in Israeli strikes and clashes between Hamas and militia in Gaza, local sources say",
       "summary": "The Israeli strikes reportedly targeted Hamas security personnel after they clashed with an Israeli-backed militia near Maghazi camp.",
@@ -896,20 +1022,6 @@
       "category": "business",
       "date": "2026-04-05",
       "time": "23:19",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-05-e197d12b",
-      "headline": "Hungary alleges plot to blow up gas pipeline ahead of election",
-      "summary": "It comes a week before votes are cast and follows warnings of so-called false flag operations blamed on Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "19:17",
       "conflict_id": null,
       "score": 35.0
     },
@@ -967,7 +1079,7 @@
       "date": "2026-04-02",
       "time": "03:22",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-04-02-63494251",
@@ -1009,7 +1121,7 @@
       "date": "2026-04-01",
       "time": "07:16",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     }
   ]
 }
