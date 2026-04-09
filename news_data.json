@@ -1,21 +1,35 @@
 {
-  "updated": "2026-04-09T22:31:39.481043+00:00",
-  "story_count": 79,
+  "updated": "2026-04-09T23:23:34.070568+00:00",
+  "story_count": 78,
   "source_count": 9,
   "stories": [
     {
-      "id": "2026-04-09-04807a45",
-      "headline": "US Democrats warn Trump that Iran ceasefire must apply to Lebanon",
-      "summary": "Democratic lawmakers tell White House that allowing Israel to continue to bomb Lebanon could reignite the regional war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/us-democrats-warn-trump-that-iran-ceasefire-must-apply-to-lebanon?traffic_source=rss",
-      "region": "NA",
-      "country": "White House",
+      "id": "2026-04-09-2f98fcd1",
+      "headline": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
+      "summary": "Kremlin proposes 32-hour ceasefire starting on Saturday afternoon – with Ukraine expected to agree to planVladimir Putin has declared a 32-hour ceasefire in Ukraine over the Orthodox Easter weekend, after an earlier call from Volodymyr Zelenskyy for a pause.The president’s decree, released by the Kremlin on Thursday, orders Russian forces to observe a ceasefire starting on 4pm Saturday and lasting until the end of Sunday. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-09",
-      "time": "17:38",
-      "conflict_id": null,
-      "score": 64.4
+      "time": "20:23",
+      "conflict_id": "ukraine-war",
+      "score": 68.0
+    },
+    {
+      "id": "2026-04-09-7c7de682",
+      "headline": "Russia's president announces Orthodox Easter ceasefire with Ukraine, Kremlin says",
+      "summary": "Ukraine’s President Volodymyr Zelenskyy had previously signalled Kyiv's openness to a potential Easter truce.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/09/russias-president-announces-orthodox-easter-ceasefire-with-ukraine-kremlin-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "19:29",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
     },
     {
       "id": "2026-04-09-14ef6e3a",
@@ -32,20 +46,6 @@
       "score": 64.0
     },
     {
-      "id": "2026-04-09-2f98fcd1",
-      "headline": "Vladimir Putin announces Orthodox Easter ceasefire with Ukraine",
-      "summary": "Kremlin proposes 32-hour ceasefire starting on Saturday afternoon – with Ukraine expected to agree to planVladimir Putin has declared a 32-hour ceasefire in Ukraine over the Orthodox Easter weekend, after an earlier call from Volodymyr Zelenskyy for a pause.The president’s decree, released by the Kremlin on Thursday, orders Russian forces to observe a ceasefire starting on 4pm Saturday and lasting until the end of Sunday. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/09/vladimir-putin-announces-orthodox-easter-ceasefire-with-ukraine",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "20:23",
-      "conflict_id": "ukraine-war",
-      "score": 60.0
-    },
-    {
       "id": "2026-04-09-cbd870a0",
       "headline": "Israel to hold direct talks with Lebanon but no ceasefire, Netanyahu says",
       "summary": "Lebanese officials had called for a ceasefire before talks begin.",
@@ -58,34 +58,6 @@
       "time": "20:47",
       "conflict_id": null,
       "score": 59.0
-    },
-    {
-      "id": "2026-04-09-b91bd7b9",
-      "headline": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
-      "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "17:11",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-04-09-7c7de682",
-      "headline": "Russia's president announces Orthodox Easter ceasefire with Ukraine, Kremlin says",
-      "summary": "Ukraine’s President Volodymyr Zelenskyy had previously signalled Kyiv's openness to a potential Easter truce.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/09/russias-president-announces-orthodox-easter-ceasefire-with-ukraine-kremlin-says",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "19:29",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
     },
     {
       "id": "2026-04-09-dc0684de",
@@ -186,6 +158,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-04-09-0424b3d5",
+      "headline": "Gold Steadies as Traders Weigh Prospects for Iran War Ceasefire",
+      "summary": "Gold steadied after three days of gains, with US President Donald Trump saying he is “optimistic” about a deal with Iran despite the continued closure of the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/gold-steadies-as-traders-weigh-prospects-for-iran-war-ceasefire",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "22:31",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
       "id": "2026-04-09-98d967a0",
       "headline": "Who can claim victory if Iran ceasefire holds? An early winner is China",
       "summary": "Beijing’s powerbrokers are credited with winning Iran over, although one analyst says they were ‘pushing an open door’Middle East crisis – live updatesAs the world struggles to make sense of what, if anything, was achieved by the ceasefire deal announced by the US and Iran on Tuesday, one major power that stands to win regardless is China.Beijing’s powerbrokers are being credited with pushing Iran towards agreeing to the ceasefire, bolstering its",
@@ -200,6 +186,20 @@
       "score": 48.0
     },
     {
+      "id": "2026-04-09-86061a7b",
+      "headline": "Ceasefire or no ceasefire, the Middle East's reshuffling is not yet done",
+      "summary": "Both sides have reason to end the war but share no common ground.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3l4yk5rlgo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "23:01",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-04-09-f872b49a",
       "headline": "Trump criticises Nato as alliance chief describes meeting as 'very frank'",
       "summary": "The US president says Nato \"wasn't there when we needed them\" during the Iran war.",
@@ -210,6 +210,20 @@
       "category": "geopolitics",
       "date": "2026-04-09",
       "time": "01:59",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-09-5a46f94b",
+      "headline": "Russia and Ukraine agree to truce for Orthodox Easter",
+      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon on 11 April through Easter Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "22:33",
       "conflict_id": null,
       "score": 43.0
     },
@@ -251,7 +265,7 @@
       "country": "Congress",
       "category": "politics",
       "date": "2026-04-09",
-      "time": "22:19",
+      "time": "23:03",
       "conflict_id": null,
       "score": 41.2
     },
@@ -298,20 +312,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-04-09-b20b8df0",
-      "headline": "UK says three Russian submarines tracked during ‘covert’ operation",
-      "summary": "British defence minister says the operation did not find evidence that Russia had damaged undersea infrastructure.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/uk-says-three-russian-submarines-tracked-during-covert-operation?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "18:20",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-04-09-f55d1ec8",
       "headline": "US First Lady Melania Trump says 'I was not a participant' in Epstein sexual abuse",
       "summary": "Epstein died in federal custody in 2019 while awaiting trial on sex trafficking charges involving minors, but the scandal has repeatedly overshadowed Trump's second presidency.",
@@ -322,20 +322,6 @@
       "category": "business",
       "date": "2026-04-09",
       "time": "19:17",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-04-09-59b61747",
-      "headline": "EU rejects Trump's 'joint venture' with Iran to charge ships through Strait of Hormuz",
-      "summary": "Donald Trump has floated the idea of a \"joint venture\" to set up tolls in the Strait of Hormuz. The European Commission says this would be unlawful.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/09/eu-rejects-trumps-joint-venture-to-charge-ships-through-the-strait-of-hormuz",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "15:41",
       "conflict_id": null,
       "score": 37.0
     },
@@ -424,6 +410,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-04-09-39babae1",
+      "headline": "Police in Venezuela block protesters calling for higher wages, pensions",
+      "summary": "Cost of living issues have persisted in Venezuela since the US abducted former President Nicolas Maduro in January.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/police-in-venezuela-block-protesters-calling-for-higher-wages-pensions?traffic_source=rss",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-04-09",
+      "time": "22:50",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-04-09-124c66a9",
       "headline": "CAF President Motsepe rejects Senegal’s corruption claim amid AFCON fallout",
       "summary": "Senegal&#039;s government alleged corruption at African football&#039;s governing body after AFCON title awarded to Morocco.",
@@ -436,6 +436,20 @@
       "time": "21:33",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-04-09-30d4f7d9",
+      "headline": "Venezuela police use tear gas against protesters demanding better pay and pensions",
+      "summary": "The monthly minimum wage in Venezuela is 130 bolivars (€0.23), unchanged since 2022, and roughly 330 times lower than the UN poverty line of $3 (€2.56) a day.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/09/venezuela-police-use-tear-gas-against-protesters-demanding-better-pay-and-pensions",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-04-09",
+      "time": "18:56",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-04-09-80cc0523",
@@ -494,6 +508,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-09-2f2e37c4",
+      "headline": "Oil Extends Gain After Attacks Lower Saudi Production Capacity",
+      "summary": "Oil rose a second day, but is still on track for its biggest weekly loss since June, after Saudi Arabia’s production capacity was cut due to attacks on energy infrastructure.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/latest-oil-market-news-and-analysis-for-april-10",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-09-fcade40b",
       "headline": "Mercer Bonds Sink as Pulp Firm Seeks to Strip Lender Protections",
       "summary": "Mercer International Inc.’s bonds slumped after it sought to ditch rules requiring equal treatment for all creditors &mdash; a move that would give the struggling pulp producer the power to pick and choose which lenders to favor in a restructuring.",
@@ -504,20 +532,6 @@
       "category": "business",
       "date": "2026-04-09",
       "time": "22:05",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-09-c7830140",
-      "headline": "Oil Holds Gain After Attacks Lower Saudi Production Capacity",
-      "summary": "Oil rose a second day, but is still on track for its biggest weekly loss since June, after Saudi Arabia’s production capacity was cut due to attacks on energy infrastructure.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/latest-oil-market-news-and-analysis-for-april-10",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-04-09",
-      "time": "22:01",
       "conflict_id": null,
       "score": 26.1
     },
@@ -662,20 +676,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-04-09-914e4720",
-      "headline": "On Social Media, Democratic Politicians Are Letting the F-Word Fly",
-      "summary": "Democratic politicians are swearing with glee. It is usually aimed at President Trump.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/09/us/politics/democrats-social-media-profanity-f-word.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-09",
-      "time": "16:14",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-04-09-7b35d86f",
       "headline": "Lidl to open 50 UK stores in year ahead – and its first pub",
       "summary": "Almost 2,000 jobs will be created, with retailer vying to overtake Morrisons as Britain’s fifth largest supermarket Lidl is to open 50 new UK stores in the year ahead – as well as its first pub – as it aims to overtake Morrisons as the country’s fifth largest supermarket chain.The German-owned retailer has begun building a pub in east Belfast in response to strict local licensing laws that cap the number of premises that can sell alcohol. Continu",
@@ -788,20 +788,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-09-30d4f7d9",
-      "headline": "Venezuela police use tear gas against protesters demanding better pay and pensions",
-      "summary": "The monthly minimum wage in Venezuela is 130 bolivars (€0.23), unchanged since 2022, and roughly 330 times lower than the UN poverty line of $3 (€2.56) a day.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/09/venezuela-police-use-tear-gas-against-protesters-demanding-better-pay-and-pensions",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-04-09",
-      "time": "18:56",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-09-32f451ce",
       "headline": "Lights, camera, action: How set-jetting tourism boosts Madrid's economy",
       "summary": "Madrid’s landmarks have turned the Spanish capital into a sought-after destination for film productions and fans are keen to visit the set locations.",
@@ -816,20 +802,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-04-08-2f7a58a4",
-      "headline": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
-      "summary": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "05:03",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
       "id": "2026-04-08-c1071b5e",
       "headline": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
       "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
@@ -840,6 +812,20 @@
       "category": "geopolitics",
       "date": "2026-04-08",
       "time": "03:30",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-04-08-2f7a58a4",
+      "headline": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
+      "summary": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj401qvgg19o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "05:03",
       "conflict_id": null,
       "score": 51.0
     },
