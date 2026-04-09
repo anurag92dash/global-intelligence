@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-09T15:59:12.819917+00:00",
-  "story_count": 72,
-  "source_count": 9,
+  "updated": "2026-04-09T17:05:43.092675+00:00",
+  "story_count": 79,
+  "source_count": 10,
   "stories": [
-    {
-      "id": "2026-04-09-54e1356b",
-      "headline": "Has US achieved its war objectives in Iran?",
-      "summary": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "13:11",
-      "conflict_id": null,
-      "score": 67.0
-    },
     {
       "id": "2026-04-09-5fd63f13",
       "headline": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
@@ -29,7 +15,7 @@
       "date": "2026-04-09",
       "time": "11:39",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-04-09-b91bd7b9",
@@ -46,20 +32,6 @@
       "score": 59.0
     },
     {
-      "id": "2026-04-09-f7e3fef4",
-      "headline": "Iran war has exposed the weakness of the dollar",
-      "summary": "As Opec members have long understood, it is not a good idea to give users of your product an incentive to find alternatives",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ace89a7d-39f1-4901-ab32-fdb8ab2b86aa",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 58.4
-    },
-    {
       "id": "2026-04-09-9d26c7d3",
       "headline": "The Fragile Cease-Fire in Iran",
       "summary": "President Trump announced a conditional cease-fire with Israel on Iran, but the fundamental issues that led to the war remain unresolved.",
@@ -74,18 +46,46 @@
       "score": 57.2
     },
     {
-      "id": "2026-04-09-53c6db5b",
-      "headline": "Ukraine’s veterans’ theatre turns war wounds into catharsis",
-      "summary": "Wounded soldiers, wives and widows workshop ideas and stage plays in Kyiv, bringing the audience to tears.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/ukraines-veterans-theatre-turns-war-wounds-into-catharsis?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-04-09-9f9ff82c",
+      "headline": "Asian stocks shy of full recovery amid fragile Iran ceasefire",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/asian-stocks-shy-of-full-recovery-amid-fragile-iran-ceasefire",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-09",
-      "time": "08:57",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
+      "time": "",
+      "conflict_id": null,
+      "score": 55.8
+    },
+    {
+      "id": "2026-04-09-78e18680",
+      "headline": "Funeral held for Al Jazeera’s Wishah killed in Israeli strike in Gaza",
+      "summary": "More than 260 journalists have been killed by Israel in Gaza since the start of the genocide in October 2023.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/funeral-held-for-al-jazeeras-wishah-killed-in-israeli-strike-in-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "11:54",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-04-09-d2feddd0",
+      "headline": "Gaza mourns Al Jazeera reporter Mohammed Wishah killed iin Israeli drone strike",
+      "summary": "Gaza was mourning Al Jazeera correspondent Mohammed Wishah on Thursday after he was killed in an Israeli drone strike that hit his car west of Gaza City a day earlier.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/09/gaza-mourns-al-jazeera-reporter-mohammed-wishah-killed-iin-israeli-drone-strike",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "13:44",
+      "conflict_id": null,
+      "score": 54.0
     },
     {
       "id": "2026-04-09-f872b49a",
@@ -130,6 +130,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-04-09-54e1356b",
+      "headline": "Has US achieved its war objectives in Iran?",
+      "summary": "Key US objectives at the start of the war were to stop Iran getting a nuclear weapon and degrading its arsenal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1krpjr91v2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "13:11",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-04-09-aa1ecd40",
       "headline": "Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal",
       "summary": "After careening from one diplomatic extreme to another, President Trump finds himself with a fragile deal that is already showing signs of fraying.",
@@ -142,20 +156,6 @@
       "time": "01:51",
       "conflict_id": null,
       "score": 50.2
-    },
-    {
-      "id": "2026-04-09-1c71870b",
-      "headline": "Germany Fleshes Out Emergency Gas Reserve Plan to Deflect Shocks",
-      "summary": "Germany is detailing plans to build up a strategic natural gas reserve to keep supplies running in a worst-case crisis scenario, as the shock caused by the Iran war underscores Europe’s continued vulnerability to sudden disruptions.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/germany-fleshes-out-emergency-gas-reserve-plan-to-deflect-shocks",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "14:54",
-      "conflict_id": null,
-      "score": 50.1
     },
     {
       "id": "2026-04-09-98d967a0",
@@ -186,44 +186,30 @@
       "score": 46.8
     },
     {
-      "id": "2026-04-09-8c90cf5a",
-      "headline": "UK and Norway foil Russian submarine plot to survey undersea cables in north Atlantic",
-      "summary": "Britain and Norway announced new joint naval patrols aimed at protecting undersea cables from Russia in December, with a fleet of at least 13 warships protecting critical infrastructure in the North Atlantic.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/09/uk-and-norway-foil-russian-submarine-plot-to-survey-undersea-cables-in-north-atlantic",
-      "region": "EU",
-      "country": "Britain",
-      "category": "geopolitics",
+      "id": "2026-04-09-380f0e5e",
+      "headline": "Kenya Has Spent Nearly $1 Billion in Reserves to Weather Iran War Shock",
+      "summary": "Kenya has spent nearly $1 billion of its hard-currency reserves since the war began, and is prepared to deploy more of its firepower to curb excessive weakness in the shilling, central bank governor Kamau Thugge said Thursday.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/-usd-kes-kenya-spends-nearly-1-billion-of-fx-reserves-to-weather-war-shock",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
       "date": "2026-04-09",
-      "time": "11:06",
+      "time": "15:07",
       "conflict_id": null,
-      "score": 45.0
+      "score": 42.1
     },
     {
-      "id": "2026-04-09-06c7b72e",
-      "headline": "UK exposes covert Russian submarine operation",
-      "summary": "Defence secretary says mission was monitored ‘24-7’ by British warships",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5886e003-0b9f-4921-b9ed-e07514fe22a3",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "12:27",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-04-09-117ec06b",
-      "headline": "UK navy foiled Russian submarines surveying undersea cables, defence minister says",
-      "summary": "John Healey says warship and aircraft forced Russia to abandon activity in North Sea in month-long operationUK politics live – latest updatesEurope live – latest updatesA British warship and aircraft tracked and monitored Russian submarines trying to survey vital undersea infrastructure in the North Atlantic, ensuring they fled the area, the defence secretary, John Healey, has said.Speaking at a Downing Street press conference, Healey said the UK",
+      "id": "2026-04-09-2094c5ac",
+      "headline": "Nato ‘very disappointing’, says Trump, in fresh attack ahead of Rutte speech – as it happened",
+      "summary": "This blog is now closed. Donald Trump has taken to his Truth Social platform again on Thursday to renew his criticism of the alliance.The US president posted that “none of these people” (which people is unclear), including “our own, very disappointing Nato, understood anything unless they have pressure placed upon them!!!”. \n Whether that relates to earlier reports (13.28) that Trump told the Nato secretary general, Mark Rutte, he wanted to see c",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/apr/09/uk-navy-russian-submarines-undersea-cables-north-atlantic",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
+      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-04-09",
-      "time": "15:12",
+      "time": "15:08",
       "conflict_id": null,
       "score": 40.0
     },
@@ -270,6 +256,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-04-09-06c7b72e",
+      "headline": "UK exposes covert Russian submarine operation",
+      "summary": "Defence secretary says mission was monitored ‘24-7’ by British warships",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5886e003-0b9f-4921-b9ed-e07514fe22a3",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "12:27",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-04-09-92cef676",
+      "headline": "IMF Moves Toward Resuming Venezuela Ties With Survey of Members",
+      "summary": "The International Monetary Fund is distributing a survey to members asking about their relations with Venezuela, according to people familiar with the matter, a key step for the institution to potentially resume engagement with the oil-producing South American nation for the first time in decades.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/imf-moves-toward-resuming-venezuela-ties-with-survey-of-members",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "16:30",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-04-09-a44d5c10",
       "headline": "NYC Finance Head Pitches Limits on Using Savings for Budget Gaps",
       "summary": "New York City Comptroller Mark Levine wants stricter limits on when the city can dip into its emergency savings accounts, after Mayor Zohran Mamdani proposed drawing down $980 million in reserves to help close a $5.4 billion two-year budget gap.",
@@ -282,6 +296,34 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-04-09-3bbe4310",
+      "headline": "How war has made a 33-year-old the Czech Republic’s richest man",
+      "summary": "The rapid rise of CSG, Europe’s newest defence giant",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/09/how-war-has-made-a-33-year-old-the-czech-republics-richest-man",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "08:51",
+      "conflict_id": null,
+      "score": 33.8
+    },
+    {
+      "id": "2026-04-09-3cd5c163",
+      "headline": "David B. Cornstein, Envoy Who Built U.S. Ties to Orban, Dies at 87",
+      "summary": "A former jewelry-counter magnate, he served in Hungary under his friend President Trump, strengthening relations between the two countries as Orban tilted rightward.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/09/us/politics/david-cornstein-dead.html",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "16:26",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-04-09-cc491a8b",
@@ -336,20 +378,6 @@
       "category": "politics",
       "date": "2026-04-09",
       "time": "15:15",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-04-09-2094c5ac",
-      "headline": "Nato ‘very disappointing’, says Trump, in fresh attack ahead of Rutte speech – as it happened",
-      "summary": "This blog is now closed. Donald Trump has taken to his Truth Social platform again on Thursday to renew his criticism of the alliance.The US president posted that “none of these people” (which people is unclear), including “our own, very disappointing Nato, understood anything unless they have pressure placed upon them!!!”. \n Whether that relates to earlier reports (13.28) that Trump told the Nato secretary general, Mark Rutte, he wanted to see c",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/09/nato-rutte-trump-iran-hungary-elections-vance-latest-news-updates",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-09",
-      "time": "15:08",
       "conflict_id": null,
       "score": 32.0
     },
@@ -412,7 +440,7 @@
     {
       "id": "2026-04-09-9b6236d4",
       "headline": "French far-right leader romantically linked to Italian princess",
-      "summary": "Presidential hopeful Jordan Bardella was pictured on a Corsican beach with Princess Maria Carolina Bourbon-Two Sicilies.",
+      "summary": "Presidential hopeful Jordan Bardella was pictured on a Corsican beach with Princess Maria Carolina of Bourbon-Two Sicilies.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/clye1288l8no?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
@@ -438,6 +466,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-09-65cc90cf",
+      "headline": "The chips chokehold that could end the AI investment boom",
+      "summary": "Taiwan’s control of leading-edge silicon chips lies on a geostrategic faultline",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f1af8c86-4e6c-4531-b229-32e25011ddb0",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "15:58",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-04-09-e5a6908f",
       "headline": "Scaled-back digital ID scheme can combat populism, UK minister says",
       "summary": "Darren Jones tells FT that legislation for contentious proposal will be introduced after the summer",
@@ -450,6 +492,62 @@
       "time": "13:40",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-09-2d1331a3",
+      "headline": "Colombia Forces Pension Funds to Cut Assets Held Overseas to 30%",
+      "summary": "Colombia will force pension funds to invest more in the local economy by capping at 30% the proportion of assets they can hold overseas.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/colombia-forces-pension-funds-to-cut-assets-held-overseas-to-30",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "16:34",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-09-92d62235",
+      "headline": "Treasuries Whipsawed by Oil Prices Ahead of 30-Year Auction",
+      "summary": "Treasuries were whipsawed by oil prices ahead of an auction of 30-year bonds.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/treasuries-steady-after-mixed-economic-data-as-oil-rebounds",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "13:31",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-09-2c9facb9",
+      "headline": "Carlyle Caps Private Credit Redemptions After Investors Seek 16%",
+      "summary": "A $7 billion private credit fund managed by Carlyle Group Inc. capped redemptions after investors asked to pull 15.7% of the shares in the first quarter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/carlyle-caps-private-credit-redemptions-after-investors-seek-16",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-09",
+      "time": "16:28",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-09-80e67cec",
+      "headline": "Gold Boom Drives Record Mining Profits",
+      "summary": "OceanaGold CEO Gerard Bond joined Bloomberg Open Interest to explain how soaring gold prices, lower production costs, and rising output are creating record profits and massive shareholder returns. He also reveals why the company refuses to hedge gold, and how AI could unlock more gains in mining efficiency.\n (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-09/gold-boom-drives-record-mining-profits-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "16:00",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-09-a7d25e49",
@@ -466,8 +564,8 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-09-6da15f76",
-      "headline": "Get Used to Stocks Grinding Lower and Gapping Higher Under Trump",
+      "id": "2026-04-09-12c28c58",
+      "headline": "Stocks Are Grinding Lower and Gapping Higher Under Trump",
       "summary": "The market moves triggered by President Donald Trump’s foreign policy pronouncements are helping to shake up a long-established pattern in equities.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-09/get-used-to-stocks-grinding-lower-and-gapping-higher-under-trump",
@@ -508,60 +606,46 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-09-89484983",
-      "headline": "Marsh’s Mercer Raises $3.8 Billion for Private Investments",
-      "summary": "Marsh &amp; McLennan Cos’ Mercer has raised just over $3.8 billion for private investments.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/marsh-s-mercer-raises-3-8-billion-for-private-investments",
-      "region": "NA",
-      "country": null,
+      "id": "2026-04-09-94ecbd47",
+      "headline": "MEPs raise alarm about possible Russian meddling in Hungary elections",
+      "summary": "Von der Leyen urged to act over allegations of disinformation and intimidation on behalf of Orbán’s partyThe European Commission is being urged to investigate whether Hungary’s elections are being undermined by Russian manipulation, intimidation of journalists and voter coercion by the ruling party.Three days before decisive parliamentary elections that threaten the 16-year grip on power of the prime minister, Viktor Orbán, a group of MEPs have w",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/09/meps-alarm-possible-russian-interference-hungary-elections",
+      "region": "EU",
+      "country": "Hungary",
       "category": "politics",
       "date": "2026-04-09",
-      "time": "12:00",
+      "time": "16:17",
       "conflict_id": null,
-      "score": 26.1
+      "score": 24.0
     },
     {
-      "id": "2026-04-09-eb2c3fea",
-      "headline": "Bank of America Sees a $1.1 Trillion Market for Sports Event Betting in US",
-      "summary": "Bank of America Corp. estimates the potential market for US sports-related event contracts at roughly $1.1 trillion in annual volume, as prediction markets boom anew.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/bofa-sees-a-1-1-trillion-market-for-sports-event-betting-in-us",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
+      "id": "2026-04-09-66311e84",
+      "headline": "India’s Assam and Kerala states hold legislative assembly elections",
+      "summary": "Voting also held in the federal territory of ​Puducherry, while West Bengal and Tamil Nadu will vote later this month.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/indias-assam-and-kerala-states-hold-legislative-assembly-elections?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
       "date": "2026-04-09",
-      "time": "13:52",
+      "time": "15:54",
       "conflict_id": null,
-      "score": 26.1
+      "score": 23.4
     },
     {
-      "id": "2026-04-09-8474d855",
-      "headline": "U.S. Fertility Rates Drop to Another Record Low",
-      "summary": "The fertility rate has been falling since 2007, in large part because of a plunge among teenagers.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/09/us/fertility-rates-decline.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "id": "2026-04-09-6fe2a847",
+      "headline": "A record-breaking field: What to expect from Peru’s presidential election",
+      "summary": "Crime and corruption are top issues for voters as the country struggles to cope with persistent political instability.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/a-record-breaking-field-what-to-expect-from-perus-presidential-election?traffic_source=rss",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
       "date": "2026-04-09",
-      "time": "04:01",
+      "time": "15:52",
       "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-04-09-a3c0e252",
-      "headline": "Ohio Man Is First to Be Federally Convicted for Deepfake Porn",
-      "summary": "James Strahler II, 37, of Columbus, Ohio, had at least 10 victims, according to the authorities. He pleaded guilty to cyberstalking and other charges covered by the Take It Down Act.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/08/us/deepfake-conviction-ohio.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-09",
-      "time": "00:59",
-      "conflict_id": null,
-      "score": 25.2
+      "score": 23.4
     },
     {
       "id": "2026-04-09-c075ec77",
@@ -592,6 +676,34 @@
       "score": 23.4
     },
     {
+      "id": "2026-04-09-709660ab",
+      "headline": "Japan's Inpex weighs shifting oil investment from Mideast to Southeast Asia",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/japan-s-inpex-weighs-shifting-oil-investment-from-mideast-to-southeast-asia",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-04-09-4eebd361",
+      "headline": "Japan to tighten restrictions on metal, plastic waste exports",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/environment/japan-to-tighten-restrictions-on-metal-plastic-waste-exports",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-04-09-9d0624ad",
       "headline": "Blackstone, SoftBank express interest in TEPCO capital tie-up",
       "summary": "",
@@ -620,20 +732,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-09-4dbff3b7",
-      "headline": "Asia PVC market in turmoil as Hormuz closure hits major Taiwan supplier",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/materials/asia-pvc-market-in-turmoil-as-hormuz-closure-hits-major-taiwan-supplier",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "business",
-      "date": "2026-04-09",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-04-09-32f451ce",
       "headline": "Lights, camera, action: How set-jetting tourism boosts Madrid's economy",
       "summary": "Madrid’s landmarks have turned the Spanish capital into a sought-after destination for film productions and fans are keen to visit the set locations.",
@@ -646,20 +744,6 @@
       "time": "14:11",
       "conflict_id": null,
       "score": 21.0
-    },
-    {
-      "id": "2026-04-08-c1071b5e",
-      "headline": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
-      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "03:30",
-      "conflict_id": null,
-      "score": 68.0
     },
     {
       "id": "2026-04-08-81c7ab22",
@@ -676,6 +760,20 @@
       "score": 67.1
     },
     {
+      "id": "2026-04-08-c1071b5e",
+      "headline": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-08",
+      "time": "03:30",
+      "conflict_id": null,
+      "score": 67.0
+    },
+    {
       "id": "2026-04-08-2f7a58a4",
       "headline": "How Pakistan helped secure a fragile ceasefire between the US and Iran",
       "summary": "Pakistan has a historic relationship with Iran, but an agreement was far from certain, writes the BBC’s Caroline Davies",
@@ -688,34 +786,6 @@
       "time": "05:03",
       "conflict_id": null,
       "score": 60.0
-    },
-    {
-      "id": "2026-04-08-d59d939f",
-      "headline": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "20:54",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-04-08-4350c415",
-      "headline": "Has Trump Met His War Goals in Iran?",
-      "summary": "On the first day of the pause, Iran fired missiles and launched drones in the region. It said an oil refinery on Lavan Island had been attacked. Israel continued its strikes in Lebanon.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/08/us/politics/trump-war-goals.html",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "20:59",
-      "conflict_id": null,
-      "score": 58.2
     },
     {
       "id": "2026-04-08-27e85b1c",
@@ -760,9 +830,9 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-08-4ae74a17",
-      "headline": "Stocks Rise as Israel Agrees to Talks With Lebanon: Markets Wrap",
-      "summary": "Stocks rebounded and oil pared its advance as Prime Minister Benjamin Netanyahu said Israel agrees to direct talks with Lebanon, bolstering hopes that a Middle East ceasefire will hold.",
+      "id": "2026-04-08-ea37d55d",
+      "headline": "Stocks Keep Climbing on Hopes Ceasefire Will Hold: Markets Wrap",
+      "summary": "Wall Street traders drove stocks higher as an oil rally waned on hopes that a US ceasefire deal will hold after Israel agreed to direct talks with Lebanon.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-08/stock-market-today-dow-s-p-live-updates",
       "region": "MENA",
@@ -856,6 +926,20 @@
       "time": "13:55",
       "conflict_id": "israel-hamas",
       "score": 71.0
+    },
+    {
+      "id": "2026-04-07-d45dfbdd",
+      "headline": "Why Real Madrid tie could make or break Kane's Ballon d'Or hopes",
+      "summary": "Harry Kane is the leading goalscorer in Europe but does he need to win a major trophy to have a chance of winning the prestigious award?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "05:40",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-04-07-5d29ce34",
@@ -966,6 +1050,20 @@
       "category": "business",
       "date": "2026-04-05",
       "time": "23:19",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-05-e197d12b",
+      "headline": "Hungary alleges plot to blow up gas pipeline ahead of election",
+      "summary": "It comes a week before votes are cast and follows warnings of so-called false flag operations blamed on Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj60x206dx1o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "geopolitics",
+      "date": "2026-04-05",
+      "time": "19:17",
       "conflict_id": null,
       "score": 35.0
     },
