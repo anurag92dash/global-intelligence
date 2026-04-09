@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-09T21:56:11.964611+00:00",
-  "story_count": 78,
-  "source_count": 10,
+  "updated": "2026-04-09T22:31:39.481043+00:00",
+  "story_count": 79,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-04-09-04807a45",
@@ -88,20 +88,6 @@
       "score": 57.0
     },
     {
-      "id": "2026-04-09-9f9ff82c",
-      "headline": "Asian stocks shy of full recovery amid fragile Iran ceasefire",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/asian-stocks-shy-of-full-recovery-amid-fragile-iran-ceasefire",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "",
-      "conflict_id": null,
-      "score": 55.8
-    },
-    {
       "id": "2026-04-09-dc0684de",
       "headline": "Netanyahu: ‘No ceasefire in Lebanon’, Israel open to peace talks",
       "summary": "Israeli Prime Minister Benjamin Netanyahu emphasised that a ceasefire is not in effect in Lebanon",
@@ -112,20 +98,6 @@
       "category": "geopolitics",
       "date": "2026-04-09",
       "time": "20:45",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-04-09-9c9d6983",
-      "headline": "Does a US-Iran ceasefire mean the end of the war?",
-      "summary": "After a US-Iran ceasefire deal, strikes slow but tensions remain. Will this hold or collapse?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-take-2/2026/4/9/aje-onl-tt_irn_ceasefire_av_v2-090426?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "17:31",
       "conflict_id": null,
       "score": 55.4
     },
@@ -142,6 +114,34 @@
       "time": "11:39",
       "conflict_id": "israel-hamas",
       "score": 55.0
+    },
+    {
+      "id": "2026-04-09-9f9ff82c",
+      "headline": "Asian stocks shy of full recovery amid fragile Iran ceasefire",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/asian-stocks-shy-of-full-recovery-amid-fragile-iran-ceasefire",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "",
+      "conflict_id": null,
+      "score": 54.8
+    },
+    {
+      "id": "2026-04-09-d2feddd0",
+      "headline": "Gaza mourns Al Jazeera reporter Mohammed Wishah killed iin Israeli drone strike",
+      "summary": "Gaza was mourning Al Jazeera correspondent Mohammed Wishah on Thursday after he was killed in an Israeli drone strike that hit his car west of Gaza City a day earlier.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/09/gaza-mourns-al-jazeera-reporter-mohammed-wishah-killed-iin-israeli-drone-strike",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "13:44",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-04-09-75e57cd5",
@@ -242,16 +242,16 @@
       "score": 42.4
     },
     {
-      "id": "2026-04-09-7ddccb23",
-      "headline": "Melania Trump Says She Was Not a Victim of Jeffrey Epstein",
-      "summary": "Responding to what she said were smears, the first lady said she never had knowledge of Jeffrey Epstein’s abuse. She called on Congress to continue investigating.",
+      "id": "2026-04-09-9ccc5df6",
+      "headline": "Melania Trump Says She Was Not Associated With Jeffrey Epstein",
+      "summary": "Responding to what she said were smears, the first lady said she never had knowledge of Jeffrey Epstein’s abuse and was not a victim of his. She called for a congressional hearing for his victims.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html",
       "region": "NA",
       "country": "Congress",
       "category": "politics",
       "date": "2026-04-09",
-      "time": "19:59",
+      "time": "22:19",
       "conflict_id": null,
       "score": 41.2
     },
@@ -354,6 +354,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-04-09-46efecc5",
+      "headline": "Hot in the city: Energy crisis tests Singapore's air-con addiction",
+      "summary": "The rise in energy prices has hit Asia particularly hard as many nations are heavily reliant on Gulf oil.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c80mxrdvkpjo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "22:03",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-09-3cb90c7f",
       "headline": "Stocks Rebound on Hopes Ceasefire Deal Holds | Closing Bell",
       "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
@@ -366,20 +380,6 @@
       "time": "20:28",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-04-09-8474d855",
-      "headline": "U.S. Fertility Rates Drop to Another Record Low",
-      "summary": "The fertility rate has been falling since 2007, in large part because of a plunge among teenagers.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/09/us/fertility-rates-decline.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-09",
-      "time": "04:01",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-04-09-982b23e7",
@@ -396,23 +396,9 @@
       "score": 32.0
     },
     {
-      "id": "2026-04-09-4ade2467",
-      "headline": "Australia news live: Albanese touches down for Singapore talks; search for missing fisher suspended in NSW",
-      "summary": "Prime minister touches down and says two countries ‘strategically aligned’. Follow updates liveGet our breaking news email, free app or daily news podcastMarles says Australia still needs to see strait of Hormuz return to normalThe defence minister, Richard Marles, said the flow of ships through the strait of Hormuz during the ceasefire is not “what we want”.Ultimately, we need to see the strait of Hormuz open. We need to see the disruption of th",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/10/anthony-albanese-singapore-visit-fuel-crisis-petrol-prices-labor-coalition-political-reactions-us-israel-war-iran-lebanon-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-04-09",
-      "time": "21:48",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-04-09-3e0a7eae",
       "headline": "Traffic falls on major Sydney and Melbourne roads as fuel crisis sees Australians cut back on driving",
-      "summary": "Exclusive: Trips on Sydney’s key thoroughfares have fallen by thousands per day, according to government dataFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastRoad traffic is falling on Australia’s east coast as fuel prices bite, with most key Sydney highways recording 20% fewer weekend trips.The number of trips recorded on Sydney’s key thoroughfares has fallen by thousands of trips a",
+      "summary": "Exclusive: Trips on Sydney’s key thoroughfares have fallen by thousands per day, according to government dataFollow our Australia news live blog for latest updatesTrack current petrol and diesel prices across AustraliaGet our breaking news email, free app or daily news podcastRoad traffic is falling on Australia’s east coast as fuel prices bite, with most key Sydney highways recording 20% fewer weekend trips.The number of trips recorded on Sydney",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/apr/09/traffic-sydney-melbourne-roads-fuel-crisis-petrol-prices-australia",
       "region": "APJ",
@@ -438,16 +424,16 @@
       "score": 32.0
     },
     {
-      "id": "2026-04-09-d102dfd3",
-      "headline": "US fertility rate drops to all-time low, continuing a two-decade decline",
-      "summary": "The United States fertility rate has now been in decline for two decades, dropping nearly 23 percent since 2007.",
+      "id": "2026-04-09-124c66a9",
+      "headline": "CAF President Motsepe rejects Senegal’s corruption claim amid AFCON fallout",
+      "summary": "Senegal&#039;s government alleged corruption at African football&#039;s governing body after AFCON title awarded to Morocco.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/us-fertility-rate-drops-to-all-time-low-continuing-a-two-decade-decline?traffic_source=rss",
-      "region": "NA",
-      "country": "United States",
-      "category": "business",
+      "url": "https://www.aljazeera.com/sports/2026/4/9/caf-president-motsepe-rejects-senegals-corruption-claim-after-afcon-furore?traffic_source=rss",
+      "region": "MENA",
+      "country": "Morocco",
+      "category": "politics",
       "date": "2026-04-09",
-      "time": "19:30",
+      "time": "21:33",
       "conflict_id": null,
       "score": 31.4
     },
@@ -506,6 +492,34 @@
       "time": "10:57",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-09-fcade40b",
+      "headline": "Mercer Bonds Sink as Pulp Firm Seeks to Strip Lender Protections",
+      "summary": "Mercer International Inc.’s bonds slumped after it sought to ditch rules requiring equal treatment for all creditors &mdash; a move that would give the struggling pulp producer the power to pick and choose which lenders to favor in a restructuring.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/mercer-bonds-sink-as-pulp-firm-seeks-to-strip-lender-protections",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "22:05",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-09-c7830140",
+      "headline": "Oil Holds Gain After Attacks Lower Saudi Production Capacity",
+      "summary": "Oil rose a second day, but is still on track for its biggest weekly loss since June, after Saudi Arabia’s production capacity was cut due to attacks on energy infrastructure.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/latest-oil-market-news-and-analysis-for-april-10",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-09-9157f233",
@@ -616,6 +630,20 @@
       "category": "business",
       "date": "2026-04-09",
       "time": "20:52",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-09-70a5cca1",
+      "headline": "Top Canadian Grocers Downgraded as Scotiabank Flags Increased Competition",
+      "summary": "Canadian grocers could be facing tougher times, according to analysts at Scotiabank, who have dimmed their outlook for the sector in light of increasing competition.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/empire-loblaw-and-metro-downgraded-as-scotiabank-flags-increased-competition",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "17:03",
       "conflict_id": null,
       "score": 26.1
     },
@@ -799,7 +827,7 @@
       "date": "2026-04-08",
       "time": "05:03",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-04-08-c1071b5e",
@@ -1038,20 +1066,6 @@
       "time": "22:07",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-05-1f6e8f85",
-      "headline": "Why McDonald’s and KFC are growing like wildfire in China",
-      "summary": "Western fast-food brands are expanding into the countryside",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/05/why-mcdonalds-and-kfc-are-growing-like-wildfire-in-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-04-05",
-      "time": "08:30",
-      "conflict_id": null,
-      "score": 25.8
     },
     {
       "id": "2026-04-04-c1c002c4",
