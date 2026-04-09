@@ -1,12 +1,12 @@
 {
-  "updated": "2026-04-09T11:35:38.278736+00:00",
+  "updated": "2026-04-09T12:44:28.223144+00:00",
   "story_count": 74,
   "source_count": 9,
   "stories": [
     {
-      "id": "2026-04-09-8ed9adce",
-      "headline": "Ukraine ceasefire back in focus as US security guarantees fade and casualties surge",
-      "summary": "Divisions between Washington and European capitals fuels concern over US commitment to peace dealAs a ceasefire was declared in the Middle East, Volodymyr Zelenskyy sought to draw attention to the war in his own country, posting on social media that Ukraine had consistently pushed for a ceasefire in the war “being waged by Russia here, in Europe”.Efforts to end the war in Ukraine have largely stalled since the Iran war began, with trilateral talk",
+      "id": "2026-04-09-5062fc36",
+      "headline": "Ukraine ceasefire back in focus as US security guarantees fade and casualties mount",
+      "summary": "Divisions between Washington and European capitals over Iran fuel concerns about US commitment to peace dealAs a ceasefire was declared in the Middle East, Volodymyr Zelenskyy sought to draw attention to the war in his own country, posting on social media that Ukraine had consistently pushed for a ceasefire in the war “being waged by Russia here, in Europe”.Efforts to end the war in Ukraine have largely stalled since the Iran war began, with tril",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/apr/09/ukraine-ceasefire-us-security-guarantees-fade-casualties-russia",
       "region": "EU",
@@ -46,6 +46,20 @@
       "score": 59.1
     },
     {
+      "id": "2026-04-09-b91bd7b9",
+      "headline": "Israeli strikes in Lebanon 'grave violation' of ceasefire, Iran minister tells BBC",
+      "summary": "Iran's deputy foreign minister says the US must choose between 'war and ceasefire'.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp849k4j0y1o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "11:46",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-04-09-9d26c7d3",
       "headline": "The Fragile Cease-Fire in Iran",
       "summary": "President Trump announced a conditional cease-fire with Israel on Iran, but the fundamental issues that led to the war remain unresolved.",
@@ -60,48 +74,6 @@
       "score": 58.2
     },
     {
-      "id": "2026-04-09-1611c19a",
-      "headline": "Stock Rally Stalls, Oil Rebounds Ahead of US-Iran Talks, Ceasefire Doubts | Bloomberg Brief 4/9/2026",
-      "summary": "US equity futures fall and oil rises after optimism surrounding the US-Iran ceasefire fade. President Trump pledging to keep US troops in the Persian Gulf ahead of talks between the two sides, which will be led by Vice President JD Vance. Nadia Martin Wiggin of Svelland Capital discusses the moves in oil and Max Kettner of HSBC on how crucial CPI will be when assessing the impact of the war with Iran. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-09/bloomberg-brief-4-9-2026-video",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "10:56",
-      "conflict_id": null,
-      "score": 58.1
-    },
-    {
-      "id": "2026-04-09-e7711b6c",
-      "headline": "Iran War: US, Iran Prepare for Talks in Pakistan | The Pulse 4/9",
-      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: \nLudovic Subran, Allianz, CIO & Chief Economist; Anu Talus, European Data Protection Board, Chair; Michele Della Vigna, Goldman Sachs, Head of EMEA Natural Resources Re",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-09/the-pulse-4-9-video",
-      "region": "EU",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "10:56",
-      "conflict_id": null,
-      "score": 58.1
-    },
-    {
-      "id": "2026-04-09-496df961",
-      "headline": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
-      "summary": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "04:46",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
       "id": "2026-04-09-98d967a0",
       "headline": "Who can claim victory if Iran ceasefire holds? An early winner is China",
       "summary": "Beijing’s powerbrokers are credited with winning Iran over, although one analyst says they were ‘pushing an open door’Middle East crisis – live updatesAs the world struggles to make sense of what, if anything, was achieved by the ceasefire deal announced by the US and Iran on Tuesday, one major power that stands to win regardless is China.Beijing’s powerbrokers are being credited with pushing Iran towards agreeing to the ceasefire, bolstering its",
@@ -114,6 +86,20 @@
       "time": "09:22",
       "conflict_id": null,
       "score": 56.0
+    },
+    {
+      "id": "2026-04-09-5fd63f13",
+      "headline": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
+      "summary": "The Israeli military claims Mohammed Wishah was a \"Hamas terrorist\" - which the Qatar-based network has previously denied.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg40nqzvwq2o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "11:39",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-04-09-376ab68f",
@@ -158,6 +144,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-04-09-68ca1f01",
+      "headline": "Petrol and diesel prices rise again as concerns grow over ceasefire",
+      "summary": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "12:22",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-04-09-aa1ecd40",
       "headline": "Trump Finds Himself With Fragile Iran Cease-Fire After the Scramble to Make a Deal",
       "summary": "After careening from one diplomatic extreme to another, President Trump finds himself with a fragile deal that is already showing signs of fraying.",
@@ -172,32 +172,88 @@
       "score": 50.2
     },
     {
-      "id": "2026-04-09-8efee7aa",
-      "headline": "'NATO in grave danger after Iran war,' former US NATO ambassador tells Euronews",
-      "summary": "US President Trump's frequent threats to leave NATO, as well as the US army's heavy use of expensive, military assets in Iran has weakened the alliance, former US ambassador to NATO tells Euronews.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/09/nato-in-grave-danger-after-iran-war-former-us-nato-ambassador-tells-euronews",
-      "region": "EU",
+      "id": "2026-04-09-1611c19a",
+      "headline": "Stock Rally Stalls, Oil Rebounds Ahead of US-Iran Talks, Ceasefire Doubts | Bloomberg Brief 4/9/2026",
+      "summary": "US equity futures fall and oil rises after optimism surrounding the US-Iran ceasefire fade. President Trump pledging to keep US troops in the Persian Gulf ahead of talks between the two sides, which will be led by Vice President JD Vance. Nadia Martin Wiggin of Svelland Capital discusses the moves in oil and Max Kettner of HSBC on how crucial CPI will be when assessing the impact of the war with Iran. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-09/bloomberg-brief-4-9-2026-video",
+      "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-04-09",
-      "time": "06:30",
+      "time": "10:56",
       "conflict_id": null,
-      "score": 45.0
+      "score": 50.1
     },
     {
-      "id": "2026-04-09-68ca1f01",
-      "headline": "Petrol and diesel prices rise again as concerns grow over ceasefire",
-      "summary": "Motoring groups have warned drivers not to expect a significant drop in costs soon.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq6j0rnvlzeo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-04-09-e7711b6c",
+      "headline": "Iran War: US, Iran Prepare for Talks in Pakistan | The Pulse 4/9",
+      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: \nLudovic Subran, Allianz, CIO & Chief Economist; Anu Talus, European Data Protection Board, Chair; Michele Della Vigna, Goldman Sachs, Head of EMEA Natural Resources Re",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-09/the-pulse-4-9-video",
+      "region": "EU",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "10:56",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-04-09-496df961",
+      "headline": "Trump slams NATO over Iran after meeting Rutte, renews Greenland threat",
+      "summary": "US president meets NATO chief, expresses disappointment over member states failing to back war on Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/trump-slams-nato-over-iran-after-meeting-rutte-renews-greenland-threat?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "04:46",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-04-09-aae2c899",
+      "headline": "US shares jump 3% as ceasefire deal lifts investor sentiment",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/us-shares-jump-3-as-ceasefire-deal-lifts-investor-sentiment",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "",
+      "conflict_id": null,
+      "score": 46.8
+    },
+    {
+      "id": "2026-04-09-06c7b72e",
+      "headline": "UK exposes covert Russian submarine operation",
+      "summary": "Defence secretary says mission was monitored ‘24-7’ by British warships",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5886e003-0b9f-4921-b9ed-e07514fe22a3",
       "region": "EU",
       "country": null,
       "category": "geopolitics",
       "date": "2026-04-09",
-      "time": "11:07",
+      "time": "12:27",
       "conflict_id": null,
-      "score": 43.0
+      "score": 42.4
+    },
+    {
+      "id": "2026-04-09-d82fd6a8",
+      "headline": "Argentina MPs approve bill allowing mining in glaciers",
+      "summary": "Thousands of people have demonstrated against the bill, which scientists and activists say threatens water resources.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/9/argentinas-lawmakers-approve-bill-allowing-mining-in-glaciers?traffic_source=rss",
+      "region": "SA",
+      "country": "Argentina",
+      "category": "politics",
+      "date": "2026-04-09",
+      "time": "10:25",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-04-09-3c573b0f",
@@ -228,16 +284,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-09-2f5b0bfb",
-      "headline": "Stockholm Office Vacancies at Highest Level Since 1990s Crisis",
-      "summary": "Vacancy rates for office properties in Stockholm continued to worsen at the start of this year, in a worrying sign for Sweden’s landlords who just escaped a funding crunch but now face more operational challenges.",
+      "id": "2026-04-09-46e29fd6",
+      "headline": "Earnings Optimism Enhances Stocks’ Allure as Iran Worries Ease",
+      "summary": "Investors that slashed their stock exposure as war flared in the Middle East may soon have a fresh reason for piling back into equities: the upcoming earnings season.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/stockholm-office-vacancies-at-highest-level-since-1990s-crisis",
-      "region": "EU",
-      "country": "Sweden",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/earnings-optimism-enhances-stocks-allure-as-iran-worries-ease",
+      "region": "MENA",
+      "country": "Iran",
       "category": "business",
       "date": "2026-04-09",
-      "time": "10:49",
+      "time": "11:34",
       "conflict_id": null,
       "score": 34.1
     },
@@ -256,18 +312,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-04-09-5047300c",
-      "headline": "Emerging-Market Rebound Stalls as Iran Truce Doubts Lift Oil",
-      "summary": "Emerging-market stocks and currencies fell for the first time in five days as a shaky start to the Middle East ceasefire again pushed up oil prices.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/emerging-market-rebound-stalls-as-iran-truce-doubts-lift-oil",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "business",
+      "id": "2026-04-09-cc491a8b",
+      "headline": "Argentina approves Milei’s glacier mining bill amid environmental protests",
+      "summary": "Legislative change backed by libertarian president makes it easier to extract metals in frozen parts of the AndesArgentina’s congress has approved a bill promoted by the libertarian president, Javier Milei, that authorises mining in ecologically sensitive areas of glaciers and permafrost, outraging environmentalists.The amendment to the “glacier law”, which was already approved by the senate in February, would make it easier to mine for metals su",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/09/argentina-approves-glacier-mining-bill-environment-protests-andes-mountaines-javier-milei",
+      "region": "NA",
+      "country": "Argentina",
+      "category": "politics",
       "date": "2026-04-09",
-      "time": "10:11",
+      "time": "11:55",
       "conflict_id": null,
-      "score": 34.1
+      "score": 32.0
     },
     {
       "id": "2026-04-09-982b23e7",
@@ -282,20 +338,6 @@
       "time": "04:26",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-04-09-d82fd6a8",
-      "headline": "Argentina MPs approve bill allowing mining in glaciers",
-      "summary": "Thousands of people have demonstrated against the bill, which scientists and activists say threatens water resources.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/9/argentinas-lawmakers-approve-bill-allowing-mining-in-glaciers?traffic_source=rss",
-      "region": "SA",
-      "country": "Argentina",
-      "category": "politics",
-      "date": "2026-04-09",
-      "time": "10:25",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-04-09-1be8a9b7",
@@ -354,6 +396,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-09-89484983",
+      "headline": "Marsh’s Mercer Raises $3.8 Billion for Private Investments",
+      "summary": "Marsh &amp; McLennan Cos’ Mercer has raised just over $3.8 billion for private investments.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/marsh-s-mercer-raises-3-8-billion-for-private-investments",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-09",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-09-2d909f45",
       "headline": "UniCredit Helps Commerzbank’s Polish Unit With SRT Deal",
       "summary": "Commerzbank AG’s subsidiary in Poland is working with UniCredit SpA on a significant risk transfer linked to a portfolio of commercial real estate loans.",
@@ -378,6 +434,34 @@
       "category": "business",
       "date": "2026-04-09",
       "time": "11:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-09-930558b6",
+      "headline": "Thailand Seizes $260 Million Assets Linked to Alleged Scammers",
+      "summary": "Thai authorities seized assets worth 8.3 billion baht ($260 million) belonging to people behind an alleged money-laundering network linked to transnational cyber scam operations in Cambodia.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/thailand-seizes-260-million-assets-linked-to-alleged-scammers",
+      "region": "APJ",
+      "country": "Thailand",
+      "category": "politics",
+      "date": "2026-04-09",
+      "time": "11:03",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-09-8423111a",
+      "headline": "OECD Urges Reeves to Overhaul UK Tax System to Boost Growth",
+      "summary": "The OECD urged UK Chancellor of the Exchequer Rachel Reeves to overhaul the tax system to make it less complex and help turn around Britain’s tepid growth rates.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-09/oecd-tells-reeves-to-overhaul-complex-distorting-uk-tax-system",
+      "region": "EU",
+      "country": "Britain",
+      "category": "business",
+      "date": "2026-04-09",
+      "time": "10:45",
       "conflict_id": null,
       "score": 26.1
     },
@@ -410,20 +494,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-09-5ba4fa70",
-      "headline": "Astorg Hands New Leaders Half of Firm After ‘Internal LBO’",
-      "summary": "Astorg Partners has handed its newest partners a larger chunk of its equity as part of sweeping leadership changes at the €23 billion ($26 billion) private equity firm.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-09/astorg-hands-new-leaders-half-of-firm-after-internal-lbo",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-09",
-      "time": "06:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-09-914e4720",
       "headline": "On Social Media, Democratic Politicians Are Letting the F-Word Fly",
       "summary": "In person, on social media and in campaign ads, Democratic politicians are swearing with glee. It is usually aimed at President Trump.",
@@ -434,20 +504,6 @@
       "category": "politics",
       "date": "2026-04-09",
       "time": "09:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-04-09-6ea240e0",
-      "headline": "Clean Energy Team Wins Salt River Project Election in Arizona",
-      "summary": "Proponents of renewable power will control the Phoenix area utility’s policymaking for the first time after they won an unusually contentious race that drew attention from national groups.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/09/us/phoenix-salt-river-project-election-results.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-09",
-      "time": "04:01",
       "conflict_id": null,
       "score": 25.2
     },
@@ -480,16 +536,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-04-09-7060a496",
-      "headline": "Bruce Lehrmann loses last-ditch legal effort to appeal defamation case against Network Ten and Lisa Wilkinson",
-      "summary": "The high court has dismissed his bid to clear his name of findings that, on the balance of probabilities, he raped Brittany Higgins in Parliament House in 2019Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBruce Lehrmann has lost his last legal avenue to challenge his failed defamation case against Network 10 and Lisa Wilkinson after Australia’s top court dismissed his case.The hig",
+      "id": "2026-04-09-503bdded",
+      "headline": "Majority of Hungary’s voters back continued EU membership, poll finds",
+      "summary": "Exclusive: Survey published days before election in which anti-EU Viktor Orbán risks being ousted after 16 yearsEurope live – latest updatesHungary elections: what is at stake and who is likely to win?After years of relentless EU-bashing by their nationalist, illiberal prime minister, an overwhelming majority of Hungary’s voters back its membership of the bloc, and most – including many of Viktor Orbán’s voters – now want a new approach to Brusse",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/09/bruce-lehrmann-appeal-defamation-case-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
+      "url": "https://www.theguardian.com/world/2026/apr/09/majority-hungary-voters-back-continued-eu-membership-poll-finds-election-orban",
+      "region": "EU",
+      "country": "Brussels",
       "category": "politics",
       "date": "2026-04-09",
-      "time": "06:49",
+      "time": "12:03",
       "conflict_id": null,
       "score": 24.0
     },
@@ -578,18 +634,18 @@
       "score": 21.0
     },
     {
-      "id": "2026-04-08-d59d939f",
-      "headline": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "20:54",
+      "id": "2026-04-09-707a067a",
+      "headline": "Watch: Orbán vs Magyar — where do Hungary's rivals really stand on Europe?",
+      "summary": "If there is one thing everyone is keeping an eye on in Brussels right now, it is the Hungarian elections happening this Sunday. But when it comes to the biggest European issues, whose side are Viktor Orbán and Péter Magyar actually on?",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/09/watch-orban-vs-magyar-where-do-hungarys-rivals-really-stand-on-europe",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "politics",
+      "date": "2026-04-09",
+      "time": "09:59",
       "conflict_id": null,
-      "score": 68.0
+      "score": 21.0
     },
     {
       "id": "2026-04-08-c1071b5e",
@@ -620,16 +676,16 @@
       "score": 67.1
     },
     {
-      "id": "2026-04-08-7550a24c",
-      "headline": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
-      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
+      "id": "2026-04-08-d59d939f",
+      "headline": "At least 182 killed across Lebanon in large wave of Israeli strikes",
+      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-04-08",
-      "time": "20:15",
+      "time": "20:54",
       "conflict_id": null,
       "score": 67.0
     },
@@ -662,46 +718,32 @@
       "score": 60.0
     },
     {
-      "id": "2026-04-08-4350c415",
-      "headline": "Has Trump Met His War Goals in Iran?",
-      "summary": "On the first day of the pause, Iran fired missiles and launched drones in the region. It said an oil refinery on Lavan Island had been attacked. Israel continued its strikes in Lebanon.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/08/us/politics/trump-war-goals.html",
+      "id": "2026-04-08-61b627d8",
+      "headline": "Iran Strait of Hormuz warning adds to shipping uncertainty",
+      "summary": "Only a few vessels have crossed the strait since the US-Iran ceasefire deal, according to BBC Verify analysis.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w39lg84w2o?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Lebanon",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-08",
-      "time": "20:59",
+      "time": "17:21",
       "conflict_id": null,
-      "score": 58.2
+      "score": 59.0
     },
     {
-      "id": "2026-04-08-94cb1029",
-      "headline": "Stocks Fall as US-Iran Doubts Push Up Oil Prices: Markets Wrap",
-      "summary": "Stocks dropped and oil advanced as optimism over the US-Iran ceasefire faded after Tehran warned that some terms of the deal had been breached.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-08/stock-market-today-dow-s-p-live-updates",
+      "id": "2026-04-08-7550a24c",
+      "headline": "Oil prices plunge and shares jump on US-Iran ceasefire plan",
+      "summary": "Crude prices tumbled by as much as 15% on the conditional pause but remain far higher than before the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8r40y3rv75o?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Tehran",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-08",
-      "time": "22:17",
+      "time": "20:15",
       "conflict_id": null,
-      "score": 58.1
-    },
-    {
-      "id": "2026-04-08-3267b1ac",
-      "headline": "JD Vance claims US is not interfering in Hungary election",
-      "summary": "US vice-president says on visit to Budapest ‘we had to show’ support for Viktor Orbán, as opposition leads polls Hungary elections: what is at stake and who is likely to win?JD Vance has pushed back against claims that the US is interfering in Hungarian politics, describing the accusations as “darkly ironic”, as a set of polls suggested the opposition Tisza party could win a supermajority in the forthcoming elections.After spending his first day ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/08/jd-vance-dismisses-claims-us-interfering-hungarian-election-budapest-viktor-orban",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "politics",
-      "date": "2026-04-08",
-      "time": "17:18",
-      "conflict_id": null,
-      "score": 40.0
+      "score": 59.0
     },
     {
       "id": "2026-04-08-fc204d70",
@@ -816,20 +858,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-07-dc26ef64",
-      "headline": "Vance says he prays U.S. is ‘on God’s side’ in Iran war",
-      "summary": "When asked whether he shared Trump’s view that the U.S.-Israeli war on Iran carried divine backing, the vice president declined to go as far.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/07/vance-iran-war-god/",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-07",
-      "time": "16:01",
-      "conflict_id": null,
-      "score": 56.9
-    },
-    {
       "id": "2026-04-07-cfc75621",
       "headline": "WHO suspends Gaza medical evacuations after contractor killed by Israeli troops",
       "summary": "Israel's military says troops fired at a vehicle driven by the Palestinian because they believed it posed \"an immediate threat\".",
@@ -841,7 +869,7 @@
       "date": "2026-04-07",
       "time": "13:55",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-04-07-5d29ce34",
@@ -856,20 +884,6 @@
       "time": "19:39",
       "conflict_id": null,
       "score": 32.9
-    },
-    {
-      "id": "2026-04-07-3218a51e",
-      "headline": "Plan to scrap presidential elections puts Zimbabweans at loggerheads",
-      "summary": "The ruling party has unveiled a draft law that strips voters of the chance to elect the president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg54zy5dq1yo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-07",
-      "time": "23:15",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-04-07-b63b5440",
@@ -996,20 +1010,6 @@
       "time": "23:14",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-02-61987dad",
-      "headline": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
-      "summary": "There were some glaring omissions in the US president's primetime address, writes the BBC's Gary O'Donoghue.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-02",
-      "time": "03:22",
-      "conflict_id": null,
-      "score": 60.0
     },
     {
       "id": "2026-04-02-a49878aa",
