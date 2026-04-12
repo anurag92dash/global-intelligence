@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-12T20:21:38.493576+00:00",
-  "story_count": 70,
-  "source_count": 9,
+  "updated": "2026-04-12T20:58:18.640417+00:00",
+  "story_count": 73,
+  "source_count": 10,
   "stories": [
-    {
-      "id": "2026-04-12-0ec21e37",
-      "headline": "Ukraine and Russia accuse each other of breaching Easter ceasefire",
-      "summary": "The warring sides trade barbs over truce as Kremlin says Russia will not extend it unless Kyiv agrees to its terms.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/12/ukraine-and-russia-accuse-each-other-of-breaching-easter-ceasefire?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-12",
-      "time": "12:56",
-      "conflict_id": "ukraine-war",
-      "score": 75.4
-    },
     {
       "id": "2026-04-12-5d409b16",
       "headline": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
@@ -60,6 +46,34 @@
       "score": 59.1
     },
     {
+      "id": "2026-04-12-06ded035",
+      "headline": "After 21 Hours of Talks With Iran, Vance Leaves Without a Deal",
+      "summary": "Vice President JD Vance landed in Islamabad on Saturday tasked with ending six weeks of war and overcoming 47 years of enmity &mdash; 21 hours later, he flew home without a deal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-12/how-the-us-iran-talks-in-islamabad-ended-without-a-deal",
+      "region": "MENA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "13:30",
+      "conflict_id": null,
+      "score": 59.1
+    },
+    {
+      "id": "2026-04-12-4f6cf5c0",
+      "headline": "Trump Was Watching a U.F.C. Fight in Miami While Iran Talks Collapsed",
+      "summary": "On his way to Florida, President Trump said it did not matter to him if a deal with Iran was reached or not: “We win, regardless,” he said.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/11/us/politics/trump-ufc-iran-war.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "04:08",
+      "conflict_id": null,
+      "score": 58.2
+    },
+    {
       "id": "2026-04-12-f0c9d44f",
       "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
       "summary": "The blockade could derail a tenuous ceasefire after just five days. Vice President JD Vance said the U.S. remains open to diplomacy if Iran takes “our final and best offer.”",
@@ -74,16 +88,16 @@
       "score": 57.9
     },
     {
-      "id": "2026-04-12-4f6cf5c0",
-      "headline": "Trump Was Watching a U.F.C. Fight in Miami While Iran Talks Collapsed",
-      "summary": "On his way to Florida, President Trump said it did not matter to him if a deal with Iran was reached or not: “We win, regardless,” he said.",
+      "id": "2026-04-12-819ed8d9",
+      "headline": "Navy Warships Cross Strait of Hormuz to Clear Mines, U.S. Says",
+      "summary": "Iran denied that the American destroyers had entered the strait, as negotiations for an extended cease-fire continued in Islamabad.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/us/politics/trump-ufc-iran-war.html",
+      "url": "https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html",
       "region": "NA",
-      "country": "Trump",
+      "country": "Islamabad",
       "category": "geopolitics",
       "date": "2026-04-12",
-      "time": "04:08",
+      "time": "00:30",
       "conflict_id": null,
       "score": 57.2
     },
@@ -102,6 +116,34 @@
       "score": 57.0
     },
     {
+      "id": "2026-04-12-c7787f6b",
+      "headline": "Inside Vance’s Iran negotiations: No deal, but ‘friendly’ talks",
+      "summary": "Vice President JD Vance’s negotiations in Pakistan with Iran failed to end the war, but progress was reported on building goodwill.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/12/jd-vance-inside-iran-negotiations/",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "20:34",
+      "conflict_id": null,
+      "score": 56.9
+    },
+    {
+      "id": "2026-04-12-533329b7",
+      "headline": "Trump orders Strait of Hormuz blockade after US-Iran talks fail in Islamabad",
+      "summary": "U.S. President Donald Trump ordered a naval blockade of the Strait of Hormuz after talks with Iran in Islamabad ended without a deal. The move ramps up pressure as both sides blame each other, while Pakistan urges restraint and the ceasefire hangs in the balance.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/12/trump-orders-strait-of-hormuz-blockade-after-us-iran-talks-fail-in-islamabad",
+      "region": "SA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "14:53",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
       "id": "2026-04-12-ce79ed63",
       "headline": "'A truly historic moment': BBC reports from Hungary as Viktor Orbán concedes election",
       "summary": "Rajini Vaidyanathan broadcasts from outside Hungary's parliament as crowds hear about the prime minister's concession.",
@@ -118,30 +160,16 @@
     {
       "id": "2026-04-12-dfd10ac7",
       "headline": "Hungary’s Orbán concedes defeat as opposition heads for landslide win",
-      "summary": "Péter Magyar’s Tisza party was projected to win 136 out of 199 seats, giving it a two-thirds majority",
+      "summary": "Tisza party led by Péter Magyar projected to win a clear majority in a crushing loss for EU’s longest-serving premier",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/a9b635f0-6fff-41e5-8e27-245de4500863",
       "region": "EU",
       "country": "Hungary",
       "category": "politics",
       "date": "2026-04-12",
-      "time": "19:57",
+      "time": "20:44",
       "conflict_id": null,
       "score": 51.4
-    },
-    {
-      "id": "2026-04-12-cb0239a3",
-      "headline": "Fmr. National Sec. Advisor Bolton on Trump calling for Strait of Hormuz blockade: it \"makes sense\"",
-      "summary": "President Donald Trump said the US would blockade the Strait of Hormuz \"effective immediately\" following the failed peace talks with Iran in Islamabad. Former National Security Adviser John Bolton joins Christina Ruffini and Tim Stenovec on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-12/bolton-on-strait-of-hormuz-blockade-it-makes-sense-video",
-      "region": "NA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-12",
-      "time": "15:23",
-      "conflict_id": null,
-      "score": 51.1
     },
     {
       "id": "2026-04-12-7542bac2",
@@ -158,34 +186,6 @@
       "score": 51.1
     },
     {
-      "id": "2026-04-12-42e8c7c9",
-      "headline": "Vance, Witkoff, Kushner Depart Pakistan Amid Uncertain Iran Peace Talks",
-      "summary": "Negotiations between the US and Iran in Islamabad have ended without an agreement. Bloomberg News Reporter Eric Martin currently in Islamabad, Bloomberg News White House Correspondent Jeff Mason, and Israel Channel 13 US Correspondent Neria Krus join Bloomberg This Weekend to discuss the complexity of such diplomatic efforts. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-12/vance-witkoff-kushner-depart-pakistan-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-04-12",
-      "time": "13:11",
-      "conflict_id": null,
-      "score": 51.1
-    },
-    {
-      "id": "2026-04-12-73c9b5f2",
-      "headline": "Oil prices expected to rise as hope fades of end to Iran war",
-      "summary": "Crude had stabilised on optimism that a deal could be reached to reopen the Strait of Hormuz",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-12",
-      "time": "16:21",
-      "conflict_id": null,
-      "score": 50.4
-    },
-    {
       "id": "2026-04-12-a4ddf307",
       "headline": "Hungary’s Viktor Orban, ally of Trump and Putin, concedes election defeat",
       "summary": "WIth record turnout, Hungarians chose to end the 16-year rule of the prime minister who was a self-proclaimed champion of illiberal Christian democracy.",
@@ -195,7 +195,7 @@
       "country": "Hungary",
       "category": "politics",
       "date": "2026-04-12",
-      "time": "19:40",
+      "time": "20:34",
       "conflict_id": null,
       "score": 49.9
     },
@@ -209,7 +209,7 @@
       "country": "Hungary",
       "category": "politics",
       "date": "2026-04-12",
-      "time": "20:17",
+      "time": "20:44",
       "conflict_id": null,
       "score": 49.0
     },
@@ -268,6 +268,34 @@
       "time": "15:09",
       "conflict_id": null,
       "score": 48.4
+    },
+    {
+      "id": "2026-04-12-76674288",
+      "headline": "Orbán publicly concedes election defeat, says Fidesz will serve Hungary in opposition",
+      "summary": "Final results won’t be known for several hours yet and with voter turnout at a record 77.8%, the highest ever recorded in a Hungarian election, there are plenty of ballot papers to count.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/12/record-turnout-as-close-of-polls-nears-in-hungarys-most-consequential-election-in-decades",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-12",
+      "time": "14:58",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
+      "id": "2026-04-12-ecb34402",
+      "headline": "Ukraine and Russia accuse each other of breaching 36-hour Orthodox Easter ceasefire",
+      "summary": "According to Ukraine's General Staff of the armed forces, by 7am the ceasefire had been violated by Russia 2,299 times, including assaults, shelling and small drone launches. However, Russia has refrained from using long-range drones, missiles or guided bombs.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/12/ukraine-and-russia-accuse-each-other-of-breaching-36-hour-orthodox-easter-ceasefire",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "14:25",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-04-12-391f53c2",
@@ -368,6 +396,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-04-12-6b3a52b8",
+      "headline": "Hungary election: Supporters of Peter Magyar's party celebrate in Budapest",
+      "summary": "Supporters of Peter Magyar, leader of the pro-European conservative TISZA party, celebrate on the banks on the river Danube in Budapest.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/12/hungary-election-supporters-of-peter-magyars-party-celebrate-in-budapest",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "business",
+      "date": "2026-04-12",
+      "time": "20:49",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-04-12-a3102fc8",
       "headline": "Why this disillusioned Trump voter spends hours searching Epstein files",
       "summary": "Many who support the president have expressed frustration with how Trump's former attorney general Pam Bondi handled the Epstein files.",
@@ -398,7 +440,7 @@
     {
       "id": "2026-04-12-4f2f5fac",
       "headline": "Peru Extends Voting for President, Congress Amid Delays at Polling Sites",
-      "summary": "Peru will keep polls open for an extra hour during its Sunday presidential election as delays plague several voting locations in the capital Lima, mainly because ballots had not been delivered on time.",
+      "summary": "Peru’s nationwide elections suffered severe delays at some polling stations, especially in the capital Lima, muddying what was already a complex race among a record 36 presidential candidates.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-12/peru-voting-for-president-bicameral-congress-in-bid-for-stability",
       "region": "NA",
@@ -592,6 +634,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-04-12-64c101c2",
+      "headline": "EU’s largest economies vs top US states: How do they compare in GDP?",
+      "summary": "Top EU countries and US states appear one after the other in economic size rankings. However, US states surpass the top EU economies in GDP per capita, both in nominal terms and purchasing power.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/04/12/eus-largest-economies-vs-top-us-states-how-do-they-compare-in-gdp",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-12",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-11-5e47150f",
       "headline": "Vance, who wasn’t keen on Iran war, now tasked with trying to end it",
       "summary": "The weekend’s peace talks in Islamabad mark Vance’s highest-profile assignment as vice president, with concomitant political risk.",
@@ -634,20 +690,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-11-8974c0fa",
-      "headline": "Eric Swalwell, California governor candidate, accused of sexual assault by ex-staffer",
-      "summary": "Supporters of Rep. Eric Swalwell’s campaign withdrew support, including two congressmen who chaired his campaign and two senators who endorsed his bid. Swalwell denied the allegations.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/10/eric-swalwell-sexual-assault-allegations/",
-      "region": "EU",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-11",
-      "time": "03:51",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-04-10-87a703af",
       "headline": "The high-stakes diplomacy that led to Pakistan hosting US-Iran peace talks",
       "summary": "Critical minerals, cryptocurrency, and CIA co-operation - how Asim Munir, Trump’s “favourite field marshal”, may have pulled off the diplomatic coup of the century.",
@@ -659,7 +701,7 @@
       "date": "2026-04-10",
       "time": "14:07",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
     },
     {
       "id": "2026-04-10-dcbdc99e",
@@ -858,18 +900,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-08-d59d939f",
-      "headline": "At least 182 killed across Lebanon in large wave of Israeli strikes",
-      "summary": "Attacks hit the southern suburbs of Beirut, southern Lebanon and the eastern Bekaa Valley, hours after a US-Iran ceasefire was announced.",
+      "id": "2026-04-08-c1071b5e",
+      "headline": "Iran ceasefire deal gives Trump a way out of war - but at a high cost",
+      "summary": "The path to the two-week ceasefire with Iran may have fundamentally altered the way the rest of the world views the US.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0j6d538l6qo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
+      "url": "https://www.bbc.com/news/articles/cwyvp55xrlro?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-04-08",
-      "time": "20:54",
+      "time": "03:30",
       "conflict_id": null,
-      "score": 51.0
+      "score": 67.0
     },
     {
       "id": "2026-04-08-2706ea5e",
@@ -883,7 +925,7 @@
       "date": "2026-04-08",
       "time": "20:25",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-04-07-d45dfbdd",
