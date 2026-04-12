@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-12T15:56:07.021047+00:00",
-  "story_count": 74,
+  "updated": "2026-04-12T16:27:05.689785+00:00",
+  "story_count": 75,
   "source_count": 9,
   "stories": [
     {
@@ -15,21 +15,7 @@
       "date": "2026-04-12",
       "time": "12:56",
       "conflict_id": "ukraine-war",
-      "score": 84.4
-    },
-    {
-      "id": "2026-04-12-5d409b16",
-      "headline": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
-      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-12",
-      "time": "11:53",
-      "conflict_id": "ukraine-war",
-      "score": 79.0
+      "score": 83.4
     },
     {
       "id": "2026-04-12-0a54a701",
@@ -44,6 +30,20 @@
       "time": "01:37",
       "conflict_id": null,
       "score": 74.1
+    },
+    {
+      "id": "2026-04-12-5d409b16",
+      "headline": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
+      "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz78y73v830o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "11:53",
+      "conflict_id": "ukraine-war",
+      "score": 71.0
     },
     {
       "id": "2026-04-12-c73d5486",
@@ -84,20 +84,6 @@
       "category": "geopolitics",
       "date": "2026-04-12",
       "time": "04:08",
-      "conflict_id": null,
-      "score": 58.2
-    },
-    {
-      "id": "2026-04-12-819ed8d9",
-      "headline": "Navy Warships Cross Strait of Hormuz to Clear Mines, U.S. Says",
-      "summary": "Iran denied that the American destroyers had entered the strait, as negotiations for an extended cease-fire continued in Islamabad.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html",
-      "region": "NA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-12",
-      "time": "00:30",
       "conflict_id": null,
       "score": 58.2
     },
@@ -225,7 +211,7 @@
       "date": "2026-04-12",
       "time": "",
       "conflict_id": null,
-      "score": 46.8
+      "score": 47.8
     },
     {
       "id": "2026-04-12-dd457f9c",
@@ -237,7 +223,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-04-12",
-      "time": "14:01",
+      "time": "16:04",
       "conflict_id": null,
       "score": 43.0
     },
@@ -438,6 +424,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-12-4e7d6ba6",
+      "headline": "Peru Casting Ballots for President, Bicameral Congress in Bid for Stability",
+      "summary": "Peruvians are heading to the polls Sunday to elect a new president from among a record 36 candidates and to overhaul the legislature, which for the first time in over three decades will return to a bicameral system.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-12/peru-voting-for-president-bicameral-congress-in-bid-for-stability",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-04-12",
+      "time": "12:15",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-12-2eb92ff5",
       "headline": "Training for the Paris Marathon Using ChatGPT",
       "summary": "Bloomberg News Senior Editor for US Economics & Government Derek Wallbank used ChatGPT to train for the Paris Marathon. He sits down with Christina Ruffini and Tim Stenovec on Bloomberg This Weekend before his big race to discuss. Watch the show LIVE every Saturday and Sunday morning. (Source: Bloomberg)",
@@ -476,20 +476,6 @@
       "category": "business",
       "date": "2026-04-12",
       "time": "12:41",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-12-4e7d6ba6",
-      "headline": "Peru Casting Ballots for President, Bicameral Congress in Bid for Stability",
-      "summary": "Peruvians are heading to the polls Sunday to elect a new president from among a record 36 candidates and to overhaul the legislature, which for the first time in over three decades will return to a bicameral system.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-12/peru-voting-for-president-bicameral-congress-in-bid-for-stability",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-12",
-      "time": "12:15",
       "conflict_id": null,
       "score": 26.1
     },
@@ -576,6 +562,20 @@
       "time": "09:36",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-04-12-fd574317",
+      "headline": "Japan's SoftBank launches unit to develop homegrown AI",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-softbank-launches-unit-to-develop-homegrown-ai",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-12",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-04-12-f49c42fd",
@@ -676,20 +676,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-04-11-512386a6",
-      "headline": "Ukraine and Russia exchange prisoners ahead of Orthodox Easter ceasefire",
-      "summary": "The warring sides exchanged 175 prisoners of war each in a mediation facilitated by the United Arab Emirates, officials from both nations said.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/11/ukraine-and-russia-exchange-prisoners-ahead-of-orthodox-easter-ceasefire",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-11",
-      "time": "14:48",
-      "conflict_id": null,
-      "score": 61.0
-    },
-    {
       "id": "2026-04-11-5e47150f",
       "headline": "Vance, who wasn’t keen on Iran war, now tasked with trying to end it",
       "summary": "The weekend’s peace talks in Islamabad mark Vance’s highest-profile assignment as vice president, with concomitant political risk.",
@@ -714,6 +700,20 @@
       "category": "geopolitics",
       "date": "2026-04-11",
       "time": "09:21",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-11-b64bf2af",
+      "headline": "Who is Viktor Orbán, Hungarian PM fighting to stay in power after 16 years?",
+      "summary": "Since 2010, Orbán has transformed Hungary into what the European Parliament has denounced as a \"hybrid regime of electoral autocracy\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd6l3ywpwg2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "geopolitics",
+      "date": "2026-04-11",
+      "time": "04:43",
       "conflict_id": null,
       "score": 35.0
     },
@@ -774,6 +774,20 @@
       "score": 63.0
     },
     {
+      "id": "2026-04-10-87a703af",
+      "headline": "The high-stakes diplomacy that led to Pakistan hosting US-Iran peace talks",
+      "summary": "Critical minerals, cryptocurrency, and CIA co-operation - how Asim Munir, Trump’s “favourite field marshal”, may have pulled off the diplomatic coup of the century.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3dl0g4rgn5o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-10",
+      "time": "14:07",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-04-10-3974d667",
       "headline": "Trump says Iran's handling of Strait of Hormuz is 'not the agreement we have'",
       "summary": "The US president accused Iran of \"doing a very poor job\" with the waterway as Israel and Lebanon to begin peace talks.",
@@ -799,7 +813,7 @@
       "date": "2026-04-10",
       "time": "11:56",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-04-10-79265712",
