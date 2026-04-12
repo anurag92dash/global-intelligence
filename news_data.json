@@ -1,21 +1,77 @@
 {
-  "updated": "2026-04-12T01:46:58.442170+00:00",
-  "story_count": 72,
-  "source_count": 10,
+  "updated": "2026-04-12T04:36:27.356398+00:00",
+  "story_count": 70,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-04-12-56fcce52",
-      "headline": "Iran war live: Talks with US to continue for a second day in Islamabad",
-      "summary": "Iran and US continue direct talks in Islamabad, with the Strait of Hormuz believed to be a key sticking point.",
+      "id": "2026-04-12-c8fb30e3",
+      "headline": "Middle East war live: Vance says US and Iran fail to reach deal",
+      "summary": "Two sides held talks in Islamabad over the weekend",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/55e4467b-19c3-433e-851c-2966f60c9f84",
+      "region": "NA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "01:44",
+      "conflict_id": null,
+      "score": 59.4
+    },
+    {
+      "id": "2026-04-12-0a54a701",
+      "headline": "US, Iran Fail to Reach Peace Agreement After Marathon Talks",
+      "summary": "The US and Iran failed to reach an agreement after marathon talks in Pakistan on the weekend, a major setback to finding a lasting resolution to the six-week war in the Middle East.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-12/us-hasn-t-reached-agreement-with-iran-vance-says",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "01:37",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
+      "id": "2026-04-12-b58f0022",
+      "headline": "Australia news live: Wong says it’s ‘disappointing’ peace talks between US and Iran failed; Chalmers warns of ‘more polarising politics’",
+      "summary": "Follow the day’s news liveNew relief for households being considered as Albanese government warns of ‘long tail’ from Iran warGet our breaking news email, free app or daily news podcastSeven-year-old girl drowns at swimming spot on Brisbane RiverA seven-year-old girl has drowned at a popular swimming spot on the Brisbane River in the south-west of the city, AAP reports. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
+      "region": "NA",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "03:49",
+      "conflict_id": null,
+      "score": 57.0
+    },
+    {
+      "id": "2026-04-12-4180eb63",
+      "headline": "Iran war live: Vance says no deal reached, US has made ‘best, final offer’",
+      "summary": "Iranian media say the US was looking for an excuse to leave the talks and that the &#039;ball is in America&#039;s court&#039;.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/4/12/iran-war-live-historic-face-to-face-talks-with-us-continue-in-islamabad?traffic_source=rss",
       "region": "NA",
-      "country": "Islamabad",
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-04-12",
       "time": "00:00",
       "conflict_id": null,
       "score": 56.4
+    },
+    {
+      "id": "2026-04-12-055f1a36",
+      "headline": "'We need real peace': Easter truce fails to lift grim mood in war-torn Ukraine",
+      "summary": "Easter festivities are muted in Kharkiv as Ukrainians expect fighting to flare up again after a weekend truce.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj0vn30574no?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "04:20",
+      "conflict_id": "ukraine-war",
+      "score": 55.0
     },
     {
       "id": "2026-04-12-d47b7929",
@@ -30,20 +86,6 @@
       "time": "00:44",
       "conflict_id": "israel-hamas",
       "score": 51.4
-    },
-    {
-      "id": "2026-04-12-819ed8d9",
-      "headline": "Navy Warships Cross Strait of Hormuz to Clear Mines, U.S. Says",
-      "summary": "Iran denied that the American destroyers had entered the strait, as negotiations for an extended cease-fire continued in Islamabad.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html",
-      "region": "NA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-12",
-      "time": "00:30",
-      "conflict_id": null,
-      "score": 49.2
     },
     {
       "id": "2026-04-12-3f476928",
@@ -88,6 +130,34 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-12-4af915dd",
+      "headline": "How Hungary's knife-edge election could impact the US and Russia",
+      "summary": "The BBC's Europe Editor Katya Adler reports from Prime Minister Victor Orbán's home town of Felscút.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cpqxy0d1g2yo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-12",
+      "time": "02:52",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-04-12-d5139eab",
+      "headline": "Japan to Work With Asian Nations to Ease Oil Bottleneck: Akazawa",
+      "summary": "Japan will work closely with Asian countries where essential petroleum-based products including medical equipment are produced, economy minister Ryosei Akazawa said in a Sunday debate program on broadcaster NHK.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-12/japan-to-work-with-asian-nations-to-ease-oil-bottleneck-akazawa",
+      "region": "EU",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-12",
+      "time": "03:29",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-12-b7fe6c48",
       "headline": "Push to Expel Swalwell Could Touch Off Chain Reaction of House Removal Votes",
       "summary": "The House could move within days to consider expelling Representative Eric Swalwell, Democrat of California, in light of sexual assault allegations against him. There could be more to come for both parties.",
@@ -102,18 +172,18 @@
       "score": 25.2
     },
     {
-      "id": "2026-04-12-2c289c49",
-      "headline": "Australia news live: government ad campaign urges lower fuel use; woman charged with attempted poisoning murder of girl, 10",
-      "summary": "Follow the day’s news liveAlbanese didn’t return with shiploads of diesel. That doesn’t mean his Singapore visit wasn’t a successGet our breaking news email, free app or daily news podcastSeven-year-old girl drowns at swimming spot on Brisbane RiverA seven-year-old girl has drowned at a popular swimming spot on the Brisbane River in the south-west of the city, AAP reports. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/12/petrol-prices-save-fuel-government-ad-campaign-anthony-albanese-singapore-labor-coalition-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
+      "id": "2026-04-12-98a0a391",
+      "headline": "Netanyahu next to Middle East map: ‘We strangled them and have more to do’",
+      "summary": "Standing by a map, Israeli Prime Minister Benjamin Netanyahu describes how six countries wanted to strangle us’.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/12/netanyahu-next-to-middle-east-map-we-strangled-them-and-have-more-to?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "politics",
       "date": "2026-04-12",
-      "time": "01:19",
+      "time": "02:09",
       "conflict_id": null,
-      "score": 24.0
+      "score": 23.4
     },
     {
       "id": "2026-04-12-32cab2ab",
@@ -214,18 +284,32 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-11-512386a6",
-      "headline": "Ukraine and Russia exchange prisoners ahead of Orthodox Easter ceasefire",
-      "summary": "The warring sides exchanged 175 prisoners of war each in a mediation facilitated by the United Arab Emirates, officials from both nations said.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/11/ukraine-and-russia-exchange-prisoners-ahead-of-orthodox-easter-ceasefire",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-04-11-c87b7ea3",
+      "headline": "U.S. Intelligence Shows China Taking a More Active Role in Iran War",
+      "summary": "China may have shipped missiles to Iran, and Beijing is allowing some companies to sell Tehran supplies that can be used in military production, American officials said.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html",
+      "region": "MENA",
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-04-11",
-      "time": "14:48",
+      "time": "19:59",
       "conflict_id": null,
-      "score": 53.0
+      "score": 58.2
+    },
+    {
+      "id": "2026-04-11-5e47150f",
+      "headline": "Vance, who wasn’t keen on Iran war, now tasked with trying to end it",
+      "summary": "The weekend’s peace talks in Islamabad mark Vance’s highest-profile assignment as vice president, with concomitant political risk.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/11/vance-war-skeptic-peace-talks/",
+      "region": "MENA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-11",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 56.9
     },
     {
       "id": "2026-04-11-6f166a88",
@@ -242,34 +326,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-11-c87b7ea3",
-      "headline": "U.S. Intelligence Shows China Taking a More Active Role in Iran War",
-      "summary": "China may have shipped missiles to Iran, and Beijing is allowing some companies to sell Tehran supplies that can be used in military production, American officials said.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html",
-      "region": "MENA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-11",
-      "time": "19:59",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
-      "id": "2026-04-11-c522af97",
-      "headline": "US President Trump says US ‘wins’ regardless of how Iran talks go",
-      "summary": "US President Donald Trump says ‘we win regardless of what happens’ in Iran talks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/us-president-trump-says-us-wins-regardless-of-how-iran-talks-go?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-11",
-      "time": "22:09",
-      "conflict_id": null,
-      "score": 48.4
-    },
-    {
       "id": "2026-04-11-4712e695",
       "headline": "Israeli strikes kill at least 18 people across southern Lebanon",
       "summary": "Lebanon&#039;s Health Ministry says more than 2,000 people have been killed in Israeli attacks since March 2.",
@@ -284,32 +340,18 @@
       "score": 47.4
     },
     {
-      "id": "2026-04-11-8fddb5fe",
-      "headline": "Gaza families mourn loved ones killed in overnight Israeli air strikes",
-      "summary": "Families gather over bodies outside a Gaza hospital after overnight Israeli air strikes killed seven people.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/11/gaza-families-mourn-loved-ones-killed-in-overnight-israeli-air-strikes?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
+      "id": "2026-04-11-58952f13",
+      "headline": "The IMF Meetings Were Supposed to Be About Trade. Then Came the Iran War.",
+      "summary": "The IMF and World Bank meetings were supposed to be about trade and growth. Instead, the war in Iran has forced finance ministers and central bankers to confront a potential global economic crisis. Chrystia Freeland, former Deputy Prime Minister and Finance Minister of Canada, explains why this moment may mark the end of the U.S.-led international order that has kept the world stable since World War II. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-11/the-global-crisis-facing-the-imf-meetings-video",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
       "date": "2026-04-11",
-      "time": "18:02",
+      "time": "14:03",
       "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-04-11-f6e188fa",
-      "headline": "Russia-Ukraine Orthodox Easter ceasefire begins",
-      "summary": "Both sides have agreed to observe the temporary truce, as US-led diplomatic efforts to end the war continue to stall.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/russia-ukraine-orthodox-easter-ceasefire-begins?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-11",
-      "time": "16:09",
-      "conflict_id": null,
-      "score": 47.4
+      "score": 42.1
     },
     {
       "id": "2026-04-11-817ed219",
@@ -323,21 +365,7 @@
       "date": "2026-04-11",
       "time": "09:21",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-04-11-58952f13",
-      "headline": "The IMF Meetings Were Supposed to Be About Trade. Then Came the Iran War.",
-      "summary": "The IMF and World Bank meetings were supposed to be about trade and growth. Instead, the war in Iran has forced finance ministers and central bankers to confront a potential global economic crisis. Chrystia Freeland, former Deputy Prime Minister and Finance Minister of Canada, explains why this moment may mark the end of the U.S.-led international order that has kept the world stable since World War II. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-11/the-global-crisis-facing-the-imf-meetings-video",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-04-11",
-      "time": "14:03",
-      "conflict_id": null,
-      "score": 42.1
+      "score": 35.0
     },
     {
       "id": "2026-04-11-dd3a70d8",
@@ -366,6 +394,34 @@
       "time": "14:09",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-04-11-affa6aae",
+      "headline": "Russian drone attacks persist despite Kremlin’s Easter ceasefire, Ukrainian forces say",
+      "summary": "Ukraine reports 469 violations of Putin’s 32-hour ceasefire, hours after deadly drone attacks on Odesa and KhersonRussia continued to strike Ukrainian positions with drones after a Kremlin-declared Easter ceasefire took effect on Saturday, a Ukrainian military officer said.“The ceasefire is not being observed by the Russian side,” said Serhii Kolesnychenko, a communications officer for the 148th Separate Artillery Brigade. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/11/russian-drone-attacks-persist-despite-kremlins-easter-ceasefire-ukrainian-forces-say",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-11",
+      "time": "19:50",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-04-11-82a7e0e8",
+      "headline": "Knifeman calling himself 'Lucifer' slashes three at NYC's Grand Central",
+      "summary": "Police fatally shot the assailant after he ignored at least 20 demands to drop the weapon, said NYPD.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz67yy0006jo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-11",
+      "time": "18:08",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-04-11-5683132e",
@@ -420,20 +476,6 @@
       "category": "business",
       "date": "2026-04-11",
       "time": "17:42",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-04-11-b824b820",
-      "headline": "Mortgage borrowers seek shorter-term deals as market volatility saps confidence",
-      "summary": "Flexibility is the watchword among UK borrowers amid signs of slowing activity in the housing market",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5234ae7e-4386-47c3-b623-ff2f8a6f42cd",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-11",
-      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -592,48 +634,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-04-11-15e6b900",
-      "headline": "Iraq parliament elects Kurdish politician Nizar Amedi as president",
-      "summary": "New president pledges &#039;Iraq First&#039; after securing 227 votes, ending five months of political deadlock.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/11/iraq-parliament-elects-kurdish-politician-nizar-amedi-as-president?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iraq",
-      "category": "politics",
-      "date": "2026-04-11",
-      "time": "17:24",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-04-11-95e858b7",
-      "headline": "From insider to rival: how Magyar became Orbán's most serious challenger in 16 years",
-      "summary": "Just a few years ago, Péter Magyar was an insider within the ruling Fidesz elite in Hungary. This Sunday, he goes into an election that could see him oust Orbán after 16 years of uninterrupted rule in a spectacular shift.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/11/from-insider-to-rival-how-peter-magyar-became-orbans-most-serious-challenger-in-16-years",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "politics",
-      "date": "2026-04-11",
-      "time": "17:25",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-04-11-16373098",
-      "headline": "House prices across Europe: Which countries saw the highest rises in 2025?",
-      "summary": "House prices rose by 5.5% in the EU in the last quarter of 2025, with stronger growth in some tourist-attractive countries such as Portugal, Croatia and Spain. Experts explain the differences between countries for Euronews Business.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/04/11/house-prices-across-europe-which-countries-saw-the-highest-rises-in-2025",
-      "region": "EU",
-      "country": "Portugal",
-      "category": "business",
-      "date": "2026-04-11",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-10-dcbdc99e",
       "headline": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
       "summary": "The killing came as ex-security chiefs warned \"government sponsored Jewish terrorism\" was out of control.",
@@ -646,20 +646,6 @@
       "time": "17:08",
       "conflict_id": "israel-hamas",
       "score": 71.0
-    },
-    {
-      "id": "2026-04-10-ae103867",
-      "headline": "JD Vance warns Iran not to 'play' US during planned talks in Pakistan",
-      "summary": "The US vice president said he was \"looking forward to negotiations\" in Pakistan as UK Prime Minister Starmer classified the ceasefire as \"fragile\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/10/jd-vance-warns-iran-not-to-play-us-during-planned-talks-in-pakistan",
-      "region": "EU",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-10",
-      "time": "18:24",
-      "conflict_id": null,
-      "score": 62.0
     },
     {
       "id": "2026-04-10-6c0c48ae",
@@ -676,20 +662,6 @@
       "score": 57.9
     },
     {
-      "id": "2026-04-10-87a703af",
-      "headline": "The high-stakes diplomacy that led to Pakistan hosting US-Iran peace talks",
-      "summary": "Critical minerals, cryptocurrency, and CIA co-operation - how Asim Munir, Trump’s “favourite field marshal”, may have pulled off the diplomatic coup of the century.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3dl0g4rgn5o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-10",
-      "time": "14:07",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-04-10-79265712",
       "headline": "Prince Harry sued for defamation by charity he co-founded",
       "summary": "Legal action follows war of words with Sentebale chair after Duke of Sussex’s resignation as patronThe Duke of Sussex is being sued by Sentebale in the latest twist in the bitter fallout over the African charity he co-founded.The charity has lodged papers in London’s high court over defamation claims naming Prince Harry and the former Sentebale trustee Mark Dyer as defendants. Continue reading...",
@@ -702,34 +674,6 @@
       "time": "17:41",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-04-10-79b0af6e",
-      "headline": "Airport council warns: Hormuz closure poses major fuel shortage risks",
-      "summary": "In a letter to the EU, the Airports Council International warned that if Hormuz does not reopen within three weeks, paraffin shortages in Europe will be critical.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/04/10/airport-council-warns-hormuz-closure-poses-major-fuel-shortage-risks",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-04-10",
-      "time": "20:24",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-04-10-3949b660",
-      "headline": "Russia and Ukraine agree to Orthodox Easter truce",
-      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-10",
-      "time": "11:56",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-10-339a679e",
@@ -774,6 +718,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-04-10-3949b660",
+      "headline": "Russia and Ukraine agree to Orthodox Easter truce",
+      "summary": "Vladimir Putin announced the truce, which will last from Saturday afternoon through Easter Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn0wkkwev2vo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-10",
+      "time": "11:56",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-04-10-7c441717",
       "headline": "Taiwan opposition leader meets Xi Jinping in Beijing",
       "summary": "Cheng Li-wun is the Kuomintang's first sitting leader to visit China in a decade.",
@@ -799,7 +757,7 @@
       "date": "2026-04-09",
       "time": "13:11",
       "conflict_id": null,
-      "score": 67.0
+      "score": 68.0
     },
     {
       "id": "2026-04-09-b91bd7b9",
@@ -816,6 +774,20 @@
       "score": 59.0
     },
     {
+      "id": "2026-04-09-3bbe4310",
+      "headline": "How war has made a 33-year-old the Czech Republic’s richest man",
+      "summary": "The rapid rise of CSG, Europe’s newest defence giant",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/09/how-war-has-made-a-33-year-old-the-czech-republics-richest-man",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-09",
+      "time": "08:51",
+      "conflict_id": null,
+      "score": 49.8
+    },
+    {
       "id": "2026-04-09-5fd63f13",
       "headline": "Al Jazeera condemns killing of journalist in Israeli strike in Gaza",
       "summary": "The Israeli military claims Mohammed Wishah was a \"Hamas terrorist\" - which the Qatar-based network has previously denied.",
@@ -828,20 +800,6 @@
       "time": "11:39",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-04-09-3bbe4310",
-      "headline": "How war has made a 33-year-old the Czech Republic’s richest man",
-      "summary": "The rapid rise of CSG, Europe’s newest defence giant",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/09/how-war-has-made-a-33-year-old-the-czech-republics-richest-man",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "08:51",
-      "conflict_id": null,
-      "score": 41.8
     },
     {
       "id": "2026-04-09-46efecc5",
@@ -925,7 +883,7 @@
       "date": "2026-04-08",
       "time": "03:30",
       "conflict_id": null,
-      "score": 59.0
+      "score": 67.0
     },
     {
       "id": "2026-04-08-2f7a58a4",
@@ -939,7 +897,21 @@
       "date": "2026-04-08",
       "time": "05:03",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
+    },
+    {
+      "id": "2026-04-07-d45dfbdd",
+      "headline": "Why Real Madrid tie could make or break Kane's Ballon d'Or hopes",
+      "summary": "Harry Kane is the leading goalscorer in Europe but does he need to win a major trophy to have a chance of winning the prestigious award?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cp86v8zq4jeo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-07",
+      "time": "05:40",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-04-07-cf02c50d",
