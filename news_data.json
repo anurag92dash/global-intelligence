@@ -1,8 +1,22 @@
 {
-  "updated": "2026-04-13T16:07:12.639286+00:00",
+  "updated": "2026-04-13T17:17:40.390559+00:00",
   "story_count": 72,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-04-13-2f6feb9c",
+      "headline": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
+      "summary": "More than 160 people have been killed since Friday in Lebanon, where Israel is pressing on with its campaign against Hezbollah despite the US-Iran ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "13:55",
+      "conflict_id": null,
+      "score": 67.0
+    },
     {
       "id": "2026-04-13-65ac0c19",
       "headline": "Israeli forces kill three Palestinians in Gaza, arrest dozens in West Bank",
@@ -15,20 +29,6 @@
       "date": "2026-04-13",
       "time": "12:52",
       "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
-      "id": "2026-04-13-3d3e065a",
-      "headline": "Trump signals US naval blockade of Strait of Hormuz has begun",
-      "summary": "President says US military will blow up Iranian boats that come near American warships enforcing embargo",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "14:41",
-      "conflict_id": null,
       "score": 59.4
     },
     {
@@ -102,6 +102,34 @@
       "score": 54.0
     },
     {
+      "id": "2026-04-13-8a40fd27",
+      "headline": "Israel summons Italy's ambassador over comments on 'unacceptable attacks' on Lebanon",
+      "summary": "Lebanon was pulled into the Middle East war when Iran-backed group Hezbollah fired rockets at Israel on 2 March, days after the opening salvo of US-Israeli strikes killed Iran's supreme leader Ali Khamenei.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/13/israel-summons-italys-ambassador-over-comments-on-unacceptable-attacks-on-lebanon",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "16:21",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-04-13-3f16479c",
+      "headline": "Pope says he has 'no fear' of Trump after scathing criticism",
+      "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "12:50",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
       "id": "2026-04-13-85eb9001",
       "headline": "Israeli forces fire tear gas near Palestinian schoolchildren",
       "summary": "Israeli forces fired tear gas towards a group of children trying to walk to school in the occupied West Bank.",
@@ -144,6 +172,34 @@
       "score": 51.4
     },
     {
+      "id": "2026-04-13-a3d52748",
+      "headline": "The US blockade of Iran is a gamble. Will it work?",
+      "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "15:27",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-04-13-ae9aee31",
+      "headline": "The risks of Trump’s Strait of Hormuz blockade plan",
+      "summary": "Naval embargo designed to cut off Iran’s exports threatens to destabilise global energy markets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/54003e09-03dd-4a45-90d3-98354f8aadfb",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "04:46",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
       "id": "2026-04-13-558d93de",
       "headline": "Emerging Market Assets Slide as US Blockade of Hormuz Begins",
       "summary": "Emerging-market stocks declined along with most currencies and bonds as traders pulled back from riskier assets after US President Donald Trump ordered a blockade of the Strait of Hormuz following a breakdown in peace talks.",
@@ -155,63 +211,7 @@
       "date": "2026-04-13",
       "time": "04:38",
       "conflict_id": null,
-      "score": 51.1
-    },
-    {
-      "id": "2026-04-13-3f16479c",
-      "headline": "Pope says he has 'no fear' of Trump after scathing criticism",
-      "summary": "The US president accuses Leo of being \"weak on crime and terrible for foreign policy\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp841y07w5xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "12:50",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-04-13-3d7e98a6",
-      "headline": "French cement giant guilty of financing militant groups including Islamic State",
-      "summary": "The French company paid $6.5m to jihadist groups to keep its plant running in war-torn Syria, a Paris court heard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crl1441816po?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Syria",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "14:15",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-04-13-2f6feb9c",
-      "headline": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
-      "summary": "More than 160 people have been killed since Friday in Lebanon, where Israel is pressing on with its campaign against Hezbollah despite the US-Iran ceasefire.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czd78q6r8jno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "13:55",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-04-13-651dbabf",
-      "headline": "Opec production falls more than a quarter as Iran war hits oil exports",
-      "summary": "Output dropped by biggest volume on record in March with closure of Strait of Hormuz hitting producers around the Gulf",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2d538fd5-0acd-4403-8372-798efa96dd4f",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "14:48",
-      "conflict_id": null,
-      "score": 50.4
+      "score": 50.1
     },
     {
       "id": "2026-04-13-d92d603d",
@@ -256,34 +256,6 @@
       "score": 48.4
     },
     {
-      "id": "2026-04-13-b5a85aa7",
-      "headline": "Oil jumps and Japan stocks slip as Trump threatens Hormuz blockade",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/oil-jumps-and-japan-stocks-slip-as-trump-threatens-hormuz-blockade",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "",
-      "conflict_id": null,
-      "score": 47.8
-    },
-    {
-      "id": "2026-04-13-0186133c",
-      "headline": "What do we know about sea mines in and around the Strait of Hormuz?",
-      "summary": "The psychological terror that the presence of sea mines can generate could paralyse the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "15:12",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-04-13-d02e9cfe",
       "headline": "Eight to be awarded for bravery in Bondi Junction stabbing",
       "summary": "Six people were killed and ten injured after a man went on a stabbing rampage in an Australian mall.",
@@ -296,48 +268,6 @@
       "time": "01:35",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-13-fd770418",
-      "headline": "UK could adopt EU single market rules under new legislation",
-      "summary": "The move has raised questions over parliamentary scrutiny of future rules to deliver planned EU deals.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c937jkvp3w8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "11:18",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-04-13-2b27e067",
-      "headline": "Starmer defends fast-tracking EU rules into UK law",
-      "summary": "Prime minister says mechanism would help cut business costs and bring down prices",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/71e9ce36-0255-4a7b-a1f1-7d8c9cb69748",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "08:32",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-04-13-5be7693c",
-      "headline": "What We Know About the Eric Swalwell Sexual Misconduct Allegations",
-      "summary": "Accusations that Mr. Swalwell, a congressman who was running for governor in California, sexually assaulted a former staffer and behaved inappropriately with other women have upended the race.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/12/us/eric-swalwell-sexual-misconduct.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "01:46",
-      "conflict_id": null,
-      "score": 41.2
     },
     {
       "id": "2026-04-13-e00f99ad",
@@ -354,6 +284,20 @@
       "score": 41.0
     },
     {
+      "id": "2026-04-13-c8fb65fd",
+      "headline": "Why Péter Magyar’s Hungary will likely become a ‘normal’ EU member state",
+      "summary": "What Magyar’s victory means for EU and Hungary Europe live – latest updatesThere is huge relief in Brussels that the EU will no longer be blocked and mocked by Orbán, but there are diplomatic obstacles to overcomeIn Brussels, the relief was palpable after the defeat of Viktor Orbán, the EU leader who recently declared himself at Vladimir Putin’s service. For the EU, Péter Magyar’s victory was all the sweeter, as voters decisively rejected Orbán’s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/13/why-peter-magyar-hungary-likely-become-normal-eu-member-state",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "16:38",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-04-13-e2b4e247",
       "headline": "Hungarian election winner Magyar vows to rebuild EU relationship after stunning defeat of Viktor Orbán - Europe live",
       "summary": "The Tisza leader said the electorate voted ‘not just for a change of government but for a change of the regime’in BrusselsThe EU will start work with the new Hungarian government “as soon as possible” to make progress on issues including energy and the release of frozen European funds, the head of the European Commission has said.“We will start working with the government as soon as possible on the topics you mentioned and much more to make a swi",
@@ -363,9 +307,23 @@
       "country": "Brussels",
       "category": "politics",
       "date": "2026-04-13",
-      "time": "15:39",
+      "time": "16:32",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-04-13-0186133c",
+      "headline": "What do we know about sea mines in and around the Strait of Hormuz?",
+      "summary": "The psychological terror that the presence of sea mines can generate could paralyse the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-13",
+      "time": "15:12",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-04-13-b4906bd1",
@@ -382,6 +340,34 @@
       "score": 39.4
     },
     {
+      "id": "2026-04-13-b5a85aa7",
+      "headline": "Oil jumps and Japan stocks slip as Trump threatens Hormuz blockade",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/oil-jumps-and-japan-stocks-slip-as-trump-threatens-hormuz-blockade",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-13",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
+    },
+    {
+      "id": "2026-04-13-2dff121f",
+      "headline": "Orbán era swept away by Péter Magyar's Hungary election landslide",
+      "summary": "Viktor Orbán's 16-year rule is over, defeated by a 45-year-old ex-party insider who convinced a majority of Hungarians to oust him.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd9vg782kx7o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "11:03",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-13-532d56f0",
       "headline": "Nigeria Air Force orders investigation after dozens killed in airstrike",
       "summary": "There are reports that more than 100 people were killed, although the authorities have not commented.",
@@ -392,20 +378,6 @@
       "category": "geopolitics",
       "date": "2026-04-13",
       "time": "10:52",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-13-691741a0",
-      "headline": "'A truly historic moment': Hungarian opposition wins election landslide",
-      "summary": "Rajini Vaidyanathan broadcasts from outside Hungary's parliament as crowds hear about the prime minister's concession.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c2lwrjwg29lo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "00:52",
       "conflict_id": null,
       "score": 35.0
     },
@@ -424,18 +396,60 @@
       "score": 34.4
     },
     {
-      "id": "2026-04-13-2de260d1",
-      "headline": "Stocks Trade Flat as Investors Weigh Hormuz Blockade, Earnings",
-      "summary": "Equities traded steady as investors assessed the US Naval blockade of the Strait of Hormuz that took effect on Monday and parsed through earnings announcements at home.",
+      "id": "2026-04-13-9dee2971",
+      "headline": "US Stocks Resume Gains, Close to Erasing Iran War-Driven Losses",
+      "summary": "US equities rose for the eighth time in nine sessions as investors assessed the US Naval blockade of the Strait of Hormuz that took effect Monday and parsed through earnings announcements at home.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-13/stocks-drop-ahead-of-hormuz-blockade-as-earnings-season-begins",
       "region": "NA",
-      "country": null,
+      "country": "Iran",
       "category": "business",
       "date": "2026-04-13",
       "time": "13:39",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-04-13-c2a07f93",
+      "headline": "Venezuela Set to Award Oil Fields to Chevron to Help Grow Output",
+      "summary": "Chevron Corp. is set to expand its oil footprint in Venezuela, benefitting from its almost 20-year bet to remain in the country amid political and economic turmoil.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/venezuela-set-to-award-oil-fields-to-chevron-to-help-grow-output",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "17:08",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-13-2b6eca85",
+      "headline": "Investors Eye Latin America Again as Ceasefire Revives ETF Flows",
+      "summary": "Investors piled into emerging-market exchange-traded funds last week, led by Latin American equities, as a US-Iran ceasefire accord boosted investor appetite for risk, halting a four-week streak of outflows exceeding $5.6 billion.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/emerging-market-etfs-rebound-from-losses-rise-1-14-bln",
+      "region": "NA",
+      "country": "Latin America",
+      "category": "business",
+      "date": "2026-04-13",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-13-f8b35a67",
+      "headline": "Trump Attack on Pope and Posting of Jesus Image Draw Widespread Criticism",
+      "summary": "A prominent conservative bishop who serves on President Trump’s Religious Liberty Commission was among those who called on the president to apologize.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/13/us/trump-pope-leo.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "17:14",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-04-13-0b3019d5",
@@ -494,18 +508,18 @@
       "score": 32.0
     },
     {
-      "id": "2026-04-13-07b49673",
-      "headline": "How the US-Iran talks in Islamabad unfolded",
-      "summary": "Pakistan has been under the spotlight as it managed what others couldn’t due to its ties with the Gulf, US and China.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
-      "region": "SA",
-      "country": "Islamabad",
-      "category": "geopolitics",
+      "id": "2026-04-13-d7aadb34",
+      "headline": "Will Orbán’s defeat in Hungary be a turning point for Europe? – The Latest",
+      "summary": "Viktor Orbán’s 16-year rule has come to an end after the opposition Tisza party, led by Péter Magyar, won the Hungarian election by a landslide. Orbán quickly conceded after what he described as a ‘painful but unambiguous’ election result. All eyes are now on Magyar to see how Hungary’s relationship with the EU and Nato could change after years of strained relations.Lucy Hough speaks to Guardian’s European community affairs correspondent, Ashifa ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/apr/13/will-orbans-defeat-in-hungary-be-a-turning-point-for-europe-the-latest",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
       "date": "2026-04-13",
-      "time": "11:21",
+      "time": "15:50",
       "conflict_id": null,
-      "score": 31.4
+      "score": 32.0
     },
     {
       "id": "2026-04-13-581a9c83",
@@ -522,20 +536,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-13-f0a28d51",
-      "headline": "Oil prices soar above $100 a barrel",
-      "summary": "Crude had stabilised on optimism that a deal could be reached to reopen the Strait of Hormuz",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4dbf076f-004b-4244-8579-2aca3e60e05c",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "13:38",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-04-13-2028ef4d",
       "headline": "Goldman bond traders take shine off bumper quarter",
       "summary": "Equities unit powers bank’s earnings, while fixed income, currencies and commodities business fall well short",
@@ -550,46 +550,60 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-13-9715e051",
-      "headline": "Goldman Shares Fall as Bond Trading Miss Outweighs Equity Record",
-      "summary": "Goldman Sachs Group Inc. shares fell after the bank reported a surprise drop in bond-trading revenue, casting a shadow over what was another record quarter from the firm’s equities team.",
+      "id": "2026-04-13-e09de0af",
+      "headline": "Data Centers Offer a Potential $10 Billion Windfall for Insurers",
+      "summary": "Soaring demand for insurance coverage related to data center construction is creating a “meaningful growth opportunity” for the industry, outstripping some traditional insurance markets, according to S&amp;P Global Ratings.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-13/goldman-stock-traders-trounce-wall-street-record-by-1-billion",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/data-centers-offer-a-potential-10-billion-windfall-for-insurers",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-04-13",
-      "time": "11:27",
+      "time": "16:36",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-04-13-eb841b21",
-      "headline": "Slate Auto Aims to Reinvent EV Affordability",
-      "summary": "Slate Auto CEO Peter Faricy joined Bloomberg Open Interest to reveal how his startup plans to disrupt the EV market with a $20K electric pickup. By stripping down manufacturing, offering extreme customization, and focusing on affordability over incentives, Slate aims to bring EVs to the mass market,  even as overall demand faces uncertainty. (Source: Bloomberg)",
+      "id": "2026-04-13-374c594b",
+      "headline": "Blockade Threat Shakes Oil Markets | Bloomberg Open Interest 4/13/2026",
+      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" Tensions spike in the Middle East as President Trump threatens to strike Iranian vessels in the Strait of Hormuz, sending oil back above $100 and rattling global markets. Goldman Sachs kicks off earnings season with a surprise drop in bond trading, even as equities shine. We break it all down with Leslie Vinjamuri joins the show on geopolitical r",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-13/slate-auto-aims-to-reinvent-ev-affordability-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-13/bloomberg-open-interest-4-13-2026-video",
       "region": "NA",
-      "country": null,
+      "country": "Trump",
       "category": "business",
       "date": "2026-04-13",
-      "time": "15:09",
+      "time": "16:26",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-04-13-6baf00a0",
-      "headline": "Goldman Sachs Looks to Raise at Least $5 Billion From Bond Sale",
-      "summary": "Goldman Sachs Group Inc. is seeking to raise at least $5 billion from selling investment-grade bonds, according to people with direct knowledge of the matter.",
+      "id": "2026-04-13-fa640e76",
+      "headline": "US Natural Gas Erases Gains as Traders Eye Forecasts, Storage",
+      "summary": "US natural gas futures fell midday erasing earlier gains as traders weighed forecasts for mild weather and a growing surplus of domestic stockpiles relative to the five-year average.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-13/goldman-sachs-kicks-off-three-part-investment-grade-bond-sale",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/us-natural-gas-futures-rebound-on-oil-price-gain-cooler-outlook",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-04-13",
-      "time": "13:30",
+      "time": "13:48",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-04-13-c44a2d25",
+      "headline": "Peru extends voting for president into Monday after chaos at polling stations",
+      "summary": "Lack of ballot papers and defective computers disrupt election that Keiko Fujimori appears to be leadingPeruvians will have to wait at least until the end of Monday to know the result of the presidential election held on Sunday, after the voting process descended into chaos in some polling stations due to a lack of ballot papers or defective computers.In an unprecedented move, Peru’s electoral agency ONPE announced on Sunday night that it would e",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/13/peru-presidential-election-voting",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "16:05",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-04-13-81267b76",
@@ -606,6 +620,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-04-13-07b49673",
+      "headline": "How the US-Iran talks in Islamabad unfolded",
+      "summary": "Pakistan has been under the spotlight as it managed what others couldn’t due to its ties with the Gulf, US and China.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/how-the-us-iran-talks-in-islamabad-unfolded?traffic_source=rss",
+      "region": "SA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "11:21",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-04-13-51849247",
       "headline": "Protesters rally in Paris against ‘liberty-killing’ anti-Semitism bill",
       "summary": "Hundreds of protesters gathered in Paris to oppose a proposed law aimed at combating ‘renewed forms’ of anti-Semitism.",
@@ -618,6 +646,20 @@
       "time": "09:23",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-04-13-82399140",
+      "headline": "Barclays keeping eye on volatile private credit market, CEO says",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/barclays-keeping-eye-on-volatile-private-credit-market-ceo-says",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-13",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-04-13-251e8a0d",
@@ -676,20 +718,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-13-f62fa3dc",
-      "headline": "Massive Attack’s Robert Del Naja arrested at Palestine Action protest in London",
-      "summary": "Massive Attack frontman Robert Del Naja was among 500 people arrested at Palestine Action protest in London this weekend. The celebrated trip-hop musician said he wanted to attend the protest despite the consequences a potential arrest could have on his career and touring.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/04/13/massive-attacks-robert-del-naja-arrested-at-palestine-action-protest-in-london",
-      "region": "MENA",
-      "country": "Palestine",
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "11:12",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-12-f0c9d44f",
       "headline": "Trump announces naval blockade of Iran after Islamabad talks yield no deal",
       "summary": "The blockade could derail a tenuous ceasefire after just five days. Vice President JD Vance said the U.S. remains open to diplomacy if Iran takes “our final and best offer.”",
@@ -702,6 +730,20 @@
       "time": "22:38",
       "conflict_id": null,
       "score": 56.9
+    },
+    {
+      "id": "2026-04-12-789f07d8",
+      "headline": "Anthony Albanese urges Israel to stop Lebanon attacks that intensified during Middle East ceasefire",
+      "summary": "PM tells Guardian Australia Hezbollah should cease reprisals and confirms Australia’s military surveillance aircraft will remain in regionFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s prime minister, Anthony Albanese, has urged Israel to stop its attacks on Lebanon and raised concern over its intensified military campaign on Beirut and the country’s south after the cea",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/13/anthony-albanese-urges-israel-to-stop-lebanon-attacks-that-intensified-during-middle-east-ceasefire",
+      "region": "MENA",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-04-12",
+      "time": "14:01",
+      "conflict_id": null,
+      "score": 56.0
     },
     {
       "id": "2026-04-12-5d409b16",
@@ -774,20 +816,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-12-6fd466c6",
-      "headline": "Stocks Inch Higher as US Blockades Hormuz: Markets Wrap",
-      "summary": "US stocks reversed earlier losses while oil prices rose after President Donald Trump ordered a blockade of the Strait of Hormuz following the weekend’s deadlock in US-Iran peace talks. Goldman Sachs Group Inc. shares dropped in an underwhelming start to the earnings season.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-12/oil-surges-us-futures-drop-on-hormuz-blockade-markets-wrap",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-12",
-      "time": "22:08",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-11-817ed219",
       "headline": "EU airline industry warns of fuel shortages if Strait of Hormuz stays closed",
       "summary": "Airports Council International (ACI) Europe said its members had \"increasing concerns\" about the availability of jet fuel.",
@@ -828,20 +856,6 @@
       "time": "17:08",
       "conflict_id": "israel-hamas",
       "score": 63.0
-    },
-    {
-      "id": "2026-04-10-87a703af",
-      "headline": "The high-stakes diplomacy that led to Pakistan hosting US-Iran peace talks",
-      "summary": "Critical minerals, cryptocurrency, and CIA co-operation - how Asim Munir, Trump’s “favourite field marshal”, may have pulled off the diplomatic coup of the century.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3dl0g4rgn5o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-10",
-      "time": "14:07",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-04-10-7c441717",
@@ -939,21 +953,7 @@
       "date": "2026-04-08",
       "time": "03:30",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-04-08-2706ea5e",
-      "headline": "What we know about the two-week ceasefire between the US and Iran",
-      "summary": "The provisional truce comes more than a month after the US and Israel launched coordinated attacks on Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce84z6y3ke4o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-08",
-      "time": "20:25",
-      "conflict_id": null,
-      "score": 59.0
+      "score": 67.0
     },
     {
       "id": "2026-04-07-d45dfbdd",
