@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-13T20:41:08.359821+00:00",
-  "story_count": 73,
+  "updated": "2026-04-13T21:29:39.959545+00:00",
+  "story_count": 71,
   "source_count": 9,
   "stories": [
     {
@@ -60,17 +60,17 @@
       "score": 53.0
     },
     {
-      "id": "2026-04-13-34fc7d7d",
-      "headline": "Trump says Iran has made contact and wants deal ‘very badly’",
-      "summary": "President confirms naval blockade of Strait of Hormuz has officially come into effect",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/232417a6-b351-493f-81f3-e7b3b94ebc08",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-04-13-318d54d8",
+      "headline": "Israel kills three Palestinians in separate Gaza strikes",
+      "summary": "Two Palestinians were killed in separate strikes in southern Gaza on Monday, according to officials at Nasser hospital.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/13/israel-kills-three-palestinians-in-separate-gaza-strikes?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-13",
-      "time": "17:01",
-      "conflict_id": null,
+      "time": "21:06",
+      "conflict_id": "israel-hamas",
       "score": 51.4
     },
     {
@@ -85,7 +85,7 @@
       "date": "2026-04-13",
       "time": "15:04",
       "conflict_id": null,
-      "score": 51.1
+      "score": 50.1
     },
     {
       "id": "2026-04-13-3cc2effb",
@@ -144,18 +144,18 @@
       "score": 48.0
     },
     {
-      "id": "2026-04-13-fe3db4e3",
-      "headline": "French court rules cement giant Lafarge guilty of funding Syria ‘terrorism’",
-      "summary": "Long-running case regarding Lafarte&#039;s actions amid Syrian civil war sees company ordered to pay fine, executives jailed.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/13/french-court-rules-cement-giant-lafarge-guilty-of-funding-syrian-terrorism?traffic_source=rss",
-      "region": "MENA",
-      "country": "Syria",
-      "category": "geopolitics",
+      "id": "2026-04-13-b5a85aa7",
+      "headline": "Oil jumps and Japan stocks slip as Trump threatens Hormuz blockade",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/oil-jumps-and-japan-stocks-slip-as-trump-threatens-hormuz-blockade",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
       "date": "2026-04-13",
-      "time": "18:52",
+      "time": "",
       "conflict_id": null,
-      "score": 47.4
+      "score": 46.8
     },
     {
       "id": "2026-04-13-2dff121f",
@@ -242,6 +242,34 @@
       "score": 41.0
     },
     {
+      "id": "2026-04-13-77dabb48",
+      "headline": "Pope responds to president’s insults: ‘I have no fear of the Trump administration’",
+      "summary": "The president wrote that the first U.S.-born pope, who has criticized the Iran war, was “weak” and “terrible” on crime and foreign policy.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/12/trump-criticizes-pope-leo/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "12:31",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-04-13-1437a998",
+      "headline": "Philippines accuses China of using cyanide to poison South China Sea atoll",
+      "summary": "Officials warn cyanide could harm marine life and weaken the reef supporting a grounded warship.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/13/philippines-accuses-china-of-using-cyanide-to-poison-south-china-sea-atoll?traffic_source=rss",
+      "region": "APJ",
+      "country": "Philippines",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "21:05",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-04-13-fee7c6b4",
       "headline": "Is Magyar’s election win the end of the EU’s troubles with Hungary?",
       "summary": "Orban&#039;s exit signals potential end to Hungary&#039;s EU isolation and opens door for diplomatic and economic collaboration.",
@@ -268,34 +296,6 @@
       "time": "17:46",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-04-13-0186133c",
-      "headline": "What do we know about sea mines in and around the Strait of Hormuz?",
-      "summary": "The psychological terror that the presence of sea mines can generate could paralyse the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/13/what-do-we-know-about-sea-mines-in-and-around-the-strait-of-hormuz?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "15:12",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-04-13-b5a85aa7",
-      "headline": "Oil jumps and Japan stocks slip as Trump threatens Hormuz blockade",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/oil-jumps-and-japan-stocks-slip-as-trump-threatens-hormuz-blockade",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "",
-      "conflict_id": null,
-      "score": 38.8
     },
     {
       "id": "2026-04-13-91cb99c7",
@@ -326,6 +326,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-04-13-d02e593f",
+      "headline": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
+      "summary": "Beijing rejects the allegation as a \"farce\", while Manila claims the poison was used to kill fish and deprive troops stationed in the area of food.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Philippines",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "19:17",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-13-ae9c8ff2",
       "headline": "Hungary’s election could support Europe’s revival trade",
       "summary": "In the long run, the result may be felt far beyond Budapest",
@@ -338,6 +352,20 @@
       "time": "15:21",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-04-13-b61a6736",
+      "headline": "Most Emerging Assets Gain After Hormuz Blockade Spurs Oil Spike",
+      "summary": "Most emerging-market currencies climbed on Monday after oil retreated from session highs when President Donald Trump said Iran had reached out seeking a deal, even as the US began enforcing a naval blockade in the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-13/emerging-assets-slide-as-us-hormuz-blockade-saps-risk-sentiment",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-13",
+      "time": "04:38",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-04-13-acb17e4b",
@@ -354,20 +382,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-04-13-0cd33c39",
-      "headline": "SpaceX IPO to Be Crowded Trade: Dave Nadig",
-      "summary": "Dave Nadig, president and director of research at ETF.com, joins Katie Greifeld and Eric Balchunas on \"Bloomberg ETF IQ.\" Investment bankers are hitting the road to raise more than $15 billion across initial public offerings in the coming weeks, nervously eyeing market volatility as a standoff with Iran threatens a fragile ceasefire. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-13/spacex-ipo-to-be-crowded-trade-dave-nadig-video",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "19:07",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-04-13-136df5be",
       "headline": "Prosecutors Investigate ICE Agents Who Detained ChongLy Scott Thao in Minnesota",
       "summary": "ChongLy Scott Thao, a naturalized U.S. citizen, was briefly detained during a federal immigration crackdown in Minnesota in January.",
@@ -377,7 +391,21 @@
       "country": null,
       "category": "business",
       "date": "2026-04-13",
-      "time": "20:00",
+      "time": "21:24",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-04-13-00ca2063",
+      "headline": "World War II Veterans Say NATO Is Imperfect but Necessary",
+      "summary": "President Trump’s stance on NATO has upended the norms that the service of World War II veterans helped to establish. Some say the partnership could be revamped for modern times.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/13/us/world-war-ii-veterans-nato-trump.html",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "21:11",
       "conflict_id": null,
       "score": 33.2
     },
@@ -480,20 +508,6 @@
       "score": 29.0
     },
     {
-      "id": "2026-04-13-c05f73ce",
-      "headline": "Ex-Nigerian oil minister denies taking bribes",
-      "summary": "Diezani Alison-Madueke is accused of living “a life of luxury” in the UK at properties paid for and refurbished by industry figures.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crl141ern74o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "16:05",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-04-13-581a9c83",
       "headline": "Peru election drags into second day after ballot delivery fiasco",
       "summary": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
@@ -504,20 +518,6 @@
       "category": "politics",
       "date": "2026-04-13",
       "time": "13:07",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-13-d02e593f",
-      "headline": "Philippines accuses Chinese fishermen of dumping cyanide in South China Sea",
-      "summary": "Beijing rejects the allegation as a \"farce\", while Manila claims the poison was used to kill fish and deprive troops stationed in the area of food.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgk331k44yo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Philippines",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "19:17",
       "conflict_id": null,
       "score": 27.0
     },
@@ -536,30 +536,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-13-ba6cc69d",
-      "headline": "Goldman Extends Borrowing Run With $6.5 Billion Bond Sale",
-      "summary": "Goldman Sachs Group Inc. raised $6.5 billion from a US investment-grade bond sale, extending a borrowing spree that included a record debt offering earlier this year.",
+      "id": "2026-04-13-5cb35f3f",
+      "headline": "JPMorgan's Mulvihill: Sentiment Hitting Private Credit",
+      "summary": "JPMorgan Asset Management Global Alternatives Strategist Aaron Mulvihill discusses private credit continuing to pay a premium, and why investors are starting to lean into asset classes that pay a constant return.  He talks with katie Greifeld and Isabelle Lee on \"the Close.\" (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-13/goldman-sachs-kicks-off-three-part-investment-grade-bond-sale",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-13/jpmorgan-s-mulvihill-sentiment-hitting-private-credit-video",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-04-13",
-      "time": "13:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-13-8061b39f",
-      "headline": "Goldman Stock Traders Set Record as FICC Misses",
-      "summary": "Goldman Sachs Group Inc.’s surprise drop in bond- and rates-trading revenue cast a shadow over another record quarter from the bank’s equities team, prompting Chief Executive Officer David Solomon to point the finger at analysts for setting the bar so high. Bloomberg's Todd Gillespie. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-13/goldman-stock-traders-set-record-as-ficc-misses-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "20:12",
+      "time": "20:55",
       "conflict_id": null,
       "score": 26.1
     },
@@ -578,20 +564,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-13-0d6e4c53",
-      "headline": "Pakistan Is Looking at ‘All Options’ to Pay Back UAE Loan",
-      "summary": "Pakistan is considering financing from both countries and banks as options to repay a $3 billion loan from the United Arab Emirates and help maintain foreign-exchange reserve levels amid soaring oil prices, Finance Minister Muhammad Aurangzeb said.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-13/pakistan-is-looking-at-all-options-to-pay-back-uae-loan",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "19:18",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-13-c44a2d25",
       "headline": "Peru extends voting for president into Monday after chaos at polling stations",
       "summary": "Lack of ballot papers and defective computers disrupt election that Keiko Fujimori appears to be leadingPeruvians will have to wait at least until the end of Monday to know the result of the presidential election held on Sunday, after the voting process descended into chaos in some polling stations due to a lack of ballot papers or defective computers.In an unprecedented move, Peru’s electoral agency ONPE announced on Sunday night that it would e",
@@ -606,13 +578,27 @@
       "score": 24.0
     },
     {
+      "id": "2026-04-13-3e4af5fd",
+      "headline": "Australia news live: poor hospital food adding to health costs; suspected crocodile remains found on Adelaide roadside",
+      "summary": "Governments spending $2.13bn annually on low quality food in public settings, report saysGet our breaking news email, free app or daily news podcastA 37-year-old woman faced court on Monday after her alleged disruptive behaviour forced an international flight bound for Thailand to divert to Perth.Australian Federal Police (AFP) said airline staff alerted them to an incident on Sunday where the passenger allegedly acted in an “increasingly erratic",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/14/australia-news-live-politics-asx-reactions-fuel-crisis-oil-prices-anthony-albanese-labor-angus-taylor-coalition-immigration-policy-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "21:16",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-04-13-81267b76",
       "headline": "Bosses of Santos, Woodside, Chevron and Shell asked to give evidence to Greens-led gas tax inquiry",
-      "summary": "Labor is under pressure to impose a new 25% export tax amid soaring prices from the global fuel shockGet our breaking news email, free app or daily news podcastThe bosses of resources giants including Santos, Woodside, Chevron and Shell could be compelled to face an inquiry into export tax settings, as the Greens ramp up pressure on Labor ahead of the budget.The chief executives of the companies, along with the bosses of gas exporters Inpex and C",
+      "summary": "Labor is under pressure to impose a new 25% export tax amid soaring prices from the global fuel shockFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe bosses of resources giants including Santos, Woodside, Chevron and Shell could be compelled to face an inquiry into export tax settings, as the Greens ramp up pressure on Labor ahead of the budget.The chief executives of the compani",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/apr/13/gas-tax-inquiry-greens-labor-santos-woodside-chevron-shell",
-      "region": "EU",
-      "country": null,
+      "region": "APJ",
+      "country": "Australia",
       "category": "business",
       "date": "2026-04-13",
       "time": "14:01",
@@ -632,6 +618,20 @@
       "time": "18:25",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-04-13-0c1c83fb",
+      "headline": "SoftBank taps Honda, other manufacturers for input on physical AI",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/softbank/softbank-taps-honda-other-manufacturers-for-input-on-physical-ai",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-13",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-04-13-10b6cdfc",
@@ -676,20 +676,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-13-fd574317",
-      "headline": "Japan's SoftBank launches unit to develop homegrown AI",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-s-softbank-launches-unit-to-develop-homegrown-ai",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-04-13",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-04-13-6780e3ef",
       "headline": "Germany marks 69th birthday of zoo’s oldest gorilla",
       "summary": "Berlin Zoo celebrates Fatou, a 69‑year‑old western lowland gorilla, highlighting how specialised care in captivity can extend the lives of endangered species.",
@@ -700,20 +686,6 @@
       "category": "business",
       "date": "2026-04-13",
       "time": "19:15",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-04-13-4f141a9c",
-      "headline": "More than 70 robot teams gear up for China's second humanoid half-marathon",
-      "summary": "More than 100 robots will compete in a half-marathon later this month, designed to push humanoid machines to their limits in real-world conditions.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/next/2026/04/13/more-than-70-robot-teams-gear-up-for-chinas-second-humanoid-half-marathon",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "13:44",
       "conflict_id": null,
       "score": 21.0
     },
