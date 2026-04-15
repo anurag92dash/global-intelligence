@@ -1,8 +1,22 @@
 {
-  "updated": "2026-04-15T04:25:17.463192+00:00",
-  "story_count": 78,
+  "updated": "2026-04-15T06:14:54.341443+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-04-15-df1c193a",
+      "headline": "US military says blockade of Iran ports ‘completely’ halts economic trade",
+      "summary": "US Central Command say more than 10,000 armed forces members, as well as warships and planes, are involved in blockade.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/15/us-military-says-blockade-of-iran-ports-completely-halts-economic-trade?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-15",
+      "time": "05:17",
+      "conflict_id": null,
+      "score": 55.4
+    },
     {
       "id": "2026-04-15-92a8ad2a",
       "headline": "Iran faces halt to oil production within weeks if US blockade succeeds",
@@ -15,21 +29,7 @@
       "date": "2026-04-15",
       "time": "04:00",
       "conflict_id": null,
-      "score": 50.4
-    },
-    {
-      "id": "2026-04-15-d34aacf3",
-      "headline": "Chinese Shares Erase Iran War Losses on Economic Resilience",
-      "summary": "China’s onshore stocks have recouped their losses since the Iran war began, outperforming the broader Asian market with a more resilient economy and efforts to insulate it from an oil shock.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-15/chinese-shares-erase-post-iran-war-losses-on-economic-resilience",
-      "region": "MENA",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-04-15",
-      "time": "01:32",
-      "conflict_id": null,
-      "score": 50.1
+      "score": 51.4
     },
     {
       "id": "2026-04-15-7e39b816",
@@ -74,34 +74,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-04-15-3b8eab3c",
-      "headline": "Tuvalu, tiny Pacific nation at the forefront of climate crisis, to host world leaders before Cop31 summit",
-      "summary": "Conference president expresses ‘complete faith’ in Chris Bowen to lead tough negotiationsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTuvalu, the Pacific nation at the forefront of the global climate crisis, will host a special meeting of world leaders before this year’s Cop31 summit, as the conference president expresses “complete faith” in Chris Bowen to lead tough negotiations",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/15/tuvalu-cop-31-summer-leaders-meeting",
-      "region": "MENA",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-04-15",
-      "time": "03:51",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-04-15-cb302c15",
-      "headline": "Iran war live: Trump says war ‘close to over’ as Hormuz blockade continues",
-      "summary": "US president says second round of talks could be held in Pakistan as naval blockade of Iranian ports continues.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/15/iran-war-live-trump-hints-at-second-round-of-talks-israel-pounds-lebanon?traffic_source=rss",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-15",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-04-15-2fd8b718",
       "headline": "Private healthcare in the UK: helping or harming the NHS?",
       "summary": "Critics worry the country is heading towards a two-tier system. Dentistry is a cautionary tale",
@@ -112,6 +84,34 @@
       "category": "geopolitics",
       "date": "2026-04-15",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-04-15-5a46e113",
+      "headline": "‘Bifs’ replace ‘Piigs’ as Europe’s bond market whipping boys",
+      "summary": "Britain, Italy and France have borne the brunt of a sovereign debt sell-off sparked by the Iran war",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d2d32518-1622-4c45-9ada-569b67c8e4b6",
+      "region": "EU",
+      "country": "Britain",
+      "category": "geopolitics",
+      "date": "2026-04-15",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-04-15-4eacc2f8",
+      "headline": "Trump’s push to cut US interest rates akin to ‘banana republic’, says Yellen",
+      "summary": "Fed chair nominee Kevin Warsh will lack ‘credibility’ in arguing rates should fall, says former Treasury secretary",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fcc0e47b-589b-49da-992c-f309a4783e23",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "04:26",
       "conflict_id": null,
       "score": 34.4
     },
@@ -167,7 +167,7 @@
       "country": "Iran",
       "category": "politics",
       "date": "2026-04-15",
-      "time": "01:21",
+      "time": "05:57",
       "conflict_id": null,
       "score": 33.2
     },
@@ -256,6 +256,48 @@
       "score": 26.1
     },
     {
+      "id": "2026-04-15-dba6b5c3",
+      "headline": "European Stock Rally Halts as Earnings Kick Into Gear",
+      "summary": "",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-04-15/ftse-100-live-iran-war-trump-pound-oil-prices-hormuz-bonds-what-s-moving-uk-markets-right-now-markets-today",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "05:50",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-15-f3906ac4",
+      "headline": "Victory Giant Is Said Set to Price Hong Kong Listing at Top of Range",
+      "summary": "Victory Giant Technology Huizhou Co. is likely to price its Hong Kong listing at the top of the marketed range, according to people familiar with the matter, in a sign of strong demand for the city’s biggest share sale in seven months.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/victory-giant-is-said-set-to-price-hong-kong-listing-at-top-of-range",
+      "region": "APJ",
+      "country": "Hong Kong",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "05:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-15-09454627",
+      "headline": "South Korea’s Naver Prices First Euro Bond Amid Push Into AI",
+      "summary": "South Korean platform giant Naver Corp. has sold a combined $1.1 billion of green international bonds, including its inaugural euro-denominated bond, as the company continues its bet on artificial-intelligence investments.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/south-korea-s-naver-prices-first-euro-bond-amid-push-into-ai",
+      "region": "EU",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "04:51",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-15-9926010b",
       "headline": "Xi Laments World in 'Disarray' as He Hosts World Leaders",
       "summary": "Beijing has hosted a handful of world leaders this week, as President Xi Jinping lamented what he said is an international order falling into “disarray.” He met with Spanish Prime Minister Pedro Sanchez, Abu Dhabi Crown Prince Khaled, and Vietnamese President To Lam. Xi also held discussions in Beijing with Russian Foreign Minister Sergei Lavrov. (Source: Bloomberg)",
@@ -266,6 +308,20 @@
       "category": "politics",
       "date": "2026-04-15",
       "time": "04:12",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-15-a5d9123a",
+      "headline": "Asset Management One CEO Says Non-Japan Funds to Double by 2028",
+      "summary": "Mizuho Financial Group Inc.’s money management arm expects strong demand from overseas investors looking to Japan to drive asset growth in the coming years.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/asset-management-one-ceo-says-non-japan-funds-to-double-by-2028",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "04:10",
       "conflict_id": null,
       "score": 26.1
     },
@@ -298,20 +354,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-15-dc6121ba",
-      "headline": "Hedge Fund MS Capital Says It Won $1 Billion Mandate for China",
-      "summary": "Quantitative hedge fund Meridian &amp; Saturn Capital said it won a $1 billion mandate to trade Chinese stocks, another sign investors are boosting allocations to the world’s second-largest economy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-15/hedge-fund-ms-capital-says-it-won-1-billion-mandate-for-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-04-15",
-      "time": "01:50",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-15-0b32f19d",
       "headline": "Prosecutors Make Surprise Visit to Fed as Pirro Defends Investigation",
       "summary": "The Justice Department’s criminal inquiry into the Federal Reserve threatens to delay the confirmation of the next chair.",
@@ -340,6 +382,62 @@
       "score": 24.0
     },
     {
+      "id": "2026-04-15-10152f1b",
+      "headline": "Ignore ‘self-serving’ claims from gas giants and implement 100% tax on windfall profits, Ken Henry says",
+      "summary": "Former Treasury secretary says a tax rate was ‘socially optimal’ in submission to a new parliamentary inquiryFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe former Treasury secretary Ken Henry says “self-serving” claims from gas giants about the risks of a windfall profits and export taxes should be ignored by the Albanese government as it weighs up the intervention ahead of nex",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/15/ignore-self-serving-claims-from-gas-giants-and-implement-100-tax-on-windfall-profits-ken-henry-says",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "06:09",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-04-15-2d5756ad",
+      "headline": "Sydney judge overturns bail conditions limiting anti-Herzog protester from entering CBD",
+      "summary": "Not ‘reasonable’ to impose that Siena Hopper, 25, with no criminal history, should be excluded from City of Sydney except for work or to attend courtFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA judge has overturned the bail conditions imposed by police on a Sydney anti-Herzog protester with no criminal history, saying the conditions were not “reasonable”.Lawyer Wael Skaf made a",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/15/sydney-anti-herzog-protester-nsw-police-bail-conditions-overturned-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-04-15",
+      "time": "05:54",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-04-15-95d4d16d",
+      "headline": "Candidate calls for new election in Peru, claiming fraud without evidence",
+      "summary": "Peru’s presidential candidate Rafael Lopez Aliaga is urging officials to declare Sunday’s election &#039;null and void’.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/15/candidate-calls-for-new-election-in-peru-claiming-fraud-without-evidence?traffic_source=rss",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-04-15",
+      "time": "05:24",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-04-15-61a37041",
+      "headline": "Tokyo DisneySea celebrates 25 years as foreigners increasingly fuel growth",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/travel-leisure/tokyo-disneysea-celebrates-25-years-as-foreigners-increasingly-fuel-growth",
+      "region": "APJ",
+      "country": "Tokyo",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-04-15-ef7d5777",
       "headline": "Japan to ban in-flight use of portable power banks from this month",
       "summary": "",
@@ -354,60 +452,32 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-15-8011a6ff",
-      "headline": "Invesco to enter Japan ETF market amid deregulation push",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/equities/invesco-to-enter-japan-etf-market-amid-deregulation-push",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-04-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-15-26ae763d",
-      "headline": "Soaring oil prices threaten Japan's municipal bus, sewer services",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/soaring-oil-prices-threaten-japan-s-municipal-bus-sewer-services",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-04-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-15-aec19e22",
-      "headline": "TikTok, Sea, Alibaba-owned e-commerce corner ASEAN markets",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/retail/tiktok-sea-alibaba-owned-e-commerce-corner-asean-markets",
-      "region": "APJ",
-      "country": "ASEAN",
-      "category": "business",
-      "date": "2026-04-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-15-c9834ebf",
-      "headline": "Nissan cuts model lineup by 20% as it unveils new AI tech strategy",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/nissan-cuts-model-lineup-by-20-as-it-unveils-new-ai-tech-strategy",
+      "id": "2026-04-15-da2ffd10",
+      "headline": "Two to three cups of coffee a day linked to lower risk of mental health disorders, study finds",
+      "summary": "Moderate coffee consumption is associated with a lower risk of mental health disorders in a new study.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/health/2026/04/15/two-to-three-cups-of-coffee-a-day-linked-to-lower-risk-of-mental-health-disorders-study-fi",
       "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-04-15",
-      "time": "",
+      "time": "05:00",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-14-9dfab9f2",
+      "headline": "US blockade of Iran ports irresponsible and dangerous, China says",
+      "summary": "China, the biggest buyer of Iranian oil, says the US naval blockade undermines an \"already fragile ceasefire\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-04-14",
+      "time": "14:18",
+      "conflict_id": null,
+      "score": 59.0
     },
     {
       "id": "2026-04-14-1fa3f882",
@@ -452,20 +522,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-04-14-9dfab9f2",
-      "headline": "US blockade of Iran ports irresponsible and dangerous, China says",
-      "summary": "China, the biggest buyer of Iranian oil, says the US naval blockade undermines an \"already fragile ceasefire\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78lleelxj4o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-04-14",
-      "time": "14:18",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-04-14-aa03e174",
       "headline": "Israeli attack kills several people in Gaza refugee camp",
       "summary": "Palestinians in Gaza recorded victims of an Israeli strike on the Shati refugee camp being rushed to a medical facility.",
@@ -478,20 +534,6 @@
       "time": "20:35",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-04-14-ccdcec3e",
-      "headline": "Zelenskyy pitches new joint security system to European allies",
-      "summary": "Ukraine should be an integral part of Europe’s security, or some on the continent would be part of the \"Russian world,\" Zelenskyy said as he announced discussions over a new joint defence system with EU and non-EU countries.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/14/zelenskyy-pitches-new-joint-security-system-to-european-allies",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-14",
-      "time": "12:43",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
     },
     {
       "id": "2026-04-14-884cd804",
@@ -562,20 +604,6 @@
       "time": "05:19",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-04-14-a83b2cb3",
-      "headline": "OpenAI releases new cyber security model to limited group of customers",
-      "summary": "Launch of GPT-5.4-Cyber follows concern about ability of Anthropic’s Mythos to find software bugs",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cf3d62e0-1b6c-4e69-b5f7-facaca586dbf",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-14",
-      "time": "22:30",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-04-14-e48304e5",
@@ -662,6 +690,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-04-14-f1e2a689",
+      "headline": "Health of boy thrown from Tate Modern takes ‘sad step backwards’, family say",
+      "summary": "French child, six at time of 2019 attack, suffers setback in recovery after January operationThe family of a boy thrown from the 10th-storey balcony of the Tate Modern seven years ago said it feels as though his recovery has taken a “sad step backwards” after surgery.The unnamed French child was six when he was seriously hurt in an attack by Jonty Bravery at the London attraction in August 2019. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/artanddesign/2026/apr/14/health-of-boy-thrown-from-tate-moderns-10th-floor-worsens",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-14",
+      "time": "22:47",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-04-14-0e347bbf",
       "headline": "JD Vance defends backing 'great guy' Orbán's campaign after landslide defeat",
       "summary": "Hungary's leader was a \"great guy\" who did a \"very good job\", the US vice-president said, but he was sure he could work with Péter Magyar.",
@@ -718,32 +760,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-14-f5be19c1",
-      "headline": "BlackRock profits jump as it draws in $130bn",
-      "summary": "Earnings for first quarter underline asset manager’s push into investment products that generate higher fees",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/418c5be3-7292-4a49-bfbe-ca570a436cc4",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-14",
-      "time": "22:52",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-04-14-0dd5d4d8",
-      "headline": "Latham partners pocket record $8.7mn average pay",
-      "summary": "US law firm’s revenues surpass $8bn for first time on the back of megamerger mandates",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a2d01f84-dc24-4595-9be4-800e78809ff5",
+      "id": "2026-04-14-b0caf0fa",
+      "headline": "Oil Swings as Traders Decode Talk Signals With Hormuz Closed",
+      "summary": "Oil fluctuated as traders took stock of moves to arrange a second round of peace talks between the US and Iran, as well as the near-total, double blockade of flows of crude through the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-14/latest-oil-market-news-and-analysis-for-april-15",
       "region": "NA",
-      "country": null,
+      "country": "Iran",
       "category": "business",
       "date": "2026-04-14",
-      "time": "14:30",
+      "time": "22:02",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
     },
     {
       "id": "2026-04-14-7bcc8823",
@@ -830,20 +858,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-04-14-3ced48fa",
-      "headline": "Oldest gorilla in captivity celebrates 69th birthday in Berlin Zoo",
-      "summary": "Arriving in Berlin in 1959, the western lowland gorilla has far outlived the typical 35-40 year wild lifespan through specialised care.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/14/oldest-gorilla-in-captivity-celebrates-69th-birthday-in-berlin-zoo",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-14",
-      "time": "13:25",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-13-2f6feb9c",
       "headline": "Israel steps up strikes on Lebanon and Hezbollah attacks continue as talks loom",
       "summary": "More than 160 people have been killed since Friday in Lebanon, where Israel is pressing on with its campaign against Hezbollah despite the US-Iran ceasefire.",
@@ -856,6 +870,20 @@
       "time": "13:55",
       "conflict_id": null,
       "score": 59.0
+    },
+    {
+      "id": "2026-04-13-a3d52748",
+      "headline": "The US blockade of Iran is a gamble. Will it work?",
+      "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-13",
+      "time": "15:27",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-04-13-8191ac1a",
@@ -882,20 +910,6 @@
       "category": "politics",
       "date": "2026-04-13",
       "time": "22:53",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-04-13-a3d52748",
-      "headline": "The US blockade of Iran is a gamble. Will it work?",
-      "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "15:27",
       "conflict_id": null,
       "score": 43.0
     },
