@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-15T23:05:51.970326+00:00",
-  "story_count": 76,
+  "updated": "2026-04-15T23:56:55.525538+00:00",
+  "story_count": 77,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-04-15-b240d3b1",
-      "headline": "Iran warns US naval blockade threatens ceasefire",
-      "summary": "Iran says it will halt all trade in the Gulf if the US continues blocking its vessels.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/15/iran-warns-us-naval-blockade-threatens-ceasefire?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-15",
-      "time": "15:29",
-      "conflict_id": null,
-      "score": 64.4
-    },
     {
       "id": "2026-04-15-5dad83e3",
       "headline": "'Discussions are being had' on second round of Iran talks in Pakistan, White House says",
@@ -88,16 +74,30 @@
       "score": 51.0
     },
     {
-      "id": "2026-04-15-e1d3f81d",
-      "headline": "Oil Steady on Signs US, Iran Working Toward Ceasefire Extension",
-      "summary": "Oil steadied on signs the US and Iran may extend a ceasefire and restart talks to end the war that’s rocked energy markets.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-15/latest-oil-market-news-and-analysis-for-april-16",
+      "id": "2026-04-15-c1fe4081",
+      "headline": "US crude exports hit record as Iran war disrupts Middle East supplies",
+      "summary": "Foreign sales could push up US petrol prices and increase political pressure on Trump administration to curtail exports",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b35dc63e-b016-4ed4-a967-fd132cc552c4",
       "region": "NA",
-      "country": "Iran",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-04-15",
-      "time": "22:02",
+      "time": "16:37",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-04-15-9bb61fcf",
+      "headline": "Asian Stocks to Rise, US Hits Record on Iran Talks: Markets Wrap",
+      "summary": "Asian stocks looked set to track Wall Street higher as optimism around a potential US-Iran ceasefire and robust corporate earnings buoyed sentiment.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/asian-stocks-to-gain-as-us-iran-mull-peace-deal-markets-wrap",
+      "region": "NA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "22:13",
       "conflict_id": null,
       "score": 50.1
     },
@@ -200,16 +200,16 @@
       "score": 43.4
     },
     {
-      "id": "2026-04-15-564f9cc4",
-      "headline": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
-      "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
+      "id": "2026-04-15-a0bfd9de",
+      "headline": "Lyse Doucet: Under fragile ceasefire, Iranians wonder if US deal can be done",
+      "summary": "The BBC's chief international correspondent reports from Iran as diplomatic efforts to avoid a return to war intensify.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c4g44gj7rgno?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Trump",
-      "category": "business",
+      "country": "Iran",
+      "category": "geopolitics",
       "date": "2026-04-15",
-      "time": "18:29",
+      "time": "21:10",
       "conflict_id": null,
       "score": 43.0
     },
@@ -254,20 +254,6 @@
       "time": "09:06",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-15-8cf701ca",
-      "headline": "Trump threatens to fire Jay Powell and refuses to halt criminal probe",
-      "summary": "US president insists Justice Department will not drop investigation into central bank chair",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d0ac6c5f-c1c5-43cb-8f1f-eb3bea48eca3",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-15",
-      "time": "17:08",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-04-15-f0dea249",
@@ -354,18 +340,46 @@
       "score": 41.0
     },
     {
-      "id": "2026-04-15-79509aec",
-      "headline": "Trump threatens to fire Fed Chair Powell if he doesn’t step down by May 15",
-      "summary": "In a Fox Business interview, Trump says he will fire Powell if he does not vacate his board seat when his term ends.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/15/trump-escalates-threats-to-fire-us-federal-reserve-chair-powell?traffic_source=rss",
+      "id": "2026-04-15-e1d947c1",
+      "headline": "Geelong oil refinery fire: fuel supply fears over out-of-control blaze at one of Australia's two remaining oil refineries",
+      "summary": "Petrol production affected at Viva oil refinery in Corio as Geelong mayor calls blaze ‘unprecedented’ Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn explosive fire at a Geelong oil refinery – which supplies half of Victoria’s fuel and 10% of the nation’s – has broken out, with petrol production to be affected for some time and authorities warning the full extent of the damage is",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-04-15",
+      "time": "23:29",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-04-15-564f9cc4",
+      "headline": "Trump threatens to fire Fed chair Powell if he doesn't leave in May",
+      "summary": "Donald Trump's threat marks the latest escalation in his ongoing spat with Jerome Powell.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9qddrdd8w2o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
       "category": "business",
       "date": "2026-04-15",
-      "time": "15:44",
+      "time": "18:29",
       "conflict_id": null,
-      "score": 39.4
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-15-8cf701ca",
+      "headline": "Trump threatens to fire Jay Powell and refuses to halt criminal probe",
+      "summary": "US president insists Justice Department will not drop investigation into central bank chair",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d0ac6c5f-c1c5-43cb-8f1f-eb3bea48eca3",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "17:08",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-04-15-3229f218",
@@ -424,6 +438,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-04-15-2cf85ff7",
+      "headline": "\"Significant\" Fire at Viva Energy’s Geelong Refinery",
+      "summary": "Refinery fire in southeastern Australia is expected to impact fuel production, Energy Minister says. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-15/-significant-fire-at-viva-energy-s-geelong-refinery-video",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-04-15",
+      "time": "23:22",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-04-15-6eca39ba",
       "headline": "ECB Officials Are Leaning Toward April Rate Hold",
       "summary": "Policymakers at the European Central Bank are leaning toward keeping interest rates unchanged this month, postponing their verdict on whether the fallout of the Iran war warrants a response, according to people familiar with the debate.",
@@ -434,20 +462,6 @@
       "category": "business",
       "date": "2026-04-15",
       "time": "22:18",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-15-dde86d8f",
-      "headline": "Asian Stocks to Gain as US, Iran Mull Peace Deal: Markets Wrap",
-      "summary": "Stocks in Asia looked set to extend their recent gains on Thursday, tracking Wall Street higher as optimism around a potential US-Iran ceasefire and robust corporate earnings buoyed sentiment.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-15/asian-stocks-to-gain-as-us-iran-mull-peace-deal-markets-wrap",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-04-15",
-      "time": "22:13",
       "conflict_id": null,
       "score": 34.1
     },
@@ -492,6 +506,20 @@
       "time": "20:25",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-04-15-498d6322",
+      "headline": "David Zaslav and the tyranny of incentives",
+      "summary": "The Warner CEO’s payout is a cautionary tale",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/15/david-zaslav-and-the-tyranny-of-incentives",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-15",
+      "time": "22:51",
+      "conflict_id": null,
+      "score": 33.8
     },
     {
       "id": "2026-04-15-a4a03348",
@@ -550,32 +578,32 @@
       "score": 32.9
     },
     {
-      "id": "2026-04-15-c86d4f7f",
-      "headline": "Australia news live: fire crew says there were ‘several explosions’ at Corio oil refinery overnight as Bowen acknowledges blaze ‘not great timing’",
-      "summary": "Follow the latest updates liveGet our breaking news email, free app or daily news podcastFire officer says officials haven’t detected any contaminants spreading from blazeEarlier this morning, Fire Rescue Victoria assistant chief fire officer, Mick McGuinness, provided an update to ABC Radio Melbourne. Shortly before 7am, he said about 50 firefighting vehicles were continuing to fight the blaze in the Mogas (motor gasoline) plant section of the r",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
+      "id": "2026-04-15-2824caa4",
+      "headline": "El Salvador publishes law allowing life sentences for minors as young as 12",
+      "summary": "The new sentencing measure comes as President Nayib Bukele oversees a four-year-long state of emergency against crime.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/el-salvador-publishes-law-allowing-life-sentences-for-minors-as-young-as-12?traffic_source=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
       "date": "2026-04-15",
-      "time": "22:53",
+      "time": "23:45",
       "conflict_id": null,
-      "score": 32.0
+      "score": 31.4
     },
     {
-      "id": "2026-04-15-a548d959",
-      "headline": "Firefighters battle out-of-control blaze at one of Australia’s two remaining oil refineries in Geelong",
-      "summary": "Smoke warning for residents south of Viva oil refinery in Corio as Geelong mayor calls fire ‘unprecedented’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA major oil refinery in Geelong, which supplies half of Victoria’s fuel and 10% of the nation’s, exploded into flames on Wednesday night and the blaze was still out of control by first light on Thursday.Fire Rescue Victoria said t",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/16/viva-oil-refinery-fire-corio-geelong-victoria-fuel-prices",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
+      "id": "2026-04-15-257dab3e",
+      "headline": "Peru’s ballot count drags on amid frustration with presidential election",
+      "summary": "The turbulent election has prompted fraud claims by candidates and frustration with the country&#039;s chaotic politics.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/15/perus-ballot-count-drags-on-amid-frustration-with-presidential-election?traffic_source=rss",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
       "date": "2026-04-15",
-      "time": "21:26",
+      "time": "23:06",
       "conflict_id": null,
-      "score": 32.0
+      "score": 31.4
     },
     {
       "id": "2026-04-15-ca659f59",
@@ -676,20 +704,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-15-2d6f0591",
-      "headline": "Kanye West postpones France gig following UK ban",
-      "summary": "It comes a week after the UK government announced it would block the rapper from entering the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36rrrp5wnlo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-04-15",
-      "time": "08:29",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-04-15-dbae54e9",
       "headline": "Watch: Vance heckled as he chides Pope",
       "summary": "The US Vice-President was speaking at a Turning Point USA event, where he said Pope Leo should \"be careful when he talks about matters of theology.\"",
@@ -702,6 +716,20 @@
       "time": "03:09",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-04-15-e1555e82",
+      "headline": "Taiwan Insurers’ Hedging Pivot Cements Global Bond Prowess",
+      "summary": "A fundamental shift in how Taiwan’s life insurers manage their $700 billion overseas portfolio is reinforcing the island’s position as a key global bond investor, strategists say.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-15/taiwan-insurers-hedging-pivot-cements-its-global-bond-prowess",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "23:30",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-15-8ca2e740",
@@ -774,6 +802,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-04-15-162a9edd",
+      "headline": "Australia news live: Viva refinery looking into ‘equipment failure’ behind massive blaze; shares suspended pending damage announcement",
+      "summary": "Follow the latest updates liveFull report: Geelong oil refinery fireGet our breaking news email, free app or daily news podcastFire officer says officials haven’t detected any contaminants spreading from blazeEarlier this morning, Fire Rescue Victoria assistant chief fire officer, Mick McGuinness, provided an update to ABC Radio Melbourne. Shortly before 7am, he said about 50 firefighting vehicles were continuing to fight the blaze in the Mogas (",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/16/anthony-albanese-brunei-visit-fuel-crisis-labor-richard-marles-coalition-immigration-plan-angus-taylor-employment-figures-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-04-15",
+      "time": "23:44",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-04-15-d48f7022",
       "headline": "Brazil’s police open a probe into presidential candidate Flavio Bolsonaro",
       "summary": "Investigation centres on whether Bolsonaro committed defamation by linking Lula to crimes like drug trafficking.",
@@ -838,20 +880,6 @@
       "region": "APJ",
       "country": "Tokyo",
       "category": "business",
-      "date": "2026-04-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-15-16cceab7",
-      "headline": "Auntie AI: China's chatbot makers cultivate senior users",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/auntie-ai-china-s-chatbot-makers-cultivate-senior-users",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
       "date": "2026-04-15",
       "time": "",
       "conflict_id": null,
@@ -984,6 +1012,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-04-13-581a9c83",
+      "headline": "Peru election drags into second day after ballot delivery fiasco",
+      "summary": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "13:07",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-13-bf1a9ebd",
       "headline": "Italian PM condemns ally Trump over 'unacceptable' Pope criticism",
       "summary": "Italy's prime minister and the US president are close allies, but Trump has refused to apologise to the \"very weak\" Pope Leo XIV.",
@@ -1012,20 +1054,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-13-581a9c83",
-      "headline": "Peru election drags into second day after ballot delivery fiasco",
-      "summary": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-13",
-      "time": "13:07",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-04-12-5d409b16",
       "headline": "Ukraine and Russia accuse each other of hundreds of ceasefire violations",
       "summary": "Ukrainian President Volodymyr Zelensky says his nation's forces would respond \"symmetrically\" to Russian attacks.",
@@ -1038,20 +1066,6 @@
       "time": "11:53",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-04-09-3bbe4310",
-      "headline": "How war has made a 33-year-old the Czech Republic’s richest man",
-      "summary": "The rapid rise of CSG, Europe’s newest defence giant",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/09/how-war-has-made-a-33-year-old-the-czech-republics-richest-man",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-04-09",
-      "time": "08:51",
-      "conflict_id": null,
-      "score": 33.8
     },
     {
       "id": "2026-04-09-5582d619",
