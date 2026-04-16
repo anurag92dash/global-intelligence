@@ -10,12 +10,12 @@
     "last_activity": "2026-04-16",
     "recent_headlines": [
       {
-        "headline": "Russia pummels Ukraine with drone and missile strikes, killing three",
+        "headline": "Russia pummels Ukraine with drone and missile strikes, killing at least 12",
         "source": "The Guardian",
         "date": "2026-04-16"
       },
       {
-        "headline": "Russian attacks on Ukraine kills three, including a 12-year-old child",
+        "headline": "Russian attacks on Ukraine kill three, including a 12-year-old child",
         "source": "Al Jazeera",
         "date": "2026-04-16"
       },
@@ -122,9 +122,14 @@
     "status": "open",
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
-    "status_signal": "stable",
-    "last_activity": "2026-04-15",
+    "status_signal": "escalating",
+    "last_activity": "2026-04-16",
     "recent_headlines": [
+      {
+        "headline": "Russia pummels Ukraine with drone and missile strikes, killing at least 12",
+        "source": "The Guardian",
+        "date": "2026-04-16"
+      },
       {
         "headline": "Trump hints Iran talks could resume this week as US port blockade continues",
         "source": "BBC News",
@@ -133,11 +138,6 @@
       {
         "headline": "Senate Republicans Again Block Bid to Limit Trump’s Iran War Powers",
         "source": "New York Times",
-        "date": "2026-04-15"
-      },
-      {
-        "headline": "U.S. sends thousands more troops to Mideast as Trump seeks to squeeze Iran",
-        "source": "Washington Post",
         "date": "2026-04-15"
       }
     ],
