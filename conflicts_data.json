@@ -7,13 +7,8 @@
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
     "status_signal": "stable",
-    "last_activity": "2026-04-17",
+    "last_activity": "2026-04-16",
     "recent_headlines": [
-      {
-        "headline": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
-        "source": "The Guardian",
-        "date": "2026-04-17"
-      },
       {
         "headline": "Russia launches deadliest aerial attack in months, killing 18 in Ukraine",
         "source": "BBC News",
@@ -46,9 +41,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "stable",
-    "last_activity": "2026-04-16",
+    "status_signal": "escalating",
+    "last_activity": "2026-04-17",
     "recent_headlines": [
+      {
+        "headline": "Israeli attacks kill several over two days in Gaza despite ‘ceasefire’",
+        "source": "Al Jazeera",
+        "date": "2026-04-17"
+      },
       {
         "headline": "Armed robbers hold 25 people hostage at Naples bank before fleeing through hole in floor",
         "source": "The Guardian",
@@ -126,7 +126,7 @@
         "date": "2026-04-17"
       },
       {
-        "headline": "Ukraine war briefing: €90bn EU loan for Ukraine to be released in second quarter",
+        "headline": "US tech firms successfully lobbied EU to keep datacentre emissions secret",
         "source": "The Guardian",
         "date": "2026-04-17"
       },
