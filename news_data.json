@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-19T20:35:36.748989+00:00",
-  "story_count": 74,
+  "updated": "2026-04-19T21:07:26.528299+00:00",
+  "story_count": 75,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-04-19-f16f068d",
-      "headline": "Iran warns Hormuz will stay shut unless US lifts siege on its ports",
-      "summary": "Tehran is threatening to keep the Strait of Hormuz shut unless Washington lifts the ‘US siege’ on Iranian ports.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/19/iran-warns-hormuz-will-stay-shut-unless-us-lifts-siege-on-its-ports?traffic_source=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "11:31",
-      "conflict_id": null,
-      "score": 55.4
-    },
     {
       "id": "2026-04-19-49fa547c",
       "headline": "US navy seizes Iranian ship after it breaches blockade, says Trump",
@@ -32,6 +18,20 @@
       "score": 50.4
     },
     {
+      "id": "2026-04-19-e066bf05",
+      "headline": "UAE in Talks With US for Possible Financial Lifeline, WSJ Says",
+      "summary": "The United Arab Emirates has begun talks with the US about a financial backstop in case the Iran war plunges the country into further crisis, the Wall Street Journal reported, citing US officials it didn’t identify.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/uae-in-talks-with-us-for-possible-financial-lifeline-wsj-says",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "20:39",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
       "id": "2026-04-19-9a6609ac",
       "headline": "Pope Leo tells Angola during huge Mass to ‘build hope’",
       "summary": "On the third leg of his Africa tour, Leo urges Angola to move beyond &quot;divisions&quot; created by its war-scarred past.",
@@ -44,34 +44,6 @@
       "time": "11:45",
       "conflict_id": null,
       "score": 47.4
-    },
-    {
-      "id": "2026-04-19-98152577",
-      "headline": "China hosts humanoid robots in Beijing half marathon",
-      "summary": "China has tested humanoid robots in a real race setting in Beijing. The event highlights advances in endurance, balance and AI behaviour. Engineers see it as a step towards wider use.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/04/19/china-hosts-humanoid-robots-in-beijing-half-marathon",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "08:01",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-04-19-9b4a7769",
-      "headline": "Iran says deal still 'far off' as Hormuz Strait remains shut",
-      "summary": "Amid stalled US-Iran negotiations, Iranian officials warning the crucial shipping lane will remain shut until the US lifts its blockade of Iranian ports.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/19/iran-says-deal-still-far-off-as-hormuz-strait-remains-shut",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "06:21",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-04-19-f780fb42",
@@ -214,16 +186,44 @@
       "score": 41.0
     },
     {
-      "id": "2026-04-19-5e1717cd",
-      "headline": "Australia and Japan sign contracts for $7bn warships deal",
-      "summary": "Defence deal is the latest example of deepening ties between Canberra and Tokyo amid shared concerns over China&#039;s rise.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/19/australia-and-japan-sign-contracts-for-7bn-warships-deal?traffic_source=rss",
-      "region": "APJ",
-      "country": "Australia",
+      "id": "2026-04-19-6c3b06ab",
+      "headline": "In Angola, love for an American pope but not for an American president",
+      "summary": "In Luanda, Catholics expressed love and admiration for Pope Leo XIV, the first American pope, but not so much for President Trump because of the war in Iran.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/04/19/pope-leo-africa-angola-trump/",
+      "region": "NA",
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-04-19",
-      "time": "10:57",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-04-19-febe2b15",
+      "headline": "Party of Bulgaria’s pro-Russian former president ahead in exit polls",
+      "summary": "Rumen Radev’s centre-left Progressive Bulgaria group ran on anti-corruption platform in country’s eighth election in five yearsThe party of Bulgaria’s pro-Russia former president Rumen Radev has come first in the country’s eighth parliamentary elections in five years, according to exit polls, but without securing a majority.Radev, who resigned as president in January, ran on a pledge to fight corruption after an anti-graft movement triggered a lo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-19",
+      "time": "20:54",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-04-19-6f2bd6e8",
+      "headline": "Trump says US seized Iran-flagged ship trying to get past Hormuz blockade",
+      "summary": "US president says his country&#039;s ​forces ⁠stopped cargo ⁠ship Touska by &#039;blowing a hole&#039; in ‌its engine room.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/19/trump-says-us-seized-iran-flagged-ship-trying-to-get-past-hormuz-blockade?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "19:52",
       "conflict_id": null,
       "score": 39.4
     },
@@ -238,6 +238,20 @@
       "category": "politics",
       "date": "2026-04-19",
       "time": "18:25",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-04-19-98152577",
+      "headline": "China hosts humanoid robots in Beijing half marathon",
+      "summary": "China has tested humanoid robots in a real race setting in Beijing. The event highlights advances in endurance, balance and AI behaviour. Engineers see it as a step towards wider use.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/19/china-hosts-humanoid-robots-in-beijing-half-marathon",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "08:01",
       "conflict_id": null,
       "score": 37.0
     },
@@ -354,20 +368,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-04-19-febe2b15",
-      "headline": "Party of Bulgaria’s pro-Russian former president ahead in exit polls",
-      "summary": "Rumen Radev’s centre-left Progressive Bulgaria group ran on anti-corruption platform in country’s eighth election in five yearsThe party of Bulgaria’s pro-Russia former president Rumen Radev has come first in the country’s eighth parliamentary elections in five years, according to exit polls, but without securing a majority.Radev, who resigned as president in January, ran on a pledge to fight corruption after an anti-graft movement triggered a lo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-19",
-      "time": "18:41",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-04-19-267ab20f",
       "headline": "Rat poison found in baby food jar in Austria after product recall",
       "summary": "Police say poison detected in jar of HiPP carrots and potatoes as maker says items may have been tampered withRat poison has been found in a jar of HiPP baby food, police in Austria have said, after a recall of the product from more than 1,000 Spar supermarkets in the country over safety fears.Police in Burgenland said in a statement that a sample from one of the 190g (7oz) jars of carrots and potatoes baby food reported by a customer had tested ",
@@ -380,6 +380,20 @@
       "time": "10:00",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-04-19-dec37342",
+      "headline": "Exit poll shows former President Radev’s party set to win Bulgaria election",
+      "summary": "Exit poll shows Rumen Radev&#039;s Progressive Bulgaria party winning 38.1 percent of the vote.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/19/exit-poll-shows-former-president-radevs-party-set-to-win-bulgaria-election?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-19",
+      "time": "20:47",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-04-19-8ae47bbe",
@@ -396,20 +410,6 @@
       "score": 31.4
     },
     {
-      "id": "2026-04-19-e3ecd1c6",
-      "headline": "Humanoid robot breaks half marathon world record in Beijing",
-      "summary": "The humans were left far behind as smartphone maker Honor&#039;s humanoid robot shattered the men&#039;s world record in China.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/19/humanoid-robot-breaks-half-marathon-world-record-in-beijing?traffic_source=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "11:07",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-04-19-353f4c32",
       "headline": "Pope Leo XIV heads to shrine in Angola that was a center of African slave trade",
       "summary": "Pope Leo XIV headed to a Catholic shrine in Angola that was a center of African slave trade. Earlier, the pontiff celebrated Mass before an estimated 100,000 people.",
@@ -422,6 +422,20 @@
       "time": "17:10",
       "conflict_id": null,
       "score": 29.0
+    },
+    {
+      "id": "2026-04-19-2d3bc6ab",
+      "headline": "Drone footage shows huge Malaysian coastal village fire",
+      "summary": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Malaysia",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "16:05",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-04-19-1e7e21c3",
@@ -464,6 +478,20 @@
       "time": "04:09",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-19-b9d9bce1",
+      "headline": "Hedge Fund Pay Spirals Even Higher in New Trader-Poaching Strategy",
+      "summary": "As the competition&nbsp;for talent reaches new extremes, ‘interception trades’ between rivals are heating up.&nbsp;",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/features/2026-04-19/hedge-funds-frenzied-job-market-sends-pay-spiraling-higher",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-19",
+      "time": "21:00",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-19-951b9dfb",
@@ -590,6 +618,20 @@
       "time": "19:13",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-04-19-74601480",
+      "headline": "Japan's energy hunt runs into China's lead in Central Asia, Latin America",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/japan-s-energy-hunt-runs-into-china-s-lead-in-central-asia-latin-america",
+      "region": "APJ",
+      "country": "Latin America",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-04-19-a7e35b88",
@@ -732,11 +774,11 @@
       "score": 29.0
     },
     {
-      "id": "2026-04-18-f6353841",
-      "headline": "Australia’s coalmine emissions are increasing. Is this how a major policy to cut climate pollution is meant to work?",
-      "summary": "The Albanese government overhauled policy and promised significant pollution cuts – but carbon offsets are still being used as an excuseSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereIs this how a national scheme to cut climate pollution is supposed to work?Australian government data released this week shows emissions from Australian coalmines increased last financial year. About 80% of the coalmines pumped",
+      "id": "2026-04-18-7ec23b76",
+      "headline": "‘Independent’ group Energy for Australians that ran anti-Labor ads received more than $1m from coal lobby",
+      "summary": "Coal Australia denies its donations to the ‘community-driven association’ amount to astroturfing, but critics accuse the group of misleading the publicFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn “independent, community-driven association” that ran anti-Labor adverts during the last federal election was entirely funded by a coal industry lobby group, the Guardian can reveal.En",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/19/australia-emissions-increasing-coalmines-climate-policy-analysis",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/19/energy-for-australians-accepted-1m-coal-australia-independent-claims",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
@@ -746,11 +788,11 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-18-7ec23b76",
-      "headline": "‘Independent’ group Energy for Australians that ran anti-Labor ads received more than $1m from coal lobby",
-      "summary": "Coal Australia denies its donations to the ‘community-driven association’ amount to astroturfing, but critics accuse the group of misleading the publicFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn “independent, community-driven association” that ran anti-Labor adverts during the last federal election was entirely funded by a coal industry lobby group, the Guardian can reveal.En",
+      "id": "2026-04-18-f6353841",
+      "headline": "Australia’s coalmine emissions are increasing. Is this how a major policy to cut climate pollution is meant to work?",
+      "summary": "The Albanese government overhauled policy and promised significant pollution cuts – but carbon offsets are still being used as an excuseSign up for climate and environment editor Adam Morton’s free Clear Air newsletter hereIs this how a national scheme to cut climate pollution is supposed to work?Australian government data released this week shows emissions from Australian coalmines increased last financial year. About 80% of the coalmines pumped",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/19/energy-for-australians-accepted-1m-coal-australia-independent-claims",
+      "url": "https://www.theguardian.com/environment/2026/apr/19/australia-emissions-increasing-coalmines-climate-policy-analysis",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
@@ -800,6 +842,20 @@
       "time": "10:37",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-04-17-3108d1fd",
+      "headline": "Air Canada temporarily suspends some flights to New York and other locations",
+      "summary": "Separately, Spirit Airlines reportedly seeks emergency US government funds as Iran war keeps aviation fuel costs highSign up for the Breaking News US email to get newsletter alerts in your inboxAir Canada has announced a temporary suspension of flights from Toronto and Montreal to New York’s John F Kennedy airport, citing rising fuel prices.The move comes amid growing concerns that airlines worldwide may scale back services as aviation fuel costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-04-17",
+      "time": "20:57",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-04-17-448a3cbc",
@@ -856,20 +912,6 @@
       "time": "01:43",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-16-25d52e72",
-      "headline": "Satellite images reveal scale of Israeli demolitions as Lebanese villages destroyed",
-      "summary": "BBC Verify analysis found more than 1,400 buildings had been destroyed since 2 March.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxkk1vnp57o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-16",
-      "time": "08:28",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-16-37a4b33c",
@@ -942,20 +984,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-14-7bcc8823",
-      "headline": "America’s corporate boards are under siege",
-      "summary": "Activist shareholders and regulatory changes are undermining their control",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/14/americas-corporate-boards-are-under-siege",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-04-14",
-      "time": "15:44",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
       "id": "2026-04-13-320a7b62",
       "headline": "Israelis war-weary but most oppose Iran ceasefire, poll suggests",
       "summary": "The vast majority did not believe Hezbollah or Iran had been severely weakened by weeks of Israeli and US attacks, according to the poll.",
@@ -966,20 +994,6 @@
       "category": "geopolitics",
       "date": "2026-04-13",
       "time": "19:20",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-04-13-a3d52748",
-      "headline": "The US blockade of Iran is a gamble. Will it work?",
-      "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "15:27",
       "conflict_id": null,
       "score": 43.0
     },
