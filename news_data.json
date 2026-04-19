@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-19T09:59:01.252339+00:00",
+  "updated": "2026-04-19T10:37:21.793553+00:00",
   "story_count": 79,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-04-19-aca7bc14",
-      "headline": "Iran claims ‘strict control’ of Strait of Hormuz and says it will not be fully reopened",
-      "summary": "Donald Trump warns Tehran not to ‘blackmail’ Washington",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b45b0ebe-7f8c-40f3-a804-303aba404e22",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "02:17",
-      "conflict_id": null,
-      "score": 59.4
-    },
     {
       "id": "2026-04-19-408f6a56",
       "headline": "Iran war live: Hormuz Strait ‘closed’ as Tehran says no date for US talks",
@@ -74,18 +60,32 @@
       "score": 47.8
     },
     {
-      "id": "2026-04-19-01071a1e",
-      "headline": "Global shock feared as Iran tightens grip on Hormuz, Qatar says impact “not far away”",
-      "summary": "“The full-fledged impact is coming” and what the world has seen until now in energy costs is \"the tip of the iceberg,\" Qatar’s finance minister says, warning of wider energy and supply shock as Iran tightens control over Hormuz.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/04/19/global-shock-feared-as-iran-tightens-grip-on-hormuz-qatar-says-impact-not-far-away",
+      "id": "2026-04-19-785f7ca6",
+      "headline": "Zelensky condemns US extension of Russian sanctions waiver",
+      "summary": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Qatar",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-19",
-      "time": "07:59",
+      "time": "09:55",
       "conflict_id": null,
-      "score": 45.0
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-19-84abfdbe",
+      "headline": "Rat poison found in HiPP jarred baby food in Austria, police say",
+      "summary": "The band warned on Saturday that consuming the purées many be potentially \"life-threatening\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg07lq5ql4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Austria",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "10:26",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-04-19-be939c7f",
@@ -100,6 +100,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 42.4
+    },
+    {
+      "id": "2026-04-19-6c3b06ab",
+      "headline": "In Angola, love for an American pope but not for an American president",
+      "summary": "In Luanda, Catholics expressed love and admiration for Pope Leo XIV, the first American pope, but not so much for President Trump because of the war in Iran.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/04/19/pope-leo-africa-angola-trump/",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-04-19-ba7d2545",
@@ -186,18 +200,46 @@
       "score": 32.0
     },
     {
-      "id": "2026-04-19-f86e9015",
-      "headline": "Trump signs order to fast-track research on psychedelic drugs",
-      "summary": "Trump signed an executive order Saturday to ease research restrictions on psychedelic drugs like psilocybin and LSD, aiming to accelerate studies into their potential for treating mental health conditions.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/19/trump-signs-order-to-fast-track-research-on-psychedelic-drugs",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-04-19-267ab20f",
+      "headline": "Rat poison found in baby food jar in Austria after product recall",
+      "summary": "Police say poison detected in jar of HiPP carrots and potatoes as maker says items may have been tampered withRat poison has been found in a jar of HiPP baby food, police in Austria have said, after a recall of the product from more than 1,000 Spar supermarkets in the country over safety fears.Police in Burgenland said in a statement that a sample from one of the 190g (7oz) jars of carrots and potatoes baby food reported by a customer had tested ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/rat-poison-baby-food-jar-hipp-austria-product-recall",
+      "region": "EU",
+      "country": "Austria",
       "category": "business",
       "date": "2026-04-19",
-      "time": "07:15",
+      "time": "10:00",
       "conflict_id": null,
-      "score": 29.0
+      "score": 32.0
+    },
+    {
+      "id": "2026-04-19-e90ed8db",
+      "headline": "Bulgaria votes as pro-Russian former president leads in the polls",
+      "summary": "Eighth election in five years follows government collapse in December, with stability and cost of living among key issuesBulgarians are voting in the eighth parliamentary election in five years, with the clear frontrunner, the pro-Russian former president Rumen Radev, promising to stamp out corruption and end a succession of weak, short-lived governments.Radev, a Eurosceptic former fighter pilot who has opposed military support for Ukraine, stepp",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/19/bulgaria-election-rumen-radev-boyko-borissov",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-04-19",
+      "time": "09:45",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-04-19-27498496",
+      "headline": "Of course Trump thinks he’s the Messiah — his disciples tell him so",
+      "summary": "The ‘devout’ Christians in the US president’s life are really just fawning sycophants",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/529de651-24b2-4e96-b01e-18cd71b17739",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-19",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-04-19-1196e3b2",
@@ -240,6 +282,20 @@
       "time": "04:09",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-19-f2ffb5b5",
+      "headline": "China’s Orient Securities Deal to Create $86 Billion Brokerage",
+      "summary": "Two Shanghai government‑backed brokerages plan to merge in a deal that will create a firm with around $86 billion in assets, underscoring China’s push to consolidate the securities industry as it seeks to build world‑class investment banks.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-19/china-s-orient-securities-deal-to-create-86-billion-brokerage",
+      "region": "APJ",
+      "country": "China",
+      "category": "politics",
+      "date": "2026-04-19",
+      "time": "10:05",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-19-c79b211b",
@@ -326,46 +382,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-19-099ee5b9",
-      "headline": "Travel smart: Must-have gadgets and accessories for summer holidays in 2026",
-      "summary": "From power banks to travel pillows, these are the essential items you need to pack for smoother trips around Europe this summer.",
+      "id": "2026-04-19-f86e9015",
+      "headline": "Trump signs order to fast-track research on psychedelic drugs",
+      "summary": "Trump signed an executive order Saturday to ease research restrictions on psychedelic drugs like psilocybin and LSD, aiming to accelerate studies into their potential for treating mental health conditions.",
       "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/04/19/travel-smart-must-have-gadgets-and-accessories-for-summer-holidays-in-2026",
-      "region": "EU",
-      "country": "Europe",
+      "url": "http://www.euronews.com/2026/04/19/trump-signs-order-to-fast-track-research-on-psychedelic-drugs",
+      "region": "NA",
+      "country": "Trump",
       "category": "business",
       "date": "2026-04-19",
-      "time": "05:00",
+      "time": "07:15",
       "conflict_id": null,
       "score": 21.0
-    },
-    {
-      "id": "2026-04-18-c1669b48",
-      "headline": "Ukraine police shoot dead gunman who killed six in Kyiv, took hostages",
-      "summary": "The attacker has been identified as a &quot;58-year-old Moscow man&quot;, but no motive has been established.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/18/ukraine-police-shoot-dead-gunman-who-killed-six-in-kyiv-took-hostages?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-18",
-      "time": "18:02",
-      "conflict_id": "ukraine-war",
-      "score": 67.4
-    },
-    {
-      "id": "2026-04-18-fe7922a5",
-      "headline": "Ukraine: gunman opens fire in Kyiv, killing several people, mayor Vitali Klitschko said",
-      "summary": "A gunman who opened fire on people in Kyiv on Saturday, has left at least six dead and others wounded, the Ukrainian capital's mayor Vitali Klitschko said. According to police the man has now been shot dead after barricading himself in a nearby supermarket.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/18/ukraine-gunman-opens-fire-in-kyiv-killing-several-people-mayor-vitali-klitschko-said",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-18",
-      "time": "15:37",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
     },
     {
       "id": "2026-04-18-78a08562",
@@ -438,34 +466,6 @@
       "score": 51.1
     },
     {
-      "id": "2026-04-18-2f8ac061",
-      "headline": "Iran Says Strait of Hormuz is Shut Amid Reports of Gunfire",
-      "summary": "Iran broadcast to ships in the Strait of Hormuz that the vital oil and gas channel is closed to maritime traffic again, with owners reporting gunfire in the waterway less than 24 hours after the nation’s foreign minister declared it open. Bloomberg News White House Correspondent Jeff Mason, Jerusalem Reporter Dan Williams and The Associated Press' International Correspondent Philip Crowther join David Gura and Christina Ruffini on Bloomberg This ",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-18/strait-of-hormuz-shut-amid-reports-of-gunfire-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-04-18",
-      "time": "11:47",
-      "conflict_id": null,
-      "score": 51.1
-    },
-    {
-      "id": "2026-04-18-6c495688",
-      "headline": "At least six killed in Kyiv as gunman opens fire and takes hostages",
-      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-18",
-      "time": "18:09",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-04-18-723880d2",
       "headline": "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
       "summary": "Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away.",
@@ -494,6 +494,20 @@
       "score": 50.1
     },
     {
+      "id": "2026-04-18-fe7922a5",
+      "headline": "Ukraine: gunman opens fire in Kyiv, killing several people, mayor Vitali Klitschko said",
+      "summary": "A gunman who opened fire on people in Kyiv on Saturday, has left at least six dead and others wounded, the Ukrainian capital's mayor Vitali Klitschko said. According to police the man has now been shot dead after barricading himself in a nearby supermarket.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/18/ukraine-gunman-opens-fire-in-kyiv-killing-several-people-mayor-vitali-klitschko-said",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-18",
+      "time": "15:37",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
       "id": "2026-04-18-17d6009b",
       "headline": "Iran military orders Indian ship to abort Strait of Hormuz passage",
       "summary": "Video shows the moment Iran’s military ordered an Indian ship to abort its passage of the Strait of Hormuz.",
@@ -520,6 +534,20 @@
       "time": "16:12",
       "conflict_id": null,
       "score": 45.0
+    },
+    {
+      "id": "2026-04-18-6c495688",
+      "headline": "At least six killed in Kyiv as gunman opens fire and takes hostages",
+      "summary": "The attacker, who took hostages inside a supermarket, was killed after a shoot-out with police, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm25r1vkx4lo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-18",
+      "time": "18:09",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-04-18-3ac3ca44",
@@ -634,20 +662,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-04-18-8748a8f4",
-      "headline": "Trump joined by Joe Rogan as he signs order to speed up psychedelic review",
-      "summary": "Order calls on federal government to relax restrictions on psychedelics, including ibogaine, for potential treatments.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/18/trump-joined-by-joe-rogan-as-he-signs-order-to-speed-up-psychedelic-review?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-18",
-      "time": "17:46",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-04-18-b2185429",
       "headline": "Spain's Sánchez builds anti-Trump coalition looking for political lifeline at home",
       "summary": "Spanish PM led a progressive conference in Barcelona bringing together world leaders opposing MAGA politics, as Brazil's Lula lashed out at warlords and tech billionaires. \"They're destroying democracy, workers and nature.\"",
@@ -658,20 +672,6 @@
       "category": "politics",
       "date": "2026-04-18",
       "time": "19:46",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-04-18-27236753",
-      "headline": "Starmer faces calls to step down after appointing Epstein associate",
-      "summary": "Opposition leaders demanded Starmer's resignation on Thursday after it emerged that US envoy Peter Mandelson was appointed despite having failed his security check.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/18/starmer-faces-calls-to-step-down-after-appointing-epstein-associate",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-18",
-      "time": "07:29",
       "conflict_id": null,
       "score": 29.0
     },
@@ -827,7 +827,7 @@
       "date": "2026-04-17",
       "time": "09:19",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     },
     {
       "id": "2026-04-17-ee223293",
@@ -842,6 +842,20 @@
       "time": "10:37",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-04-17-3108d1fd",
+      "headline": "Air Canada temporarily suspends some flights to New York and other locations",
+      "summary": "Separately, Spirit Airlines reportedly seeks emergency US government funds as Iran war keeps aviation fuel costs highSign up for the Breaking News US email to get newsletter alerts in your inboxAir Canada has announced a temporary suspension of flights from Toronto and Montreal to New York’s John F Kennedy airport, citing rising fuel prices.The move comes amid growing concerns that airlines worldwide may scale back services as aviation fuel costs",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-04-17",
+      "time": "20:57",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-04-17-a320c048",
@@ -905,20 +919,6 @@
       "summary": "With a reshuffled cabinet, the premier is hoping to quell leadership rumblings as her party seeks an unprecedented fourth termGet our breaking news email, free app or daily news podcastAs the Victorian premier, Jacinta Allan, stood alongside the fresh faces in her reshuffled cabinet on Wednesday, she attempted to send her increasingly jaded electorate a blunt message: despite its 12 years in power, her government is – apparently – new.In her open",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/apr/18/jacinta-allan-wants-voters-to-see-victorias-12-year-old-labor-government-as-new-and-united-can-she-cling-to-power",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-17",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-04-17-020ff657",
-      "headline": "NSW should think twice before banning ‘globalise the intifada’ after court struck down anti-protest law, legal expert says",
-      "summary": "Another lawyer says ruling ‘puts brakes on the Minns government’s ability to use executive power to minimise people’s rights to protest’Get our breaking news email, free app or daily news podcastThe Minns government should think twice before imposing an outright ban on the phrase “globalise the intifada” in the wake of a landmark finding that could limit attempts to control speech and protests, a leading constitutional expert has said.New South W",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/18/nsw-should-think-twice-before-banning-globalise-the-intifada-after-court-struck-down-anti-protest-law-legal-expert-says-ntwnfb",
       "region": "EU",
       "country": null,
       "category": "politics",
@@ -1054,20 +1054,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-04-13-a3d52748",
-      "headline": "The US blockade of Iran is a gamble. Will it work?",
-      "summary": "The US military is gambling on the blockade denying Iran vital trade - but questions remain on whether the bet will pay off.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgw8w7mzxgo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-13",
-      "time": "15:27",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-13-5b9e3feb",
       "headline": "How Trump’s Jesus-like image and feud with the Pope are sparking backlash",
       "summary": "BBC's Sarah Smith looks at how the president's most ardent supporters are reacting to his latest social media posts.",
@@ -1092,6 +1078,20 @@
       "category": "politics",
       "date": "2026-04-13",
       "time": "00:52",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-04-13-581a9c83",
+      "headline": "Peru election drags into second day after ballot delivery fiasco",
+      "summary": "Technical and logistical problems mean Peruvians choosing a new president and members of Congress continue to vote on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gd0l2x8j2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-04-13",
+      "time": "13:07",
       "conflict_id": null,
       "score": 27.0
     },
