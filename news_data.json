@@ -1,21 +1,21 @@
 {
-  "updated": "2026-04-20T22:26:58.147092+00:00",
-  "story_count": 71,
+  "updated": "2026-04-20T23:06:45.012179+00:00",
+  "story_count": 73,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-04-20-7549e290",
-      "headline": "What we know about the Iranian ship seized by the US",
-      "summary": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
+      "id": "2026-04-20-ccb575b2",
+      "headline": "Netanyahu condemns IDF soldier for vandalising Jesus statue in southern Lebanon",
+      "summary": "Israel's Prime Minister Benjamin Netanyahu has condemned the desecration of a statue of Jesus Christ that was carried out by an IDF soldier in a southern Lebanese village.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/20/netanyahu-condemns-idf-soldier-for-vandalising-jesus-statue-in-southern-lebanon",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "politics",
       "date": "2026-04-20",
-      "time": "20:04",
-      "conflict_id": null,
-      "score": 51.0
+      "time": "14:34",
+      "conflict_id": "israel-hamas",
+      "score": 57.0
     },
     {
       "id": "2026-04-20-1c03d889",
@@ -32,34 +32,6 @@
       "score": 50.4
     },
     {
-      "id": "2026-04-20-f16132a4",
-      "headline": "US oil refiners reap windfall from Iran war",
-      "summary": "Soaring fuel prices and access to cheap North American crude oil put American refiners in pole position",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6d0f7c29-ee60-40d8-81bf-ce8af414aed7",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "17:28",
-      "conflict_id": null,
-      "score": 50.4
-    },
-    {
-      "id": "2026-04-20-c354c51f",
-      "headline": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan",
-      "summary": "Oil slipped on signs that Iran will attend negotiations with the US in Islamabad before a ceasefire between the sides ends.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/latest-oil-market-news-and-analysis-for-april-21",
-      "region": "SA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "22:02",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-04-20-e7b6240e",
       "headline": "Kevin Warsh, Trump’s Fed Pick, to Defend Bank’s Ability to Set Rates Independently",
       "summary": "Kevin M. Warsh is set to testify at the Senate Banking Committee on Tuesday even as a criminal investigation into the central bank risks delaying his ascension to become the next chair.",
@@ -74,23 +46,9 @@
       "score": 49.2
     },
     {
-      "id": "2026-04-20-ccb575b2",
-      "headline": "Netanyahu condemns IDF soldier for vandalising Jesus statue in southern Lebanon",
-      "summary": "Israel's Prime Minister Benjamin Netanyahu has condemned the desecration of a statue of Jesus Christ that was carried out by an IDF soldier in a southern Lebanese village.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/20/netanyahu-condemns-idf-soldier-for-vandalising-jesus-statue-in-southern-lebanon",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "politics",
-      "date": "2026-04-20",
-      "time": "14:34",
-      "conflict_id": "israel-hamas",
-      "score": 49.0
-    },
-    {
       "id": "2026-04-20-0d81da27",
       "headline": "Electric car sales soar 51% in mainland Europe as Iran war drives up fuel prices",
-      "summary": "Data shows 224,000 new EVs were registered in March, with Norway leading way in terms of switchingBusiness live – latest updatesSales of electric cars soared 51% in continental Europe last month, amid a rise in petrol and diesel costs driven by the Iran war.Data shows that 224,000 new electric vehicles (EVs) were registered in March, and 500,000 across the first three months of the year – a 33.5% increase on a year earlier, according to analysis ",
+      "summary": "Data shows 224,000 new EVs were registered in March, with Norway leading way in terms of switchingSales of electric cars soared 51% in continental Europe last month, amid a rise in petrol and diesel costs driven by the Iran war.Data shows that 224,000 new electric vehicles (EVs) were registered in March, and 500,000 across the first three months of the year – a 33.5% increase on a year earlier, according to analysis of national sales data in 15 c",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/apr/20/electric-car-ev-sales-mainland-europe-petrol-prices-iran-war",
       "region": "EU",
@@ -116,6 +74,34 @@
       "score": 43.4
     },
     {
+      "id": "2026-04-20-de29aa26",
+      "headline": "Outrage over Israeli soldier's vandalism of Jesus statue in Lebanon",
+      "summary": "The Israeli military says it views with \"great severity\" the actions of the soldier, as the US ambassador demands \"swift\" consequences.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cpd575n1znzo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-20",
+      "time": "18:57",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-20-7549e290",
+      "headline": "What we know about the Iranian ship seized by the US",
+      "summary": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-20",
+      "time": "20:04",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-04-20-b57102cb",
       "headline": "Iranian woman arrested in US for allegedly trafficking arms to Sudan",
       "summary": "Shamim Mafi is accused of brokering the sales of arms to Sudan's defence ministry on behalf of Iran.",
@@ -132,7 +118,7 @@
     {
       "id": "2026-04-20-843b04cb",
       "headline": "Apple CEO Tim Cook to hand over to John Ternus in September",
-      "summary": "Head of hardware to become Apple’s next chief executive while Cook will become iPhone maker’s chair",
+      "summary": "Head of hardware to become next chief executive while Cook will become chair of the iPhone maker",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/5b5a466c-fc48-429d-b505-2c81d87e3615",
       "region": "NA",
@@ -186,6 +172,20 @@
       "score": 42.4
     },
     {
+      "id": "2026-04-20-c354c51f",
+      "headline": "Oil Slips as Iran Set to Attend Negotiations With US in Pakistan",
+      "summary": "Oil slipped on signs that Iran will attend negotiations with the US in Islamabad before a ceasefire between the sides ends.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/latest-oil-market-news-and-analysis-for-april-21",
+      "region": "SA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-20",
+      "time": "22:02",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
       "id": "2026-04-20-0739ada7",
       "headline": "Treasuries Slip as Renewed Ceasefire Tensions Lift Oil Prices",
       "summary": "The Treasuries market steadied at the start of the week, with bond investors alert for catalysts tied to peace talks to end the war in the Middle East and a hearing to potentially confirm Kevin Warsh as the next chair of the Federal Reserve.",
@@ -228,20 +228,6 @@
       "score": 41.2
     },
     {
-      "id": "2026-04-20-d46cbdb4",
-      "headline": "U.S. Fires on Iranian Cargo Ship Touska in Arabian Sea",
-      "summary": "The military said it had disabled the vessel after it ignored repeated warnings to stop, amid a U.S. blockade of Iranian ports. Marines boarded the ship and seized it.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/19/us/us-military-iranian-ship.html",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "02:04",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
       "id": "2026-04-20-154dadeb",
       "headline": "Japan tsunami alerts downgraded following powerful earthquake off northern coast – as it happened",
       "summary": "People in affected areas are still urged to evacuate after quake registering 7.7 magnitude Australian officials in Japan are urgently following up on the tsunami warning off the northeastern coast of the island of Honshu.The Australian government said:We stand ready to provide consular assistance.Australians in need of emergency consular assistance should contact the Department of Foreign Affairs and Trade’s 24-hour Consular Emergency Centre on 1",
@@ -254,6 +240,34 @@
       "time": "14:16",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-04-20-170c8bc4",
+      "headline": "Outcry grows over Israeli soldier smashing Jesus statue in Lebanon",
+      "summary": "Some of Donald Trump&#039;s former MAGA allies denounce the desecration of Christian religious symbol by Israeli soldier.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/20/outcry-grows-over-israeli-soldier-smashing-jesus-statue-in-lebanon?traffic_source=rss",
+      "region": "NA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-20",
+      "time": "22:12",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-04-20-549f1290",
+      "headline": "Trump boasts on ‘winning war’ on social media posts",
+      "summary": "Donald Trump has released various social media comments throughout the day, preaching about winning the war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/20/trump-boasts-on-winning-war-on-social-media-posts?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-20",
+      "time": "21:01",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-04-20-a34c0c84",
@@ -354,6 +368,34 @@
       "score": 34.4
     },
     {
+      "id": "2026-04-20-1f516c0e",
+      "headline": "Donald Trump’s labour secretary resigns in latest US cabinet departure",
+      "summary": "Lori Chavez-DeRemer is the third official to leave Trump’s cabinet in less than two months",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0e02bf64-13ca-427f-807f-145e45f5166a",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-20",
+      "time": "22:14",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-04-20-d3b2a49e",
+      "headline": "Stocks Set for Gains, Oil Dips on Peace Deal Hopes: Markets Wrap",
+      "summary": "Oil slipped and US equity futures edged higher as signals that Iran may join talks with Washington in Islamabad raised hopes for progress before a looming ceasefire deadline.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/-stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-04-20",
+      "time": "22:24",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-04-20-6dd197ab",
       "headline": "Romania Coalition Nears Collapse as Top Party Spurns Premier",
       "summary": "Romania’s government has been thrown into turmoil after the top ruling party withdrew its support for Prime Minister Ilie Bolojan, whose own bloc is now rallying to salvage his control of the four-way coalition.",
@@ -406,6 +448,20 @@
       "category": "politics",
       "date": "2026-04-20",
       "time": "12:35",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-04-20-ef16bc98",
+      "headline": "Australia news live: Ed Husic condemns ‘obscenely sweet’ gas deals; Anthony Albanese says national cabinet to discuss ‘long tail’ of fuel crisis",
+      "summary": "Labor MP says next budget should have 25% tax on gas exports. Follow today’s news liveGet our breaking news email, free app or daily news podcastFive arrested after alleged kidnapping of Sydney manFive men have been arrested over the alleged violent abduction of a man in Sydney, AAP reports. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/21/anthony-albanese-fuel-crisis-jim-chalmers-budget-cost-of-living-supermarket-discount-rebel-wilson-court-hearing-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-04-20",
+      "time": "22:45",
       "conflict_id": null,
       "score": 32.0
     },
@@ -508,6 +564,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-20-77be1576",
+      "headline": "Steel Dynamics Revenue Grows Most Since 2022, Beating Estimates",
+      "summary": "Steel Dynamics Inc. beat analysts’ estimates for first-quarter revenue, reporting its fastest growth in nearly four years as rising steel prices and a record 3.6 million tons in steel shipments drove a rebound in profit.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/steel-dynamics-revenue-grows-most-since-2022-beating-estimates",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-20",
+      "time": "22:50",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-20-32121597",
       "headline": "Compass Pathways CEO on Trump's Order to Expand Psychedelics Research",
       "summary": "Shares of companies involved in psychedelic-tied therapies surged Monday after President Donald Trump signed an executive order to expedite research and access. US-traded shares of Compass Pathways spiked as much as 53% while AtaiBeckley surged by 37%. GH Research jumped 34% and Definium Therapeutics rallied 16%. The AdvisorShares Psychedelics ETF (PSIL) also climbed as much as 20% &mdash; touching its highest intraday level since July 2023. The ",
@@ -518,20 +588,6 @@
       "category": "politics",
       "date": "2026-04-20",
       "time": "21:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-20-5d6e0003",
-      "headline": "FDA's Makary on Trump EO to Ease Access to Psychedelics",
-      "summary": "FDA Commissioner Dr. Marty Makary discusses President Trump's Executive Order aimed at faster research and access to psychedelics, citing promising research and calling this an 'historic moment.' He talks with Romaine Bostick and Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-20/fda-s-makary-on-trump-eo-to-ease-access-to-psychedelics-video",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-20",
-      "time": "21:14",
       "conflict_id": null,
       "score": 26.1
     },
@@ -550,32 +606,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-20-3384c576",
-      "headline": "Rally on Pause with Peace Deal Uncertainty | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-20/rally-on-pause-with-peace-deal-in-limbo-closing-bell-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "id": "2026-04-20-783f1b86",
+      "headline": "WaterNSW criticised for ‘appalling’ decision after hundreds of turtles left to die in wetlands",
+      "summary": "River ecologist says ‘classic bureaucratic tangle’ led to government agency stopping flows to Gwydir wetlands region in MarchFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA leading scientist has criticised an “appalling” New South Wales government agency decision to stop water flowing to wetlands in the state’s north-west, saying it was “absolutely crazy” that researchers had to s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/apr/21/water-nsw-criticised-for-appalling-decision-after-hundreds-of-turtles-left-to-die-in-wetlands",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
       "date": "2026-04-20",
-      "time": "20:29",
+      "time": "15:00",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-20-259ba3d3",
-      "headline": "South America Could Unlock 2.1 Million Barrels a Day on $100 Oil",
-      "summary": "South America could deliver an additional 2.1 million barrels of daily oil supplies by 2035 with crude prices around $100, Rystad Energy wrote in note on Monday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/south-america-could-unlock-2-1-million-barrels-a-day-on-100-oil",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-04-20",
-      "time": "20:21",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 24.0
     },
     {
       "id": "2026-04-20-069f555d",
@@ -592,18 +634,18 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-20-783f1b86",
-      "headline": "WaterNSW criticised for ‘appalling’ decision after hundreds of turtles left to die in wetlands",
-      "summary": "River ecologist says ‘classic bureaucratic tangle’ led to government agency stopping flows to Gwydir wetlands region in MarchFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA leading scientist has criticised an “appalling” New South Wales government agency decision to stop water flowing to wetlands in the state’s north-west, saying it was “absolutely crazy” that researchers had to s",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/21/water-nsw-criticised-for-appalling-decision-after-hundreds-of-turtles-left-to-die-in-wetlands",
+      "id": "2026-04-20-de50aaff",
+      "headline": "Asia's clean power transition accelerates fall in global fossil-fuel use",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/asia-s-clean-power-transition-accelerates-fall-in-global-fossil-fuel-use",
       "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
+      "country": null,
+      "category": "business",
       "date": "2026-04-20",
-      "time": "15:00",
+      "time": "",
       "conflict_id": null,
-      "score": 24.0
+      "score": 22.8
     },
     {
       "id": "2026-04-20-808f60bc",
@@ -856,20 +898,6 @@
       "time": "14:56",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-17-3108d1fd",
-      "headline": "Air Canada temporarily suspends some flights to New York and other locations",
-      "summary": "Separately, Spirit Airlines reportedly seeks emergency US government funds as Iran war keeps aviation fuel costs highSign up for the Breaking News US email to get newsletter alerts in your inboxAir Canada has announced a temporary suspension of flights from Toronto and Montreal to New York’s John F Kennedy airport, citing rising fuel prices.The move comes amid growing concerns that airlines worldwide may scale back services as aviation fuel costs",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/17/air-canada-suspending-flights-fuel-prices",
-      "region": "NA",
-      "country": "Canada",
-      "category": "geopolitics",
-      "date": "2026-04-17",
-      "time": "20:57",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-04-17-f0ae1beb",
