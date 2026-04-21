@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-21T20:42:00.036918+00:00",
-  "story_count": 78,
+  "updated": "2026-04-21T21:29:08.823617+00:00",
+  "story_count": 84,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-04-21-02bb5086",
-      "headline": "EU foreign ministers reject proposal to suspend association agreement with Israel",
-      "summary": "A part suspension was tabled by Ireland, Spain and Slovenia but did not receive enough backing from other member statesThe EU remains split on imposing sanctions on Israel, despite some member states criticising the country over the plight of Gaza and violence against Palestinians by Israeli settlers in the West Bank.Kaja Kallas, the EU foreign policy chief, said proposals for a part suspension of the EU-Israel association agreement remained on t",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/21/eu-foreign-ministers-reject-proposal-suspend-association-agreement-israel",
-      "region": "EU",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "18:46",
-      "conflict_id": "israel-hamas",
-      "score": 68.0
-    },
     {
       "id": "2026-04-21-e6806f6c",
       "headline": "Zelenskyy announces Druzhba oil pipeline repaired and 'can resume operation'",
@@ -32,18 +18,32 @@
       "score": 65.0
     },
     {
-      "id": "2026-04-21-cbf4b245",
-      "headline": "Two Palestinians killed during settler attack on West Bank village, officials say",
-      "summary": "A 14-year-old boy was among those shot dead, according to the mayor of al-Mughayyir.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
+      "id": "2026-04-21-e8ee1259",
+      "headline": "Trump announces Iran ceasefire extension but says blockade remains",
+      "summary": "US president says attacks will be held off until Iranian leaders &#039;come up with a unified proposal&#039; to end war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/trump-announces-extending-iran-ceasefire-but-says-blockade-remains?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "17:17",
+      "time": "20:22",
+      "conflict_id": null,
+      "score": 64.4
+    },
+    {
+      "id": "2026-04-21-02bb5086",
+      "headline": "EU foreign ministers reject proposal to suspend association agreement with Israel",
+      "summary": "A part suspension was tabled by Ireland, Spain and Slovenia but did not receive enough backing from other member statesThe EU remains split on imposing sanctions on Israel, despite some member states criticising the country over the plight of Gaza and violence against Palestinians by Israeli settlers in the West Bank.Kaja Kallas, the EU foreign policy chief, said proposals for a part suspension of the EU-Israel association agreement remained on t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/21/eu-foreign-ministers-reject-proposal-suspend-association-agreement-israel",
+      "region": "EU",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "18:46",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 60.0
     },
     {
       "id": "2026-04-21-5ba7ced2",
@@ -74,34 +74,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-04-21-26b69521",
-      "headline": "Why is the EU under pressure to suspend its trade agreement with Israel?",
-      "summary": "Divided EU nations debate suspending Israel deal as pressure mounts over rights violations in Gaza and the West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/why-is-the-eu-under-pressure-to-suspend-its-trade-agreement-with-israel?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "14:53",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
-      "id": "2026-04-21-079da29a",
-      "headline": "Israeli soldiers and settlers kill 11 Palestinians across Gaza, West Bank",
-      "summary": "In Hebron, a 16-year-old is struck by a vehicle escorting an Israeli minister and killed.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/israeli-soldiers-and-settlers-kill-11-palestinians-across-gaza-west?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "14:01",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
       "id": "2026-04-21-e99142cd",
       "headline": "Trump extends Iran ceasefire until talks conclude",
       "summary": "Iran has cast doubt on negotiations and says US has violated the truce",
@@ -113,7 +85,7 @@
       "date": "2026-04-21",
       "time": "20:26",
       "conflict_id": null,
-      "score": 58.4
+      "score": 59.4
     },
     {
       "id": "2026-04-21-e31267bd",
@@ -127,7 +99,35 @@
       "date": "2026-04-21",
       "time": "14:56",
       "conflict_id": null,
-      "score": 55.4
+      "score": 56.4
+    },
+    {
+      "id": "2026-04-21-cbf4b245",
+      "headline": "Two Palestinians killed during settler attack on West Bank village, officials say",
+      "summary": "A 14-year-old boy was among those shot dead, according to the mayor of al-Mughayyir.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp864d661rro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "17:17",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
+    },
+    {
+      "id": "2026-04-21-c73f294c",
+      "headline": "UK ambassador to UAE warns of regional risk but backs UAE resilience amid fragile Iran ceasefire",
+      "summary": "In an interview with Euronews, British Ambassador to the United Arab Emirates Edward Hobart said the fragile US-Iran ceasefire should pave the way to a lasting peace with \"a clear way forward\".",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/21/uk-ambassador-to-uae-warns-of-regional-risk-but-backs-uae-resilience-amid-fragile-iran-cea",
+      "region": "EU",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "20:10",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-04-21-a76a5760",
@@ -144,6 +144,20 @@
       "score": 51.4
     },
     {
+      "id": "2026-04-21-2a51fa52",
+      "headline": "Trump Extends Iran Cease-Fire Before Deadline Expires; Vance’s Trip Is on Hold",
+      "summary": "President Trump attributed his decision to divisions among the Iranians about how to proceed and said he wanted to give them more time.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/vance-islamabad-iran-peace-talks.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "21:04",
+      "conflict_id": null,
+      "score": 50.2
+    },
+    {
       "id": "2026-04-21-a7bbe2e5",
       "headline": "Israeli army jails two soldiers for smashing head of Jesus statue in southern Lebanon",
       "summary": "Israeli Prime Minister Benjamin Netanyahu had said on Monday he was \"stunned and saddened to learn that an IDF soldier damaged a Catholic religious icon in southern Lebanon.\"",
@@ -156,20 +170,6 @@
       "time": "17:54",
       "conflict_id": "israel-hamas",
       "score": 49.0
-    },
-    {
-      "id": "2026-04-21-c73f294c",
-      "headline": "UK ambassador to UAE warns of regional risk but backs UAE resilience amid fragile Iran ceasefire",
-      "summary": "In an interview with Euronews, British Ambassador to the United Arab Emirates Edward Hobart said the fragile US-Iran ceasefire should pave the way to a lasting peace with \"a clear way forward\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/21/uk-ambassador-to-uae-warns-of-regional-risk-but-backs-uae-resilience-amid-fragile-iran-cea",
-      "region": "EU",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "20:10",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-04-21-c6a9ba4f",
@@ -200,60 +200,32 @@
       "score": 45.0
     },
     {
-      "id": "2026-04-21-c3345687",
-      "headline": "Palestine weekly wrap: Coordinated attacks and evictions in Gaza, West Bank",
-      "summary": "The killings of Palestinians in Gaza and settler violence across the West Bank are both continuing to surge.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/palestine-weekly-wrap-coordinated-attacks-and-evictions-in-gaza-west-bank?traffic_source=rss",
-      "region": "MENA",
-      "country": "Palestine",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "13:33",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-04-21-9e9df41a",
-      "headline": "Shot by Israeli forces, Hala, 18 and Mohammad, 13 fight for their lives",
-      "summary": "A Gaza bride-to-be and a 13-year-old West Bank boy fight for their lives after being shot in the head by Israeli forces.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/21/shot-by-israeli-forces-hala-18-and-mohammad-13-fight-for-their-lives?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "13:26",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-04-21-688d978e",
-      "headline": "Emerging FX Wavers as War Jitters Mount Ahead of Truce Deadline",
-      "summary": "An index for emerging-market dropped, reversing earlier gains, amid uncertainty over whether Vice President JD Vance will travel to Islamabad for peace talks as the clock ticks down to the ceasefire deadline on Wednesday.",
+      "id": "2026-04-21-46af0480",
+      "headline": "Commodity Traders Reap Profit Bonanza as Iran War Upends Markets",
+      "summary": "The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/emerging-market-assets-eye-record-close-as-iran-talks-loom",
-      "region": "SA",
-      "country": "Islamabad",
-      "category": "geopolitics",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/commodity-traders-reap-billions-in-profit-as-war-upends-markets",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
       "date": "2026-04-21",
-      "time": "09:38",
+      "time": "21:00",
       "conflict_id": null,
       "score": 42.1
     },
     {
-      "id": "2026-04-21-3927f5ee",
-      "headline": "Vance’s Trip to Islamabad on Hold as U.S. Says Iran Failed to Respond to Its Terms",
-      "summary": "The delay is another hurdle in the Trump administration’s push to secure an agreement that would curb Iran’s nuclear program.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/21/us/politics/vance-islamabad-iran-peace-talks.html",
-      "region": "NA",
-      "country": "Islamabad",
+      "id": "2026-04-21-7bbb0b77",
+      "headline": "Vance Trip to Pakistan for Talks With Iran Is On Hold, NYT Reports",
+      "summary": "The New York Times reports that Vice President JD Vance's trip to Pakistan for peace talks with Iran is on hold for now. We hear more from Republican strategist Lanhee Chen and Jeanne Sheehan Zaino, a Bloomberg contributor, on \"Balance of Power.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-21/vance-trip-to-pakistan-is-on-hold-nyt-reports-video",
+      "region": "MENA",
+      "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "18:05",
+      "time": "18:33",
       "conflict_id": null,
-      "score": 41.2
+      "score": 42.1
     },
     {
       "id": "2026-04-21-9e431223",
@@ -270,18 +242,18 @@
       "score": 41.2
     },
     {
-      "id": "2026-04-21-bd349a1f",
-      "headline": "Trump and Iran Face Off in Iran War Negotiations",
-      "summary": "As the United States and Iran make a second attempt at a deal, their negotiating styles are on a collision course.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/us-iran-negotiation-style.html",
-      "region": "NA",
-      "country": "United States",
+      "id": "2026-04-21-c0c9f823",
+      "headline": "US forces detain Iran-linked tanker Tifani with ceasefire talks on edge",
+      "summary": "Ship, detained under US policy to stop all Tehran-linked vessels, is under sanctions for smuggling Iranian crude.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/us-forces-detain-iran-linked-tanker-tifani-with-ceasefire-talks-on-edge?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "01:14",
+      "time": "18:45",
       "conflict_id": null,
-      "score": 41.2
+      "score": 39.4
     },
     {
       "id": "2026-04-21-d536730b",
@@ -298,6 +270,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-04-21-e785ea0a",
+      "headline": "Iran sees mass redundancies from war with US and Israel",
+      "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "16:05",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-21-bb747514",
       "headline": "Japan on high alert for 'huge' second quake after lifting tsunami warning",
       "summary": "Japan's meteorological agency warns another, stronger earthquake may hit in the next week.",
@@ -308,6 +294,20 @@
       "category": "geopolitics",
       "date": "2026-04-21",
       "time": "01:31",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-21-4bb31fba",
+      "headline": "A Kashmir tourist hotspot became a deadly bloodbath. A year on, the pain remains unbearable",
+      "summary": "A year after militants killed 26 people in Indian-administered Kashmir, families are trying to cope with their losses.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8ej3wl130yo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "21:14",
       "conflict_id": null,
       "score": 35.0
     },
@@ -324,6 +324,20 @@
       "time": "18:25",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-04-21-012ccbc5",
+      "headline": "Bond Traders Bet on Post-War Calm to Keep Rates in Tight Range",
+      "summary": "Traders are building up bets that bond market volatility will keep falling, even as a US-Iran peace agreement remains elusive.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/bond-traders-bet-on-post-war-calm-to-keep-rates-in-tight-range",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "20:36",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-04-21-d206d93c",
@@ -354,48 +368,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-04-21-d807a340",
-      "headline": "Treasuries Weaken Before Warsh Testifies for Fed Chair Role",
-      "summary": "Treasuries fell as strong economic data and higher oil prices prompted traders to scale back rate-cut expectations, overshadowing testimony from Federal Reserve Chair nominee Kevin Warsh.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/treasuries-weaken-before-warsh-testifies-for-fed-chair-role",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "13:57",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-21-407c0cac",
-      "headline": "Tim Cook's Exit, Warsh Faces Congress | Open Interest 4/21/2026",
-      "summary": "Get a jump start on the US trading day with Matt Miller and Dani Burger on \"Bloomberg Open Interest.\" Apple’s era shifts as Tim Cook steps down after 15 years, with John Ternus set to take over.  And Kevin Warsh faces Capitol Hill in a high-stakes Fed showdown. We'll take you to Capitol Hill. Plus, UnitedHealth rebounds with higher premiums despite shrinking enrollment, and airlines juggle strong demand against rising costs&mdash;how long can tra",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/open-interest-4-21-2026-video",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-21",
-      "time": "17:13",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-21-e2ebb28f",
-      "headline": "Here Are the Key Takeaways From Kevin Warsh’s Fed Confirmation Hearing",
-      "summary": "Here are the key takeaways from Kevin Warsh’s remarks at his confirmation hearing to be the next chairman of the Federal Reserve. He testified before the US Senate Banking Committee on Tuesday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/kevin-warsh-s-fed-confirmation-hearing-key-takeaways-on-interest-rates-policy",
-      "region": "NA",
-      "country": "Senate",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "16:52",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-04-21-8e1d6991",
       "headline": "RFK Jr. Refused to Commit to Backing New CDC Director on Vaccines",
       "summary": "In a tense congressional hearing, the health secretary also said he bore no responsibility for the measles outbreak in the United States.",
@@ -405,21 +377,21 @@
       "country": "United States",
       "category": "politics",
       "date": "2026-04-21",
-      "time": "19:27",
+      "time": "21:05",
       "conflict_id": null,
       "score": 33.2
     },
     {
       "id": "2026-04-21-a8e497d9",
       "headline": "Sheila Cherfilus-McCormick, a Florida Democrat, Resigns From Congress",
-      "summary": "Sheila Cherfilus-McCormick stands accused of stealing $5 million in federal funds. She announced she would step down minutes before the House Ethics Committee was to vote on a recommendation to expel her.",
+      "summary": "Sheila Cherfilus-McCormick stands accused of stealing $5 million in federal funds. She said she would step down minutes before an ethics panel was to vote on whether to recommend expelling her.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/21/us/cherfilus-mccormick-florida.html",
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html",
       "region": "NA",
       "country": "Congress",
       "category": "politics",
       "date": "2026-04-21",
-      "time": "19:13",
+      "time": "21:24",
       "conflict_id": null,
       "score": 33.2
     },
@@ -606,6 +578,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-21-89aee3f0",
+      "headline": "Baird Capital Raises $450 Million for Private Equity Fund",
+      "summary": "The private equity arm of financial services firm Robert W. Baird &amp; Co. has raised $450 million for a fund that will invest in lower middle market companies in the US and the UK.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/baird-capital-raises-450-million-for-third-private-equity-fund",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-21-6b0c9e4a",
       "headline": "Markets Extend Downturn | Closing Bell",
       "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
@@ -632,6 +618,20 @@
       "time": "13:32",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-04-21-7be3de19",
+      "headline": "Judge Bars Imminent Removal of D.C. Bike Lanes",
+      "summary": "A federal judge found the National Park Service had improperly rushed plans to strip out bike lanes connecting downtown Washington to the Tidal Basin.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/judge-dc-bike-lanes.html",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "20:43",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-04-21-02e4a747",
@@ -676,9 +676,23 @@
       "score": 24.0
     },
     {
+      "id": "2026-04-21-1d8b2747",
+      "headline": "Australia news live: NDIS savings to fund better aged care including showers, minister says; fourth man charged over alleged Baghsarian kidnapping murder",
+      "summary": "Labor says cuts to disability scheme mean elderly will get more help. Follow today’s news liveGet our breaking news email, free app or daily news podcastFourth man charged over alleged kidnapping and murder of Chris BaghsarianNSW police have charged a fourth man over the alleged kidnapping and murder of Chris Baghsarian. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "21:11",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-04-21-c73778c2",
       "headline": "‘Not a personal attack’: gun lobby targets marginal Labor seats at NSW election over post-Bondi reforms",
-      "summary": "Exclusive: Australian Recreation Union says it plans to support candidates and parties that oppose gun control laws brought in after terror attackGet our breaking news email, free app or daily news podcastA gun users’ group targeting marginal Labor seats in next year’s New South Wales election plans to campaign for candidates who oppose the government’s firearm laws enacted after the Bondi terror attack.In an email sent to the electorate offices ",
+      "summary": "Exclusive: Australian Recreation Union says it plans to support candidates and parties that oppose gun control laws brought in after terror attackFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA gun users’ group targeting marginal Labor seats in next year’s New South Wales election plans to campaign for candidates who oppose the government’s firearm laws enacted after the Bondi ter",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/apr/21/gun-lobby-targets-marginal-labor-seats-nsw-election-ntwnfb",
       "region": "APJ",
@@ -688,6 +702,34 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-04-21-7d50c86d",
+      "headline": "Death of Sydney’s ‘birdman’ described as ‘beyond tragic’ by Albanese government",
+      "summary": "NSW housing and homelessness minister says Bikram Lama’s death shows the ‘gaps’ that people without residency can fall throughFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFederal and state housing ministers have described the death of a young homeless man in Sydney’s Hyde Park as “beyond tragic” and say it reinforces the need to stop vulnerable rough sleepers from falling through",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/apr/21/death-of-sydneys-birdman-described-as-beyond-tragic-by-albanese-government",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-04-21-650c589b",
+      "headline": "Sudan refugees returning home face new ‘struggle for survival’: UN",
+      "summary": "Returnees find chronic need for investment with homes, water supplies, health provision, electricity &#039;heavily damaged&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/sudan-refugees-returning-home-face-new-struggle-for-survival-un?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "20:32",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-04-21-a15684cf",
@@ -788,6 +830,48 @@
       "score": 21.0
     },
     {
+      "id": "2026-04-20-c18a8e20",
+      "headline": "Oil, Gas Whipsaw Post-Settlement as Trump Extends Iran Ceasefire",
+      "summary": "Oil and gas whipsawed in post-settlement trading as US President Donald Trump extended a ceasefire with Iran even as peace talks falter and a blockade of the Strait of Hormuz keeps flows locked up.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/latest-oil-market-news-and-analysis-for-april-21",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-20",
+      "time": "22:02",
+      "conflict_id": null,
+      "score": 59.1
+    },
+    {
+      "id": "2026-04-20-48bc688f",
+      "headline": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+      "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-20",
+      "time": "21:52",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-04-20-073e0a04",
+      "headline": "US Stock ETF Rises Late as Trump Extends Ceasefire: Markets Wrap",
+      "summary": "A giant exchange-traded fund tracking US stocks climbed in late hours after President Donald Trump said he’s extending the ceasefire deal with Iran until talks conclude.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-20/-stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-20",
+      "time": "22:24",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
       "id": "2026-04-20-6f0e93ff",
       "headline": "Hot air balloon makes emergency landing in California backyard",
       "summary": "\"Look at that, wow!\" - A couple in Temecula woke up to find a balloon boarded with 13 people behind their home on Saturday.",
@@ -802,60 +886,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-20-48bc688f",
-      "headline": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-      "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
+      "id": "2026-04-20-18fc29f5",
+      "headline": "Are insider traders making millions from the Iran war?",
+      "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Pakistan",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-20",
-      "time": "21:52",
+      "time": "12:14",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-20-073e0a04",
-      "headline": "US Stock ETF Rises Late as Trump Extends Ceasefire: Markets Wrap",
-      "summary": "A giant exchange-traded fund tracking US stocks climbed in late hours after President Donald Trump said he’s extending the ceasefire deal with Iran until talks conclude.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/-stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-20",
-      "time": "22:24",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-04-20-8f3a25d3",
-      "headline": "Oil Rises Above $100 as US, Iran Peace Talks Uncertain",
-      "summary": "Oil prices rose amid reports that the US and Iran will put on hold talks to secure a peace deal before a ceasefire expires on Wednesday, dampening hopes that flows through the critical Strait of Hormuz will resume in the near future.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/latest-oil-market-news-and-analysis-for-april-21",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "22:02",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-04-20-bf0fca6a",
-      "headline": "Gold Falls Most in Two Weeks as US-Iran Talks Hang in Balance",
-      "summary": "Gold declined the most in more than two weeks as traders awaited confirmation that Iran will join the US in peace talks before a ceasefire expires, with the two sides still at odds on key issues.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/gold-steadies-as-traders-weigh-next-round-of-us-iran-peace-talks",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "22:14",
-      "conflict_id": null,
-      "score": 42.1
     },
     {
       "id": "2026-04-20-824c09ab",
@@ -882,6 +924,20 @@
       "category": "politics",
       "date": "2026-04-20",
       "time": "19:56",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-04-20-272f0a88",
+      "headline": "The insider trading suspicions looming over Trump's presidency",
+      "summary": "The BBC has found a pattern of spikes in trades ahead of public announcements by the US president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cge0grppe3po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-20",
+      "time": "13:53",
       "conflict_id": null,
       "score": 27.0
     },
@@ -926,6 +982,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-04-19-785f7ca6",
+      "headline": "Zelensky condemns US extension of Russian sanctions waiver",
+      "summary": "The US argues that the waiver is meant to ease the energy supply crunch sparked by the US-Israel war with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c248m3z49j1o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "09:55",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-04-19-009f0112",
@@ -1094,6 +1164,20 @@
       "time": "21:10",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-04-14-7bcc8823",
+      "headline": "America’s corporate boards are under siege",
+      "summary": "Activist shareholders and regulatory changes are undermining their control",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/14/americas-corporate-boards-are-under-siege",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-04-14",
+      "time": "15:44",
+      "conflict_id": null,
+      "score": 25.8
     }
   ]
 }
