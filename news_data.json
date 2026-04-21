@@ -1,8 +1,22 @@
 {
-  "updated": "2026-04-21T11:55:17.080144+00:00",
+  "updated": "2026-04-21T12:54:44.037022+00:00",
   "story_count": 77,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-04-21-808daa29",
+      "headline": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
+      "summary": "Trump withdrew the US from the JCPOA in 2018, branding it &#039;the worst deal ever&#039; and seeking stronger terms.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/what-was-the-iran-nuclear-deal-trump-dumped-in-search-of-better-terms?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "11:44",
+      "conflict_id": "iran-tensions",
+      "score": 67.4
+    },
     {
       "id": "2026-04-21-1c03d889",
       "headline": "‘Highly unlikely’ Iran ceasefire will be extended if no deal reached, Trump says",
@@ -15,21 +29,7 @@
       "date": "2026-04-21",
       "time": "03:29",
       "conflict_id": null,
-      "score": 58.4
-    },
-    {
-      "id": "2026-04-21-491788eb",
-      "headline": "Iran War: Stocks Edge Up as Traders Remain Hopeful on Talks | The Opening Trade 4/21/2026",
-      "summary": "Stocks rose modestly as traders grew more encouraged that Iran will join talks that could extend a Middle East truce and restore oil flows. Treasuries and the dollar wavered ahead of Kevin Warsh’s Senate hearing.\n\nAll eyes are on the Middle East after Trump signaled he is unlikely to extend a two-week ceasefire with Iran in a war that’s upended global oil markets. Iran has yet to confirm it will take part in the talks in Islamabad, with Trump thr",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/the-opening-trade-4-21-2026-video",
-      "region": "NA",
-      "country": "Islamabad",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "09:45",
-      "conflict_id": null,
-      "score": 50.1
+      "score": 59.4
     },
     {
       "id": "2026-04-21-f9eefff3",
@@ -83,7 +83,35 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "07:37",
+      "time": "12:11",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-04-21-7274d1f1",
+      "headline": "Kevin Warsh to be grilled by Congress in race to be confirmed as Fed chair",
+      "summary": "Donald Trump’s pick to lead central bank to tell lawmakers the independence of rate-setters is not ‘particularly threatened’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6d006c95-2934-4340-82b0-05b18ec161e0",
+      "region": "NA",
+      "country": "Congress",
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "12:12",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-04-21-d37dd715",
+      "headline": "What we need to know from Warsh",
+      "summary": "After a period of silence, Donald Trump’s nominee for Fed chair gives evidence",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/55e5927c-caf7-489f-829f-da00998e6ffd",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "11:30",
       "conflict_id": null,
       "score": 42.4
     },
@@ -100,20 +128,6 @@
       "time": "01:02",
       "conflict_id": null,
       "score": 41.8
-    },
-    {
-      "id": "2026-04-21-6fc75dc5",
-      "headline": "What to Know About Virginia’s Gerrymandering Fight",
-      "summary": "The election on Tuesday is part of a coast-to-coast fight between Republicans and Democrats ahead of the midterms.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/21/us/elections/virginia-gerrymandering-election-midterms.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-21",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 41.2
     },
     {
       "id": "2026-04-21-77c7e826",
@@ -156,6 +170,20 @@
       "time": "10:39",
       "conflict_id": null,
       "score": 37.0
+    },
+    {
+      "id": "2026-04-21-bf655835",
+      "headline": "Unprecedented ruling finds Hungary's anti-LGBTQ laws in breach of EU values",
+      "summary": "The EU's top court finds that the reforms breached EU values on a number of levels and broke the founding values of the EU treaty.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cddqvyr0yjro?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "12:28",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-04-21-86194883",
@@ -214,6 +242,48 @@
       "score": 34.4
     },
     {
+      "id": "2026-04-21-8201f73c",
+      "headline": "SEC Monitoring ‘Emerging Pressures’ in Private Credit Space",
+      "summary": "The Securities and Exchange Commission is closely monitoring the “emerging pressures” in the private credit market as redemption requests persist amidst rising default-rate projections, Chairman Paul Atkins said in prepared remarks.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/sec-monitoring-emerging-pressures-in-private-credit-space",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "12:32",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-21-71731ec0",
+      "headline": "Vanke Wins Backing for Bond Delay Plan, Easing Default Risk",
+      "summary": "China Vanke Co. won enough creditor backing to extend payments on a yuan bond due Thursday for a year, easing the embattled developer’s risk of an imminent default, at least for now.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/vanke-wins-backing-for-bond-delay-plan-easing-default-risk",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "12:25",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-21-f1aae614",
+      "headline": "S&amp;P 500 Futures Rally as Traders Await Updates on Iran, Warsh",
+      "summary": "US stock-index futures rose before the bell on Tuesday as traders awaited developments on Iran and Kevin Warsh’s Senate hearing amid the latest round of corporate earnings.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/s-p-500-futures-rally-as-traders-await-updates-on-iran-warsh",
+      "region": "NA",
+      "country": "Senate",
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "11:42",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-04-21-5d22cf42",
       "headline": "Hybrid Bond Buybacks Return After War Paused Riskier Debt Deals",
       "summary": "European companies are once again buying back junior bonds after the market turmoil sparked by the war in the Middle East and the AI-related software selloff put some riskier debt deals on ice.",
@@ -256,6 +326,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-04-21-9e431223",
+      "headline": "What to Know About Virginia’s Redistricting Fight",
+      "summary": "The election on Tuesday is part of a coast-to-coast fight between Republicans and Democrats ahead of the midterms.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/21/us/elections/virginia-gerrymandering-election-midterms.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-04-21-f4962fb2",
       "headline": "Music executive behind K-pop group BTS faces arrest in South Korea",
       "summary": "Police seek warrant for Bang Si-Hyuk over allegations he illegally gained millions in investor fraud schemeSouth Korean police are seeking to arrest Bang Si-Hyuk, the chair of the agency behind the K-pop band BTS, as they expand an investigation into allegations that he illegally gained more than $100m (£74m) in an investor fraud scheme.The Seoul metropolitan police agency confirmed it had asked prosecutors to request a court warrant for the arre",
@@ -279,7 +363,7 @@
       "country": null,
       "category": "business",
       "date": "2026-04-21",
-      "time": "10:07",
+      "time": "12:30",
       "conflict_id": null,
       "score": 32.0
     },
@@ -293,7 +377,21 @@
       "country": "Hungary",
       "category": "politics",
       "date": "2026-04-21",
-      "time": "11:33",
+      "time": "12:36",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-04-21-9fce536b",
+      "headline": "EU’s top court finds Hungary’s anti-LGBTQ+ law in breach of key values",
+      "summary": "ECJ says law passed in 2021 is discriminatory and ‘contrary to the identity of the union’, in early test for new PMThe EU’s highest court has found Hungary’s anti-LGBTQ+ law to be discriminatory, stigmatising and in breach of basic democratic values, setting up an early test for the incoming government when it takes power next month.In a wide-ranging judgment, the European court of justice said the 2021 law that bans content about LGBTQ+ people f",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/21/eu-court-ecj-hungary-anti-gay-lgbtq-law",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "10:39",
       "conflict_id": null,
       "score": 32.0
     },
@@ -340,20 +438,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-21-3cf1b9a7",
-      "headline": "Sotheby’s strikes $100mn debt deal with KKR backed by auction fees",
-      "summary": "Borrowing facility adds another layer of debt to auction house owned by billionaire Patrick Drahi",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/72ecd622-e40c-4937-b31c-c9fc9c7c89d9",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-21",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-04-21-6443085d",
       "headline": "Revolut aims for $200bn valuation in stock market listing",
       "summary": "Bumper IPO would trigger increased stake for founder Nik Storonsky but group has no plans to float shares before 2028",
@@ -368,6 +452,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-21-1744dedd",
+      "headline": "Flurry of US IPOs Race to Tap Market Ahead of SpaceX Debut",
+      "summary": "The US IPO market has gone from desolate to bustling in a matter of weeks, with companies looking to raise as much as $17.3 billion this month alone and capitalize on stocks’ resilience.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/flurry-of-us-ipos-race-to-tap-market-ahead-of-spacex-debut",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "12:38",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-21-77c5ec7d",
+      "headline": "Meloni Demands Terna CEO Choose: €7.3 Million Payout or Eni Role",
+      "summary": "Italian Premier Giorgia Meloni said the outgoing chief executive officer of grid operator Terna SpA, Giuseppina di Foggia, should choose between a €7.3 million ($8.6 million) severance or a new role as chairwoman of ENI SpA, making clear the government’s stance that she can’t have both.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/meloni-demands-terna-ceo-choose-7-3-million-payout-or-eni-role",
+      "region": "MENA",
+      "country": "Oman",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "11:48",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-21-fe4331e3",
       "headline": "MTR Raises $2.4 Billion From First Public Hong Kong Dollar Bonds",
       "summary": "MTR Corp Ltd. raised HK$18.9 billion ($2.4 billion) in its first-ever Hong Kong dollar public bond sale, as borrowers increasingly rely on the city’s funding market.",
@@ -378,34 +490,6 @@
       "category": "business",
       "date": "2026-04-21",
       "time": "01:10",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-21-03f497bb",
-      "headline": "Higher Oil Prices Pose a Dilemma for US Shale",
-      "summary": "Trump wants producers to unleash output, but many remember the ill-fated dash for growth more than a decade ago.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-04-21/higher-oil-prices-pose-a-dilemma-for-us-shale",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "11:28",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-21-5fde8e62",
-      "headline": "Markets Showing Durability in Bounce From March Lows, Strategist Verrone Says",
-      "summary": "“If you’re looking six months out, I still think we’re higher than we are here,” says Christopher Verone, partner and chief market strategist at Strategas, as he examines the factors driving markets higher. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/markets-showing-durability-off-of-march-lows-verrone-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "11:26",
       "conflict_id": null,
       "score": 26.1
     },
@@ -480,20 +564,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-21-445d082f",
-      "headline": "Liberals and Nationals to preference One Nation in blow to Michelle Milthorpe in Farrer byelection",
-      "summary": "Independent candidate and One Nation’s David Farley are viewed as the frontrunners in the four cornered-contest for the 9 May pollGet our breaking news email, free app or daily news podcastThe Liberals and Nationals will preference One Nation ahead of Michelle Milthorpe in the Farrer byelection in a potential blow to the independent’s hopes of winning the 9 May race.Milthorpe and One Nation’s David Farley are viewed as the frontrunners in the fou",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/21/farrer-byelection-liberal-national-one-nation-pauline-hanson-preference-ntwnfb",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-21",
-      "time": "10:06",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-04-21-55ee2b6d",
       "headline": "Woolworths engaged in ‘marketing magic’ to trick customers, consumer watchdog tells court",
       "summary": "The trial between the Australian Competition and Consumer Commission and the supermarket giant began in the federal court in Sydney on TuesdayGet our breaking news email, free app or daily news podcastWoolworths engaged in “marketing magic” to trick customers into thinking they were getting genuine discounts as part of the supermarket’s “Prices Dropped” promotion, the consumer regulator has told a court.The landmark trial between the Australian C",
@@ -508,18 +578,18 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-21-98b56d6f",
-      "headline": "Algeria’s ex-minister of industry jailed in high-profile corruption case",
-      "summary": "Former minister among several people jailed in corruption case that saw prison sentences of between three and 10 years.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/algerias-ex-minister-of-industry-jailed-in-high-profile-corruption-case?traffic_source=rss",
-      "region": "MENA",
-      "country": "Algeria",
-      "category": "politics",
+      "id": "2026-04-21-413164fe",
+      "headline": "Martin Scorsese’s film about Pope Francis to receive world premiere in Vatican City",
+      "summary": "Aldeas, The Final Dream of Pope Francis is being screened to commemorate the first anniversary of Francis’s deathMartin Scorsese’s documentary about Pope Francis is to have its world premiere in the Vatican today as one of a set of events commemorating the first anniversary of Francis’s death.The screening of the film, titled Aldeas, The Final Dream of Pope Francis, is being staged by Scholas Occurrentes, an international organisation aiming to “",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/film/2026/apr/21/martin-scorsese-film-about-pope-francis-world-premiere-vatican-city-aldeas-the-final-dream-of-pope-francis",
+      "region": "EU",
+      "country": null,
+      "category": "business",
       "date": "2026-04-21",
-      "time": "03:59",
+      "time": "11:53",
       "conflict_id": null,
-      "score": 23.4
+      "score": 24.0
     },
     {
       "id": "2026-04-21-04fbe62d",
@@ -606,20 +676,6 @@
       "score": 49.2
     },
     {
-      "id": "2026-04-20-7549e290",
-      "headline": "What we know about the Iranian ship seized by the US",
-      "summary": "The US has intercepted an Iranian ship entering the Gulf as part of its naval blockade, US President Donald Trump has said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c75kg0vdxyro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "20:04",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-20-6f0e93ff",
       "headline": "Hot air balloon makes emergency landing in California backyard",
       "summary": "\"Look at that, wow!\" - A couple in Temecula woke up to find a balloon boarded with 13 people behind their home on Saturday.",
@@ -634,16 +690,16 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-20-18fc29f5",
-      "headline": "Are insider traders making millions from the Iran war?",
-      "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
+      "id": "2026-04-20-48bc688f",
+      "headline": "Trump says US will not lift Hormuz blockade until deal made with Iran",
+      "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Iran",
+      "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-04-20",
-      "time": "12:14",
+      "time": "21:52",
       "conflict_id": null,
       "score": 43.0
     },
@@ -662,6 +718,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-04-20-e7b6240e",
+      "headline": "Kevin Warsh, Trump’s Fed Pick, to Defend Bank’s Ability to Set Rates Independently",
+      "summary": "Kevin M. Warsh is set to testify at the Senate Banking Committee on Tuesday even as a criminal investigation into the central bank risks delaying his ascension to become the next chair.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/20/us/politics/kevin-warsh-fed-senate-banking-committee-hearing.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "business",
+      "date": "2026-04-20",
+      "time": "18:01",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-04-20-154dadeb",
       "headline": "Japan tsunami alerts downgraded following powerful earthquake off northern coast – as it happened",
       "summary": "People in affected areas are still urged to evacuate after quake registering 7.7 magnitude Australian officials in Japan are urgently following up on the tsunami warning off the northeastern coast of the island of Honshu.The Australian government said:We stand ready to provide consular assistance.Australians in need of emergency consular assistance should contact the Department of Foreign Affairs and Trade’s 24-hour Consular Emergency Centre on 1",
@@ -674,20 +744,6 @@
       "time": "14:16",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-04-20-48bc688f",
-      "headline": "Trump says US will not lift Hormuz blockade until deal made with Iran",
-      "summary": "The US president's comments come amid uncertainty over whether Iran will attend peace talks in Pakistan this week.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxd88r2wjzo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "21:52",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-20-dd84b334",
@@ -706,7 +762,7 @@
     {
       "id": "2026-04-20-b471c4ed",
       "headline": "Stocks Get Earnings Boost as Traders Focus on Iran: Markets Wrap",
-      "summary": "Stocks rose amid strong corporate earnings as traders waited to see if Iran will join talks that could restore oil flows from the Middle East. The dollar gained and Treasuries wavered ahead of Kevin Warsh’s Senate hearing.",
+      "summary": "Stocks rose amid strong corporate earnings as traders waited to see if Iran will join talks that could restore oil flows from the Middle East. The dollar edged higher while Treasuries slipped ahead of Kevin Warsh’s Senate hearing.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-20/-stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -728,20 +784,6 @@
       "category": "politics",
       "date": "2026-04-20",
       "time": "20:21",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-04-20-e7b6240e",
-      "headline": "Kevin Warsh, Trump’s Fed Pick, to Defend Bank’s Ability to Set Rates Independently",
-      "summary": "Kevin M. Warsh is set to testify at the Senate Banking Committee on Tuesday even as a criminal investigation into the central bank risks delaying his ascension to become the next chair.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/20/us/politics/kevin-warsh-fed-senate-banking-committee-hearing.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "business",
-      "date": "2026-04-20",
-      "time": "18:01",
       "conflict_id": null,
       "score": 33.2
     },
@@ -828,34 +870,6 @@
       "time": "10:19",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-20-e5e70624",
-      "headline": "Stock Market’s Rally to Record High Masks Weak Building Blocks",
-      "summary": "The record-breaking advance in US stocks has many of the hallmarks of an unloved rally, including narrow leadership, low volumes and muted investor sentiment.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/stock-market-s-rally-to-record-high-masks-weak-building-blocks",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-20",
-      "time": "20:09",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-20-ee121bd5",
-      "headline": "Victory Giant Surges in Debut After Biggest Hong Kong Listing This Year",
-      "summary": "Victory Giant Technology Huizhou Co., a Chinese supplier of Nvidia Corp., surged 50% in its Hong Kong trading debut after raising $2.6 billion in the city’s largest listing in seven months.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/nvidia-supplier-victory-giant-set-for-debut-after-biggest-hk-listing-this-year",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "politics",
-      "date": "2026-04-20",
-      "time": "23:00",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-04-20-5e75b009",
@@ -970,20 +984,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-19-010737ae",
-      "headline": "Watch: Runners v robots at China half marathon",
-      "summary": "Robots competed in a half marathon race in Beijing on Sunday, with the winning machine leaving its human rivals for dust.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cz0e54yrppno?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "08:46",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-04-18-723880d2",
       "headline": "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
       "summary": "Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away.",
@@ -998,20 +998,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-04-17-a5e03a83",
-      "headline": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
-      "summary": "Some kind of diplomatic progress is now under way, but is it enough to prevent a return to war?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-17",
-      "time": "19:59",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-17-e8e1a180",
       "headline": "What we know about the Israel-Lebanon ceasefire",
       "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
@@ -1022,6 +1008,20 @@
       "category": "geopolitics",
       "date": "2026-04-17",
       "time": "14:56",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-04-17-a5e03a83",
+      "headline": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
+      "summary": "Some kind of diplomatic progress is now under way, but is it enough to prevent a return to war?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-17",
+      "time": "19:59",
       "conflict_id": null,
       "score": 43.0
     },
