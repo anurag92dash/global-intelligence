@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-21T22:07:39.885122+00:00",
-  "story_count": 85,
-  "source_count": 10,
+  "updated": "2026-04-21T22:57:00.374684+00:00",
+  "story_count": 83,
+  "source_count": 9,
   "stories": [
-    {
-      "id": "2026-04-21-e6806f6c",
-      "headline": "Zelenskyy announces Druzhba oil pipeline repaired and 'can resume operation'",
-      "summary": "The repair of the Druzhba pipeline paves the way for the adoption of the €90 billion loan for Ukraine and a new round of sanctions against Russia, both of which are currently vetoed by Hungary.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/21/zelenskyy-announces-druzhba-oil-pipeline-repaired-and-can-resume-operation",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "14:49",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
-    },
     {
       "id": "2026-04-21-e8ee1259",
       "headline": "Trump announces Iran ceasefire extension but says blockade remains",
@@ -32,60 +18,60 @@
       "score": 64.4
     },
     {
-      "id": "2026-04-21-02bb5086",
-      "headline": "EU foreign ministers reject proposal to suspend association agreement with Israel",
-      "summary": "A part suspension was tabled by Ireland, Spain and Slovenia but did not receive enough backing from other member statesThe EU remains split on imposing sanctions on Israel, despite some member states criticising the country over the plight of Gaza and violence against Palestinians by Israeli settlers in the West Bank.Kaja Kallas, the EU foreign policy chief, said proposals for a part suspension of the EU-Israel association agreement remained on t",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/21/eu-foreign-ministers-reject-proposal-suspend-association-agreement-israel",
-      "region": "EU",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "18:46",
-      "conflict_id": "israel-hamas",
-      "score": 60.0
-    },
-    {
-      "id": "2026-04-21-5ba7ced2",
-      "headline": "Decision on EU’s €90bn loan for Ukraine ‘due in next 24 hours’ after Zelenskyy says oil pipeline repaired – as it happened",
-      "summary": "EU’s foreign policy chief, Kaja Kallas, says there is ‘new momentum’ after Hungarian election as Ukrainian leader says Druzhba pipeline can resume operationsGerman foreign minister Joseph Wadephul also makes it very clear that he is relieved with the change of government in Hungary, calling it “a breath of fresh air” and a promise of hope for Ukraine.He urged Hungary to drop its “unusual blockade” for policies for Ukraine “as quickly as possible,",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "politics",
-      "date": "2026-04-21",
-      "time": "16:27",
-      "conflict_id": "ukraine-war",
-      "score": 60.0
-    },
-    {
-      "id": "2026-04-21-7cd3fe93",
-      "headline": "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
-      "summary": "Kyiv hopeful pipeline restoration will unblock EU loan, with bloc&#039;s foreign policy chief expecting &#039;positive decision&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "18:27",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
-    },
-    {
-      "id": "2026-04-21-e99142cd",
-      "headline": "Trump extends Iran ceasefire until talks conclude",
-      "summary": "Iran has cast doubt on negotiations and says US has violated the truce",
+      "id": "2026-04-21-4277fb92",
+      "headline": "Trump extends Iran ceasefire as peace talks hit impasse",
+      "summary": "President’s latest mixed signal comes as US sends more troops to region",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/18c234e2-019a-448d-bf17-35bb2c146add",
+      "url": "https://www.ft.com/content/792cf320-25ef-4d6a-bce5-028d0f3afba9",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "20:26",
+      "time": "22:24",
       "conflict_id": null,
       "score": 59.4
+    },
+    {
+      "id": "2026-04-21-3735b607",
+      "headline": "Gold Steadies as Trump Extends Iran Ceasefire, Peace Talks Stall",
+      "summary": "Gold held a two-day decline after US President Donald Trump extended a ceasefire with Iran and plans for a fresh round of peace talks fell apart.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/gold-steadies-as-trump-extends-iran-ceasefire-peace-talks-stall",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "22:22",
+      "conflict_id": null,
+      "score": 59.1
+    },
+    {
+      "id": "2026-04-21-f8355261",
+      "headline": "Trump Extends Iran Ceasefire Until Talks Conclude",
+      "summary": "President Donald Trump posted on social media that he would extend the ceasefire with Iran, after plans for diplomatic talks between the two countries were scrapped. Joe Mathieu reports on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-21/trump-extends-iran-ceasefire-until-talks-conclude-video",
+      "region": "EU",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "20:36",
+      "conflict_id": null,
+      "score": 59.1
+    },
+    {
+      "id": "2026-04-21-bd79e8db",
+      "headline": "US Stock Futures Rise as Trump Extends Iran Truce: Markets Wrap",
+      "summary": "US stock futures climbed after President Donald Trump said he’s extending the ceasefire deal with Iran until talks conclude. Oil held a two-day gain.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "22:13",
+      "conflict_id": null,
+      "score": 58.1
     },
     {
       "id": "2026-04-21-cbf4b245",
@@ -102,17 +88,45 @@
       "score": 55.0
     },
     {
-      "id": "2026-04-21-a76a5760",
-      "headline": "Rabbi accused of war crimes selected for Israel’s national celebration",
-      "summary": "Rabbi Avraham Zarbiv has filmed himself demolishing Palestinian buildings in Gaza while reciting religious verses.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/21/rabbi-accused-of-war-crimes-selected-for-israels-national-celebration?traffic_source=rss",
-      "region": "MENA",
+      "id": "2026-04-21-02bb5086",
+      "headline": "EU foreign ministers reject proposal to suspend association agreement with Israel",
+      "summary": "A part suspension was tabled by Ireland, Spain and Slovenia but did not receive enough backing from other member statesThe EU remains split on imposing sanctions on Israel, despite some member states criticising the country over the plight of Gaza and violence against Palestinians by Israeli settlers in the West Bank.Kaja Kallas, the EU foreign policy chief, said proposals for a part suspension of the EU-Israel association agreement remained on t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/21/eu-foreign-ministers-reject-proposal-suspend-association-agreement-israel",
+      "region": "EU",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "15:35",
+      "time": "18:46",
       "conflict_id": "israel-hamas",
+      "score": 52.0
+    },
+    {
+      "id": "2026-04-21-5ba7ced2",
+      "headline": "Decision on EU’s €90bn loan for Ukraine ‘due in next 24 hours’ after Zelenskyy says oil pipeline repaired – as it happened",
+      "summary": "EU’s foreign policy chief, Kaja Kallas, says there is ‘new momentum’ after Hungarian election as Ukrainian leader says Druzhba pipeline can resume operationsGerman foreign minister Joseph Wadephul also makes it very clear that he is relieved with the change of government in Hungary, calling it “a breath of fresh air” and a promise of hope for Ukraine.He urged Hungary to drop its “unusual blockade” for policies for Ukraine “as quickly as possible,",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/apr/21/eu-foreign-ministers-meet-to-discuss-ukraine-russia-and-the-middle-east-europe-live",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "16:27",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
+    },
+    {
+      "id": "2026-04-21-7cd3fe93",
+      "headline": "Ukraine says Druzhba pipeline running Russian oil to Europe can resume work",
+      "summary": "Kyiv hopeful pipeline restoration will unblock EU loan, with bloc&#039;s foreign policy chief expecting &#039;positive decision&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/ukraine-says-druzhba-pipeline-running-russian-oil-to-europe-can-resume-work?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "18:27",
+      "conflict_id": "ukraine-war",
       "score": 51.4
     },
     {
@@ -130,88 +144,32 @@
       "score": 50.2
     },
     {
-      "id": "2026-04-21-a7bbe2e5",
-      "headline": "Israeli army jails two soldiers for smashing head of Jesus statue in southern Lebanon",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu had said on Monday he was \"stunned and saddened to learn that an IDF soldier damaged a Catholic religious icon in southern Lebanon.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/21/israeli-army-jails-two-soldiers-for-smashing-head-of-jesus-statue-in-southern-lebanon",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "politics",
-      "date": "2026-04-21",
-      "time": "17:54",
-      "conflict_id": "israel-hamas",
-      "score": 49.0
-    },
-    {
-      "id": "2026-04-21-c73f294c",
-      "headline": "UK ambassador to UAE warns of regional risk but backs UAE resilience amid fragile Iran ceasefire",
-      "summary": "In an interview with Euronews, British Ambassador to the United Arab Emirates Edward Hobart said the fragile US-Iran ceasefire should pave the way to a lasting peace with \"a clear way forward\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/21/uk-ambassador-to-uae-warns-of-regional-risk-but-backs-uae-resilience-amid-fragile-iran-cea",
-      "region": "EU",
-      "country": "Iran",
+      "id": "2026-04-21-538e79fd",
+      "headline": "Trust Trump? Iran’s Doubts Shadow Peace Talks.",
+      "summary": "Iranian leaders fear being burned again by President Trump, who tore up a nuclear agreement reached during the Obama administration after lengthy negotiations.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/trust-trump-iran.html",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "20:10",
+      "time": "20:50",
       "conflict_id": null,
-      "score": 45.0
+      "score": 49.2
     },
     {
-      "id": "2026-04-21-c6a9ba4f",
-      "headline": "EU ministers reject calls to suspend Israeli trade agreement over 'war crimes'",
-      "summary": "Spain, Ireland and Slovenia’s proposal to suspend the EU–Israel Association Agreement over alleged war crimes in Lebanon and Palestine failed to secure sufficient support among EU foreign ministers. However, a separate proposal concerning settlement goods will be referred to the European Commission.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/21/eu-ministers-reject-calls-to-suspend-israeli-trade-agreement-over-war-crimes",
-      "region": "EU",
-      "country": "Palestine",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "17:17",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-04-21-46af0480",
-      "headline": "Commodity Traders Reap Profit Bonanza as Iran War Upends Markets",
-      "summary": "The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets.",
+      "id": "2026-04-21-0c2691da",
+      "headline": "Oil Traders Say Billion-Barrel Hole Will Linger Long After War",
+      "summary": "The impact of the Iran war will continue for months even after any deal to restore shipping through the Strait of Hormuz, the world’s largest oil traders have warned. Some said flows through the waterway may never return to normal. Speaking at the FT Commodities Global Summit in Lausanne, executives at some of the world’s largest oil traders warned that the rewiring of the oil market would take months even if a peace deal is agreed soon. The mark",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-21/commodity-traders-reap-billions-in-profit-as-war-upends-markets",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-21/oil-traders-say-billion-barrel-hole-will-linger-post-war-video",
       "region": "MENA",
       "country": "Iran",
       "category": "business",
       "date": "2026-04-21",
-      "time": "21:00",
+      "time": "22:05",
       "conflict_id": null,
       "score": 42.1
-    },
-    {
-      "id": "2026-04-21-7bbb0b77",
-      "headline": "Vance Trip to Pakistan for Talks With Iran Is On Hold, NYT Reports",
-      "summary": "The New York Times reports that Vice President JD Vance's trip to Pakistan for peace talks with Iran is on hold for now. We hear more from Republican strategist Lanhee Chen and Jeanne Sheehan Zaino, a Bloomberg contributor, on \"Balance of Power.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/vance-trip-to-pakistan-is-on-hold-nyt-reports-video",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "18:33",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-04-21-9e431223",
-      "headline": "What to Know About Virginia’s Redistricting Fight",
-      "summary": "The election on Tuesday is part of a coast-to-coast fight between Republicans and Democrats ahead of the midterms.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/21/us/elections/virginia-gerrymandering-election-midterms.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-21",
-      "time": "14:17",
-      "conflict_id": null,
-      "score": 41.2
     },
     {
       "id": "2026-04-21-c0c9f823",
@@ -228,34 +186,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-04-21-eee0338f",
-      "headline": "Qatar backs ceasefire as uncertainty surrounds US-Iran peace talks in Islamabad",
-      "summary": "Qatar has urged diplomacy on Tuesday as uncertainty surrounds US-Iran talks, warning prolonged tensions risk wider global fallout, particularly if disruption in the Strait of Hormuz affects energy flows and markets.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/21/qatar-backs-ceasefire-as-uncertainty-surrounds-us-iran-peace-talks-in-islamabad",
-      "region": "MENA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "15:03",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-04-21-d536730b",
-      "headline": "What do we know about the ABINSK ship, and why wasn't it stopped?",
-      "summary": "The ship recently docked at an Israeli port and is en route to Turkey despite allegations it is carrying wheat from Russian-occupied Ukraine.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/21/what-do-we-know-about-the-abinsk-ship-and-why-wasnt-it-stopped",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-04-21-e785ea0a",
       "headline": "Iran sees mass redundancies from war with US and Israel",
       "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
@@ -266,6 +196,34 @@
       "category": "geopolitics",
       "date": "2026-04-21",
       "time": "16:05",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-21-86194883",
+      "headline": "Madonna offers reward for return of missing Coachella costume",
+      "summary": "The items, which she says are \"part of my history\", disappeared after her slot with Sabrina Carpenter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crm19j48wnno?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "10:29",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-21-8f32f3e7",
+      "headline": "The Onion launches new effort to turn Infowars into parody website",
+      "summary": "The new proposal would involve the publication licensing Alex Jones's company, which faces liquidation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgr7dw55lwo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-21",
+      "time": "09:28",
       "conflict_id": null,
       "score": 35.0
     },
@@ -312,6 +270,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-04-21-f78a489e",
+      "headline": "Commodity Traders Reap Billions in Profit as War Upends Markets",
+      "summary": "The world’s biggest energy traders are reaping a fresh profit bonanza as the war in Iran causes unprecedented disruption to oil markets.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/commodity-traders-reap-billions-in-profit-as-war-upends-markets",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "21:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-04-21-012ccbc5",
       "headline": "Bond Traders Bet on Post-War Calm to Keep Rates in Tight Range",
       "summary": "Traders are building up bets that bond market volatility will keep falling, even as a US-Iran peace agreement remains elusive.",
@@ -322,34 +294,6 @@
       "category": "business",
       "date": "2026-04-21",
       "time": "20:36",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-21-d206d93c",
-      "headline": "Warsh Says Fed ‘Must Stay in Its Lane’",
-      "summary": "Bloomberg's Mike McKee detailed changes to the Federal Reserve that fed chair nominee Kevin Warsh revealed in his confirmation hearing Tuesday, saying that Warsh may want to change or eliminate economic guidance. Warsh told Senators that he is not a fan of the Fed's forward guidance and feels that it sticks to it too closely. Warsh also indicated that he would aim to hem in federal reserve members speaking out ahead of rate decisions.  (Source: B",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/warsh-says-fed-must-stay-in-its-lane-video",
-      "region": "EU",
-      "country": "NATO",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "19:00",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-21-8d94c886",
-      "headline": "Warsh Pledges Independence But Dodges Questions on Rates",
-      "summary": "Kevin Warsh repeatedly pledged to act independently if he’s confirmed as the next Federal Reserve chair, rejecting Democratic concerns he would be a “sock puppet” for President Donald Trump, who continues to demand lower interest rates. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-21/warsh-pledges-independence-but-dodges-questions-on-rates-video-mo8xs4wh",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "18:07",
       "conflict_id": null,
       "score": 34.1
     },
@@ -396,6 +340,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-04-21-30e426d7",
+      "headline": "Senate Republicans Push Forward on Measure to Fund ICE Through 2029",
+      "summary": "The resolution would pave the way for Republicans to push through a $70 billion infusion to pay for immigration enforcement for the remainder of President Trump’s tenure.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/21/us/politics/senate-republicans-budget-ice.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "22:51",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-04-21-d9182f86",
       "headline": "The Redistricting War Has Come to Virginia",
       "summary": "Voters in Virginia are deciding whether to adopt a new gerrymandered congressional map that benefits Democrats. Nick Corasaniti, a politics reporter, explains the role Virginia’s new map is playing in the nationwide redistricting battle and its potential implications for the midterm elections.",
@@ -422,20 +380,6 @@
       "time": "20:35",
       "conflict_id": null,
       "score": 32.9
-    },
-    {
-      "id": "2026-04-21-b99c4ed9",
-      "headline": "Labor to tighten child NDIS eligibility to curb spending as Queensland MP warns change is ‘failing kids’",
-      "summary": "Health minister faces backlash from states as he announces major changes to scheme ahead of May budgetGet our breaking news email, free app or daily news podcastNational disability insurance scheme service providers will be required to undergo mandatory character checks and eligibility rules will be tightened further for children under 18, as Labor moves to curb growth in the $50bn program.But the health minister, Mark Butler, faces a backlash fr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/apr/21/labor-to-tighten-child-ndis-eligibility-to-curb-spending-as-queensland-mp-warns-change-is-failing-kids",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "12:30",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-04-21-438f1f55",
@@ -466,18 +410,18 @@
       "score": 31.4
     },
     {
-      "id": "2026-04-21-aa557111",
-      "headline": "EU to boost jet fuel imports from the United States amid shortage fears",
-      "summary": "EU Transport Commissioner Apostolos Tzitzikostas has said there are no indications of jet fuel shortages, but stressed the importance of acting quickly and appropriately. The use of emergency stocks is under consideration \"if real supply issues arise\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/21/eu-to-boost-jet-fuel-imports-from-the-united-states-amid-shortage-fears",
-      "region": "EU",
-      "country": "United States",
-      "category": "business",
+      "id": "2026-04-21-e1e75b12",
+      "headline": "China cuts gasoline price for 1st time this year despite Iran war",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/china-cuts-gasoline-price-for-1st-time-this-year-despite-iran-war",
+      "region": "MENA",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-04-21",
-      "time": "15:31",
+      "time": "",
       "conflict_id": null,
-      "score": 29.0
+      "score": 30.8
     },
     {
       "id": "2026-04-21-bf655835",
@@ -508,18 +452,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-21-77ce677e",
-      "headline": "Lufthansa cuts 20,000 flights to save fuel as prices soar",
-      "summary": "Move comes as European transport ministers gather to discuss plans to prevent region running short of jet fuel",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bd0e3253-74ca-4ef3-86b4-ce61d7c714ed",
+      "id": "2026-04-21-8d3b31b2",
+      "headline": "Why police are seeking to arrest billionaire K-pop mogul behind BTS",
+      "summary": "Bang Si-hyuk, who created the supergroup, denies defrauding investors before his $7.3bn company went public.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz78zj74548o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Europe",
+      "country": null,
       "category": "politics",
       "date": "2026-04-21",
-      "time": "17:20",
+      "time": "22:28",
       "conflict_id": null,
-      "score": 26.4
+      "score": 27.0
     },
     {
       "id": "2026-04-21-9bb4a650",
@@ -564,6 +508,62 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-21-4c0f6d3a",
+      "headline": "Men’s Wearhouse Owner Files Confidentially for IPO",
+      "summary": "Tailored Brands Inc. filed confidentially for an initial public offering, positioning the menswear company to return to public markets later this year after filing for bankruptcy during the pandemic.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/men-s-wearhouse-owner-files-confidentially-for-ipo",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "22:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-21-03c9f6e2",
+      "headline": "Investor-Friendly Bill Seeks to Revive Bolivia’s Gas Sector",
+      "summary": "Bolivia is trying to attract investors to revive its dilapidated hydrocarbons sector with an investor-friendly bill that would limit the share of revenues taken by the state.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/investor-friendly-bill-seeks-to-revive-bolivia-s-gas-sector",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "22:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-21-0eef7eaf",
+      "headline": "Optiver Taps Former Citadel Trader for Options Expansion",
+      "summary": "Optiver has recruited Lawrence Tanzman from Citadel Securities as the Dutch market maker expands into handling options trades sent by retail brokerages, a business long dominated by the Ken Griffin-owned firm.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/optiver-taps-former-citadel-trader-for-options-expansion",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "21:54",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-21-94f76dd9",
+      "headline": "Housing REIT National Healthcare’s US IPO Raises $462 Million",
+      "summary": "National Healthcare Properties Inc., a real estate investment trust, raised $462 million in ah initial public offering priced below the marketed range.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-21/housing-reit-national-healthcare-s-us-ipo-raises-462-million",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-21",
+      "time": "21:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-21-89aee3f0",
       "headline": "Baird Capital Raises $450 Million for Private Equity Fund",
       "summary": "The private equity arm of financial services firm Robert W. Baird &amp; Co. has raised $450 million for a fund that will invest in lower middle market companies in the US and the UK.",
@@ -590,34 +590,6 @@
       "time": "20:24",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-04-21-7be3de19",
-      "headline": "Judge Bars Imminent Removal of D.C. Bike Lanes",
-      "summary": "A federal judge found the National Park Service had improperly rushed plans to strip out bike lanes connecting downtown Washington to the Tidal Basin.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/21/us/politics/judge-dc-bike-lanes.html",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "20:43",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-04-21-a3db143c",
-      "headline": "GOP strategists required to sign NDAs at meeting on midterm plans",
-      "summary": "The unusual secrecy surrounding the Waldorf Astoria meeting has frustrated some looking for funding clues as Trump’s popularity has dropped to near historic lows.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/21/trump-political-consultants-non-disclosure-agreements/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "17:29",
-      "conflict_id": null,
-      "score": 24.9
     },
     {
       "id": "2026-04-21-02e4a747",
@@ -662,16 +634,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-21-1d8b2747",
-      "headline": "Australia news live: NDIS savings to fund better aged care including showers, minister says; fourth man charged over alleged Baghsarian kidnapping murder",
-      "summary": "Labor says cuts to disability scheme mean elderly will get more help. Follow today’s news liveGet our breaking news email, free app or daily news podcastGreens say community has ‘no confidence’ proposed savings from NDIS will help disabled AustraliansJordon Steele-John, the Greens’ spokesperson for disability inclusion, said there is “no confidence” in the community regarding proposed savings from the NDIS, set to be revealed by health minister M",
+      "id": "2026-04-21-d88e4a9c",
+      "headline": "News live: NDIS savings to fund better aged care including showers, minister says; rising mouse numbers reported in regional Australia",
+      "summary": "Labor says cuts to disability scheme mean elderly will get more help. Follow today’s news liveGet our breaking news email, free app or daily news podcastFarmers promised more fertiliser importsAustralian farmers are being promised more fertiliser imports under a deal struck between the federal government and two major companies, aimed at securing supplies in response to a global bottleneck, AAP reports.We’ve always said through this generational ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/22/australia-news-live-ndis-savings-cuts-mark-butler-aged-care-cost-of-living-budget-jim-chalmers-labor-coalition-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-04-21",
-      "time": "21:50",
+      "time": "22:42",
       "conflict_id": null,
       "score": 24.0
     },
@@ -702,6 +674,20 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-04-21-377c59c2",
+      "headline": "Peru’s election chief steps down amid frustration over long vote count",
+      "summary": "Ballot delivery delays and other missteps on election day have contributed to frustration with electoral authorities.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/21/perus-election-chief-steps-down-amid-frustration-over-long-vote-count?traffic_source=rss",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-04-21",
+      "time": "22:14",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-04-21-0a3b54fe",
@@ -816,20 +802,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-21-eb564b3c",
-      "headline": "German police launch mass raids of 50 premises to smash Syrian trafficking ring",
-      "summary": "Police believe the ring operated by using genuine residency documents issued to Syrian refugees in Germany, which were sent to people in Syria with a similar appearance.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/21/german-police-launch-mass-raids-of-50-premises-to-smash-syrian-trafficking-ring",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-04-21",
-      "time": "18:03",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-20-c18a8e20",
       "headline": "Oil, Gas Whipsaw Post-Settlement as Trump Extends Iran Ceasefire",
       "summary": "Oil and gas whipsawed in post-settlement trading as US President Donald Trump extended a ceasefire with Iran even as peace talks falter and a blockade of the Strait of Hormuz keeps flows locked up.",
@@ -855,7 +827,7 @@
       "date": "2026-04-20",
       "time": "21:52",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-04-20-073e0a04",
@@ -886,32 +858,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-20-18fc29f5",
-      "headline": "Are insider traders making millions from the Iran war?",
-      "summary": "The BBC has found significant spikes in activity shortly before the US president made some announcements.",
+      "id": "2026-04-20-dd84b334",
+      "headline": "Victory slips away as marathon runner celebrates too soon",
+      "summary": "The dramatic end to the Delaware Marathon occurred when the lead runner slowed in celebration before a trailing marathoner sprinted toward the finish line .",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c9qd9335838o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
+      "url": "https://www.bbc.com/news/videos/cvg09900zx5o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-04-20",
-      "time": "12:14",
+      "time": "16:02",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-04-20-bf0fca6a",
-      "headline": "Gold Falls Most in Two Weeks as US-Iran Talks Hang in Balance",
-      "summary": "Gold declined the most in more than two weeks as US President Donald Trump said he would extend the ceasefire with Iran, after plans for diplomatic talks between the two countries were scrapped.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-20/gold-steadies-as-traders-weigh-next-round-of-us-iran-peace-talks",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "22:14",
-      "conflict_id": null,
-      "score": 42.1
+      "score": 35.0
     },
     {
       "id": "2026-04-20-824c09ab",
@@ -1012,6 +970,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-04-19-5813870f",
+      "headline": "French peacekeeper killed in southern Lebanon",
+      "summary": "President Macron blames the attack on Hezbollah. The Iran-backed armed group denies \"any connection\" to the incident.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg4mrm2vm0o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "11:39",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-19-009f0112",
       "headline": "Australia's most-decorated soldier vows to fight war crime charges",
       "summary": "Ben Roberts-Smith has given his first statement since he was charged with five counts of the war crime of murder last week.",
@@ -1110,6 +1082,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-04-17-448a3cbc",
+      "headline": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+      "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-17",
+      "time": "14:31",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-17-e8e1a180",
       "headline": "What we know about the Israel-Lebanon ceasefire",
       "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
@@ -1121,7 +1107,7 @@
       "date": "2026-04-17",
       "time": "14:56",
       "conflict_id": null,
-      "score": 51.0
+      "score": 35.0
     },
     {
       "id": "2026-04-17-f0ae1beb",
@@ -1178,20 +1164,6 @@
       "time": "21:10",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-14-7bcc8823",
-      "headline": "America’s corporate boards are under siege",
-      "summary": "Activist shareholders and regulatory changes are undermining their control",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/14/americas-corporate-boards-are-under-siege",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-04-14",
-      "time": "15:44",
-      "conflict_id": null,
-      "score": 25.8
     }
   ]
 }
