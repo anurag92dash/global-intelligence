@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T20:52:09.653361+00:00",
-  "story_count": 80,
+  "updated": "2026-04-22T21:42:53.144644+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
     {
@@ -46,6 +46,20 @@
       "score": 57.2
     },
     {
+      "id": "2026-04-22-e5887e0e",
+      "headline": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
+      "summary": "Israeli forces raided the funeral of two Palestinians killed by settlers at a school in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/22/israeli-forces-fire-tear-gas-at-funeral-of-palestinians-killed-by-settlers?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "20:30",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
       "id": "2026-04-22-ab4a1b63",
       "headline": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
       "summary": "Systematic sexual violence and harassment by Israeli soldiers, settlers displacing Palestinians in occupied West Bank.",
@@ -70,20 +84,6 @@
       "category": "geopolitics",
       "date": "2026-04-22",
       "time": "17:48",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-04-22-38dddea6",
-      "headline": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
-      "summary": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "13:49",
       "conflict_id": null,
       "score": 51.0
     },
@@ -116,20 +116,6 @@
       "score": 48.9
     },
     {
-      "id": "2026-04-22-e0089851",
-      "headline": "Virginia passes redistricting measure that could help Democrats retake the House",
-      "summary": "The referendum creates as many as four Democratic-leaning districts in Virginia ahead of the midterm elections.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/21/virginia-redistrict-trump-referendum-jeffries/",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "00:51",
-      "conflict_id": null,
-      "score": 48.9
-    },
-    {
       "id": "2026-04-22-06cab54b",
       "headline": "Ukraine restarts Russian oil to Europe, unblocking 90-billion-euro EU loan",
       "summary": "Resumption of oil deliveries enables Hungary to lift veto, with EU&#039;s 27 members now on track to formally approve loan.",
@@ -142,6 +128,20 @@
       "time": "16:12",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-04-22-76d67c51",
+      "headline": "Turkiye making efforts to revive Russia-Ukraine talks, says Erdogan",
+      "summary": "Turkish president meets NATO chief as Kyiv asks Ankara to host a leaders&#039; level meeting with Russia.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/turkiye-making-efforts-to-revive-russia-ukraine-talks-says-erdogan?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "21:09",
+      "conflict_id": "ukraine-war",
+      "score": 43.4
     },
     {
       "id": "2026-04-22-5065f7b0",
@@ -158,20 +158,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-04-22-28e19199",
-      "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
-      "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "18:10",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-22-00be6b11",
       "headline": "Trump buys time for Iran deal after frantic day of diplomacy",
       "summary": "The US president's decision marked the second time in as many weeks he has backed off a threat to escalate the war, buying more time.",
@@ -182,6 +168,20 @@
       "category": "geopolitics",
       "date": "2026-04-22",
       "time": "00:32",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-22-38dddea6",
+      "headline": "Virginia approves redistricting measure, boosting Democrats' hopes for midterms",
+      "summary": "The new maps approved by the state's voters could allow Democrats to flip as many as four House seats.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c895j8zgqe4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-22",
+      "time": "13:49",
       "conflict_id": null,
       "score": 43.0
     },
@@ -198,20 +198,6 @@
       "time": "07:12",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-22-70c53bfe",
-      "headline": "Crypto billionaire Justin Sun sues Trump family’s World Liberty Financial",
-      "summary": "Fraud claims come amid escalating feud between the Trump venture and one of its biggest supporters",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d8ba5daa-2af8-4242-b875-e4ebb4d9dbb8",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "18:13",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-04-22-ba4a48fa",
@@ -256,18 +242,18 @@
       "score": 41.2
     },
     {
-      "id": "2026-04-22-a6b378ea",
-      "headline": "Virginia Passes Gerrymandered Map to Help Democrats in Midterms: 4 Takeaways",
-      "summary": "Virginia’s approval of an aggressive gerrymander could give Democrats up to four additional House seats as they seek to win back Congress.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html",
+      "id": "2026-04-22-e0089851",
+      "headline": "Virginia passes redistricting measure that could help Democrats retake the House",
+      "summary": "The referendum creates as many as four Democratic-leaning districts in Virginia ahead of the midterm elections.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/21/virginia-redistrict-trump-referendum-jeffries/",
       "region": "NA",
-      "country": "Congress",
+      "country": null,
       "category": "politics",
       "date": "2026-04-22",
-      "time": "06:31",
+      "time": "00:51",
       "conflict_id": null,
-      "score": 41.2
+      "score": 40.9
     },
     {
       "id": "2026-04-22-87489c53",
@@ -284,18 +270,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-04-22-947e4b97",
-      "headline": "Blockchain billionaire Sun takes Trump family’s crypto firm to court",
-      "summary": "World Liberty is under increasing scrutiny from some of its investors, who have complained about lack of transparency.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/4/22/blockchain-billionaire-sun-takes-trump-familys-crypto-firm-to-court?traffic_source=rss",
+      "id": "2026-04-22-28e19199",
+      "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
+      "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8x7kxjgq9xo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-04-22",
-      "time": "15:17",
+      "time": "18:10",
       "conflict_id": null,
-      "score": 39.4
+      "score": 35.0
     },
     {
       "id": "2026-04-22-6906da43",
@@ -338,6 +324,20 @@
       "time": "06:25",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-04-22-70c53bfe",
+      "headline": "Crypto billionaire Justin Sun sues Trump family’s World Liberty Financial",
+      "summary": "Fraud claims come amid escalating feud between the Trump venture and one of its biggest supporters",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d8ba5daa-2af8-4242-b875-e4ebb4d9dbb8",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-22",
+      "time": "18:13",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-04-22-2642c7b0",
@@ -438,6 +438,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-04-22-0e456ef6",
+      "headline": "Australia news live: rental vacancies at record low in most big cities and prices rising",
+      "summary": "Data shows the market is at its tightest ever with rents going up in most capitals. Follow today’s news liveGet our breaking news email, free app or daily news podcastGreens call for a rent freeze during the fuel crisisThe Greens are calling on Anthony Albanese to use Thursday’s meeting of the national cabinet to coordinate a country-wide rent freeze and a moratorium on evictions for the duration of the fuel crisis.Renters around the country are ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "21:19",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-04-22-13a82958",
       "headline": "Trump calls Virginia election ‘rigged’ after redistricting referendum",
       "summary": "Trump’s comments came after the Virginia measure passed by a slim margy of 51.4 in favour and 48.5 against.",
@@ -452,18 +466,18 @@
       "score": 31.4
     },
     {
-      "id": "2026-04-22-851f1b07",
-      "headline": "Nepal’s home minister resigns, second cabinet exit in one month",
-      "summary": "Sudan Gurung steps down after less than a month in office, citing questions about his investments ​and other matters.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/nepals-home-minister-resigns-second-cabinet-exit-in-one-month?traffic_source=rss",
-      "region": "SA",
-      "country": "Nepal",
-      "category": "politics",
+      "id": "2026-04-22-4428c841",
+      "headline": "China carmaker Chery, delivery app Meituan dive into nuclear fusion research",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/china-carmaker-chery-delivery-app-meituan-dive-into-nuclear-fusion-research",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-04-22",
-      "time": "15:19",
+      "time": "",
       "conflict_id": null,
-      "score": 31.4
+      "score": 30.8
     },
     {
       "id": "2026-04-22-87135a07",
@@ -522,6 +536,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-22-aab33327",
+      "headline": "Rogers Hits Estimates, Boosts Cash Outlook on Spending Cut",
+      "summary": "Rogers Communications Inc. matched analysts’ earnings estimates and raised its 2026 outlook for free cash flow as it cuts capital spending. The shares jumped the most in six years.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/rogers-matches-estimates-as-sports-assets-drive-media-growth",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "11:16",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-22-7ff63849",
+      "headline": "KKR Invests $1.5 Billion in Tower Operator Vertical Bridge",
+      "summary": "KKR &amp; Co. is investing $1.5 billion in Vertical Bridge REIT LLC in a deal that people familiar with the matter said values the tower operator at $10 billion to $15 billion.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/kkr-is-said-to-invest-1-5-billion-in-tower-firm-vertical-bridge",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-22",
+      "time": "19:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-22-490b42c4",
+      "headline": "BofA's Theisen: Markets Adapting Well to Volatility",
+      "summary": "Bank of America Global Head of FICC E-Trading and Markets Strategic Investments Sonali Theisen discusses the key factors currently driving market activity and how ETFs have 'created a language' in fixed income. She talks with Katie Greifeld and Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-22/bofa-s-theisen-markets-adapting-well-to-volatility-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "20:51",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-22-26ee797f",
       "headline": "Tesla’s Earnings Beat Expectations Amid Focus on Robotics, Driverless Cars",
       "summary": "Bloomberg's Steve Man breaks down Tesla earnings that beat expectations, sending the EV maker's stock up in the aftermarket. Tesla earnings. \nThe positive report comes as Tesla has been trying to ramp up sluggish sales in the US and Europe and as well as new production, turning its focus to robotics and self driving cars. (Source: Bloomberg)",
@@ -550,58 +606,30 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-22-ae1e3165",
-      "headline": "Getty Images Downgraded on Weaker Liquidity, Merger Doubt",
-      "summary": "Moody’s Ratings cut Getty Images Inc.’s credit rating deeper into junk territory, citing weakening liquidity, with lingering uncertainty over a potential merger with Shutterstock Inc. adding to the pressure.",
+      "id": "2026-04-22-c075b3fc",
+      "headline": "Blackstone Private Credit Fund Draws Strong Demand for Bond Sale",
+      "summary": "Blackstone Inc. offered further evidence that concerns about private credit cracks are easing after an $850 million bond sale for one of its funds attracted about $4.3 billion of demand.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/getty-images-downgraded-on-weaker-liquidity-merger-uncertainty",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/blackstone-private-credit-fund-looks-to-sell-high-grade-bonds",
       "region": "NA",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-04-22",
-      "time": "05:56",
+      "time": "14:21",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-04-22-835f6da1",
-      "headline": "Citadel’s Yearslong Spirit Bet Faces New Risk on US Rescue Plan",
-      "summary": "Ken Griffin’s Citadel has been intertwined in Spirit Aviation Holdings Inc.’s bankruptcies over the past two years. It even parted ways earlier this year with a portfolio manager after a series of losses that included a soured bet on the distressed budget carrier.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/citadel-s-yearslong-spirit-bet-faces-new-risk-on-us-rescue-plan",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "20:17",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-22-b2632fa8",
-      "headline": "ECB’s Lane Sees ‘Natural’ Fiscal Case for Europe Common Debt",
-      "summary": "European Central Bank Chief Economist Philip Lane said there’s a logical fiscal case for the region’s nations to issue joint bonds, though such a move would need to be underpinned by trust.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/ecb-s-lane-sees-natural-fiscal-case-for-european-common-debt",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "07:40",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-22-0e456ef6",
-      "headline": "Australia news live: rental vacancies at record low in most big cities and prices rising",
-      "summary": "Data shows the market is at its tightest ever with rents going up in most capitals. Follow today’s news liveGet our breaking news email, free app or daily news podcastGood morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it will be Nick Visser with the main action.Mark Butler told the ABC last night that the Albanese government’s sweeping changes to the national disability insurance scheme are e",
+      "id": "2026-04-22-71639e85",
+      "headline": "Governments failed to deliver $160m of river improvements including for now-parched NSW wetlands, report finds",
+      "summary": "NSW and Queensland governments ‘severely underdelivered’ on promised infrastructure to improve water flows, independent review findsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTwo state governments have drastically underdelivered more than $160m in infrastructure measures to improve river health in the northern Murray-Darling basin eight years since they were promised, a major i",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+      "url": "https://www.theguardian.com/environment/2026/apr/23/governments-failed-to-deliver-160m-of-river-improvements-including-for-now-parched-nsw-wetlands-report-finds",
       "region": "APJ",
       "country": "Australia",
-      "category": "business",
+      "category": "politics",
       "date": "2026-04-22",
-      "time": "20:30",
+      "time": "15:00",
       "conflict_id": null,
       "score": 24.0
     },
@@ -648,18 +676,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-04-22-25e1c09d",
-      "headline": "Pakistan out of women’s football tournament in India over political strife",
-      "summary": "Pakistani government bars football team from participating in the SAFF Women&#039;s Championship hosted in Goa, India.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/4/22/pakistan-out-of-womens-football-tournament-in-india-over-political-strife?traffic_source=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "politics",
+      "id": "2026-04-22-c0799522",
+      "headline": "Inpex will prioritize crude oil sales to Japan refiners, CEO says",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/inpex-will-prioritize-crude-oil-sales-to-japan-refiners-ceo-says",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
       "date": "2026-04-22",
-      "time": "14:57",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-04-22-f04850be",
@@ -812,20 +840,6 @@
       "category": "geopolitics",
       "date": "2026-04-21",
       "time": "15:53",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-21-29dd60a3",
-      "headline": "Ukraine family get cancer and bomb news on same day",
-      "summary": "The couple learn the home in Ukraine is hit by drones on the day of their baby's cancer diagnosis.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr71de8x557o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "14:10",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1036,34 +1050,6 @@
       "category": "politics",
       "date": "2026-04-19",
       "time": "23:12",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-19-0e71b1d0",
-      "headline": "Art on trial - a sculptor's arrest highlights new extremes for censorship in China",
-      "summary": "Gao Zhen is being retroactively punished for 15 year-old-works, in a case that has alarmed rights groups.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cddqpr7z74yo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "22:53",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-19-2d3bc6ab",
-      "headline": "Drone footage shows huge Malaysian coastal village fire",
-      "summary": "Thousands of people have been displaced after a fire destroyed around 1,000 homes in Malaysia's Sabah state.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c4gjk99vp87o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Malaysia",
-      "category": "geopolitics",
-      "date": "2026-04-19",
-      "time": "16:05",
       "conflict_id": null,
       "score": 27.0
     },
