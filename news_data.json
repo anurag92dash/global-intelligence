@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-22T19:58:35.696604+00:00",
-  "story_count": 77,
-  "source_count": 9,
+  "updated": "2026-04-22T20:52:09.653361+00:00",
+  "story_count": 80,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-04-22-82dae5c1",
@@ -30,6 +30,34 @@
       "time": "15:25",
       "conflict_id": "ukraine-war",
       "score": 60.0
+    },
+    {
+      "id": "2026-04-22-e03e0ef0",
+      "headline": "In Virginia Redistricting Win, Democrats Play Hardball to Thwart Trump",
+      "summary": "“We cannot bring a stick to a knife fight”: Democrats are increasingly open to extreme measures, including gerrymandering, when the stakes are high.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "20:03",
+      "conflict_id": null,
+      "score": 57.2
+    },
+    {
+      "id": "2026-04-22-ab4a1b63",
+      "headline": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
+      "summary": "Systematic sexual violence and harassment by Israeli soldiers, settlers displacing Palestinians in occupied West Bank.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/22/sexual-violence-in-the-west-bank-emerges-as-tool-to-intimidate-palestinians?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "19:59",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-04-22-06d2128a",
@@ -72,20 +100,6 @@
       "time": "16:48",
       "conflict_id": null,
       "score": 50.4
-    },
-    {
-      "id": "2026-04-22-e03e0ef0",
-      "headline": "In Virginia Redistricting Win, Democrats Play Hardball to Thwart Trump",
-      "summary": "“We cannot bring a stick to a knife fight”: Democrats are increasingly open to extreme measures, including gerrymandering, when the stakes are high.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/22/us/elections/virginia-redistricting-trump-democrats.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-22",
-      "time": "17:02",
-      "conflict_id": null,
-      "score": 49.2
     },
     {
       "id": "2026-04-22-54b32a0c",
@@ -144,20 +158,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-04-22-6073d280",
-      "headline": "US and Iran in blockade standoff as Pakistan pushes for talks",
-      "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0q9xq7knq2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-22",
-      "time": "16:19",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-22-28e19199",
       "headline": "Billionaire backer sues Trump family's crypto firm over alleged extortion",
       "summary": "Billionaire investor Justin Sun is suing the family's World Liberty crypto venture after spending $45m on its tokens.",
@@ -200,20 +200,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-22-d71a7d1e",
-      "headline": "US allies in Gulf and Asia have requested swap lines, Bessent says",
-      "summary": "Treasury secretary says ‘numerous’ countries sought support amid economic fallout from Iran war",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c6581d09-b86e-4372-8f14-d0153f8a7bf5",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-22",
-      "time": "18:35",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
       "id": "2026-04-22-70c53bfe",
       "headline": "Crypto billionaire Justin Sun sues Trump family’s World Liberty Financial",
       "summary": "Fraud claims come amid escalating feud between the Trump venture and one of its biggest supporters",
@@ -228,9 +214,23 @@
       "score": 42.4
     },
     {
-      "id": "2026-04-22-62307250",
-      "headline": "US Stocks On Track For Record Close as Trump Extends Iran Truce",
-      "summary": "US stocks headed for a fresh all-time closing high on Wednesday as President Donald Trump’s ceasefire extension with Iran boosted optimism among traders.",
+      "id": "2026-04-22-ba4a48fa",
+      "headline": "The World Will Never Forget the Hormuz Crisis",
+      "summary": "Chokepoints are here to stay.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-04-22/the-world-will-never-forget-the-hormuz-crisis",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "20:45",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
+      "id": "2026-04-22-be6d63bd",
+      "headline": "US Stocks Set Fresh Record High as Trump Extends Iran Ceasefire",
+      "summary": "US stocks closed at a fresh record high on Wednesday as President Donald Trump’s ceasefire extension with Iran boosted optimism among traders.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-22/us-futures-advance-as-president-trump-extends-truce-with-iran",
       "region": "NA",
@@ -240,6 +240,20 @@
       "time": "12:02",
       "conflict_id": null,
       "score": 42.1
+    },
+    {
+      "id": "2026-04-22-b082fc84",
+      "headline": "How the War Powers Act Could Pressure Trump to End the Iran War",
+      "summary": "A decades-old law allows the president to wage war without congressional approval for 60 days, then limits his options for continuing. President Trump may seek to get around it.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/22/us/politics/war-powers-act-explanation.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "18:32",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-04-22-a6b378ea",
@@ -326,16 +340,44 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-22-3a5fdb31",
-      "headline": "Bessent Says Gulf, Asian Allies Requested Currency Swap Lines",
-      "summary": "Treasury Secretary Scott Bessent said Wednesday that many Persian Gulf allies along with a number of Asian nations have requested foreign exchange swap lines with the US, and pointed to the potential for such arrangements to support dollar-denominated lending overseas.",
+      "id": "2026-04-22-2642c7b0",
+      "headline": "Chip Stocks Rally for Record 16th Straight Day on AI Optimism",
+      "summary": "An index tracking semiconductor stocks posted its all-time longest streak of daily gains, as investors anticipate strong growth for the sector driven by demand related to artificial intelligence.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/bessent-says-many-us-allies-in-gulf-asia-requested-swap-lines",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/chipmakers-on-track-for-longest-ever-rally-amid-ai-optimism",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-04-22",
-      "time": "15:00",
+      "time": "14:22",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-22-5d10fb94",
+      "headline": "Head of Bolivian State Oil Company Quits After Less Than a Month",
+      "summary": "The head of Bolivia’s state-run oil company stepped down just three weeks into the job, as the country struggles with an energy crisis that’s left long lines at gas stations in major cities.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/head-of-bolivian-state-oil-company-ypfb-quits-after-less-than-a-month",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "20:01",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-22-e5e9d1de",
+      "headline": "Trump Media CEO Exit Caps a 90% Drop as MAGA Stocks Stumble",
+      "summary": "Truth Social has rarely been more important on Wall Street, where traders hang on White House posts that can send the market tumbling or soaring back up again. The company’s stock, though, is much less in vogue.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/trump-media-ceo-s-exit-caps-a-90-drop-as-maga-stocks-stumble",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "16:17",
       "conflict_id": null,
       "score": 34.1
     },
@@ -354,18 +396,18 @@
       "score": 33.2
     },
     {
-      "id": "2026-04-22-0e370765",
-      "headline": "Here’s Where the National Fight Over Gerrymandered Maps Stands",
-      "summary": "With Virginia’s vote on Tuesday, Democrats pulled close to even with Republicans, who may have further cards to play in the race to gain extra House seats.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/21/us/elections/democrats-republicans-gerrymandering-maps.html",
+      "id": "2026-04-22-48c5dc34",
+      "headline": "Former congressman Devin Nunes departs as CEO of Trump media company",
+      "summary": "The onetime lawmaker is leaving Trump Media & Technology, which operates the social media platform Truth Social.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/22/devin-nunes-leaves-truth-social/",
       "region": "NA",
-      "country": null,
+      "country": "Congress",
       "category": "politics",
       "date": "2026-04-22",
-      "time": "02:42",
+      "time": "20:28",
       "conflict_id": null,
-      "score": 33.2
+      "score": 32.9
     },
     {
       "id": "2026-04-22-f28e7de8",
@@ -378,20 +420,6 @@
       "category": "politics",
       "date": "2026-04-22",
       "time": "18:43",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-04-22-dc14e553",
-      "headline": "Mapping where the redistricting fight stands and where it’s headed",
-      "summary": "As Trump pushes for a more Republican-friendly House map, more than half a dozen states are potential targets for mid-decade tweaks to congressional boundaries.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2025/08/20/congressional-redistricting-states-midterms/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "13:47",
       "conflict_id": null,
       "score": 32.9
     },
@@ -410,6 +438,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-04-22-13a82958",
+      "headline": "Trump calls Virginia election ‘rigged’ after redistricting referendum",
+      "summary": "Trump’s comments came after the Virginia measure passed by a slim margy of 51.4 in favour and 48.5 against.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/trump-calls-virginia-election-rigged-after-redistricting-referendum?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-22",
+      "time": "20:09",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-04-22-851f1b07",
       "headline": "Nepal’s home minister resigns, second cabinet exit in one month",
       "summary": "Sudan Gurung steps down after less than a month in office, citing questions about his investments ​and other matters.",
@@ -422,6 +464,20 @@
       "time": "15:19",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-04-22-87135a07",
+      "headline": "AI lifts Tokyo, Korea stocks to record highs despite Mideast uncertainty",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/ai-lifts-tokyo-korea-stocks-to-record-highs-despite-mideast-uncertainty",
+      "region": "APJ",
+      "country": "Tokyo",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-04-22-8ff55c4a",
@@ -466,30 +522,58 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-22-29613563",
-      "headline": "Jay Leno Hypes Up Burbank Airport Bond Sale to Muni Investors",
-      "summary": "Jay Leno’s latest hosting gig involves a classic car, an airport construction site and municipal bonds.",
+      "id": "2026-04-22-26ee797f",
+      "headline": "Tesla’s Earnings Beat Expectations Amid Focus on Robotics, Driverless Cars",
+      "summary": "Bloomberg's Steve Man breaks down Tesla earnings that beat expectations, sending the EV maker's stock up in the aftermarket. Tesla earnings. \nThe positive report comes as Tesla has been trying to ramp up sluggish sales in the US and Europe and as well as new production, turning its focus to robotics and self driving cars. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/jay-leno-hypes-up-burbank-airport-bond-sale-to-muni-investors",
-      "region": "NA",
-      "country": null,
+      "url": "https://www.bloomberg.com/news/videos/2026-04-22/tesla-earnings-beat-expectations-amid-focus-on-robotics-video",
+      "region": "EU",
+      "country": "Europe",
       "category": "business",
       "date": "2026-04-22",
-      "time": "19:29",
+      "time": "20:36",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-04-22-e5e9d1de",
-      "headline": "Trump Media CEO Exit Caps a 90% Drop as MAGA Stocks Stumble",
-      "summary": "Truth Social has rarely been more important on Wall Street, where traders hang on White House posts that can send the market tumbling or soaring back up again. The company’s stock, though, is much less in vogue.",
+      "id": "2026-04-22-89648103",
+      "headline": "Tesla 1Q Earnings Beat Estimates Sending Share Higher",
+      "summary": "Ed Ludlow gives us a first read on Tesla's first-quarter earning which beat Wall Street estimates. Adjusted earnings per share were 41 cents beating the estimate of 34 cents. Share rose sharply after regular trading in New York. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/trump-media-ceo-s-exit-caps-a-90-drop-as-maga-stocks-stumble",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-22/tesla-1q-earnings-beat-estimates-sending-share-higher-video",
       "region": "NA",
-      "country": "White House",
+      "country": null,
       "category": "business",
       "date": "2026-04-22",
-      "time": "16:17",
+      "time": "20:24",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-22-ae1e3165",
+      "headline": "Getty Images Downgraded on Weaker Liquidity, Merger Doubt",
+      "summary": "Moody’s Ratings cut Getty Images Inc.’s credit rating deeper into junk territory, citing weakening liquidity, with lingering uncertainty over a potential merger with Shutterstock Inc. adding to the pressure.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/getty-images-downgraded-on-weaker-liquidity-merger-uncertainty",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "05:56",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-22-835f6da1",
+      "headline": "Citadel’s Yearslong Spirit Bet Faces New Risk on US Rescue Plan",
+      "summary": "Ken Griffin’s Citadel has been intertwined in Spirit Aviation Holdings Inc.’s bankruptcies over the past two years. It even parted ways earlier this year with a portfolio manager after a series of losses that included a soured bet on the distressed budget carrier.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/citadel-s-yearslong-spirit-bet-faces-new-risk-on-us-rescue-plan",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "20:17",
       "conflict_id": null,
       "score": 26.1
     },
@@ -508,46 +592,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-22-c7aed308",
-      "headline": "Centerview’s Tony Kim Says AI Changes Pace, Structure of Deals",
-      "summary": "The pace of advances in artificial intelligence is changing the structure of how deals are getting done in the space, according to Tony Kim, Centerview Partners’ co-president of investment banking.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/centerview-s-tony-kim-says-ai-changes-pace-structure-of-deals",
-      "region": "NA",
-      "country": null,
+      "id": "2026-04-22-0e456ef6",
+      "headline": "Australia news live: rental vacancies at record low in most big cities and prices rising",
+      "summary": "Data shows the market is at its tightest ever with rents going up in most capitals. Follow today’s news liveGet our breaking news email, free app or daily news podcastGood morning and welcome to our live news blog. I’m Martin Farrer with the top overnight stories and then it will be Nick Visser with the main action.Mark Butler told the ABC last night that the Albanese government’s sweeping changes to the national disability insurance scheme are e",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
       "category": "business",
       "date": "2026-04-22",
-      "time": "18:43",
+      "time": "20:30",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-22-581b5574",
-      "headline": "Texas Stock Exchange Expects First IPO in Early 2027",
-      "summary": "Jeb Hensarling, the former US representative who is now an adviser to the Texas Stock Exchange, says the first initial public offerings on the startup bourse may come in 2027's first quarter. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-22/texas-stock-exchange-expects-first-ipo-in-early-2027-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "18:09",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-22-d9703570",
-      "headline": "Leftist Candidate in Copper Giant Peru Wants New Mining Rules",
-      "summary": "A leftist presidential candidate on the verge of reaching Peru’s runoff election is pledging to overhaul mining rules in one of the world’s leading copper-exporting countries.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/leftist-candidate-in-copper-giant-peru-wants-new-mining-rules",
-      "region": "SA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "17:31",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 24.0
     },
     {
       "id": "2026-04-22-e05b0721",
@@ -602,20 +658,6 @@
       "category": "politics",
       "date": "2026-04-22",
       "time": "14:57",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-04-22-11fbed6f",
-      "headline": "Will Iraq’s Shia bloc overcome obstacles to pick the next PM?",
-      "summary": "The Shia-led Coordination Framework must nominate a prime minister by Sunday, as required by the constitution.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/will-iraqs-shia-bloc-overcome-obstacles-to-pick-the-next-pm?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iraq",
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "13:42",
       "conflict_id": null,
       "score": 23.4
     },
@@ -676,32 +718,46 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-22-87135a07",
-      "headline": "AI lifts Tokyo, Korea stocks to record highs despite Mideast uncertainty",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/ai-lifts-tokyo-korea-stocks-to-record-highs-despite-mideast-uncertainty",
-      "region": "APJ",
-      "country": "Tokyo",
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-22-09563547",
-      "headline": "Japan looks to invite Philippine President Marcos as state guest in May",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-looks-to-invite-philippine-president-marcos-as-state-guest-in-may",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-04-22-fb453f5a",
+      "headline": "Syria's president arrives in Qatar for talks after Saudi Arabia visit",
+      "summary": "Syria’s president Ahmed al-Sharaa visited Doha on Wednesday for talks with Qatar’s emir on economic cooperation, investment and post-al-Assad regional reintegration.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/22/syrias-president-arrives-in-qatar-for-talks-after-saudi-arabia-visit",
+      "region": "MENA",
+      "country": "Syria",
       "category": "politics",
       "date": "2026-04-22",
-      "time": "",
+      "time": "16:17",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-22-adf72c75",
+      "headline": "Deepfakes of frontline Ukrainian soldiers aim to undermine morale",
+      "summary": "Moscow is using AI-generated videos of Ukrainian soldiers to portray the country as weak and undermine trust in its central command.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/22/deepfakes-of-frontline-ukrainian-soldiers-aim-to-undermine-morale",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-22-7f5a5549",
+      "headline": "'Final rave': French ravers in Marseille fear harsh crackdown on free parties",
+      "summary": "In Marseille, France, revellers gathered to celebrate before the final adoption of the law tightening the penalties for ‘unauthorised parties’.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/04/22/final-rave-french-ravers-in-marseille-fear-harsh-crackdown-on-free-parties",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "14:54",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-04-21-cbf4b245",
@@ -715,7 +771,7 @@
       "date": "2026-04-21",
       "time": "17:17",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-04-21-1ea44300",
@@ -742,34 +798,6 @@
       "category": "business",
       "date": "2026-04-21",
       "time": "18:59",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-21-e785ea0a",
-      "headline": "Iran sees mass redundancies from war with US and Israel",
-      "summary": "The impact is being felt by manufacturers, retailers and the digital sector, amid warnings it could get worse if the war resumes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce84e31376zo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "16:05",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-21-95bc2e7c",
-      "headline": "Israeli soldiers punished over vandalism of Jesus statue in Lebanon",
-      "summary": "Two soldiers will be removed from combat duty and receive 30 days of military detention, Israel's military says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cew790ppn8jo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "16:13",
       "conflict_id": null,
       "score": 35.0
     },
@@ -953,7 +981,7 @@
       "date": "2026-04-20",
       "time": "21:52",
       "conflict_id": null,
-      "score": 52.0
+      "score": 51.0
     },
     {
       "id": "2026-04-20-b7c94317",
@@ -982,6 +1010,20 @@
       "time": "10:19",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-04-19-98249ffb",
+      "headline": "Tehran will never cede control of Strait of Hormuz, senior Iranian politician tells BBC",
+      "summary": "Lyse Doucet speaks to Ebrahim Azizi, who says Iran \"will decide the right of passage\" through the crucial shipping route.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg4jnn131qo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-04-19",
+      "time": "21:09",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-04-19-b50b6c5d",
