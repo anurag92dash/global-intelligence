@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-22T22:30:52.255390+00:00",
-  "story_count": 80,
+  "updated": "2026-04-22T23:30:42.051001+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
     {
@@ -88,6 +88,20 @@
       "score": 50.4
     },
     {
+      "id": "2026-04-22-be6d63bd",
+      "headline": "US Stocks Set Fresh Record High as Trump Extends Iran Ceasefire",
+      "summary": "US stocks closed at a fresh record high on Wednesday as President Donald Trump’s ceasefire extension with Iran boosted optimism among traders.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/us-futures-advance-as-president-trump-extends-truce-with-iran",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "12:02",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
       "id": "2026-04-22-54b32a0c",
       "headline": "Trump eyes Iran deal with many of the trade-offs he blasted Obama for accepting",
       "summary": "As U.S. envoys pursue peace talks, the president confronts persistent sticking points: sanctions relief, enrichment limits and the risk of empowering Tehran.",
@@ -127,20 +141,6 @@
       "date": "2026-04-22",
       "time": "21:09",
       "conflict_id": "ukraine-war",
-      "score": 43.4
-    },
-    {
-      "id": "2026-04-22-5065f7b0",
-      "headline": "Israeli settlers block Palestinian children from school in the West Bank",
-      "summary": "Students, teachers and families stage daily peaceful sit-ins at the site of the fence near Umm al-Khair village.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/22/israeli-settlers-block-palestinian-children-from-school-in-the-west-bank?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-22",
-      "time": "15:44",
-      "conflict_id": "israel-hamas",
       "score": 43.4
     },
     {
@@ -200,20 +200,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-04-22-be6d63bd",
-      "headline": "US Stocks Set Fresh Record High as Trump Extends Iran Ceasefire",
-      "summary": "US stocks closed at a fresh record high on Wednesday as President Donald Trump’s ceasefire extension with Iran boosted optimism among traders.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/us-futures-advance-as-president-trump-extends-truce-with-iran",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-22",
-      "time": "12:02",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-04-22-b082fc84",
       "headline": "How the War Powers Act Could Pressure Trump to End the Iran War",
       "summary": "A decades-old law allows the president to wage war without congressional approval for 60 days, then limits his options for continuing. President Trump may seek to get around it.",
@@ -240,6 +226,20 @@
       "time": "05:34",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-04-22-49043402",
+      "headline": "Iran war pushes China's solar exports to record high in March",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/iran-war-pushes-china-s-solar-exports-to-record-high-in-march",
+      "region": "MENA",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-04-22",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
     },
     {
       "id": "2026-04-22-28e19199",
@@ -326,46 +326,18 @@
       "score": 34.4
     },
     {
-      "id": "2026-04-22-d59a2d7a",
-      "headline": "Asian Equities to Rise After US Stocks Hit Record: Markets Wrap",
-      "summary": "Shares in Asia were primed for advances Thursday after robust US corporate results and an extension to the US-Iran ceasefire lifted Wall Street to a record.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "22:18",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-22-2642c7b0",
-      "headline": "Chip Stocks Rally for Record 16th Straight Day on AI Optimism",
-      "summary": "An index tracking semiconductor stocks posted its all-time longest streak of daily gains, as investors anticipate strong growth for the sector driven by demand related to artificial intelligence.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/chipmakers-on-track-for-longest-ever-rally-amid-ai-optimism",
+      "id": "2026-04-22-178ae4ea",
+      "headline": "Kalshi Fines and Suspends 3 Political Candidates for Betting on Their Races",
+      "summary": "The prediction market said the candidates violated new rules as it faces growing scrutiny from lawmakers and regulators over how political betting is policed.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/22/us/kalshi-suspends-politicians-trading-elections.html",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-04-22",
-      "time": "14:22",
+      "time": "22:43",
       "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-22-5d10fb94",
-      "headline": "Head of Bolivian State Oil Company Quits After Less Than a Month",
-      "summary": "The head of Bolivia’s state-run oil company stepped down just three weeks into the job, as the country struggles with an energy crisis that’s left long lines at gas stations in major cities.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/head-of-bolivian-state-oil-company-ypfb-quits-after-less-than-a-month",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "20:01",
-      "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
     },
     {
       "id": "2026-04-22-6889ecaa",
@@ -438,6 +410,34 @@
       "score": 32.0
     },
     {
+      "id": "2026-04-22-8aa4721c",
+      "headline": "Top ministers quit after Peru’s president postpones F-16 fighter jet deal",
+      "summary": "The Trump administration has warned against Peru pulling out of the deal, saying it reflects &#039;bad faith&#039; negotiations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/top-ministers-quit-after-perus-president-postpones-f-16-fighter-jet-deal?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-22",
+      "time": "22:44",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-04-22-12eb0fc9",
+      "headline": "Prediction market Kalshi docks three US candidates for betting on own races",
+      "summary": "Penalties come amid calls for greater oversight; company pledges to proactively police &#039;insider trading&#039; on platforms.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/22/prediction-market-kalshi-docks-three-us-candidates-for-betting-on-own-races?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "22:03",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-04-22-7d6f5bfa",
       "headline": "Man City topple Arsenal at Premier League summit with nervy win at Burnley",
       "summary": "Manchester City relegate Burnley with 1-0 win to also take top spot from Arsenal in the Premier League title race.",
@@ -460,20 +460,6 @@
       "region": "APJ",
       "country": "China",
       "category": "geopolitics",
-      "date": "2026-04-22",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-04-22-87135a07",
-      "headline": "AI lifts Tokyo, Korea stocks to record highs despite Mideast uncertainty",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/ai-lifts-tokyo-korea-stocks-to-record-highs-despite-mideast-uncertainty",
-      "region": "APJ",
-      "country": "Tokyo",
-      "category": "business",
       "date": "2026-04-22",
       "time": "",
       "conflict_id": null,
@@ -520,6 +506,48 @@
       "time": "11:34",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-22-d59a2d7a",
+      "headline": "Asian Equities to Rise After US Stocks Hit Record: Markets Wrap",
+      "summary": "Shares in Asia were primed for advances Thursday after robust US corporate results and the US said the truce agreed April 7 would stay in place indefinitely lifted Wall Street to a record.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "22:18",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-22-d47c3136",
+      "headline": "Australian Gas Exporter Santos Streamlines Firm to Cut Costs",
+      "summary": "Santos Ltd. is restructuring the company’s oil and gas business in order to cut costs, according to an internal notice seen by Bloomberg, after a string of stymied takeover bids in recent years that have raised pressure to increase shareholder returns.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/australian-gas-exporter-santos-streamlines-business-to-cut-costs",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "08:46",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-22-ae5e4475",
+      "headline": "Fair Isaac Slumps as Pulte Moves to Cut Credit Score Costs",
+      "summary": "Shares of Fair Isaac Corp., known as FICO, sank on Wednesday, after the US government took steps that officials said were aimed at cutting costs for credit scores and making homeownership accessible to a wider swath of buyers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-22/fair-isaac-shares-slump-as-pulte-moves-to-cut-credit-score-costs",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-22",
+      "time": "19:15",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-22-6d7e8697",
@@ -578,20 +606,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-22-c075b3fc",
-      "headline": "Blackstone Private Credit Fund Draws Strong Demand for Bond Sale",
-      "summary": "Blackstone Inc. offered further evidence that concerns about private credit cracks are easing after an $850 million bond sale for one of its funds attracted about $4.3 billion of demand.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-22/blackstone-private-credit-fund-looks-to-sell-high-grade-bonds",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "14:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-22-5eb87a31",
       "headline": "RFK Jr. Defends Trump’s Mathematically Impossible Drug Discount Claims",
       "summary": "President Trump has claimed that he has secured discounts of 400 to 1,500 percent on prescription drugs. A price discount cannot be more than 100 percent because that would lower the price to zero.",
@@ -604,34 +618,6 @@
       "time": "22:03",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-04-22-36ca1f9c",
-      "headline": "Sean Plankey, Trump’s Pick to Lead Cybersecurity Agency, Withdraws His Nomination",
-      "summary": "Confirmation for the nominee, Sean Plankey, had been pending in the Senate for over a year.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/22/us/politics/plankey-cisa-trump-withdraws.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "21:21",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-04-22-627f2669",
-      "headline": "Australia news live: James Valentine’s former colleagues pay tribute after death of broadcaster; rental vacancies at record low in most big cities",
-      "summary": "Robbie Buck and Wendy Harmer pay tribute to ABC radio presenter and musician who had been diagnosed with oesophageal cancer. Follow today’s news liveGet our breaking news email, free app or daily news podcastMark Butler says he understands NDIS changes may be ‘confronting’Health minister Mark Butler is making the rounds this morning after announcing major changes to the NDIS yesterday.I also understand that change, particularly significant change",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/apr/23/budget-cost-of-living-ndis-cuts-health-insurance-rebate-mark-butler-anthony-albanese-fuel-crisis-labor-coalition-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-04-22",
-      "time": "22:12",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-04-22-71639e85",
@@ -674,6 +660,20 @@
       "time": "18:12",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-04-22-604d293f",
+      "headline": "South Korea returns to growth in Q1 as GDP climbs 1.7%",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/south-korea-returns-to-growth-in-q1-as-gdp-climbs-1.7",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-04-22-c0799522",
@@ -1008,20 +1008,6 @@
       "category": "politics",
       "date": "2026-04-20",
       "time": "13:01",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-20-e063098a",
-      "headline": "Rebel Wilson's claims against actress are 'malicious concoctions', Australian court hears",
-      "summary": "Wilson has been accused of defaming the star of her film The Deb over an incident involving a bath in Bondi.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vn021mg9o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-04-20",
-      "time": "10:19",
       "conflict_id": null,
       "score": 27.0
     },
