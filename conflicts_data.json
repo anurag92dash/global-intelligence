@@ -10,18 +10,18 @@
     "last_activity": "2026-04-22",
     "recent_headlines": [
       {
-        "headline": "Ukraine Ready to Resume Druzhba Flows To Hungary, Slovakia",
-        "source": "Bloomberg",
-        "date": "2026-04-22"
-      },
-      {
         "headline": "EU close to signing off on critical €90bn loan for Ukraine after months of vetoing from Hungary – Europe live",
         "source": "The Guardian",
         "date": "2026-04-22"
       },
       {
-        "headline": "Europe can't 'rule out' a war with Russia says Sanna Marin",
-        "source": "Euronews",
+        "headline": "Ukraine Ready to Resume Druzhba Flows To Hungary, Slovakia",
+        "source": "Bloomberg",
+        "date": "2026-04-22"
+      },
+      {
+        "headline": "UK firms to face tougher checks on export licences to bolster sanctions on Russia",
+        "source": "The Guardian",
         "date": "2026-04-22"
       }
     ],
@@ -57,11 +57,6 @@
       {
         "headline": "Two Palestinians killed during settler attack on West Bank village, officials say",
         "source": "BBC News",
-        "date": "2026-04-21"
-      },
-      {
-        "headline": "EU foreign ministers reject proposal to suspend association agreement with Israel",
-        "source": "The Guardian",
         "date": "2026-04-21"
       }
     ],
@@ -122,9 +117,14 @@
     "status": "open",
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-04-22",
     "recent_headlines": [
+      {
+        "headline": "Iran war live: IRGC seizes two vessels in Strait of Hormuz amid US blockade",
+        "source": "Al Jazeera",
+        "date": "2026-04-22"
+      },
       {
         "headline": "Ukraine Ready to Resume Druzhba Flows To Hungary, Slovakia",
         "source": "Bloomberg",
@@ -133,11 +133,6 @@
       {
         "headline": "El Salvador holds mass trial for 486 alleged members of notorious MS-13 gang",
         "source": "The Guardian",
-        "date": "2026-04-22"
-      },
-      {
-        "headline": "Newsletter: EU set to unlock €90 billion for Ukraine after Hungary power shift",
-        "source": "Euronews",
         "date": "2026-04-22"
       }
     ],
@@ -200,12 +195,17 @@
     "auto_status": false,
     "description": "Iran enriches beyond JCPOA limits. IAEA access restricted. Regional proxy conflicts intensify.",
     "status_signal": "stable",
-    "last_activity": "2026-04-21",
+    "last_activity": "2026-04-22",
     "recent_headlines": [
       {
-        "headline": "What was the Iran nuclear deal Trump dumped in search of ‘better’ terms?",
-        "source": "Al Jazeera",
-        "date": "2026-04-21"
+        "headline": "Trump blasted Obama’s Iran deal. Now he faces similar tradeoffs.",
+        "source": "Washington Post",
+        "date": "2026-04-22"
+      },
+      {
+        "headline": "What Was the 2015 Iran Nuclear Deal?",
+        "source": "New York Times",
+        "date": "2026-04-22"
       }
     ],
     "timeline": [
