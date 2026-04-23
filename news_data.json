@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-23T23:03:34.805547+00:00",
-  "story_count": 78,
+  "updated": "2026-04-23T23:59:42.559711+00:00",
+  "story_count": 76,
   "source_count": 10,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-04-23",
       "time": "16:37",
       "conflict_id": "ukraine-war",
-      "score": 81.0
+      "score": 82.0
     },
     {
       "id": "2026-04-23-ac923e38",
@@ -58,6 +58,20 @@
       "time": "20:47",
       "conflict_id": null,
       "score": 59.4
+    },
+    {
+      "id": "2026-04-23-4675f165",
+      "headline": "U.S. Blew Through Expensive Weapons in Iran War",
+      "summary": "Commanders are concerned about the Pentagon’s shift of long-range precision weapons from the Asia-Pacific region to the Middle East, congressional officials say.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-04-23",
+      "time": "23:51",
+      "conflict_id": null,
+      "score": 58.2
     },
     {
       "id": "2026-04-23-ac3624bc",
@@ -214,18 +228,46 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-23-e6a05502",
-      "headline": "Trump says Israel and Lebanon will extend ceasefire by 3 weeks",
-      "summary": "President says American navy will ‘shoot and kill’ any boat laying mines in Strait of Hormuz",
+      "id": "2026-04-23-17cf80d2",
+      "headline": "US soldier charged in prediction market bets on Maduro’s seizure",
+      "summary": "Member of military was involved in planning Venezuela operation and allegedly made $400,000 on trades about mission",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/730f572b-edf7-4633-bdfd-1707f16d445b",
+      "url": "https://www.ft.com/content/43bc927b-683d-417e-aa13-a9b4a933418b",
       "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
+      "country": "Venezuela",
+      "category": "business",
       "date": "2026-04-23",
-      "time": "22:13",
+      "time": "22:56",
       "conflict_id": null,
       "score": 42.4
+    },
+    {
+      "id": "2026-04-23-424bc64a",
+      "headline": "U.S. soldier charged with fraud after pocketing $400,000 through bets on Maduro’s capture",
+      "summary": "The bet on the seizing of the Venezuelan leader has drawn scrutiny to insider trading within the growing prediction market industry.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/04/23/polymarket-soldier-maduro-bet-charges/",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-04-23",
+      "time": "22:48",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-04-23-53b66767",
+      "headline": "US soldier charged with using Polymarket to bet on Nicolas Maduro abduction",
+      "summary": "The suspect, 38-year-old Gannon Ken Van Dyke, allegedly made $400,000 from insider knowledge of the Venezuela attack.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/4/23/us-soldier-charged-with-using-polymarket-to-bet-on-nicolas-maduro-abduction?traffic_source=rss",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-04-23",
+      "time": "23:04",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-04-23-77847a56",
@@ -284,32 +326,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-23-6109ddb1",
-      "headline": "China hackers steal western secrets by targeting consumer gadgets",
-      "summary": "Compromised home internet routers and smart fridges are being used in cyber attacks, intelligence agencies warn",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d8ff8b15-729e-4225-864d-23934a6bc190",
+      "id": "2026-04-23-cd3f6582",
+      "headline": "China Tech Split Emerges as ChiNext Rally Beats Hong Kong Peer",
+      "summary": "Mainland‑listed Chinese tech stocks are outperforming their Hong Kong peers, underscoring investors’ enthusiasm for artificial intelligence hardware and earnings visibility.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-23/china-tech-split-emerges-as-chinext-rally-beats-hong-kong-peer",
       "region": "APJ",
-      "country": "China",
+      "country": "Hong Kong",
       "category": "geopolitics",
       "date": "2026-04-23",
-      "time": "18:11",
+      "time": "23:45",
       "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-04-23-c7547400",
-      "headline": "Medical data of 500,000 people in UK for sale on Chinese site",
-      "summary": "Alibaba ‘swiftly removed’ listings for UK Biobank data, institution says",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2022ff7b-ec38-4a03-90a3-d80a33133118",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-23",
-      "time": "11:25",
-      "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
     },
     {
       "id": "2026-04-23-dff7b8b2",
@@ -380,20 +408,6 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
-    },
-    {
-      "id": "2026-04-23-389ec5c8",
-      "headline": "Stolen medical data from 500,000 UK volunteers advertised for sale on a Chinese website",
-      "summary": "The health data of 500,000 UK Biobank volunteers was advertised for sale on the Chinese website Alibaba.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/health/2026/04/23/stolen-medical-data-from-500000-uk-volunteers-advertised-for-sale-on-a-chinese-website",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-23",
-      "time": "14:18",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-04-23-2fdda8e9",
@@ -578,48 +592,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-23-58138b09",
-      "headline": "Fed, FDIC Finalize Changes Easing Community Bank Leverage Ratio",
-      "summary": "US regulators finalized changes that will relax the community bank leverage ratio, building on previous steps from the Trump administration to ease capital rules for banks.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-23/fed-fdic-finalize-changes-easing-community-bank-leverage-ratio",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-23",
-      "time": "19:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-23-67f39dae",
-      "headline": "Alberta Examines Three Northern Routes for Oil Pipe to Feed Asia",
-      "summary": "Bloomberg's Brian Platt joins Scarlet Fu on \"Bloomberg Markets.\" Alberta is looking at three options for a new oil pipeline to ship 1 million barrels a day through northern British Columbia, according to people familiar with the matter, as Canadian officials make plans to sharply increase energy exports to Asia.\n (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/alberta-examines-northern-routes-for-oil-pipe-to-asia-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-23",
-      "time": "19:12",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-23-5b9a6833",
-      "headline": "'Really Worried' About Iraq: Rachel Bronson",
-      "summary": "Rachel Bronson, senior fellow at the Chicago Council on Global Affairs, senior advisor at the Bulletin of the Atomic Scientists, and author of \"Thicker than Oil: America's Uneasy Partnership with Saudi Arabia\" joins Scarlet Fu on \"Bloomberg Markets.\"  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-23/-really-worried-about-iraq-rachel-bronson-video",
-      "region": "MENA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-04-23",
-      "time": "19:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-23-bce940d8",
       "headline": "Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster",
       "summary": "The Navy secretary, John Phelan, was supposed to deliver the first of the president’s ships by 2028. The timeline was nearly impossible.",
@@ -632,20 +604,6 @@
       "time": "20:51",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-04-23-424bc64a",
-      "headline": "U.S. soldier charged with fraud after pocketing $400,000 through bets on Maduro’s capture",
-      "summary": "The bet on the seizing of the Venezuelan leader has drawn scrutiny to insider trading within the growing prediction market industry.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/04/23/polymarket-soldier-maduro-bet-charges/",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "business",
-      "date": "2026-04-23",
-      "time": "22:48",
-      "conflict_id": null,
-      "score": 24.9
     },
     {
       "id": "2026-04-23-71639e85",
@@ -732,6 +690,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-04-23-389ec5c8",
+      "headline": "Stolen medical data from 500,000 UK volunteers advertised for sale on a Chinese website",
+      "summary": "The health data of 500,000 UK Biobank volunteers was advertised for sale on the Chinese website Alibaba.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/health/2026/04/23/stolen-medical-data-from-500000-uk-volunteers-advertised-for-sale-on-a-chinese-website",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-23",
+      "time": "14:18",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-23-1c405634",
       "headline": "Hair dryer trick behind €25,000 win? France probes potential weather data scam linked to Polymarket",
       "summary": "Officials in France have launched an investigation into the potential compromise of national weather sensors after a series of anomalous temperature readings coincided with betting activity on Polymarket.",
@@ -771,7 +743,7 @@
       "date": "2026-04-22",
       "time": "08:37",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-04-22-faf0c6a7",
@@ -939,7 +911,7 @@
       "date": "2026-04-21",
       "time": "16:05",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
     },
     {
       "id": "2026-04-21-cbf4b245",
@@ -954,20 +926,6 @@
       "time": "17:17",
       "conflict_id": "israel-hamas",
       "score": 55.0
-    },
-    {
-      "id": "2026-04-21-1ea44300",
-      "headline": "Condom prices could rise 30% due to Iran war, says world’s top producer Karex",
-      "summary": "Karex produces more than 5 billion condoms annually and is a supplier to leading brands like Durex and Trojan, as well as the NHS The world’s top condom producer, Malaysia’s Karex Bhd, plans to raise prices by 20% to 30% and possibly further if supply chain disruptions drag on due to the Iran war, its chief executive has said.Karex is also seeing a surge in condom demand as rising freight costs and shipping delays have left many of its customers ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/apr/22/condom-prices-iran-war-cost-price-rise-karex",
-      "region": "MENA",
-      "country": "Malaysia",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "23:52",
-      "conflict_id": null,
-      "score": 48.0
     },
     {
       "id": "2026-04-21-76619b3b",
@@ -1080,6 +1038,20 @@
       "time": "23:05",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-04-17-a5e03a83",
+      "headline": "A moment of risk and opportunity: How two ceasefires could boost US-Iran talks",
+      "summary": "Some kind of diplomatic progress is now under way, but is it enough to prevent a return to war?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0mjynzvw94o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-17",
+      "time": "19:59",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-04-16-c8557fdd",
