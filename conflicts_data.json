@@ -52,8 +52,13 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-04-22",
+    "last_activity": "2026-04-23",
     "recent_headlines": [
+      {
+        "headline": "Lebanon accuses Israel of targeting journalist killed in air strike",
+        "source": "BBC News",
+        "date": "2026-04-23"
+      },
       {
         "headline": "Israeli forces fire tear gas at funeral of Palestinians killed by settlers",
         "source": "Al Jazeera",
@@ -63,11 +68,6 @@
         "headline": "Sexual violence in the West Bank emerges as tool to intimidate Palestinians",
         "source": "Al Jazeera",
         "date": "2026-04-22"
-      },
-      {
-        "headline": "Two Palestinians killed during settler attack on West Bank village, officials say",
-        "source": "BBC News",
-        "date": "2026-04-21"
       }
     ],
     "timeline": [
@@ -97,12 +97,12 @@
     "auto_status": false,
     "description": "Escalating economic and technology rivalry. Semiconductor controls, EV tariffs, Taiwan Strait tensions.",
     "status_signal": "stable",
-    "last_activity": "2026-04-21",
+    "last_activity": "2026-04-23",
     "recent_headlines": [
       {
-        "headline": "China dials up pressure after Japanese destroyer transits Taiwan Strait",
-        "source": "Nikkei Asia",
-        "date": "2026-04-21"
+        "headline": "Taiwan minister makes rare visit to disputed South China Sea island",
+        "source": "BBC News",
+        "date": "2026-04-23"
       }
     ],
     "timeline": [
@@ -127,22 +127,22 @@
     "status": "open",
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
-    "status_signal": "escalating",
+    "status_signal": "stable",
     "last_activity": "2026-04-23",
     "recent_headlines": [
       {
-        "headline": "No Deadline for Iran Proposal Amid Hormuz Standoff: US",
-        "source": "Bloomberg",
+        "headline": "US Navy secretary fired amid Iran blockade",
+        "source": "Financial Times",
         "date": "2026-04-23"
       },
       {
-        "headline": "Diplomacy stalls as Iran fires on three ships in the Strait of Hormuz and US maintains blockade",
-        "source": "Euronews",
+        "headline": "Blocking of Taiwan president's flight seen as 'warning shot' by China",
+        "source": "Nikkei Asia",
         "date": "2026-04-23"
       },
       {
-        "headline": "JPMorgan to Add Philippine Bonds to Key EM Index in 2027",
-        "source": "Bloomberg",
+        "headline": "Sadiq Khan: Labour risks being ‘stonked’ in London elections",
+        "source": "Financial Times",
         "date": "2026-04-23"
       }
     ],
