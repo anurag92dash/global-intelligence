@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-24T17:34:26.069222+00:00",
+  "updated": "2026-04-24T18:26:41.855882+00:00",
   "story_count": 80,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-04-24-b9fb33f1",
@@ -55,7 +55,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-04-24",
-      "time": "16:21",
+      "time": "18:09",
       "conflict_id": null,
       "score": 52.0
     },
@@ -72,6 +72,34 @@
       "time": "10:41",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-04-24-f8de7ef2",
+      "headline": "Witkoff and Kushner to travel to Islamabad as hopes rise for Iran peace talks",
+      "summary": "US delegation wants to ‘hear Iranians out’ as Tehran’s foreign minister also confirms trip to Pakistan’s capital",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e",
+      "region": "MENA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "18:08",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-04-24-8aca253b",
+      "headline": "Witkoff, Kushner Heading to Pakistan for More Talks",
+      "summary": "President Donald Trump is sending special envoy Steve Witkoff and his son-in-law Jared Kushner to Pakistan to hold another round of talks with Iran. This as Israel and Lebanon extend their own ceasefire. Bloomberg's Dan Williams has more from Jerusalem. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-24/witkoff-kushner-heading-to-pakistan-for-more-talks-video",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "18:06",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-04-24-c9dfa638",
@@ -116,6 +144,34 @@
       "score": 47.4
     },
     {
+      "id": "2026-04-24-17eb4020",
+      "headline": "Iranian FM Araghchi to visit Pakistan in step towards US talks resumption",
+      "summary": "As Pakistan hosts US-Iran talks, twin-city residents face road closures, halted courts and growing economic strain.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/24/iranian-fm-araghchi-to-visit-pakistan-as-talks-with-us-set-to-resume?traffic_source=rss",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "12:57",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-04-24-ceaa42fc",
+      "headline": "US envoys Witkoff, Kushner to head to Pakistan for Iran talks on Saturday, White House says",
+      "summary": "Iran’s Foreign Minister Abbas Araghchi is expected to arrive in Islamabad on Friday night, an official source in Pakistan said, without providing details about who he was likely to meet.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/24/hegseth-warns-iran-to-make-wise-deal-ahead-of-possible-talks",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "13:32",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
       "id": "2026-04-24-a56042fd",
       "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
       "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
@@ -139,7 +195,7 @@
       "country": "Pentagon",
       "category": "geopolitics",
       "date": "2026-04-24",
-      "time": "16:19",
+      "time": "17:37",
       "conflict_id": null,
       "score": 43.0
     },
@@ -158,32 +214,32 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-24-272bf3d8",
-      "headline": "Russian oilman tried to buy golf course on railway to British nuclear site",
-      "summary": "Purchase of Lake District club collapsed this week after government officials and the FT raised questions over strategic location",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/19a3d7b1-c8a8-47b1-9f60-8901e6502241",
+      "id": "2026-04-24-45c627a3",
+      "headline": "Prince Harry visits Kyiv to back Ukraine and spotlight mine clearance",
+      "summary": "Ukraine welcomed Prince Harry to Kyiv on Thursday 23 April 2026 for a two day visit that remained unannounced until his arrival.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/24/prince-harry-visits-kyiv-to-back-ukraine-and-spotlight-mine-clearance",
       "region": "EU",
-      "country": null,
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-24",
-      "time": "13:59",
-      "conflict_id": null,
-      "score": 42.4
+      "time": "15:12",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
-      "id": "2026-04-24-84d3f647",
-      "headline": "Iran War Has Drained U.S. Supplies of Critical, Costly Weapons",
-      "summary": "The Pentagon’s rush to rearm its Mideast forces makes it less ready to confront potential adversaries like Russia and China, administration and congressional officials say.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html",
-      "region": "NA",
-      "country": "Congress",
+      "id": "2026-04-24-ae9a8962",
+      "headline": "EU leaders look to little-known mutual assistance pact amid Trump Nato jibes",
+      "summary": "Members to plan how to assist each other in event of attack as transatlantic alliance faces worst crisis in its historyBrussels officials will draw up a plan on how to use the EU’s little-known mutual assistance pact in the event of a foreign attack, as Donald Trump’s criticism of Nato intensifies.EU leaders have agreed that the European Commission “will prepare a blueprint” on how the bloc will respond if the mutual assistance clause is triggere",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/24/europe-defence-nato-us-donald-trump",
+      "region": "EU",
+      "country": "Brussels",
       "category": "geopolitics",
       "date": "2026-04-24",
-      "time": "01:04",
+      "time": "13:13",
       "conflict_id": null,
-      "score": 41.2
+      "score": 40.0
     },
     {
       "id": "2026-04-24-48822ec7",
@@ -200,34 +256,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-04-24-e6cb4909",
-      "headline": "Five games to go: The Premier League’s unpredictable season turns again",
-      "summary": "From Arsenal’s collapse to Chelsea’s chaos, a season defined by disorder now edges towards a familiar ending.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/24/five-games-to-go-the-premier-leagues-unpredictable-season-turns-again?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "15:38",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-04-24-9efb1974",
-      "headline": "What’s been happening during the Lebanon ceasefire?",
-      "summary": "Trump has extended the Lebanon ceasefire by 3 weeks. But Israel has been accused of using the truce to further its war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/24/whats-been-happening-during-the-lebanon-ceasefire?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "12:49",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-04-24-40780968",
       "headline": "Editor's Choice: Energy crisis drives India toward EVs as Asia's auto map shifts",
       "summary": "",
@@ -240,20 +268,6 @@
       "time": "",
       "conflict_id": null,
       "score": 38.8
-    },
-    {
-      "id": "2026-04-24-271e2271",
-      "headline": "Behind Nigeria's murky coup plot - the money, the prayers and a Nollywood arrest",
-      "summary": "What court papers and sources close to the investigation have told the BBC about the scope of the plan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gj1w5lqw7o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "13:57",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-24-2ef6e9e4",
@@ -280,6 +294,20 @@
       "category": "geopolitics",
       "date": "2026-04-24",
       "time": "09:07",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-24-9070355c",
+      "headline": "Why is this game only legal across Australia one day a year?",
+      "summary": "Two-up is a coin toss betting game that was played by Australian soldiers during World War One - it’s now only legal across Australia on 25 April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/ceqw389d5yvo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "18:05",
       "conflict_id": null,
       "score": 35.0
     },
@@ -312,6 +340,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-04-24-27784b78",
+      "headline": "European Stocks Fall as Investors Await Word of Iran Peace Talks",
+      "summary": "European stocks fell as investors tracked developments around potential US-Iran peace talks amid a continued standoff in the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/european-stock-returns-are-now-losing-against-the-us-this-year",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "07:35",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-04-24-a1188b32",
       "headline": "‘The Jig Is Up’: 70% Crash Marks Quick End to Avis Short Squeeze",
       "summary": "The speculative mania around Avis Budget Group Inc. erupted quickly. It collapsed even faster.",
@@ -324,6 +366,20 @@
       "time": "15:27",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-04-24-6f8557eb",
+      "headline": "Trump Says He Dislikes Prediction Markets. His Family Invests in Them.",
+      "summary": "The White House has warned staff not to wager on government decisions, but his family’s involvement with these firms undermines the president’s message.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/24/us/politics/trump-prediction-markets.html",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-04-24",
+      "time": "17:52",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-04-24-1c66b620",
@@ -382,18 +438,32 @@
       "score": 32.0
     },
     {
-      "id": "2026-04-24-78906096",
-      "headline": "Russian troops, warships in India soon? Why their new military pact matters",
-      "summary": "In a significant pact, India and Russia agree to the deployment of soldiers and warships on each other&#039;s soil during peace and wartime.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/24/russian-troops-warships-in-india-soon-why-their-new-military-pact-matters?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
+      "id": "2026-04-24-d6000b37",
+      "headline": "China’s DeepSeek releases new AI model V4. Here’s everything to know as the AI race speeds up",
+      "summary": "China’s AI startup is back a year after it stirred up the AI industry with ‘world-leading’ processing power at a fraction of the cost of other models.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/next/2026/04/24/chinas-deepseek-releases-new-ai-model-v4-heres-everything-to-know-as-the-ai-race-speeds-up",
+      "region": "APJ",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-04-24",
-      "time": "11:51",
+      "time": "14:42",
       "conflict_id": null,
-      "score": 31.4
+      "score": 29.0
+    },
+    {
+      "id": "2026-04-24-2e330a7f",
+      "headline": "Pirates hijack oil tanker off the coast of Somalia",
+      "summary": "Piracy, once notorious in this stretch of the Indian Ocean, has made a comeback in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78l26yn981o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-04-24",
+      "time": "17:04",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-04-24-90bd2a49",
@@ -452,46 +522,32 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-24-01f394c0",
-      "headline": "Iranian foreign minister to travel to Islamabad as hopes for talks rise",
-      "summary": "Abbas Araghchi will travel to Pakistan on Friday as mediators push to resume direct US-Iran negotiations",
+      "id": "2026-04-24-0323b2da",
+      "headline": "Starmer faces further torment over Mandelson scandal as leadership doubts swirl",
+      "summary": "Ministers and MPs are openly debating how the PM might be removed after elections where Labour is expected to perform dismally",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/a0b83a1d-78d3-4097-a5a7-fbc11b250f5e",
-      "region": "SA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "01:15",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-04-24-c10b019b",
-      "headline": "Banks charged sharply different fees for access to Anthropic investment",
-      "summary": "Disparate pricing raises prospect of investors earning unequal returns in the same deal on the basis of who their banker is",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/62b8159b-1cf1-4dd8-9352-cde0021dec61",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-24",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-04-24-4f094a60",
-      "headline": "UK Biobank says security checks not imposed because of ‘harms’ to research",
-      "summary": "Access to the database has been paused after data breach under pressure from ministers",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/99dcafff-f4e9-4361-8d59-e765ca9fc6f0",
+      "url": "https://www.ft.com/content/95982dd1-e8ef-4895-bea8-b74a7b76d63f",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-04-24",
-      "time": "16:40",
+      "time": "17:22",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-24-e068e92c",
+      "headline": "Brazil Moves to Ban Prediction Markets on Elections, Sports",
+      "summary": "Brazil moved to ban prediction markets tied to elections and sporting events, tightening rules on a booming practice that’s drawing scrutiny across the world.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-24/brazil-moves-to-ban-prediction-markets-on-elections-sports",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-04-24",
+      "time": "17:48",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-24-da3b9a31",
@@ -516,20 +572,6 @@
       "region": "NA",
       "country": null,
       "category": "politics",
-      "date": "2026-04-24",
-      "time": "17:14",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-24-93b903f6",
-      "headline": "Chick-fil-A Sells $650 Million of Investment-Grade Private Debt",
-      "summary": "Fast-food chain Chick-fil-A Inc. sold $650 million of bonds in a private placement, according to a person with knowledge of the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/chick-fil-a-sells-650-million-of-investment-grade-private-debt",
-      "region": "NA",
-      "country": null,
-      "category": "business",
       "date": "2026-04-24",
       "time": "17:14",
       "conflict_id": null,
@@ -590,20 +632,6 @@
       "time": "15:10",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-04-24-52bbdeb1",
-      "headline": "Tariffs Raised Consumers’ Prices, but the Refunds Go Only to Businesses",
-      "summary": "Many families felt the sting of the president’s now-illegal tariffs, but companies have said little about whether they will share the $166 billion coming back to them.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/24/us/politics/companies-consumers-tariff-refunds.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "13:57",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-04-24-26545dc0",
@@ -704,20 +732,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-24-1fda52da",
-      "headline": "From VW to Nissan, automakers bet on 'in China, for global' strategies",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/from-vw-to-nissan-automakers-bet-on-in-china-for-global-strategies",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-04-24-ab19bc8e",
       "headline": "Vietnam prepares crypto market debut as players line up",
       "summary": "",
@@ -772,6 +786,34 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-04-24-6ba0749e",
+      "headline": "UK House of Lords accused of 'obstructionism' as time runs out on assisted dying bill",
+      "summary": "MPs in the House of Commons had backed legalising euthanasia for adults who have been given less than six months to live and can clearly express a wish to die, in a historic vote last June.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/24/uk-house-of-lords-accused-of-obstructionism-as-time-runs-out-on-assisted-dying-bill",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-24",
+      "time": "16:56",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-24-122d160f",
+      "headline": "Tickets for World Cup final in New Jersey appear on FIFA's resale site for €1.9m each",
+      "summary": "FIFA does not control prices on its Resale/Exchange Marketplace but charges a 15% purchase fee to each ticket buyer and a 15% resale fee to each ticket seller.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/24/tickets-for-world-cup-final-in-new-jersey-appear-on-fifas-resale-site-for-19m-each",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-24",
+      "time": "14:15",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-04-23-ec59461d",
@@ -868,20 +910,6 @@
       "category": "politics",
       "date": "2026-04-23",
       "time": "22:13",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-04-23-0be7f22b",
-      "headline": "Who’s out in the Trump administration’s spring shakeup",
-      "summary": "At least five officials have left Trump’s Cabinet and U.S. military leadership since the start of the war with Iran. Here’s a look at who left and why.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/23/trump-shakeup-hegseth-phelan-bondi-noem/",
-      "region": "EU",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-23",
-      "time": "11:09",
       "conflict_id": null,
       "score": 32.9
     },
@@ -1038,34 +1066,6 @@
       "time": "22:10",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-21-02e4a747",
-      "headline": "Taiwan president blames China for forced cancellation of Eswatini trip",
-      "summary": "Lai Ching-te abandons visit after Seychelles, Mauritius and Madagascar revoke overflight permission  Taiwan’s president, Lai Ching-te, has cancelled his trip to Eswatini, the democratic island’s only diplomatic ally in Africa, after his government said several countries had revoked overflight permits because of “intense pressure” from China.Lai was to leave on Wednesday for the 40th anniversary of King Mswati III’s accession. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/21/taiwan-president-blames-china-cancel-eswatini-revoke-flight",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "18:22",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-04-20-732c6780",
-      "headline": "Why and how is US blockading Iranian ports in Strait of Hormuz?",
-      "summary": "Donald Trump says that the US is blockading the Strait of Hormuz. What does this mean in practice?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yv6xr6me3o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-20",
-      "time": "06:46",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-04-19-b50b6c5d",
