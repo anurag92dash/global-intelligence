@@ -41,9 +41,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-04-24",
     "recent_headlines": [
+      {
+        "headline": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
+        "source": "Al Jazeera",
+        "date": "2026-04-24"
+      },
       {
         "headline": "Israel's Benjamin Netanyahu treated for early-stage prostate cancer",
         "source": "BBC News",
@@ -51,11 +56,6 @@
       },
       {
         "headline": "Israeli strikes kill eight Palestinians in Gaza, first responders say",
-        "source": "BBC News",
-        "date": "2026-04-23"
-      },
-      {
-        "headline": "Lebanon accuses Israel of targeting journalist killed in air strike",
         "source": "BBC News",
         "date": "2026-04-23"
       }
