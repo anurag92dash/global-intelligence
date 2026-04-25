@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-25T09:33:58.555238+00:00",
-  "story_count": 85,
-  "source_count": 9,
+  "updated": "2026-04-25T10:27:07.153322+00:00",
+  "story_count": 87,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-04-25-445ced40",
@@ -15,7 +15,21 @@
       "date": "2026-04-25",
       "time": "00:00",
       "conflict_id": "israel-hamas",
-      "score": 75.4
+      "score": 84.4
+    },
+    {
+      "id": "2026-04-25-ae1a38bf",
+      "headline": "West Bank and part of Gaza vote in first municipal elections since war",
+      "summary": "Municipal elections in the West Bank and central Gaza mark the first vote since the Gaza war, with Fatah-linked lists dominant and Hamas absent from the race.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/25/west-bank-and-part-of-gaza-vote-in-first-municipal-elections-since-war",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "09:28",
+      "conflict_id": "israel-hamas",
+      "score": 65.0
     },
     {
       "id": "2026-04-25-9b059aee",
@@ -28,6 +42,34 @@
       "category": "geopolitics",
       "date": "2026-04-25",
       "time": "08:37",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
+    {
+      "id": "2026-04-25-b2703cb4",
+      "headline": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+      "summary": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "09:55",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
+      "id": "2026-04-25-652ae433",
+      "headline": "West Bank scepticism as Palestinians doubt local elections will change much",
+      "summary": "Frustration with the Palestinian Authority and Israeli occupation fuel voter apathy in local West Bank elections.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "07:16",
       "conflict_id": "israel-hamas",
       "score": 51.4
     },
@@ -60,18 +102,32 @@
       "score": 51.0
     },
     {
-      "id": "2026-04-25-652ae433",
-      "headline": "West Bank scepticism as Palestinians doubt local elections will change much",
-      "summary": "Frustration with the Palestinian Authority and Israeli occupation fuel voter apathy in local West Bank elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
+      "id": "2026-04-25-77d6d551",
+      "headline": "Iran says no direct talks planned as U.S. envoys set to leave for Pakistan",
+      "summary": "Iran’s foreign minister arrived in Islamabad for talks with Pakistani officials. The White House said Steve Witkoff and Jared Kushner would leave for Islamabad on Saturday.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/24/iran-talks-resume-no-vance/",
+      "region": "SA",
+      "country": "White House",
+      "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "07:16",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "time": "10:05",
+      "conflict_id": null,
+      "score": 49.9
+    },
+    {
+      "id": "2026-04-25-8dbdd8f2",
+      "headline": "Iran’s FM Abbas Araghchi meets with Pakistan officials but rules out direct talks with US",
+      "summary": "US special envoys Steve Witkoff and Jared Kushner are expected to arrive in Pakistan on Saturday ahead of a second round of peace talks between the US and Iran. Tehran, however, has ruled out direct talks.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/25/irans-fm-abbas-araghchi-meets-with-pakistan-officials-but-rules-out-direct-talks-with-us",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "09:04",
+      "conflict_id": null,
+      "score": 46.0
     },
     {
       "id": "2026-04-25-a86fa146",
@@ -198,6 +254,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-25-e52bfdb0",
+      "headline": "Thousands Protest Against Outgoing Malaysian Anti-Graft Chief",
+      "summary": "Thousands of Malaysians gathered in Kuala Lumpur on Saturday, reiterating calls for the establishment of a Royal Commission of Inquiry into allegations involving outgoing anti-graft chief Azam Baki.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/thousands-protest-against-outgoing-malaysian-anti-graft-chief",
+      "region": "APJ",
+      "country": "Malaysia",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "10:15",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-25-18b32d2b",
@@ -424,6 +494,20 @@
       "score": 48.0
     },
     {
+      "id": "2026-04-24-33c21e09",
+      "headline": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
+      "summary": "Iranian Foreign Minister Abbas Araghchi arrives in Islamabad, but Tehran yet to commit to more talks with US delegation.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
+      "region": "MENA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "20:54",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-04-24-4f1dba88",
       "headline": "No 10 says Falklands sovereignty rests with UK after report of US 'review'",
       "summary": "An internal Pentagon document reportedly raised the prospect of a change in position in retaliation for the UK not joining the Iran war.",
@@ -452,20 +536,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-24-c2f4739e",
-      "headline": "US Sanctions Giant Chinese Refiner Hengli Over Iran Links",
-      "summary": "The US sanctioned one of China’s largest private oil refiners over its links to Iran, a move that ramps up economic pressure on Tehran but also risks irking Beijing just weeks ahead of an expected leaders’ summit.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/us-sanctions-china-refinery-iran-shadow-fleet-ahead-of-talks",
-      "region": "MENA",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "19:55",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-04-24-70ad5b81",
       "headline": "Wall Street Conviction Frays on Trades Riding Out AI, War Shock",
       "summary": "One by one, high-conviction trades on Wall Street are falling out of favor.",
@@ -480,18 +550,18 @@
       "score": 42.1
     },
     {
-      "id": "2026-04-24-912d869d",
-      "headline": "Israel continues attacks on Lebanon despite extension of ceasefire",
-      "summary": "Israeli forces killed six Hezbollah fighters in an exchange of fire in the area of Bint Jbeil, southern Lebanon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israel-continues-attacks-on-lebanon-despite-extension-of-ceasefire?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
+      "id": "2026-04-24-45c627a3",
+      "headline": "Prince Harry visits Kyiv to back Ukraine and spotlight mine clearance",
+      "summary": "Ukraine welcomed Prince Harry to Kyiv on Thursday 23 April 2026 for a two day visit that remained unannounced until his arrival.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/24/prince-harry-visits-kyiv-to-back-ukraine-and-spotlight-mine-clearance",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-24",
-      "time": "20:46",
-      "conflict_id": null,
-      "score": 39.4
+      "time": "15:12",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
       "id": "2026-04-24-a56042fd",
@@ -644,20 +714,6 @@
       "category": "politics",
       "date": "2026-04-24",
       "time": "11:42",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-04-24-a8975d63",
-      "headline": "Berlin culture minister resigns over irregular distribution of funds to fight antisemitism",
-      "summary": "Auditor found Sarah Wedl-Wilson approved payments of public money to groups that had not been fully vettedBerlin’s top culture official, British-born Sarah Wedl-Wilson, has stood down over a funding scandal involving the the irregular distribution of €2.6m in public money for programmes to fight antisemitism.As culture senator for the Berlin regional government, Wedl-Wilson had already sacked a state secretary in her department, Oliver Friederici",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/24/berlin-culture-minister-sarah-wedl-wilson-resigns-irregular-distribution-funds-fight-antisemitism",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "14:12",
       "conflict_id": null,
       "score": 32.0
     },
@@ -844,34 +900,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-24-4498b812",
-      "headline": "Nasdaq 100, S&amp;P 500 Finish at Record on Intel’s Blowout Results",
-      "summary": "US stocks finished at all-time highs on Friday as a blockbuster sales forecast from Intel Corp. fueled a rally in technology stocks, while trader optimism around the prospect of US-Iran talks increased.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/nasdaq-futures-jump-as-intel-s-blockbuster-sales-view-impresses",
-      "region": "NA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-04-24",
-      "time": "12:56",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-24-76fc875f",
-      "headline": "Record Day for S&P, Nasdaq | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/record-day-for-s-p-nasdaq-closing-bell-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-24",
-      "time": "20:20",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-24-f740b6b7",
       "headline": "Maine Governor Vetoes Bill That Would Have Paused New Data Centers",
       "summary": "Gov. Janet Mills said she rejected what would have been the nation’s first moratorium on data centers because it failed to exempt a project in a distressed mill town.",
@@ -928,18 +956,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-04-24-4124e9b5",
-      "headline": "Petro becomes first president to visit Venezuela since Maduro abduction",
-      "summary": "Border security set to loom large as Colombia&#039;s leader meets interim Venezuelan President Delcy Rodriguez.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/petro-becomes-first-president-to-visit-venezuela-since-maduro-abduction?traffic_source=rss",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "geopolitics",
+      "id": "2026-04-24-6ba0749e",
+      "headline": "UK House of Lords accused of 'obstructionism' as time runs out on assisted dying bill",
+      "summary": "MPs in the House of Commons had backed legalising euthanasia for adults who have been given less than six months to live and can clearly express a wish to die, in a historic vote last June.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/24/uk-house-of-lords-accused-of-obstructionism-as-time-runs-out-on-assisted-dying-bill",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
       "date": "2026-04-24",
-      "time": "20:00",
+      "time": "16:56",
       "conflict_id": null,
-      "score": 23.4
+      "score": 21.0
     },
     {
       "id": "2026-04-23-ec59461d",
@@ -953,7 +981,7 @@
       "date": "2026-04-23",
       "time": "13:15",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-04-23-565c8b29",
@@ -970,20 +998,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-04-23-cbcde542",
-      "headline": "Lebanon accuses Israel of targeting journalist killed in air strike",
-      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-23",
-      "time": "04:25",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-23-03e7b63a",
       "headline": "Woman killed by bear in Polish forest, son and local government say",
       "summary": "In an extremely rare fatal encounter, the 58-year-old was killed as she was walking in a mountainous area, her son told rescuers.",
@@ -996,20 +1010,6 @@
       "time": "18:16",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-04-23-0be7f22b",
-      "headline": "Who’s out in the Trump administration’s spring shakeup",
-      "summary": "At least five officials have left Trump’s Cabinet and U.S. military leadership since the start of the war with Iran. Here’s a look at who left and why.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/23/trump-shakeup-hegseth-phelan-bondi-noem/",
-      "region": "EU",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-23",
-      "time": "11:09",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-04-23-384da43a",
@@ -1040,6 +1040,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-23-96142837",
+      "headline": "The Stock Picking Philosophy to Find the Next Amazon: Masters in Business",
+      "summary": "Barry speaks with David Gardner, Author and Co-Founder, at the Motley Fool. They discuss David's new book book \"Rule Breaker Investing: How to Pick the Best Stocks of he Future and Build Lasting Wealth.\" They also discuss the pros and cons of different investing strategies and trends. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-23/philosophy-to-find-the-next-amazon-masters-in-business-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-23",
+      "time": "20:16",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-22-6073d280",
       "headline": "US and Iran in blockade standoff as Pakistan pushes for talks",
       "summary": "The mood in the Strait of Hormuz remains combustible despite Trump's ceasefire extension.",
@@ -1051,7 +1065,7 @@
       "date": "2026-04-22",
       "time": "16:19",
       "conflict_id": null,
-      "score": 51.0
+      "score": 60.0
     },
     {
       "id": "2026-04-22-bab0d0a2",
@@ -1122,6 +1136,20 @@
       "time": "08:35",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-04-22-64515478",
+      "headline": "America’s descent into state capitalism is exaggerated",
+      "summary": "Particularly by the state",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/22/americas-descent-into-state-capitalism-is-exaggerated",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "19:20",
+      "conflict_id": null,
+      "score": 25.8
     },
     {
       "id": "2026-04-21-430e487c",
