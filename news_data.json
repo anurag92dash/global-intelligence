@@ -1,21 +1,21 @@
 {
-  "updated": "2026-04-25T12:34:01.446315+00:00",
-  "story_count": 86,
-  "source_count": 10,
+  "updated": "2026-04-25T13:48:58.288000+00:00",
+  "story_count": 85,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-04-25-445ced40",
-      "headline": "Iran war live: Tehran’s FM in Islamabad; US says envoys to travel for talks",
-      "summary": "Israeli air strikes, tank shelling in Gaza killed at least 12 Palestinians, including six police officers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Islamabad",
+      "id": "2026-04-25-61bf9371",
+      "headline": "Russian airstrikes kill at least seven people in Ukraine overnight",
+      "summary": "Dnipro bore the brunt of the attacks but Odesa and Kharkiv were also targeted in largest onslaught for several daysRussian drone and missile strikes across Ukraine killed at least seven people overnight, including five in the city of Dnipro, Ukrainian local authorities have said.Reports say that at least 34 people have been injured in the strikes, which lasted “practically all night”, according to the Dnipropetrovsk regional head, Oleksandr Hanzh",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/25/russian-airstrikes-ukraine-dnipro-odesa-kharkiv",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "00:00",
-      "conflict_id": "israel-hamas",
-      "score": 84.4
+      "time": "13:17",
+      "conflict_id": "ukraine-war",
+      "score": 84.0
     },
     {
       "id": "2026-04-25-ae1a38bf",
@@ -74,6 +74,20 @@
       "score": 59.4
     },
     {
+      "id": "2026-04-25-91b7983b",
+      "headline": "Russian strikes kill at least seven and injure dozens across Ukraine",
+      "summary": "Most of those killed and injured in Russian overnight attacks were in the eastern Ukrainian city of Dnipro, where an attack killed at least five and injured more than 30.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/25/russian-strikes-kill-at-least-seven-and-injure-dozens-across-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "13:31",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
       "id": "2026-04-25-b2703cb4",
       "headline": "Palestinians cast their ballots as Gaza holds first election in 21 years",
       "summary": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
@@ -130,6 +144,20 @@
       "score": 50.1
     },
     {
+      "id": "2026-04-25-f822727c",
+      "headline": "Strait of Hormuz Remains Near-Empty With Just a Few Iran Ships Moving",
+      "summary": "The Strait of Hormuz remains largely empty of merchant ships, with only a few Tehran-linked vessels moving through the waterway, following a tense week that saw Iranian gunboat attacks and tanker interceptions by the US Navy.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/strait-of-hormuz-remains-near-empty-with-just-a-few-iran-ships-moving",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "11:58",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
       "id": "2026-04-25-77d6d551",
       "headline": "Iran says no direct talks planned as U.S. envoys set to leave for Pakistan",
       "summary": "Iran’s foreign minister arrived in Islamabad for talks with Pakistani officials. The White House said Steve Witkoff and Jared Kushner would leave for Islamabad on Saturday.",
@@ -158,32 +186,46 @@
       "score": 49.0
     },
     {
-      "id": "2026-04-25-8dbdd8f2",
-      "headline": "Iran’s FM Abbas Araghchi meets with Pakistan officials but rules out direct talks with US",
-      "summary": "US special envoys Steve Witkoff and Jared Kushner are expected to arrive in Pakistan on Saturday ahead of a second round of peace talks between the US and Iran. Tehran, however, has ruled out direct talks.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/25/irans-fm-abbas-araghchi-meets-with-pakistan-officials-but-rules-out-direct-talks-with-us",
+      "id": "2026-04-25-0f69de17",
+      "headline": "Iran war live: Araghchi holds meetings in Islamabad; US envoys on their way",
+      "summary": "Israeli attacks on southern Lebanon continue, with the latest killing at least four in town of Yahmor al-Shaqif.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
       "region": "MENA",
-      "country": "Pakistan",
+      "country": "Islamabad",
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "09:04",
+      "time": "00:00",
       "conflict_id": null,
-      "score": 46.0
+      "score": 47.4
     },
     {
-      "id": "2026-04-25-a86fa146",
-      "headline": "Inside Chornobyl: 40 years after disaster, nuclear site still at risk in Russia’s war",
-      "summary": "In February 2025, a cheap Russian drone tore through Chornobyl’s confinement shelter. Workers warn the site of the world’s worst nuclear accident is not safe yetThe dosimeter clipped to your chest ticks faster the moment you step off the designated path inside the Chornobyl nuclear power plant. Step back, and it slows again – an invisible line between clean ground and contamination.Above rises the “new safe confinement” (NSC) – the largest movabl",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/ng-interactive/2026/apr/25/chornobyl-power-plant-at-risk-amid-russia-war-ukraine",
+      "id": "2026-04-25-bea108e9",
+      "headline": "Seven dead in major Russian attack on Ukraine",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": null,
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "05:00",
+      "time": "12:29",
       "conflict_id": null,
-      "score": 40.0
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-25-ac725293",
+      "headline": "Overnight Russian attacks on Ukraine kill five, injure 30",
+      "summary": "Russia launched more than 600 drones and 47 missiles as it targeted eight regions in Dnipro, authorities say.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "08:44",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-04-25-40780968",
@@ -198,20 +240,6 @@
       "time": "",
       "conflict_id": null,
       "score": 38.8
-    },
-    {
-      "id": "2026-04-25-81e69ad0",
-      "headline": "America’s bid for energy supremacy is being forged in war",
-      "summary": "The US stands to benefit as war in Iran reshapes oil and gas flows, but Europe and Asia are wary of becoming too reliant on American supply",
-      "source": "Financial Times",
-      "url": "https://ig.ft.com/global-energy-flows/",
-      "region": "EU",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-04-25-07aabaec",
@@ -298,11 +326,11 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-25-0b2947bd",
-      "headline": "No edge, no hedge: why markets are stuck",
-      "summary": "Neither extreme optimism nor extreme pessimism makes much sense, and neither is easy nor safe to express",
+      "id": "2026-04-25-54eb6633",
+      "headline": "Banks brace for tax raid if Starmer is ousted",
+      "summary": "Executives prepare for shift to the left in UK government after narrow escape in last year’s Budget",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/fff7a84f-83bf-45af-9a3d-78e0cf181539",
+      "url": "https://www.ft.com/content/9c6b31a0-6490-41e6-af47-424d0dbc8877",
       "region": "EU",
       "country": null,
       "category": "business",
@@ -312,11 +340,11 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-25-54eb6633",
-      "headline": "Banks brace for tax raid if Starmer is ousted",
-      "summary": "Executives prepare for shift to the left in UK government after narrow escape in last year’s Budget",
+      "id": "2026-04-25-0b2947bd",
+      "headline": "No edge, no hedge: why markets are stuck",
+      "summary": "Neither extreme optimism nor extreme pessimism makes much sense, and neither is easy nor safe to express",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/9c6b31a0-6490-41e6-af47-424d0dbc8877",
+      "url": "https://www.ft.com/content/fff7a84f-83bf-45af-9a3d-78e0cf181539",
       "region": "EU",
       "country": null,
       "category": "business",
@@ -338,6 +366,76 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-25-4006b08c",
+      "headline": "The Billion-Barrel Oil Shock Is About to Crash Demand",
+      "summary": "The Strait of Hormuz oil shock has yet to crash demand as the rich world borrows from its stocks and pays up to secure supply. Traders are now sounding the alarm that a harsh adjustment is coming.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/the-hormuz-billion-barrel-oil-shock-is-about-to-crash-demand",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-25",
+      "time": "11:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-25-b241e566",
+      "headline": "S&P's Yergin: \"The Biggest Energy Disruption We've Ever Seen\"",
+      "summary": "The Strait of Hormuz oil shock has yet to crash demand as the rich world borrows from its stocks and pays up to secure supply. Traders are now sounding the alarm that a harsh adjustment is coming. S&amp;P Global Vice Chairman Daniel Yergin joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/yergin-the-biggest-energy-disruption-we-ve-ever-seen-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-25",
+      "time": "13:09",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-25-25dc4491",
+      "headline": "‘He Has the Market in a Chokehold’: Stocks Swing as Trump Posts",
+      "summary": "There are lots of things that can move the stock market, from economic data, to Federal Reserve pronouncements, to corporate developments. But for the past 15 months, traders’ fortunes have been largely tethered to the whims of a single person: President Donald Trump.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/-he-has-the-market-in-a-chokehold-stocks-swing-as-trump-posts",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-25",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-25-1bc1ff9f",
+      "headline": "Decoding Muskism: Beyond the Billionaire",
+      "summary": "The world's richest man may soon also be the world's first trillionaire as Elon Musk's SpaceX targets an IPO with a valuation of around $1.5 Trillion in what would be the largest IPO ever. Muskism: A Guide for the Perplexed authors Ben Tarnoff and Quinn Slobodian join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss \"Muskism,\" referring to the ideology and worldview that shaped Musk. They say it is \"an operating system for th",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/decoding-muskism-beyond-the-billionaire-video",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "12:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-25-ebfc40e6",
+      "headline": "Bitcoin’s Stealth Rally Has Traders Setting Sights on $80,000",
+      "summary": "Bitcoin is approaching $80,000 for the first time since January &mdash; a stealth recovery built not on euphoria but on short covering and the relentless accumulation by one company: Strategy Inc.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/bitcoin-s-stealth-rally-has-traders-setting-sights-on-80-000",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-25",
+      "time": "12:30",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-25-e52bfdb0",
@@ -394,6 +492,20 @@
       "time": "05:20",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-04-25-711311be",
+      "headline": "Trump’s idea to ‘just buy’ bankrupt Spirit Airlines draws GOP backlash",
+      "summary": "The president said this week that bailing out the airline would save jobs, but his administration is divided.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/25/trump-spirit-airlines-bailout/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 24.9
     },
     {
       "id": "2026-04-25-45d92124",
@@ -508,20 +620,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-24-eb210dc8",
-      "headline": "Israel kills at least 12 Palestinians in Gaza amid ‘ceasefire’",
-      "summary": "Hamas says the Israeli escalation represents the failure of the international community to uphold the truce in Gaza.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/israel-kills-at-least-12-palestinians-in-gaza-amid-ceasefire?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "21:42",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
       "id": "2026-04-24-3c35f4d5",
       "headline": "31 Sloths Acquired by an Orlando Animal Attraction Died, Officials Say",
       "summary": "Many of the deaths were attributed to a lack of heat at an unauthorized warehouse that Sloth World was using, officials said.",
@@ -548,20 +646,6 @@
       "time": "13:56",
       "conflict_id": null,
       "score": 48.0
-    },
-    {
-      "id": "2026-04-24-33c21e09",
-      "headline": "US sending envoys to Pakistan, raising hopes of talks with Iran’s Araghchi",
-      "summary": "Iranian Foreign Minister Abbas Araghchi arrives in Islamabad, but Tehran yet to commit to more talks with US delegation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/us-envoys-head-to-pakistan-raising-hopes-of-peace-talks-with-irans-araghchi?traffic_source=rss",
-      "region": "MENA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "20:54",
-      "conflict_id": null,
-      "score": 47.4
     },
     {
       "id": "2026-04-24-4f1dba88",
@@ -620,16 +704,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-24-c0009e32",
-      "headline": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-      "summary": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
+      "id": "2026-04-24-eb8b7f0f",
+      "headline": "US justice department drops probe into Fed chairman Jerome Powell",
+      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
+      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-04-24",
-      "time": "23:28",
+      "time": "19:10",
       "conflict_id": null,
       "score": 35.0
     },
@@ -660,48 +744,6 @@
       "time": "08:39",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-04-24-0c20eb31",
-      "headline": "Kentucky's Thomas Massie Stakes His 'MAGA' Claim",
-      "summary": "Kentucky Representative Thomas Massie, a committed libertarian, is the rare Republican willing to publicly criticize Donald Trump&mdash;over domestic spending, the war in Iran, the president’s efforts to bury the Jeffrey Epstein files. And he’s done this while running for an eighth term in Kentucky’s deep-red 4th Congressional District, which gave Trump two-thirds of the vote in 2024. Bloomberg Businessweek National Correspondent Josh Green joins",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/kentucky-s-thomas-massie-stakes-his-maga-claim-video",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "21:56",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-24-d1c55d03",
-      "headline": "Tax the Rich Policies Draw Attention",
-      "summary": "Michael Bologna, Bloomberg Industry Group senior tax correspondent, joins Scarlet Fu on \"Bloomberg Real Yield.\" Democrats around the country are pushing forward on plans to tax the rich &mdash; moves that are supportive for the tax-exempt municipal-bond market.   (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/tax-the-rich-policies-draw-attention-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-24",
-      "time": "20:52",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-04-24-dcbbda37",
-      "headline": "Fmr. Fed Governor Betsy Duke on Warsh's Future, Rates",
-      "summary": "Former Federal Reserve Governor Betsy Duke discusses the Department of Justice dropping its investigation into Jerome Powell, what a possible Kevin Warsh led Fed could look like, and previews Wednesday’s rate decision. She talks with Romaine Bostick and Katie Greifeld on “The Close.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-24/fmr-fed-governor-betsy-duke-on-warsh-s-future-rates-video",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-24",
-      "time": "20:50",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-04-24-6f8557eb",
@@ -744,20 +786,6 @@
       "time": "11:42",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-04-24-eb8b7f0f",
-      "headline": "US justice department drops probe into Fed chairman Jerome Powell",
-      "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxd1v0028vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "19:10",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-04-24-938d1569",
@@ -858,34 +886,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-24-747b8603",
-      "headline": "Mid-Market Investment Bank Lincoln International Files for IPO",
-      "summary": "Lincoln International Inc., a mid-market investment bank that advises business owners and private equity funds, filed for a US initial public offering, disclosing growing net income.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/mid-market-investment-bank-lincoln-international-files-for-ipo",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-24",
-      "time": "21:29",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-24-34718c4e",
-      "headline": "Intel Plans Multi-Billion Dollar Bond Sale Tied to Apollo Deal",
-      "summary": "Intel Corp. is readying a multi-billion dollar bond sale to finance the repurchase of half of a plant in Ireland that it had previously sold to Apollo Global Management Inc.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/intel-to-hold-fixed-income-calls-following-blowout-sales-outlook",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "13:05",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-24-f740b6b7",
       "headline": "Maine Governor Vetoes Bill That Would Have Paused New Data Centers",
       "summary": "Gov. Janet Mills said she rejected what would have been the nation’s first moratorium on data centers because it failed to exempt a project in a distressed mill town.",
@@ -926,20 +926,6 @@
       "time": "03:49",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-04-24-99ff0f3a",
-      "headline": "Police raid Peru’s election authorities after outcry over slow vote count",
-      "summary": "Anticorruption police gathered material from the homes of ex-election office head Piero Corvetto and other officials.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/4/24/police-raid-perus-election-authorities-after-outcry-over-slow-vote-count?traffic_source=rss",
-      "region": "SA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "23:22",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-04-24-6ba0749e",
@@ -996,6 +982,34 @@
       "time": "12:07",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-04-23-cbcde542",
+      "headline": "Lebanon accuses Israel of targeting journalist killed in air strike",
+      "summary": "Lebanon's prime minister accused Israel of war crimes after IDF attacks on Red Cross vehicles also stopped rescuers from reaching the site.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yvn036evlo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-23",
+      "time": "04:25",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-23-dba23e2e",
+      "headline": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches",
+      "summary": "Iran's chief negotiator says \"violations\" by the US and Israel make it impossible to open the strait.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-23",
+      "time": "01:09",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-04-23-03e7b63a",
@@ -1065,7 +1079,7 @@
       "date": "2026-04-22",
       "time": "16:19",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-04-22-bab0d0a2",
@@ -1136,34 +1150,6 @@
       "time": "08:35",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-22-64515478",
-      "headline": "America’s descent into state capitalism is exaggerated",
-      "summary": "Particularly by the state",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/22/americas-descent-into-state-capitalism-is-exaggerated",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "19:20",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
-      "id": "2026-04-21-430e487c",
-      "headline": "Robot chases wild boars off the streets of Warsaw",
-      "summary": "The Polish capital has seen the number of wild boar on its streets soar to more than 3,000 - a 20-fold increase since 2020.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cp864m61d0mo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "15:53",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-21-247bdd37",
