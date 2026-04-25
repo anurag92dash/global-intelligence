@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T17:22:40.184355+00:00",
-  "story_count": 81,
+  "updated": "2026-04-25T17:59:53.347508+00:00",
+  "story_count": 84,
   "source_count": 9,
   "stories": [
     {
@@ -15,7 +15,35 @@
       "date": "2026-04-25",
       "time": "13:17",
       "conflict_id": "ukraine-war",
-      "score": 76.0
+      "score": 84.0
+    },
+    {
+      "id": "2026-04-25-34c8fc49",
+      "headline": "Palestinians vote in West Bank and central Gaza municipal elections, the first since war started",
+      "summary": "The elections, held in the Israeli-occupied West Bank and in Gaza's Deir al-Balah, are taking place against the backdrop of a highly volatile political and security environment.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/25/palestinians-vote-in-west-bank-and-central-gaza-municipal-elections-the-first-since-war-st",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "16:56",
+      "conflict_id": "israel-hamas",
+      "score": 74.0
+    },
+    {
+      "id": "2026-04-25-ae1a38bf",
+      "headline": "West Bank and part of Gaza vote in first municipal elections since war",
+      "summary": "Municipal elections in the West Bank and central Gaza mark the first vote since the Gaza war, with Fatah-linked lists dominant and Hamas absent from the race.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/25/west-bank-and-part-of-gaza-vote-in-first-municipal-elections-since-war",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "09:28",
+      "conflict_id": "israel-hamas",
+      "score": 73.0
     },
     {
       "id": "2026-04-25-50614930",
@@ -29,21 +57,7 @@
       "date": "2026-04-25",
       "time": "17:01",
       "conflict_id": "israel-hamas",
-      "score": 63.0
-    },
-    {
-      "id": "2026-04-25-b2703cb4",
-      "headline": "Palestinians cast their ballots as Gaza holds first election in 21 years",
-      "summary": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "politics",
-      "date": "2026-04-25",
-      "time": "09:55",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
+      "score": 71.0
     },
     {
       "id": "2026-04-25-7a717f7b",
@@ -57,7 +71,7 @@
       "date": "2026-04-25",
       "time": "08:37",
       "conflict_id": "israel-hamas",
-      "score": 51.4
+      "score": 67.4
     },
     {
       "id": "2026-04-25-652ae433",
@@ -71,7 +85,21 @@
       "date": "2026-04-25",
       "time": "07:16",
       "conflict_id": "israel-hamas",
-      "score": 51.4
+      "score": 67.4
+    },
+    {
+      "id": "2026-04-25-b2703cb4",
+      "headline": "Palestinians cast their ballots as Gaza holds first election in 21 years",
+      "summary": "Palestinians are voting in Gaza’s first municipal elections in 21 years. Around 70,000 people are registered to vote.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/palestinians-cast-their-ballots-as-gaza-holds-first-election-in-21-years?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "09:55",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
     },
     {
       "id": "2026-04-25-922440b3",
@@ -85,7 +113,35 @@
       "date": "2026-04-25",
       "time": "12:24",
       "conflict_id": null,
-      "score": 50.1
+      "score": 58.1
+    },
+    {
+      "id": "2026-04-25-91b7983b",
+      "headline": "Russian strikes kill at least seven and injure dozens across Ukraine",
+      "summary": "Most of those killed and injured in Russian overnight attacks were in the eastern Ukrainian city of Dnipro, where an attack killed at least five and injured more than 30.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/25/russian-strikes-kill-at-least-seven-and-injure-dozens-across-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "13:31",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-04-25-59f98a4d",
+      "headline": "Trump cancels trip by US negotiators for peace talks with Iran",
+      "summary": "President said he was no longer sending Steve Witkoff and Jared Kushner to Pakistan",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "17:13",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-04-25-f822727c",
@@ -113,7 +169,63 @@
       "date": "2026-04-25",
       "time": "10:05",
       "conflict_id": null,
-      "score": 48.9
+      "score": 49.9
+    },
+    {
+      "id": "2026-04-25-33b3ff12",
+      "headline": "Zelenskyy says he is ready to meet Putin in Azerbaijan",
+      "summary": "In a significant first visit to the South Caucasus since the start of Russia’s all-out war, Ukraine's President Volodymyr Zelenskyy said in a statement next to President Ilham Aliyev he is ready to meet Vladimir Putin in Azerbaijan after the US-led diplomatic talks have stalled over the past weeks.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/25/zelenskyy-says-he-is-ready-to-meet-putin-in-azerbaijan",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "10:58",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
+      "id": "2026-04-25-14bd4035",
+      "headline": "Trump cancels US negotiators' trip to Pakistan for Iran talks as Araghchi departs Islamabad",
+      "summary": "US special envoys Steve Witkoff and Jared Kushner were expected to arrive in Pakistan on Saturday to conduct a second round of peace talks between the US and Iran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/04/25/irans-fm-abbas-araghchi-meets-with-pakistan-officials-but-rules-out-direct-talks-with-us",
+      "region": "NA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "09:04",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
+      "id": "2026-04-25-bea108e9",
+      "headline": "Seven dead in major Russian attack on Ukraine",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "12:29",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-25-04e5317c",
+      "headline": "Mexico says US agents killed in crash weren't permitted to operate there",
+      "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2491we011o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-04-25",
+      "time": "17:40",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-04-25-3a1b3053",
@@ -130,18 +242,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-25-59f98a4d",
-      "headline": "Trump cancels trip by US negotiators for peace talks with Iran",
-      "summary": "President said he was no longer sending Steve Witkoff and Jared Kushner to Pakistan",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
+      "id": "2026-04-25-90812690",
+      "headline": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
+      "summary": "The incident is the latest in a series of US strikes on alleged drug trafficking boats.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Pakistan",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "17:08",
+      "time": "14:57",
       "conflict_id": null,
-      "score": 42.4
+      "score": 43.0
     },
     {
       "id": "2026-04-25-af5cfa10",
@@ -158,6 +270,20 @@
       "score": 42.4
     },
     {
+      "id": "2026-04-25-1e8d325e",
+      "headline": "EU Leaders Convene in Cyprus Amid Iran War",
+      "summary": "European countries need to step up strategically in the Middle East, strike deals with partners across the region and try to bring an end to the Iran war, Cyprus’ foreign minister said Friday. Bloomberg News Chief Europe Correspondent Oliver Crook joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/eu-leaders-convene-in-cyprus-amid-iran-war-video",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "16:05",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
       "id": "2026-04-25-00349f1c",
       "headline": "DOJ Drops Powell Probe, Smoothing Path for Kevin Warsh",
       "summary": "The Justice Department said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, an attempt to clear the obstacle that has stalled Kevin Warsh's confirmation as his possible successor. Bloomberg News Justice Department Reporter Chris Strohm and Reporter Enda Curran join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
@@ -172,32 +298,18 @@
       "score": 42.1
     },
     {
-      "id": "2026-04-25-c8360069",
-      "headline": "Flights resume at Tehran airport as US-Iran ceasefire holds",
-      "summary": "International flights have resumed at Tehran’s Imam Khomeini International Airport, after weeks of disruption by the war",
+      "id": "2026-04-25-ac725293",
+      "headline": "Overnight Russian attacks on Ukraine kill five, injure 30",
+      "summary": "Russia launched more than 600 drones and 47 missiles as it targeted eight regions in Dnipro, authorities say.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tehran",
+      "url": "https://www.aljazeera.com/news/2026/4/25/overnight-russian-attacks-on-ukraine-kill-five-wound-over-30?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "12:23",
+      "time": "08:44",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-04-25-999810f7",
-      "headline": "Asia's great disconnect: Markets boom as Iran war fuels cost of living crisis",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "",
-      "conflict_id": null,
-      "score": 38.8
     },
     {
       "id": "2026-04-25-40780968",
@@ -212,34 +324,6 @@
       "time": "",
       "conflict_id": null,
       "score": 38.8
-    },
-    {
-      "id": "2026-04-25-bea108e9",
-      "headline": "Seven dead in major Russian attack on Ukraine",
-      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "12:29",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-25-81e69ad0",
-      "headline": "America’s bid for energy supremacy is being forged in war",
-      "summary": "The US stands to benefit as war in Iran reshapes oil and gas flows, but Europe and Asia are wary of becoming too reliant on American supply",
-      "source": "Financial Times",
-      "url": "https://ig.ft.com/global-energy-flows/",
-      "region": "EU",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-04-25-07aabaec",
@@ -298,16 +382,16 @@
       "score": 32.9
     },
     {
-      "id": "2026-04-25-353a72cd",
-      "headline": "Elections without sovereignty: What Palestine’s local vote represents",
-      "summary": "The elections offer participation without power, revealing how occupation shapes and limits Palestinian political life.",
+      "id": "2026-04-25-3633ec83",
+      "headline": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+      "summary": "Iranian FM Araghchi met Pakistani PM Sharif in Islamabad as part of efforts to revive direct negotiations with the US.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/4/25/elections-without-sovereignty-what-palestines-local-vote-really-represent?traffic_source=rss",
-      "region": "MENA",
-      "country": "Palestine",
-      "category": "politics",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss",
+      "region": "SA",
+      "country": "Islamabad",
+      "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "05:50",
+      "time": "17:06",
       "conflict_id": null,
       "score": 31.4
     },
@@ -503,7 +587,21 @@
       "country": "Congress",
       "category": "politics",
       "date": "2026-04-25",
-      "time": "16:27",
+      "time": "17:50",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-04-25-ddf0c3d1",
+      "headline": "Tennessee Passed a Slate of Immigration Bills. Here’s What They Do.",
+      "summary": "The Republican supermajority in the Tennessee General Assembly approved a series of immigrations bills, crafted in coordination with the White House.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/tennessee-immigration-bills-what-to-know.html",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "09:02",
       "conflict_id": null,
       "score": 25.2
     },
@@ -534,6 +632,20 @@
       "time": "07:01",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-04-25-ee640d66",
+      "headline": "Joy and desire for change as Gaza’s Deir el-Balah holds elections",
+      "summary": "Deir el-Balah residents vote for first time since 2006 despite destruction, displacement and genocide.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/4/25/joy-and-desire-for-change-as-gazas-deir-el-balah-holds-elections?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "17:25",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-04-25-1436908f",
@@ -648,6 +760,20 @@
       "score": 48.0
     },
     {
+      "id": "2026-04-24-3d224b7b",
+      "headline": "EU leaders vow to boost security and economic ties with Middle East to minimise effect of Iran war",
+      "summary": "Leaders from Lebanon, Egypt, Syria and Jordan as well as the secretary general of the Gulf Cooperation Council, were in Nicosia to meet their European Union counterparts on the sidelines of an EU summit.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/24/eu-leaders-vow-to-boost-security-and-economic-ties-with-middle-east-to-minimise-effect-of-",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "18:36",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-04-24-133c1adf",
       "headline": "Philippines' Duterte to stand trial as ICC confirms crimes against humanity charges",
       "summary": "Ex-president Rodrigo Duterte is accused of the extrajudicial killing of thousands during his \"war on drugs\".",
@@ -662,48 +788,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-24-3c35f4d5",
-      "headline": "31 Sloths Acquired by an Orlando Animal Attraction Died, Officials Say",
-      "summary": "Many of the deaths were attributed to a lack of heat at an unauthorized warehouse that Sloth World was using, officials said.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/24/us/sloth-deaths-orlando.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "23:23",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-04-24-a56042fd",
-      "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "16:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-24-c0009e32",
-      "headline": "Thousands at risk after multi-million dollar Everest flood warning system left to rust",
-      "summary": "The flood warning system at Imja glacial lake has not been maintained since 2016, fearful locals tell BBC.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czjwr93vrrzo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "23:28",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-04-24-eb8b7f0f",
       "headline": "US justice department drops probe into Fed chairman Jerome Powell",
       "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
@@ -714,20 +798,6 @@
       "category": "politics",
       "date": "2026-04-24",
       "time": "19:10",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-24-262db29e",
-      "headline": "Key suspect in notorious Tadamon massacre during Syria civil war arrested",
-      "summary": "Amjad Youssef was wanted over the mass killing of blindfolded civilians in April 2013 in the district of Damascus.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvglxgq1p2jo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Syria",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "10:41",
       "conflict_id": null,
       "score": 35.0
     },
@@ -758,20 +828,6 @@
       "time": "08:39",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-04-24-6f8557eb",
-      "headline": "Trump Says He Dislikes Prediction Markets. His Family Invests in Them.",
-      "summary": "The White House has warned staff not to wager on government decisions, but his family’s involvement with these firms undermines the president’s message.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/24/us/politics/trump-prediction-markets.html",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "19:44",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-04-24-938d1569",
@@ -900,6 +956,34 @@
       "score": 24.0
     },
     {
+      "id": "2026-04-24-6ba0749e",
+      "headline": "UK House of Lords accused of 'obstructionism' as time runs out on assisted dying bill",
+      "summary": "MPs in the House of Commons had backed legalising euthanasia for adults who have been given less than six months to live and can clearly express a wish to die, in a historic vote last June.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/24/uk-house-of-lords-accused-of-obstructionism-as-time-runs-out-on-assisted-dying-bill",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-24",
+      "time": "16:56",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-04-24-6360ec5a",
+      "headline": "Judge sets trial date for suspects in Jewish charity ambulance arson attack in London",
+      "summary": "The UK has accused Tehran of using criminal proxies to conduct attacks on European soil targeting opposition media outlets and the Jewish community.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/04/24/judge-sets-trial-date-for-suspects-in-jewish-charity-ambulance-arson-attack-in-london",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-04-24",
+      "time": "16:15",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-04-23-ec59461d",
       "headline": "Israeli strikes kill eight Palestinians in Gaza, first responders say",
       "summary": "One strike killed three children and two adults near a mosque in the northern town of Beit Lahia on Wednesday evening.",
@@ -911,7 +995,7 @@
       "date": "2026-04-23",
       "time": "13:15",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-04-23-565c8b29",
@@ -1009,21 +1093,7 @@
       "date": "2026-04-22",
       "time": "16:19",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-04-22-fa4624cb",
-      "headline": "Tracking ships under fire in the Strait of Hormuz",
-      "summary": "Iran's top negotiator says it's \"not possible to reopen\" the strait due to \"blatent violations\" of US-Iran ceasefire.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-04-22",
-      "time": "20:12",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 60.0
     },
     {
       "id": "2026-04-22-55704909",
@@ -1066,34 +1136,6 @@
       "time": "08:35",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-22-64515478",
-      "headline": "America’s descent into state capitalism is exaggerated",
-      "summary": "Particularly by the state",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/22/americas-descent-into-state-capitalism-is-exaggerated",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-04-22",
-      "time": "19:20",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
-      "id": "2026-04-21-430e487c",
-      "headline": "Robot chases wild boars off the streets of Warsaw",
-      "summary": "The Polish capital has seen the number of wild boar on its streets soar to more than 3,000 - a 20-fold increase since 2020.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cp864m61d0mo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-21",
-      "time": "15:53",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-21-247bdd37",
