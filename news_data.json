@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-25T13:48:58.288000+00:00",
+  "updated": "2026-04-25T14:34:28.599333+00:00",
   "story_count": 85,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-04-25-61bf9371",
@@ -116,20 +116,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-04-25-78ba6405",
-      "headline": "31 sloths die in Florida before opening of attraction",
-      "summary": "Many died due to conditions at a Florida warehouse where they'd been shipped, while others arrived from South America dead, authorities say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "04:02",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-04-25-922440b3",
       "headline": "White House Sends Team to Pakistan as Iran Balks at Talks",
       "summary": "President Donald Trump has sent envoys to Pakistan with the intention of meeting with Iranian officials, while Tehran sounded a pessimistic tone on the prospects for talks to end the eight-week war roiling the global economy. Bloomberg News Deputy UAE Bureau Chief Abeer Abu Omar, Washington Correspondent Josh Wingrove and Senior Reporter Dan Strumpf join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
@@ -158,20 +144,6 @@
       "score": 50.1
     },
     {
-      "id": "2026-04-25-77d6d551",
-      "headline": "Iran says no direct talks planned as U.S. envoys set to leave for Pakistan",
-      "summary": "Iran’s foreign minister arrived in Islamabad for talks with Pakistani officials. The White House said Steve Witkoff and Jared Kushner would leave for Islamabad on Saturday.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/24/iran-talks-resume-no-vance/",
-      "region": "SA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "10:05",
-      "conflict_id": null,
-      "score": 49.9
-    },
-    {
       "id": "2026-04-25-33b3ff12",
       "headline": "Zelenskyy says he is ready to meet Putin in Azerbaijan",
       "summary": "In a significant first visit to the South Caucasus since the start of Russia’s all-out war, Ukraine's President Volodymyr Zelenskyy said in a statement next to President Ilham Aliyev he is ready to meet Vladimir Putin in Azerbaijan after the US-led diplomatic talks have stalled over the past weeks.",
@@ -186,18 +158,18 @@
       "score": 49.0
     },
     {
-      "id": "2026-04-25-0f69de17",
-      "headline": "Iran war live: Araghchi holds meetings in Islamabad; US envoys on their way",
-      "summary": "Israeli attacks on southern Lebanon continue, with the latest killing at least four in town of Yahmor al-Shaqif.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/25/iran-war-live-tehrans-fm-in-islamabad-us-says-envoys-to-travel-for-talks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Islamabad",
+      "id": "2026-04-25-77d6d551",
+      "headline": "Iran says no direct talks planned as U.S. envoys set to leave for Pakistan",
+      "summary": "Iran’s foreign minister arrived in Islamabad for talks with Pakistani officials. The White House said Steve Witkoff and Jared Kushner would leave for Islamabad on Saturday.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/24/iran-talks-resume-no-vance/",
+      "region": "SA",
+      "country": "White House",
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "00:00",
+      "time": "10:05",
       "conflict_id": null,
-      "score": 47.4
+      "score": 48.9
     },
     {
       "id": "2026-04-25-bea108e9",
@@ -212,6 +184,48 @@
       "time": "12:29",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-04-25-3a1b3053",
+      "headline": "Thirty-one sloths die in Florida before opening of attraction",
+      "summary": "Many died due to conditions at a warehouse they'd been shipped to, while others arrived dead, authorities say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz675j3y151o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "04:02",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-25-af5cfa10",
+      "headline": "Where is Marco Rubio?",
+      "summary": "Donald Trump’s secretary of state and national security adviser has taken a back seat during the Iran war crisis",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8830ec25-483e-44ee-ae3d-141bcb8e1f75",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-04-25-00349f1c",
+      "headline": "DOJ Drops Powell Probe, Smoothing Path for Kevin Warsh",
+      "summary": "The Justice Department said it would end its criminal investigation of Federal Reserve Chair Jerome Powell, an attempt to clear the obstacle that has stalled Kevin Warsh's confirmation as his possible successor. Bloomberg News Justice Department Reporter Chris Strohm and Reporter Enda Curran join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/doj-drops-powell-probe-smoothing-path-for-kevin-warsh-video",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "12:30",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-04-25-ac725293",
@@ -368,8 +382,8 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-25-4006b08c",
-      "headline": "The Billion-Barrel Oil Shock Is About to Crash Demand",
+      "id": "2026-04-25-f27f7ee4",
+      "headline": "The Billion-Barrel Hormuz Oil Shock Is About to Crash Demand",
       "summary": "The Strait of Hormuz oil shock has yet to crash demand as the rich world borrows from its stocks and pays up to secure supply. Traders are now sounding the alarm that a harsh adjustment is coming.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-04-25/the-hormuz-billion-barrel-oil-shock-is-about-to-crash-demand",
@@ -508,6 +522,20 @@
       "score": 24.9
     },
     {
+      "id": "2026-04-25-fb9eda9a",
+      "headline": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
+      "summary": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfiresAs wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the woods.As the situation deteriorated, authorities turned the request into a prohibition: anyone caught hiking under the shade of the forest canopy faced a C$25,000 fine – a figure more than half the average worker’s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/25/canada-nova-scotia-wildfire-woods-ban",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-25",
+      "time": "14:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-04-25-45d92124",
       "headline": "Cory Bernardi repays more than $40,000 for flying on Gina Rinehart’s plane during SA election campaign",
       "summary": "Former Liberal party senator, who was elected to state upper house in March, says flights ‘worth every cent’Get our breaking news email, free app or daily news podcastOne Nation’s South Australian leader has paid back Australia’s richest person for private flights he took while campaigning in the state’s recent election.Cory Bernardi confirmed on Saturday that he had reimbursed a “substantial” sum of money to Gina Rinehart’s company S Kidman &amp",
@@ -620,20 +648,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-04-24-3c35f4d5",
-      "headline": "31 Sloths Acquired by an Orlando Animal Attraction Died, Officials Say",
-      "summary": "Many of the deaths were attributed to a lack of heat at an unauthorized warehouse that Sloth World was using, officials said.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/24/us/sloth-deaths-orlando.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "23:23",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
       "id": "2026-04-24-c1dd957d",
       "headline": "Florida officials investigate planned ‘Sloth World’ attraction after 31 sloths die in warehouse",
       "summary": "Languorous tree dwellers from Guyana and Peru died from ‘cold stun’ in warehouse with no power or running waterSign up for the Breaking News US newsletter emailWildlife officials in Florida said in a newly released report that dozens of sloths taken from South American rainforests for display at a controversial new tourist attraction in Orlando died in the care of their new owners.An incident report from the Florida fish and wildlife conservation",
@@ -676,6 +690,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-04-24-3c35f4d5",
+      "headline": "31 Sloths Acquired by an Orlando Animal Attraction Died, Officials Say",
+      "summary": "Many of the deaths were attributed to a lack of heat at an unauthorized warehouse that Sloth World was using, officials said.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/24/us/sloth-deaths-orlando.html",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "23:23",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-04-24-45c627a3",
       "headline": "Prince Harry visits Kyiv to back Ukraine and spotlight mine clearance",
       "summary": "Ukraine welcomed Prince Harry to Kyiv on Thursday 23 April 2026 for a two day visit that remained unannounced until his arrival.",
@@ -688,20 +716,6 @@
       "time": "15:12",
       "conflict_id": "ukraine-war",
       "score": 41.0
-    },
-    {
-      "id": "2026-04-24-a56042fd",
-      "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
-      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "16:04",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-24-eb8b7f0f",
@@ -758,34 +772,6 @@
       "time": "19:44",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-04-24-1c66b620",
-      "headline": "How Kevin Warsh Could Shrink the Fed’s Footprint in Financial Markets",
-      "summary": "President Trump’s nominee to become the next chair of the Federal Reserve wants to overhaul the central bank, including its more than $6 trillion balance sheet.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/24/us/politics/kevin-warsh-fed-rates-balance-sheet.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-24",
-      "time": "15:06",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-04-24-4c657f91",
-      "headline": "How frustration at Cop stalemates inspires first global talks on phasing out fossil fuels",
-      "summary": "‘Coalition of the willing’ gathers in Colombia to try to bypass petrostate blockages of Cop summits and chart fresh pathThe world’s first Transitioning Away from Fossil Fuels conference, co-hosted by Colombia and the Netherlands, takes place in Santa Marta, Colombia, from 24 to 29 April. A “coalition of the willing” – including 54 countries and various subnational governments, civil society groups and academics – will try to chart a new path to p",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/apr/24/global-talks-ditch-fossil-fuels-colombia",
-      "region": "EU",
-      "country": "Netherlands",
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "11:42",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-04-24-938d1569",
@@ -1082,16 +1068,16 @@
       "score": 59.0
     },
     {
-      "id": "2026-04-22-bab0d0a2",
-      "headline": "US and Iran 'locked in war of words' says Lyse Doucet",
-      "summary": "The US confirmed on Tuesday night that the Vice-President's trip to Pakistan for a second round of peace talks has been cancelled.",
+      "id": "2026-04-22-fa4624cb",
+      "headline": "Tracking ships under fire in the Strait of Hormuz",
+      "summary": "Iran's top negotiator says it's \"not possible to reopen\" the strait due to \"blatent violations\" of US-Iran ceasefire.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pakistan",
+      "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-04-22",
-      "time": "08:37",
+      "time": "20:12",
       "conflict_id": null,
       "score": 43.0
     },
@@ -1150,6 +1136,20 @@
       "time": "08:35",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-04-22-64515478",
+      "headline": "America’s descent into state capitalism is exaggerated",
+      "summary": "Particularly by the state",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/22/americas-descent-into-state-capitalism-is-exaggerated",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "19:20",
+      "conflict_id": null,
+      "score": 25.8
     },
     {
       "id": "2026-04-21-247bdd37",
