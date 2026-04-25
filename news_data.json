@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-25T18:54:13.122150+00:00",
-  "story_count": 84,
+  "updated": "2026-04-25T19:36:10.611463+00:00",
+  "story_count": 83,
   "source_count": 9,
   "stories": [
     {
@@ -32,34 +32,6 @@
       "score": 74.0
     },
     {
-      "id": "2026-04-25-ae1a38bf",
-      "headline": "West Bank and part of Gaza vote in first municipal elections since war",
-      "summary": "Municipal elections in the West Bank and central Gaza mark the first vote since the Gaza war, with Fatah-linked lists dominant and Hamas absent from the race.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/04/25/west-bank-and-part-of-gaza-vote-in-first-municipal-elections-since-war",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "09:28",
-      "conflict_id": "israel-hamas",
-      "score": 73.0
-    },
-    {
-      "id": "2026-04-25-50614930",
-      "headline": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "politics",
-      "date": "2026-04-25",
-      "time": "17:01",
-      "conflict_id": "israel-hamas",
-      "score": 71.0
-    },
-    {
       "id": "2026-04-25-7a717f7b",
       "headline": "Gaza area votes in first municipal election in 20 years",
       "summary": "Gaza officials say Deir el-Balah vote is a &#039;pilot&#039;, while occupied West Bank also goes to first polls since 2023 war.",
@@ -74,18 +46,32 @@
       "score": 67.4
     },
     {
-      "id": "2026-04-25-652ae433",
-      "headline": "West Bank scepticism as Palestinians doubt local elections will change much",
-      "summary": "Frustration with the Palestinian Authority and Israeli occupation fuel voter apathy in local West Bank elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/4/25/west-bank-scepticism-as-palestinians-doubt-local-elections-will-change-much?traffic_source=rss",
+      "id": "2026-04-25-ae1a38bf",
+      "headline": "West Bank and part of Gaza vote in first municipal elections since war",
+      "summary": "Municipal elections in the West Bank and central Gaza mark the first vote since the Gaza war, with Fatah-linked lists dominant and Hamas absent from the race.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/04/25/west-bank-and-part-of-gaza-vote-in-first-municipal-elections-since-war",
       "region": "MENA",
-      "country": "Israel",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "09:28",
+      "conflict_id": "israel-hamas",
+      "score": 65.0
+    },
+    {
+      "id": "2026-04-25-50614930",
+      "headline": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Gaza",
       "category": "politics",
       "date": "2026-04-25",
-      "time": "07:16",
+      "time": "17:01",
       "conflict_id": "israel-hamas",
-      "score": 67.4
+      "score": 63.0
     },
     {
       "id": "2026-04-25-b2703cb4",
@@ -214,20 +200,6 @@
       "score": 46.0
     },
     {
-      "id": "2026-04-25-bea108e9",
-      "headline": "Seven dead in major Russian attack on Ukraine",
-      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "12:29",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-25-04e5317c",
       "headline": "Mexico says US agents killed in crash weren't permitted to operate there",
       "summary": "The two Americans who reportedly worked for the CIA died in a car crash after a Mexican-led operation to destroy a drug lab.",
@@ -252,6 +224,20 @@
       "category": "geopolitics",
       "date": "2026-04-25",
       "time": "04:02",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-25-bea108e9",
+      "headline": "Seven dead in major Russian attack on Ukraine",
+      "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0rxk4q0pj0o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "12:29",
       "conflict_id": null,
       "score": 43.0
     },
@@ -363,7 +349,7 @@
       "country": "White House",
       "category": "politics",
       "date": "2026-04-25",
-      "time": "16:55",
+      "time": "19:12",
       "conflict_id": null,
       "score": 33.2
     },
@@ -394,6 +380,20 @@
       "time": "17:06",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-04-25-3a2f3fee",
+      "headline": "Orbán steps down from Hungarian parliament after landslide defeat",
+      "summary": "The outgoing prime minister will not take up his seat after leading his party back into opposition.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd9v1wll8qqo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "19:22",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-04-25-77942de6",
@@ -466,6 +466,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-04-25-15321297",
+      "headline": "Cheap Private Credit Funds Draw Bargain Hunters",
+      "summary": "Bargain hunters are snatching up private lending funds in the stock market, eager to buy assets that look cheap by a key measure.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-25/cheap-private-credit-funds-draw-bargain-hunters-credit-weekly",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-25",
+      "time": "19:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-25-577371f8",
       "headline": "Billion-Barrel Hormuz Oil Shock Is About to Crash Demand",
       "summary": "The Strait of Hormuz oil shock has yet to crash demand as the rich world borrows from its stocks and pays up to secure supply. Traders are now sounding the alarm that a harsh adjustment is coming. Bloomberg News Washington Bureau Chief Peggy Collins and White House Correspondent Jeff Mason join David Gura and Christina Ruffini on Bloomberg This Weekend for a wide-ranging conversation on the latest in politics. (Source: Bloomberg)",
@@ -522,20 +536,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-25-25dc4491",
-      "headline": "‘He Has the Market in a Chokehold’: Stocks Swing as Trump Posts",
-      "summary": "There are lots of things that can move the stock market, from economic data, to Federal Reserve pronouncements, to corporate developments. But for the past 15 months, traders’ fortunes have been largely tethered to the whims of a single person: President Donald Trump.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-25/-he-has-the-market-in-a-chokehold-stocks-swing-as-trump-posts",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-25",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-25-1bc1ff9f",
       "headline": "Decoding Muskism: Beyond the Billionaire",
       "summary": "The world's richest man may soon also be the world's first trillionaire as Elon Musk's SpaceX targets an IPO with a valuation of around $1.5 Trillion in what would be the largest IPO ever. Muskism: A Guide for the Perplexed authors Ben Tarnoff and Quinn Slobodian join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss \"Muskism,\" referring to the ideology and worldview that shaped Musk. They say it is \"an operating system for th",
@@ -564,18 +564,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-25-e52bfdb0",
-      "headline": "Thousands Protest Against Outgoing Malaysian Anti-Graft Chief",
-      "summary": "Thousands of Malaysians gathered in Kuala Lumpur on Saturday, reiterating calls for the establishment of a Royal Commission of Inquiry into allegations involving outgoing anti-graft chief Azam Baki.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-25/thousands-protest-against-outgoing-malaysian-anti-graft-chief",
-      "region": "APJ",
-      "country": "Malaysia",
+      "id": "2026-04-25-27ac7413",
+      "headline": "In California, a Voter ID Proposal Is Set to Appear on the Ballot in November",
+      "summary": "A Republican-backed initiative has cleared the signature threshold for the election. Critics say the proposal could make it harder for people to vote.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/california-voter-id-citizenship-ballot.html",
+      "region": "NA",
+      "country": null,
       "category": "politics",
       "date": "2026-04-25",
-      "time": "10:15",
+      "time": "19:10",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-04-25-24bf0fc7",
@@ -588,20 +588,6 @@
       "category": "politics",
       "date": "2026-04-25",
       "time": "18:17",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-04-25-ddf0c3d1",
-      "headline": "Tennessee Passed a Slate of Immigration Bills. Here’s What They Do.",
-      "summary": "The Republican supermajority in the Tennessee General Assembly approved a series of immigrations bills, crafted in coordination with the White House.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/us/politics/tennessee-immigration-bills-what-to-know.html",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-04-25",
-      "time": "09:02",
       "conflict_id": null,
       "score": 25.2
     },
