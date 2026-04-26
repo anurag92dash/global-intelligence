@@ -51,9 +51,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "escalating",
-    "last_activity": "2026-04-25",
+    "status_signal": "stable",
+    "last_activity": "2026-04-26",
     "recent_headlines": [
+      {
+        "headline": "Netanyahu orders army to 'vigorously attack' Hezbollah in Lebanon",
+        "source": "BBC News",
+        "date": "2026-04-26"
+      },
       {
         "headline": "Palestinians vote in West Bank and central Gaza municipal elections, the first since war started",
         "source": "Euronews",
@@ -62,11 +67,6 @@
       {
         "headline": "Palestinians in West Bank and some in Gaza vote in local elections",
         "source": "BBC News",
-        "date": "2026-04-25"
-      },
-      {
-        "headline": "West Bank and part of Gaza vote in first municipal elections since war",
-        "source": "Euronews",
         "date": "2026-04-25"
       }
     ],
