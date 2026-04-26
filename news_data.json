@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T20:55:24.308858+00:00",
-  "story_count": 80,
+  "updated": "2026-04-26T21:27:08.221836+00:00",
+  "story_count": 82,
   "source_count": 9,
   "stories": [
     {
@@ -153,9 +153,23 @@
       "country": "White House",
       "category": "politics",
       "date": "2026-04-26",
-      "time": "20:47",
+      "time": "20:59",
       "conflict_id": null,
       "score": 49.9
+    },
+    {
+      "id": "2026-04-26-e40b9071",
+      "headline": "Gunman Was Tackled by Law Enforcement Near Correspondents’ Dinner Security Checkpoint",
+      "summary": "The gunman did not make it inside the hotel ballroom where President Trump, top officials and hundreds of journalists had gathered for dinner.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/suspect-correspondents-dinner-details.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-26",
+      "time": "04:12",
+      "conflict_id": null,
+      "score": 49.2
     },
     {
       "id": "2026-04-26-ffc11597",
@@ -186,20 +200,6 @@
       "score": 46.0
     },
     {
-      "id": "2026-04-26-82bcf149",
-      "headline": "Trump evacuated after shots fired near White House correspondents' dinner",
-      "summary": "Following the incident, US President Donald Trump posted a picture of the alleged suspect who reportedly opened fire near the ballroom where the annual correspondents' dinner was being held.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/26/trump-evacuated-after-shots-fired-near-white-house-correspondents-dinner",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-04-26",
-      "time": "05:49",
-      "conflict_id": null,
-      "score": 46.0
-    },
-    {
       "id": "2026-04-26-c76911b2",
       "headline": "Mali defence minister killed as country hit by wave of rebel attacks",
       "summary": "A wave of coordinated attacks by jihadist militants and separatists has spread through the country.",
@@ -209,7 +209,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-04-26",
-      "time": "20:36",
+      "time": "20:56",
       "conflict_id": null,
       "score": 43.0
     },
@@ -312,6 +312,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-04-26-d25c1ec2",
+      "headline": "Colombia president says rebels behind highway bombing that killed 14 people",
+      "summary": "Political violence has escalated in Colombia ahead of next month's presidential election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgx5kyyj8do?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "politics",
+      "date": "2026-04-26",
+      "time": "00:24",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-26-45e8ae1d",
       "headline": "Sen. Tillis Expected to Clear Way for Warsh as Fed Chair",
       "summary": "Bloomberg's Michael McKee breaks down the big week ahead for the Fed, with Jerome Powell's final press conference on rate cuts this Wednesday as his term ends next month. Hours earlier, the Senate Banking Committee will move forward with confirming Kevin Warsh to be the next Fed Chair after the DOJ investigation was dropped. Sunday morning, Sen. Thom Tillis (R-North Carolina) said he would support Warsh's nomination. (Source: Bloomberg)",
@@ -396,16 +410,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-04-26-9b4f14b3",
-      "headline": "Bloomberg This Weekend 4/26/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by CNN Legal Analyst and “Five Bullets: The Story of Bernie Goetz” Author Elliot Williams, Taylor Law Enforcement Consulting Group Roy Taylor, Representative Michael McCaul, JRepresentative Don Beyer, Former Biden Senior Advisor John McCarthy and Risin",
+      "id": "2026-04-26-9d309ddb",
+      "headline": "Goldman, JPMorgan Show Wall Street’s Split in Quantum Computing Race",
+      "summary": "As a breakthrough proves elusive in the quest to deploy the nascent technology and boost earnings, global finance is divided on how to proceed.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-26/bloomberg-this-weekend-4-26-2026-video",
+      "url": "https://www.bloomberg.com/news/features/2026-04-26/wall-street-s-quantum-computing-divide-goldman-retreats-jpmorgan-invests",
       "region": "NA",
-      "country": "Biden",
+      "country": null,
       "category": "business",
       "date": "2026-04-26",
-      "time": "16:08",
+      "time": "21:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -438,13 +452,27 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-26-2e4f5bb5",
-      "headline": "Australia news live: Canavan says ‘too much talk of diversity’ in address to Canberra anti-immigration rally – as it happened",
+      "id": "2026-04-26-a83ece0a",
+      "headline": "Australia news live: Wong heads to Japan, China and South Korea to secure fuel supply; new ADF armoured vehicles ordered",
+      "summary": "Foreign affairs minister begins another diplomatic tour to secure Australia’s fuel and energy supply chains. Follow today’s news liveGet our breaking news email, free app or daily news podcastGood morning, Nick Visser here to guide you through the day’s news. Here’s what’s on deck:The foreign minister, Penny Wong, will travel to Japan today, part of a diplomatic trip to secure fuel supplies that will also include visits to China and South Korea. ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/apr/27/australia-news-live-penny-wong-fuel-crisis-cost-of-living-budget-jim-chalmers-booing-anzac-day-welcome-to-country-anthony-albanese-angus-taylor-ntwnfb",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-04-26",
+      "time": "21:19",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-04-26-5a677f37",
+      "headline": "Canavan addresses Canberra anti-immigration rally – as it happened",
       "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastThe health and NDIS minister, Mark Butler, says Queensland will be “answerable to their community” if they don’t sign on to NDIS reforms, with billions of dollars of hospital funding on the line.Every state and territory except for the sunshine state has signed a bilateral agreement with the government for the Thriving Kids program, which is designed to take childre",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/apr/26/australia-news-live-victoria-car-registration-rebate-cost-of-living-fuel-crisis-anzac-angus-taylor-albanese-chris-bowen-labor-liberal-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
+      "region": "EU",
+      "country": null,
       "category": "politics",
       "date": "2026-04-26",
       "time": "06:40",
@@ -508,14 +536,14 @@
       "score": 23.4
     },
     {
-      "id": "2026-04-26-6d2a0294",
-      "headline": "City of Beijing to bar consumer drone sales, tightening security in capital",
+      "id": "2026-04-26-9b323a5c",
+      "headline": "Tokyo condo boom cools off as interest rates rise",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/city-of-beijing-to-bar-consumer-drone-sales-tightening-security-in-capital",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/tokyo-condo-boom-cools-off-as-interest-rates-rise",
       "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
+      "country": "Tokyo",
+      "category": "business",
       "date": "2026-04-26",
       "time": "",
       "conflict_id": null,
