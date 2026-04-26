@@ -1,22 +1,8 @@
 {
-  "updated": "2026-04-26T09:00:03.726560+00:00",
+  "updated": "2026-04-26T09:54:15.416280+00:00",
   "story_count": 75,
   "source_count": 9,
   "stories": [
-    {
-      "id": "2026-04-26-64e7188a",
-      "headline": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
-      "summary": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-26",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 55.4
-    },
     {
       "id": "2026-04-26-c44a7450",
       "headline": "Security video appears to show suspect running towards White House correspondents' dinner",
@@ -60,6 +46,20 @@
       "score": 50.4
     },
     {
+      "id": "2026-04-26-fa2b61ad",
+      "headline": "What We Know About the Shooting at the White House Correspondents’ Dinner",
+      "summary": "A gunman carrying multiple weapons attempted to break into the dinner that President Trump was attending. Police have taken a suspect into custody.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/26/us/politics/what-we-know-white-house-correspondents-dinner-shooting.html",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-04-26",
+      "time": "09:19",
+      "conflict_id": null,
+      "score": 50.2
+    },
+    {
       "id": "2026-04-26-1ae1874f",
       "headline": "Trump Describes His Mind-Set After Shooting at White House Correspondents’ Dinner",
       "summary": "Very little was clear about what had happened at the Washington Hilton on Saturday night. But the president wanted to talk about it.",
@@ -69,7 +69,7 @@
       "country": "White House",
       "category": "politics",
       "date": "2026-04-26",
-      "time": "05:24",
+      "time": "09:20",
       "conflict_id": null,
       "score": 50.2
     },
@@ -144,8 +144,8 @@
       "score": 48.4
     },
     {
-      "id": "2026-04-26-f14430f7",
-      "headline": "Chernobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
+      "id": "2026-04-26-f3e7b656",
+      "headline": "Chornobyl’s surviving ‘liquidators’ return 40 years after nuclear disaster",
       "summary": "About 600,000 soldiers, firefighters, engineers, miners and medics cleaned up after the nuclear plant explosion.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/gallery/2026/4/26/survivors-return-to-chernobyl-40-years-after-devastating-explosion?traffic_source=rss",
@@ -154,6 +154,20 @@
       "category": "geopolitics",
       "date": "2026-04-26",
       "time": "08:52",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-04-26-ad690b14",
+      "headline": "Iran war live: Tehran rejects talks under siege, Araghchi in Oman",
+      "summary": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-26",
+      "time": "00:00",
       "conflict_id": null,
       "score": 47.4
     },
@@ -438,20 +452,6 @@
       "score": 53.0
     },
     {
-      "id": "2026-04-25-709e63f1",
-      "headline": "Trump cancels trip by US negotiators for Iran peace talks",
-      "summary": "President said he was no longer sending Steve Witkoff and Jared Kushner to Pakistan",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "21:10",
-      "conflict_id": null,
-      "score": 51.4
-    },
-    {
       "id": "2026-04-25-3ad2d101",
       "headline": "BBC visits Chernobyl ghost city 40 years after world's worst nuclear accident",
       "summary": "The BBC's Jessica Parker visits Pripyat, which was abandoned in 1986 after an explosion at the nearby Chernobyl nuclear power plant.",
@@ -464,6 +464,20 @@
       "time": "23:01",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-04-25-709e63f1",
+      "headline": "Trump cancels trip by US negotiators for Iran peace talks",
+      "summary": "President said he was no longer sending Steve Witkoff and Jared Kushner to Pakistan",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c3be45f6-0e2d-4683-bd10-e0ba726ffade",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "21:10",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-04-25-94f24232",
@@ -546,20 +560,6 @@
       "category": "geopolitics",
       "date": "2026-04-25",
       "time": "12:29",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-04-25-90812690",
-      "headline": "Two killed in strike on alleged drug boat in Pacific Ocean, US military says",
-      "summary": "The incident is the latest in a series of US strikes on alleged drug trafficking boats.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cge03pjv2zqo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "14:57",
       "conflict_id": null,
       "score": 43.0
     },
