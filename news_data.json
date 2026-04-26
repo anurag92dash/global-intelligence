@@ -1,7 +1,7 @@
 {
-  "updated": "2026-04-26T14:09:18.101870+00:00",
+  "updated": "2026-04-26T14:59:33.310444+00:00",
   "story_count": 80,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-04-26-c44a7450",
@@ -74,8 +74,8 @@
       "score": 50.2
     },
     {
-      "id": "2026-04-26-c3f14228",
-      "headline": "Live updates: Suspected gunman at White House correspondents’ dinner may have been targeting Trump, acting AG says",
+      "id": "2026-04-26-adbc01f7",
+      "headline": "Live updates: White House correspondents’ dinner shooting suspect may have been targeting Trump, acting AG says",
       "summary": "The shooting prompted the evacuation of President Donald Trump and other high-profile guests from the White House Correspondents’ Association dinner Saturday. The suspect is in custody.",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/politics/2026/04/26/trump-correspondents-dinner-shooting-live-updates/",
@@ -83,23 +83,9 @@
       "country": "White House",
       "category": "politics",
       "date": "2026-04-26",
-      "time": "13:56",
+      "time": "14:55",
       "conflict_id": null,
       "score": 49.9
-    },
-    {
-      "id": "2026-04-26-e40b9071",
-      "headline": "Gunman Was Tackled by Law Enforcement Near Correspondents’ Dinner Security Checkpoint",
-      "summary": "The gunman did not make it inside the hotel ballroom where President Trump, top officials and hundreds of journalists had gathered for dinner.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/us/politics/suspect-correspondents-dinner-details.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-26",
-      "time": "04:12",
-      "conflict_id": null,
-      "score": 49.2
     },
     {
       "id": "2026-04-26-f3e7b656",
@@ -170,6 +156,20 @@
       "time": "00:34",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-04-26-e40b9071",
+      "headline": "Gunman Was Tackled by Law Enforcement Near Correspondents’ Dinner Security Checkpoint",
+      "summary": "The gunman did not make it inside the hotel ballroom where President Trump, top officials and hundreds of journalists had gathered for dinner.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/suspect-correspondents-dinner-details.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-04-26",
+      "time": "04:12",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-04-26-1c6632f7",
@@ -398,7 +398,7 @@
     {
       "id": "2026-04-26-1b146096",
       "headline": "Ryanair to shut Berlin base as it blames rise in German aviation tax",
-      "summary": "Trade union criticises airline’s plan to halve passenger numbers to the city as  ‘purely profit-oriented’  Ryanair is to shut its Berlin operating base and cut its winter schedule to the German capital in half, blaming its decision on soaring aviation taxes in the country.The Irish budget carrier said its relocation of seven aircraft to other centres would reduce its Berlin passenger numbers from 4.5 million to 2.2 million a year, with flights in",
+      "summary": "Trade union criticises airline’s plan to halve passenger numbers to the city as  ‘purely profit-oriented’  Ryanair is to shut its Berlin operating base and cut its winter schedule to the German capital in half, blaming soaring aviation taxes in the country.The Irish budget carrier said its relocation of seven aircraft to other centres would reduce its Berlin passenger numbers from 4.5 million to 2.2 million a year, with flights in and out of the ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/apr/26/ryanair-shut-berlin-base-blames-german-aviation-tax-union",
       "region": "EU",
@@ -788,20 +788,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-25-577371f8",
-      "headline": "Billion-Barrel Hormuz Oil Shock Is About to Crash Demand",
-      "summary": "The Strait of Hormuz oil shock has yet to crash demand as the rich world borrows from its stocks and pays up to secure supply. Traders are now sounding the alarm that a harsh adjustment is coming. Bloomberg News Washington Bureau Chief Peggy Collins and White House Correspondent Jeff Mason join David Gura and Christina Ruffini on Bloomberg This Weekend for a wide-ranging conversation on the latest in politics. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-25/billion-barrel-hormuz-oil-shock-is-about-to-crash-demand-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-04-25",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-04-25-fb9eda9a",
       "headline": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
       "summary": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfiresAs wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the woods.As the situation deteriorated, authorities turned the request into a prohibition: anyone caught hiking under the shade of the forest canopy faced a C$25,000 fine – a figure more than half the average worker’s",
@@ -1094,6 +1080,20 @@
       "time": "16:46",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-04-22-64515478",
+      "headline": "America’s descent into state capitalism is exaggerated",
+      "summary": "Particularly by the state",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/22/americas-descent-into-state-capitalism-is-exaggerated",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-04-22",
+      "time": "19:20",
+      "conflict_id": null,
+      "score": 25.8
     },
     {
       "id": "2026-04-21-247bdd37",
