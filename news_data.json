@@ -1,8 +1,106 @@
 {
-  "updated": "2026-04-25T23:52:20.168184+00:00",
-  "story_count": 79,
-  "source_count": 9,
+  "updated": "2026-04-26T01:21:28.162360+00:00",
+  "story_count": 78,
+  "source_count": 8,
   "stories": [
+    {
+      "id": "2026-04-26-64e7188a",
+      "headline": "Iran war live: Tehran rejects talks under siege, Trump cancels envoys’ trip",
+      "summary": "Trump says Iran did not make a satisfactory offer, as Iranian Foreign Minister Abbas Araghchi departs Pakistan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/4/26/iran-war-live-tehran-rejects-talks-under-siege-trump-cancels-envoys-trip?traffic_source=rss",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-04-26",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-04-26-999810f7",
+      "headline": "Asia's great disconnect: Markets boom as Iran war fuels cost of living crisis",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/big-in-asia/asia-s-great-disconnect-markets-boom-as-iran-war-fuels-cost-of-living-crisis",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-04-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
+    },
+    {
+      "id": "2026-04-26-0bee1b8b",
+      "headline": "Islamabad residents bear cost of Pakistan's US-Iran mediation",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/islamabad-residents-bear-cost-of-pakistan-s-us-iran-mediation",
+      "region": "SA",
+      "country": "Islamabad",
+      "category": "geopolitics",
+      "date": "2026-04-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-04-26-44168304",
+      "headline": "Bank branches in Japan tapped to double as luggage hubs",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/travel-leisure/bank-branches-in-japan-tapped-to-double-as-luggage-hubs",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-04-26-11f02c33",
+      "headline": "Uzbekistan pushes digital, aiming to formalize shadow economy",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/uzbekistan-pushes-digital-aiming-to-formalize-shadow-economy",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-04-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-04-26-0aa3d579",
+      "headline": "Nvidia not competing with clients on AI models: vice president",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-not-competing-with-clients-on-ai-models-vice-president",
+      "region": "APJ",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-04-26-0b683c98",
+      "headline": "Prudential 'still very committed' to Japan market: CEO",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/insurance/prudential-still-very-committed-to-japan-market-ceo",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-04-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
     {
       "id": "2026-04-25-61bf9371",
       "headline": "Russian airstrikes kill at least seven people in Ukraine overnight",
@@ -15,35 +113,7 @@
       "date": "2026-04-25",
       "time": "13:17",
       "conflict_id": "ukraine-war",
-      "score": 76.0
-    },
-    {
-      "id": "2026-04-25-34c8fc49",
-      "headline": "Palestinians vote in West Bank and central Gaza municipal elections, the first since war started",
-      "summary": "The elections, held in the Israeli-occupied West Bank and in Gaza's Deir al-Balah, are taking place against the backdrop of a highly volatile political and security environment.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/25/palestinians-vote-in-west-bank-and-central-gaza-municipal-elections-the-first-since-war-st",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "16:56",
-      "conflict_id": "israel-hamas",
-      "score": 65.0
-    },
-    {
-      "id": "2026-04-25-50614930",
-      "headline": "Palestinians in West Bank and some in Gaza vote in local elections",
-      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "politics",
-      "date": "2026-04-25",
-      "time": "17:01",
-      "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 68.0
     },
     {
       "id": "2026-04-25-ea88df20",
@@ -71,21 +141,7 @@
       "date": "2026-04-25",
       "time": "12:24",
       "conflict_id": null,
-      "score": 59.1
-    },
-    {
-      "id": "2026-04-25-ae1a38bf",
-      "headline": "West Bank and part of Gaza vote in first municipal elections since war",
-      "summary": "Municipal elections in the West Bank and central Gaza mark the first vote since the Gaza war, with Fatah-linked lists dominant and Hamas absent from the race.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/04/25/west-bank-and-part-of-gaza-vote-in-first-municipal-elections-since-war",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "09:28",
-      "conflict_id": "israel-hamas",
-      "score": 57.0
+      "score": 58.1
     },
     {
       "id": "2026-04-25-709e63f1",
@@ -100,20 +156,6 @@
       "time": "21:10",
       "conflict_id": null,
       "score": 51.4
-    },
-    {
-      "id": "2026-04-25-f822727c",
-      "headline": "Strait of Hormuz Remains Near-Empty With Just a Few Iran Ships Moving",
-      "summary": "The Strait of Hormuz remains largely empty of merchant ships, with only a few Tehran-linked vessels moving through the waterway, following a tense week that saw Iranian gunboat attacks and tanker interceptions by the US Navy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-25/strait-of-hormuz-remains-near-empty-with-just-a-few-iran-ships-moving",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "11:58",
-      "conflict_id": null,
-      "score": 50.1
     },
     {
       "id": "2026-04-25-77d6d551",
@@ -144,20 +186,6 @@
       "score": 49.2
     },
     {
-      "id": "2026-04-25-33b3ff12",
-      "headline": "Zelenskyy says he is ready to meet Putin in Azerbaijan",
-      "summary": "In a significant first visit to the South Caucasus since the start of Russia’s all-out war, Ukraine's President Volodymyr Zelenskyy said in a statement next to President Ilham Aliyev he is ready to meet Vladimir Putin in Azerbaijan after the US-led diplomatic talks have stalled over the past weeks.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/25/zelenskyy-says-he-is-ready-to-meet-putin-in-azerbaijan",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "10:58",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
-    },
-    {
       "id": "2026-04-25-2f716c28",
       "headline": "Trump cancels US envoys’ trip after Iran’s Araghchi leaves Pakistan",
       "summary": "Iranian state media reports foreign minister expected to return to Islamabad on Sunday night.",
@@ -169,35 +197,21 @@
       "date": "2026-04-25",
       "time": "18:16",
       "conflict_id": null,
-      "score": 48.4
+      "score": 47.4
     },
     {
-      "id": "2026-04-25-14bd4035",
-      "headline": "Trump cancels US negotiators' trip to Pakistan for Iran talks as Araghchi departs Islamabad",
-      "summary": "US special envoys Steve Witkoff and Jared Kushner were expected to arrive in Pakistan on Saturday to conduct a second round of peace talks between the US and Iran.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/25/irans-fm-abbas-araghchi-meets-with-pakistan-officials-but-rules-out-direct-talks-with-us",
-      "region": "NA",
-      "country": "Islamabad",
-      "category": "geopolitics",
+      "id": "2026-04-25-50614930",
+      "headline": "Palestinians in West Bank and some in Gaza vote in local elections",
+      "summary": "Local elections have been held in the occupied West Bank and in one Gazan city, though Hamas and other groups are not taking part.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4vej3x0wxo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "politics",
       "date": "2026-04-25",
-      "time": "09:04",
-      "conflict_id": null,
-      "score": 46.0
-    },
-    {
-      "id": "2026-04-25-91b7983b",
-      "headline": "Russian strikes kill at least seven and injure dozens across Ukraine",
-      "summary": "Most of those killed and injured in Russian overnight attacks were in the eastern Ukrainian city of Dnipro, where an attack killed at least five and injured more than 30.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/04/25/russian-strikes-kill-at-least-seven-and-injure-dozens-across-ukraine",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "13:31",
-      "conflict_id": null,
-      "score": 45.0
+      "time": "17:01",
+      "conflict_id": "israel-hamas",
+      "score": 47.0
     },
     {
       "id": "2026-04-25-04e5317c",
@@ -228,6 +242,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-04-25-94f24232",
+      "headline": "At White House Correspondents Dinner, Trump Will Dine With Reporters He’s Been Roasting",
+      "summary": "President Trump has boycotted the White House Correspondents’ Association dinner in previous years.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-white-house-correspondents-dinner.html",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "19:12",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-04-25-c8360069",
+      "headline": "Flights resume at Tehran airport as US-Iran ceasefire holds",
+      "summary": "International flights have resumed at Tehran’s Imam Khomeini International Airport, after weeks of disruption by the war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/flights-resume-at-tehran-airport-as-us-iran-ceasefire-holds?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "12:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-04-25-bea108e9",
       "headline": "Seven dead in major Russian attack on Ukraine",
       "summary": "The city of Dnipro was hardest hit, with officials saying four died in a strike on a residential building.",
@@ -239,21 +281,49 @@
       "date": "2026-04-25",
       "time": "12:29",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
-      "id": "2026-04-25-1e8d325e",
-      "headline": "EU Leaders Convene in Cyprus Amid Iran War",
-      "summary": "European countries need to step up strategically in the Middle East, strike deals with partners across the region and try to bring an end to the Iran war, Cyprus’ foreign minister said Friday. Bloomberg News Chief Europe Correspondent Oliver Crook joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-04-25/eu-leaders-convene-in-cyprus-amid-iran-war-video",
+      "id": "2026-04-25-f410bd7d",
+      "headline": "'Animals are traumatised too': Pet rescuers under fire in Ukraine",
+      "summary": "Animal rescue teams reveal the risks they take to rescue dogs, cats and other animals from the war in eastern Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn783emlgdno?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Europe",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "16:05",
+      "time": "04:58",
       "conflict_id": null,
-      "score": 42.1
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-25-8d469e93",
+      "headline": "Hope in Gaza as 300 couples get married at one time",
+      "summary": "The 300 couples were selected in a draw of nearly 2,000 people to be a part of the joint celebration.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cr71g8p2e9eo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "16:35",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-25-81e69ad0",
+      "headline": "America’s bid for energy supremacy is being forged in war",
+      "summary": "The US stands to benefit as war in Iran reshapes oil and gas flows, but Europe and Asia are wary of becoming too reliant on American supply",
+      "source": "Financial Times",
+      "url": "https://ig.ft.com/global-energy-flows/",
+      "region": "EU",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-04-25-7c5452f2",
@@ -266,6 +336,20 @@
       "category": "politics",
       "date": "2026-04-25",
       "time": "19:44",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-04-25-1e8d325e",
+      "headline": "EU Leaders Convene in Cyprus Amid Iran War",
+      "summary": "European countries need to step up strategically in the Middle East, strike deals with partners across the region and try to bring an end to the Iran war, Cyprus’ foreign minister said Friday. Bloomberg News Chief Europe Correspondent Oliver Crook joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-04-25/eu-leaders-convene-in-cyprus-amid-iran-war-video",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "16:05",
       "conflict_id": null,
       "score": 34.1
     },
@@ -284,20 +368,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-04-25-94f24232",
-      "headline": "At White House Correspondents Dinner, Trump Will Dine With Reporters He’s Been Roasting",
-      "summary": "President Trump has boycotted the White House Correspondents’ Association dinner in previous years.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/us/politics/trump-white-house-correspondents-dinner.html",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-04-25",
-      "time": "19:12",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-04-25-dbcc62ff",
       "headline": "Trump eager to show off latest White House project to King Charles",
       "summary": "The president’s black granite path is the newest change to the West Wing, following gold lettering, Oval Office gilding and a “Presidential Walk of Fame.”",
@@ -312,8 +382,22 @@
       "score": 32.9
     },
     {
-      "id": "2026-04-25-376324f2",
-      "headline": "Explosion in southwest Colombia kills at least seven, state governor says",
+      "id": "2026-04-25-ca91ab6b",
+      "headline": "Protesters stage Epstein protest before White House Correspondents’ Dinner",
+      "summary": "Photos of Jeffrey Epstein and US President Trump were projected onto the hotel hosting a gala for White House press.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/protesters-stage-epstein-protest-before-white-house-correspondents-dinner?traffic_source=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-04-25",
+      "time": "23:50",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-04-25-732ee05e",
+      "headline": "Explosion in southwest Colombia kills at least 14, state governor says",
       "summary": "Authorities in Cauca region demand &#039;decisive&#039; government action after deadly explosion on Pan-American Highway.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/4/25/explosion-in-southwest-colombia-kills-at-leat-seven-state-governor-says?traffic_source=rss",
@@ -322,20 +406,6 @@
       "category": "politics",
       "date": "2026-04-25",
       "time": "21:03",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-04-25-3633ec83",
-      "headline": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
-      "summary": "Iranian FM Araghchi met Pakistani PM Sharif in Islamabad as part of efforts to revive direct negotiations with the US.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss",
-      "region": "SA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "17:06",
       "conflict_id": null,
       "score": 31.4
     },
@@ -522,20 +592,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-04-25-5da9194b",
-      "headline": "In Deep Blue California, a G.O.P.-Backed Voter ID Proposal Makes the Ballot",
-      "summary": "A Republican-backed initiative has cleared the signature threshold for the November election. Critics say the measure could make it harder for people to vote.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/us/politics/california-voter-id-citizenship-ballot.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-25",
-      "time": "23:07",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-04-25-fb9eda9a",
       "headline": "What counts as the woods? Judge axes Nova Scotia’s ban that defied ‘commonsense definitions’",
       "summary": "The court sided with a Canadian hiker who deliberately challenged the order imposed to curb spread of wildfiresAs wildfires raged across Nova Scotia last summer, the Canadian province made a simple plea to residents: stay away from the woods.As the situation deteriorated, authorities turned the request into a prohibition: anyone caught hiking under the shade of the forest canopy faced a C$25,000 fine – a figure more than half the average worker’s",
@@ -552,7 +608,7 @@
     {
       "id": "2026-04-25-61b0e609",
       "headline": "It costs $230 out-of-pocket to see a dermatologist. Many Australians go without – despite soaring skin cancer rates",
-      "summary": "Exclusive: Report shows cost of first appointment rose $20 in one year, with steeper rises in Western Australia, South Australia and TasmaniaGet our breaking news email, free app or daily news podcastPatients are increasingly going without medically necessary dermatological care, the head of the Consumers Health Forum said, as new report reveals the rising cost of the specialty in Australia.Dermatology is expensive and getting pricier, with an av",
+      "summary": "Exclusive: Report shows cost of first appointment rose $20 in one year, with steeper rises in Western Australia, South Australia and TasmaniaFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastPatients are increasingly going without medically necessary dermatological care, the head of the Consumers Health Forum said, as new report reveals the rising cost of the specialty in Australia.De",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/apr/25/dermatologist-costs-australia-skin-cancer-rates",
       "region": "APJ",
@@ -620,74 +676,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-04-25-0bee1b8b",
-      "headline": "Islamabad residents bear cost of Pakistan's US-Iran mediation",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/islamabad-residents-bear-cost-of-pakistan-s-us-iran-mediation",
+      "id": "2026-04-25-3633ec83",
+      "headline": "Iran FM Abbas Araghchi and Pakistan PM Shehbaz Sharif meet in Pakistan",
+      "summary": "Iranian FM Araghchi met Pakistani PM Sharif in Islamabad as part of efforts to revive direct negotiations with the US.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/4/25/iran-fm-abbas-araghchi-and-pakistan-pm-shehbaz-sharif-meet-in-pakistan?traffic_source=rss",
       "region": "SA",
       "country": "Islamabad",
       "category": "geopolitics",
       "date": "2026-04-25",
-      "time": "",
+      "time": "17:06",
       "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-25-44168304",
-      "headline": "Bank branches in Japan tapped to double as luggage hubs",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/travel-leisure/bank-branches-in-japan-tapped-to-double-as-luggage-hubs",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-04-25",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-25-11f02c33",
-      "headline": "Uzbekistan pushes digital, aiming to formalize shadow economy",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/uzbekistan-pushes-digital-aiming-to-formalize-shadow-economy",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-25",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-25-0aa3d579",
-      "headline": "Nvidia not competing with clients on AI models: vice president",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/nvidia-not-competing-with-clients-on-ai-models-vice-president",
-      "region": "APJ",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-25",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-04-25-0b683c98",
-      "headline": "Prudential 'still very committed' to Japan market: CEO",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/insurance/prudential-still-very-committed-to-japan-market-ceo",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-04-25",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
+      "score": 23.4
     },
     {
       "id": "2026-04-24-c1dd957d",
@@ -702,20 +702,6 @@
       "time": "13:56",
       "conflict_id": null,
       "score": 48.0
-    },
-    {
-      "id": "2026-04-24-3d224b7b",
-      "headline": "EU leaders vow to boost security and economic ties with Middle East to minimise effect of Iran war",
-      "summary": "Leaders from Lebanon, Egypt, Syria and Jordan as well as the secretary general of the Gulf Cooperation Council, were in Nicosia to meet their European Union counterparts on the sidelines of an EU summit.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/24/eu-leaders-vow-to-boost-security-and-economic-ties-with-middle-east-to-minimise-effect-of-",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-04-24",
-      "time": "18:36",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-04-24-133c1adf",
@@ -746,6 +732,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-04-24-a56042fd",
+      "headline": "Nato says 'no provision' to expel members after report US could seek to suspend Spain",
+      "summary": "An internal Pentagon email reportedly outlines options to punish allies over a perceived lack of support for Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cz78x703lrvo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Pentagon",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "16:04",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-24-eb8b7f0f",
       "headline": "US justice department drops probe into Fed chairman Jerome Powell",
       "summary": "President Donald Trump had accused Powell of improper cost overruns in renovating the Fed's building.",
@@ -756,6 +756,20 @@
       "category": "politics",
       "date": "2026-04-24",
       "time": "19:10",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-24-903213f0",
+      "headline": "Couple discovers Lebanon home destroyed by Israel from satellite image",
+      "summary": "Joe Elias contacted BBC Verify following reports that his village was among several destroyed by Israeli forces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvg30jkvklno?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "02:58",
       "conflict_id": null,
       "score": 35.0
     },
@@ -900,20 +914,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-24-6ba0749e",
-      "headline": "UK House of Lords accused of 'obstructionism' as time runs out on assisted dying bill",
-      "summary": "MPs in the House of Commons had backed legalising euthanasia for adults who have been given less than six months to live and can clearly express a wish to die, in a historic vote last June.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/04/24/uk-house-of-lords-accused-of-obstructionism-as-time-runs-out-on-assisted-dying-bill",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-24",
-      "time": "16:56",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-23-ec59461d",
       "headline": "Israeli strikes kill eight Palestinians in Gaza, first responders say",
       "summary": "One strike killed three children and two adults near a mosque in the northern town of Beit Lahia on Wednesday evening.",
@@ -925,7 +925,7 @@
       "date": "2026-04-23",
       "time": "13:15",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 55.0
     },
     {
       "id": "2026-04-23-565c8b29",
@@ -956,20 +956,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-23-dba23e2e",
-      "headline": "Iran says Strait of Hormuz cannot be opened due to ceasefire breaches",
-      "summary": "Iran's chief negotiator says \"violations\" by the US and Israel make it impossible to open the strait.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3w3vqv0edpo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-23",
-      "time": "01:09",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-04-23-03e7b63a",
       "headline": "Woman killed by bear in Polish forest, son and local government say",
       "summary": "In an extremely rare fatal encounter, the 58-year-old was killed as she was walking in a mountainous area, her son told rescuers.",
@@ -980,6 +966,20 @@
       "category": "politics",
       "date": "2026-04-23",
       "time": "18:16",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-23-84c05ccc",
+      "headline": "US-Kuwaiti journalist held in Kuwait over social media posts acquitted, lawyers say",
+      "summary": "Ahmed Shihab-Eldin reportedly faced charges, including spreading false information, after he re-posted images related to the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy81ljrd445o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Kuwait",
+      "category": "geopolitics",
+      "date": "2026-04-23",
+      "time": "15:11",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1023,19 +1023,19 @@
       "date": "2026-04-22",
       "time": "16:19",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
-      "id": "2026-04-22-fa4624cb",
-      "headline": "Tracking ships under fire in the Strait of Hormuz",
-      "summary": "Iran's top negotiator says it's \"not possible to reopen\" the strait due to \"blatent violations\" of US-Iran ceasefire.",
+      "id": "2026-04-22-bab0d0a2",
+      "headline": "US and Iran 'locked in war of words' says Lyse Doucet",
+      "summary": "The US confirmed on Tuesday night that the Vice-President's trip to Pakistan for a second round of peace talks has been cancelled.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c1l93gg7zmno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
+      "url": "https://www.bbc.com/news/videos/cvg3yxkrd0po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-04-22",
-      "time": "20:12",
+      "time": "08:37",
       "conflict_id": null,
       "score": 43.0
     },
@@ -1094,20 +1094,6 @@
       "time": "23:12",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-18-723880d2",
-      "headline": "Chernobyl's last wedding: The couple who married as a nuclear disaster unfolded",
-      "summary": "Serhiy and Iryna married 40 years ago, unaware a nuclear reactor had exploded less than 3 miles away.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0q92lx8q75o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-18",
-      "time": "23:05",
-      "conflict_id": null,
-      "score": 51.0
     }
   ]
 }
