@@ -1,6 +1,6 @@
 {
-  "updated": "2026-04-26T18:37:00.488199+00:00",
-  "story_count": 79,
+  "updated": "2026-04-26T19:33:32.933978+00:00",
+  "story_count": 78,
   "source_count": 9,
   "stories": [
     {
@@ -13,7 +13,7 @@
       "country": "White House",
       "category": "geopolitics",
       "date": "2026-04-26",
-      "time": "15:42",
+      "time": "18:49",
       "conflict_id": null,
       "score": 57.2
     },
@@ -57,6 +57,20 @@
       "date": "2026-04-26",
       "time": "13:20",
       "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
+      "id": "2026-04-26-82e091c4",
+      "headline": "Trump says shooting incident shows why he needs new White House ballroom",
+      "summary": "President calls for legal action against $400mn project to be dropped after security breach at media dinner",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/95af64ee-9ede-4ad6-9cd5-cfc09acc630f",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-04-26",
+      "time": "18:51",
+      "conflict_id": null,
       "score": 51.4
     },
     {
@@ -198,20 +212,6 @@
       "time": "00:34",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-26-e40b9071",
-      "headline": "Gunman Was Tackled by Law Enforcement Near Correspondents’ Dinner Security Checkpoint",
-      "summary": "The gunman did not make it inside the hotel ballroom where President Trump, top officials and hundreds of journalists had gathered for dinner.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/25/us/politics/suspect-correspondents-dinner-details.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-04-26",
-      "time": "04:12",
-      "conflict_id": null,
-      "score": 41.2
     },
     {
       "id": "2026-04-26-1c6632f7",
@@ -377,7 +377,7 @@
       "country": "Israel",
       "category": "politics",
       "date": "2026-04-26",
-      "time": "16:06",
+      "time": "18:51",
       "conflict_id": null,
       "score": 26.4
     },
@@ -406,20 +406,6 @@
       "category": "business",
       "date": "2026-04-26",
       "time": "14:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-04-26-34fa5708",
-      "headline": "Israel President Holds Off Deciding Whether to Pardon Netanyahu",
-      "summary": "Israeli President Isaac Herzog has decided to shelve, for now, Prime Minister Benjamin Netanyahu’s request for a pardon in his graft trial, preferring to press the parties to reach an agreement that would terminate the case consensually, his office announced.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-26/israel-president-holds-off-deciding-whether-to-pardon-netanyahu",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-04-26",
-      "time": "12:13",
       "conflict_id": null,
       "score": 26.1
     },
