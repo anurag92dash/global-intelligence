@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-01T21:33:43.822260+00:00",
-  "story_count": 75,
-  "source_count": 10,
+  "updated": "2026-05-01T22:32:00.189023+00:00",
+  "story_count": 74,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-05-01-cf465693",
@@ -16,6 +16,20 @@
       "time": "21:05",
       "conflict_id": null,
       "score": 68.0
+    },
+    {
+      "id": "2026-05-01-ad46d8b5",
+      "headline": "Trump Tells Congress Why He Doesn’t Need Its Authorization for the Iran War",
+      "summary": "In letters to the House and Senate, the president asserted that the hostilities had “terminated,” in an apparent attempt to avoid having to seek congressional approval.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-congress-authorization-iran-war.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-05-01",
+      "time": "22:00",
+      "conflict_id": null,
+      "score": 57.2
     },
     {
       "id": "2026-05-01-96c20f3b",
@@ -46,32 +60,18 @@
       "score": 52.0
     },
     {
-      "id": "2026-05-01-1734dd41",
-      "headline": "Trump says he will raise tariff on EU vehicles to 25%",
-      "summary": "Levies on cars and trucks exported to US will be imposed ‘next week’ unless companies manufacture at American plants",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
+      "id": "2026-05-01-acee52c6",
+      "headline": "It's not just oil: Iran war also threatens Asia's food security",
+      "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
       "date": "2026-05-01",
-      "time": "18:47",
+      "time": "00:01",
       "conflict_id": null,
-      "score": 50.4
-    },
-    {
-      "id": "2026-05-01-d5d83dba",
-      "headline": "Trump Threatens Higher Tariffs on European Cars",
-      "summary": "President Trump said that the European Union was not upholding its part of a trade agreement and that he would increase tariffs next week.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-tariffs-eu-cars.html",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "19:36",
-      "conflict_id": null,
-      "score": 49.2
+      "score": 51.0
     },
     {
       "id": "2026-05-01-4ae738aa",
@@ -86,62 +86,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 48.0
-    },
-    {
-      "id": "2026-05-01-39fbac60",
-      "headline": "Trump tears up part of EU tariff deal to raise import duties on cars and lorries",
-      "summary": "US president says tariff on vehicles imported from EU will rise to 25% and accuses bloc of non-complianceDonald Trump has said he is tearing up part of the tariff deal he struck with EU leaders at his golf course in Scotland last summer, criticising Brussels for taking so long to ratify the deal.Blindsiding Brussels late on Friday, a public holiday in much of Europe, he announced that he would be increasing tariffs on cars and lorries imported in",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
-      "region": "EU",
-      "country": "Brussels",
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "19:08",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-05-01-9fc22be9",
-      "headline": "Trump announces 25 percent tariffs on European Union cars, trucks",
-      "summary": "US president says EU ‘not complying’ with current trade deal, launches new tariffs to begin next week.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "18:10",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-01-932acb81",
-      "headline": "Trump to raise US tariffs on EU cars to 25%, accusing bloc of not complying with deal",
-      "summary": "Trump and European Commission President Ursula von der Leyen agreed to the trade deal last July which set a 15% tariff on most goods.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/01/trump-says-will-raise-us-tariffs-on-eu-cars-to-25-accusing-bloc-of-not-complying-with-deal",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "16:39",
-      "conflict_id": null,
-      "score": 46.0
-    },
-    {
-      "id": "2026-05-01-513c5022",
-      "headline": "US President Donald Trump says 'not satisfied' with new peace proposal from Iran",
-      "summary": "Meanwhile, Washington is gripped by a legalistic debate over whether Trump has passed a deadline for requesting congressional approval for the war.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/01/us-president-donald-trump-says-not-satisfied-with-new-peace-proposal-from-iran",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "18:48",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-05-01-942d7fa2",
@@ -172,20 +116,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-01-acee52c6",
-      "headline": "It's not just oil: Iran war also threatens Asia's food security",
-      "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "00:01",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-01-94741b6d",
       "headline": "Iran war diverts more ships from Suez to long route round Africa",
       "summary": "Despite higher costs, shipping companies opt for safer Asia-Europe freight passages via Cape of Good Hope",
@@ -196,6 +126,20 @@
       "category": "geopolitics",
       "date": "2026-05-01",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-05-01-1734dd41",
+      "headline": "Trump says he will raise tariff on EU vehicles to 25%",
+      "summary": "Levies on cars and trucks exported to US will be imposed ‘next week’ unless companies manufacture at American plants",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "18:47",
       "conflict_id": null,
       "score": 42.4
     },
@@ -212,6 +156,20 @@
       "time": "16:57",
       "conflict_id": null,
       "score": 42.4
+    },
+    {
+      "id": "2026-05-01-d5d83dba",
+      "headline": "Trump Threatens Higher Tariffs on European Cars",
+      "summary": "President Trump said that the European Union was not upholding its part of a trade agreement and that he would increase tariffs next week.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-tariffs-eu-cars.html",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "19:36",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-05-01-69a6a24d",
@@ -256,16 +214,30 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-01-d1bbca08",
-      "headline": "Police say they will charge people with unrest in Alice Springs after arrest over death of Kumanjayi Little Baby",
-      "summary": "Five-year-old’s grandfather and senior Warlpiri elder appeals for calm, saying: ‘It is time now for sorry business’• Warning: This article contains references to and images of Indigenous Australians who have diedNorthern Territory police say one person is facing charges and more are expected to be over unrest in Alice Springs after the arrest of a man in connection with the death of five-year-old girl.The grandfather of Kumanjayi Little Baby, who",
+      "id": "2026-05-01-dcda309f",
+      "headline": "US withdrawing 5,000 troops from Germany after Merz says US ‘humiliated’ by Iran",
+      "summary": "US president says European countries are ‘absolutely horrible’ to refuse to support operations in strait of HormuzThe US is withdrawing 5,000 troops from Germany, the Pentagon announced on Friday, as Donald Trump also threatened Italy and Spain for not helping to reopen the strait of Hormuz.The president’s move to reduce the number deployed in Germany came after Germany’s chancellor, Friedrich Merz, said the US was being “humiliated” by Iran. Con",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/01/alice-springs-arrest-death-kumanjayi-little-baby-ntwnfb",
-      "region": "NA",
-      "country": "Australia",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz",
+      "region": "EU",
+      "country": "Pentagon",
       "category": "geopolitics",
       "date": "2026-05-01",
-      "time": "03:28",
+      "time": "22:11",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-05-01-39fbac60",
+      "headline": "Trump tears up part of EU tariff deal to raise import duties on cars and lorries",
+      "summary": "US president says tariff on vehicles imported from EU will rise to 25% and accuses bloc of non-complianceDonald Trump has said he is tearing up part of the tariff deal he struck with EU leaders at his golf course in Scotland last summer, criticising Brussels for taking so long to ratify the deal.Blindsiding Brussels late on Friday, a public holiday in much of Europe, he announced that he would be increasing tariffs on cars and lorries imported in",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "politics",
+      "date": "2026-05-01",
+      "time": "19:08",
       "conflict_id": null,
       "score": 40.0
     },
@@ -280,6 +252,34 @@
       "category": "geopolitics",
       "date": "2026-05-01",
       "time": "21:10",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-01-bec37bee",
+      "headline": "Photos: Cuba holds May Day celebrations amid US threats",
+      "summary": "March celebrating International Workers&#039; Day coincided with announcement of further US sanctions on island.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/1/photos-cuba-holds-may-day-celebrations-amid-us-threats?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "19:07",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-01-9fc22be9",
+      "headline": "Trump announces 25 percent tariffs on European Union cars, trucks",
+      "summary": "US president says EU ‘not complying’ with current trade deal, launches new tariffs to begin next week.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "18:10",
       "conflict_id": null,
       "score": 39.4
     },
@@ -466,20 +466,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-05-01-98562c36",
-      "headline": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
-      "summary": "The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
-      "region": "EU",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "16:03",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-05-01-efdc8a17",
       "headline": "The KOSPI's miracle surge comes with a warning label",
       "summary": "",
@@ -578,6 +564,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-01-43b3866b",
+      "headline": "What the Maine Senate Race Feels Like on the Ground",
+      "summary": "The anti-establishment mood is palpable in the state, home to one of the country’s top Senate contests. But Senator Susan Collins has some strengths.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/politics/maine-senate-primary-election.html",
+      "region": "EU",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-05-01",
+      "time": "21:32",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-05-01-f0647322",
       "headline": "Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?",
       "summary": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy futureLooking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Caribbean coast, it is never hard to spot evidence of the country’s thriving fossil fuel export trade. Oil tankers ride at anchor on the horizon and sometimes, locals say, lumps of coal wash up on the shore, blown off the collier ships that carry cargos from",
@@ -592,20 +592,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-01-6d96c916",
-      "headline": "Antigua and Barbuda prime minister set to win fourth term in election",
-      "summary": "Gaston Browne is on course to win 15 of the 17 seats in parliament after calling snap electionGaston Browne, the prime minister of Antigua and Barbuda, is set to win a fourth term in the country’s snap general election with preliminary results showing his party on course to win 15 of the 17 seats in parliament.Addressing supporters early on Friday morning, Browne said: “You have spoken, you have spoken clearly. You have indicated that the Antigua",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/01/antigua-barbuda-gaston-browne-win-election",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "10:54",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-05-01-203c4e51",
       "headline": "UAE exit from OPEC signals closer alignment with US interests, experts say",
       "summary": "UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.",
@@ -616,6 +602,20 @@
       "category": "business",
       "date": "2026-05-01",
       "time": "16:32",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-05-01-98562c36",
+      "headline": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
+      "summary": "The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
+      "region": "EU",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "16:03",
       "conflict_id": null,
       "score": 23.4
     },
@@ -746,6 +746,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-04-30-489b00bb",
+      "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
+      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "20:15",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-04-30-0f4f4b7a",
       "headline": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
       "summary": "President Lula’s veto of the bill was overturned by Brazil’s congress and senate, meaning it now awaits confirmation by supreme court Brazil’s largely conservative congress has approved a bill reducing the prison sentence of the far-right former president Jair Bolsonaro, who was convicted last year of attempting a coup.The bill had initially been passed by congress in December, but President Luiz Inácio Lula da Silva vetoed it in January in a sym",
@@ -844,20 +858,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-04-30-f1002808",
-      "headline": "Maine Gov. Janet Mills drops out of race to unseat Republican Sen. Susan Collins",
-      "summary": "The seat is critical to Democrats’ hopes of retaking the Senate. Graham Platner, an oyster farmer and Democrat, is likely to win the primary.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/30/mills-maine-senate-collins-platner/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-04-30",
-      "time": "14:01",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-04-30-94368ba9",
       "headline": "China to ban drone sales in Beijing citing security concerns",
       "summary": "Drone users will also be required to register their devices and secure permits before flying them.",
@@ -898,20 +898,6 @@
       "time": "09:19",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-04-29-ad93ca35",
-      "headline": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-      "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-29",
-      "time": "13:01",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-29-e1f58fdb",
