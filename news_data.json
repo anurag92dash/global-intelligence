@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-01T08:32:03.702776+00:00",
-  "story_count": 78,
+  "updated": "2026-05-01T10:10:10.993345+00:00",
+  "story_count": 77,
   "source_count": 9,
   "stories": [
-    {
-      "id": "2026-05-01-37e7e2bb",
-      "headline": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
-      "summary": "Israeli attacks on Lebanon killed at least 2,586 people and wounded more than 8,000 since March 2, local media report.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 64.4
-    },
     {
       "id": "2026-05-01-d012b50f",
       "headline": "Iran War: Trump Says Blockade Having 'Incredible' Effect | Daybreak Europe 05/01/2026",
@@ -46,6 +32,20 @@
       "score": 56.4
     },
     {
+      "id": "2026-05-01-37e7e2bb",
+      "headline": "Iran war live: Tehran says US ports siege ‘intolerable’; Trump mulls action",
+      "summary": "Iran’s president says US siege of Iranian ports amounts to an “extension of military operations” by Washington.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/1/iran-war-live-tehran-says-us-ports-siege-intolerable-trump-mulls-action?traffic_source=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
       "id": "2026-05-01-f2206cd9",
       "headline": "Trump mulls US troop cuts in Italy and Spain over Iran war row",
       "summary": "Trump suggested his administration was also looking into reducing its presence in Spain and Italy over clashes with their leaders on the war in Iran. The comments come just one day after the US president made a similar proposal in Germany.",
@@ -58,6 +58,20 @@
       "time": "06:13",
       "conflict_id": null,
       "score": 54.0
+    },
+    {
+      "id": "2026-05-01-942d7fa2",
+      "headline": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
+      "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqlpvl3wx4qo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-05-01",
+      "time": "05:58",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-05-01-91bba5d8",
@@ -74,18 +88,18 @@
       "score": 49.2
     },
     {
-      "id": "2026-05-01-3e858d9c",
-      "headline": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
-      "summary": "The US president said he would carry out of a review of US military presence in Europe after public criticism of the US-Israeli war on IranItaly’s defence minister Guido Crosetto rejected accusations that Rome has not helped the US, especially in relation to maritime security in the strait of Hormuz.“I don’t understand the reasons,” he told the ANSA news agency. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
+      "id": "2026-05-01-3f7adeb1",
+      "headline": "Brazil's Congress reduces ex-President Bolsonaro's coup prison sentence",
+      "summary": "Lawmakers defied President Lula da Silva’s veto and moved to adopt a bill that would dramatically reduce former President Jair Bolsonaro’s 27-year prison sentence for plotting a coup following his loss in the October 2022 presidential elections.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/01/brazils-congress-passes-bill-to-reduce-former-president-jair-bolsonaros-27-year-prison-sen",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
       "date": "2026-05-01",
-      "time": "08:22",
+      "time": "07:13",
       "conflict_id": null,
-      "score": 48.0
+      "score": 45.0
     },
     {
       "id": "2026-05-01-511a9d95",
@@ -116,6 +130,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-01-8e3833cd",
+      "headline": "What to Know About the Maine Senate Race After Janet Mills Drops Out",
+      "summary": "The exit of Gov. Janet Mills kicked off the general election early in what is likely to be one of the most important, expensive and combative Senate races of 2026.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/politics/maine-senate-race-platner-collins-mills-takeaways.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-05-01",
+      "time": "09:07",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-05-01-4ae738aa",
       "headline": "Iran war may cause food shortages in Africa, world’s largest fertiliser firm says",
       "summary": "Yara CEO warns of global auction that would leave poorest countries scrambling for supplies they can ill affordThe Iran war could have “dramatic consequences”, causing food shortages and price rises in some of Africa’s poorest and most vulnerable communities, the head of the world’s largest fertiliser company has said.Svein Tore Holsether, the chief executive of Yara International, said world leaders needed to guard against soaring prices and sho",
@@ -128,34 +156,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-05-01-0a6376ce",
-      "headline": "‘Profoundly distressing’: record number of deaths in custody and police operations in NSW",
-      "summary": "There were 66 deaths in custody and police operations in 2025 – 18 more than the previous yearWarning: This article contains references to Indigenous Australians who have diedThere were a record number of New South Wales deaths in custody and police operations last year, with almost a quarter of prisoner deaths recorded as self-harm, a coroner’s court report states.Of those who killed themselves, most were by hanging, despite millions being inves",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/01/nsw-deaths-custody-record-number-ntwnfb",
-      "region": "NA",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "06:15",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-05-01-3f7adeb1",
-      "headline": "Brazil's Congress reduces ex-President Bolsonaro's coup prison sentence",
-      "summary": "Lawmakers defied President Lula da Silva’s veto and moved to adopt a bill that would dramatically reduce former President Jair Bolsonaro’s 27-year prison sentence for plotting a coup following his loss in the October 2022 presidential elections.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/01/brazils-congress-passes-bill-to-reduce-former-president-jair-bolsonaros-27-year-prison-sen",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "07:13",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-05-01-ae831d7e",
@@ -214,60 +214,32 @@
       "score": 34.4
     },
     {
-      "id": "2026-05-01-398739a7",
-      "headline": "Ooredoo CEO: Zero Interruptions Due to Regional Crisis",
-      "summary": "Qatar telco Ooredoo has kicked off the year with steady growth, reporting 1Q revenue up 6% y/y, in line with analyst estimates while profit climbed 4.7%. Group CEO Aziz Aluthman Fakhroo spoke to Bloomberg’s Jennifer Zabasajja on Horizons Middle East and Africa on the numbers and growth strategy despite regional tensions. (Source: Bloomberg)",
+      "id": "2026-05-01-543cb291",
+      "headline": "UK Billionaire’s Family Office Targets More Private Equity Exits",
+      "summary": "The billionaire UK founder of a home-repair business acquired by Brookfield Asset Management is working to ramp up his family office’s private equity exits, as larger buyout firms grapple with a dry spell for transactions.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-01/ooredoo-ceo-zero-interruptions-due-to-regional-crisis-video",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "06:24",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-01-0ef945ff",
-      "headline": "Yen’s Correlation With Oil Hit 2021 High Before Intervention",
-      "summary": "The correlation between dollar-yen and Brent crude rose to its highest level since late 2021 a day before Japanese authorities intervened in the currency market, underscoring the tighter link between oil prices and the yen.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/yen-s-correlation-with-oil-hit-2021-high-before-intervention",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "06:11",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-01-16c8e03b",
-      "headline": "ECB Increasingly Likely to Hike in Near Future, Muller Says",
-      "summary": "The European Central Bank will probably increase borrowing costs if the Iran war persists, according to outgoing Governing Council member Madis Muller.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/ecb-increasingly-likely-to-hike-in-near-future-muller-says",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/uk-billionaire-s-family-office-targets-more-private-equity-exits",
       "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "06:06",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-01-d8b855d3",
-      "headline": "Even Mainers Who Love Janet Mills Are Relieved to See Her Leave Race",
-      "summary": "Voters who watched Gov. Janet Mills struggle to gain traction in the Democratic Senate primary said they were unsurprised — and in many cases, ready — to see her exit.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/30/us/elections/maine-janet-mills-reaction.html",
-      "region": "NA",
-      "country": "Senate",
+      "country": null,
       "category": "politics",
       "date": "2026-05-01",
-      "time": "01:13",
+      "time": "09:54",
       "conflict_id": null,
-      "score": 33.2
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-01-b8869648",
+      "headline": "Energy Prices Underpin Strong Outlook for Japan’s Trading Houses",
+      "summary": "Japan’s big five trading houses are set to benefit from war-related supply disruptions this year, with higher energy and metals prices driving stronger earnings.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/energy-prices-underpin-strong-outlook-for-japan-s-trading-houses",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "08:45",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-01-27f678c1",
@@ -312,18 +284,88 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-01-945ed8b9",
-      "headline": "Huawei’s AI chip sales surge as Nvidia stalls in China",
-      "summary": "Chinese tech companies place large orders for the Shenzhen-based group’s latest range of AI processors",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b82fa156-d1db-40e5-bce5-3c5f8f54069b",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
+      "id": "2026-05-01-afa14270",
+      "headline": "Is Saudi Arabia's sports revolution unravelling?",
+      "summary": "Saudi Arabia will withdraw its multi-billion dollar backing of LIV Golf, but what does this mean for the country's other sporting investments? Dan Roan takes a closer look.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/articles/cglp42nnyeko?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "politics",
       "date": "2026-05-01",
-      "time": "00:15",
+      "time": "07:49",
       "conflict_id": null,
-      "score": 26.4
+      "score": 27.0
+    },
+    {
+      "id": "2026-05-01-5b73fa47",
+      "headline": "Emerging Markets Eke Out Gains in Thin-Volume Holiday Trading",
+      "summary": "Emerging-market benchmarks for stocks and currencies posted small gains in holiday-thinned trade, with most markets in Asia, Europe and Africa closed for Labour Day.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/emerging-markets-eke-out-gains-in-thin-volume-holiday-trading",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "09:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-01-b9395b90",
+      "headline": "AI Agents Are Becoming Day Traders, But Gains Are Elusive",
+      "summary": "Jake Nesler’s AI trading bot got one big decision right in its first week. It ignored the chase.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/ai-tools-for-stock-trading-put-up-mixed-results",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "09:45",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-01-61c6c7d2",
+      "headline": "Japan Likely Spent About $34.5 Billion on Yen Intervention",
+      "summary": "Japan likely spent around $34.5 billion Thursday in its first currency intervention to prop up the yen since July 2024, according to a Bloomberg analysis of central bank accounts.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/japan-likely-spent-34-5-billion-in-fx-intervention-to-boost-yen",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "09:05",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-01-4c71cde6",
+      "headline": "US Economy Is in 'Fine Shape,' Marathon's Richards Says",
+      "summary": "Bruce Richards, Marathon Asset Management CEO, co-founder and chairman, says the US economy is \"in good shape.\" Speaking on Bloomberg Television, he adds that consumer consumption looks \"rock solid.\" Richards also discusses the impact prolonged elevated oil prices could have on the economic situation and growth.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-01/us-economy-is-in-fine-shape-marathon-s-richards-says-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "08:46",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-01-b73d9e00",
+      "headline": "Yen Resumes Rally Sparked by First Intervention in Two Years",
+      "summary": "The yen resumed its advance in late trading in Tokyo after an earlier pause in the rally triggered by Japan’s first intervention in the currency market since 2024.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/yen-rally-is-at-risk-of-fading-fast-without-more-intervention",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "03:09",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-01-6e953bab",
@@ -350,62 +392,6 @@
       "category": "business",
       "date": "2026-05-01",
       "time": "07:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-b73d9e00",
-      "headline": "Yen Resumes Rally Sparked by First Intervention in Two Years",
-      "summary": "The yen resumed its advance in late afternoon trading in Tokyo after an earlier pause in the rally triggered by Japan’s first intervention in the currency market since 2024.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/yen-rally-is-at-risk-of-fading-fast-without-more-intervention",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "03:09",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-345b3a85",
-      "headline": "Ceres Power Shares Near 1,000% Gain as Fuel Cell Rally Extends",
-      "summary": "Ceres Power Holdings Plc extended a blistering rally this week, pushing one-year gains close to 1,000% as surging optimism around fuel cell technology drives the stock to multi-year highs.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/ceres-power-shares-near-1-000-gain-as-fuel-cell-rally-extends",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "06:43",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-0fcc207d",
-      "headline": "Adani Group Unveils Restructuring as It Positions for Growth",
-      "summary": "Billionaire Gautam Adani’s conglomerate unveiled plans to overhaul its operating model, in an effort to cut decision-making time as it pushes for accelerated growth across businesses.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/adani-group-unveils-restructuring-as-it-positions-for-growth",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "06:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-bc4304de",
-      "headline": "Horizons Middle East & Africa 5/1/2026",
-      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-01/horizons-middle-east-africa-5-1-2026-video",
-      "region": "NA",
-      "country": "Hong Kong",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "05:55",
       "conflict_id": null,
       "score": 26.1
     },
@@ -466,18 +452,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-01-8d7db3e1",
-      "headline": "State Street and SBI to launch low-fee investment trusts in Japan",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/finance/state-street-and-sbi-to-launch-low-fee-investment-trusts-in-japan",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-05-01-a87a16af",
+      "headline": "Podcast | Is the future looking bright or bleak for European workers?",
+      "summary": "Can the EU become more competitive while preserving its workers’ rights? What role do trade unions have in a time of deregulation? Is AI going to replace Europeans’ jobs? Brussels, My Love? tries to answer these questions.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/01/podcast-is-the-future-looking-bright-or-bleak-for-european-workers",
+      "region": "EU",
+      "country": "Brussels",
       "category": "business",
       "date": "2026-05-01",
-      "time": "",
+      "time": "09:12",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
       "id": "2026-05-01-90aff179",
@@ -547,7 +533,7 @@
       "date": "2026-04-30",
       "time": "11:40",
       "conflict_id": null,
-      "score": 57.9
+      "score": 56.9
     },
     {
       "id": "2026-04-30-60486b96",
@@ -564,6 +550,20 @@
       "score": 56.4
     },
     {
+      "id": "2026-04-30-6d0dea85",
+      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "20:34",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
+    },
+    {
       "id": "2026-04-30-489b00bb",
       "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
       "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
@@ -576,6 +576,20 @@
       "time": "20:15",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-04-30-5a65be8e",
+      "headline": "Oil Set for Weekly Gain as Trump Says Iran Blockade Will Persist",
+      "summary": "Oil held a second weekly gain as US President Donald Trump said he was sticking with a naval blockade of Iranian ports and was briefed on further military options.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/latest-oil-market-news-and-analysis-for-may-1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-04-30-3f78d3d3",
@@ -592,6 +606,20 @@
       "score": 48.9
     },
     {
+      "id": "2026-04-30-0f4f4b7a",
+      "headline": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
+      "summary": "President Lula’s veto of the bill was overturned by Brazil’s congress and senate, meaning it now awaits confirmation by supreme court Brazil’s largely conservative congress has approved a bill reducing the prison sentence of the far-right former president Jair Bolsonaro, who was convicted last year of attempting a coup.The bill had initially been passed by congress in December, but President Luiz Inácio Lula da Silva vetoed it in January in a sym",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-04-30",
+      "time": "21:18",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
       "id": "2026-04-30-66007f8a",
       "headline": "Venice Biennale jury quits amid row over participation of Russia",
       "summary": "Decision follows backlash from Italian government and European CommissionThe jury of the Venice Biennale has quit just days before the prestigious art exhibition is due to begin, amid a row over the decision to allow Russia to participate.The resignation of the five-member international jury was announced late on Thursday in a brief statement by the Venice Biennale organisers, and came a day after the Italian culture ministry sent inspectors to V",
@@ -604,20 +632,6 @@
       "time": "18:18",
       "conflict_id": null,
       "score": 48.0
-    },
-    {
-      "id": "2026-04-30-6d0dea85",
-      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "20:34",
-      "conflict_id": "israel-hamas",
-      "score": 47.0
     },
     {
       "id": "2026-04-30-f692ff3f",
@@ -662,20 +676,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-04-30-180d2c8a",
-      "headline": "Oil Holds Weekly Gain as Trump Says Iran Blockade Is Working",
-      "summary": "Oil held its second weekly gain as US President Donald Trump said he was sticking with a naval blockade of Iranian ports, elevating concerns the vital Strait of Hormuz would not reopen anytime soon.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-30/latest-oil-market-news-and-analysis-for-may-1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "22:01",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-04-30-54bc84f8",
       "headline": "How Conservatives on the Supreme Court Weakened the Voting Rights Act",
       "summary": "The Supreme Court just overturned Louisiana’s congressional voting map, landing the latest blow to the landmark Voting Rights Act. Abbie VanSickle, a reporter covering the court for The New York Times, explains.",
@@ -704,18 +704,18 @@
       "score": 41.2
     },
     {
-      "id": "2026-04-30-0f4f4b7a",
-      "headline": "Brazil’s congress approves bill reducing prison sentence of former president Jair Bolsonaro",
-      "summary": "President Lula’s veto of the bill was overturned by Brazil’s congress and senate, meaning it now awaits confirmation by supreme court Brazil’s largely conservative congress has approved a bill reducing the prison sentence of the far-right former president Jair Bolsonaro, who was convicted last year of attempting a coup.The bill had initially been passed by congress in December, but President Luiz Inácio Lula da Silva vetoed it in January in a sym",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/apr/30/brazils-congress-approves-bill-reducing-prison-sentence-of-former-president-jair-bolsonaro",
+      "id": "2026-04-30-f1002808",
+      "headline": "Maine Gov. Janet Mills drops out of race to unseat Republican Sen. Susan Collins",
+      "summary": "The seat is critical to Democrats’ hopes of retaking the Senate. Graham Platner, an oyster farmer and Democrat, is likely to win the primary.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/04/30/mills-maine-senate-collins-platner/",
       "region": "NA",
-      "country": "Congress",
+      "country": "Senate",
       "category": "politics",
       "date": "2026-04-30",
-      "time": "21:18",
+      "time": "14:01",
       "conflict_id": null,
-      "score": 40.0
+      "score": 40.9
     },
     {
       "id": "2026-04-30-29d724f2",
@@ -732,30 +732,30 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-30-e5949e44",
-      "headline": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
-      "summary": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
+      "id": "2026-04-30-1098bd3a",
+      "headline": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+      "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Iraq",
+      "country": "Germany",
       "category": "geopolitics",
       "date": "2026-04-30",
-      "time": "01:46",
+      "time": "14:47",
       "conflict_id": null,
       "score": 35.0
     },
     {
-      "id": "2026-04-30-017bdd5e",
-      "headline": "US charges Mexican governor and other leaders with aiding drug cartel",
-      "summary": "The governor of Sinaloa, Rubén Rocha Moya, hails from the same party as the president of Mexico.",
+      "id": "2026-04-30-be0d8a2d",
+      "headline": "Wada investigation finds 300 Russian doping cases",
+      "summary": "More than 300 sanctions have been handed to Russian athletes following the seizure of Moscow laboratory data in 2019, the World Anti-Doping Agency says.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpqpzlrd3wwo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "politics",
+      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
       "date": "2026-04-30",
-      "time": "03:20",
+      "time": "16:00",
       "conflict_id": null,
       "score": 35.0
     },
@@ -774,16 +774,16 @@
       "score": 32.9
     },
     {
-      "id": "2026-04-30-a2054e2d",
-      "headline": "'How are we going to get back home?' Islamist group tightens blockade on Mali capital",
-      "summary": "The blockade comes days after Mali's defence minister was assassinated in a series of nationwide attacks.",
+      "id": "2026-04-30-94368ba9",
+      "headline": "China to ban drone sales in Beijing citing security concerns",
+      "summary": "Drone users will also be required to register their devices and secure permits before flying them.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg4pq3zxnpqo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
+      "url": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
       "date": "2026-04-30",
-      "time": "14:32",
+      "time": "05:45",
       "conflict_id": null,
       "score": 27.0
     },
@@ -802,20 +802,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-04-30-94368ba9",
-      "headline": "China to ban drone sales in Beijing citing security concerns",
-      "summary": "Drone users will also be required to register their devices and secure permits before flying them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gv4dvngygo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "05:45",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-04-30-400154bf",
       "headline": "Apple credits ‘most popular’ ever iPhone for booming sales",
       "summary": "John Ternus pledges to continue ‘deliberateness and discipline’ in first comments since being named next CEO",
@@ -828,6 +814,20 @@
       "time": "23:20",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-04-30-731c45f4",
+      "headline": "Gold Declines as Trump Vows to Maintain Pressure on Iran",
+      "summary": "Gold fell as traders weighed a standoff between the US and Iran that’s dashed expectations for rate cuts from central banks across the world.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/gold-steadies-after-advancing-on-japan-s-yen-intervention",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-30",
+      "time": "22:13",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-04-30-fc711246",
@@ -900,20 +900,6 @@
       "score": 40.9
     },
     {
-      "id": "2026-04-29-bb0b8de1",
-      "headline": "What the Supreme Court did to the Voting Rights Act",
-      "summary": "Southern lawmakers can now draw congressional maps to break up minority voters, as the conservative majority continues to roll back decades-old civil rights protections.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/29/what-supreme-court-just-did/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-04-29",
-      "time": "20:09",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
       "id": "2026-04-29-e1f58fdb",
       "headline": "Global forest loss slows but El Niño fires could threaten progress",
       "summary": "The loss of tropical rainforests eased last year, according to new analysis, but scientists warn they are still disappearing rapidly.",
@@ -926,6 +912,20 @@
       "time": "13:26",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-04-29-10ea2383",
+      "headline": "More private health records of UK Biobank volunteers appear on Chinese website",
+      "summary": "Patrick Vallance says government working with Chinese officials to remove postings from Alibaba after Biobank data breach last weekThere have been further listings of confidential health records of UK volunteers on the Chinese website Alibaba since the breach reported last week, and the government is braced for further leaks, the science minister has said.Addressing a House of Lords debate on the attempted sale of data belonging to 500,000 UK Bio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/uk-data-leaks-alibaba-biobank-health-records",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-29",
+      "time": "12:16",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-04-29-ca4043be",
@@ -952,34 +952,6 @@
       "category": "business",
       "date": "2026-04-29",
       "time": "23:36",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-29-0cd817e0",
-      "headline": "Hungary's next PM says frozen EU funds will be paid out soon",
-      "summary": "Péter Magyar meets EU leaders in Brussels, for the first time since his Tisza party won a landslide election.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c392ln77w30o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Brussels",
-      "category": "politics",
-      "date": "2026-04-29",
-      "time": "19:51",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-29-84612619",
-      "headline": "Madagascar detains French national over alleged plot to stir unrest",
-      "summary": "Malagasy prosecuters used a Whatsapp group as evidence for the detained individuals alleged crimes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7v96615e99o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-04-29",
-      "time": "17:03",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1078,6 +1050,20 @@
       "category": "geopolitics",
       "date": "2026-04-25",
       "time": "23:01",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-04-24-e8e1a180",
+      "headline": "What we know about the Israel-Lebanon ceasefire",
+      "summary": "A 10-day truce between the two countries has been extended by three weeks after talks in Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-04-24",
+      "time": "07:01",
       "conflict_id": null,
       "score": 43.0
     },
