@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-01T18:44:32.504692+00:00",
-  "story_count": 82,
+  "updated": "2026-05-01T19:51:05.944366+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-01-cf465693",
+      "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "19:29",
+      "conflict_id": null,
+      "score": 68.0
+    },
     {
       "id": "2026-05-01-96c20f3b",
       "headline": "A deadline for the Iran war is here. What does the War Powers Act say?",
@@ -18,18 +32,18 @@
       "score": 64.9
     },
     {
-      "id": "2026-05-01-eaa4aa65",
-      "headline": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
-      "summary": "President Trump said on Friday that said a deal has been hard to reach in part because Iranian leadership was \"very confused\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-01-64f0f36d",
+      "headline": "Trump Says Iran Wants a Deal, But He’s ‘Not Satisfied’",
+      "summary": "President Donald Trump discusses Iran’s latest proposal to end the war and says negotiators have “made strides, but I’m not sure if they ever get there.” Trump spoke with reporters Friday at the White House.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-01/trump-says-iran-wants-a-deal-but-he-s-not-satisfied-video",
       "region": "NA",
-      "country": "Trump",
+      "country": "White House",
       "category": "geopolitics",
       "date": "2026-05-01",
-      "time": "18:41",
+      "time": "17:00",
       "conflict_id": null,
-      "score": 59.0
+      "score": 58.1
     },
     {
       "id": "2026-05-01-99487263",
@@ -46,6 +60,20 @@
       "score": 55.4
     },
     {
+      "id": "2026-05-01-513c5022",
+      "headline": "US President Donald Trump says 'not satisfied' with new peace proposal from Iran",
+      "summary": "Meanwhile, Washington is gripped by a legalistic debate over whether Trump has passed a deadline for requesting congressional approval for the war.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/01/us-president-donald-trump-says-not-satisfied-with-new-peace-proposal-from-iran",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "18:48",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
       "id": "2026-05-01-c716a358",
       "headline": "Trump says he will hike tariffs on EU cars to 25%",
       "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
@@ -55,9 +83,37 @@
       "country": "Trump",
       "category": "business",
       "date": "2026-05-01",
-      "time": "16:41",
+      "time": "19:42",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
+    },
+    {
+      "id": "2026-05-01-1734dd41",
+      "headline": "Trump says he will raise tariff on EU vehicles to 25%",
+      "summary": "Levies on cars and trucks exported to US will be imposed ‘next week’ unless companies manufacture at American plants",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "18:47",
+      "conflict_id": null,
+      "score": 51.4
+    },
+    {
+      "id": "2026-05-01-e5ca71ab",
+      "headline": "Trump Says US to Hike Tariff Rate on EU Auto Imports",
+      "summary": "President Donald Trump says he will increase tariffs on cars and trucks from the European Union to 25%, claiming the bloc is not complying with a trade agreement. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-01/trump-says-us-to-hike-tariff-rate-on-eu-auto-imports-video",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "18:59",
+      "conflict_id": null,
+      "score": 51.1
     },
     {
       "id": "2026-05-01-acee52c6",
@@ -74,32 +130,18 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-01-1734dd41",
-      "headline": "Trump says he will raise tariff on EU vehicles to 25%",
-      "summary": "Levies on cars and trucks exported to US will be imposed ‘next week’ unless companies manufacture at American plants",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5",
-      "region": "NA",
-      "country": "America",
+      "id": "2026-05-01-d5d83dba",
+      "headline": "Trump Threatens Higher Tariffs on European Cars",
+      "summary": "President Trump said that the European Union was not upholding its part of a trade agreement and that he would increase tariffs next week.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-tariffs-eu-cars.html",
+      "region": "EU",
+      "country": "Europe",
       "category": "business",
       "date": "2026-05-01",
-      "time": "16:51",
+      "time": "19:36",
       "conflict_id": null,
-      "score": 50.4
-    },
-    {
-      "id": "2026-05-01-64f0f36d",
-      "headline": "Trump Says Iran Wants a Deal, But He’s ‘Not Satisfied’",
-      "summary": "President Donald Trump discusses Iran’s latest proposal to end the war and says negotiators have “made strides, but I’m not sure if they ever get there.” Trump spoke with reporters Friday at the White House.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-01/trump-says-iran-wants-a-deal-but-he-s-not-satisfied-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "17:00",
-      "conflict_id": null,
-      "score": 50.1
+      "score": 49.2
     },
     {
       "id": "2026-05-01-4ae738aa",
@@ -116,18 +158,32 @@
       "score": 48.0
     },
     {
-      "id": "2026-05-01-d1bbca08",
-      "headline": "Police say they will charge people with unrest in Alice Springs after arrest over death of Kumanjayi Little Baby",
-      "summary": "Five-year-old’s grandfather and senior Warlpiri elder appeals for calm, saying: ‘It is time now for sorry business’• Warning: This article contains references to and images of Indigenous Australians who have diedNorthern Territory police say one person is facing charges and more are expected to be over unrest in Alice Springs after the arrest of a man in connection with the death of five-year-old girl.The grandfather of Kumanjayi Little Baby, who",
+      "id": "2026-05-01-890cdfd4",
+      "headline": "Trump tears up part of EU tariff deal and raises some import duties",
+      "summary": "US president says tariff on cars and lorries will rise to 25% and accuses European Union of non-complianceDonald Trump has said he is tearing up part of the tariff deal he struck with EU leaders at his golf course in Scotland last summer, criticising Brussels for taking so long to ratify the deal.Blindsiding Brussels late on Friday, a public holiday in much of Europe, he announced that he would be increasing tariffs on cars and lorries imported i",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/01/alice-springs-arrest-death-kumanjayi-little-baby-ntwnfb",
-      "region": "NA",
-      "country": "Australia",
-      "category": "geopolitics",
+      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "politics",
       "date": "2026-05-01",
-      "time": "03:28",
+      "time": "19:08",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-05-01-9fc22be9",
+      "headline": "Trump announces 25 percent tariffs on European Union cars, trucks",
+      "summary": "US president says EU ‘not complying’ with current trade deal, launches new tariffs to begin next week.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/trump-announces-25-percent-tariffs-on-european-union-cars-trucks?traffic_source=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "18:10",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-05-01-e623f154",
@@ -170,20 +226,6 @@
       "time": "16:39",
       "conflict_id": null,
       "score": 46.0
-    },
-    {
-      "id": "2026-05-01-d11fbe2f",
-      "headline": "Turkish police fire tear gas and arrest at least 570 people at May Day rallies",
-      "summary": "Earlier this week, authorities issued arrest warrants for 62 people, of whom they deemed 46, including journalists, trade unionists and opposition figures, were \"likely to carry out attacks.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/01/turkish-police-fire-tear-gas-and-arrest-almost-400-people-at-may-day-rallies",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "11:51",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-05-01-942d7fa2",
@@ -298,20 +340,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-01-d5d83dba",
-      "headline": "Trump Threatens Higher Tariffs on European Cars",
-      "summary": "President Trump said that the European Union was not upholding its part of a trade agreement and that he would increase tariffs next week.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-tariffs-eu-cars.html",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "17:46",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
       "id": "2026-05-01-8e3833cd",
       "headline": "What to Know About the Maine Senate Race After Janet Mills Drops Out",
       "summary": "The exit of Gov. Janet Mills kicked off the general election early in what is likely to be one of the most important, expensive and combative Senate races of 2026.",
@@ -326,20 +354,6 @@
       "score": 41.2
     },
     {
-      "id": "2026-05-01-eaf774de",
-      "headline": "Trump tears up EU tariff deal and raises some import duties",
-      "summary": "US president says tariff on cars and lorries will rise to 25% and accuses European Union of non-complianceDonald Trump has said he is tearing up part of the tariff deal he struck with EU leaders at his golf course in Scotland last summer, criticising Brussels for taking so long to ratify the deal.Blindsiding Brussels late on Friday, a public holiday in much of Europe, he announced that he would be increasing tariffs on cars and lorries imported i",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-tears-up-eu-tariff-deal-raises-import-duties-europe",
-      "region": "EU",
-      "country": "Brussels",
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "17:20",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-05-01-762681ec",
       "headline": "US warns shippers against paying Strait of Hormuz tolls, ‘donations’",
       "summary": "Latest warning comes as Iranian state media reports Tehran has presented new peace proposal to US.",
@@ -352,34 +366,6 @@
       "time": "17:18",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-05-01-98562c36",
-      "headline": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
-      "summary": "The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
-      "region": "EU",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "16:03",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-01-c0f40a5f",
-      "headline": "The UAE’s OPEC exit signals strategic shift as Gulf unity faces new test over oil policy",
-      "summary": "The UAE's exit from OPEC signals a strategic shift, raising questions about Gulf coordination and the organisation's future.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/01/uaes-opec-exit-signals-strategic-shift-as-gulf-unity-faces-new-test-over-oil-policy",
-      "region": "MENA",
-      "country": "OPEC",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "11:48",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-05-01-659217cc",
@@ -438,18 +424,18 @@
       "score": 34.4
     },
     {
-      "id": "2026-05-01-c2b38157",
-      "headline": "War Rebound Sends Muni Bonds to Best April Since 2014",
-      "summary": "The municipal-bond market roared back in April to deliver its best performance for that month in over a decade, as investors found their footing following a stretch of war-fueled volatility.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/rebound-from-war-swoon-fuels-best-april-for-munis-since-2014",
+      "id": "2026-05-01-1bf7d28c",
+      "headline": "May Day Protests Pushing for Worker Protections Expected Across the U.S.",
+      "summary": "Organizers have billed the events as a nationwide day of action to demand policies that put the interests of working people over those of the ultrawealthy.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/may-day-protests.html",
       "region": "NA",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-05-01",
-      "time": "17:02",
+      "time": "19:12",
       "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
     },
     {
       "id": "2026-05-01-5a3bf468",
@@ -480,30 +466,16 @@
       "score": 33.2
     },
     {
-      "id": "2026-05-01-203c4e51",
-      "headline": "UAE exit from OPEC signals closer alignment with US interests, experts say",
-      "summary": "UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.",
+      "id": "2026-05-01-98562c36",
+      "headline": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
+      "summary": "The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
-      "region": "MENA",
-      "country": "OPEC",
+      "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
+      "region": "EU",
+      "country": "America",
       "category": "business",
       "date": "2026-05-01",
-      "time": "16:32",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-05-01-eca194c8",
-      "headline": "Turkish police fire tear gas, arrest hundreds at May Day rally",
-      "summary": "Turkish authorities violently crackdown on May Day demonstrations at Istanbul’s Taksim Square, firing tear gas.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "15:34",
+      "time": "16:03",
       "conflict_id": null,
       "score": 31.4
     },
@@ -522,20 +494,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-01-1772570d",
-      "headline": "Contentious EU-Mercosur trade deal takes provisional effect",
-      "summary": "The EU-Mercosur free-trade deal took provisional effect on Friday despite a legal challenge before the Court of Justice of the European Union.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/01/contentious-eu-mercosur-trade-deal-takes-provisional-effect",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "12:20",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-05-01-57c8cb69",
       "headline": "China scraps tariffs for all but one African nation",
       "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
@@ -546,20 +504,6 @@
       "category": "geopolitics",
       "date": "2026-05-01",
       "time": "00:02",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-01-ecc8a617",
-      "headline": "Trump signs bill to end record shutdown over immigration enforcement",
-      "summary": "The shutdown caused chaos in airports across the US as politicians feuded over funds for Trump's immigration crackdown.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce3pw5x3z54o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "02:21",
       "conflict_id": null,
       "score": 27.0
     },
@@ -578,18 +522,32 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-01-400154bf",
-      "headline": "Apple credits ‘most popular’ ever iPhone for booming sales",
-      "summary": "John Ternus pledges to continue ‘deliberateness and discipline’ in first comments since being named next CEO",
+      "id": "2026-05-01-1f941a19",
+      "headline": "Spirit Airlines prepares to cease operations as bailout talks founder",
+      "summary": "Donald Trump says US still ‘looking’ at a rescue for bankrupt budget carrier, but would only proceed ‘if it’s a good deal’",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/9215954c-47d0-4a59-8ffe-bf49f8ef9a97",
+      "url": "https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "18:54",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-05-01-c7689ffe",
+      "headline": "US Natural Gas Futures Rally to Three-Week High on Output Cuts",
+      "summary": "US natural gas futures ended at the highest in three weeks, reversing earlier losses, as producers rein in output in response to mild weather and above-average inventory levels.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/us-natural-gas-futures-extend-gains-on-lower-production-lng-dip",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-05-01",
-      "time": "13:36",
+      "time": "13:25",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
     },
     {
       "id": "2026-05-01-619e6812",
@@ -618,62 +576,6 @@
       "time": "17:46",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-05-01-7e2f2ae1",
-      "headline": "Yen Traders Alert After Japan’s $34.5 Billion Intervention",
-      "summary": "Yen traders are on watch for signs of further action by Japanese authorities after intervention triggered the currency’s sharpest rally in three years on Thursday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/yen-rally-is-at-risk-of-fading-fast-without-more-intervention",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "03:09",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-8abc11b1",
-      "headline": "BP Reviews UK North Sea Assets as New CEO Eyes Disposals",
-      "summary": "BP Plc is considering potentially exiting part or all of its operations in the UK North Sea, people familiar with the matter said, as the oil giant works to strip assets and pay down debt.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/bp-reviews-uk-north-sea-assets-as-new-ceo-eyes-disposals",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "15:06",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-6e953bab",
-      "headline": "Nagel Favors ECB June Hike Unless Outlook Improves Markedly",
-      "summary": "The European Central Bank will need to increase interest rates in June if there isn’t a significant change in the outlook, according to Bundesbank President Joachim Nagel.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/nagel-favors-ecb-june-rate-hike-unless-outlook-improves-markedly",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "07:43",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-c8b3db27",
-      "headline": "Senate Bans Prediction Markets for Its Members and Staff",
-      "summary": "Senators voted unanimously to prohibit betting practices in the chamber after some users made hundreds of thousands of dollars online by accurately predicting U.S. military actions.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/30/us/politics/senate-prediction-markets-ban.html",
-      "region": "EU",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "00:19",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-05-01-af6b6ad8",
@@ -716,6 +618,34 @@
       "time": "10:54",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-01-203c4e51",
+      "headline": "UAE exit from OPEC signals closer alignment with US interests, experts say",
+      "summary": "UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
+      "region": "MENA",
+      "country": "OPEC",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "16:32",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-05-01-eca194c8",
+      "headline": "Turkish police fire tear gas, arrest hundreds at May Day rally",
+      "summary": "Turkish authorities violently crackdown on May Day demonstrations at Istanbul’s Taksim Square, firing tear gas.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "15:34",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-01-385e0a33",
@@ -970,6 +900,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-30-3268eea6",
+      "headline": "Oil Falls on Hopes for US-Iran Negotiations, Hormuz Progress",
+      "summary": "Oil edged lower in thin trading on Friday with US-Iran peace negotiations on the ropes but still in play, leading some traders to peel back risk ahead of the weekend.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/latest-oil-market-news-and-analysis-for-may-1",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-04-30",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-04-30-297a423c",
       "headline": "Elon Musk and Sam Altman bring their rivalry to court",
       "summary": "Of the two unloved billionaires, which will the jury trust?",
@@ -1054,6 +998,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-29-10ea2383",
+      "headline": "More private health records of UK Biobank volunteers appear on Chinese website",
+      "summary": "Patrick Vallance says government working with Chinese officials to remove postings from Alibaba after Biobank data breach last weekThere have been further listings of confidential health records of UK volunteers on the Chinese website Alibaba since the breach reported last week, and the government is braced for further leaks, the science minister has said.Addressing a House of Lords debate on the attempted sale of data belonging to 500,000 UK Bio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/apr/29/uk-data-leaks-alibaba-biobank-health-records",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-29",
+      "time": "12:16",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-04-28-8a8e3ad2",
       "headline": "Faisal Islam: Why the UAE's exit from Opec is a big deal",
       "summary": "It will have little effect on the current oil blockades, but it could change everything afterwards.",
@@ -1065,7 +1023,7 @@
       "date": "2026-04-28",
       "time": "15:55",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-04-28-07a6f3c2",
