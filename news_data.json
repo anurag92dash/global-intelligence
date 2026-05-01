@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-01T14:44:00.706414+00:00",
+  "updated": "2026-05-01T15:38:45.427422+00:00",
   "story_count": 77,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-05-01-f40bbfdb",
@@ -15,49 +15,7 @@
       "date": "2026-05-01",
       "time": "14:42",
       "conflict_id": null,
-      "score": 68.0
-    },
-    {
-      "id": "2026-05-01-96c20f3b",
-      "headline": "A deadline for the Iran war is here. What does the War Powers Act say?",
-      "summary": "Defense Secretary Pete Hegseth asserted an ongoing ceasefire “pauses” the clock on the 60-day deadline to end hostilities in Iran or seek congressional approval.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/01/iran-us-war-powers-trump/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "13:41",
-      "conflict_id": null,
-      "score": 64.9
-    },
-    {
-      "id": "2026-05-01-e623f154",
-      "headline": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
-      "summary": "Defence secretary claims hostilities have ceased, but lawmakers say US forces remain active despite halted air raids.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "10:56",
-      "conflict_id": null,
-      "score": 63.4
-    },
-    {
-      "id": "2026-05-01-9c197037",
-      "headline": "Fertiliser crisis caused by Iran war sparks global food security fears",
-      "summary": "The Iran war and the consequent blockade of the Strait of Hormuz has triggered a severe \"fertiliser squeeze\" as soaring energy costs and export disruptions push farmers' affordability to a four-year low.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/01/fertiliser-crisis-caused-by-iran-war-sparks-global-food-security-fears",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "10:48",
-      "conflict_id": null,
-      "score": 61.0
+      "score": 67.0
     },
     {
       "id": "2026-05-01-acee52c6",
@@ -74,6 +32,20 @@
       "score": 59.0
     },
     {
+      "id": "2026-05-01-96c20f3b",
+      "headline": "A deadline for the Iran war is here. What does the War Powers Act say?",
+      "summary": "Defense Secretary Pete Hegseth asserted an ongoing ceasefire “pauses” the clock on the 60-day deadline to end hostilities in Iran or seek congressional approval.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/01/iran-us-war-powers-trump/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "13:41",
+      "conflict_id": null,
+      "score": 56.9
+    },
+    {
       "id": "2026-05-01-d1bbca08",
       "headline": "Police say they will charge people with unrest in Alice Springs after arrest over death of Kumanjayi Little Baby",
       "summary": "Five-year-old’s grandfather and senior Warlpiri elder appeals for calm, saying: ‘It is time now for sorry business’• Warning: This article contains references to and images of Indigenous Australians who have diedNorthern Territory police say one person is facing charges and more are expected to be over unrest in Alice Springs after the arrest of a man in connection with the death of five-year-old girl.The grandfather of Kumanjayi Little Baby, who",
@@ -86,6 +58,34 @@
       "time": "03:28",
       "conflict_id": null,
       "score": 56.0
+    },
+    {
+      "id": "2026-05-01-e623f154",
+      "headline": "Has the US-Iran ceasefire reset the clock on War Powers Act deadline?",
+      "summary": "Defence secretary claims hostilities have ceased, but lawmakers say US forces remain active despite halted air raids.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/has-the-us-iran-ceasefire-reset-the-clock-on-war-powers-act-deadline?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "10:56",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-01-9c197037",
+      "headline": "Fertiliser crisis caused by Iran war sparks global food security fears",
+      "summary": "The Iran war and the consequent blockade of the Strait of Hormuz has triggered a severe \"fertiliser squeeze\" as soaring energy costs and export disruptions push farmers' affordability to a four-year low.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/01/fertiliser-crisis-caused-by-iran-war-sparks-global-food-security-fears",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "10:48",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-05-01-93bc5d1a",
@@ -228,36 +228,8 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-01-3e858d9c",
-      "headline": "Trump threatens to withdraw US troops from Italy and Spain – Europe live",
-      "summary": "The US president said he would carry out of a review of US military presence in Europe after public criticism of the US-Israeli war on IranIf you are still planning your summer holidays and looking at some of perhaps more original ways of spending your time crossing Europe, you now have a new option in a train between Prague and Copenhagen via Berlin and Hamburg.The Czech operator, České dráhy, has been somewhat excitedly posting about the latest",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/01/donald-trump-us-troops-italy-spain-germany-nato-europe-latest-news",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "14:31",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-05-01-826f81ec",
-      "headline": "Trump’s threat: Why cutting US troops in Europe won’t be easy",
-      "summary": "Amid transatlantic tensions over the Iran war, Trump has threatened to reduce troops in Germany.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/trumps-threat-why-cutting-us-troops-in-europe-wont-be-easy?traffic_source=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "13:25",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-01-344b2fe7",
-      "headline": "Turkish police fire tear gas and arrest almost 400 people at May Day rallies",
+      "id": "2026-05-01-dc482e8d",
+      "headline": "Turkish police fire tear gas and arrest around 550 people at May Day rallies",
       "summary": "Earlier this week, authorities issued arrest warrants for 62 people, of whom they deemed 46, including journalists, trade unionists and opposition figures, were \"likely to carry out attacks.\"",
       "source": "Euronews",
       "url": "http://www.euronews.com/2026/05/01/turkish-police-fire-tear-gas-and-arrest-almost-400-people-at-may-day-rallies",
@@ -280,6 +252,20 @@
       "category": "geopolitics",
       "date": "2026-05-01",
       "time": "04:11",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-01-659217cc",
+      "headline": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+      "summary": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "15:12",
       "conflict_id": null,
       "score": 35.0
     },
@@ -396,6 +382,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-05-01-8abc11b1",
+      "headline": "BP Reviews UK North Sea Assets as New CEO Eyes Disposals",
+      "summary": "BP Plc is considering potentially exiting part or all of its operations in the UK North Sea, people familiar with the matter said, as the oil giant works to strip assets and pay down debt.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-01/bp-reviews-uk-north-sea-assets-as-new-ceo-eyes-disposals",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "15:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-01-f797f5a6",
       "headline": "Bond Traders Eye Fresh Gilts Selloff as Local Elections Loom",
       "summary": "UK bond investors are shifting their focus from monetary policy to politics, with local elections next week seen as a potential catalyst for turmoil in government that could trigger a renewed selloff.",
@@ -448,34 +448,6 @@
       "category": "business",
       "date": "2026-05-01",
       "time": "13:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-45f95014",
-      "headline": "Billionaire’s Family Office Plots More Private Equity Exits",
-      "summary": "The billionaire UK founder of a home-repair business acquired by Brookfield Asset Management is working to ramp up his family office’s private equity exits, as larger buyout firms grapple with a dry spell for transactions.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/uk-billionaire-s-family-office-targets-more-private-equity-exits",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "09:54",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-ef353146",
-      "headline": "Yen Traders on Alert After Japan’s $34.5 Billion Intervention",
-      "summary": "Yen traders are on watch for signs of further action by Japanese authorities after intervention triggered the currency’s sharpest rally in three years on Thursday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/yen-rally-is-at-risk-of-fading-fast-without-more-intervention",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "03:09",
       "conflict_id": null,
       "score": 26.1
     },
@@ -578,20 +550,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-05-01-14cfb858",
-      "headline": "Workers' health isn't the only thing at risk of job strain — the economy is too, study finds",
-      "summary": "As Europe marks Labour Day, work strain is taking a deadly toll on employees worldwide. From burnout to anxiety, many Europeans say they dare not speak out about their concerns for fear of negative consequences.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/01/workers-health-isnt-the-only-thing-at-risk-of-job-strain-the-economy-is-too-study-finds",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "10:25",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-04-30-13878eb5",
       "headline": "Supreme Court Voting Rights Ruling Could Fuel New Era of Redistricting Wars",
       "summary": "The expected flood of new congressional maps is likely to produce fewer competitive districts, fewer ways for voters to hold elected officials accountable and more polarized politics.",
@@ -606,18 +564,18 @@
       "score": 58.2
     },
     {
-      "id": "2026-04-30-af3eac55",
-      "headline": "Hegseth Says Cease-Fire Stops Clock on Deadline to Seek Approval for Iran War",
-      "summary": "The defense secretary testified on the eve of the 60-day mark of the war, a major statutory deadline for the president to withdraw forces or seek approval from Congress to continue the fight.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/04/30/us/politics/hegseth-iran-cease-fire-congress.html",
-      "region": "NA",
-      "country": "Congress",
+      "id": "2026-04-30-6d0dea85",
+      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-04-30",
-      "time": "22:18",
-      "conflict_id": null,
-      "score": 58.2
+      "time": "20:34",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-04-30-3f78d3d3",
@@ -631,21 +589,7 @@
       "date": "2026-04-30",
       "time": "19:26",
       "conflict_id": null,
-      "score": 56.9
-    },
-    {
-      "id": "2026-04-30-6d0dea85",
-      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "20:34",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 48.9
     },
     {
       "id": "2026-04-30-4e08bf0b",
@@ -872,6 +816,34 @@
       "score": 27.0
     },
     {
+      "id": "2026-04-30-309b3b8c",
+      "headline": "Gold Rises as Iranian Proposal Raises Hopes for US-Tehran Deal",
+      "summary": "Gold rose amid hopes for a deal to end the standoff between the US and Iran that’s dashed expectations for rate cuts from central banks across the world.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-04-30/gold-steadies-after-advancing-on-japan-s-yen-intervention",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "business",
+      "date": "2026-04-30",
+      "time": "22:13",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-04-30-297a423c",
+      "headline": "Elon Musk and Sam Altman bring their rivalry to court",
+      "summary": "Of the two unloved billionaires, which will the jury trust?",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/30/elon-musk-and-sam-altman-bring-their-rivalry-to-court",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-30",
+      "time": "09:19",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
       "id": "2026-04-29-a5a83623",
       "headline": "Supreme Court limits key provision of the landmark Voting Rights Act",
       "summary": "The decision could touch off a scramble by Republicans to redraw majority-minority congressional districts, especially in the South, that could cost many Black Democrats their seats.",
@@ -984,6 +956,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-04-28-bb5cf319",
+      "headline": "Watch: Elderly woman rescued by robot from Ukraine's frontline",
+      "summary": "The Ukrainian army spotted the woman using a drone and sent the machine to her rescue as she was trying to leave her war-torn village.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cpqpjw1zdvjo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-28",
+      "time": "21:58",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-04-28-07a6f3c2",
       "headline": "US soldier accused of betting on Maduro's removal pleads not guilty to fraud charges",
       "summary": "The Army officer has been accused of using classified information to win $400,000 on an online prediction market.",
@@ -1038,6 +1024,20 @@
       "time": "23:01",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-04-25-a9a3563d",
+      "headline": "'We cried together': Trump's deportation drive forces tough decisions for couples",
+      "summary": "The spouses of illegal immigrants facing deportation must choose between separation or moving to a new country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-04-25",
+      "time": "01:03",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-04-25-5439ee78",
