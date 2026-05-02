@@ -1,8 +1,50 @@
 {
-  "updated": "2026-05-02T20:02:39.842260+00:00",
+  "updated": "2026-05-02T20:58:20.953202+00:00",
   "story_count": 73,
-  "source_count": 8,
+  "source_count": 9,
   "stories": [
+    {
+      "id": "2026-05-02-64c4ced5",
+      "headline": "Two people killed and over a dozen injured in Russian attacks across Ukraine",
+      "summary": "Russia is continuing to bombard Ukrainian cities daily with barrages of drones and missiles as ceasefire talks appear to have stalled in the wake of the war in Iran. Kyiv says its counter strikes targeting Russian oil facilities have been achieving success.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/02/two-people-killed-and-over-a-dozen-injured-in-russian-attacks-across-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-05-02-27d465f3",
+      "headline": "Ukraine eyes Belarus border activities as Russian strikes persist",
+      "summary": "The role of Belarus in Russia&#039;s war on Ukraine has provoked sanctions from Kyiv, which says it is ready to respond.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "19:54",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
+    },
+    {
+      "id": "2026-05-02-fe7ea2bc",
+      "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "16:51",
+      "conflict_id": null,
+      "score": 59.0
+    },
     {
       "id": "2026-05-02-cf465693",
       "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
@@ -32,6 +74,34 @@
       "score": 58.2
     },
     {
+      "id": "2026-05-02-534312bd",
+      "headline": "Seven killed in southern Lebanon amid Israeli airstrikes and ceasefire tensions",
+      "summary": "State media reported that several villages were hit as neighbourhoods near the border are being levelled. The IDF maintains that 50 airstrikes conducted over 24 hours specifically targeted Hezbollah infrastructure.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/02/at-least-seven-killed-in-lebanon-as-israeli-raids-continue-despite-ceasefire",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "15:34",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-05-02-4240530e",
+      "headline": "Trump follows through on threats as he announces significant troop withdrawal from Germany",
+      "summary": "Trump had earlier threatened to pull some US troops from Germany after Chancellor Friedrich Merz expressed his disapproval with the US-Israeli war on Iran, which has upended the Middle East and caused a global oil price crisis.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/02/trump-follows-through-on-threats-as-he-announces-significant-troop-withdrawal-from-germany",
+      "region": "NA",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "06:30",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
       "id": "2026-05-02-3ebcb6cb",
       "headline": "Germany says US troop withdrawal 'foreseeable' as Nato seeks clarification",
       "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
@@ -43,7 +113,7 @@
       "date": "2026-05-02",
       "time": "16:35",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-05-02-be16ff51",
@@ -60,20 +130,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-02-fe7ea2bc",
-      "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "16:51",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-05-02-f75b88ab",
       "headline": "Pentagon to pull 5,000 soldiers out of Germany in dispute over Iran war",
       "summary": "Donald Trump retaliates against Friedrich Merz over chancellor’s criticism of US-Israeli war effort",
@@ -86,6 +142,20 @@
       "time": "16:06",
       "conflict_id": null,
       "score": 50.4
+    },
+    {
+      "id": "2026-05-02-82bb1e20",
+      "headline": "NATO assessing details of US troop withdrawal from Germany",
+      "summary": "US says it plans to pull about 5,000 troops out of Germany over next six to 12 months amid feud with European allies.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "11:34",
+      "conflict_id": null,
+      "score": 48.4
     },
     {
       "id": "2026-05-02-b3e83052",
@@ -116,18 +186,60 @@
       "score": 48.0
     },
     {
-      "id": "2026-05-02-82bb1e20",
-      "headline": "NATO assessing details of US troop withdrawal from Germany",
-      "summary": "US says it plans to pull about 5,000 troops out of Germany over next six to 12 months amid feud with European allies.",
+      "id": "2026-05-02-3b5dcafc",
+      "headline": "Devastation of Southern Lebanon continues under ‘ceasefire’",
+      "summary": "At least 41 people killed as Israel launches 50 airstrikes on southern Lebanon in 24 hours.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/nato-assessing-details-of-us-troop-withdrawal-from-germany?traffic_source=rss",
-      "region": "EU",
-      "country": "Germany",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "18:05",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-05-02-470aa0af",
+      "headline": "Trump says US Navy acting ‘like pirates’ to enforce Iran blockade",
+      "summary": "The US president says the ongoing naval blockade of the Strait of Hormuz is &#039;a very profitable business&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/trump-says-us-navy-acting-like-pirates-to-enforce-iran-blockade?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-02",
       "time": "11:34",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-05-02-625d0e31",
+      "headline": "Trump claims hostilities in Iran 'have terminated' in letter sent to top US lawmakers",
+      "summary": "Trump sidestepped a legal deadline for gaining approval from members of Congress over his war in Iran as he sends a letter to top lawmakers claiming that hostilities have ended due to the ongoing ceasefire.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/02/trump-claims-hostilities-in-iran-have-terminated-in-letter-sent-to-top-us-lawmakers",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "11:56",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-05-02-7832c1b6",
+      "headline": "Khartoum drone strike kills five Sudan NGO reports",
+      "summary": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "19:59",
+      "conflict_id": "sudan-civil-war",
+      "score": 43.4
     },
     {
       "id": "2026-05-02-f6fcba9f",
@@ -140,20 +252,6 @@
       "category": "geopolitics",
       "date": "2026-05-02",
       "time": "17:53",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-02-1b02a6e4",
-      "headline": "Trump claims other presidents flouted war powers law. It's a mixed record",
-      "summary": "Both Bushes and Reagan won authorisation for wars, but Obama and Clinton ducked the requirement.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c794zlx5lx8o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "02:43",
       "conflict_id": null,
       "score": 43.0
     },
@@ -200,6 +298,20 @@
       "score": 42.1
     },
     {
+      "id": "2026-05-02-1bd38a79",
+      "headline": "Robert Fico will back Ukraine's EU membership after call, Zelenskyy says",
+      "summary": "Zelenskyy said they had invited each other to meet. Slovakia's prime minister has backed Viktor Orbán's isolated line on Ukraine, though less fervently than the outgoing Hungarian leader.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/02/robert-fico-will-back-ukraines-eu-membership-after-call-zelenskyy-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-05-02",
+      "time": "18:14",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
       "id": "2026-05-02-6309b9f4",
       "headline": "Pentagon to pull 5,000 troops from Germany, alarming Republican lawmakers",
       "summary": "NATO said it was working to understand details of the plan to draw down about 5,000 troops, which coincides with a feud between the president and the German chancellor.",
@@ -228,34 +340,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-02-7036fead",
-      "headline": "Spain demands Israel release arrested Gaza flotilla crew member",
-      "summary": "Saif Abukeshek was taken to Israel after forces raided the Global Sumid Flotilla off the coast of Greece.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/spain-demands-israel-release-arrested-gaza-flotilla-crew-member?traffic_source=rss",
-      "region": "EU",
-      "country": "Greece",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "18:12",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-02-3b5dcafc",
-      "headline": "Devastation of Southern Lebanon continues under ‘ceasefire’",
-      "summary": "At least 41 people killed as Israel launches 50 airstrikes on southern Lebanon in 24 hours.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "18:05",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-05-02-6bd80f56",
       "headline": "Mexico’s Sinaloa state governor resigns amid US drug trafficking charges",
       "summary": "Ruben Rocha Moya again denies allegations he shielded cartel, says taking &#039;temporary leave&#039; to defend self.",
@@ -268,48 +352,6 @@
       "time": "15:52",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-05-02-fc6886f4",
-      "headline": "Flotilla activists return to Istanbul after Israel detains them at sea",
-      "summary": "Global Sumud Flotilla activists have arrived in Istanbul after Israel intercepted their Gaza-bound aid convoy at sea.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/flotilla-activists-return-to-istanbul-after-israel-detains-them-at-sea?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "12:46",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-02-d8dad251",
-      "headline": "Spirit Airlines begins ‘wind-down’, cancels all flights over fuel crisis",
-      "summary": "The collapse of the US-based budget carrier due to a doubling in jet fuel prices will cost thousands of jobs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/spirit-airlines-begins-wind-down-cancels-all-flights-over-fuel-crisis?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "08:09",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-02-deb0687c",
-      "headline": "Cuba condemns new US sanctions as 'illegal' and 'abusive'",
-      "summary": "The new measures come on top of a US blockade of oil to Cuba that has caused widespread blackouts and fuel shortages.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy21n1970vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "04:57",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-02-738c6385",
@@ -405,7 +447,7 @@
       "country": "Congress",
       "category": "politics",
       "date": "2026-05-02",
-      "time": "09:01",
+      "time": "20:53",
       "conflict_id": null,
       "score": 33.2
     },
@@ -522,20 +564,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-02-95babe9f",
-      "headline": "New Rules for India Shadow Banks May Put Tata Sons IPO on Radar",
-      "summary": "A tweak by India’s central bank to the definition of shadow lenders has potentially revived the debate about whether Tata Sons Pvt. &mdash; the controller of one of the country’s largest conglomerates &mdash; could be forced to list in the near future.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/new-rules-for-india-shadow-banks-may-put-tata-sons-ipo-on-radar",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-05-02",
-      "time": "12:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-02-3bf6ce20",
       "headline": "Supreme Court Asked to Restore Access to Abortion Pill by Mail",
       "summary": "A federal appeals court temporarily halted a Food and Drug Administration regulation that has greatly expanded access to the abortion pill mifepristone.",
@@ -634,6 +662,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-05-02-ba526875",
+      "headline": "Europe’s luxury housing boom: Which cities are driving the surge in prime property prices?",
+      "summary": "Prague led Europe's prime property market in 2025 while London saw the largest decline. Tokyo dominated globally with a near 60% surge. Euronews Business takes a closer look at changes in luxury housing prices.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/02/europes-luxury-housing-boom-which-cities-are-driving-the-surge-in-prime-property-prices",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-05-01-ad46d8b5",
       "headline": "Trump Tells Congress Why He Doesn’t Need Its Authorization for the Iran War",
       "summary": "In letters to the House and Senate, the president asserted that the hostilities had “terminated,” in an apparent attempt to avoid having to seek congressional approval.",
@@ -646,6 +688,20 @@
       "time": "22:00",
       "conflict_id": null,
       "score": 57.2
+    },
+    {
+      "id": "2026-05-01-1ed7face",
+      "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Greece",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "10:12",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-05-01-96c20f3b",
@@ -662,20 +718,6 @@
       "score": 48.9
     },
     {
-      "id": "2026-05-01-1ed7face",
-      "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-      "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Greece",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "10:12",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-01-acee52c6",
       "headline": "It's not just oil: Iran war also threatens Asia's food security",
       "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
@@ -688,20 +730,6 @@
       "time": "00:01",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-01-659217cc",
-      "headline": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-      "summary": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "15:12",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-01-32b9c405",
@@ -886,20 +914,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-30-1e12b721",
-      "headline": "Senators ban themselves from participating in prediction markets",
-      "summary": "The platforms, which have gained scrutiny recently, allow people to place bets on future events such as election results. The ban also applies to Senate staffers.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/04/30/senate-ban-prediction-markets/",
-      "region": "EU",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-04-30",
-      "time": "20:05",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-04-29-e1f58fdb",
       "headline": "Global forest loss slows but El Niño fires could threaten progress",
       "summary": "The loss of tropical rainforests eased last year, according to new analysis, but scientists warn they are still disappearing rapidly.",
@@ -1010,20 +1024,6 @@
       "time": "23:01",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-25-a9a3563d",
-      "headline": "'We cried together': Trump's deportation drive forces tough decisions for couples",
-      "summary": "The spouses of illegal immigrants facing deportation must choose between separation or moving to a new country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cly032z5e71o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-04-25",
-      "time": "01:03",
-      "conflict_id": null,
-      "score": 35.0
     }
   ]
 }
