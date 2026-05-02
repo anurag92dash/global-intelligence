@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-02T09:18:28.166974+00:00",
+  "updated": "2026-05-02T10:15:07.070944+00:00",
   "story_count": 75,
   "source_count": 10,
   "stories": [
@@ -16,6 +16,20 @@
       "time": "00:41",
       "conflict_id": null,
       "score": 68.0
+    },
+    {
+      "id": "2026-05-02-64c4ced5",
+      "headline": "Two people killed and over a dozen injured in Russian attacks across Ukraine",
+      "summary": "Russia is continuing to bombard Ukrainian cities daily with barrages of drones and missiles as ceasefire talks appear to have stalled in the wake of the war in Iran. Kyiv says its counter strikes targeting Russian oil facilities have been achieving success.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/02/two-people-killed-and-over-a-dozen-injured-in-russian-attacks-across-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
     },
     {
       "id": "2026-05-02-75d52cf0",
@@ -88,32 +102,46 @@
       "score": 52.0
     },
     {
-      "id": "2026-05-02-643d60c4",
-      "headline": "Trump to downsize U.S. military presence in Germany",
-      "summary": "The decision coincides with a feud between the president and German Chancellor Friedrich Merz, who has criticized the U.S. war in Iran.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/",
-      "region": "EU",
-      "country": "Germany",
+      "id": "2026-05-02-fe7ea2bc",
+      "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "00:03",
+      "time": "09:41",
       "conflict_id": null,
-      "score": 48.9
+      "score": 51.0
     },
     {
       "id": "2026-05-02-70d2fe69",
       "headline": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
-      "summary": "German defence minister responds to US president’s announcement that 5,000 US troops will leave bases in GermanyNato spokesperson Allison Hart said the alliance was working with the US to understand its decision to pull 5,000 American troops from Germany. Echoing earlier remarks by the German defence minister (see post at 9:35), Hart said the move “underscores the need for Europe to continue to invest more in defence and take on a greater share o",
+      "summary": "German defence minister responds to US president’s announcement that 5,000 US troops will leave bases in GermanyHere is the full statement from German defence minister Boris Pistorius in response to the US’s decision to withdraw 5,000 troops from Germany:The presence of American troops in Europe, particularly in Germany, serves the interests of both the US and ourselves.We collaborate closely with our US partners in Ramstein, Grafenwöhr, Frankfur",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
       "region": "EU",
       "country": "Germany",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "09:06",
+      "time": "09:52",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-05-02-68a80953",
+      "headline": "US warns Europe of delays to arms shipments as Iran war drains stockpiles",
+      "summary": "Deferred deliveries could include those used in Ukraine’s defence against Russia",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f87a8b04-e683-4e0e-8c66-647d23bfc2ff",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "09:51",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-05-02-585f15fa",
@@ -142,6 +170,20 @@
       "time": "06:37",
       "conflict_id": null,
       "score": 42.1
+    },
+    {
+      "id": "2026-05-02-643d60c4",
+      "headline": "Trump to downsize U.S. military presence in Germany",
+      "summary": "Germany said the U.S. decision was “anticipated” while NATO said it was working to understand the details of the plan, which coincides with a feud between the president and the German chancellor.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-05-02",
+      "time": "09:55",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-05-02-598b221e",
@@ -186,20 +228,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-02-32f0de30",
-      "headline": "Iran war-driven surge in oil prices pushes Japan toward yen intervention",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/currencies/iran-war-driven-surge-in-oil-prices-pushes-japan-toward-yen-intervention",
-      "region": "MENA",
-      "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "",
-      "conflict_id": null,
-      "score": 38.8
-    },
-    {
       "id": "2026-05-02-738c6385",
       "headline": "Why markets are surging in spite of war",
       "summary": "Even amid a supply shock, tech stocks continue to drive indices higher. Is the optimism justified?",
@@ -240,6 +268,20 @@
       "time": "09:01",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-05-02-b41e7740",
+      "headline": "Trump is running out of options to contain gas price backlash",
+      "summary": "The rising cost of oil is becoming a major political concern for the White House, as the stalemate between President Donald Trump and Iran drags on.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/02/trump-gas-prices-iran/",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-05-02-b992c3f3",
@@ -296,6 +338,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-02-9e683aa3",
+      "headline": "Finland Must Continue to Consolidate Public Finances, Rehn Says",
+      "summary": "Finland can no longer avoid or delay dealing with its growing public debt, Bank of Finland Governor Olli Rehn said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-02/finland-must-continue-to-consolidate-public-finances-rehn-says",
+      "region": "EU",
+      "country": "Finland",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "08:43",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-02-6b8c4664",
@@ -424,20 +480,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-02-ba526875",
-      "headline": "Europe’s luxury housing boom: Which cities are driving the surge in prime property prices?",
-      "summary": "Prague led Europe's prime property market in 2025 while London saw the largest decline. Tokyo dominated globally with a near 60% surge. Euronews Business takes a closer look at changes in luxury housing prices.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/02/europes-luxury-housing-boom-which-cities-are-driving-the-surge-in-prime-property-prices",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-02",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-05-01-acee52c6",
       "headline": "It's not just oil: Iran war also threatens Asia's food security",
       "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
@@ -536,6 +578,20 @@
       "score": 48.9
     },
     {
+      "id": "2026-05-01-99a2be28",
+      "headline": "At least 12 killed in latest Israeli attacks on Lebanon",
+      "summary": "Israel&#039;s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "21:10",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-05-01-932acb81",
       "headline": "Trump to raise US tariffs on EU cars to 25%, accusing bloc of not complying with deal",
       "summary": "Trump and European Commission President Ursula von der Leyen agreed to the trade deal last July which set a 15% tariff on most goods.",
@@ -562,20 +618,6 @@
       "time": "08:12",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-01-68a80953",
-      "headline": "US warns Europe of delays to arms shipments as Iran war drains stockpiles",
-      "summary": "Deferred deliveries could include those used in Ukraine’s defence against Russia",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f87a8b04-e683-4e0e-8c66-647d23bfc2ff",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "21:27",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-05-01-1734dd41",
@@ -618,20 +660,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-05-01-99a2be28",
-      "headline": "At least 12 killed in latest Israeli attacks on Lebanon",
-      "summary": "Israel&#039;s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "21:10",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-05-01-659217cc",
@@ -746,20 +774,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-01-135e6029",
-      "headline": "Building 'The World's Alternative Investment Marketplace': Masters in Business",
-      "summary": "Barry speaks with Lawrence Calcano, chairman and CEO of iCapital about how he helped build the company into one of the globe's leading platforms for alternative investments for wealth managers, advisors, bankers and other financial professionals.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-01/alternate-investment-marketplaces-masters-in-business-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "23:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-01-43b3866b",
       "headline": "What the Maine Senate Race Feels Like on the Ground",
       "summary": "The anti-establishment mood is palpable in the state, home to one of the country’s top Senate contests. But Senator Susan Collins has some strengths.",
@@ -830,6 +844,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-04-30-4c5232f5",
+      "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-30",
+      "time": "18:05",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-04-30-7982d5df",
       "headline": "Venice Biennale jury resigns days before start of top art exhibition",
       "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
@@ -842,20 +870,6 @@
       "time": "23:44",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-30-4c5232f5",
-      "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-30",
-      "time": "18:05",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-30-29d724f2",
@@ -968,20 +982,6 @@
       "time": "08:05",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-29-10ea2383",
-      "headline": "More private health records of UK Biobank volunteers appear on Chinese website",
-      "summary": "Patrick Vallance says government working with Chinese officials to remove postings from Alibaba after Biobank data breach last weekThere have been further listings of confidential health records of UK volunteers on the Chinese website Alibaba since the breach reported last week, and the government is braced for further leaks, the science minister has said.Addressing a House of Lords debate on the attempted sale of data belonging to 500,000 UK Bio",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/apr/29/uk-data-leaks-alibaba-biobank-health-records",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-29",
-      "time": "12:16",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-04-28-8a8e3ad2",
