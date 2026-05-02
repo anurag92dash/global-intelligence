@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-02T04:31:30.148466+00:00",
-  "story_count": 75,
+  "updated": "2026-05-02T06:28:36.788110+00:00",
+  "story_count": 74,
   "source_count": 10,
   "stories": [
     {
@@ -16,6 +16,20 @@
       "time": "00:41",
       "conflict_id": null,
       "score": 68.0
+    },
+    {
+      "id": "2026-05-02-75d52cf0",
+      "headline": "Libya reaps oil bonanza from Iran war price surge",
+      "summary": "Crude output has risen to highest level since 2013 as demand soars to replace lost barrels from the Gulf",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/99bc2349-5991-4d9a-8453-9246c666a24d",
+      "region": "MENA",
+      "country": "Libya",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 58.4
     },
     {
       "id": "2026-05-02-f1e98cf9",
@@ -60,6 +74,20 @@
       "score": 47.4
     },
     {
+      "id": "2026-05-02-32f0de30",
+      "headline": "Iran war-driven surge in oil prices pushes Japan toward yen intervention",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/currencies/iran-war-driven-surge-in-oil-prices-pushes-japan-toward-yen-intervention",
+      "region": "MENA",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "",
+      "conflict_id": null,
+      "score": 46.8
+    },
+    {
       "id": "2026-05-02-598b221e",
       "headline": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
       "summary": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and miningCuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an enormous 1 May procession outside the American embassy in Havana vowed to “defend the homeland”.In an executive order on Friday, the US president said he would impose sanctions on people involved in broad sections o",
@@ -88,18 +116,32 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-02-32f0de30",
-      "headline": "Iran war-driven surge in oil prices pushes Japan toward yen intervention",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/currencies/iran-war-driven-surge-in-oil-prices-pushes-japan-toward-yen-intervention",
-      "region": "MENA",
-      "country": "Japan",
+      "id": "2026-05-02-738c6385",
+      "headline": "Why markets are surging in spite of war",
+      "summary": "Even amid a supply shock, tech stocks continue to drive indices higher. Is the optimism justified?",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/286f4b2c-27a6-4f99-a62c-8ec092823483",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "02:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-05-02-2e2242af",
+      "headline": "Is China decoupling on food?",
+      "summary": "If this is pursued with the same energy as industrial policy, it will upend the agricultural economy",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/637215a5-4814-49c4-ae24-c6a96adb56cf",
+      "region": "APJ",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "",
+      "time": "01:00",
       "conflict_id": null,
-      "score": 38.8
+      "score": 34.4
     },
     {
       "id": "2026-05-02-1bf7d28c",
@@ -116,6 +158,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-05-02-585ebec7",
+      "headline": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+      "summary": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "04:35",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-05-02-efdc8a17",
       "headline": "The KOSPI's miracle surge comes with a warning label",
       "summary": "",
@@ -128,6 +184,34 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-05-02-ad2289ff",
+      "headline": "Wall Street traders post triple gains of European rivals",
+      "summary": "Europe’s biggest investment banks missed out on gains from commodities in quarter marked by oil swings",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/232bc04a-d2b9-42a2-a38f-eca48c734eb4",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-05-02-9ad1fbef",
+      "headline": "The euro’s urgent need",
+      "summary": "Europe must finally grasp the opportunity to develop the single currency as a reserve asset",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5f02bb2e-f621-4369-8ce0-55f6d6b839c7",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-05-02-89c348c1",
@@ -200,6 +284,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-05-02-ba526875",
+      "headline": "Europe’s luxury housing boom: Which cities are driving the surge in prime property prices?",
+      "summary": "Prague led Europe's prime property market in 2025 while London saw the largest decline. Tokyo dominated globally with a near 60% surge. Euronews Business takes a closer look at changes in luxury housing prices.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/02/europes-luxury-housing-boom-which-cities-are-driving-the-surge-in-prime-property-prices",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-05-01-acee52c6",
+      "headline": "It's not just oil: Iran war also threatens Asia's food security",
+      "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "00:01",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-05-01-ad46d8b5",
       "headline": "Trump Tells Congress Why He Doesn’t Need Its Authorization for the Iran War",
       "summary": "In letters to the House and Senate, the president asserted that the hostilities had “terminated,” in an apparent attempt to avoid having to seek congressional approval.",
@@ -268,20 +380,6 @@
       "time": "19:42",
       "conflict_id": null,
       "score": 52.0
-    },
-    {
-      "id": "2026-05-01-acee52c6",
-      "headline": "It's not just oil: Iran war also threatens Asia's food security",
-      "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "00:01",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-05-01-1734dd41",
@@ -480,20 +578,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-01-9bca8bc0",
-      "headline": "British couple jailed in Iran: 'We're likely to be here for a long time'",
-      "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "05:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-01-942d7fa2",
       "headline": "Brazil's Congress approves plan to drastically cut Bolsonaro's jail term",
       "summary": "Last year ex-president Jair Bolsonaro was sentenced to 27 years in jail for plotting a coup after losing an election.",
@@ -534,20 +618,6 @@
       "time": "04:05",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-01-1ddc7f17",
-      "headline": "Oil market 1 month from crunch point as global reserves dwindle",
-      "summary": "Traders warn of further jump in prices and ‘huge pain’ as economies cut consumption",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b26ba4ce-4324-4ea9-926d-caf036f20832",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "15:52",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-05-01-1650d124",
@@ -620,20 +690,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-01-98562c36",
-      "headline": "EU trade deal with South America’s Mercosur bloc takes provisional effect",
-      "summary": "The long-awaited deal creates one of the world’s largest free trade areas with 720m potential consumers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/1/eu-trade-deal-with-south-americas-mercosur-bloc-takes-provisional-effect?traffic_source=rss",
-      "region": "EU",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "16:03",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-05-01-57c8cb69",
       "headline": "China scraps tariffs for all but one African nation",
       "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
@@ -648,34 +704,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-01-c6708ad3",
-      "headline": "MBZ, the Emirati sheikh who shook up the Gulf",
-      "summary": "From foreign interventions to abandoning Opec, the UAE’s leader is charting a different path for his country",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e6476f57-2b15-4f99-92f4-ab88156eae64",
-      "region": "MENA",
-      "country": "OPEC",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "16:08",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-05-01-1f941a19",
-      "headline": "Spirit Airlines prepares to cease operations as bailout talks founder",
-      "summary": "Trump says US still ‘looking’ at a rescue for bankrupt budget carrier but would only proceed ‘if it’s a good deal’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "21:13",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-05-01-135e6029",
       "headline": "Building 'The World's Alternative Investment Marketplace': Masters in Business",
       "summary": "Barry speaks with Lawrence Calcano, chairman and CEO of iCapital about how he helped build the company into one of the globe's leading platforms for alternative investments for wealth managers, advisors, bankers and other financial professionals.  (Source: Bloomberg)",
@@ -686,20 +714,6 @@
       "category": "business",
       "date": "2026-05-01",
       "time": "23:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-01-88cd9ee6",
-      "headline": "Brooks Apparel 'Resonating' With Chinese Runners, Says CEO Dan Sheridan",
-      "summary": "Dan Sheridan, CEO of Brooks Running, said that his company is resonating with runners in China as the activewear brand grew over a 130% in the region. Sheridan said that while China remains a small percentage of Brooks' business, the 'everyone's a runner' positioning and multi-use clothing consumers can wear off the run is driving growth.  Sheridan joined Bloomberg Businessweek from the floor of the Berkshire Hathaway shareholder conference in Om",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-01/brooks-apparel-resonating-with-china-says-ceo-video",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "20:28",
       "conflict_id": null,
       "score": 26.1
     },
@@ -746,34 +760,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-01-203c4e51",
-      "headline": "UAE exit from OPEC signals closer alignment with US interests, experts say",
-      "summary": "UAE wants to supply more oil than its OPEC quota and that could help push down prices once the Strait of Hormuz opens.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/1/uae-exit-from-opec-signals-closer-alignment-with-us-interests-experts-say?traffic_source=rss",
-      "region": "MENA",
-      "country": "OPEC",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "16:32",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-01-eca194c8",
-      "headline": "Turkish police fire tear gas, arrest hundreds at May Day rally",
-      "summary": "Turkish authorities violently crackdown on May Day demonstrations at Istanbul’s Taksim Square, firing tear gas.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/1/turkish-police-fire-tear-gas-arrest-hundreds-at-may-day-rally?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "15:34",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-04-30-489b00bb",
       "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
       "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
@@ -788,20 +774,6 @@
       "score": 59.0
     },
     {
-      "id": "2026-04-30-3f78d3d3",
-      "headline": "Hegseth argues Iran ceasefire ‘pauses’ deadline for Congress’s approval",
-      "summary": "The War Powers Act requires that the Trump administration seek lawmakers’ consent to continue hostilities beyond 60 days, a time limit that expires Friday.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/04/30/hegseth-senate-hearing/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "19:26",
-      "conflict_id": null,
-      "score": 48.9
-    },
-    {
       "id": "2026-04-30-4e08bf0b",
       "headline": "Trump, Iran are locked in high-stakes standoff as oil prices hit 4-year high",
       "summary": "As the U.S. blockade and Iranian mines and drones halt shipping in the Strait of Hormuz, U.S. gas prices also reached a level not seen since just after Russia’s Ukraine invasion.",
@@ -812,6 +784,20 @@
       "category": "geopolitics",
       "date": "2026-04-30",
       "time": "11:40",
+      "conflict_id": null,
+      "score": 56.9
+    },
+    {
+      "id": "2026-04-30-3f78d3d3",
+      "headline": "Hegseth argues Iran ceasefire ‘pauses’ deadline for Congress’s approval",
+      "summary": "The War Powers Act requires that the Trump administration seek lawmakers’ consent to continue hostilities beyond 60 days, a time limit that expires Friday.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/04/30/hegseth-senate-hearing/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "19:26",
       "conflict_id": null,
       "score": 48.9
     },
@@ -830,6 +816,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-04-30-4c5232f5",
+      "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-04-30",
+      "time": "18:05",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-04-30-7982d5df",
       "headline": "Venice Biennale jury resigns days before start of top art exhibition",
       "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
@@ -842,20 +842,6 @@
       "time": "23:44",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-04-30-4c5232f5",
-      "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
-      "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-04-30",
-      "time": "18:05",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-04-30-29d724f2",
