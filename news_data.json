@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-02T11:07:20.227717+00:00",
+  "updated": "2026-05-02T11:56:22.140647+00:00",
   "story_count": 75,
-  "source_count": 10,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-05-02-cf465693",
@@ -16,20 +16,6 @@
       "time": "00:41",
       "conflict_id": null,
       "score": 68.0
-    },
-    {
-      "id": "2026-05-02-64c4ced5",
-      "headline": "Two people killed and over a dozen injured in Russian attacks across Ukraine",
-      "summary": "Russia is continuing to bombard Ukrainian cities daily with barrages of drones and missiles as ceasefire talks appear to have stalled in the wake of the war in Iran. Kyiv says its counter strikes targeting Russian oil facilities have been achieving success.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/02/two-people-killed-and-over-a-dozen-injured-in-russian-attacks-across-ukraine",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
     },
     {
       "id": "2026-05-02-75d52cf0",
@@ -60,48 +46,6 @@
       "score": 58.2
     },
     {
-      "id": "2026-05-02-57e33efa",
-      "headline": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
-      "summary": "US President Donald Trump says the latest Iranian peace proposal includes demands he &#039;can’t agree to&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "06:27",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-05-02-4240530e",
-      "headline": "Trump follows through on threats as he announces significant troop withdrawal from Germany",
-      "summary": "Trump had earlier threatened to pull some US troops from Germany after Chancellor Friedrich Merz expressed his disapproval with the US-Israeli war on Iran, which has upended the Middle East and caused a global oil price crisis.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/02/trump-follows-through-on-threats-as-he-announces-significant-troop-withdrawal-from-germany",
-      "region": "NA",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "06:30",
-      "conflict_id": null,
-      "score": 53.0
-    },
-    {
-      "id": "2026-05-02-a4c43fa4",
-      "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
-      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "08:14",
-      "conflict_id": null,
-      "score": 52.0
-    },
-    {
       "id": "2026-05-02-fe7ea2bc",
       "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
       "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
@@ -118,16 +62,44 @@
     {
       "id": "2026-05-02-70d2fe69",
       "headline": "Germany says it expected Trump’s withdrawal of US troops as row over Iran comments grows – live",
-      "summary": "German defence minister responds to US president’s announcement that 5,000 US troops will leave bases in GermanyThe UK Maritime Trade Operations (UKMTO) said suspicious activity had been reported 84 nautical miles southwest of the port of Mukalla in Yemen.A bulk carrier reported that a small boat and a fishing vessel came within 500m of it, according to UKMTO. Continue reading...",
+      "summary": "German defence minister responds to US president’s announcement that 5,000 US troops will leave bases in Germany‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troopsThe UK Maritime Trade Operations (UKMTO) said suspicious activity had been reported 84 nautical miles southwest of the port of Mukalla in Yemen.A bulk carrier reported that a small boat and a fishing vessel came within 500m of it, according to UKMTO. Co",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "region": "EU",
+      "region": "NA",
       "country": "Germany",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "10:56",
+      "time": "11:44",
       "conflict_id": null,
-      "score": 48.0
+      "score": 49.0
+    },
+    {
+      "id": "2026-05-02-57e33efa",
+      "headline": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+      "summary": "US President Donald Trump says the latest Iranian peace proposal includes demands he &#039;can’t agree to&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "06:27",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-05-02-a4c43fa4",
+      "headline": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "summary": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "08:14",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-02-68a80953",
@@ -140,20 +112,6 @@
       "category": "geopolitics",
       "date": "2026-05-02",
       "time": "09:51",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-05-02-585f15fa",
-      "headline": "Spirit Airlines winds down operations after bailout talks founder",
-      "summary": "Trump said US would only proceed with rescue for bankrupt budget carrier ‘if it’s a good deal’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-02",
-      "time": "07:31",
       "conflict_id": null,
       "score": 42.4
     },
@@ -172,13 +130,13 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-02-643d60c4",
-      "headline": "Trump to downsize U.S. military presence in Germany",
-      "summary": "Germany said the U.S. decision was “anticipated” while NATO said it was working to understand the details of the plan, which coincides with a feud between the president and the German chancellor.",
+      "id": "2026-05-02-12528bfd",
+      "headline": "Pentagon says it will downsize U.S. military presence in Germany",
+      "summary": "NATO said it was working to understand details of the plan to draw down about 5,000 troops, which coincides with a feud between the president and the German chancellor.",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/",
       "region": "EU",
-      "country": "Germany",
+      "country": "Pentagon",
       "category": "politics",
       "date": "2026-05-02",
       "time": "09:55",
@@ -284,6 +242,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-05-02-585f15fa",
+      "headline": "Spirit Airlines winds down operations after bailout talks founder",
+      "summary": "Trump said US would only proceed with rescue for bankrupt budget carrier ‘if it’s a good deal’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/18ab5a6a-397a-47b5-af06-f8e846b45bf1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "07:31",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-05-02-5a1126eb",
       "headline": "These G.O.P. Women Want Congress Members to Pay a Price for Abuse. Will It Work?",
       "summary": "Three Republican women who had a hand in forcing the resignations of lawmakers accused of sexual misconduct said they are out to name and shame more offenders. It is not clear how far they will go.",
@@ -366,6 +338,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-02-c0ece6cd",
+      "headline": "Oil Tanker Pricing Feud Embroils a Centuries-Old London Market",
+      "summary": "A legal claim from one of the world’s largest oil traders is throwing a spotlight on an arcane but critical corner of global finance &mdash; the multibillion-dollar freight market and the 282-year-old City of London institution that sits at the heart of it.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-02/oil-tanker-pricing-feud-embroils-a-centuries-old-london-market",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-02",
+      "time": "11:32",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-02-9e683aa3",
@@ -536,20 +522,6 @@
       "score": 56.4
     },
     {
-      "id": "2026-05-01-c716a358",
-      "headline": "Trump says he will hike tariffs on EU cars to 25%",
-      "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "19:42",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-05-01-acee52c6",
       "headline": "It's not just oil: Iran war also threatens Asia's food security",
       "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
@@ -576,20 +548,6 @@
       "time": "20:59",
       "conflict_id": null,
       "score": 50.4
-    },
-    {
-      "id": "2026-05-01-dcda309f",
-      "headline": "US withdrawing 5,000 troops from Germany after Merz says US ‘humiliated’ by Iran",
-      "summary": "US president says European countries are ‘absolutely horrible’ to refuse to support operations in strait of Hormuz• Why does the US have military bases in Germany?The US is withdrawing 5,000 troops from Germany, the Pentagon announced on Friday, as Donald Trump also threatened Italy and Spain for not helping to reopen the strait of Hormuz.The president’s move to reduce the number of personnel deployed in Germany came after the country’s chancello",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/01/trump-threatens-withdraw-troops-italy-spain-strait-hormuz",
-      "region": "EU",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "22:31",
-      "conflict_id": null,
-      "score": 49.0
     },
     {
       "id": "2026-05-01-96c20f3b",
@@ -620,46 +578,18 @@
       "score": 47.4
     },
     {
-      "id": "2026-05-01-932acb81",
-      "headline": "Trump to raise US tariffs on EU cars to 25%, accusing bloc of not complying with deal",
-      "summary": "Trump and European Commission President Ursula von der Leyen agreed to the trade deal last July which set a 15% tariff on most goods.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/01/trump-says-will-raise-us-tariffs-on-eu-cars-to-25-accusing-bloc-of-not-complying-with-deal",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "16:39",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-05-01-1734dd41",
-      "headline": "Trump says he will raise tariff on EU vehicles to 25%",
-      "summary": "Levies on cars and trucks exported to US will be imposed ‘next week’ unless companies manufacture at American plants",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5",
+      "id": "2026-05-01-c716a358",
+      "headline": "Trump says he will hike tariffs on EU cars to 25%",
+      "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g8zpylzz9o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "America",
+      "country": "Trump",
       "category": "business",
       "date": "2026-05-01",
-      "time": "18:47",
+      "time": "19:42",
       "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-05-01-d5d83dba",
-      "headline": "Trump Threatens Higher Tariffs on European Cars",
-      "summary": "President Trump said that the European Union was not upholding its part of a trade agreement and that he would increase tariffs next week.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-tariffs-eu-cars.html",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "19:36",
-      "conflict_id": null,
-      "score": 41.2
+      "score": 43.0
     },
     {
       "id": "2026-05-01-659217cc",
@@ -746,6 +676,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-01-1734dd41",
+      "headline": "Trump says he will raise tariff on EU vehicles to 25%",
+      "summary": "Levies on cars and trucks exported to US will be imposed ‘next week’ unless companies manufacture at American plants",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/26d64f97-8773-42d4-aaa4-35ff67e1e3c5",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "18:47",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-05-01-1650d124",
       "headline": "Wall Street Week | Warsh’s Fed, Vibe Coding, Geothermal Energy, Vegas Bets Big",
       "summary": "This week, The Fed made its call this week, but Kevin Warsh may be about to change the institution itself. And, AI made coding easy for everyone, and that's the best and worst thing to happen to software engineering. Plus, can the same technology that unlocked oil and gas now unlock clean energy? Later, the city that was built by the mob is now betting its future on dayclubs, nightlife, and premium experiences. (Source: Bloomberg)",
@@ -770,6 +714,20 @@
       "category": "politics",
       "date": "2026-05-01",
       "time": "21:12",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-05-01-d5d83dba",
+      "headline": "Trump Threatens Higher Tariffs on European Cars",
+      "summary": "President Trump said that the European Union was not upholding its part of a trade agreement and that he would increase tariffs next week.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/01/us/politics/trump-tariffs-eu-cars.html",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-01",
+      "time": "19:36",
       "conflict_id": null,
       "score": 33.2
     },
@@ -816,20 +774,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-30-489b00bb",
-      "headline": "Trump says US studying troop cuts in Germany, as spat with Merz intensifies",
-      "summary": "His remarks come after the German chancellor criticised the US approach to the war in Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyplg23l30o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "20:15",
-      "conflict_id": null,
-      "score": 60.0
-    },
-    {
       "id": "2026-04-30-7982d5df",
       "headline": "Venice Biennale jury resigns days before start of top art exhibition",
       "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
@@ -842,6 +786,20 @@
       "time": "23:44",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-04-30-3f78d3d3",
+      "headline": "Hegseth argues Iran ceasefire ‘pauses’ deadline for Congress’s approval",
+      "summary": "The War Powers Act requires that the Trump administration seek lawmakers’ consent to continue hostilities beyond 60 days, a time limit that expires Friday.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/04/30/hegseth-senate-hearing/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "19:26",
+      "conflict_id": null,
+      "score": 48.9
     },
     {
       "id": "2026-04-30-6d0dea85",
@@ -882,6 +840,34 @@
       "category": "politics",
       "date": "2026-04-30",
       "time": "19:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-30-1098bd3a",
+      "headline": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+      "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "14:47",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-30-be0d8a2d",
+      "headline": "Wada investigation finds 300 Russian doping cases",
+      "summary": "More than 300 sanctions have been handed to Russian athletes following the seizure of Moscow laboratory data in 2019, the World Anti-Doping Agency says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "16:00",
       "conflict_id": null,
       "score": 35.0
     },
@@ -940,6 +926,20 @@
       "time": "09:19",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-04-29-ad93ca35",
+      "headline": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
+      "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-04-29",
+      "time": "13:01",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-04-29-e1f58fdb",
