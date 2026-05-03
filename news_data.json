@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-03T13:59:59.805506+00:00",
-  "story_count": 75,
+  "updated": "2026-05-03T14:50:19.769783+00:00",
+  "story_count": 77,
   "source_count": 8,
   "stories": [
-    {
-      "id": "2026-05-03-def6ea45",
-      "headline": "Gaza flotilla activists from Spain and Brazil appear in Israeli court",
-      "summary": "Court extends detention of two men who were among 175 people intercepted in Mediterranean on ThursdayTwo foreign activists from a Gaza-bound flotilla who were brought to Israel for interrogation have appeared before an Israeli court, a rights group defending them has said.The flotilla of more than 50 vessels had set sail from France, Spain and Italy with the aim of breaking an Israeli blockade of Gaza and bringing supplies to the devastated Pales",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "09:02",
-      "conflict_id": "israel-hamas",
-      "score": 68.0
-    },
     {
       "id": "2026-05-03-556203e7",
       "headline": "Ukraine drone attack hits Russian Baltic port",
@@ -32,6 +18,20 @@
       "score": 67.4
     },
     {
+      "id": "2026-05-03-8197ad32",
+      "headline": "At least 10 killed, over 70 injured in Russian attacks across Ukraine in past 24 hours, Kyiv says",
+      "summary": "Kyiv says Russian drone and missile strikes have killed at least 10 people and injured more than 76 others across the country over the last 24 hours.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/03/at-least-10-killed-over-70-injured-in-russian-attacks-across-ukraine-in-past-24-hours-kyiv",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "11:29",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
       "id": "2026-05-03-05895bbe",
       "headline": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
       "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
@@ -43,7 +43,7 @@
       "date": "2026-05-03",
       "time": "13:43",
       "conflict_id": "ukraine-war",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-05-03-3992f131",
@@ -60,6 +60,62 @@
       "score": 50.4
     },
     {
+      "id": "2026-05-03-875a666f",
+      "headline": "Spain demands release of Gaza flotilla activists ‘held illegally’ by Israel",
+      "summary": "Israeli court extends detention of two men who were among 175 people intercepted near Crete on ThursdaySpain’s foreign ministry has demanded the immediate release of a Spanish national it said was being “held illegally” by Israel after the interception of a Gaza-bound flotilla, hours after an Israeli court moved to extend his detention by two days.Saif Abu Keshek, who lives in Barcelona, and Thiago Ávila, from Brazil, appeared in court in Ashkelo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/gaza-flotilla-activists-spain-brazil-appear-israel-court",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "14:18",
+      "conflict_id": null,
+      "score": 49.0
+    },
+    {
+      "id": "2026-05-03-ad572608",
+      "headline": "Who are the two Gaza flotilla activists abducted by Israel?",
+      "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Avila were among 175 Gaza flotilla activists detained by Israel.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/who-are-the-two-gaza-flotilla-activists-abducted-by-israel?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "14:00",
+      "conflict_id": null,
+      "score": 48.4
+    },
+    {
+      "id": "2026-05-03-fddd5a05",
+      "headline": "Republicans ‘concerned’ after Trump threatens to withdraw more US troops from Germany",
+      "summary": "US announced withdrawal of 5,000 soldiers last week after German chancellor said US was being ‘humiliated’ by IranDonald Trump has threatened to withdraw more US troops from Germany after stunning European leaders and some senior members of his own party by last week announcing the withdrawal of 5,000 soldiers from Germany.The move left 30,000 US troops still in the country, according to CNN. But Trump threatened on Saturday that more cuts were c",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/03/trump-threats-withdraw-troops-from-germany",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "13:39",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
+      "id": "2026-05-03-4e680dd2",
+      "headline": "US to cut troops in Germany as Iran war spat deepens",
+      "summary": "US-German relations are straining as a spat deepens between President Trump and Chancellor Merz over the war on Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/us-to-cut-troops-in-germany-as-iran-war-spat-deepens?traffic_source=rss",
+      "region": "NA",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "13:38",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-05-03-1e0f0db2",
       "headline": "Gaza aid flotilla activists appear in Israeli court after abduction",
       "summary": "Court extends activists’ detention by two days for further interrogation, rights group tells Al Jazeera.",
@@ -74,20 +130,6 @@
       "score": 47.4
     },
     {
-      "id": "2026-05-03-eb25ea99",
-      "headline": "South Korea holds pro-Palestine protest in solidarity with Gaza",
-      "summary": "Protesters in South Korea’s capital, Seoul, were in solidarity with Palestinians in Gaza enduring genocidal attacks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss",
-      "region": "MENA",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "07:39",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
       "id": "2026-05-03-207d45d5",
       "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
       "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
@@ -100,20 +142,6 @@
       "time": "08:41",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-03-9b7fe25b",
-      "headline": "2 U.S. Service Members Are Missing After Military Exercise in Morocco",
-      "summary": "The two Army soldiers were reported missing during a joint military exercise on Saturday near Cap Draa Training Area, a coastal area in southwestern Morocco.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/03/us/politics/us-army-missing-service-members-morocco-african-lion.html",
-      "region": "MENA",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "13:44",
-      "conflict_id": null,
-      "score": 41.2
     },
     {
       "id": "2026-05-03-6acd81a2",
@@ -144,20 +172,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-03-c6084464",
-      "headline": "Was the Iran war the final blow in the collapse of Spirit Airlines?",
-      "summary": "The shutdown of the budget airline after 34 years has left 17,000 staff members unemployed.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/was-the-iran-war-the-final-blow-in-the-collapse-of-spirit-airlines?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "13:03",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-05-03-c528549a",
       "headline": "US military says two service members taking part in Morocco drills missing",
       "summary": "AFRICOM says search and rescue operations under way in southwestern Morocco during African Lion exercise.",
@@ -172,32 +186,32 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-03-d200e357",
-      "headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
-      "summary": "Trump is reviewing Iran&#039;s latest proposal to end the war, but the mistrust between the two sides is a big obstacle.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-05-03-195e41a1",
+      "headline": "Trump says US will reduce troop presence in Germany 'a lot further' than initial 5,000 withdrawal",
+      "summary": "Trump indicated without sharing details that a substantial further reduction of US troop presence in Germany was imminent, just a day after the Pentagon announced a withdrawal of 5,000 soldiers. Trump has also threatened earlier in the week to rollback troops in Spain and Italy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/03/trump-says-us-will-reduce-troop-presence-in-germany-a-lot-further-than-initial-5000-withdr",
+      "region": "EU",
+      "country": "Pentagon",
       "category": "geopolitics",
       "date": "2026-05-03",
-      "time": "11:10",
+      "time": "07:09",
       "conflict_id": null,
-      "score": 39.4
+      "score": 37.0
     },
     {
-      "id": "2026-05-03-23269a35",
-      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
+      "id": "2026-05-03-4491fec4",
+      "headline": "OPEC+ Agrees Symbolic Quota Hike as UAE Touts Oil Investment",
+      "summary": "Major OPEC+ nations agreed a modest and symbolic increase in their June production quota levels, as the group sends a business-as-usual message following the surprise exit of the United Arab Emirates. Abu Dhabi at the same moment touted its own growth plans.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/opec-agrees-to-symbolic-june-quota-increase-delegates-say",
+      "region": "MENA",
+      "country": "OPEC",
+      "category": "business",
       "date": "2026-05-03",
-      "time": "07:02",
+      "time": "10:27",
       "conflict_id": null,
-      "score": 39.4
+      "score": 34.1
     },
     {
       "id": "2026-05-03-7781aff1",
@@ -242,20 +256,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-03-4491fec4",
-      "headline": "OPEC+ Agrees Symbolic Quota Hike as UAE Touts Oil Investment",
-      "summary": "Major OPEC+ nations agreed a modest and symbolic increase in their June production quota levels, as the group sends a business-as-usual message following the surprise exit of the United Arab Emirates. Abu Dhabi at the same moment touted its own growth plans.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-03/opec-agrees-to-symbolic-june-quota-increase-delegates-say",
-      "region": "MENA",
-      "country": "OPEC",
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "10:27",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-05-03-20197b32",
       "headline": "OPEC+ Meeting Offers Chance to Show Unity After UAE’s Shock Exit",
       "summary": "This weekend’s talks among OPEC+ nations provide the oil producer group with an opportunity to project unity after the shock departure of longtime member the United Arab Emirates.",
@@ -268,6 +268,20 @@
       "time": "07:00",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-05-03-f0f2a4ec",
+      "headline": "Canada to be first non-European nation at EPC summit as Carney seeks allies",
+      "summary": "PM’s attendance at European Political Community meeting in Yerevan signals effort to build new ties after US ruptureCanada is to become the first non-European country to attend a meeting of the European Political Community when the prime minister, Mark Carney, joins Monday’s summit of the 48-plus nation grouping in Yerevan, Armenia.Carney has said he is determined to build a new network of trade and diplomatic alliances after the loss of US marke",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/03/canada-first-non-european-nation-epc-summit-mark-carney-allies-trump",
+      "region": "NA",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "14:23",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-05-03-58a17cb8",
@@ -352,6 +366,48 @@
       "time": "12:36",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-03-dc815a5e",
+      "headline": "Las Vegas Is Gambling on Its Own Reinvention",
+      "summary": "Tourism is down, lower-income visitors are tightening their wallets, and online gambling means the casino now fits in your pocket. But Las Vegas isn't panicking. It's doubling down on what you can't get on a screen. The Tao Group is building a 46,000-square-foot dayclub on the Strip, its flagship nightclub is posting record revenue year after year, and the city's fast permitting process lets it rebuild itself faster than anywhere else in America.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-03/las-vegas-is-gambling-on-its-own-reinvention-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "14:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-03-b6e626b4",
+      "headline": "Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs",
+      "summary": "With equities back to their highs after a V-shaped recovery from the Iran oil shock, investors are increasingly caught between left and right tail risks: The tireless AI and semiconductor rally on one side and the gradual drag from higher energy prices on the other.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/traders-grapple-with-two-sided-tail-risk-as-stocks-regain-highs",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "14:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-03-b88361a8",
+      "headline": "US Is Oil Supplier of Last Resort as Hormuz Disruptions Worsen",
+      "summary": "The tankers have been arriving from all over the world in unprecedented numbers. After loading up in Alaska and along the US Gulf Coast, they head back out to sea &mdash; to Japan, Thailand and even as far as Australia.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/us-is-oil-supplier-of-last-resort-as-hormuz-disruptions-worsen",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "13:30",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-03-0935f2f8",
@@ -480,32 +536,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-03-d9fd1315",
-      "headline": "Are Somali pirates on a comeback in 2026?",
-      "summary": "Somali pirates peaked in 2010, vanished by 2013, and are back in 2026.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/3/are-somali-pirates-on-a-comeback-in-2026?traffic_source=rss",
-      "region": "MENA",
+      "id": "2026-05-03-42f8c0eb",
+      "headline": "SoftBank aims to make data center batteries without lithium, cobalt",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/softbank-aims-to-make-data-center-batteries-without-lithium-cobalt",
+      "region": "APJ",
       "country": null,
       "category": "business",
       "date": "2026-05-03",
-      "time": "09:38",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-03-877b5fbb",
-      "headline": "Japan’s Inoue beats Nakatani to retain undisputed super bantamweight title",
-      "summary": "Naoya Inoue wins 116-112, 115-113, 116-112 in a fight billed as the biggest boxing match in ​Japanese history.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/3/japans-inoue-beats-nakatani-to-retain-undisputed-super-bantamweight-title?traffic_source=rss",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "politics",
-      "date": "2026-05-03",
-      "time": "07:40",
-      "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-05-03-ffa3a550",
@@ -564,6 +606,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-05-03-5c75b174",
+      "headline": "From fridges to slow cookers: Can plug-in solar panels actually power our everyday appliances?",
+      "summary": "Plug-in solar is having its moment in the spotlight. But how much power can these mini devices actually generate?",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/03/from-fridges-to-slow-cookers-can-plug-in-solar-panels-actually-power-our-everyday-applianc",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-05-02-48811948",
       "headline": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
       "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
@@ -576,6 +632,20 @@
       "time": "23:19",
       "conflict_id": "ukraine-war",
       "score": 63.0
+    },
+    {
+      "id": "2026-05-02-fe7ea2bc",
+      "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
+      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "16:51",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-05-02-cf465693",
@@ -592,18 +662,46 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-02-fe7ea2bc",
-      "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
-      "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd7pn0zywggo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-02-534312bd",
+      "headline": "Seven killed in southern Lebanon amid Israeli airstrikes and ceasefire tensions",
+      "summary": "State media reported that several villages were hit as neighbourhoods near the border are being levelled. The IDF maintains that 50 airstrikes conducted over 24 hours specifically targeted Hezbollah infrastructure.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/02/at-least-seven-killed-in-lebanon-as-israeli-raids-continue-despite-ceasefire",
       "region": "MENA",
       "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "16:51",
+      "time": "15:34",
       "conflict_id": null,
-      "score": 43.0
+      "score": 45.0
+    },
+    {
+      "id": "2026-05-02-4e6f3da4",
+      "headline": "US Jobs Report to Show Resilience in the Wake of Iran War",
+      "summary": "The energy shock from the Iran war may be casting a shadow over the outlook for the US economy, but the labor market is yet to register any signs of it.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-02/us-jobs-report-to-show-resilience-in-the-wake-of-iran-war",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
+      "id": "2026-05-02-1bd38a79",
+      "headline": "Robert Fico will back Ukraine's EU membership after call, Zelenskyy says",
+      "summary": "Zelenskyy said they had invited each other to meet. Slovakia's prime minister has backed Viktor Orbán's isolated line on Ukraine, though less fervently than the outgoing Hungarian leader.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/02/robert-fico-will-back-ukraines-eu-membership-after-call-zelenskyy-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-05-02",
+      "time": "18:14",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
       "id": "2026-05-02-cf0d1e3f",
@@ -618,6 +716,20 @@
       "time": "11:00",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-05-02-403d48eb",
+      "headline": "Two flotilla detainees arrive in Israel amid fears for Spaniard Abu Keshek",
+      "summary": "Israel has confirmed that Spanish activist Saif Abu Keshek and Brazilian Thiago Ávila, detained during the raid on the Global Sumud Flotilla in international waters, are now in Israeli territory awaiting questioning. Spain deems the arrest illegal.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/02/two-flotilla-detainees-arrive-in-israel-amid-fears-for-spaniard-abu-keshek",
+      "region": "EU",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "14:07",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-05-02-c9109a4c",
@@ -644,20 +756,6 @@
       "category": "geopolitics",
       "date": "2026-05-02",
       "time": "13:35",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-02-2071fd46",
-      "headline": "Spirit Shuts Operations After White House Bailout Collapses",
-      "summary": "Spirit Aviation Holdings is winding down operations after the troubled US discount carrier buckled under the weight of surging fuel prices and a government bailout dangled by US President Donald Trump fell through. All Spirit flights have been canceled, and passengers have been advised not to go to the airport. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-02/spirit-shuts-down-after-white-house-bailout-collapses-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-05-02",
-      "time": "15:24",
       "conflict_id": null,
       "score": 34.1
     },
@@ -729,7 +827,7 @@
       "date": "2026-05-01",
       "time": "10:12",
       "conflict_id": null,
-      "score": 43.0
+      "score": 52.0
     },
     {
       "id": "2026-05-01-acee52c6",
@@ -744,20 +842,6 @@
       "time": "00:01",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-01-659217cc",
-      "headline": "War criminal Mladic close to death, say lawyers asking judge for jail release",
-      "summary": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "15:12",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-01-32b9c405",
@@ -830,20 +914,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-01-c1a97a1e",
-      "headline": "Columbia’s Outlook Revised to Negative as Trump Slams Colleges",
-      "summary": "Columbia University’s credit outlook was revised to negative by Moody’s Ratings, which cited rising risks tied to the “federal environment for higher education.”",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-01/columbia-risks-losing-top-credit-rating-as-trump-slams-colleges",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-01",
-      "time": "22:08",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-01-f0647322",
       "headline": "Could Santa Marta climate talks mark ground zero in push to ditch fossil fuels?",
       "summary": "Colombia hosted nearly 60 countries at pivotal time on world stage for fight to transition to a clean energy futureLooking out to sea from the grey sandy beaches of Santa Marta, on Colombia’s Caribbean coast, it is never hard to spot evidence of the country’s thriving fossil fuel export trade. Oil tankers ride at anchor on the horizon and sometimes, locals say, lumps of coal wash up on the shore, blown off the collier ships that carry cargos from",
@@ -869,7 +939,7 @@
       "date": "2026-04-30",
       "time": "20:34",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-04-30-7982d5df",
@@ -900,34 +970,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-30-1098bd3a",
-      "headline": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
-      "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "14:47",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-04-30-be0d8a2d",
-      "headline": "Wada investigation finds 300 Russian doping cases",
-      "summary": "More than 300 sanctions have been handed to Russian athletes following the seizure of Moscow laboratory data in 2019, the World Anti-Doping Agency says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-04-30-b41a3d9e",
       "headline": "Jewish agency warned of 'high' threat level ahead of Bondi shooting, report finds",
       "summary": "Gun reforms should be prioritised and policing around Jewish events increased, royal commission says.",
@@ -954,20 +996,6 @@
       "time": "03:20",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-30-297a423c",
-      "headline": "Elon Musk and Sam Altman bring their rivalry to court",
-      "summary": "Of the two unloved billionaires, which will the jury trust?",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/04/30/elon-musk-and-sam-altman-bring-their-rivalry-to-court",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-04-30",
-      "time": "09:19",
-      "conflict_id": null,
-      "score": 25.8
     },
     {
       "id": "2026-04-29-e1f58fdb",
