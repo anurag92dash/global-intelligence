@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-03T17:13:23.554453+00:00",
+  "updated": "2026-05-03T18:02:40.373198+00:00",
   "story_count": 77,
   "source_count": 9,
   "stories": [
@@ -16,20 +16,6 @@
       "time": "11:29",
       "conflict_id": "ukraine-war",
       "score": 65.0
-    },
-    {
-      "id": "2026-05-03-73aba408",
-      "headline": "Ukraine drone attacks hit nuclear power plant, Baltic port",
-      "summary": "President Volodymyr Zelenskyy hails &#039;successful destruction&#039; of the port, as Russia warns of oil price rises.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "09:57",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
     },
     {
       "id": "2026-05-03-05895bbe",
@@ -58,20 +44,6 @@
       "time": "15:40",
       "conflict_id": "israel-hamas",
       "score": 51.4
-    },
-    {
-      "id": "2026-05-03-3992f131",
-      "headline": "Investors pile into clean energy as Iran war drives push for energy security",
-      "summary": "Renewables funds attract biggest flows for five years, as focus shifts from climate change to geopolitical crisis",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 50.4
     },
     {
       "id": "2026-05-03-55831b36",
@@ -210,6 +182,20 @@
       "category": "geopolitics",
       "date": "2026-05-03",
       "time": "12:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-03-d200e357",
+      "headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "summary": "Trump is reviewing Iran&#039;s latest proposal to end the war, but the mistrust between the two sides is a big obstacle.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "11:10",
       "conflict_id": null,
       "score": 39.4
     },
@@ -368,6 +354,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-03-ae1c9d02",
+      "headline": "Banks seek to offload risk to avoid ‘choking’ on data centre debt",
+      "summary": "Global lenders explore private deals and risk transfers to cut exposure to AI boom",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/08aba5e4-5834-4e79-a48d-989a2c5bad0f",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "17:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-05-03-5c03ea3b",
       "headline": "Trump’s green new deal",
       "summary": "The US president’s actions have inadvertently raised the appeal of renewable energy",
@@ -494,6 +494,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-03-e74619bd",
+      "headline": "The remarkable revival of eBay",
+      "summary": "The internet’s flea market is back—and GameStop wants to buy it",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/05/03/the-remarkable-revival-of-ebay",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "17:03",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
       "id": "2026-05-03-ce298b21",
       "headline": "Man Shot by ICE in California Indicted on Assault Charges",
       "summary": "Prosecutors have accused the man of hitting federal agents with his vehicle as they tried to arrest him.",
@@ -548,20 +562,6 @@
       "time": "06:21",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-05-03-ec625b47",
-      "headline": "Ben-Gvir celebrates birthday with cake decorated with death penalty noose",
-      "summary": "Ben-Gvir celebrated his 50th birthday with a cake referencing the newly-passed death penalty for Palestinian detainees.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/ben-gvir-celebrates-birthday-with-cake-decorated-with-death-penalty-noose?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "10:29",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-05-03-a36b12f2",
@@ -788,20 +788,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-02-ff7d158b",
-      "headline": "Oil Tanker Pricing Feud Embroils Centuries-Old London Market",
-      "summary": "A legal claim from one of the world’s largest oil traders is throwing a spotlight on an arcane but critical corner of global finance &mdash; the multibillion-dollar freight market and the 282-year-old City of London institution that sits at the heart of it.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/oil-tanker-pricing-feud-embroils-a-centuries-old-london-market",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-02",
-      "time": "11:32",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-01-1ed7face",
       "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
       "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
@@ -952,6 +938,20 @@
       "category": "politics",
       "date": "2026-04-30",
       "time": "19:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-30-1098bd3a",
+      "headline": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+      "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "14:47",
       "conflict_id": null,
       "score": 35.0
     },
