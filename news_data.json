@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-03T22:22:53.211037+00:00",
-  "story_count": 77,
-  "source_count": 8,
+  "updated": "2026-05-03T23:07:39.550803+00:00",
+  "story_count": 78,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-05-03-8197ad32",
@@ -16,6 +16,20 @@
       "time": "11:29",
       "conflict_id": "ukraine-war",
       "score": 65.0
+    },
+    {
+      "id": "2026-05-03-ab977ce4",
+      "headline": "Oil Edges Lower as Trump Says US Will Help Vessels Exit Strait",
+      "summary": "Oil dropped after President Donald Trump said the US would begin guiding neutral ships out through the Strait of Hormuz and signaled progress on talks with Iran to end the war now in its 10th week.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/latest-oil-market-news-and-analysis-for-may-4",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 59.1
     },
     {
       "id": "2026-05-03-4e06f2e4",
@@ -90,28 +104,42 @@
     {
       "id": "2026-05-03-30d99c71",
       "headline": "US to ‘guide’ stranded ships out of Strait of Hormuz, says Trump",
-      "summary": "President said ‘humanitarian’ effort to begin on Monday as ‘very positive discussions’ continue with Iran",
+      "summary": "President says ‘humanitarian’ effort to begin on Monday as ‘very positive discussions’ continue with Iran",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/7ec081ca-3b1d-4fbe-b29a-a3b0b08efc41",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-03",
-      "time": "21:05",
+      "time": "22:28",
       "conflict_id": null,
       "score": 51.4
     },
     {
-      "id": "2026-05-03-b91b5f96",
-      "headline": "Oil Falls as Trump Says US to Start Guiding Ships Through Hormuz",
-      "summary": "Oil dropped as President Donald Trump said the US would begin guiding neutral ships through the Strait of Hormuz and signaled progress on talks with Iran to end the war.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-03/latest-oil-market-news-and-analysis-for-may-4",
+      "id": "2026-05-03-befc14df",
+      "headline": "Trump Says U.S. Will Help Stranded Ships Leave Strait of Hormuz",
+      "summary": "President Trump offered few details on how the new program, which he called Project Freedom, would work, but said interference would be dealt with “forcefully.”",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/strait-hormuz-stranded-ships.html",
       "region": "NA",
       "country": "Trump",
-      "category": "geopolitics",
+      "category": "politics",
       "date": "2026-05-03",
-      "time": "22:01",
+      "time": "22:33",
+      "conflict_id": null,
+      "score": 50.2
+    },
+    {
+      "id": "2026-05-03-d7fe5721",
+      "headline": "Trump Says US to Help Some Ships Leave Hormuz Starting Monday",
+      "summary": "President Donald Trump says the US will help some ships leave Hormuz staring on Monday morning, Middle Eastern Time.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/trump-says-us-to-help-some-ships-leave-hormuz-starting-monday",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "20:43",
       "conflict_id": null,
       "score": 50.1
     },
@@ -130,18 +158,18 @@
       "score": 50.1
     },
     {
-      "id": "2026-05-03-3ac0d5ba",
-      "headline": "US Navy Taps AI Firm to Clear Iranian Mines in Strait of Hormuz",
-      "summary": "Traffic through the waterway has been at a near-standstill since the US and Israel launched strikes against Iran in late February and Tehran threatened to attack ships in the strait. Iran has said it laid mines along the most frequently used routes of the narrow waterway, and a senior US Defense Department official says clearing the strait of mines could take six months. Domino Data Lab Chief Operating Officer Thomas Robinson joins David Gura and",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-03/us-navy-taps-ai-firm-to-clear-mines-in-strait-of-hormuz-video",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-05-03-273b1958",
+      "headline": "China Seeks an Advantage With Both Trump and Iran as War Evolves",
+      "summary": "With President Trump’s visit to Beijing looming, China is pushing Iran to negotiate even as its companies export material that could be used by Iran’s military.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/trump-china-iran-war.html",
+      "region": "APJ",
+      "country": "Beijing",
       "category": "geopolitics",
       "date": "2026-05-03",
-      "time": "13:42",
+      "time": "22:30",
       "conflict_id": null,
-      "score": 50.1
+      "score": 49.2
     },
     {
       "id": "2026-05-03-77a19d02",
@@ -211,7 +239,7 @@
       "date": "2026-05-03",
       "time": "07:09",
       "conflict_id": null,
-      "score": 45.0
+      "score": 46.0
     },
     {
       "id": "2026-05-03-1c5868c7",
@@ -242,23 +270,9 @@
       "score": 43.4
     },
     {
-      "id": "2026-05-03-d7fe5721",
-      "headline": "Trump Says US to Help Some Ships Leave Hormuz Starting Monday",
-      "summary": "President Donald Trump says the US will help some ships leave Hormuz staring on Monday morning, Middle Eastern Time.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-03/trump-says-us-to-help-some-ships-leave-hormuz-starting-monday",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-03",
-      "time": "20:43",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-05-03-aa7bb431",
       "headline": "NAB Profit Misses Estimates as Software Costs Weigh on Bank",
-      "summary": "National Australia Bank Ltd. missed first-half profit estimates as robust loan growth was offset by higher software costs and credit provisions as the economy deteriorates.",
+      "summary": "National Australia Bank Ltd. missed first-half profit estimates as higher software costs and the deteriorating economy pushed up credit provisions, offsetting robust loan growth.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-03/nab-profit-misses-estimates-as-software-costs-weigh-on-bank",
       "region": "APJ",
@@ -266,6 +280,20 @@
       "category": "business",
       "date": "2026-05-03",
       "time": "22:11",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-03-19f55371",
+      "headline": "US Futures Gain, Oil Falls on Signs of Iran Talks: Markets Wrap",
+      "summary": "US stock futures rose and oil fell as improving risk sentiment was buoyed by prospects of shipping resuming through the Strait of Hormuz and progress toward a US-Iran deal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/us-futures-gain-oil-falls-on-signs-of-iran-talks-markets-wrap",
+      "region": "NA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "22:16",
       "conflict_id": null,
       "score": 34.1
     },
@@ -354,18 +382,32 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-03-713f17c9",
-      "headline": "Trump administration cites national security to widen clampdown on wind farms",
-      "summary": "Defence department is stalling 165 projects as president steps up efforts to stamp out the industry",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/74d8cf6f-aa17-4a24-a621-e26b1bad2e1e",
+      "id": "2026-05-03-09b2aa9a",
+      "headline": "Block Trade King Simon Sadler Begins High-Profile Court Showdown",
+      "summary": "The crowd at Bloomfield Road Stadium chanted Simon Sadler’s name, giving the financier a hero’s welcome.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/block-trade-king-simon-sadler-begins-high-profile-court-showdown",
       "region": "NA",
-      "country": "Trump",
-      "category": "politics",
+      "country": null,
+      "category": "business",
       "date": "2026-05-03",
-      "time": "12:36",
+      "time": "23:00",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-03-cd266c81",
+      "headline": "Aussie Rally May Fade as RBA Set to Temper Hikes, Analysts Say",
+      "summary": "The Australian dollar’s rally may fade with the Reserve Bank of Australia set to signal a slower pace of interest rate hikes after a widely expected increase this week, according to top forecasters.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/aussie-rally-may-fade-as-rba-set-to-temper-hikes-analysts-say",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "22:18",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-03-893bb228",
@@ -438,34 +480,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-03-7ae967d4",
-      "headline": "FCC Commissioner Gomez Condemns Early ABC License Review as First Amendment Violation",
-      "summary": "Federal Communications Commission Commissioner Anna Gomez, the sole Democrat on the commission, joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the FCC's decision to order an early review of ABC's local broadcast licenses, calling it an egregious violation of the First Amendment. Watch the full interview on Bloomberg This Weekend and watch the show LIVE every Saturday and Sunday morning. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-03/fcc-condemns-early-abc-license-review-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "15:24",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-03-dc815a5e",
-      "headline": "Las Vegas Is Gambling on Its Own Reinvention",
-      "summary": "Tourism is down, lower-income visitors are tightening their wallets, and online gambling means the casino now fits in your pocket. But Las Vegas isn't panicking. It's doubling down on what you can't get on a screen. The Tao Group is building a 46,000-square-foot dayclub on the Strip, its flagship nightclub is posting record revenue year after year, and the city's fast permitting process lets it rebuild itself faster than anywhere else in America.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-03/las-vegas-is-gambling-on-its-own-reinvention-video",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "14:04",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-03-b6e626b4",
       "headline": "Traders Grapple With Two-Sided Tail Risk as Stocks Regain Highs",
       "summary": "With equities back to their highs after a V-shaped recovery from the Iran oil shock, investors are increasingly caught between left and right tail risks: The tireless AI and semiconductor rally on one side and the gradual drag from higher energy prices on the other.",
@@ -476,20 +490,6 @@
       "category": "business",
       "date": "2026-05-03",
       "time": "14:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-03-b88361a8",
-      "headline": "US Is Oil Supplier of Last Resort as Hormuz Disruptions Worsen",
-      "summary": "The tankers have been arriving from all over the world in unprecedented numbers. After loading up in Alaska and along the US Gulf Coast, they head back out to sea &mdash; to Japan, Thailand and even as far as Australia.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-03/us-is-oil-supplier-of-last-resort-as-hormuz-disruptions-worsen",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "13:30",
       "conflict_id": null,
       "score": 26.1
     },
@@ -520,6 +520,20 @@
       "time": "17:03",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-05-03-eaceec86",
+      "headline": "Australia news live: hundreds of Brisbane trains to be cancelled amid industrial action; families of Bondi shooting victims to take the stand",
+      "summary": "Meanwhile treasurer says next week’s budget will save more than it spends. Follow today’s news liveGet our breaking news email, free app or daily news podcastHundreds of weekday train services in Brisbane will be cut back this week as workers at Queensland Rail take industrial action after negotiations on a new enterprise agreement stalled.Queensland Rail said 300 fewer services would operate on the state’s southeast network in and around Brisban",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/04/australia-news-live-jim-chalmers-budget-inflation-labor-cost-of-living-interest-rates-bondi-shooting-royal-commission-antisemitism-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "22:54",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-05-03-c037fc32",
@@ -662,6 +676,20 @@
       "score": 21.0
     },
     {
+      "id": "2026-05-02-cf465693",
+      "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "23:03",
+      "conflict_id": null,
+      "score": 67.0
+    },
+    {
       "id": "2026-05-02-48811948",
       "headline": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
       "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
@@ -674,20 +702,6 @@
       "time": "23:19",
       "conflict_id": "ukraine-war",
       "score": 63.0
-    },
-    {
-      "id": "2026-05-02-cf465693",
-      "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "23:03",
-      "conflict_id": null,
-      "score": 59.0
     },
     {
       "id": "2026-05-02-fe7ea2bc",
@@ -758,6 +772,20 @@
       "time": "17:01",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-05-01-1ed7face",
+      "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
+      "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Greece",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "10:12",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-01-659217cc",
@@ -952,20 +980,6 @@
       "category": "geopolitics",
       "date": "2026-04-30",
       "time": "05:45",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-04-30-08de817c",
-      "headline": "Why is China banning drone sales in Beijing?",
-      "summary": "The BBC's Laura Bicker looks into why China has tightened regulations on drones, with authorities citing public safety concerns.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czd21r472nmo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "10:29",
       "conflict_id": null,
       "score": 27.0
     },
