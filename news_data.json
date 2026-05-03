@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-03T11:56:03.900547+00:00",
-  "story_count": 78,
+  "updated": "2026-05-03T12:44:24.773205+00:00",
+  "story_count": 76,
   "source_count": 9,
   "stories": [
     {
@@ -15,26 +15,12 @@
       "date": "2026-05-03",
       "time": "09:02",
       "conflict_id": "israel-hamas",
-      "score": 60.0
-    },
-    {
-      "id": "2026-05-03-8197ad32",
-      "headline": "At least 10 killed, over 70 injured in Russian attacks across Ukraine in past 24 hours, Kyiv says",
-      "summary": "Kyiv says Russian drone and missile strikes have killed at least 10 people and injured more than 76 others across the country over the last 24 hours.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/03/at-least-10-killed-over-70-injured-in-russian-attacks-across-ukraine-in-past-24-hours-kyiv",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "11:29",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
+      "score": 68.0
     },
     {
       "id": "2026-05-03-b5417660",
       "headline": "Ukraine drone attack hits Russian Baltic port, governor says",
-      "summary": "Ukrainian forces also strike two shadow fleet tankers near port of Novorossiysk, President Volodymyr Zelenskyy says.",
+      "summary": "Ukraine confirmed the attack on the port, with President Volodymyr Zelenskyy claiming it as a &#039;successful destruction&#039;.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
       "region": "EU",
@@ -43,19 +29,47 @@
       "date": "2026-05-03",
       "time": "09:57",
       "conflict_id": "ukraine-war",
-      "score": 51.4
+      "score": 59.4
     },
     {
-      "id": "2026-05-03-23269a35",
-      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
-      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-05-03-05895bbe",
+      "headline": "Russian strikes kill 10 as Zelensky says Ukraine hits oil tankers and terminal",
+      "summary": "Fatalities have been reported around Ukraine as Kyiv says Russian \"shadow fleet\" tankers were hit by drones.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp41v1n1go?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-03",
-      "time": "07:02",
+      "time": "12:05",
+      "conflict_id": "ukraine-war",
+      "score": 55.0
+    },
+    {
+      "id": "2026-05-03-3992f131",
+      "headline": "Investors pile into clean energy as Iran war drives push for energy security",
+      "summary": "Renewables funds attract biggest flows for five years, as focus shifts from climate change to geopolitical crisis",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-05-03-1e0f0db2",
+      "headline": "Gaza aid flotilla activists appear in Israeli court after abduction",
+      "summary": "Court extends activists’ detention by two days for further interrogation, rights group tells Al Jazeera.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/gaza-flotilla-activists-appear-in-israeli-court-allege-torture-in-custody?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "11:41",
       "conflict_id": null,
       "score": 47.4
     },
@@ -72,20 +86,6 @@
       "time": "07:39",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-05-03-207d45d5",
-      "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
-      "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "08:41",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-05-03-6acd81a2",
@@ -130,6 +130,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-05-03-23269a35",
+      "headline": "Iran war: What’s happening on day 65 as Trump reviews new plan to end war?",
+      "summary": "Iran has sent the US a new 14-point proposal to end the war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/iran-war-whats-happening-on-day-65-as-trump-reviews-new-plan-to-end-war?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "07:02",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-05-03-7bfd4a8b",
       "headline": "China blocks US sanctions against five ‘teapot’ refineries",
       "summary": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
@@ -144,46 +158,46 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-03-4190cecb",
-      "headline": "Millions of jobs lost as Iranians battle ‘Operation Economic Fury’",
-      "summary": "A fragile ceasefire may have paused the US-Israeli war on Iran, but the economic cost is crippling life in Tehran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/millions-of-jobs-lost-as-iranians-battle-operation-economic?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "04:35",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-03-195e41a1",
-      "headline": "Trump says US will reduce troop presence in Germany 'a lot further' than initial 5,000 withdrawal",
-      "summary": "Trump indicated without sharing details that a substantial further reduction of US troop presence in Germany was imminent, just a day after the Pentagon announced a withdrawal of 5,000 soldiers. Trump has also threatened earlier in the week to rollback troops in Spain and Italy.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/03/trump-says-us-will-reduce-troop-presence-in-germany-a-lot-further-than-initial-5000-withdr",
-      "region": "EU",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "07:09",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-05-03-1c5868c7",
-      "headline": "Trump says Iran has 'not yet paid a big enough price' as he reviews new peace proposal",
-      "summary": "The US president had earlier in the week refused another Iranian proposal, saying Tehran is not willing to give Washington what it “needs to have” to strike a deal.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "id": "2026-05-03-207d45d5",
+      "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "summary": "The chairs of the House and Senate armed services committees said withdrawing 5,000 service personnel risked undermining deterrence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Washington",
+      "country": "Germany",
       "category": "geopolitics",
       "date": "2026-05-03",
-      "time": "06:29",
+      "time": "08:41",
       "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-03-7781aff1",
+      "headline": "Sununu: Spirit Bailout \"Made No Financial Sense Whatsoever\"",
+      "summary": "The collapse of Spirit Airlines is cascading through airports across the US, leaving passengers stranded mid-journey and sending rival carriers into rapid-response mode to contain the damage. Airlines for America President & CEO Chris Sununu joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-03/sununu-spirit-bailout-made-no-financial-sense-video",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "12:21",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-03-ce3305fd",
+      "headline": "The Energy Source Hiding Beneath Your Feet",
+      "summary": "As data centers push US electricity demand toward a projected 20% increase over the next decade, one overlooked power source is getting a second look: geothermal. New techniques borrowed from oil and gas fracking are unlocking heat from deep underground in places far beyond traditional hot springs. Private capital has poured more than $1.5 billion into next-gen geothermal since 2021, and companies like Ormat and Sage Geosystems are partnering to ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-03/the-energy-source-hiding-beneath-your-feet-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "12:04",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-03-b35cb39b",
@@ -214,6 +228,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-05-03-b314c428",
+      "headline": "Taiwan’s leader visits Eswatini despite pressure from China to block trip",
+      "summary": "Taiwan’s leader William Lai Ching-te is visiting Eswatini, the only country in Africa that recognises Taiwan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/taiwans-leader-visits-eswatini-despite-pressure-from-china-to-block-trip?traffic_source=rss",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "12:18",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-05-03-93ea2794",
       "headline": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
       "summary": "President William Lai Ching-te says he met King Mswati III and signed trade agreements.",
@@ -224,20 +252,6 @@
       "category": "geopolitics",
       "date": "2026-05-03",
       "time": "06:36",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-05-03-e103df80",
-      "headline": "US approves $8.6bn in arms sales to Middle East allies",
-      "summary": "US State Department cites emergency circumstances to fast-track sales without the approval of Congress.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-05-03",
-      "time": "04:05",
       "conflict_id": null,
       "score": 31.4
     },
@@ -268,6 +282,34 @@
       "time": "10:16",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-05-03-5c03ea3b",
+      "headline": "Trump’s green new deal",
+      "summary": "The US president’s actions have inadvertently raised the appeal of renewable energy",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fb275aae-355f-481f-ab30-999d861b7d42",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-05-03-1e5f853a",
+      "headline": "Argentines Keep Cash Under Mattresses Even as Milei Pushes Bank Accounts",
+      "summary": "You’d be surprised how damp and smelly dollar bills get, Alejandro Lamas says, when they’ve been squirreled away under a mattress for years. He’s gotten so many stacks of them from Argentines he’s sold used cars to over the years that he’s a bit of a connoisseur. Slip him a counterfeit and he knows at first touch.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/usd-ars-milei-struggles-to-convince-argentines-to-put-cash-in-savings-accounts",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-03-4491fec4",
@@ -410,20 +452,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-03-70a21f07",
-      "headline": "Carlos Prates punishes Jack Della Maddalena at UFC Fight Night Australia",
-      "summary": "Brazil&#039;s Prates crushes hometown hero Maddalena in the Perth fight; challenges the winner of Makhachev vs Garry.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/3/carlos-prates-punishes-jack-della-maddalena-at-ufc-fight-night-australia?traffic_source=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "05:32",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-05-03-ffa3a550",
       "headline": "To Lam meets Modi, ASEAN ministerial meeting, Sony's business strategy",
       "summary": "",
@@ -480,62 +508,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-03-b0729228",
-      "headline": "Japan bank signs over $2bn in loans for US investments",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/finance/japan-bank-signs-over-2bn-in-loans-for-us-investments",
-      "region": "NA",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-03-5c75b174",
-      "headline": "From fridges to slow cookers: Can plug-in solar panels actually power our everyday appliances?",
-      "summary": "Plug-in solar is having its moment in the spotlight. But how much power can these mini devices actually generate?",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/03/from-fridges-to-slow-cookers-can-plug-in-solar-panels-actually-power-our-everyday-applianc",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-02-cf465693",
-      "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
-      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "23:03",
-      "conflict_id": null,
-      "score": 67.0
-    },
-    {
-      "id": "2026-05-02-64c4ced5",
-      "headline": "Two people killed and over a dozen injured in Russian attacks across Ukraine",
-      "summary": "Russia is continuing to bombard Ukrainian cities daily with barrages of drones and missiles as ceasefire talks appear to have stalled in the wake of the war in Iran. Kyiv says its counter strikes targeting Russian oil facilities have been achieving success.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/02/two-people-killed-and-over-a-dozen-injured-in-russian-attacks-across-ukraine",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "10:00",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
-    },
-    {
       "id": "2026-05-02-48811948",
       "headline": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
       "summary": "President Zelensky has been visiting the Gulf to demonstrate his country's military nous.",
@@ -550,6 +522,20 @@
       "score": 63.0
     },
     {
+      "id": "2026-05-02-cf465693",
+      "headline": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "summary": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "23:03",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-05-02-fe7ea2bc",
       "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
       "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
@@ -561,21 +547,21 @@
       "date": "2026-05-02",
       "time": "16:51",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
-      "id": "2026-05-02-534312bd",
-      "headline": "Seven killed in southern Lebanon amid Israeli airstrikes and ceasefire tensions",
-      "summary": "State media reported that several villages were hit as neighbourhoods near the border are being levelled. The IDF maintains that 50 airstrikes conducted over 24 hours specifically targeted Hezbollah infrastructure.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/02/at-least-seven-killed-in-lebanon-as-israeli-raids-continue-despite-ceasefire",
-      "region": "MENA",
-      "country": "Lebanon",
+      "id": "2026-05-02-c9109a4c",
+      "headline": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
+      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Taiwan",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "15:34",
+      "time": "17:01",
       "conflict_id": null,
-      "score": 45.0
+      "score": 43.0
     },
     {
       "id": "2026-05-02-21e4330d",
@@ -592,20 +578,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-02-1bd38a79",
-      "headline": "Robert Fico will back Ukraine's EU membership after call, Zelenskyy says",
-      "summary": "Zelenskyy said they had invited each other to meet. Slovakia's prime minister has backed Viktor Orbán's isolated line on Ukraine, though less fervently than the outgoing Hungarian leader.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/02/robert-fico-will-back-ukraines-eu-membership-after-call-zelenskyy-says",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-05-02",
-      "time": "18:14",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
-    },
-    {
       "id": "2026-05-02-cf0d1e3f",
       "headline": "Zambia cancels world’s largest human rights and tech summit days before start",
       "summary": "Government blocks RightsCon 2026 conference saying it did not ‘align with national values’The world’s largest conference on human rights and technology has been cancelled just days before it was due to start after the Zambian government told organisers it did not align with “national values”.Zambia’s government had originally welcomed the RightsCon 2026 summit on “human rights in the digital age”, due to be held in the capital, Lusaka, on 5-8 May",
@@ -620,44 +592,16 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-02-b3e83052",
-      "headline": "Top Republicans express concern over withdrawal of US troops from Germany – as it happened",
-      "summary": "Senator Roger Wicker and representative Mike Rogers say move risks undermining deterrence and sending wrong signal to PutinFull report: Nato seeks to ‘understand the details’ after US decision to withdraw troops from Germany‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troopsThe UK Maritime Trade Operations (UKMTO) said suspicious activity had been reported 84 nautical miles southwest of the port of Mukalla in Yem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "18:06",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-05-02-f6d82da4",
-      "headline": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
-      "summary": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+      "id": "2026-05-02-f6fcba9f",
+      "headline": "Oil tanker hijacked off coast of Yemen and taken towards Somalia",
+      "summary": "It is the second time an oil tanker has been hijacked in the area in the past 10 days.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cpwprl0v2npo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Yemen",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "17:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-02-c9109a4c",
-      "headline": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
-      "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c809ln029ldo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "17:01",
+      "time": "17:53",
       "conflict_id": null,
       "score": 35.0
     },
@@ -686,20 +630,6 @@
       "category": "business",
       "date": "2026-05-02",
       "time": "15:46",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-02-a929a285",
-      "headline": "Spirit Ends Operations After White House Bailout Collapses",
-      "summary": "Spirit Aviation Holdings Inc. is winding down operations after the troubled US discount carrier buckled under the weight of surging fuel prices and a government bailout dangled by President Donald Trump fell through.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/spirit-shuts-operations-after-white-house-bailout-falls-apart",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-05-02",
-      "time": "06:37",
       "conflict_id": null,
       "score": 34.1
     },
@@ -830,6 +760,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-01-acee52c6",
+      "headline": "It's not just oil: Iran war also threatens Asia's food security",
+      "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "00:01",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-01-659217cc",
+      "headline": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+      "summary": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "15:12",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-01-32b9c405",
       "headline": "Myanmar ex-leader Aung San Suu Kyi moved to house arrest, military says",
       "summary": "The Nobel Peace Prize laureate has been in detention since she was ousted in a military coup in 2021.",
@@ -886,20 +844,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-01-57c8cb69",
-      "headline": "China scraps tariffs for all but one African nation",
-      "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "00:02",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-01-c1a97a1e",
       "headline": "Columbia’s Outlook Revised to Negative as Trump Slams Colleges",
       "summary": "Columbia University’s credit outlook was revised to negative by Moody’s Ratings, which cited rising risks tied to the “federal environment for higher education.”",
@@ -939,7 +883,7 @@
       "date": "2026-04-30",
       "time": "20:34",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-04-30-7982d5df",
@@ -966,6 +910,34 @@
       "category": "politics",
       "date": "2026-04-30",
       "time": "19:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-30-1098bd3a",
+      "headline": "Ukraine expands oil strikes on Russia as Putin proposes brief ceasefire",
+      "summary": "In a phone call with President Trump, Putin proposed a ceasefire on 9 May, the anniversary of the defeat of Nazi Germany in WW2.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21mlr8kk3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "14:47",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-04-30-be0d8a2d",
+      "headline": "Wada investigation finds 300 Russian doping cases",
+      "summary": "More than 300 sanctions have been handed to Russian athletes following the seizure of Moscow laboratory data in 2019, the World Anti-Doping Agency says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/articles/cx21k881djlo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "16:00",
       "conflict_id": null,
       "score": 35.0
     },
