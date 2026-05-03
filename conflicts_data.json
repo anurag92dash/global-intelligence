@@ -6,9 +6,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-05-02",
     "recent_headlines": [
+      {
+        "headline": "Two people killed and over a dozen injured in Russian attacks across Ukraine",
+        "source": "Euronews",
+        "date": "2026-05-02"
+      },
       {
         "headline": "The Iran war has strengthened Ukraine in surprising ways. Could a ceasefire with Russia be closer?",
         "source": "BBC News",
@@ -18,11 +23,6 @@
         "headline": "Ukraine eyes Belarus border activities as Russian strikes persist",
         "source": "Al Jazeera",
         "date": "2026-05-02"
-      },
-      {
-        "headline": "Venice Biennale jury resigns days before start of top art exhibition",
-        "source": "BBC News",
-        "date": "2026-04-30"
       }
     ],
     "timeline": [
@@ -52,17 +52,22 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-05-02",
+    "last_activity": "2026-05-03",
     "recent_headlines": [
       {
-        "headline": "Spain demands Israel release arrested Gaza flotilla crew member",
-        "source": "Al Jazeera",
+        "headline": "Dozens paddle out in Sydney and Newcastle in solidarity with Gaza Flotilla – as it happened",
+        "source": "The Guardian",
+        "date": "2026-05-03"
+      },
+      {
+        "headline": "Seven killed in southern Lebanon amid Israeli airstrikes and ceasefire tensions",
+        "source": "Euronews",
         "date": "2026-05-02"
       },
       {
-        "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+        "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
         "source": "BBC News",
-        "date": "2026-04-30"
+        "date": "2026-05-01"
       }
     ],
     "timeline": [
@@ -123,8 +128,13 @@
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
     "status_signal": "stable",
-    "last_activity": "2026-05-02",
+    "last_activity": "2026-05-03",
     "recent_headlines": [
+      {
+        "headline": "Taiwan leader visits Eswatini despite China’s attempts to block trip",
+        "source": "Al Jazeera",
+        "date": "2026-05-03"
+      },
       {
         "headline": "Zambia cancels world’s largest human rights and tech summit days before start",
         "source": "The Guardian",
@@ -134,11 +144,6 @@
         "headline": "UAE Departs OPEC as Iran Feel Economic Sting of Blockade",
         "source": "Bloomberg",
         "date": "2026-05-02"
-      },
-      {
-        "headline": "A deadline for the Iran war is here. What does the War Powers Act say?",
-        "source": "Washington Post",
-        "date": "2026-05-01"
       }
     ],
     "timeline": [
