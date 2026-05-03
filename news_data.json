@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-03T07:32:53.248701+00:00",
-  "story_count": 77,
-  "source_count": 9,
+  "updated": "2026-05-03T09:07:45.526442+00:00",
+  "story_count": 76,
+  "source_count": 10,
   "stories": [
-    {
-      "id": "2026-05-03-511df6cb",
-      "headline": "Germany says US troop withdrawal 'foreseeable' as Trump warns of more 'cuts'",
-      "summary": "In the US, two senior Republicans voice concern over President Trump's decision to pull out 5,000 troops.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd9pn541jjlo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "04:09",
-      "conflict_id": null,
-      "score": 51.0
-    },
     {
       "id": "2026-05-03-3992f131",
       "headline": "Investors pile into clean energy as Iran war drives push for energy security",
@@ -60,20 +46,6 @@
       "score": 47.4
     },
     {
-      "id": "2026-05-03-195e41a1",
-      "headline": "Trump says US will reduce troop presence in Germany 'a lot further' than initial 5,000 withdrawal",
-      "summary": "Trump indicated without sharing details that a substantial further reduction of US troop presence in Germany was imminent, just a day after the Pentagon announced a withdrawal of 5,000 soldiers. Trump has also threatened earlier in the week to rollback troops in Spain and Italy.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/03/trump-says-us-will-reduce-troop-presence-in-germany-a-lot-further-than-initial-5000-withdr",
-      "region": "EU",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "07:09",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-05-03-1c5868c7",
       "headline": "Trump says Iran has 'not yet paid a big enough price' as he reviews new peace proposal",
       "summary": "The US president had earlier in the week refused another Iranian proposal, saying Tehran is not willing to give Washington what it “needs to have” to strike a deal.",
@@ -86,6 +58,34 @@
       "time": "06:29",
       "conflict_id": null,
       "score": 45.0
+    },
+    {
+      "id": "2026-05-03-eb25ea99",
+      "headline": "South Korea holds pro-Palestine protest in solidarity with Gaza",
+      "summary": "Protesters in South Korea’s capital, Seoul, were in solidarity with Palestinians in Gaza enduring genocidal attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/3/south-korea-holds-pro-palestine-protest-in-solidarity-with-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "07:39",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
+      "id": "2026-05-03-207d45d5",
+      "headline": "Germany troop cuts send wrong signal to Russia, say two top US Republicans",
+      "summary": "The chairs of the House and Senate armed services committees say withdrawing 5,000 service personnel risked undermining deterrence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cewpx5yvwyxo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "08:41",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-03-4190cecb",
@@ -114,6 +114,34 @@
       "time": "04:05",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-05-03-bc47af05",
+      "headline": "Iran war live: Trump to review 14-point plan; Israel pounds Lebanon",
+      "summary": "US president says he will &#039;soon be reviewing the plan Iran has just sent to us&#039;, but doesn&#039;t think he can make a deal.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-03-195e41a1",
+      "headline": "Trump says US will reduce troop presence in Germany 'a lot further' than initial 5,000 withdrawal",
+      "summary": "Trump indicated without sharing details that a substantial further reduction of US troop presence in Germany was imminent, just a day after the Pentagon announced a withdrawal of 5,000 soldiers. Trump has also threatened earlier in the week to rollback troops in Spain and Italy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/03/trump-says-us-will-reduce-troop-presence-in-germany-a-lot-further-than-initial-5000-withdr",
+      "region": "EU",
+      "country": "Pentagon",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "07:09",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-05-03-20197b32",
@@ -160,7 +188,7 @@
     {
       "id": "2026-05-03-bc937203",
       "headline": "Takaichi Set for Australia Visit to Strengthen Japan Alliance",
-      "summary": "Japan’s prime minister is set to arrive in Australia to strengthen ties with one her country’s strongest allies as she seeks to build on an updated regional strategy laid out in Vietnam.",
+      "summary": "Japan’s prime minister is set to arrive in Australia to strengthen ties with one of her country’s strongest allies as she seeks to build on an updated regional strategy laid out in Vietnam.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-03/takaichi-set-for-australia-visit-to-strengthen-japan-alliance",
       "region": "APJ",
@@ -186,6 +214,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-03-d73cbcc6",
+      "headline": "In Mississippi, a Democrat Challenges the Senator Who Blocked His Judgeship",
+      "summary": "Scott Colom, a state prosecutor, is running against Senator Cindy Hyde-Smith, a Republican who denied him a seat on the federal bench. In a tough year for the G.O.P., Democrats see hope for his long-shot bid.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/03/us/politics/mississippi-hyde-smith-senate-election.html",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-05-03-ce298b21",
       "headline": "Man Shot by ICE in California Indicted on Assault Charges",
       "summary": "Prosecutors have accused the man of hitting federal agents with his vehicle as they tried to arrest him.",
@@ -196,6 +238,20 @@
       "category": "business",
       "date": "2026-05-03",
       "time": "01:29",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-05-03-3d53c41a",
+      "headline": "Delayed Louisiana Primaries Stoke Confusion at Ballot Box",
+      "summary": "On the first day of early voting, some glimpses of voter bewilderment came into focus, part of a dizzying scramble playing out days after a major Supreme Court ruling.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/02/us/politics/louisiana-voting-confusion-court.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "00:35",
       "conflict_id": null,
       "score": 25.2
     },
@@ -226,6 +282,20 @@
       "time": "03:25",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-03-877b5fbb",
+      "headline": "Japan’s Inoue beats Nakatani to retain undisputed super bantamweight title",
+      "summary": "Naoya Inoue wins 116-112, 115-113, 116-112 in a fight billed as the biggest boxing match in ​Japanese history.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/3/japans-inoue-beats-nakatani-to-retain-undisputed-super-bantamweight-title?traffic_source=rss",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "07:40",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-03-6e38eb17",
@@ -368,48 +438,6 @@
       "score": 63.0
     },
     {
-      "id": "2026-05-02-27d465f3",
-      "headline": "Ukraine eyes Belarus border activities as Russian strikes persist",
-      "summary": "The role of Belarus in Russia&#039;s war on Ukraine has provoked sanctions from Kyiv, which says it is ready to respond.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/ukraine-eyes-belarus-border-activities-as-russian-strikes-persist?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "19:54",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
-    },
-    {
-      "id": "2026-05-02-f1e98cf9",
-      "headline": "U.S. to Withdraw 5,000 Troops From Germany, Pentagon Says",
-      "summary": "The decision, which drew condemnation from G.O.P. lawmakers, came after President Trump expressed annoyance with the German chancellor’s remarks about the Iran war.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "15:45",
-      "conflict_id": null,
-      "score": 58.2
-    },
-    {
-      "id": "2026-05-02-534312bd",
-      "headline": "Seven killed in southern Lebanon amid Israeli airstrikes and ceasefire tensions",
-      "summary": "State media reported that several villages were hit as neighbourhoods near the border are being levelled. The IDF maintains that 50 airstrikes conducted over 24 hours specifically targeted Hezbollah infrastructure.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/02/at-least-seven-killed-in-lebanon-as-israeli-raids-continue-despite-ceasefire",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "15:34",
-      "conflict_id": null,
-      "score": 53.0
-    },
-    {
       "id": "2026-05-02-fe7ea2bc",
       "headline": "Thirteen killed in Israeli strikes on southern Lebanon, health ministry says",
       "summary": "Four women and a child are among the dead, as fighting between Israel and Iran-backed Hezbollah continues despite a ceasefire.",
@@ -424,46 +452,18 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-02-b3e83052",
-      "headline": "Top Republicans express concern over withdrawal of US troops from Germany – as it happened",
-      "summary": "Senator Roger Wicker and representative Mike Rogers say move risks undermining deterrence and sending wrong signal to PutinFull report: Nato seeks to ‘understand the details’ after US decision to withdraw troops from Germany‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troopsThe UK Maritime Trade Operations (UKMTO) said suspicious activity had been reported 84 nautical miles southwest of the port of Mukalla in Yem",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "18:06",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-05-02-3b5dcafc",
-      "headline": "Devastation of Southern Lebanon continues under ‘ceasefire’",
-      "summary": "At least 41 people killed as Israel launches 50 airstrikes on southern Lebanon in 24 hours.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/devastation-of-southern-lebanon-continues-under?traffic_source=rss",
+      "id": "2026-05-02-534312bd",
+      "headline": "Seven killed in southern Lebanon amid Israeli airstrikes and ceasefire tensions",
+      "summary": "State media reported that several villages were hit as neighbourhoods near the border are being levelled. The IDF maintains that 50 airstrikes conducted over 24 hours specifically targeted Hezbollah infrastructure.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/02/at-least-seven-killed-in-lebanon-as-israeli-raids-continue-despite-ceasefire",
       "region": "MENA",
       "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-05-02",
-      "time": "18:05",
+      "time": "15:34",
       "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-02-bbbf05ec",
-      "headline": "Khartoum drone strike kills five in Sudan, NGO reports",
-      "summary": "The attack, the second in a week, follows months of relative calm in the city after government forces regained control.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/2/khartoum-drone-strike-kills-five-sudan-ngo-reports?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "19:59",
-      "conflict_id": "sudan-civil-war",
-      "score": 43.4
+      "score": 45.0
     },
     {
       "id": "2026-05-02-ddd3b77b",
@@ -520,6 +520,48 @@
       "time": "11:00",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-05-02-b3e83052",
+      "headline": "Top Republicans express concern over withdrawal of US troops from Germany – as it happened",
+      "summary": "Senator Roger Wicker and representative Mike Rogers say move risks undermining deterrence and sending wrong signal to PutinFull report: Nato seeks to ‘understand the details’ after US decision to withdraw troops from Germany‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troopsThe UK Maritime Trade Operations (UKMTO) said suspicious activity had been reported 84 nautical miles southwest of the port of Mukalla in Yem",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/02/us-israel-war-iran-germany-american-troops-donald-trump-middle-east-latest-news-updates",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "18:06",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-05-02-3df9ca79",
+      "headline": "Spirit Airlines collapses amid rising fuel costs from war on Iran",
+      "summary": "US budget carrier Spirit Airlines shuts down after talks for a government bailout failed.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/spirit-airlines-collapses-amid-rising-fuel-costs-from-war-on-iran?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "20:28",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-02-f6d82da4",
+      "headline": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+      "summary": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "17:55",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-02-c9109a4c",
@@ -606,20 +648,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-05-02-6309b9f4",
-      "headline": "Pentagon to pull 5,000 troops from Germany, alarming Republican lawmakers",
-      "summary": "NATO said it was working to understand details of the plan to draw down about 5,000 troops, which coincides with a feud between the president and the German chancellor.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/05/01/us-troops-germany-trump-merz/",
-      "region": "EU",
-      "country": "Pentagon",
-      "category": "politics",
-      "date": "2026-05-02",
-      "time": "15:19",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-05-02-598b221e",
       "headline": "Cuba says Trump’s fresh sanctions on its economy amount to ‘collective punishment’",
       "summary": "The US sanctions target people operating in broad sections of Cuban economy, including energy, defence and miningCuba’s government has said new sanctions imposed on the island by Donald Trump amounted to “collective punishment”, as an enormous 1 May procession outside the American embassy in Havana vowed to “defend the homeland”.In an executive order on Friday, the US president said he would impose sanctions on people involved in broad sections o",
@@ -630,20 +658,6 @@
       "category": "politics",
       "date": "2026-05-02",
       "time": "01:34",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-05-02-c3d92fc5",
-      "headline": "Nato seeks to ‘understand the details’ of US decision to withdraw troops from Germany",
-      "summary": "German government calls redeployment of 5,000 troops ‘anticipated’ and reminder of Europe’s need to invest in its own defence‘We love our Americans’: the German town rocked by Trump’s plan to withdraw US troopsNato is seeking to “understand the details” of a US decision to withdraw 5,000 troops from Germany, a redeployment ordered by Donald Trump amid a feud with the German chancellor, Friedrich Merz.The German government sought to play down the ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-05-02",
-      "time": "17:52",
       "conflict_id": null,
       "score": 32.0
     },
@@ -732,20 +746,6 @@
       "score": 24.9
     },
     {
-      "id": "2026-05-02-bcde70a0",
-      "headline": "Syria becomes alternative energy corridor for oil as Hormuz effectively blo",
-      "summary": "Syria is receiving hundreds of Iraqi oil trucks hauling crude overland as an alternative energy corridor to Europe.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/2/syria-becomes-alternative-energy-corridor-for-oil-as-hormuz-effectively-blo?traffic_source=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-02",
-      "time": "19:45",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-05-01-96c20f3b",
       "headline": "A deadline for the Iran war is here. What does the War Powers Act say?",
       "summary": "Defense Secretary Pete Hegseth asserted an ongoing ceasefire “pauses” the clock on the 60-day deadline to end hostilities in Iran or seek congressional approval.",
@@ -760,20 +760,6 @@
       "score": 48.9
     },
     {
-      "id": "2026-05-01-1ed7face",
-      "headline": "Israel releases all but two activists in Greece after intercepting Gaza aid flotilla",
-      "summary": "The Global Sumud Flotilla denounced the interception as \"piracy\", while Israel's foreign ministry called the flotilla a \"PR stunt\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0m2z0k1gngo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Greece",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "10:12",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-01-acee52c6",
       "headline": "It's not just oil: Iran war also threatens Asia's food security",
       "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
@@ -786,6 +772,20 @@
       "time": "00:01",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-05-01-659217cc",
+      "headline": "War criminal Mladic close to death, say lawyers asking judge for jail release",
+      "summary": "Mladic, 84, was jailed for life for genocide, war crimes and crimes against humanity during the Bosnian war in 1992-95.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3e283g80n4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "15:12",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-01-32b9c405",
@@ -814,20 +814,6 @@
       "time": "04:05",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-01-ced95ccc",
-      "headline": "Trump said he would end her political career, but Democrats did her in",
-      "summary": "Liberals say they want a fighter. But Janet Mills, a popular governor who clashed with the president, failed to catch fire in Maine’s Senate race.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/01/mills-maine-platner-trump-transgender/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-05-01",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-05-01-58e2303f",
@@ -900,20 +886,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-04-30-6d0dea85",
-      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
-      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "20:34",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
-    },
-    {
       "id": "2026-04-30-7982d5df",
       "headline": "Venice Biennale jury resigns days before start of top art exhibition",
       "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
@@ -926,6 +898,20 @@
       "time": "23:44",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-04-30-6d0dea85",
+      "headline": "Israel intercepts Gaza flotilla near Crete and detains 175 activists",
+      "summary": "Pro-Palestinian activists say 22 boats carrying aid for Gaza were illegally intercepted in international waters near the Greek island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g4lk9m77vo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-04-30",
+      "time": "20:34",
+      "conflict_id": "israel-hamas",
+      "score": 47.0
     },
     {
       "id": "2026-04-30-29d724f2",
@@ -982,6 +968,20 @@
       "time": "03:20",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-04-30-297a423c",
+      "headline": "Elon Musk and Sam Altman bring their rivalry to court",
+      "summary": "Of the two unloved billionaires, which will the jury trust?",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/04/30/elon-musk-and-sam-altman-bring-their-rivalry-to-court",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-04-30",
+      "time": "09:19",
+      "conflict_id": null,
+      "score": 25.8
     },
     {
       "id": "2026-04-29-e1f58fdb",
@@ -1066,20 +1066,6 @@
       "time": "16:44",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-04-27-2da4c67d",
-      "headline": "Colombia offers record $1.4m-reward for rebel it blames for deadly bomb attack",
-      "summary": "Officials say a rebel leader known as \"Marlon\" ordered the attack in which 20 people were killed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyjykv4j9do?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Colombia",
-      "category": "geopolitics",
-      "date": "2026-04-27",
-      "time": "11:42",
-      "conflict_id": null,
-      "score": 43.0
     }
   ]
 }
