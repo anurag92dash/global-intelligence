@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-03T11:06:52.538396+00:00",
-  "story_count": 77,
-  "source_count": 10,
+  "updated": "2026-05-03T11:56:03.900547+00:00",
+  "story_count": 78,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-05-03-def6ea45",
@@ -18,18 +18,32 @@
       "score": 60.0
     },
     {
-      "id": "2026-05-03-3992f131",
-      "headline": "Investors pile into clean energy as Iran war drives push for energy security",
-      "summary": "Renewables funds attract biggest flows for five years, as focus shifts from climate change to geopolitical crisis",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9921f2b5-c910-4cec-a50f-cad453935a1a",
-      "region": "NA",
-      "country": "Iran",
+      "id": "2026-05-03-8197ad32",
+      "headline": "At least 10 killed, over 70 injured in Russian attacks across Ukraine in past 24 hours, Kyiv says",
+      "summary": "Kyiv says Russian drone and missile strikes have killed at least 10 people and injured more than 76 others across the country over the last 24 hours.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/03/at-least-10-killed-over-70-injured-in-russian-attacks-across-ukraine-in-past-24-hours-kyiv",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-03",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 50.4
+      "time": "11:29",
+      "conflict_id": "ukraine-war",
+      "score": 57.0
+    },
+    {
+      "id": "2026-05-03-b5417660",
+      "headline": "Ukraine drone attack hits Russian Baltic port, governor says",
+      "summary": "Ukrainian forces also strike two shadow fleet tankers near port of Novorossiysk, President Volodymyr Zelenskyy says.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "09:57",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
     },
     {
       "id": "2026-05-03-23269a35",
@@ -44,62 +58,6 @@
       "time": "07:02",
       "conflict_id": null,
       "score": 47.4
-    },
-    {
-      "id": "2026-05-03-b1a84d86",
-      "headline": "Trump expresses doubt that Iran’s peace proposal is ‘acceptable’",
-      "summary": "US president says he is considering the 14-point peace plan, but warns strikes could resume if Tehran &#039;misbehaves&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/trump-reviews-iranian-peace-proposal-warns-strikes-could-resume?traffic_source=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "02:37",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-03-3fb3a289",
-      "headline": "Iran war live: US options are ‘impossible’ military attack or a ‘bad deal’",
-      "summary": "US president says he&#039;ll &#039;soon be reviewing plan Iran just sent to us&#039; but doesn&#039;t think he can make a deal.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/3/iran-war-live-trump-says-reviewing-14-point-plan-israel-pounds-lebanon?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-03-1c5868c7",
-      "headline": "Trump says Iran has 'not yet paid a big enough price' as he reviews new peace proposal",
-      "summary": "The US president had earlier in the week refused another Iranian proposal, saying Tehran is not willing to give Washington what it “needs to have” to strike a deal.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "06:29",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-05-03-b5417660",
-      "headline": "Ukraine drone attack hits Russian Baltic port, governor says",
-      "summary": "Ukrainian forces also strike two shadow fleet tankers near port of Novorossiysk, President Volodymyr Zelenskyy says.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/3/ukraine-drone-attack-hits-russian-baltic-port-governor-says?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "09:57",
-      "conflict_id": "ukraine-war",
-      "score": 43.4
     },
     {
       "id": "2026-05-03-eb25ea99",
@@ -130,6 +88,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-03-6acd81a2",
+      "headline": "Trump Says He Is Reviewing Iran’s Latest Offer but Doubts It Is Acceptable",
+      "summary": "The comments came one day after President Trump flatly rejected the proposal. He later clarified he was only briefed on the “concept of the deal.”",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/02/us/politics/trump-us-iran-plan.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "09:12",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-05-03-d200e357",
+      "headline": "What’s Iran’s 14-point proposal to end the war? And will Trump accept it?",
+      "summary": "Trump is reviewing Iran&#039;s latest proposal to end the war, but the mistrust between the two sides is a big obstacle.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/3/whats-irans-14-point-proposal-to-end-the-war-and-will-trump-accept-it?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "11:10",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-05-03-4c89c48f",
       "headline": "Strait of Hormuz blockade and other major naval sieges in modern times",
       "summary": "Naval blockades are among the oldest weapons of war, using sea control to cut supplies and force an enemy’s surrender.",
@@ -140,6 +126,20 @@
       "category": "geopolitics",
       "date": "2026-05-03",
       "time": "10:36",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-03-7bfd4a8b",
+      "headline": "China blocks US sanctions against five ‘teapot’ refineries",
+      "summary": "Ministry of Commerce says sanctions against refineries accused of importing Iranian oil violate international law.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/3/china-blocks-us-sanctions-against-five-teapot-refineries?traffic_source=rss",
+      "region": "NA",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "06:57",
       "conflict_id": null,
       "score": 39.4
     },
@@ -158,18 +158,46 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-03-e103df80",
-      "headline": "US approves $8.6bn in arms sales to Middle East allies",
-      "summary": "US State Department cites emergency circumstances to fast-track sales without the approval of Congress.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
+      "id": "2026-05-03-195e41a1",
+      "headline": "Trump says US will reduce troop presence in Germany 'a lot further' than initial 5,000 withdrawal",
+      "summary": "Trump indicated without sharing details that a substantial further reduction of US troop presence in Germany was imminent, just a day after the Pentagon announced a withdrawal of 5,000 soldiers. Trump has also threatened earlier in the week to rollback troops in Spain and Italy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/03/trump-says-us-will-reduce-troop-presence-in-germany-a-lot-further-than-initial-5000-withdr",
+      "region": "EU",
+      "country": "Pentagon",
+      "category": "geopolitics",
       "date": "2026-05-03",
-      "time": "04:05",
+      "time": "07:09",
       "conflict_id": null,
-      "score": 39.4
+      "score": 37.0
+    },
+    {
+      "id": "2026-05-03-1c5868c7",
+      "headline": "Trump says Iran has 'not yet paid a big enough price' as he reviews new peace proposal",
+      "summary": "The US president had earlier in the week refused another Iranian proposal, saying Tehran is not willing to give Washington what it “needs to have” to strike a deal.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/03/trump-says-iran-has-not-yet-paid-a-big-enough-price-as-he-reviews-new-peace-proposal",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-05-03",
+      "time": "06:29",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-05-03-b35cb39b",
+      "headline": "Adnoc to Speed Spending Post-OPEC with $55 Billion in Awards",
+      "summary": "The United Arab Emirates’ flagship oil company Adnoc announced plans to accelerate a growth plan with 200 billion dirham ($55 billion) in project awards spanning upstream and downstream operations, following the country’s exit from OPEC on May 1.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/adnoc-to-speed-growth-with-55-billion-project-awards-post-opec",
+      "region": "MENA",
+      "country": "OPEC",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "10:36",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-03-20197b32",
@@ -200,6 +228,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-05-03-e103df80",
+      "headline": "US approves $8.6bn in arms sales to Middle East allies",
+      "summary": "US State Department cites emergency circumstances to fast-track sales without the approval of Congress.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/3/us-approves-8-6bn-in-arms-sales-to-middle-east-allies?traffic_source=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-05-03",
+      "time": "04:05",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-05-03-02935b35",
       "headline": "Will Hormuz crisis spur Asia to boost oil reserve cooperation?",
       "summary": "",
@@ -226,6 +268,20 @@
       "time": "10:16",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-05-03-4491fec4",
+      "headline": "OPEC+ Agrees Symbolic Quota Hike as UAE Touts Oil Investment",
+      "summary": "Major OPEC+ nations agreed a modest and symbolic increase in their June production quota levels, as the group sends a business-as-usual message following the surprise exit of the United Arab Emirates. Abu Dhabi at the same moment touted its own growth plans.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-03/opec-agrees-to-symbolic-june-quota-increase-delegates-say",
+      "region": "MENA",
+      "country": "OPEC",
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "10:27",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-03-bc937203",
@@ -354,20 +410,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-03-6e38eb17",
-      "headline": "In Yemen, Starlink internet brings opportunities – for some",
-      "summary": "Despite Houthi resistance and affordability challenges, Starlink fuels growth in Yemen&#039;s digital workforce.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/3/in-yemen-starlink-internet-brings-opportunities-for-some?traffic_source=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "06:21",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-05-03-70a21f07",
       "headline": "Carlos Prates punishes Jack Della Maddalena at UFC Fight Night Australia",
       "summary": "Brazil&#039;s Prates crushes hometown hero Maddalena in the Perth fight; challenges the winner of Makhachev vs Garry.",
@@ -432,6 +474,20 @@
       "region": "APJ",
       "country": "Indonesia",
       "category": "politics",
+      "date": "2026-05-03",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-05-03-b0729228",
+      "headline": "Japan bank signs over $2bn in loans for US investments",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-bank-signs-over-2bn-in-loans-for-us-investments",
+      "region": "NA",
+      "country": "Japan",
+      "category": "business",
       "date": "2026-05-03",
       "time": "",
       "conflict_id": null,
@@ -522,34 +578,6 @@
       "score": 45.0
     },
     {
-      "id": "2026-05-02-ddd3b77b",
-      "headline": "Trump administration fast-tracks $8.6bn in arms sales to Middle East allies",
-      "summary": "Move to shore up regional partners during Iran war comes as US warns Europe of delays to weapons shipments",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a9a3273f-d5c3-4277-932d-27b1969e975f",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "18:36",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-05-02-a8eb11f1",
-      "headline": "Berkshire cash pile climbs to $380bn as stock sales streak hits 14th quarter",
-      "summary": "Greg Abel to address shareholders at first gathering since he succeeded Warren Buffett",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6701283e-6b4f-415d-8be2-bae35d74fe74",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-02",
-      "time": "13:54",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
       "id": "2026-05-02-21e4330d",
       "headline": "Beijing Tells China Firms to Ignore US Sanctions on Refiners",
       "summary": "China ordered companies in the country not to comply with US sanctions on five domestic refiners linked to the Iranian oil trade, deploying a blocking measure introduced in 2021 that was aimed at protecting its firms from foreign laws it deemed unjustified.",
@@ -606,6 +634,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-05-02-f6d82da4",
+      "headline": "Concern for jailed Iranian Nobel laureate as family say health deteriorating",
+      "summary": "On Friday her family said the 54-year-old had been taken from prison to a local hospital after a sharp deterioration in her health.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c362pd8epw9o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-02",
+      "time": "17:55",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-02-c9109a4c",
       "headline": "Taiwan president visits Eswatini days after blaming China for cancelled trip",
       "summary": "It is unclear how he reached Eswatini. China described his visit as a \"stowaway-style escape farce\".",
@@ -660,34 +702,6 @@
       "time": "06:37",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-05-02-170ba092",
-      "headline": "Berkshire Hathaway’s Cash Surges in Abel’s First Quarter as CEO",
-      "summary": "Berkshire Hathaway Inc.’s cash pile soared to its highest level ever and operating earnings jumped in Greg Abel’s first quarter as chief executive officer.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-02/berkshire-hathaway-s-cash-pile-surges-to-record-397-billion",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-02",
-      "time": "12:09",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-02-9744a679",
-      "headline": "Mace, Boebert and Luna Want Congress Members to Pay a Price for Sexual Abuse. Will It Work?",
-      "summary": "Three Republican women who had a hand in forcing the resignations of lawmakers accused of sexual misconduct said they are out to name and shame more offenders. It is not clear how far they will go.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/02/us/politics/boebert-mace-luna-republican-women.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-05-02",
-      "time": "20:53",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-05-02-598b221e",
@@ -760,6 +774,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-05-02-b291ebed",
+      "headline": "The Americans Who Could Be in Trump’s ‘Garden of Heroes’ Statue Park in D.C.",
+      "summary": "President Trump plans to build a park along the Potomac River featuring life-size statues of 250 Americans.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/02/us/politics/trump-garden-of-heroes-national-statues-list.html",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-05-02",
+      "time": "16:55",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-05-02-b41e7740",
       "headline": "Trump is running out of options to contain gas price backlash",
       "summary": "The rising cost of oil is becoming a major political concern for the White House, as the stalemate between President Donald Trump and Iran drags on.",
@@ -798,20 +826,6 @@
       "category": "geopolitics",
       "date": "2026-05-01",
       "time": "10:12",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-01-acee52c6",
-      "headline": "It's not just oil: Iran war also threatens Asia's food security",
-      "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-01",
-      "time": "00:01",
       "conflict_id": null,
       "score": 43.0
     },
