@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-06T04:43:57.093518+00:00",
-  "story_count": 88,
+  "updated": "2026-05-06T07:21:32.173278+00:00",
+  "story_count": 82,
   "source_count": 10,
   "stories": [
     {
@@ -32,32 +32,32 @@
       "score": 64.4
     },
     {
-      "id": "2026-05-06-da7f784e",
-      "headline": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "summary": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "02:18",
-      "conflict_id": null,
-      "score": 60.0
-    },
-    {
-      "id": "2026-05-06-6dfbd8e7",
-      "headline": "US to Pause Guiding Ships While Seeking Iran Deal: Trump",
-      "summary": "President Donald Trump said he would pause a US-led effort to help stranded ships exit the Strait of Hormuz to see if an agreement with Iran to end the war could be finalized. Bloomberg's Derek Wallbank breaks down the developments. (Source: Bloomberg)",
+      "id": "2026-05-06-e64fbe30",
+      "headline": "Trump Pauses Plan to Guide Ships While Seeking Iran Deal",
+      "summary": "President Donald Trump said he would pause an effort to help stranded ships exit the Strait of Hormuz to see if the US can reach an agreement with Iran to end the war. Bloomberg's Stuart Livingstone-Wallace has the latest. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-06/us-to-pause-guiding-ships-while-seeking-iran-deal-trump-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-06/trump-pauses-plan-to-guide-ships-while-seeking-iran-deal-video",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-06",
-      "time": "00:39",
+      "time": "05:19",
       "conflict_id": null,
       "score": 59.1
+    },
+    {
+      "id": "2026-05-06-c78af47d",
+      "headline": "Russia broke unilateral ceasefire with drone and missile attacks, Ukraine's FM says",
+      "summary": "On Monday, Moscow announced a ceasefire during its World War II victory celebrations over 9 May, while Kyiv has said it would halt fire on 6 May.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/06/russia-broke-unilateral-ceasefire-with-drone-and-missile-attacks-ukraines-fm-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "07:16",
+      "conflict_id": "ukraine-war",
+      "score": 57.0
     },
     {
       "id": "2026-05-06-c68805b0",
@@ -71,7 +71,21 @@
       "date": "2026-05-06",
       "time": "03:41",
       "conflict_id": null,
-      "score": 53.0
+      "score": 54.0
+    },
+    {
+      "id": "2026-05-06-ca1c247b",
+      "headline": "Trump pauses US plan to guide ships through Strait of Hormuz",
+      "summary": "US and Iranian forces clashed in the strait during the brief mission to help commercial vessels through the waterway",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5f7ba94e-8a42-4f36-8c4c-19be932c8f66",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "05:44",
+      "conflict_id": null,
+      "score": 51.4
     },
     {
       "id": "2026-05-06-857fffd3",
@@ -85,21 +99,21 @@
       "date": "2026-05-06",
       "time": "03:05",
       "conflict_id": null,
-      "score": 52.0
+      "score": 51.0
     },
     {
-      "id": "2026-05-06-9f61905f",
-      "headline": "Netanyahu’s West Bank plan: annexation by law",
-      "summary": "Far-right Israeli government uses bureaucracy to cement takeover of Palestinian land",
+      "id": "2026-05-06-86a24555",
+      "headline": "Russia pavilion drags Venice Biennale into EU sanctions row",
+      "summary": "Brussels has warned that allowing Moscow to participate would breach ban on providing services to Kremlin",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/14f942de-cba9-4cc8-a6fd-983f5635790a",
-      "region": "MENA",
-      "country": "Israel",
+      "url": "https://www.ft.com/content/a8114c95-4ee4-4a11-bf31-b85ff79ddbab",
+      "region": "EU",
+      "country": "Brussels",
       "category": "geopolitics",
       "date": "2026-05-06",
       "time": "04:00",
-      "conflict_id": "israel-hamas",
-      "score": 46.4
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-05-06-0ed2c6a8",
@@ -116,6 +130,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-05-06-95340658",
+      "headline": "In Gaza, the simplest of weddings are barely affordable",
+      "summary": "Couples marry in tents in Gaza as war, displacement, and soaring prices strip weddings of joy.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/6/in-gaza-the-simplest-of-weddings-are-barely-affordable?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "05:51",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-05-06-62e87e88",
       "headline": "Romania’s pro-EU government ousted after no-confidence vote",
       "summary": "The pro-European Union coalition of Romanian Prime Minister Ilie Bolojan has collapsed after a vote of no confidence.",
@@ -128,6 +156,48 @@
       "time": "04:22",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-05-06-3cb118de",
+      "headline": "EU squares up Trump’s tariff threat",
+      "summary": "As tensions flare between Russia and Ukraine over competing ceasefires, and the Iran war shows no signs of ending, politicians in Brussels will spend Wednesday searching for a way to thrash out the final details of the EU-US trade agreement, lest they suffer more import levy threats from Trump.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/06/eu-squares-up-trumps-tariff-threat",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "07:05",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-05-06-2a568d9e",
+      "headline": "Russian guided bomb attacks kill at least 26 civilians across Ukraine",
+      "summary": "Ukraine said at least 26 people were killed in Russian strikes on Tuesday 5 May 2026, with the heaviest losses in Zaporizhzhia and Kramatorsk.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/05/06/deadly-airstrike-hit-kramotorsk-as-emergency-crews-battled-fires",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "06:36",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-05-06-219a74bf",
+      "headline": "Resilience amid ruins: Why markets are hitting record highs despite the Iran war",
+      "summary": "Global indices in the United States, Japan and South Korea have reached new all-time highs despite the economic fallout from the ongoing Iran war. Investors are clearly looking past immediate geopolitical risks — but what is driving the rally?",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/06/resilience-amid-ruins-why-markets-are-hitting-record-highs-despite-iran-war-effects",
+      "region": "APJ",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-05-06-62b68264",
@@ -158,16 +228,72 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-06-cec7a5d3",
-      "headline": "Chinese Metals Demand Gets Lift as Mideast War Spurs Export Boom",
-      "summary": "Metal exports from China, especially aluminum, are getting a significant lift from the war in the Middle East, which has cut regional supplies while boosting demand for clean-tech products as fossil fuel prices soar.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/chinese-metals-demand-gets-lift-as-mideast-war-spurs-export-boom",
+      "id": "2026-05-06-90f5b225",
+      "headline": "DeepSeek nears $45bn valuation as China’s ‘Big Fund’ leads investment talks",
+      "summary": "Value soars in ongoing fundraising discussions as investors including Tencent seek slice of AI lab",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/daaf2e0a-4a0d-4d7c-a85b-445480f6b9c7",
       "region": "APJ",
       "country": "China",
       "category": "geopolitics",
       "date": "2026-05-06",
-      "time": "02:35",
+      "time": "05:50",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-05-06-7ec38530",
+      "headline": "Samsung’s stock market value hits $1tn on AI euphoria",
+      "summary": "Memory chip giant’s surge pushes South Korea’s Kospi to new record",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4239a9e1-854d-4ae1-9792-a4a11d7ae5e8",
+      "region": "EU",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-05-06",
+      "time": "04:01",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-05-06-54d7c8be",
+      "headline": "China’s Chip Fund in Talks to Lead DeepSeek Funding, FT Says",
+      "summary": "China’s main chip-sector investment fund is in discussions to lead a fundraising round for DeepSeek at a valuation of about $45 billion, the Financial Times reported, citing people with knowledge of the talks.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/china-chip-fund-in-talks-to-lead-mega-deepseek-funding-ft-says",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "06:03",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-06-c2292434",
+      "headline": "Europe Gas Traders Buy Options to Hedge for Winter Price Spike",
+      "summary": "Some European natural gas traders are already hedging against a spike in prices next winter as the war in the Middle East continues to disrupt supplies.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/europe-gas-traders-buy-options-to-hedge-for-winter-price-spike",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-06",
+      "time": "05:32",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-06-6010310e",
+      "headline": "Pakistan Seeks Emergency LNG Supply to Ease Natural Gas Shortage",
+      "summary": "Pakistan is urgently looking to purchase liquefied natural gas from the spot market for delivery in May, as the country faces hot weather that threatens to stretch the grid and worsen a shortage of the power plant fuel.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/pakistan-seeks-emergency-lng-supply-to-ease-natural-gas-shortage",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "business",
+      "date": "2026-05-06",
+      "time": "05:12",
       "conflict_id": null,
       "score": 34.1
     },
@@ -216,14 +342,14 @@
     {
       "id": "2026-05-06-54c0aadb",
       "headline": "Charges flagged as women and children from IS-linked families set to fly from Syria to Australia",
-      "summary": "Home affairs minister Tony Burke says government continues to refuse to help the group of 13Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSome of the Australian women linked to Islamic State fighters face arrest and criminal charges on their return from Syria this week, with the government and federal police promising a hardline response when the group touches down.The home affair",
+      "summary": "Home affairs minister Tony Burke says government continues to refuse to help the group of 13Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSome of the Australian women linked to Islamic State fighters may face arrest and possible criminal charges on their return from Syria this week, with the government and federal police promising a hardline response when the group touches down.Th",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/may/06/women-children-syria-families-australia-return-ntwnfb",
       "region": "MENA",
       "country": "Australia",
       "category": "politics",
       "date": "2026-05-06",
-      "time": "01:33",
+      "time": "06:14",
       "conflict_id": null,
       "score": 32.0
     },
@@ -242,46 +368,18 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-06-5833aa84",
-      "headline": "Japan moves toward exporting surplus destroyers to Philippines",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/defense/japan-moves-toward-exporting-surplus-destroyers-to-philippines",
-      "region": "APJ",
-      "country": "Philippines",
-      "category": "geopolitics",
+      "id": "2026-05-06-fdfa01f9",
+      "headline": "Oil slips on renewed peace hopes as AI boom fuels stock market rally",
+      "summary": "Oil prices dipped after US President Donald Trump's latest words fuelled hopes a for renewed peace talks with Iran. At the same time, stock markets and especially tech stocks were benefiting from the ongoing positive investment sentiment fuelled by growth related to AI.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/06/oil-slips-on-renewed-peace-hopes-as-ai-boom-fuels-stock-market-rally",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
       "date": "2026-05-06",
-      "time": "",
+      "time": "07:08",
       "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-05-06-3261b269",
-      "headline": "Indonesia's 5.61% Q1 growth hides weak fundamentals, economists warn",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/indonesia-s-5.61-q1-growth-hides-weak-fundamentals-economists-warn",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-05-06-67574b29",
-      "headline": "India-Russia pact allows troops and warships on each other's soil",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/defense/india-russia-pact-allows-troops-and-warships-on-each-other-s-soil",
-      "region": "SA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
+      "score": 29.0
     },
     {
       "id": "2026-05-06-3b2d91c0",
@@ -312,58 +410,58 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-06-22278088",
-      "headline": "State Fund IPO Opens Door to Buy Into Uzbekistan’s Growth Story",
-      "summary": "Uzbekistan is kicking off a planned series of initial public offerings with the sale of about a 30% stake in the state investment fund, as part of the Central Asian nation’s push to entice international investors.",
+      "id": "2026-05-06-5f1f1e37",
+      "headline": "Diageo Sales Beat Driven by Growth in Africa, Latin America",
+      "summary": "Diageo Plc’s sales unexpectedly rose in the latest quarter as growth in Africa and Latin America was enough to offset significant weakness in the US.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/uznif-ipo-opens-door-to-buy-shares-in-uzbekistan-s-growth-story",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/diageo-sales-beat-driven-by-growth-in-africa-latin-america",
       "region": "NA",
-      "country": null,
+      "country": "Latin America",
       "category": "business",
       "date": "2026-05-06",
-      "time": "04:15",
+      "time": "06:17",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-05-06-fa7353ab",
-      "headline": "Indian Small-Caps Rally 20% From March Lows to Near Bull Market",
-      "summary": "India’s small-cap stocks are staging a sharp comeback, underscoring a revival in risk appetite among investors after months of steep losses.",
+      "id": "2026-05-06-9af6bc26",
+      "headline": "Yen Rallies to Build on Gains Spurred by Recent Intervention",
+      "summary": "The yen rallied to the strongest level in over two months on Wednesday, spurring speculation that Japanese officials may have intervened again after stepping in to prop up the currency on April 30.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/indian-small-caps-rally-20-from-march-lows-to-near-bull-market",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-05-06",
-      "time": "04:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-06-cb4fe992",
-      "headline": "Momentum Is Trampling Quality in Market Records",
-      "summary": "It can be dangerous to stand in the way of a rally like this.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/opinion/newsletters/2026-05-06/stocks-rally-momentum-is-trampling-quality-in-market-records",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-06",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-06-bbd80174",
-      "headline": "Asia Central Banks Expected to Move to Higher Interest Rates: JPMorgan AM",
-      "summary": "Jason Pang of JPMorgan Asset Management says that \"higher oil for longer will translate into a more hawkish bias\" among central banks in Asia. He also tells Bloomberg Television that \"Malaysia, local, remains a good exposure for investors.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-06/asia-expected-to-move-to-higher-interest-rates-jpmorgan-video",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/yen-rallies-as-much-as-1-4-amid-broad-dollar-weakness",
       "region": "APJ",
-      "country": "Malaysia",
+      "country": "Japan",
       "category": "business",
       "date": "2026-05-06",
-      "time": "03:12",
+      "time": "04:50",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-06-bdb9c1f0",
+      "headline": "Orsted Keeps Guidance as Europe Focus Drives Turnaround",
+      "summary": "Orsted A/S reaffirmed its earnings guidance for the year, as the Danish utility doubles down on its European business.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/orsted-keeps-guidance-as-europe-focus-drives-turnaround",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-06",
+      "time": "06:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-06-76360064",
+      "headline": "HelloFresh Beats Estimates as Cost Program Starts to Pay Off",
+      "summary": "HelloFresh SE’s earnings beat expectations as it begins to reap the benefits of its strategy of prioritizing customer loyalty over volumes.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-06/hellofresh-beats-estimates-as-cost-program-starts-to-pay-off",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-06",
+      "time": "05:47",
       "conflict_id": null,
       "score": 26.1
     },
@@ -382,46 +480,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-06-670bc778",
-      "headline": "India’s Individual Investors Are Leaving Stock Picking to the Pros",
-      "summary": "Small investors own fewer stocks directly, pour money into the market via mutual funds.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-06/individual-investors-direct-ownership-of-indian-stocks-hits-five-year-low",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-05-06",
-      "time": "02:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-06-eec7c760",
-      "headline": "Indonesia Tightens Rule on FX Purchases After Rupiah Hit New Record Low",
-      "summary": "Indonesia further tightened rules on dollar purchases to support the beleaguered rupiah after the currency slumped to a series of record lows.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/idr-usd-indonesia-tightens-rule-on-fx-purchases-after-rupiah-hit-new-record-low",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "business",
-      "date": "2026-05-06",
-      "time": "00:04",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-06-61b16768",
-      "headline": "Sun Pharma Explores Funding Mix for $12 Billion Organon Deal",
-      "summary": "Global lenders to Sun Pharmaceutical Industries Ltd. are weighing multiple financing options for its proposed $12 billion acquisition of New York-listed healthcare company Organon &amp; Co., according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-06/sun-pharma-explores-funding-mix-for-12-billion-organon-deal",
+      "id": "2026-05-06-37353058",
+      "headline": "5 Takeaways From the California Gubernatorial Debate",
+      "summary": "Seven candidates sparred in the first nationally televised debate in the 2026 California governor’s race. Many tried to launch attacks in a last-ditch effort to gain ground on their opponents.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/06/us/elections/california-governor-debate-cnn-takeaways.html",
       "region": "EU",
-      "country": null,
+      "country": "NATO",
       "category": "politics",
       "date": "2026-05-06",
-      "time": "01:00",
+      "time": "06:21",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-05-06-ecb1f853",
@@ -436,6 +506,34 @@
       "time": "00:54",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-05-06-2e5be3c9",
+      "headline": "Singapore introduces caning for boys who bully others at school",
+      "summary": "Under new guidelines caning will only be used in schools for male students aged nine and aboveMale school students who bully others, including through cyberbullying, will face caning as a “last resort” under new guidelines introduced in Singapore.Male students can face up to three strokes of the cane under the new rules, which were discussed in parliament on Tuesday. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/06/singapore-caning-school-bullies",
+      "region": "APJ",
+      "country": "Singapore",
+      "category": "politics",
+      "date": "2026-05-06",
+      "time": "05:26",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-05-06-372d2700",
+      "headline": "EU trade deal could force UK to restrict use of weedkiller linked to cancer",
+      "summary": "Glyphosate is currently sprayed on cereal and pulse crops to dessicate them and make them easier to harvestA new trade deal with the EU could lead to restrictions on the use of the controversial weedkiller glyphosate on UK food crops.The full-spectrum herbicide, which kills almost every plant it touches, is often sprayed on wheat, oats and other cereal and pulse crops shortly before harvest to desiccate them and make them easier to handle. Contin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/may/06/eu-trade-deal-could-force-uk-restrict-glyphosate-weedkiller-linked-to-cancer",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-06",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-05-06-2d7e7c02",
@@ -508,18 +606,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-05-7c10ee7b",
-      "headline": "Zelenskyy condemns Russian ‘cynicism’ over parade truce as 23 killed in attacks",
-      "summary": "Kyiv berates Moscow’s request for ceasefire while launching ‘missile and drone strikes every single day leading up to it’Volodymyr Zelenskyy has accused the Kremlin of “utter cynicism” for seeking a truce so it can stage a military parade in Moscow as 23 people were killed in attacks on Ukraine.At least 12 people were killed on Tuesday in a strike on southern city of Zaporizhzhia, the regional governor said. “Russia ended the life of 12 people,” ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/zelenskyy-russia-parade-truce-poltava-attack",
+      "id": "2026-05-06-f7830a0d",
+      "headline": "How is the DMA reshaping Big Tech's grip on the internet?",
+      "summary": "Two years in, Europe's landmark law has changed how Big Tech operates and given users more freedom and choice, but the battle is far from over. Watch the video!",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/06/how-is-the-dma-reshaping-big-techs-grip-on-the-internet",
       "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-05",
-      "time": "16:49",
-      "conflict_id": "ukraine-war",
-      "score": 76.0
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-06",
+      "time": "05:45",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-05-05-ffe3dc99",
@@ -533,21 +631,21 @@
       "date": "2026-05-05",
       "time": "18:06",
       "conflict_id": "ukraine-war",
-      "score": 73.0
+      "score": 65.0
     },
     {
-      "id": "2026-05-05-754eee0a",
-      "headline": "Iran should 'do the smart thing' and reach a peace deal with US, Donald Trump says",
-      "summary": "Meanwhile, Iran warned the US against any further escalation in the Strait of Hormuz, after a spate of attacks risked reigniting the war.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/05/us-threatens-devastating-response-to-any-iranian-attacks-on-shipping",
+      "id": "2026-05-05-e421ad7d",
+      "headline": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Trump",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-05-05",
-      "time": "13:49",
+      "time": "11:38",
       "conflict_id": null,
-      "score": 54.0
+      "score": 51.0
     },
     {
       "id": "2026-05-05-cb3e034c",
@@ -578,20 +676,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-05-05-75ba34c4",
-      "headline": "Russian soldiers rehearse Victory Day parade amid fears of Ukrainian attacks",
-      "summary": "Russian troops marched through central Moscow during a rehearsal for the upcoming Victory Day parade, which will take place without heavy military equipment.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/05/05/russian-soldiers-rehearse-victory-day-parade-amid-fears-of-ukrainian-attacks",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-05",
-      "time": "15:37",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-05-05-abe399b8",
       "headline": "Russian attacks kill more than 20 ahead of rival ceasefires proposed by Kyiv and Moscow",
       "summary": "Kyiv said it would begin a truce on 6 May and then \"act symmetrically\" after Moscow declared a pause for its Victory Day parade.",
@@ -606,23 +690,9 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-05-4bedbae8",
-      "headline": "Global oil reserves plunge at record pace as Middle East war strains supplies",
-      "summary": "Stocks near 8-year low ahead of summer travel season despite collapse in demand",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3beeb26f-6c35-46a9-b116-42edbe6552fd",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-05",
-      "time": "19:26",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-05-05-e193cc61",
-      "headline": "Stocks Rally and Oil Falls on Iran, Yen Gains: Markets Wrap",
-      "summary": "Stocks climbed to a record after President Donald Trump signaled progress toward a final agreement with Iran, adding fresh momentum to markets already buoyed by a rally in technology shares. Crude oil declined.",
+      "id": "2026-05-05-48f70fe7",
+      "headline": "Stocks Rally and Oil Declines on Iran, Yen Gains: Markets Wrap",
+      "summary": "Stocks climbed to a record and oil fell after President Donald Trump signaled progress toward a final agreement with Iran, adding fresh momentum to markets already buoyed by a rally in technology shares. The yen saw another spike higher.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-05/asian-stocks-to-track-us-gains-on-truce-optimism-markets-wrap",
       "region": "NA",
@@ -632,20 +702,6 @@
       "time": "22:10",
       "conflict_id": null,
       "score": 42.1
-    },
-    {
-      "id": "2026-05-05-59ffd29e",
-      "headline": "Kyiv slams Egypt for accepting Russian‑shipped grain stolen from Ukraine",
-      "summary": "Foreign Minister Andrii Sybiha said on Tuesday that Egypt has received a fourth shipment of stolen Ukrainian grain via Russia, accusing Cairo of violating its promises.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/05/kyiv-slams-egypt-for-accepting-russianshipped-grain-stolen-from-ukraine",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-05",
-      "time": "16:10",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
     },
     {
       "id": "2026-05-05-aa929421",
@@ -660,20 +716,6 @@
       "time": "22:16",
       "conflict_id": null,
       "score": 40.9
-    },
-    {
-      "id": "2026-05-05-2bc52a78",
-      "headline": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
-      "summary": "US says it will hike tariffs to 25% because the EU has not complied with trade deal last year that set tariffs at 15%.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-05",
-      "time": "19:50",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-05-05-cd5ea141",
@@ -714,20 +756,6 @@
       "category": "business",
       "date": "2026-05-05",
       "time": "10:09",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-05-242e9c84",
-      "headline": "US strikes Iranian fast boats as Iran attacks UAE oil facility",
-      "summary": "Shipping company Maersk says one of its US-flagged commercial vessels has successfully exited the Strait of Hormuz under US military protection.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjwp432d0v5o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-05",
-      "time": "04:34",
       "conflict_id": null,
       "score": 35.0
     },
@@ -788,32 +816,18 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-05-c81c8d33",
-      "headline": "EU split over market supervision threatens competitiveness plans",
-      "summary": "Despite intensifying debate in Brussels on reaching agreement over more harmonised rules for capital markets supervision, member states remain divided, risking delays to Europe’s competitiveness agenda.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/05/eu-split-over-market-supervision-threatens-competitiveness-plans",
+      "id": "2026-05-05-2bc52a78",
+      "headline": "US plans to hike tariffs on EU cars to 25% will hit luxury market the most",
+      "summary": "US says it will hike tariffs to 25% because the EU has not complied with trade deal last year that set tariffs at 15%.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/5/us-plans-to-hike-tariffs-on-eu-cars-to-25-will-hit-luxury-market-the-most?traffic_source=rss",
       "region": "EU",
-      "country": "Brussels",
+      "country": null,
       "category": "business",
       "date": "2026-05-05",
-      "time": "14:36",
+      "time": "19:50",
       "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-05-05-7b57d788",
-      "headline": "Kissing babies, singing chansons: Macron touts Armenia’s 'new era,' stealing the show at EPC summit",
-      "summary": "French President Emmanuel Macron’s visit marked a visible shift for Armenia as he proclaimed “a Europe which goes from Iceland to the Caucasus” while being greeted with adulation — strolling avenues to La Marseillaise, singing Aznavour and receiving a medal to boot.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/05/kissing-babies-singing-chansons-macron-touts-armenias-new-era-stealing-the-show-at-epc-sum",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-05-05",
-      "time": "13:43",
-      "conflict_id": null,
-      "score": 29.0
+      "score": 31.4
     },
     {
       "id": "2026-05-05-1bbb977c",
@@ -830,34 +844,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-05-ff74dcef",
-      "headline": "Australian Toll Operator Atlas Arteria Rejects Biggest Shareholder’s $5.3 Billion Takeover Bid",
-      "summary": "Sydney-listed toll road operator Atlas Arteria Ltd. rejected a takeover bid from its biggest shareholder IFM Investors Pty, saying the bid was too low.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/atlas-arteria-rejects-ifm-s-5-3-billion-takeover-bid-as-too-low",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-05-05",
-      "time": "22:55",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-05-6b974da5",
-      "headline": "Strategy Survives Another Bitcoin Crash With More Alchemy",
-      "summary": "Michael Saylor’s Bitcoin accumulation firm Strategy Inc. has survived yet another crypto market meltdown with some fresh financial engineering.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-05/strategy-survives-another-bitcoin-crash-with-more-alchemy",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-05",
-      "time": "15:54",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-05-1fbdc160",
       "headline": "‘Not a good look’: witnesses refuse to appear before NSW parliamentary hearings after court ruling",
       "summary": "Chris Minns’ chief of staff launched legal action to avoid giving evidence. Since the court ruled in his favour, others are doing the sameFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWitnesses are refusing to appear before New South Wales parliamentary inquiries due to a recent court ruling, in a move labelled as having a “completely unacceptable” impact on public interest invest",
@@ -868,34 +854,6 @@
       "category": "politics",
       "date": "2026-05-05",
       "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-05-05-9e12d1a5",
-      "headline": "‘It’s quite distressing’: rate rise brings new pain for would-be homebuyers",
-      "summary": "Property prices are still rising at the entry level and as borrowing costs increase, the home ownership dream is even further out of reachFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe third Reserve Bank rate hike in a row has delivered a blow not only to mortgaged homeowners, but also to those hoping to break into the property market like Dani Hunterford and her husband.They h",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/05/its-quite-distressing-rate-rise-brings-new-pain-for-would-be-homebuyers",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-05-05",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-05-05-f09b9398",
-      "headline": "Rescue of Timmy the whale ‘an all-round catastrophe’ after tracker failure",
-      "summary": "Marine experts criticise €1.5m privately funded operation as humpback’s fate remains unknown after release into BalticMarine biologists and whale experts have stepped up their criticism of a privately funded operation to release a humpback whale that was stranded for weeks off Germany’s Baltic coast after it emerged that a tracker fitted to the whale was not working.The whereabouts and health of the young male whale – nicknamed Timmy after one of",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/05/expert-brands-rescue-of-timmy-the-whale-an-all-round-catastrophe-over-deficient-tracker",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-05-05",
-      "time": "17:04",
       "conflict_id": null,
       "score": 24.0
     },
@@ -914,32 +872,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-05-9e883497",
-      "headline": "Asian Development Bank announces €65bn regional investment plan across Asia",
-      "summary": "At its annual meeting in Samarkand, the Bank outlined a programme focused on cross-border energy and digital infrastructure. Officials detailed economic projections and new agreements while expanding regional investment priorities",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/05/asian-development-bank-announces-65bn-regional-investment-plan-across-asia",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-05",
-      "time": "17:25",
+      "id": "2026-05-04-f67919df",
+      "headline": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
+      "summary": "The health ministry says 110 people have been killed in Israeli strikes on southern Lebanon since Thursday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-04",
+      "time": "17:18",
       "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-05-160de34e",
-      "headline": "EU's Kallas visits Baku to advance 'strategic partnership' with Azerbaijan",
-      "summary": "The EU's High Representative, Kaja Kallas, met Azerbaijan’s leadership in Baku for talks to advance what she called “our strategic interest” in connectivity between the EU, the South Caucasus and Central Asia, and to contribute to the regional peace process.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/05/eus-kallas-visits-baku-to-advance-strategic-partnership-with-azerbaijan",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-05",
-      "time": "16:25",
-      "conflict_id": null,
-      "score": 21.0
+      "score": 43.0
     },
     {
       "id": "2026-05-04-bb15f167",
@@ -953,21 +897,7 @@
       "date": "2026-05-04",
       "time": "19:09",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-04-f67919df",
-      "headline": "Israeli attacks kill dozens within days in Lebanon despite ceasefire",
-      "summary": "The health ministry says 110 people have been killed in Israeli strikes on southern Lebanon since Thursday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy523z7x0g5o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-04",
-      "time": "17:18",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-05-04-170550e1",
@@ -984,6 +914,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-04-f2795329",
+      "headline": "Flaws in Kenya’s AI-driven health reforms driving up costs for the poorest",
+      "summary": "Exclusive: amid unrest, President William Ruto promised to give all Kenyans access to healthcare. But the algorithm favours the rich, an investigation has found\n An AI system used to predict how much Kenyans can afford to pay for access to healthcare, has systemically driven up costs for the poor, an investigation has found.The healthcare system being rolled out across the country, a key electoral promise of President William Ruto, was launched i",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/04/kenya-ai-healthcare-reforms-driving-up-costs-for-poor",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-04",
+      "time": "06:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-05-04-5fc358d0",
       "headline": "Japan sees largest protest in support of pacifist constitution as PM Takaichi pushes revisions",
       "summary": "Japanese leader Sanae Takaichi has called for discussions to revise the constitution, saying it should ‘reflect the demands of the times’Japan’s prime minister, Sanae Takaichi, has called for “advanced discussions” on revising the pacifist constitution, as large demonstrations were held nationwide to oppose any changes to the country’s supreme law.Speaking during an official visit to Vietnam, Takaichi said the constitution, which was written by U",
@@ -996,20 +940,6 @@
       "time": "05:14",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-05-03-1e800fd6",
-      "headline": "Three passengers dead after suspected hantavirus outbreak on cruise ship",
-      "summary": "Dutch husband and wife and third unidentified person reported to have died, with three further people taken illWhat is hantavirus, the infection thought to have killed three on cruise ship?A suspected outbreak of the rare hantavirus infection on a cruise ship in the Atlantic Ocean killed three people – including an elderly married couple – and sickened at least three others, the World Health Organisation (WHO) and South Africa’s health department",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/03/three-passengers-dead-after-suspected-hantavirus-outbreak-on-cruise-ship",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "22:55",
-      "conflict_id": null,
-      "score": 56.0
     },
     {
       "id": "2026-05-03-1b4e9ec4",
@@ -1079,7 +1009,7 @@
       "date": "2026-05-02",
       "time": "23:19",
       "conflict_id": "ukraine-war",
-      "score": 79.0
+      "score": 71.0
     },
     {
       "id": "2026-05-02-fe7ea2bc",
@@ -1096,6 +1026,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-01-eaa4aa65",
+      "headline": "Trump repeats that he is 'not happy' with Iran as deadline to seek approval for war looms",
+      "summary": "President Trump said on Friday that said a deal has been hard to reach in part because Iranian leadership was \"very confused\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz7l5v03po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "19:31",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-05-01-c716a358",
       "headline": "Trump says he will hike tariffs on EU cars to 25%",
       "summary": "The current level of tariffs charged on goods entering the US from the EU is 15%, under a deal negotiated last July.",
@@ -1106,6 +1050,20 @@
       "category": "business",
       "date": "2026-05-01",
       "time": "19:42",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-01-9bca8bc0",
+      "headline": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "summary": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-01",
+      "time": "05:04",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1152,20 +1110,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-04-30-7982d5df",
-      "headline": "Venice Biennale jury resigns days before start of top art exhibition",
-      "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-30",
-      "time": "23:44",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-04-30-297a423c",
       "headline": "Elon Musk and Sam Altman bring their rivalry to court",
       "summary": "Of the two unloved billionaires, which will the jury trust?",
@@ -1178,20 +1122,6 @@
       "time": "09:19",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-04-29-ad93ca35",
-      "headline": "Russia scales back Moscow Victory Day parade, blaming threat from Ukraine",
-      "summary": "Russia says the annual commemoration of Soviet victory in World War Two will not feature military vehicles or cadets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c794wp4yy93o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-04-29",
-      "time": "13:01",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-04-29-81b0ff5c",
@@ -1220,20 +1150,6 @@
       "time": "13:26",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-04-29-2f4d90e6",
-      "headline": "United Arab Emirates to quit oil cartel Opec",
-      "summary": "The UAE's decision, after nearly 60 years of membership, is seen as a potential death knell for the oil cartel.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj4pxwlr52yo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "OPEC",
-      "category": "business",
-      "date": "2026-04-29",
-      "time": "08:05",
-      "conflict_id": null,
-      "score": 27.0
     }
   ]
 }
