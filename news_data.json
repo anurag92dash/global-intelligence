@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-08T15:51:07.939603+00:00",
-  "story_count": 81,
+  "updated": "2026-05-08T16:59:12.113246+00:00",
+  "story_count": 82,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-05-08-f87e26e5",
-      "headline": "US, Iran clash in Hormuz as war escalates: What happened, why it matters",
-      "summary": "A ceasefire between the US and Iran has been in place since April 8. Both sides are yet to agree on a peace deal.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/us-iran-clash-in-hormuz-as-war-escalates-what-happened-why-it-matters?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "09:22",
-      "conflict_id": null,
-      "score": 64.4
-    },
     {
       "id": "2026-05-08-7c9ea184",
       "headline": "Oil prices rise after US and Iran exchange fire in Hormuz strait",
@@ -29,7 +15,7 @@
       "date": "2026-05-08",
       "time": "08:43",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-05-08-7bd45f7c",
@@ -46,34 +32,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-05-08-3bd77828",
-      "headline": "Hormuz Transits Halted Since Tuesday as US, Iran Clash",
-      "summary": "The Strait of Hormuz remains effectively closed to commercial shipping after the US and Iran clashed overnight near the waterway, attacking each other’s assets in the area.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/hormuz-tracker-transits-halted-since-tuesday-as-us-iran-clash",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "14:39",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-05-08-ea6dd5a8",
-      "headline": "U.S. Strikes Iranian Targets; Iran Says It Returned Fire",
-      "summary": "The exchange was the latest twist in a week of mixed signals in the region and tensions over the Strait of Hormuz, as President Trump searches for an off-ramp in the war that he started.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/07/us/politics/iran-us-ships-attack-strait-hormuz.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "02:28",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
       "id": "2026-05-08-563298fd",
       "headline": "South Africa president faces call to resign after court ruling",
       "summary": "The Constitutional Court says MPs were was wrong to block impeachment proceedings against Cyril Ramaphosa.",
@@ -85,7 +43,7 @@
       "date": "2026-05-08",
       "time": "13:35",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-05-08-837b7075",
@@ -116,22 +74,36 @@
       "score": 42.4
     },
     {
-      "id": "2026-05-08-da05ec14",
-      "headline": "Aramco, Adnoc Sneak Oil Through Hormuz as Iran Menaces Strait",
-      "summary": "Saudi Arabia’s Aramco Trading Co. and the UAE’s state oil company Adnoc are among firms that have moved crude cargoes through the Strait of Hormuz since Iran effectively closed the waterway, according to people familiar with the situation.",
+      "id": "2026-05-08-3bd77828",
+      "headline": "Hormuz Transits Halted Since Tuesday as US, Iran Clash",
+      "summary": "The Strait of Hormuz remains effectively closed to commercial shipping after the US and Iran clashed overnight near the waterway, attacking each other’s assets in the area.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/aramco-adnoc-sneak-oil-through-hormuz-as-iran-menaces-strait",
-      "region": "MENA",
-      "country": "Saudi",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/hormuz-tracker-transits-halted-since-tuesday-as-us-iran-clash",
+      "region": "NA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-05-08",
-      "time": "13:43",
+      "time": "14:39",
       "conflict_id": null,
       "score": 42.1
     },
     {
-      "id": "2026-05-08-c83fdb78",
-      "headline": "In Huge Blow to Democrats, Virginia Court Strikes Down House Map",
+      "id": "2026-05-08-28e96cba",
+      "headline": "US Says Iran Should Give Answer Friday as Clashes Raise Tensions",
+      "summary": "The US said it expects Iran to respond to President Donald Trump’s latest proposal to end their war imminently, as overnight clashes threatened to further fracture a monthlong ceasefire.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/us-iran-clash-near-hormuz-as-response-on-proposed-deal-awaited",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "05:43",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
+      "id": "2026-05-08-8a2b2389",
+      "headline": "Virginia Court Strikes Down Redistricted Voting Map in a Huge Blow to Democrats",
       "summary": "The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html",
@@ -139,7 +111,35 @@
       "country": null,
       "category": "politics",
       "date": "2026-05-08",
-      "time": "14:47",
+      "time": "16:45",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-05-08-e7b4a9fa",
+      "headline": "Rubio Meets Meloni as U.S.-Italy Relations Strained and Trump’s Attacks on Pope",
+      "summary": "Secretary of State Marco Rubio spoke warmly on Friday of Pope Leo XIV and Prime Minister Giorgia Meloni of Italy, after meeting with both leaders after weeks of tensions.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/08/us/politics/rubio-meloni-italy-us-trump-pope.html",
+      "region": "EU",
+      "country": "Italy",
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "16:15",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-05-08-ea6dd5a8",
+      "headline": "U.S. Strikes Iranian Targets; Iran Says It Returned Fire",
+      "summary": "The exchange was the latest twist in a week of mixed signals in the region and tensions over the Strait of Hormuz, as President Trump searches for an off-ramp in the war that he started.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/07/us/politics/iran-us-ships-attack-strait-hormuz.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "02:28",
       "conflict_id": null,
       "score": 41.2
     },
@@ -153,13 +153,27 @@
       "country": null,
       "category": "politics",
       "date": "2026-05-08",
-      "time": "15:23",
+      "time": "16:33",
       "conflict_id": null,
       "score": 40.9
     },
     {
-      "id": "2026-05-08-54b9b5a8",
-      "headline": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – Europe live",
+      "id": "2026-05-08-f190fea0",
+      "headline": "Rubio charms in Rome, but he says Trump’s verbal attacks may continue",
+      "summary": "The secretary of state held warm meetings with Prime Minister Giorgia Meloni and Pope Leo XIV after the president’s repeated criticism of both leaders.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/05/08/rubio-italy-vatican-leo-meloni/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "15:53",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-05-08-3dbac63f",
+      "headline": "Nato refusing US permission to use bases is ‘a problem’, says Rubio after Meloni meeting – as it happened",
       "summary": "US secretary of state has been meeting Italian leader amid strained tensions over IranThe European Commission also insisted that airlines must not charge customers extra fuel fees after they have already bought tickets, as the aviation sector feels the pain from high energy prices because of the Middle East war, AFP reported.“Airlines may adapt their published fares to the situation, but adding a fuel surcharge to a ticket after it has been bough",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/may/08/ukraine-russia-ceasefire-accusations-strikes-rubio-meloni-hanavirus-latest-news-updates",
@@ -167,7 +181,7 @@
       "country": "Europe",
       "category": "geopolitics",
       "date": "2026-05-08",
-      "time": "15:09",
+      "time": "15:54",
       "conflict_id": null,
       "score": 40.0
     },
@@ -184,6 +198,20 @@
       "time": "10:39",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-05-08-84e16eae",
+      "headline": "South Africa’s top court revives impeachment inquiry against president",
+      "summary": "The scandal centres on a large sum of foreign currency stolen from President Cyril Ramaphosa’s farmhouse in 2020.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/8/south-africas-top-court-revives-impeachment-inquiry-against-president?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "15:19",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-05-08-2c61c32e",
@@ -214,20 +242,6 @@
       "score": 37.0
     },
     {
-      "id": "2026-05-08-b4fe5285",
-      "headline": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
-      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "13:17",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-08-3d9b54cc",
       "headline": "Three dead after volcano erupts on Indonesian island",
       "summary": "Officials had previously issued warnings on climbing the active volcano due to safety concerns.",
@@ -242,6 +256,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-08-9cecf095",
+      "headline": "Venezuela’s Faulty Power Grid Risks Derailing Economic Comeback",
+      "summary": "Venezuela announced emergency measures to stabilize its power grid after electricity consumption hit a nine-year high this week, reviving memories of blackouts and rationing that once crippled the economy.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/venezuela-s-faulty-power-grid-risks-derailing-economic-comeback",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-05-08",
+      "time": "16:39",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-05-08-645bf357",
       "headline": "Waste Industry Is Recession-Resilient: Republic Services",
       "summary": "Republic Services CEO Jon Vander Ark joined Bloomberg Open Interest to break down why the waste industry thrives even in downturns. He calls it “recession-resilient” with strong margins. He reveals a major $500M bet on advanced recycling that turns plastic back into new bottles. Plus, why AI will be the true game-changer for the future of waste management. (Source: Bloomberg)",
@@ -252,20 +280,6 @@
       "category": "business",
       "date": "2026-05-08",
       "time": "15:39",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-08-06bc40c8",
-      "headline": "Gundlach Takes Longshot Bet in Case of US Debt Restructuring",
-      "summary": "DoubleLine Capital’s Jeffrey Gundlach is repositioning some of his funds for the extreme scenario that the US government could choose to restructure its debt in response to a potential future recession.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/gundlach-takes-longshot-bet-on-us-debt-revamp-with-low-coupons",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-08",
-      "time": "00:44",
       "conflict_id": null,
       "score": 34.1
     },
@@ -312,18 +326,18 @@
       "score": 31.4
     },
     {
-      "id": "2026-05-08-bd252584",
-      "headline": "UK elections – early results and takeaways; will Starmer have to resign?",
-      "summary": "Ruling Labour party has suffered early losses with Reform and Greens gaining in local council elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/uk-elections-early-results-and-takeaways-will-starmer-have-to-resign?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
+      "id": "2026-05-08-1f4e7f5b",
+      "headline": "Oil crisis sparks Japanese dash for corporate credit lines",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/oil-crisis-sparks-japanese-dash-for-corporate-credit-lines2",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
       "date": "2026-05-08",
-      "time": "08:18",
+      "time": "",
       "conflict_id": null,
-      "score": 31.4
+      "score": 30.8
     },
     {
       "id": "2026-05-08-c2141690",
@@ -382,16 +396,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-08-eaa1f3d0",
-      "headline": "US adds 115,000 jobs in April as labour market shrugs off energy shock",
-      "summary": "Hiring exceeds Wall Street forecasts for second month in a row",
+      "id": "2026-05-08-52025432",
+      "headline": "‘The risk of $5 gasoline can no longer be dismissed’",
+      "summary": "So. Much. Winning.",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/245e5c30-0a0b-43cd-b4b5-13f023c0b42d",
-      "region": "NA",
+      "url": "https://www.ft.com/content/17ed835f-be7c-4961-afde-14d31baebfcc",
+      "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-05-08",
-      "time": "14:37",
+      "time": "16:17",
       "conflict_id": null,
       "score": 26.4
     },
@@ -424,37 +438,79 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-08-26b753fc",
-      "headline": "Oil’s Price Surge Spurs Nigeria’s Flip From Discount to Darling",
-      "summary": "Nigerian assets are rallying across stocks, bonds and the currency as investor confidence builds in President Bola Tinubu’s economic agenda.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/oil-s-price-surge-spurs-nigeria-s-flip-from-discount-to-darling",
+      "id": "2026-05-08-eaa1f3d0",
+      "headline": "US adds 115,000 jobs in April as labour market shrugs off energy shock",
+      "summary": "Hiring exceeds Wall Street forecasts for second month in a row",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/245e5c30-0a0b-43cd-b4b5-13f023c0b42d",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-05-08",
-      "time": "09:28",
+      "time": "14:37",
       "conflict_id": null,
-      "score": 26.1
+      "score": 26.4
     },
     {
-      "id": "2026-05-08-95000ae7",
-      "headline": "Stock Strength Driven by Earnings, Not Economy: Santos",
-      "summary": "The economy is being propped up by AI says JPMorgan’s Gabriela Santos. She joined Bloomberg Open Interest to explain why the labor market is weaker than headlines suggest, how the AI trade has shifted beyond big tech, and why markets keep rallying despite global chaos. (Source: Bloomberg)",
+      "id": "2026-05-08-9d9b0c2f",
+      "headline": "Market Leadership Still in Tech: Hermann",
+      "summary": "Julia Hermann, Global Market Strategist at New York Life Investment Management, says market leadership is still firmly sitting with tech and Fed rate cuts are still on the table for 2026. She speaks to Bloomberg's Dani Burger on \"Open Interest.\" (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-08/stock-strength-driven-by-earnings-not-economy-santos-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/market-leadership-still-in-tech-hermann-video",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-05-08",
-      "time": "14:57",
+      "time": "16:48",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-05-08-bc7f68c5",
-      "headline": "Enhanced Games Owner Sinks 3.5% After Going Public Via SPAC",
-      "summary": "Enhanced Group Inc. shares dipped 3.5% after going public via a merger with blank-check company A Paradise Acquisition Corp. that gave it an enterprise value of $1.2 billion.",
+      "id": "2026-05-08-bf188f1f",
+      "headline": "Fannie, Freddie’s Latest Bull Says Traders Underpricing IPO Odds",
+      "summary": "Fannie Mae and Freddie Mac investors are underestimating the chances of a public market re-entry from the mortgage giants after a lull in chatter around the names, according to Mizuho’s Dan Dolev.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/fannie-freddie-s-latest-bull-says-traders-underpricing-ipo-odds",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-08",
+      "time": "11:55",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-08-984ec284",
+      "headline": "UK Bonds Rally as Starmer Says He’ll Stay as Prime Minister",
+      "summary": "UK government bonds posted a relief rally after Prime Minister Keir Starmer vowed to stay in his job despite deep local election losses, with investors set to focus on any fallout on his leadership in coming weeks.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/uk-bonds-rally-as-starmer-says-he-ll-stay-as-prime-minister",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "09:51",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-08-351366ac",
+      "headline": "US Jobs Data ‘Steady as It Goes,’ Says BlackRock’s Rosenberg (Correct)",
+      "summary": "Jeffrey Rosenberg, portfolio manager of the Systematic Multi-Strategy Fund at BlackRock, reacts to the April US jobs report as he sees a trade-off in the data between a strong headline number and weakness in income.(Corrects title of guest.) (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/jobs-data-steady-as-it-goes-blackrock-s-rosenberg-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-08",
+      "time": "13:29",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-08-ec0f4c35",
+      "headline": "Enhanced Games Owner Jumps 27% After Going Public Via SPAC",
+      "summary": "Enhanced Group Inc. shares climbed 27% after going public via a merger with blank-check company A Paradise Acquisition Corp. that gave it an enterprise value of $1.2 billion.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-08/enhanced-games-falls-14-after-spac-merger-at-1-2-billion-value",
       "region": "NA",
@@ -478,48 +534,6 @@
       "time": "14:23",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-05-08-fcb523b6",
-      "headline": "Treasuries Gain After Mixed Jobs Data Cements Bets on Steady Fed",
-      "summary": "Treasuries gained after a mixed batch of US employment data cemented the market’s view that the Federal Reserve will be cautious to change monetary policy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/treasuries-gain-ahead-of-us-payrolls-with-jobs-growth-expected",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "10:53",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-08-545f0d1e",
-      "headline": "Online Mob Fuels 6,000% Stock Rally in Obscure SpaceX Rival",
-      "summary": "Championed by a guru known simply as the Kook, the satellite company AST has become one of the world's most expensive stocks.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/features/2026-05-08/spacex-rival-ast-spacemobile-asts-proves-meme-stock-mania-is-back",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "13:45",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-08-e7b4a9fa",
-      "headline": "Rubio Meets Meloni as U.S.-Italy Relations Strained and Trump’s Attacks on Pope",
-      "summary": "Secretary of State Marco Rubio flew to Rome this week after an unexpected spat between President Trump and Prime Minister Giorgia Meloni of Italy, once one of the president’s best friends in Europe.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/08/us/politics/rubio-meloni-italy-us-trump-pope.html",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-05-08",
-      "time": "11:30",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-05-08-1dbf074f",
@@ -662,20 +676,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-08-caa1dc20",
-      "headline": "Asia propels global carbon-cutting investments to record $2.3tn",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/esg/asia-propels-global-carbon-cutting-investments-to-record-2.3tn",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-07-9a9be49b",
       "headline": "Fears of renewed Gaza war as Hamas disarmament talks stall",
       "summary": "Israeli media reports suggest Israel is preparing to resume fighting because of the impasse in talks with Hamas.",
@@ -690,6 +690,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-05-07-c4268888",
+      "headline": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
+      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-07",
+      "time": "16:00",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-07-0a682868",
       "headline": "Iran considering US proposal as Trump says war will be 'over quickly'",
       "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
@@ -701,7 +715,21 @@
       "date": "2026-05-07",
       "time": "04:06",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-07-0198017a",
+      "headline": "Aides cite friendly meeting as Rubio aims to mend U.S. ties with Pope Leo",
+      "summary": "Relations between the United States and the Vatican are at a low point over President Donald Trump’s attacks on Leo, who is a leading critic of the war in Iran.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/05/07/trump-pope-leo-rubio-rift/",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-05-07",
+      "time": "21:22",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-05-07-4f179882",
@@ -715,21 +743,7 @@
       "date": "2026-05-07",
       "time": "15:19",
       "conflict_id": null,
-      "score": 48.9
-    },
-    {
-      "id": "2026-05-07-c4268888",
-      "headline": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-07",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 40.9
     },
     {
       "id": "2026-05-07-98944da5",
@@ -772,6 +786,20 @@
       "time": "22:05",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-05-07-d51eaff7",
+      "headline": "F.B.I. Says Austin Bar Shooter Was Driven by Personal Grievances Related to Iran War",
+      "summary": "Investigators said the attacker admired Iran’s leadership and had no ties to a foreign terrorist organization.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/07/us/austin-bar-shooting-gunman-iran-fbi-investigation.html",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-07",
+      "time": "21:57",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-05-07-435ea4f2",
@@ -886,16 +914,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-07-679732bf",
-      "headline": "Compass Breaks Brazil IPO Drought With $650 Million Offer",
-      "summary": "Compass Gas e Energia SA’s shareholders raised 3.2 billion reais ($650 million) in the first initial public offering in Brazil in almost five years.",
+      "id": "2026-05-07-055179b0",
+      "headline": "Goldman Sachs Private Credit Fund’s Share of Bad Loans Rises",
+      "summary": "A publicly-traded private credit fund managed by Goldman Sachs Group Inc. put two additional companies on non-accrual status in the first quarter, as the industry grapples with mounting concerns over exposure to businesses vulnerable to AI-driven disruption.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-07/compass-breaks-5-year-brazil-ipo-drought-with-650-million-offer",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-07/goldman-sachs-private-credit-fund-s-share-of-bad-loans-increases",
+      "region": "NA",
+      "country": null,
+      "category": "business",
       "date": "2026-05-07",
-      "time": "22:01",
+      "time": "22:50",
       "conflict_id": null,
       "score": 26.1
     },
@@ -912,6 +940,20 @@
       "time": "23:27",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-05-07-5dbd89c8",
+      "headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional",
+      "summary": "A federal judge said more than $100 million in cuts to NEH grants were discriminatory, ruling in a case that revealed the inner workings of DOGE.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/07/doge-neh-humanities-grants-ruling/",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-05-07",
+      "time": "23:35",
+      "conflict_id": null,
+      "score": 24.9
     },
     {
       "id": "2026-05-07-c37673cc",
@@ -966,34 +1008,6 @@
       "category": "geopolitics",
       "date": "2026-05-06",
       "time": "21:29",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-06-59a3fa49",
-      "headline": "Trump pauses Hormuz plan 50 hours after he announced it - what happened?",
-      "summary": "The US president pauses the military operation to get ships through the Strait of Hormuz two days after he announced it.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd6p5q2dx1po?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "13:39",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-06-da7f784e",
-      "headline": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "summary": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "02:18",
       "conflict_id": null,
       "score": 43.0
     },
@@ -1054,6 +1068,20 @@
       "score": 25.8
     },
     {
+      "id": "2026-05-05-e421ad7d",
+      "headline": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
+      "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgrpnq00j5vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-05",
+      "time": "11:38",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-05-3267a55e",
       "headline": "Nine coal miners die in gas explosion in Colombia",
       "summary": "The explosion is the latest accident in the locality of Sutatausa, the site of another deadly mine disaster in 2023.",
@@ -1092,20 +1120,6 @@
       "category": "business",
       "date": "2026-05-03",
       "time": "17:32",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
-      "id": "2026-05-03-e74619bd",
-      "headline": "The remarkable revival of eBay",
-      "summary": "The internet’s flea market is back—and GameStop wants to buy it",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/05/03/the-remarkable-revival-of-ebay",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-03",
-      "time": "17:03",
       "conflict_id": null,
       "score": 25.8
     },
