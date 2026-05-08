@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-08T16:59:12.113246+00:00",
+  "updated": "2026-05-08T18:09:04.462486+00:00",
   "story_count": 82,
-  "source_count": 10,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-05-08-7c9ea184",
@@ -60,6 +60,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-08-993f7673",
+      "headline": "LNG carriers test Iran blockade in Strait of Hormuz",
+      "summary": "Pakistan cancelled plans to buy cargoes on spot market because it expected Gulf shipments to resume",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ee5b1b48-3e10-47ad-bde0-b7a8c384ba0d",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "17:59",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
       "id": "2026-05-08-6613dcd1",
       "headline": "UBS boss warns of European decline with ‘over-regulation across the board’",
       "summary": "Sergio Ermotti tells FT it would take a ‘very profound and painful crisis’ to pressure politicians to take action",
@@ -74,34 +88,6 @@
       "score": 42.4
     },
     {
-      "id": "2026-05-08-3bd77828",
-      "headline": "Hormuz Transits Halted Since Tuesday as US, Iran Clash",
-      "summary": "The Strait of Hormuz remains effectively closed to commercial shipping after the US and Iran clashed overnight near the waterway, attacking each other’s assets in the area.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/hormuz-tracker-transits-halted-since-tuesday-as-us-iran-clash",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "14:39",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-05-08-28e96cba",
-      "headline": "US Says Iran Should Give Answer Friday as Clashes Raise Tensions",
-      "summary": "The US said it expects Iran to respond to President Donald Trump’s latest proposal to end their war imminently, as overnight clashes threatened to further fracture a monthlong ceasefire.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/us-iran-clash-near-hormuz-as-response-on-proposed-deal-awaited",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "05:43",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-05-08-8a2b2389",
       "headline": "Virginia Court Strikes Down Redistricted Voting Map in a Huge Blow to Democrats",
       "summary": "The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.",
@@ -111,7 +97,21 @@
       "country": null,
       "category": "politics",
       "date": "2026-05-08",
-      "time": "16:45",
+      "time": "17:23",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-05-08-ebc84421",
+      "headline": "Pentagon Releases Files on U.F.O.s",
+      "summary": "The initial files are murky images that show what could be anything. The government said more would be released on a rolling basis.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
+      "region": "NA",
+      "country": "Pentagon",
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "18:03",
       "conflict_id": null,
       "score": 41.2
     },
@@ -125,7 +125,7 @@
       "country": "Italy",
       "category": "geopolitics",
       "date": "2026-05-08",
-      "time": "16:15",
+      "time": "17:01",
       "conflict_id": null,
       "score": 41.2
     },
@@ -228,18 +228,46 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-08-27c63083",
-      "headline": "Airlines cannot add fuel surcharges after ticket sales, EU says",
-      "summary": "As fuel prices soar amid the Middle East crisis, Brussels warns airlines they cannot retroactively hike ticket prices — and says costly kerosene alone is no excuse for dodging passenger compensation.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/08/airlines-cannot-add-fuel-surcharges-after-ticket-sales-eu-says",
+      "id": "2026-05-08-b4fe5285",
+      "headline": "Russia and Ukraine accuse each other of breaching Victory Day ceasefire",
+      "summary": "The two sides report responding to hundreds of drone attacks, just hours into a truce to cover celebrations of the Soviet Union's victory over Nazi Germany.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202zn5gg0lo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Brussels",
+      "country": "Germany",
       "category": "geopolitics",
       "date": "2026-05-08",
-      "time": "13:11",
+      "time": "13:17",
       "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-08-33056c80",
+      "headline": "Greece's examines mystery naval drone found in Ionian Sea",
+      "summary": "Greek media say the drone, which reportedly had explosives, could be either Ukrainian or linked to the Russia-Ukraine war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx217expnvvo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "17:53",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-08-52f16a33",
+      "headline": "White House calls Mark Hamill 'sick' after actor's Trump grave post",
+      "summary": "The Star Wars actor apologised and deleted the post, which contained an AI image of the president in a shallow grave.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g723pkgllo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "11:14",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-08-3d9b54cc",
@@ -254,6 +282,34 @@
       "time": "11:54",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-08-e91cd038",
+      "headline": "Pentagon Begins Releasing Wave of Files on UFOs",
+      "summary": "The Pentagon has begun releasing a wave of government files on unidentified flying objects. Following a directive from President Trump, agencies are now identifying and declassifying decades of records. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/pentagon-begins-releasing-wave-of-files-on-ufos-video",
+      "region": "NA",
+      "country": "Pentagon",
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "17:44",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-08-3fa038ab",
+      "headline": "Jobs Surge As AI Stocks Wobble | Open Interest 5/8/2026",
+      "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Jobs jump, Hormuz tensions rise, and CoreWeave exposes the pressure behind the AI boom. Rick Rieder says stocks aren’t in a bubble, Joanne Hsu explains why consumers are still gloomy, Kevin Hassett rejects Treasury default talk, and top CEOs break down AI, giving, cyber, recycling, and the market rally. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-08/open-interest-5-8-2026-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-08",
+      "time": "16:49",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-08-9cecf095",
@@ -282,20 +338,6 @@
       "time": "15:39",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-05-08-ebc84421",
-      "headline": "Pentagon Releases Files on U.F.O.s",
-      "summary": "The initial files are murky images that show what could be anything. The government said more would be released on a rolling basis.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "politics",
-      "date": "2026-05-08",
-      "time": "15:28",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-05-08-b4f5e106",
@@ -354,30 +396,16 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-08-34b5468c",
-      "headline": "Leo XIV, Pope's anniversary in Pompeii and Naples: 'We cannot resign ourselves to death'",
-      "summary": "The Pontiff is on a pastoral visit to Campania, where he relaunched the call for peace that had marked the first words of his papacy. \"The disarming and disarming peace\" of a year ago in St Peter's Square became a prayer: \"May God enlighten those who have responsibility for government\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/08/leo-xiv-popes-anniversary-in-pompeii-and-naples-we-cannot-resign-ourselves-to-death",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-08",
-      "time": "14:00",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-05-08-09e27bea",
       "headline": "Third British national has suspected hantavirus infection, UK government says",
-      "summary": "The patient is on the remote Atlantic island of Tristan da Cunha, which was visited by the cruise ship in April.",
+      "summary": "Five cases of hantavirus have been confirmed in total, including one of the three passengers on the MV Hondius who died.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c5yr41vq2ero?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-05-08",
-      "time": "06:03",
+      "time": "17:57",
       "conflict_id": null,
       "score": 27.0
     },
@@ -438,18 +466,18 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-08-eaa1f3d0",
-      "headline": "US adds 115,000 jobs in April as labour market shrugs off energy shock",
-      "summary": "Hiring exceeds Wall Street forecasts for second month in a row",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/245e5c30-0a0b-43cd-b4b5-13f023c0b42d",
+      "id": "2026-05-08-c8e2410d",
+      "headline": "Cuba Faces ‘Devastating’ Ripple Effects From US Hit to Mining",
+      "summary": "Canadian miner Sherritt International Corp.’s decision to shut down its nickel operations in Cuba under US duress will weigh heavily on an economy that’s already starved for hard currency and fuel.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/cuba-faces-devastating-ripple-effects-from-us-hit-to-mining",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-05-08",
-      "time": "14:37",
+      "time": "17:52",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
     },
     {
       "id": "2026-05-08-9d9b0c2f",
@@ -462,6 +490,20 @@
       "category": "business",
       "date": "2026-05-08",
       "time": "16:48",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-08-e7831ea5",
+      "headline": "Bradesco BBI Sees Brazil IPO Rebound After Compass Debut",
+      "summary": "The successful initial public offering of Compass Gas e Energia SA, the first in Brazil in nearly five years, means the country’s equity capital markets have now reopened even as global volatility keeps a cap on the pace of new deals, according to Banco Bradesco BBI.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-08/bradesco-bbi-sees-brazil-ipo-rebound-after-compass-debut",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "business",
+      "date": "2026-05-08",
+      "time": "16:38",
       "conflict_id": null,
       "score": 26.1
     },
@@ -508,34 +550,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-08-ec0f4c35",
-      "headline": "Enhanced Games Owner Jumps 27% After Going Public Via SPAC",
-      "summary": "Enhanced Group Inc. shares climbed 27% after going public via a merger with blank-check company A Paradise Acquisition Corp. that gave it an enterprise value of $1.2 billion.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/enhanced-games-falls-14-after-spac-merger-at-1-2-billion-value",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "13:52",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-08-efaad690",
-      "headline": "Itau Asset’s Serra Sees Bulk of Brazil Rate Cuts After Elections",
-      "summary": "The bulk of interest-rate cuts in Brazil is likely to come only after October elections, according to former Central Bank director Bruno Serra.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/itau-asset-s-serra-sees-bulk-of-brazil-rate-cuts-after-elections",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "14:23",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-08-1dbf074f",
       "headline": "Democratic Gubernatorial Candidate Rob Sand Is Worrying Iowa Republicans",
       "summary": "Rob Sand, Iowa’s auditor, is campaigning for governor with a pragmatic message that eschews strict partisanship.",
@@ -545,9 +559,23 @@
       "country": "NATO",
       "category": "politics",
       "date": "2026-05-08",
-      "time": "15:20",
+      "time": "17:19",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-05-08-5dbd89c8",
+      "headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional",
+      "summary": "A federal judge said more than $100 million in cuts to NEH grants were discriminatory, ruling in a case that revealed the inner workings of DOGE.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/07/doge-neh-humanities-grants-ruling/",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "18:02",
+      "conflict_id": null,
+      "score": 24.9
     },
     {
       "id": "2026-05-08-1deaa885",
@@ -594,7 +622,7 @@
     {
       "id": "2026-05-08-022ee757",
       "headline": "Kenya cancer cluster sparks ‘environmental genocide’ claims over oil waste",
-      "summary": "Kargi residents believe rising cancer cases are linked to toxic waste left behind during oil exploration in the 1980s.",
+      "summary": "Rising cancer cases are linked to toxic waste left behind during oil exploration in the 1980s.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/features/2026/5/8/kenya-cancer-cluster-sparks-environmental-genocide-claims-over-oil-waste?traffic_source=rss",
       "region": "MENA",
@@ -690,20 +718,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-05-07-c4268888",
-      "headline": "Rosenberg: Russia's Victory Day parade with no tanks a sign Ukraine war not going to plan",
-      "summary": "For the first time in nearly two decades, there will be no military hardware, just soldiers during Saturday's parade in Moscow.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2gj2jlr8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-07",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-07-0a682868",
       "headline": "Iran considering US proposal as Trump says war will be 'over quickly'",
       "summary": "Mediator Pakistan says it is \"endeavouring to convert this ceasefire into a permanent end to this war\".",
@@ -774,9 +788,9 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-07-c9ead033",
-      "headline": "S&amp;P 500 Rises Toward All-Time Highs on Strong Jobs: Markets Wrap",
-      "summary": "Signs of labor-market strength drove stocks toward record highs, bolstering speculation that the world’s largest economy remains resilient in the face of an energy shock triggered by the Iran war.",
+      "id": "2026-05-07-96299c10",
+      "headline": "Stocks Hit Record on Jobs Data as Chipmakers Surge: Markets Wrap",
+      "summary": "Signs of labor-market strength drove stocks to all-time highs, bolstering speculation that the world’s largest economy remains resilient in the face of an energy shock triggered by the Iran war.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-07/us-stock-futures-fall-oil-climbs-on-iran-tensions-markets-wrap",
       "region": "MENA",
@@ -786,20 +800,6 @@
       "time": "22:05",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-05-07-d51eaff7",
-      "headline": "F.B.I. Says Austin Bar Shooter Was Driven by Personal Grievances Related to Iran War",
-      "summary": "Investigators said the attacker admired Iran’s leadership and had no ties to a foreign terrorist organization.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/07/us/austin-bar-shooting-gunman-iran-fbi-investigation.html",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-07",
-      "time": "21:57",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-05-07-435ea4f2",
@@ -840,34 +840,6 @@
       "category": "geopolitics",
       "date": "2026-05-07",
       "time": "12:24",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-07-5775e94f",
-      "headline": "'I wouldn't pay it' - Trump on USA ticket price",
-      "summary": "US President Donald Trump says he \"wouldn't pay it either\" when asked about the potential ticket price to watch his country play Paraguay in their 2026 World Cup opener.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/cdxpq70grzlo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-07",
-      "time": "18:53",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-07-65252733",
-      "headline": "Valverde cut head when he 'accidentally hit table' in Tchouameni row",
-      "summary": "Federico Valverde went to hospital after a dressing room row with Real Madrid team-mate Aurelien Tchouameni which left him with a head injury after he \"accidentally hit a table\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c98r4218l73o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-07",
-      "time": "21:40",
       "conflict_id": null,
       "score": 27.0
     },
@@ -942,20 +914,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-05-07-5dbd89c8",
-      "headline": "Judge rules DOGE’s cuts to humanities grants were unconstitutional",
-      "summary": "A federal judge said more than $100 million in cuts to NEH grants were discriminatory, ruling in a case that revealed the inner workings of DOGE.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/07/doge-neh-humanities-grants-ruling/",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-05-07",
-      "time": "23:35",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
       "id": "2026-05-07-c37673cc",
       "headline": "Woman jailed in Somalia for peaceful protest ‘stripped, kicked and beaten’",
       "summary": "In an exclusive interview from prison, Sadia Moalim Ali, a 27-year-old rickshaw driver, tells of her treatment after being arrested for demonstrating against the governmentA woman being held in prison in Somalia for taking part in peaceful protests has described how she was tortured by her guards.Sadia Moalim Ali, 27, told the Guardian she was stripped naked by two male guards in a room monitored by CCTV, kicked, beaten with a baton and left for ",
@@ -1010,6 +968,20 @@
       "time": "21:29",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-05-06-b060fde0",
+      "headline": "Trump hosts UFC fighters in Oval Office, touts Iran progress",
+      "summary": "The unusual White House scene highlighted President Donald Trump’s diverse set of priorities as he juggles a war with event planning.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/06/trump-ufc-iran/",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "21:02",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-05-06-3d24b622",
@@ -1068,6 +1040,20 @@
       "score": 25.8
     },
     {
+      "id": "2026-05-06-2fd68dbd",
+      "headline": "Sen. Susan Collins discloses ‘essential tremor’ diagnosis to explain shaking",
+      "summary": "The Maine senator who is up for reelection this year described her condition as ‘extremely common’ with ‘absolutely no impact on my ability to do my job.’",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/06/susan-collins-essential-tremor-maine-senate/",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-05-06",
+      "time": "23:42",
+      "conflict_id": null,
+      "score": 24.9
+    },
+    {
       "id": "2026-05-05-e421ad7d",
       "headline": "Bowen: Strait of Hormuz standoff raises risk of sliding back into all-out war",
       "summary": "The US and Iran's determination to keep the pressure on each other has put the fragile Gulf ceasefire in serious jeopardy.",
@@ -1120,6 +1106,20 @@
       "category": "business",
       "date": "2026-05-03",
       "time": "17:32",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
+      "id": "2026-05-03-e74619bd",
+      "headline": "The remarkable revival of eBay",
+      "summary": "The internet’s flea market is back—and GameStop wants to buy it",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/05/03/the-remarkable-revival-of-ebay",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-03",
+      "time": "17:03",
       "conflict_id": null,
       "score": 25.8
     },
