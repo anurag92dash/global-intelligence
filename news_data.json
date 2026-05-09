@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-09T21:00:00.268297+00:00",
+  "updated": "2026-05-09T21:43:21.795234+00:00",
   "story_count": 84,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-09-c760ca4d",
+      "headline": "One killed in Gaza as Turkish FM talks peace efforts with Hamas official",
+      "summary": "Israel continues to violate a &#039;ceasefire&#039; agreed to in October with hundreds more killed across the Strip.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/one-killed-in-gaza-as-turkish-fm-talks-peace-efforts-with-hamas-official?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-09",
+      "time": "21:10",
+      "conflict_id": "israel-hamas",
+      "score": 67.4
+    },
     {
       "id": "2026-05-09-a4e903ee",
       "headline": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
@@ -16,20 +30,6 @@
       "time": "13:46",
       "conflict_id": null,
       "score": 65.0
-    },
-    {
-      "id": "2026-05-09-2b0794b3",
-      "headline": "‘This is not another Covid,’ WHO chief tells Tenerife as hantavirus cruise ship heads to island – as it happened",
-      "summary": "This live blog is now closedThe interior minister of Spain told Reuters on Saturday that Germany, France, Belgium, Ireland and the Netherlands have confirmed they will send planes to repatriate nationals from their respective countries aboard the cruise ship hit by a hantavirus outbreak.The European Union is sending two more planes for the remaining European citizens, and the US and UK have also confirmed planes and contingency plans for non-EU c",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
-      "region": "EU",
-      "country": "Netherlands",
-      "category": "politics",
-      "date": "2026-05-09",
-      "time": "14:23",
-      "conflict_id": null,
-      "score": 56.0
     },
     {
       "id": "2026-05-09-ac308ca9",
@@ -144,18 +144,18 @@
       "score": 48.0
     },
     {
-      "id": "2026-05-09-2af3e03f",
-      "headline": "Trump says hantavirus is ‘under control’ as WHO tracks cruise outbreak",
-      "summary": "US President Donald Trump says a hantavirus cruise ship cluster is ‘under very good control.’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/9/trump-says-hantavirus-is-under-control-as-who-tracks-cruise-outbreak?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-05-09-2b0794b3",
+      "headline": "‘This is not another Covid,’ WHO chief tells Tenerife as hantavirus cruise ship heads to island – as it happened",
+      "summary": "This live blog is now closedThe interior minister of Spain told Reuters on Saturday that Germany, France, Belgium, Ireland and the Netherlands have confirmed they will send planes to repatriate nationals from their respective countries aboard the cruise ship hit by a hantavirus outbreak.The European Union is sending two more planes for the remaining European citizens, and the US and UK have also confirmed planes and contingency plans for non-EU c",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
+      "region": "EU",
+      "country": "Netherlands",
       "category": "politics",
       "date": "2026-05-09",
-      "time": "12:35",
+      "time": "14:23",
       "conflict_id": null,
-      "score": 47.4
+      "score": 48.0
     },
     {
       "id": "2026-05-09-aead48d7",
@@ -209,7 +209,7 @@
       "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-05-09",
-      "time": "19:49",
+      "time": "21:23",
       "conflict_id": null,
       "score": 43.0
     },
@@ -226,20 +226,6 @@
       "time": "03:53",
       "conflict_id": null,
       "score": 42.4
-    },
-    {
-      "id": "2026-05-09-9e09a514",
-      "headline": "Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak",
-      "summary": "The deadly hantavirus outbreak on a cruise ship doesn’t risk triggering the next pandemic, World Health Organization officials said, downplaying an incident that has raised concern about a new viral contagion. Former White House COVID Response Coordinator and Infectious Disease Expert Dr. Ashish Jha joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-09/health-officials-downplay-risk-from-hantavirus-outbreak-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-05-09",
-      "time": "17:09",
-      "conflict_id": null,
-      "score": 42.1
     },
     {
       "id": "2026-05-09-fc78e399",
@@ -338,6 +324,20 @@
       "time": "18:44",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-09-9e09a514",
+      "headline": "Health Officials Downplay Pandemic Risk From Cruise Hantavirus Outbreak",
+      "summary": "The deadly hantavirus outbreak on a cruise ship doesn’t risk triggering the next pandemic, World Health Organization officials said, downplaying an incident that has raised concern about a new viral contagion. Former White House COVID Response Coordinator and Infectious Disease Expert Dr. Ashish Jha joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-09/health-officials-downplay-risk-from-hantavirus-outbreak-video",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-05-09",
+      "time": "17:09",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-09-17faff0a",
@@ -858,6 +858,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-08-5f346f48",
+      "headline": "Alabama Asks Supreme Court to Allow it to Use New Voting Map",
+      "summary": "State officials urged the justices to allow them to jettison Alabama’s congressional district map, citing the Supreme Court’s recent decision that dealt a blow to the Voting Rights Act.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/08/us/politics/alabama-supreme-court-voting-map.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "22:40",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-05-08-0c33714e",
       "headline": "Facing Pressure, Trump Officials Reject Claims They’re Softening on Immigration",
       "summary": "Immigration hard-liners have grown frustrated with the level of deportations and the Department of Homeland Security’s attempts, under its new secretary, to stay under the radar.",
@@ -911,7 +925,7 @@
       "date": "2026-05-07",
       "time": "14:22",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-05-07-0a682868",
@@ -1134,20 +1148,6 @@
       "category": "business",
       "date": "2026-05-05",
       "time": "10:09",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-03-1b4e9ec4",
-      "headline": "Some Iranians fear the regime is now more entrenched - and ready for revenge",
-      "summary": "Ordinary Iranians tell of worry about increased repression by authorities after the war is over.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp6xxyvzyo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-03",
-      "time": "23:19",
       "conflict_id": null,
       "score": 35.0
     },
