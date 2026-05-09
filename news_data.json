@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-09T01:20:04.129233+00:00",
-  "story_count": 84,
+  "updated": "2026-05-09T04:39:18.641515+00:00",
+  "story_count": 85,
   "source_count": 10,
   "stories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "2026-05-09-22aa4489",
       "headline": "Russia and Ukraine confirm three-day ceasefire from 9 May",
-      "summary": "Both sides also confirm prisoner swap after Donald Trump said ceasefire would include suspension of all ‘kinetic activity’ and a prisoner swapDonald Trump has announced a three-day ceasefire in the war between Russia and Ukraine from 9 to 11 May.The US president said on social media the ceasefire would include a suspension of all “kinetic activity” and a swap of 1,000 prisoners from each country. It was confirmed by both sides. Continue reading..",
+      "summary": "Both sides also confirm prisoner swap which Donald Trump announced along with suspension of all ‘kinetic activity’ between the warring statesDonald Trump has announced a three-day ceasefire in the war between Russia and Ukraine from 9 to 11 May.The US president said on social media the ceasefire would include a suspension of all “kinetic activity” and a swap of 1,000 prisoners from each country. It was confirmed by both sides. Continue reading...",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/08/trump-russia-ukraine-three-day-ceasefire-9-may",
       "region": "EU",
@@ -29,7 +29,35 @@
       "date": "2026-05-09",
       "time": "01:07",
       "conflict_id": null,
-      "score": 64.0
+      "score": 56.0
+    },
+    {
+      "id": "2026-05-09-e6e049f8",
+      "headline": "China’s exports jump 14% ahead of Xi-Trump summit",
+      "summary": "Robust trade surplus shows US tariffs have done little to dent the country’s manufacturing prowess",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c1a18633-09d4-4875-878a-8a06c157a8ab",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-05-09",
+      "time": "03:53",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-05-09-d38a3d83",
+      "headline": "Cambodians struggle with displaced lives amid tense ceasefire with Thailand",
+      "summary": "Families displaced by fighting fear new clashes with Thailand, say education among areas most affected by border war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/9/cambodians-struggle-with-displaced-lives-amid-tense-ceasefire-with-thailand?traffic_source=rss",
+      "region": "APJ",
+      "country": "Thailand",
+      "category": "geopolitics",
+      "date": "2026-05-09",
+      "time": "01:23",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-05-09-06a2c35d",
@@ -46,6 +74,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-09-d2ca06ca",
+      "headline": "China's exports rise 14% in April despite geopolitical uncertainty",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/china-s-exports-rise-14-in-april-despite-geopolitical-uncertainty",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-09",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
       "id": "2026-05-09-1f4e7f5b",
       "headline": "Oil crisis sparks Japanese dash for corporate credit lines",
       "summary": "",
@@ -60,18 +102,32 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-09-9f7205c3",
-      "headline": "'Huawei Inside' and everywhere at China's auto show",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/comment/huawei-inside-and-everywhere-at-china-s-auto-show",
+      "id": "2026-05-09-c1c51e94",
+      "headline": "China Gold Output Falls as Investor Demand for Bars, Coins Jumps",
+      "summary": "China’s gold output declined in the first quarter of 2026, weighed down by safety inspections and production suspensions, according to data from the China Gold Association.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/china-gold-output-falls-as-investor-demand-for-bars-coins-jumps",
       "region": "APJ",
       "country": "China",
       "category": "geopolitics",
       "date": "2026-05-09",
-      "time": "",
+      "time": "03:32",
       "conflict_id": null,
-      "score": 22.8
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-09-9c81c403",
+      "headline": "In Kristin Smart Case, Soil Suggests Human Remains Once Present in Yard",
+      "summary": "A California sheriff said investigators were searching the backyard of a woman whose son was convicted of murdering Ms. Smart, who went missing in 1996.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/08/us/kristin-smart-investigation-san-luis-obispo.html",
+      "region": "MENA",
+      "country": "Oman",
+      "category": "business",
+      "date": "2026-05-09",
+      "time": "01:27",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-05-09-8c55f4d1",
@@ -82,20 +138,6 @@
       "region": "APJ",
       "country": "Vietnam",
       "category": "business",
-      "date": "2026-05-09",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-09-2116c18b",
-      "headline": "2 LNG tankers cross Hormuz on way to Japan, China, but shortage persists",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/2-lng-tankers-cross-hormuz-on-way-to-japan-china-but-shortage-persists",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
       "date": "2026-05-09",
       "time": "",
       "conflict_id": null,
@@ -116,20 +158,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-09-a3ca22d0",
-      "headline": "Toyota forecasts decrease in net profit for FY26 amid Middle East tensions",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/toyota-forecasts-decrease-in-net-profit-for-fy26-amid-middle-east-tensions",
-      "region": "APJ",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-08-392bde76",
       "headline": "Trump says Russia and Ukraine to observe three-day ceasefire",
       "summary": "It comes as the two countries accused each other of violating separate ceasefires to cover the celebrations of the Soviet Union's victory over Nazi Germany.",
@@ -141,7 +169,7 @@
       "date": "2026-05-08",
       "time": "18:59",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-05-08-7c9ea184",
@@ -156,20 +184,6 @@
       "time": "08:43",
       "conflict_id": null,
       "score": 59.0
-    },
-    {
-      "id": "2026-05-08-a86cd243",
-      "headline": "Trump says Russia and Ukraine agree 3-day ceasefire and prisoner swap",
-      "summary": "Scepticism persists that Vladimir Putin is willing to commit to a more lasting peace deal",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7e9cb5d9-277e-43ba-9ba1-5f45f3bef7f9",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "19:41",
-      "conflict_id": null,
-      "score": 58.4
     },
     {
       "id": "2026-05-08-e7b4a9fa",
@@ -200,20 +214,6 @@
       "score": 55.4
     },
     {
-      "id": "2026-05-08-ce968ecb",
-      "headline": "Trump announces three-day of ceasefire between Ukraine and Russia",
-      "summary": "US President announces ceasefire ahead of contentious Russia military parade. Ukraine says will implement cessation of hostilities, but only in central Moscow where the festivities are taking place Saturday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/08/trump-announces-three-day-ceasefire-between-ukraine-and-russia",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-08",
-      "time": "18:52",
-      "conflict_id": null,
-      "score": 54.0
-    },
-    {
       "id": "2026-05-08-639c54c5",
       "headline": "Rubio talks to Meloni and Tajani about US, Italian and EU relations: from the Iran war to Trump's tariffs",
       "summary": "The US Secretary of State in talks in Rome with Meloni and Tajani. The Italian minister reiterated his readiness for a mission to Hormuz after the war and Trump's no to tariffs. Rubio promised developments in negotiations with Iran and that \"not being able to count\" on Allies \"is a problem\"",
@@ -226,6 +226,20 @@
       "time": "18:19",
       "conflict_id": null,
       "score": 54.0
+    },
+    {
+      "id": "2026-05-08-ce968ecb",
+      "headline": "Trump announces three-day of ceasefire between Ukraine and Russia",
+      "summary": "US President announces ceasefire ahead of contentious Russia military parade. Ukraine says will implement cessation of hostilities, but only in central Moscow where the festivities are taking place Saturday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/08/trump-announces-three-day-ceasefire-between-ukraine-and-russia",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "18:52",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-05-08-563298fd",
@@ -284,34 +298,6 @@
       "score": 42.4
     },
     {
-      "id": "2026-05-08-8a2b2389",
-      "headline": "Virginia Court Strikes Down Redistricted Voting Map in a Huge Blow to Democrats",
-      "summary": "The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-08",
-      "time": "21:01",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-05-08-cfa10c50",
-      "headline": "Virginia’s high court strikes down voter-passed House map favoring Democrats",
-      "summary": "The finding is a major setback for Democrats in their effort to counter GOP-led redistricting in other states. The measure approved April 21 gave Democrats an edge in four districts.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/08/virginia-court-invalidates-redistricting-measure/",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-08",
-      "time": "18:48",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
       "id": "2026-05-08-f190fea0",
       "headline": "Rubio charms in Rome, but he says Trump’s verbal attacks may continue",
       "summary": "The secretary of state held warm meetings with Prime Minister Giorgia Meloni and Pope Leo XIV after the president’s repeated criticism of both leaders.",
@@ -364,20 +350,6 @@
       "category": "politics",
       "date": "2026-05-08",
       "time": "15:19",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-08-2c61c32e",
-      "headline": "Virginia Supreme Court strikes down Democrats’ redistricting plan in US",
-      "summary": "Virginia&#039;s top court blocks redistricting plan, handing Republicans a key win before crucial midterm elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/8/virginia-supreme-court-strikes-down-democrats-redistricting-plan-in-us?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-08",
-      "time": "15:08",
       "conflict_id": null,
       "score": 39.4
     },
@@ -438,6 +410,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-05-08-8a2b2389",
+      "headline": "Virginia Court Strikes Down Redistricted Voting Map in a Huge Blow to Democrats",
+      "summary": "The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "21:01",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-05-08-ebc84421",
       "headline": "Pentagon Releases Files on U.F.O.s",
       "summary": "The initial files are murky images that show what could be anything. The government said more would be released on a rolling basis.",
@@ -450,6 +436,20 @@
       "time": "20:55",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-05-08-cfa10c50",
+      "headline": "Virginia’s high court strikes down voter-passed House map favoring Democrats",
+      "summary": "The finding is a major setback for Democrats in their effort to counter GOP-led redistricting in other states. The measure approved April 21 gave Democrats an edge in four districts.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/08/virginia-court-invalidates-redistricting-measure/",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-08",
+      "time": "18:48",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-05-08-10c67136",
@@ -550,18 +550,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-08-ff274382",
-      "headline": "Jane Street earned $10bn in first quarter as it doubled trading revenue",
-      "summary": "Results cement prop firm as one of the most profitable on Wall Street",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a",
-      "region": "EU",
+      "id": "2026-05-08-1dda1ec9",
+      "headline": "From trusted aide to biggest rival: Suvendu Adhikari set to become West Bengal chief minister",
+      "summary": "A former ally of Mamata Banerjee, the BJP leader will be West Bengal’s next chief minister.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2gp1wewjo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-05-08",
-      "time": "19:23",
+      "time": "23:47",
       "conflict_id": null,
-      "score": 26.4
+      "score": 27.0
     },
     {
       "id": "2026-05-08-bff0356d",
@@ -588,6 +588,34 @@
       "category": "business",
       "date": "2026-05-08",
       "time": "15:25",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-05-08-ff274382",
+      "headline": "Jane Street earned $10bn in first quarter as it doubled trading revenue",
+      "summary": "Results cement prop firm as one of the most profitable on Wall Street",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fe483e68-097a-4b80-ad3a-0792dda8f94a",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-08",
+      "time": "19:23",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-05-08-eaa1f3d0",
+      "headline": "US adds 115,000 jobs in April as labour market shrugs off energy shock",
+      "summary": "Hiring exceeds Wall Street forecasts for second month in a row",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/245e5c30-0a0b-43cd-b4b5-13f023c0b42d",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-08",
+      "time": "20:07",
       "conflict_id": null,
       "score": 26.4
     },
@@ -662,34 +690,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-08-338e418c",
-      "headline": "Fed Sees Private Credit Redemptions as ‘Manageable’ Risks",
-      "summary": "The Federal Reserve said stability risks from further private credit redemption requests appear “limited and manageable,” after some of the biggest names in the market blocked investors from getting money out of their funds in recent months.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-08/fed-calls-risks-tied-to-private-credit-redemptions-manageable",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "20:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-08-edb51b45",
-      "headline": "S&P Closes Out 6th Straight Week of Gains | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Scarlet Fu, Isabelle Lee, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-08/s-p-closes-out-6th-straight-week-of-gains-closing-bell-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "20:35",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-08-00499786",
       "headline": "Colombia Gives Priority to TGI’s LNG Project as Gas Dwindles",
       "summary": "Transportadora de Gas Internacional’s planned liquefied natural gas import terminal in Colombia moved closer to execution after the government added it to a list of infrastructure priorities designed to address a growing shortfall in domestic gas supply.",
@@ -702,20 +702,6 @@
       "time": "20:14",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-05-08-9c81c403",
-      "headline": "In Kristin Smart Case, Soil Suggests Human Remains Once Present in Yard",
-      "summary": "A California sheriff said investigators were searching the backyard of a woman whose son was convicted of murdering Ms. Smart, who went missing in 1996.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/08/us/kristin-smart-investigation-san-luis-obispo.html",
-      "region": "MENA",
-      "country": "Oman",
-      "category": "business",
-      "date": "2026-05-08",
-      "time": "20:37",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-05-08-1dbf074f",
@@ -1054,6 +1040,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-05-06-e7606ebd",
+      "headline": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
+      "summary": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz14e1zeno?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "21:29",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-06-567a22ea",
       "headline": "Trump's hopes for an Iran peace deal come with caveats",
       "summary": "There are signs of fresh momentum to end the war, but Trump himself has injected a note of caution.",
@@ -1094,6 +1094,20 @@
       "time": "09:35",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-06-62b68264",
+      "headline": "What is Trump's 'Project Freedom' in the Strait of Hormuz?",
+      "summary": "The US president said the operation has been paused after starting on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g437depzpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-06",
+      "time": "02:23",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-06-ba8b21ce",
