@@ -1,50 +1,8 @@
 {
-  "updated": "2026-05-10T12:38:52.412670+00:00",
+  "updated": "2026-05-10T14:04:35.254587+00:00",
   "story_count": 77,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-05-10-c37226a4",
-      "headline": "Saudi Aramco profits rise as oil price surge and pipeline offset Iran war hit",
-      "summary": "East-west pipeline allows world’s biggest oil company to circumvent the Strait of Hormuz and keep pumping",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "06:24",
-      "conflict_id": null,
-      "score": 58.4
-    },
-    {
-      "id": "2026-05-10-5bf944a8",
-      "headline": "First plane carrying passengers evacuated from hantavirus-hit cruise ship leaves Tenerife – Europe live",
-      "summary": "Spain has begun the evacuation of the first passengers from the MV Hondius ship which arrived in Tenerife on SundayPassengers begin evacuating cruise ship hit by hantavirusIn other news, there are reports of Russian attacks continuing on Ukraine despite a ceasefire that was meant to run from Saturday 9 May to Monday 11 May.There are reports of people being injured by Russian strikes in areas including the Kharkiv, Dnipropetrovsk and Kherson regio",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "12:14",
-      "conflict_id": "ukraine-war",
-      "score": 52.0
-    },
-    {
-      "id": "2026-05-10-371bca31",
-      "headline": "Israel deports two activists detained on board Gaza flotilla",
-      "summary": "Spanish national Saif Abu Keshek and Brazilian Thiago Ávila were detained by Israel after sailing in a Gaza-bound aid flotilla.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzdpxv2d7o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "11:55",
-      "conflict_id": null,
-      "score": 51.0
-    },
     {
       "id": "2026-05-10-a7c0fa1c",
       "headline": "Drone Hits Ship Near Qatar as US Awaits Iran Peace Plan Response",
@@ -57,7 +15,21 @@
       "date": "2026-05-10",
       "time": "07:52",
       "conflict_id": null,
-      "score": 50.1
+      "score": 58.1
+    },
+    {
+      "id": "2026-05-10-cad4a5a1",
+      "headline": "Iran sends response to US proposal to end war via mediator Pakistan",
+      "summary": "According to the proposal, initial negotiations will focus on ending hostilities.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/iran-sends-response-to-us-proposal-to-end-war-via-mediator-pakistan?traffic_source=rss",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "12:40",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-05-10-89d2879f",
@@ -71,7 +43,7 @@
       "date": "2026-05-10",
       "time": "10:56",
       "conflict_id": null,
-      "score": 47.4
+      "score": 55.4
     },
     {
       "id": "2026-05-10-58dbc28b",
@@ -85,7 +57,49 @@
       "date": "2026-05-10",
       "time": "08:18",
       "conflict_id": null,
-      "score": 47.4
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-10-c54b92e7",
+      "headline": "Iran responds to US proposal to end the war via a Pakistani mediator",
+      "summary": "Iran has sent its response to a US proposal to end the war through Pakistani mediators, the official IRNA news agency reported on Sunday, without offering details.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/10/iran-responds-to-us-proposal-to-end-the-war-via-a-pakistani-mediator",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "13:04",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-05-10-5bf944a8",
+      "headline": "First plane carrying passengers evacuated from hantavirus-hit cruise ship leaves Tenerife – Europe live",
+      "summary": "Spain has begun the evacuation of the first passengers from the MV Hondius ship which arrived in Tenerife on SundayPassengers begin evacuating cruise ship hit by hantavirusIn other news, there are reports of Russian attacks continuing on Ukraine despite a ceasefire that was meant to run from Saturday 9 May to Monday 11 May.There are reports of people being injured by Russian strikes in areas including the Kharkiv, Dnipropetrovsk and Kherson regio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "13:54",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
+    },
+    {
+      "id": "2026-05-10-c37226a4",
+      "headline": "Saudi Aramco profits rise as oil price surge and pipeline offset Iran war hit",
+      "summary": "East-west pipeline allows world’s biggest oil company to circumvent the Strait of Hormuz and keep pumping",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/19c03559-1ed6-49bd-b2c1-98961d768f83",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "06:24",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-05-10-08c552ff",
@@ -102,6 +116,48 @@
       "score": 45.0
     },
     {
+      "id": "2026-05-10-d4b99a33",
+      "headline": "At least 39 killed in fresh Israeli strikes on Lebanon",
+      "summary": "Despite a three-week-old ceasefire, Israel struck Lebanon repeatedly on Saturday killing at least thirty-nine people, while Hezbollah retaliated with drone attacks on northern Israel.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/10/at-least-39-killed-in-fresh-israeli-strikes-on-lebanon",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "06:49",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-05-10-eb372086",
+      "headline": "Iran warns against complying with US sanctions as Gulf attacks reported",
+      "summary": "The warning comes as a commercial vessel is hit off Qatar, and both the UAE and Kuwait report drone attacks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypgz9e5pmo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Kuwait",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "12:22",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-10-e95638fa",
+      "headline": "Iran war could prompt Federal Reserve to raise rates, Pimco says",
+      "summary": "Bond giant and Franklin Templeton warn in interviews with FT against cuts in borrowing costs",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ba919246-ff50-4b8d-931c-43ee8d37795d",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-05-10",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-05-10-314718d3",
       "headline": "Aramco CEO Warns of Long Oil Market Disruption as Profit Jumps",
       "summary": "Saudi Aramco’s boss warned of a long disruption to oil markets from the near closure of the Strait of Hormuz, while the company reported a jump in profit following higher prices and its ability to redirect exports via a pipeline bypassing the vital waterway.",
@@ -116,23 +172,9 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-10-450503f0",
-      "headline": "Lawyers for the global elite aren’t buying Trump’s gold card visa",
-      "summary": "Even Melania’s former lawyer is warning people away from Trump’s program designed to make immigration easier for the wealthy.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/10/trump-gold-card-visa-lawyers/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-05-10-28f6b822",
       "headline": "Republicans who denied 2020 election results could be governors next year",
-      "summary": "Electing such candidates for governor would give deniers key oversight of the 2028 presidential election in swing states like Arizona, Wisconsin and Pennsylvania.",
+      "summary": "Winners will have oversight of 2028 elections in swing states like Arizona, Wisconsin and Pennsylvania.",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/politics/2026/05/11/election-governor-deniers-trump/",
       "region": "NA",
@@ -256,9 +298,23 @@
       "score": 24.0
     },
     {
+      "id": "2026-05-10-37965232",
+      "headline": "Atef Najib faces at least 10 charges in landmark Syria trial",
+      "summary": "Cousin of former President Bashar al-Assad faces charges that include murder, torture and responsibility for massacres.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/10/atef-najib-faces-at-least-10-charges-in-landmark-syria-trial?traffic_source=rss",
+      "region": "MENA",
+      "country": "Syria",
+      "category": "politics",
+      "date": "2026-05-10",
+      "time": "12:45",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-05-10-0f32cbd5",
       "headline": "Syria sees first government reshuffle since al-Assad’s ouster",
-      "summary": "Interim President Ahmed al-Sharaa&#039;s reshuffle comes amid protests over poor government performance.",
+      "summary": "The reshuffle by President Ahmed al-Sharaa comes amid protests over alleged poor governance.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/10/syria-sees-first-government-reshuffle-since-al-assads-ouster-state-media?traffic_source=rss",
       "region": "MENA",
@@ -340,6 +396,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-05-10-743071de",
+      "headline": "Brzoska: Poland establishes itself as a deregulation model for the EU",
+      "summary": "Poland could be a role model for Brussels on simplifying legislation and deregulation, Rafał Brzoska, one of Poland’s richest men, told Euronews at the European Economic Congress.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/10/brzoska-poland-establishes-itself-as-a-deregulation-model-for-the-eu",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "politics",
+      "date": "2026-05-10",
+      "time": "10:43",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-05-10-ef716a0c",
       "headline": "Spain’s climate shelters could save thousands of lives. Why is the rest of Europe lagging behind?",
       "summary": "Climate shelters are becoming \"critical components” of urban strategies as heat deaths in Europe continue to rise.",
@@ -382,20 +452,6 @@
       "score": 50.1
     },
     {
-      "id": "2026-05-09-cf512b0d",
-      "headline": "Iran War Is Draining World’s Oil Buffer at an Unprecedented Pace",
-      "summary": "The world has burned through oil inventories at a record speed as the Iran war throttles flows from the Persian Gulf, eating into the very buffer that protects against supply shocks.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/iran-war-is-draining-world-s-oil-buffer-at-unprecedented-pace",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "12:30",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-05-09-2badae31",
       "headline": "US Awaits Iranian Response After Hormuz Clashes Strain Ceasefire",
       "summary": "The US was waiting on Iran’s response to its latest proposal to end the war after suggesting word could come imminently, following clashes in the Strait of Hormuz that strained a month-long ceasefire. Bloomberg News Deputy UAE Bureau Chief Abeer Abu Omar and White House Correspondent Jeff Mason join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss.\n\nIran has still given no indication whether it will accept President Donald Tr",
@@ -408,20 +464,6 @@
       "time": "14:00",
       "conflict_id": null,
       "score": 42.1
-    },
-    {
-      "id": "2026-05-09-40c9880f",
-      "headline": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
-      "summary": "Jubilation in Budapest as new leader invites people to ‘step through gate of regime change’The pro-European centre-right leader Péter Magyar has been sworn in as prime minister of Hungary, marking the official end to Viktor Orbán’s 16 years in power.Saturday’s ceremony – during which Magyar had invited people to join him to “write Hungarian history” together and “step through the gate of regime change” – comes a month after his opposition Tisza p",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "politics",
-      "date": "2026-05-09",
-      "time": "17:48",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-05-09-0b8e65c7",
@@ -480,20 +522,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-09-214546e3",
-      "headline": "Earnings Bonanza That Trounced Forecasts Fuels Record Stocks Run",
-      "summary": "The war in Iran was supposed to derail the rally in US stocks and weigh on company outlooks. Instead a blowout earnings season is providing fresh fodder for Wall Street bulls.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/earnings-bonanza-that-no-one-saw-coming-fuels-stocks-record-run",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-05-09-ed07e059",
       "headline": "‘A sobering indictment’: 14 homeless people die a year in public parks or countryside in Australia, analysis finds",
       "summary": "‘In just a few weeks homelessness has killed a baby, a young mother and a student,’ head of advocacy group says, calling for more investment in upcoming budgetFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFourteen rough sleepers are dying in public parks or countryside areas each year on average in Australia, an analysis of hidden death reports reveals.The deaths of a young intern",
@@ -508,18 +536,18 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-09-a57cab82",
-      "headline": "Péter Magyar sworn-in as Hungary's new prime minister after landslide April election victory",
-      "summary": "Péter Magyar called for those who occupy high office, described as remnants of the Orbán regime, to vacate their posts by the 31st of May. The order was extended to specifically include the country's President Tamás Sulyok.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/09/peter-magyar-sworn-in-as-hungarys-new-prime-minister-after-landslide-april-election-victor",
+      "id": "2026-05-09-40c9880f",
+      "headline": "Péter Magyar sworn in as Hungary’s prime minister ending 16-year Orbán era",
+      "summary": "Jubilation in Budapest as new leader invites people to ‘step through gate of regime change’The pro-European centre-right leader Péter Magyar has been sworn in as prime minister of Hungary, marking the official end to Viktor Orbán’s 16 years in power.Saturday’s ceremony – during which Magyar had invited people to join him to “write Hungarian history” together and “step through the gate of regime change” – comes a month after his opposition Tisza p",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/09/hungary-prime-minister-peter-magyar-sworn-in-viktor-oban",
       "region": "EU",
       "country": "Hungary",
       "category": "politics",
       "date": "2026-05-09",
-      "time": "15:08",
+      "time": "17:48",
       "conflict_id": null,
-      "score": 29.0
+      "score": 32.0
     },
     {
       "id": "2026-05-09-3404d1f2",
@@ -620,20 +648,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-09-ea6f17fd",
-      "headline": "China Vows to Advance Efforts to Defuse Local Government Debt",
-      "summary": "China pledged to step up efforts to defuse local government debt risk while supporting growth, as the State Council called for stronger policy execution in a challenging global environment.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/china-vows-to-advance-efforts-to-defuse-local-government-debt",
-      "region": "APJ",
-      "country": "China",
-      "category": "politics",
-      "date": "2026-05-09",
-      "time": "12:25",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-09-22c33e3a",
       "headline": "How China May Have Sought to Recruit a House Aide to Spy on the U.S.",
       "summary": "A staff member on the House China Committee was promised $10,000 for U.S. policy insights, on issues like Venezuela and rare-earth minerals.",
@@ -658,20 +672,6 @@
       "category": "business",
       "date": "2026-05-09",
       "time": "18:05",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-09-46ee7894",
-      "headline": "Libya launches major security operation in Zawiya after clashes near key oil refinery",
-      "summary": "In Zawiya, home to one of the oil-rich country’s biggest refineries, rival gangs clash over the trafficking of fuel and commercial goods into neighbouring Tunisia.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/09/libya-launches-major-security-operation-in-zawiya-after-clashes-near-key-oil-refinery",
-      "region": "MENA",
-      "country": "Tunisia",
-      "category": "business",
-      "date": "2026-05-09",
-      "time": "13:25",
       "conflict_id": null,
       "score": 21.0
     },
@@ -799,7 +799,7 @@
       "date": "2026-05-07",
       "time": "04:06",
       "conflict_id": null,
-      "score": 59.0
+      "score": 68.0
     },
     {
       "id": "2026-05-07-9a9be49b",
@@ -942,20 +942,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-06-e8ec2c22",
-      "headline": "Not all oil giants are prospering from the Iran war",
-      "summary": "Exxon and Chevron have benefited less than their European rivals",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/05/06/not-all-oil-giants-are-prospering-from-the-iran-war",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "19:44",
-      "conflict_id": null,
-      "score": 57.8
-    },
-    {
       "id": "2026-05-06-e7606ebd",
       "headline": "'Enjoy the show. Ignore the war': Venice Biennale faces backlash after including Russia",
       "summary": "Protests have taken place at the prestigious arts fair over the inclusion of Russia for the first time since the full-scale invasion of Ukraine.",
@@ -968,6 +954,20 @@
       "time": "21:29",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-05-06-e8ec2c22",
+      "headline": "Not all oil giants are prospering from the Iran war",
+      "summary": "Exxon and Chevron have benefited less than their European rivals",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/05/06/not-all-oil-giants-are-prospering-from-the-iran-war",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-05-06",
+      "time": "19:44",
+      "conflict_id": null,
+      "score": 49.8
     },
     {
       "id": "2026-05-06-da7f784e",
