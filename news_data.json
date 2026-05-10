@@ -1,36 +1,8 @@
 {
-  "updated": "2026-05-10T22:01:14.596627+00:00",
-  "story_count": 80,
+  "updated": "2026-05-10T23:04:26.142137+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-05-10-86670916",
-      "headline": "Trump says Iran’s response to peace proposal is ‘unacceptable’",
-      "summary": "Tehran had earlier called for an end to the war in exchange for sanctions relief and the unfreezing of assets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f66186e7-8e14-466d-b4de-114ee70c3e62",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "21:22",
-      "conflict_id": null,
-      "score": 67.4
-    },
-    {
-      "id": "2026-05-10-a7c0fa1c",
-      "headline": "Drone Hits Ship Near Qatar as US Awaits Iran Peace Plan Response",
-      "summary": "A drone strike briefly set a cargo vessel ablaze in the Persian Gulf, the latest shipping attack to test a fragile ceasefire as the US awaits Iran’s response to its proposal to end 10 weeks of war.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-10/us-awaits-iran-reply-as-aramco-says-hormuz-opening-no-quick-fix",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "07:52",
-      "conflict_id": null,
-      "score": 67.1
-    },
     {
       "id": "2026-05-10-d4b99a33",
       "headline": "At least 39 killed in fresh Israeli strikes on Lebanon",
@@ -60,6 +32,34 @@
       "score": 60.0
     },
     {
+      "id": "2026-05-10-86670916",
+      "headline": "Trump says Iran’s response to peace proposal is ‘unacceptable’",
+      "summary": "Oil prices climb again as Washington and Tehran fail to agree on terms to end war and reopen Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f66186e7-8e14-466d-b4de-114ee70c3e62",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "22:32",
+      "conflict_id": null,
+      "score": 59.4
+    },
+    {
+      "id": "2026-05-10-2bed5ac1",
+      "headline": "Oil Jumps After Trump Says Iran’s Peace Offer Is ‘Unacceptable’",
+      "summary": "Oil surged after US President Donald Trump rejected Iran’s latest response to his proposal to end the war in the Middle East, prolonging the effective closure of the crucial Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/latest-oil-market-news-and-analysis-for-may-11",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "22:02",
+      "conflict_id": null,
+      "score": 59.1
+    },
+    {
       "id": "2026-05-10-edea6784",
       "headline": "Trump calls Iran’s response to peace plan ‘unacceptable’ as ceasefire is tested",
       "summary": "Secretary of State Marco Rubio said recently that he hoped the response would be a “serious offer.”",
@@ -69,23 +69,9 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-10",
-      "time": "21:20",
+      "time": "22:44",
       "conflict_id": null,
       "score": 57.9
-    },
-    {
-      "id": "2026-05-10-366d9e75",
-      "headline": "Iran sends response to US ceasefire proposal via Pakistan",
-      "summary": "Tehran has been saying negotiations should focus on ending hostilities, securing guarantees against future attacks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "15:39",
-      "conflict_id": null,
-      "score": 56.4
     },
     {
       "id": "2026-05-10-9b36ef5e",
@@ -126,6 +112,20 @@
       "category": "geopolitics",
       "date": "2026-05-10",
       "time": "15:53",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-10-366d9e75",
+      "headline": "Iran sends response to US ceasefire proposal via Pakistan",
+      "summary": "Tehran has been saying negotiations should focus on ending hostilities, securing guarantees against future attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/10/iran-sends-response-to-us-ceasefire-proposal-via-pakistan?traffic_source=rss",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "15:39",
       "conflict_id": null,
       "score": 55.4
     },
@@ -214,20 +214,6 @@
       "score": 50.2
     },
     {
-      "id": "2026-05-10-e76b5614",
-      "headline": "Trump says US will not allow Iran to reach enriched uranium",
-      "summary": "US president says Washington has the nuclear material in Iran &#039;surveilled&#039; and will &#039;blow up&#039; anyone who gets near it.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/10/trump-says-us-will-not-allow-iran-to-reach-enriched-uranium?traffic_source=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-05-10",
-      "time": "17:22",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-05-10-649e13a4",
       "headline": "His father had just been buried. Then West Bank settlers forced him to dig up the body",
       "summary": "The UN human rights office condemns incident as \"'appalling and emblematic of the dehumanisation of Palestinians\" in the West Bank.",
@@ -300,7 +286,7 @@
     {
       "id": "2026-05-10-120823f1",
       "headline": "Pimco CIO Sees Risk of Fed Hiking Rates Due to Iran War, FT Says",
-      "summary": "The war in Iran may lead the Federal Reserve to further delay interest-rate cuts and instead raise rates, Pimco Chief Investment Officer Dan Ivascyn told the Financial Times.",
+      "summary": "The war in Iran may lead the Federal Reserve to further delay interest-rate cuts or even raise borrowing costs, Pimco Chief Investment Officer Dan Ivascyn told the Financial Times.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-10/pimco-cio-sees-risk-of-fed-hiking-rates-due-to-iran-war-ft-says",
       "region": "MENA",
@@ -326,16 +312,44 @@
       "score": 37.0
     },
     {
-      "id": "2026-05-10-314718d3",
-      "headline": "Aramco CEO Warns of Long Oil Market Disruption as Profit Jumps",
-      "summary": "Saudi Aramco’s boss warned of a long disruption to oil markets from the near closure of the Strait of Hormuz, while the company reported a jump in profit following higher prices and its ability to redirect exports via a pipeline bypassing the vital waterway.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-10/aramco-profit-climbs-as-war-driven-oil-rise-offsets-export-hit",
+      "id": "2026-05-10-cfa47380",
+      "headline": "Iran activists tell BBC how threat of war intensifies trauma of repression",
+      "summary": "A dissident in Tehran says she feels helpless and under immense psychological pressure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1m2ee3jxvro?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Saudi",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "21:01",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-10-3404d1f2",
+      "headline": "Australia's right-wing One Nation party scores historic parliamentary win",
+      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-05-10",
+      "time": "14:37",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-10-59f78698",
+      "headline": "US Stock Futures Slip as US-Iran Deal Hope Fades: Markets Wrap",
+      "summary": "US equity futures declined while the dollar rose against most major peers in early trading after President Donald Trump rejected Iran’s response to his latest proposal to end the war, likely prolonging the closure of the Strait of Hormuz. Oil climbed.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/us-stock-futures-slip-as-us-iran-deal-hope-fades-markets-wrap",
+      "region": "NA",
+      "country": "Trump",
       "category": "business",
       "date": "2026-05-10",
-      "time": "05:11",
+      "time": "22:09",
       "conflict_id": null,
       "score": 34.1
     },
@@ -378,6 +392,20 @@
       "category": "geopolitics",
       "date": "2026-05-10",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-05-10-6c98078d",
+      "headline": "Australia politics live: Albanese blames Coalition for ‘legitimising’ One Nation; Joyce says his party will ‘go for government’",
+      "summary": "Prime minister says Farrer byelection a ‘devastating’ loss for Angus Taylor and the Liberal party. Follow today’s news liveGet our breaking news email, free app or daily news podcast‘We’re not a party of government … yet,’ says JoyceBarnaby Joyce is doing something of a victory lap for One Nation this morning, hitting the radio and TVs to celebrate the emphatic byelection win.The sort of conceited statement, oh, you’re not a party of government. ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/11/australia-politics-live-federal-budget-jim-chalmers-cost-of-living-deficit-farrer-byelection-coalition-one-nation-ntwnfb",
+      "region": "NA",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-05-10",
+      "time": "22:54",
       "conflict_id": null,
       "score": 32.0
     },
@@ -438,20 +466,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-10-3404d1f2",
-      "headline": "Australia's right-wing One Nation party scores historic parliamentary win",
-      "summary": "One Nation gains its first seat in the lower house, in a by-election seen as a key test for the populist party.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2e4z4npro?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-05-10",
-      "time": "14:37",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-10-f566e2b2",
       "headline": "Germany in fresh push to buy Tomahawks after Trump row",
       "summary": "Defence minister plans Washington trip after Chancellor Friedrich Merz falls out with US president",
@@ -464,6 +478,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-10-09f66799",
+      "headline": "CSL Cuts Profit Outlook, Flags $5 Billion in New Impairments",
+      "summary": "CSL Ltd. cut its full-year outlook and flagged about $5 billion in additional impairments, saying a turnaround will take longer than expected after a review by its interim chief executive.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/csl-cuts-profit-outlook-flags-5-billion-in-new-impairments",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-10",
+      "time": "22:34",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-10-34eb812c",
@@ -490,34 +518,6 @@
       "category": "business",
       "date": "2026-05-10",
       "time": "20:08",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-10-16f3724f",
-      "headline": "RNC Gruters: This President's Been Going to Bat for the Average American Worker",
-      "summary": "Republican National Committee Chairman Joe Gruters joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the recent polling data showing a slight increase in disapproval of President Trump's job performance, particularly among Republicans. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-10/gruters-urges-candidates-to-embrace-president-s-agenda-video",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-05-10",
-      "time": "17:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-10-9206aa2b",
-      "headline": "Bloomberg This Weekend 5/10/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Dr. Carlos Del Rio, Professor of Global Health and Epidemiology, Melissa Murray, Author of 'The US Constitution: A Comprehensive and Annotated Guide' and Former Law Clerk for Justice Sonia Sotomayor, Sara Albrecht, Chairman and CEO of Liberty Justic",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-10/bloomberg-this-weekend-5-10-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-10",
-      "time": "17:09",
       "conflict_id": null,
       "score": 26.1
     },
@@ -590,20 +590,6 @@
       "time": "18:04",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-05-10-316dd4a7",
-      "headline": "Trump Administration Is Considering Pausing the Federal Gas Tax to Lower Prices, Energy Secretary Says",
-      "summary": "The tax is a little over 18 cents a gallon for gasoline. With the average national price above $4.50, the measure will provide little relief.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/10/us/politics/energy-secretary-federal-gas-tax.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-10",
-      "time": "19:52",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-05-10-d66d7bd9",
@@ -830,6 +816,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-09-40709eba",
+      "headline": "Australian Treasurer to Tackle ‘Unacceptable’ Housing Market",
+      "summary": "Australia’s upcoming budget will take aim at soaring home prices and seek to make it easier for people to gain a foothold in the housing market, Treasurer Jim Chalmers said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-09/australia-to-tackle-unacceptable-housing-market-chalmers-says",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-05-09",
+      "time": "23:56",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-08-837b7075",
       "headline": "The WW2 spy killed in mystery crash days after the war ended",
       "summary": "Jacques Vaillant de Guélis was born in Cardiff but served as a French operative behind enemy lines.",
@@ -926,20 +926,6 @@
       "time": "05:02",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-05-07-106d6484",
-      "headline": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
-      "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2d0v3p2po?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-07",
-      "time": "18:13",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-05-07-98944da5",
