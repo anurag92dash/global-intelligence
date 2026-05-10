@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10T06:41:40.968626+00:00",
+  "updated": "2026-05-10T08:28:30.702941+00:00",
   "story_count": 80,
   "source_count": 10,
   "stories": [
@@ -15,7 +15,21 @@
       "date": "2026-05-10",
       "time": "04:17",
       "conflict_id": "ukraine-war",
-      "score": 59.4
+      "score": 67.4
+    },
+    {
+      "id": "2026-05-10-08c552ff",
+      "headline": "Putin claims war with Ukraine could be coming to an end",
+      "summary": "Putin declared the war in Ukraine was \"heading to an end\" on Saturday, even though the first day of a US-brokered ceasefire was marred by mutual accusations of violations and a scaled-down Victory Day parade.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/10/putin-claims-war-with-ukraine-could-be-coming-to-an-end",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "07:17",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-05-10-0a32f3bd",
@@ -30,6 +44,62 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-05-10-d4b99a33",
+      "headline": "At least 39 killed in fresh Israeli strikes on Lebanon",
+      "summary": "Despite a three-week-old ceasefire, Israel struck Lebanon repeatedly on Saturday killing at least thirty-nine people, while Hezbollah retaliated with drone attacks on northern Israel.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/10/at-least-39-killed-in-fresh-israeli-strikes-on-lebanon",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "06:49",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-05-10-c34d2364",
+      "headline": "Hantavirus cruise ship arrives in Tenerife for evacuation",
+      "summary": "Passengers with symptoms could be sent to isolation on the island, health officials warn",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b5fdd84f-69bd-47ae-bd7b-df30ba3d758c",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "06:33",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-05-10-736796d1",
+      "headline": "US Awaits Iran Reply as Aramco Says Hormuz Opening No Quick Fix",
+      "summary": "The wait stretched on for Iran’s response to a US proposal to end 10 weeks of war, as the world’s largest oil company warned it would take months for the market to return to normal even if the Strait of Hormuz reopened immediately.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/us-awaits-iran-reply-as-aramco-says-hormuz-opening-no-quick-fix",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "07:52",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
+      "id": "2026-05-10-314718d3",
+      "headline": "Aramco CEO Warns of Long Oil Market Disruption as Profit Jumps",
+      "summary": "Saudi Aramco’s boss warned of a long disruption to oil markets from the near closure of the Strait of Hormuz, while the company reported a jump in profit following higher prices and its ability to redirect exports via a pipeline bypassing the vital waterway.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-10/aramco-profit-climbs-as-war-driven-oil-rise-offsets-export-hit",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-05-10",
+      "time": "05:11",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-10-295f8d6f",
@@ -60,6 +130,34 @@
       "score": 32.0
     },
     {
+      "id": "2026-05-10-daf4618c",
+      "headline": "Hantavirus-hit cruise ship arrives in Tenerife with Spanish passengers to be evacuated first – Europe live",
+      "summary": "Spanish health officials says all 146 passengers remain asymptomatic as vessel arrives in Tenerife waters Good morning, and welcome to our Europe live blog. Spanish health ​officials have said all the passengers on the ‌hantavirus-stricken MV Hondius remain asymptomatic after the vessel arrived in Tenerife on Sunday, almost a month after the first passenger died of the rodent-borne disease on board the ship.“The anchoring has been a success despi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/10/hantavirus-cruise-ship-rat-spain-tenerife-russia-ukraine-putin-zelenskyy-war-europe-latest-news-updates",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-05-10",
+      "time": "08:11",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-05-10-aec89cd4",
+      "headline": "Trump visits China, vote on Sara Duterte impeachment, SoftBank earnings",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/trump-visits-china-vote-on-sara-duterte-impeachment-softbank-earnings",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-05-10",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
       "id": "2026-05-10-1f4e7f5b",
       "headline": "Oil crisis sparks Japanese dash for corporate credit lines",
       "summary": "",
@@ -82,20 +180,6 @@
       "region": "NA",
       "country": "Washington",
       "category": "politics",
-      "date": "2026-05-10",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-05-10-d5adf642",
-      "headline": "European carmakers take €8bn hit from Trump tariffs",
-      "summary": "US president has threatened to raise levies to 25% if EU does not implement last year’s trade deal",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bc9b78d2-cb92-4607-b9a0-f10c330f24d3",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
       "date": "2026-05-10",
       "time": "04:00",
       "conflict_id": null,
@@ -144,6 +228,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-05-10-cdbb25df",
+      "headline": "Led by industry, Japan and Taiwan plant seeds of drone cooperation",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/led-by-industry-japan-and-taiwan-plant-seeds-of-drone-cooperation",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-10",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-05-10-48463d87",
       "headline": "China's aggressive squid fishing linked to sharp drops in catches",
       "summary": "",
@@ -158,14 +256,14 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-10-d2ca06ca",
-      "headline": "China's exports rise 14% in April despite geopolitical uncertainty",
+      "id": "2026-05-10-2ffc35b6",
+      "headline": "NATO and Japan weigh shared use of satellite launch sites",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/trade/china-s-exports-rise-14-in-april-despite-geopolitical-uncertainty",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
+      "url": "https://asia.nikkei.com/politics/international-relations/nato-and-japan-weigh-shared-use-of-satellite-launch-sites",
+      "region": "EU",
+      "country": "Japan",
+      "category": "politics",
       "date": "2026-05-10",
       "time": "",
       "conflict_id": null,
@@ -228,20 +326,6 @@
       "score": 67.4
     },
     {
-      "id": "2026-05-09-a4e903ee",
-      "headline": "Russia will always be victorious, says Putin at scaled-back Victory Day parade",
-      "summary": "Moscow blanketed in heavy security despite last-minute announcement of three-day ceasefire with UkraineVladimir Putin has declared Russia will always be victorious as he oversaw a scaled-back Victory Day parade on Red Square held under heavy security amid mounting fears of Ukrainian attacks and growing public fatigue with the war.Speaking to the crowd, the Russian leader invoked the sacrifices of the second world war to rally support for his sold",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/russia-putin-moscow-victory-day-parade-scaled-back",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "13:46",
-      "conflict_id": null,
-      "score": 64.0
-    },
-    {
       "id": "2026-05-09-ac308ca9",
       "headline": "US says the fragile truce with Iran holds as it awaits response to its latest ceasefire proposal",
       "summary": "Washington insists its month-long ceasefire with Iran is continuing to hold despite renewed hostilities and the recent exchanges of fire. The US says it is awaiting Iran’s response to its latest ceasefire proposal to end the war.",
@@ -253,7 +337,21 @@
       "date": "2026-05-09",
       "time": "13:01",
       "conflict_id": null,
-      "score": 53.0
+      "score": 61.0
+    },
+    {
+      "id": "2026-05-09-50b9427f",
+      "headline": "Lebanon says Israeli strikes killed 39",
+      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-09",
+      "time": "21:23",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-05-09-2badae31",
@@ -270,34 +368,6 @@
       "score": 50.1
     },
     {
-      "id": "2026-05-09-c09def31",
-      "headline": "UK Moves Warship to Middle East for Potential Hormuz Mission",
-      "summary": "The UK will deploy one of its warships to the Middle East as part of planning for a European-led mission to escort ships through the Strait of Hormuz once there’s a stable ceasefire.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-09/uk-moves-warship-to-middle-east-for-potential-hormuz-mission",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-05-09-b7f0b3e8",
-      "headline": "Putin vows victory in Ukraine and targets NATO at Moscow's scaled-back parade",
-      "summary": "In Moscow, a scaled-down Victory Day parade was held under tight security, without military hardware, amid fears of possible Ukrainian drone attacks. The Russian president denounced NATO in his speech.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/09/moscow-holds-45-minute-victory-day-parade",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "08:53",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-05-09-cac310cc",
       "headline": "Israeli settlers force Palestinian family to exhume and rebury their father",
       "summary": "UN condemns confrontation in occupied West Bank as &#039;appalling and emblematic of the dehumanisation of Palestinians&#039;.",
@@ -310,62 +380,6 @@
       "time": "19:16",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-05-09-50b9427f",
-      "headline": "Lebanon says Israeli strikes killed 39",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "21:23",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-09-ee08db1e",
-      "headline": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
-      "summary": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "14:03",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-09-ab500537",
-      "headline": "Steve Rosenberg: This year's Victory Day parade in Moscow felt very different",
-      "summary": "The BBC's Russia editor reports from a Red Square with none of the military hardware which the Kremlin normally showcases to project power internationally.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9pem481rwo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "17:25",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-09-6a9202d6",
-      "headline": "Tenerife prepares to evacuate hantavirus cruise ship",
-      "summary": "Passengers with symptoms could be sent to isolation on the island, health officials warn",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b5fdd84f-69bd-47ae-bd7b-df30ba3d758c",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "15:50",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-05-09-fc78e399",
@@ -410,18 +424,32 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-09-2b0794b3",
-      "headline": "‘This is not another Covid,’ WHO chief tells Tenerife as hantavirus cruise ship heads to island – as it happened",
-      "summary": "This live blog is now closedThe interior minister of Spain told Reuters on Saturday that Germany, France, Belgium, Ireland and the Netherlands have confirmed they will send planes to repatriate nationals from their respective countries aboard the cruise ship hit by a hantavirus outbreak.The European Union is sending two more planes for the remaining European citizens, and the US and UK have also confirmed planes and contingency plans for non-EU c",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/09/peter-magyar-hungary-russia-ukraine-ceasefire-moscow-victory-day-parade-europe-latest-news-updates",
+      "id": "2026-05-09-0b8e65c7",
+      "headline": "International cyber attack disrupts swathe of universities and schools",
+      "summary": "A hacking group breached the academic software Canvas, used by thousands of schools and universities across the globe.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pq0136eqo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Netherlands",
-      "category": "politics",
+      "country": null,
+      "category": "geopolitics",
       "date": "2026-05-09",
-      "time": "14:23",
+      "time": "01:17",
       "conflict_id": null,
-      "score": 40.0
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-09-ee08db1e",
+      "headline": "UK warship HMS Dragon heads to Middle East for potential Strait of Hormuz mission",
+      "summary": "The Ministry of Defence says the ship will prepare to join an international mission to safeguard shipping, but only when fighting in the region ends.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4g42j15p7qo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-09",
+      "time": "14:03",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-09-181cdb94",
@@ -634,20 +662,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-05-09-9e44f3e3",
-      "headline": "Danish rightwing leader asked to form government after Frederiksen fails to form coalition",
-      "summary": "Denmark’s king asks Troels Lund Poulsen to form government after PM struggles to gather supportThe king of Denmark has asked a centre-right politician to try to form a new government after the prime minister, Mette Frederiksen, has failed to put together a ruling coalition.The announcement on Friday night shook the political establishment as Frederiksen has been a staple of Danish politics for decades. Her left-leaning party, the Social Democrats",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/09/danish-rightwing-leader-troeld-lund-poulsen-form-government-mette-frederiksen-fails-coalition",
-      "region": "EU",
-      "country": "Denmark",
-      "category": "politics",
-      "date": "2026-05-09",
-      "time": "14:17",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-05-09-56d9bda8",
       "headline": "Missing Singaporeans Located Near Mt. Dukono Crater Rim",
       "summary": "Indonesian authorities locate missing Singaporeans after Mount Dukono eruption.",
@@ -658,34 +672,6 @@
       "category": "business",
       "date": "2026-05-09",
       "time": "19:02",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-09-9647b825",
-      "headline": "Syria and Lebanon make ‘significant progress’ at talks on joint interests",
-      "summary": "In Damascus, Lebanese prime minister and Syrian president discuss issues including security, transport and energy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/syria-and-lebanon-make-significant-progress-at-talks-on-joint-interests?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "politics",
-      "date": "2026-05-09",
-      "time": "17:50",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-09-53d41edd",
-      "headline": "Parent company of Trump’s Truth Social site reports $400m loss this year",
-      "summary": "Losses driven largely by depreciation of cryptocurrency assets as prices of digital currencies tumble.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/9/parent-company-of-trumps-truth-social-site-reports-400m-loss-this-year?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-09",
-      "time": "17:47",
       "conflict_id": null,
       "score": 23.4
     },
@@ -704,6 +690,20 @@
       "score": 21.0
     },
     {
+      "id": "2026-05-09-41b64fcc",
+      "headline": "Cattle theft in Germany: organised gangs target farms",
+      "summary": "Livestock theft is becoming a problem in German agriculture, with entire herds disappearing overnight in some cases. In addition to financial losses, the offences also have an emotional impact on farmers. Investigators believe that organised gangs from abroad are involved.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/09/cattle-theft-in-germany-organised-gangs-target-farms",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-05-09",
+      "time": "16:48",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-05-09-46ee7894",
       "headline": "Libya launches major security operation in Zawiya after clashes near key oil refinery",
       "summary": "In Zawiya, home to one of the oil-rich country’s biggest refineries, rival gangs clash over the trafficking of fuel and commercial goods into neighbouring Tunisia.",
@@ -716,6 +716,20 @@
       "time": "13:25",
       "conflict_id": null,
       "score": 21.0
+    },
+    {
+      "id": "2026-05-08-837b7075",
+      "headline": "The WW2 spy killed in mystery crash days after the war ended",
+      "summary": "Jacques Vaillant de Guélis was born in Cardiff but served as a French operative behind enemy lines.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9d3y1y3036o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-08",
+      "time": "05:14",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-08-55cd34df",
@@ -872,6 +886,20 @@
       "score": 59.0
     },
     {
+      "id": "2026-05-07-62b58b04",
+      "headline": "Ukraine war 'led me to surrogacy' to earn money but a new law could end those plans",
+      "summary": "Ukraine is considering a law that would effectively ban foreigners from accessing surrogacy in the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp4kp687go?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-07",
+      "time": "05:02",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-05-07-106d6484",
       "headline": "Trump's 'irresponsible war' to blame for economic slowdown, German minister says",
       "summary": "Finance Minister Lars Klingbeil blamed the US president's \"irresponsible war in Iran\" for harming the Germany economy.",
@@ -1010,34 +1038,6 @@
       "time": "19:44",
       "conflict_id": null,
       "score": 49.8
-    },
-    {
-      "id": "2026-05-06-bffc6a21",
-      "headline": "China calls for Strait to be reopened 'as soon as possible' in Iran talks",
-      "summary": "Wang Yi is holding talks with Iran's foreign minister Aragchi who is on his first trip to China since the war began.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0m21mndm71o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "09:35",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-06-da7f784e",
-      "headline": "Trump says US to pause operation to guide vessels through Strait of Hormuz",
-      "summary": "\"Project Freedom\", which began on Monday, will be halted because progress has been made toward a deal with Iran, the US president says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypekl71gdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-06",
-      "time": "02:18",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-06-62b68264",
