@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-15T20:36:35.313267+00:00",
-  "story_count": 84,
+  "updated": "2026-05-15T21:39:07.646862+00:00",
+  "story_count": 83,
   "source_count": 10,
   "stories": [
     {
@@ -27,9 +27,23 @@
       "country": "Beijing",
       "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "17:50",
+      "time": "21:28",
       "conflict_id": null,
-      "score": 67.0
+      "score": 68.0
+    },
+    {
+      "id": "2026-05-15-13050511",
+      "headline": "Israel says it has killed Hamas commander in Gaza air strike",
+      "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "19:38",
+      "conflict_id": "israel-hamas",
+      "score": 63.0
     },
     {
       "id": "2026-05-15-50eb69a1",
@@ -46,6 +60,20 @@
       "score": 60.0
     },
     {
+      "id": "2026-05-15-f84898d4",
+      "headline": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+      "summary": "Three women and a child among civilians killed in Israel&#039;s latest attacks on Gaza City.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "21:05",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
+    {
       "id": "2026-05-15-413770cd",
       "headline": "Trump undecided on Taiwan arms sale after summit with Xi",
       "summary": "US president raises doubts about $14bn weapons package for Taipei after two days of meetings in China",
@@ -57,7 +85,7 @@
       "date": "2026-05-15",
       "time": "19:50",
       "conflict_id": null,
-      "score": 58.4
+      "score": 59.4
     },
     {
       "id": "2026-05-15-2470c4ae",
@@ -72,6 +100,20 @@
       "time": "13:15",
       "conflict_id": "israel-hamas",
       "score": 57.0
+    },
+    {
+      "id": "2026-05-15-a27c1cdb",
+      "headline": "What did Trump and Xi discuss during the China summit?",
+      "summary": "US President Donald Trump concluded a two-day summit in Beijing with Chinese leader Xi Jinping.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
+      "region": "NA",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "20:43",
+      "conflict_id": null,
+      "score": 56.4
     },
     {
       "id": "2026-05-15-32267980",
@@ -100,20 +142,6 @@
       "time": "16:34",
       "conflict_id": null,
       "score": 55.4
-    },
-    {
-      "id": "2026-05-15-13050511",
-      "headline": "Israel says it has killed Hamas commander in Gaza air strike",
-      "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "19:38",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
     },
     {
       "id": "2026-05-15-b564b404",
@@ -153,7 +181,7 @@
       "country": "Trump",
       "category": "business",
       "date": "2026-05-15",
-      "time": "15:03",
+      "time": "21:36",
       "conflict_id": null,
       "score": 51.0
     },
@@ -209,7 +237,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "19:55",
+      "time": "21:04",
       "conflict_id": null,
       "score": 49.2
     },
@@ -256,6 +284,20 @@
       "score": 47.4
     },
     {
+      "id": "2026-05-15-2aea4a53",
+      "headline": "What is the 'Thucydides Trap' that Xi invoked in his meeting with Trump?",
+      "summary": "Xi Jinping opened his Beijing summit with Trump by asking whether the two powers could avoid the \"Thucydides Trap\" — then warned that mishandling Taiwan could lead to war.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/15/what-is-the-thucydides-trap-that-xi-invoked-in-his-meeting-with-trump",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "14:44",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-05-15-a8e58450",
       "headline": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
       "summary": "Ukraine has prevented Russian arms and fuel from reaching the front line in a successful disruption campaign.",
@@ -268,6 +310,20 @@
       "time": "17:32",
       "conflict_id": "ukraine-war",
       "score": 43.4
+    },
+    {
+      "id": "2026-05-15-82f13b1e",
+      "headline": "Watch: What did we learn from Trump's visit to China?",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "13:25",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-15-78563737",
@@ -298,6 +354,20 @@
       "score": 41.0
     },
     {
+      "id": "2026-05-15-bd807a1d",
+      "headline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
+      "summary": "US president has said he and Chinese leader ‘settled a lot of different problems’ but has given little detail on solutionsTrump China visit live – latest updatesDonald Trump’s whirlwind trip to Beijing – the first US presidential visit in nearly a decade – wrapped up with much fanfare but little clarity about what was actually achieved.Trump said on Friday he and Xi Jinping, China’s leader, “settled a lot of different problems that other people w",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
+      "region": "NA",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "13:37",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-05-15-7d466f7c",
       "headline": "Secret documents reveal preferred Australian nuclear submarine base – and warn it could be a military target",
       "summary": "Port Kembla residents will likely resist base due to risk of nuclear accident and potential as target for ‘military adversaries’, documents stateGet our breaking news email, free app or daily news podcastA proposed nuclear submarine base in Port Kembla “could be a target for Australian military adversaries”, previously secret New South Wales government documents have revealed.The documents, prepared by the NSW cabinet office and premier’s departm",
@@ -312,32 +382,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-15-1fa91d86",
-      "headline": "Editor's Choice: Xi's Taiwan warning steals the headlines in first round of US-China summit",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/editor-s-picks/editor-in-chief-s-picks/editor-s-choice-xi-s-taiwan-warning-steals-the-headlines-in-first-round-of-us-china-summit",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 38.8
-    },
-    {
-      "id": "2026-05-15-2aea4a53",
-      "headline": "What is the 'Thucydides Trap' that Xi invoked in his meeting with Trump?",
-      "summary": "Xi Jinping opened his Beijing summit with Trump by asking whether the two powers could avoid the \"Thucydides Trap\" — then warned that mishandling Taiwan could lead to war.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/15/what-is-the-thucydides-trap-that-xi-invoked-in-his-meeting-with-trump",
+      "id": "2026-05-15-816fdf95",
+      "headline": "What China critics in Maga movement make of Trump's Beijing trip",
+      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
       "region": "APJ",
       "country": "Beijing",
       "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "14:44",
+      "time": "19:52",
       "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
     },
     {
       "id": "2026-05-15-c48486a9",
@@ -350,20 +406,6 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "12:33",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-82f13b1e",
-      "headline": "Watch: What did we learn from Trump's visit to China?",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "13:25",
       "conflict_id": null,
       "score": 35.0
     },
@@ -396,18 +438,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-15-655abb90",
-      "headline": "Venezuela Kickstarts $170B Debt Restructuring Process",
-      "summary": "Bloomberg's Maria Elena Vizcaino joins Scarlet Fu on \"Bloomberg Real Yield.\" Venezuela hired a financial adviser as it launches one of the world’s largest-ever debt restructurings, aiming to rework an estimated $170 billion of defaulted bonds and loans.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-15/venezuela-kickstarts-170b-debt-restructuring-process-video",
-      "region": "SA",
-      "country": "Venezuela",
+      "id": "2026-05-15-e625f594",
+      "headline": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
+      "summary": "Gov. Jared Polis, a Democrat, commuted the sentence of Ms. Peters, a former county clerk serving a nine-year sentence for her role in a plot to examine voting machines after the 2020 election.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html",
+      "region": "NA",
+      "country": null,
       "category": "politics",
       "date": "2026-05-15",
-      "time": "17:57",
+      "time": "21:24",
       "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
     },
     {
       "id": "2026-05-15-7d251c5a",
@@ -424,23 +466,23 @@
       "score": 32.9
     },
     {
-      "id": "2026-05-15-bd807a1d",
-      "headline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
-      "summary": "US president has said he and Chinese leader ‘settled a lot of different problems’ but has given little detail on solutionsTrump China visit live – latest updatesDonald Trump’s whirlwind trip to Beijing – the first US presidential visit in nearly a decade – wrapped up with much fanfare but little clarity about what was actually achieved.Trump said on Friday he and Xi Jinping, China’s leader, “settled a lot of different problems that other people w",
+      "id": "2026-05-15-ca8b1733",
+      "headline": "Colorado governor Jared Polis commutes sentence of Tina Peters, saying prison term for election interference was too long – live",
+      "summary": "Peters, a Trump ally who backed the president’s false claims about the 2020 election, was found guilty in 2024 of allowing unauthorized access to county’s voting equipmentColorado governor commutes sentence of election denier Tina PetersSign up for the Breaking News US emailJamieson Greer also said US export controls on semiconductor chips were not a major topic of discussions with Chinese officials in Beijing.The US trade representative’s commen",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
+      "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
       "region": "NA",
       "country": "Beijing",
       "category": "politics",
       "date": "2026-05-15",
-      "time": "13:37",
+      "time": "21:25",
       "conflict_id": null,
       "score": 32.0
     },
     {
       "id": "2026-05-15-1c40e31a",
       "headline": "Angus Taylor says migrants are a ‘net drain’ on Australia. The numbers say the opposite is true",
-      "summary": "Migrants are generally younger than the average Australian, are skilled and more educated. And they typically pay more tax than they receive in benefitsGet our breaking news email, free app or daily news podcastAngus Taylor’s thinly veiled attempt to paint migrants as bludgers is not supported by the facts. The typical migrant over their lifetimes pays more in taxes than they receive in government services.Far from lobbing up on our shores and de",
+      "summary": "Migrants are generally younger than the average Australian, are skilled and more educated. And they typically pay more tax than they receive in benefitsGet our breaking news email, free app or daily news podcastAngus Taylor’s thinly veiled attempt to paint migrants as bludgers is not supported by the facts. The typical migrant over their lifetime pays more in taxes than they receive in government services.Far from lobbing up on our shores and dem",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/may/15/angus-taylor-says-migrants-are-a-net-drain-on-australia-the-numbers-say-the-opposite-is-true",
       "region": "NA",
@@ -450,20 +492,6 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-05-15-0feab3b1",
-      "headline": "Trump-Xi summit more symbol than substance, political experts say",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-more-symbol-than-substance-political-experts-say",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
     },
     {
       "id": "2026-05-15-47d21d92",
@@ -488,20 +516,6 @@
       "region": "APJ",
       "country": null,
       "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-05-15-477240f9",
-      "headline": "Trump-Xi summit live: US president discusses outcomes aboard Air Force One",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-live-us-president-discusses-outcomes-aboard-air-force-one",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
       "date": "2026-05-15",
       "time": "",
       "conflict_id": null,
@@ -564,18 +578,32 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-15-a62753a4",
-      "headline": "Small financial group close to Trump family plots $200mn Venezuela Spac deal",
-      "summary": "Yorkville seeks investment to capitalise on improving ‘commercial conditions’ in Latin America",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7e477ce5-2096-4650-82ec-537febaea054",
-      "region": "NA",
-      "country": "Latin America",
+      "id": "2026-05-15-d963b1e2",
+      "headline": "Argentina’s YPF Seeks Incentive Program for $25 Billion Oil Project",
+      "summary": "State-run Argentine energy giant YPF SA announced a $25 billion project to accelerate oil production, marking the largest investment since President Javier Milei took office.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/argentina-s-ypf-seeks-incentives-for-25-billion-oil-project",
+      "region": "SA",
+      "country": "Argentina",
       "category": "business",
       "date": "2026-05-15",
-      "time": "15:12",
+      "time": "20:23",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-15-4a3cc515",
+      "headline": "Equities & Bonds Take a Hit To Close the Week | Closing Bell",
+      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/equities-bonds-take-a-hit-to-close-the-week-closing-bell",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-15",
+      "time": "21:05",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-15-77458c1c",
@@ -592,6 +620,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-15-338a4a28",
+      "headline": "The Global Bond Rout Catches Up With Wall Street’s Risk Rally",
+      "summary": "Wall Street’s hard-charging risk rally just ran into the bond market.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/the-global-bond-rout-catches-up-with-wall-street-s-risk-rally",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-15",
+      "time": "20:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-15-756720ed",
       "headline": "Traders Dump Chipmakers as Rising Yields Drive US Stock Selloff",
       "summary": "Wall Street offloaded semiconductor companies and other high-flying technology shares Friday following a weeks-long, record-setting rally as rising bond yields curbed investors’ appetite for risky bets.",
@@ -602,20 +644,6 @@
       "category": "business",
       "date": "2026-05-15",
       "time": "12:26",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-15-63058219",
-      "headline": "Argentina’s YPF Seeks Incentives for $25 Billion Oil Project",
-      "summary": "State-run Argentine energy giant YPF SA announced a $25 billion project to accelerate oil production in the country, marking the largest investment since President Javier Milei took office.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/argentina-s-ypf-seeks-incentives-for-25-billion-oil-project",
-      "region": "SA",
-      "country": "Argentina",
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "20:23",
       "conflict_id": null,
       "score": 26.1
     },
@@ -648,20 +676,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-15-8d8b0392",
-      "headline": "Wall Street Prices Out Rate Cuts, Eyes Hikes, Global Bond Selloff Deepens | Real Yield 5/15/2026",
-      "summary": "\"Bloomberg Real Yield\" highlights the market-moving news you need to know. Today's guests: Columbia Threadneedle Portfolio Manager, Total Return Bond Ed Al-Hussainy, JPMorgan Management CIO of US GFICC Kay Herr, CreditSights Global Head of Credit Strategy Winnie Cisar, and Ironsides Macroeconomics Director of Research Barry Knapp. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-15/real-yield-5-15-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "19:32",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-15-22a04515",
       "headline": "Morgan Stanley Sees $200 Billion in Hedging Boosting Euro",
       "summary": "The euro could climb to levels last seen five years ago as a drop in hedging costs would drive flows of more than $200 billion and prop up the currency, according to Morgan Stanley.",
@@ -685,7 +699,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-05-15",
-      "time": "18:46",
+      "time": "21:25",
       "conflict_id": null,
       "score": 25.2
     },
@@ -718,6 +732,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-05-15-fe76b350",
+      "headline": "Cuba hit by protests, blackouts amid oil shortage",
+      "summary": "Cubans lit fires in Havana’s streets to protest electricity blackouts.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "20:40",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-05-15-63f1fecd",
       "headline": "UAE to accelerate oil pipeline project to bypass Strait of Hormuz",
       "summary": "The crown prince of the UAE says the project would help &#039;meet global demands&#039;.",
@@ -730,6 +758,20 @@
       "time": "16:48",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-05-15-00f2db1d",
+      "headline": "Japan oil wholesalers use ship-to-ship transfers to receive Middle East crude",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/japan-oil-wholesalers-use-ship-to-ship-transfers-to-receive-middle-east-crude",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-15",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-15-f4abe8c4",
@@ -767,20 +809,6 @@
       "url": "https://asia.nikkei.com/business/markets/japan-and-south-korea-tech-stocks-swoon-and-bond-yields-soar",
       "region": "APJ",
       "country": "South Korea",
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-15-2f745ac4",
-      "headline": "Malaysia's Q1 GDP growth slows to 5.4% as cost pressures loom",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/malaysia-s-q1-gdp-growth-slows-to-5.4-as-cost-pressures-loom",
-      "region": "APJ",
-      "country": "Malaysia",
       "category": "business",
       "date": "2026-05-15",
       "time": "",
@@ -842,20 +870,6 @@
       "time": "11:46",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-14-95083344",
-      "headline": "Why Modi wants Indians to buy less gold and take fewer foreign holidays",
-      "summary": "Modi has urged Indians to save dollars as war and oil shocks strain the rupee and economy further this year.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c775v7dlndyo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-05-14",
-      "time": "23:49",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-14-f2f9c868",
@@ -1068,20 +1082,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-12-46d758f7",
-      "headline": "Indigenous Australians win record A$150m after billionaire mined without permission",
-      "summary": "The Yindjibarndi people had sought A$1.8bn compensation for cultural damage and economic loss.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgkp3z1p7zdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-05-12",
-      "time": "09:07",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-12-7c54c6ec",
       "headline": "Australia has some of the world's costliest homes. Will scrapping tax breaks help?",
       "summary": "The government hopes reforms will help young people enter the market, while critics say it will stifle supply.",
@@ -1164,20 +1164,6 @@
       "time": "18:32",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-05-09-50b9427f",
-      "headline": "Lebanon says Israeli strikes killed 39",
-      "summary": "Israel and Hezbollah have continued to trade fire despite a ceasefire deal being announced last month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn4pjegk358o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-09",
-      "time": "21:23",
-      "conflict_id": null,
-      "score": 43.0
     }
   ]
 }
