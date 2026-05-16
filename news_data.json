@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-16T19:45:01.198072+00:00",
-  "story_count": 80,
-  "source_count": 9,
+  "updated": "2026-05-16T20:29:08.536913+00:00",
+  "story_count": 82,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-05-16-9669b995",
@@ -46,6 +46,20 @@
       "score": 59.4
     },
     {
+      "id": "2026-05-16-231d83e6",
+      "headline": "Taiwan insists it is independent after Trump warning",
+      "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "17:01",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-05-16-91705ce5",
       "headline": "Trump Says US Forces, Nigeria Military Killed ISIS Leader",
       "summary": "US and Nigerian forces killed an ISIS leader who was hiding in Africa, President Donald Trump said, adding that his death has “greatly diminished” the group’s global operations.",
@@ -60,20 +74,6 @@
       "score": 58.1
     },
     {
-      "id": "2026-05-16-231d83e6",
-      "headline": "Taiwan insists it is independent after Trump warning",
-      "summary": "Fresh from his summit in Beijing, the US president warned against a formal declaration of independence by the island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx2132w81jqo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-05-16",
-      "time": "17:01",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-05-16-49fb483b",
       "headline": "Israel kills last Hamas chief who oversaw October 7 attack",
       "summary": "Death of Izz al-Din al-Haddad in an air strike piles greater pressure on fragile ceasefire",
@@ -86,6 +86,20 @@
       "time": "15:38",
       "conflict_id": null,
       "score": 50.4
+    },
+    {
+      "id": "2026-05-16-abc4c953",
+      "headline": "Russia launches nearly 300 drones at Ukraine as 528 bodies of Ukrainian soldiers are returned",
+      "summary": "Russian forces launched hundreds of strikes across Ukraine overnight, with direct hits by drones recorded at 15 locationsm Ukraine's Air Force said. Meanwhile, the bodies of 528 Ukrainian soldiers were returned a day after Russia and Ukraine exchanged prisoners of war.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/16/russia-launches-nearly-300-drones-at-ukraine-as-528-bodies-of-ukrainian-soldiers-are-retur",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "11:24",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-05-16-d870456a",
@@ -114,6 +128,20 @@
       "time": "11:44",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-05-16-735762d2",
+      "headline": "Latvia’s President Nominates Kulbergs to Form New Government",
+      "summary": "Latvia’s President Edgars Rinkevics nominated Andris Kulbergs of the United List party to form a new government after Prime Minister Evika Silina resigned on Thursday following a row over how the armed forces handled a drone incursion last week.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/latvia-s-president-nominates-kulbergs-to-form-new-government",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-16",
+      "time": "13:39",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-05-16-ad787fa6",
@@ -200,6 +228,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-05-16-c81dbb41",
+      "headline": "Putin to visit China days after Trump's Beijing trip, Kremlin says",
+      "summary": "Putin and Chinese President Xi Jinping will discuss ways to deepen their countries' \"comprehensive partnership and strategic cooperation,\" the Kremlin said.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/16/putin-to-visit-china-days-after-trumps-beijing-trip-kremlin-says",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "10:19",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-05-16-43e626f2",
       "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
       "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
@@ -238,20 +280,6 @@
       "category": "politics",
       "date": "2026-05-16",
       "time": "15:40",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-16-735762d2",
-      "headline": "Latvia’s President Nominates Kulbergs to Form New Government",
-      "summary": "Latvia’s President Edgars Rinkevics nominated Andris Kulbergs of the United List party to form a new government after Prime Minister Evika Silina resigned on Thursday following a row over how the armed forces handled a drone incursion last week.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-16/latvia-s-president-nominates-kulbergs-to-form-new-government",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-16",
-      "time": "13:39",
       "conflict_id": null,
       "score": 34.1
     },
@@ -340,6 +368,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-05-16-c668a8ba",
+      "headline": "Latvia’s president asks opposition leader to form new government",
+      "summary": "If opposition leader Kulbergs were to form a government, the cabinet lineup would need to be approved by parliament.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/latvias-president-asks-opposition-leader-to-form-new-government?traffic_source=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-16",
+      "time": "19:22",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-05-16-1b60c460",
       "headline": "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
       "summary": "Pressure mounts on Starmer&#039;s government, as Labour rivals including recently resigned Wes Streeting circle.",
@@ -350,6 +392,20 @@
       "category": "politics",
       "date": "2026-05-16",
       "time": "17:32",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-05-16-0ea10a36",
+      "headline": "Tens of thousands march in London in far-right and pro-Palestine protests",
+      "summary": "British capital sees heightened security as right wing rally takes place at the same time as Nakba Day march.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
+      "region": "MENA",
+      "country": "Palestine",
+      "category": "politics",
+      "date": "2026-05-16",
+      "time": "13:59",
       "conflict_id": null,
       "score": 31.4
     },
@@ -424,20 +480,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-16-38b8312e",
-      "headline": "NextEra Energy Is Said to Be in Talks to Acquire Dominion",
-      "summary": "NextEra Energy Inc. is in discussions to acquire utility rival Dominion Energy Inc. in a mostly stock deal aimed at helping address the growing demand for power from data centers, according to a person familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-16/nextera-energy-is-said-to-be-in-talks-to-acquire-dominion-energy",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-16",
-      "time": "01:39",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-16-4506f0e8",
       "headline": "A Bitter Land Commissioner Race in New Mexico Over 9 Million Acres",
       "summary": "A Republican candidate for the state land commissioner post has Democrats worried that protected state and federal land could be opened to industry.",
@@ -464,6 +506,20 @@
       "time": "00:05",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-05-16-244782c3",
+      "headline": "Can new Pakistan-Afghanistan tensions lead to another border clash?",
+      "summary": "Both sides target each other despite a pause in fighting mediated in March.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/5/16/can-new-pakistan-afghanistan-tensions-lead-to-another-border-clash?traffic_source=rss",
+      "region": "SA",
+      "country": "Afghanistan",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-16-2db57195",
@@ -494,18 +550,32 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-16-0ea10a36",
-      "headline": "Tens of thousands march in London in far-right and pro-Palestine protests",
-      "summary": "British capital sees heightened security as right wing rally takes place at the same time as Nakba Day march.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/tens-of-thousands-march-in-london-in-far-right-and-pro-palestine-protests?traffic_source=rss",
-      "region": "MENA",
-      "country": "Palestine",
+      "id": "2026-05-16-618b2f39",
+      "headline": "Cricket diplomacy is helping India and Pakistan play on a sticky wicket",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/opinion/cricket-diplomacy-is-helping-india-and-pakistan-play-on-a-sticky-wicket",
+      "region": "SA",
+      "country": "Pakistan",
       "category": "politics",
       "date": "2026-05-16",
-      "time": "13:59",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
+    },
+    {
+      "id": "2026-05-16-5141ece6",
+      "headline": "Japan's SBI, Rakuten to sell crypto investment trusts developed in-house",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/cryptocurrencies/japan-s-sbi-rakuten-to-sell-crypto-investment-trusts-developed-in-house",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-16",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-16-2decb465",
@@ -592,6 +662,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-15-816fdf95",
+      "headline": "What China critics in Maga movement make of Trump's Beijing trip",
+      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "19:52",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-15-82f13b1e",
+      "headline": "Watch: What did we learn from Trump's visit to China?",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "13:25",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-15-746b6b2c",
       "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
       "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
@@ -644,34 +742,6 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "23:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-816fdf95",
-      "headline": "What China critics in Maga movement make of Trump's Beijing trip",
-      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "19:52",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-82f13b1e",
-      "headline": "Watch: What did we learn from Trump's visit to China?",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "13:25",
       "conflict_id": null,
       "score": 35.0
     },
@@ -746,18 +816,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-15-6b333f0e",
-      "headline": "Xi takes Trump on tour of Communist Party's seat of power in Beijing",
-      "summary": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
+      "id": "2026-05-15-2c4a456e",
+      "headline": "Federal civil rights watchdog wants to stop tracking data on race and sex",
+      "summary": "The EEOC has proposed ending a civil-rights-era program collecting demographic information from private companies.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/15/federal-civil-rights-watchdog-wants-stop-tracking-data-race-sex/",
+      "region": "NA",
+      "country": null,
+      "category": "business",
       "date": "2026-05-15",
-      "time": "09:17",
+      "time": "21:28",
       "conflict_id": null,
-      "score": 27.0
+      "score": 24.9
     },
     {
       "id": "2026-05-15-b15ea7d7",
@@ -802,20 +872,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-14-ba1c5cdf",
-      "headline": "'Door is open' for Canada to join Eurovision",
-      "summary": "Prime Minister Mark Carney has already floated the idea of Canada joining the song contest.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1k2z1lv4d3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-05-14",
-      "time": "17:40",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-14-71c80607",
       "headline": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
       "summary": "Russia launched one of the biggest air strikes on Kyiv since the start of the war with several apartment blocks hit.",
@@ -842,20 +898,6 @@
       "time": "05:48",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-14-63a276d7",
-      "headline": "Canada is welcome to join Eurovision, says song contest director",
-      "summary": "‘We know that Mark Carney wants to sort of embrace Europe,’ says competition director Martin GreenCanada is welcome to join Eurovision if it wishes, its director has said, months after the country revealed it wanted to “explore” joining the song contest in its federal budget.Eurovision director Martin Green told the BBC on Wednesday that Canada hadn’t yet applied, but would be welcome to. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/may/15/canada-eurovision-song-contest",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-14",
-      "time": "23:58",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-05-14-fc96d314",
@@ -994,20 +1036,6 @@
       "category": "politics",
       "date": "2026-05-12",
       "time": "11:00",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-12-917ebca7",
-      "headline": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
-      "summary": "More than 40 nations are involved in the mission, which the Ministry of Defence says will begin when conditions allow.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "19:31",
       "conflict_id": null,
       "score": 35.0
     },
