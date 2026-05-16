@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-16T11:16:41.785303+00:00",
-  "story_count": 79,
+  "updated": "2026-05-16T12:11:12.212025+00:00",
+  "story_count": 78,
   "source_count": 10,
   "stories": [
     {
@@ -29,7 +29,21 @@
       "date": "2026-05-16",
       "time": "05:53",
       "conflict_id": null,
-      "score": 67.0
+      "score": 59.0
+    },
+    {
+      "id": "2026-05-16-49fb483b",
+      "headline": "Israel kills last Hamas chief who oversaw October 7 attack",
+      "summary": "Death of Izz al-Din al-Haddad in an air strike piles greater pressure on fragile ceasefire",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "11:54",
+      "conflict_id": null,
+      "score": 58.4
     },
     {
       "id": "2026-05-16-91705ce5",
@@ -88,6 +102,20 @@
       "score": 51.4
     },
     {
+      "id": "2026-05-16-abc4c953",
+      "headline": "Russia launches nearly 300 drones at Ukraine as 528 bodies of Ukrainian soldiers are returned",
+      "summary": "Russian forces launched hundreds of strikes across Ukraine overnight, with direct hits by drones recorded at 15 locationsm Ukraine's Air Force said. Meanwhile, the bodies of 528 Ukrainian soldiers were returned a day after Russia and Ukraine exchanged prisoners of war.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/16/russia-launches-nearly-300-drones-at-ukraine-as-528-bodies-of-ukrainian-soldiers-are-retur",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "11:24",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
       "id": "2026-05-16-c43179d6",
       "headline": "Russia’s Putin to visit China following Trump’s trip",
       "summary": "Putin and Chinese President Xi Jinping plan to &#039;further strengthen the comprehensive partnership&#039;, the Kremlin says.",
@@ -110,20 +138,6 @@
       "region": "NA",
       "country": "Trump",
       "category": "politics",
-      "date": "2026-05-16",
-      "time": "",
-      "conflict_id": null,
-      "score": 46.8
-    },
-    {
-      "id": "2026-05-16-32267980",
-      "headline": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "region": "NA",
-      "country": "Taiwan",
-      "category": "geopolitics",
       "date": "2026-05-16",
       "time": "",
       "conflict_id": null,
@@ -153,7 +167,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-05-16",
-      "time": "11:04",
+      "time": "11:44",
       "conflict_id": null,
       "score": 43.0
     },
@@ -242,6 +256,20 @@
       "score": 32.9
     },
     {
+      "id": "2026-05-16-bad1d248",
+      "headline": "Donald Trump does ‘not feel optimistic’ for Jimmy Lai after speaking with Xi Jinping",
+      "summary": "Family and supporters had hoped the US president could help free the 78-year-old British citizen during summit talks in BeijingDonald Trump raised the case of jailed Hong Kong democracy campaigner Jimmy Lai in talks with Chinese leader Xi Jinping but was told it “is a tough one”.Family and supporters of the 78-year-old British citizen had hoped the US president could help secure his release. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping",
+      "region": "NA",
+      "country": "Hong Kong",
+      "category": "politics",
+      "date": "2026-05-16",
+      "time": "03:28",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-05-16-b3160c89",
       "headline": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
       "summary": "Voters in northern Brisbane electorate go to polls after sudden death of former independent MP Jimmy SullivanGet our breaking news email, free app or daily news podcastA byelection in the Brisbane seat of Stafford is expected to swing towards the sitting LNP Queensland government in a result experts say would likely be fatal to former premier Steven Miles’ leadership of the Labor party.Voters in the northern Brisbane electorate of Stafford have g",
@@ -310,6 +338,20 @@
       "time": "08:26",
       "conflict_id": null,
       "score": 29.0
+    },
+    {
+      "id": "2026-05-16-162982e6",
+      "headline": "Freight train and bus crash kills at least eight in Bangkok",
+      "summary": "Police and rescue officials said the collision sparked a fire that engulfed the bus.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98rez3x0nwo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-16",
+      "time": "11:21",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-16-0bf48cd9",
@@ -466,20 +508,6 @@
       "score": 65.0
     },
     {
-      "id": "2026-05-15-f84898d4",
-      "headline": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
-      "summary": "Three women and a child among civilians killed in Israel&#039;s latest attacks on Gaza City.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "21:05",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
       "id": "2026-05-15-2d35a559",
       "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
       "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
@@ -494,48 +522,6 @@
       "score": 59.0
     },
     {
-      "id": "2026-05-15-82f13b1e",
-      "headline": "Watch: What did we learn from Trump's visit to China?",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "13:25",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-05-15-a27c1cdb",
-      "headline": "What did Trump and Xi discuss during the China summit?",
-      "summary": "US President Donald Trump concluded a two-day summit in Beijing with Chinese leader Xi Jinping.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/what-did-trump-and-xi-discuss-during-the-china-summit-2?traffic_source=rss",
-      "region": "NA",
-      "country": "Beijing",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "20:43",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-05-15-50eb69a1",
-      "headline": "Ukraine ‘entirely justified’ to plan strikes against Russian energy and military targets after Kyiv attacks, Zelenskyy says – as it happpened",
-      "summary": "This blog is now closed, you can read more on this story hereMeanwhile, the Latvian president, Edgars Rinkēvičs, has begun political consultations aimed at finding a parliamentary majority capable of forming a new government after the collapse of prime minister Evika Siliņa’s administration.Rinkēvičs’s office posted a short video from the meeting on its social media. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "16:05",
-      "conflict_id": "ukraine-war",
-      "score": 52.0
-    },
-    {
       "id": "2026-05-15-816fdf95",
       "headline": "What China critics in Maga movement make of Trump's Beijing trip",
       "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
@@ -546,6 +532,20 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "19:52",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-05-15-82f13b1e",
+      "headline": "Watch: What did we learn from Trump's visit to China?",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "13:25",
       "conflict_id": null,
       "score": 51.0
     },
@@ -620,20 +620,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-15-bd807a1d",
-      "headline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
-      "summary": "US president has said he and Chinese leader ‘settled a lot of different problems’ but has given little detail on solutionsDonald Trump’s whirlwind trip to Beijing – the first US presidential visit in nearly a decade – wrapped up with much fanfare but little clarity about what was actually achieved.Trump said on Friday he and Xi Jinping, China’s leader, “settled a lot of different problems that other people wouldn’t have been able to solve”. But h",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
-      "region": "NA",
-      "country": "Beijing",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "13:37",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-05-15-3566c9a4",
       "headline": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
       "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
@@ -688,6 +674,20 @@
       "time": "22:15",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-05-15-bd807a1d",
+      "headline": "What was actually achieved at Trump and Xi’s ‘stalemate summit’ in Beijing?",
+      "summary": "US president has said he and Chinese leader ‘settled a lot of different problems’ but has given little detail on solutionsDonald Trump’s whirlwind trip to Beijing – the first US presidential visit in nearly a decade – wrapped up with much fanfare but little clarity about what was actually achieved.Trump said on Friday he and Xi Jinping, China’s leader, “settled a lot of different problems that other people wouldn’t have been able to solve”. But h",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/what-was-achieved-trump-xi-summit-beijing",
+      "region": "NA",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "13:37",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-05-15-57dabbcd",
@@ -774,20 +774,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-15-1fcef7f5",
-      "headline": "Erock, a Power Systems Maker for Data Centers, Files for US IPO",
-      "summary": "Erock Inc., a modular power systems maker serving data centers and other sectors, filed for a US initial public offering, disclosing increasing revenue and widening losses.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/power-systems-maker-for-data-centers-erock-files-for-us-ipo",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "21:56",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-15-d963b1e2",
       "headline": "Argentina’s YPF Seeks Incentive Program for $25 Billion Oil Project",
       "summary": "State-run Argentine energy giant YPF SA announced a $25 billion project to accelerate oil production, marking the largest investment since President Javier Milei took office.",
@@ -816,20 +802,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-15-fe76b350",
-      "headline": "Cuba hit by protests, blackouts amid oil shortage",
-      "summary": "Cubans lit fires in Havana’s streets to protest electricity blackouts.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/15/cuba-hit-by-protests-blackouts-amid-oil-shortage?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "20:40",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-05-14-5d1fa255",
       "headline": "Gunfire chaos as Philippine senator resists ICC arrest: What we know so far",
       "summary": "Gunshots rang out sparking chaos in the Senate building where Senator Ronald \"Bato\" dela Rosa had sought refuge.",
@@ -854,20 +826,6 @@
       "category": "geopolitics",
       "date": "2026-05-14",
       "time": "15:29",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-14-435e78f3",
-      "headline": "Latvian PM resigns after row over stray Ukrainian drones",
-      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-14",
-      "time": "10:53",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1012,6 +970,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-12-ebb3899c",
+      "headline": "How the Trump-Xi summit could set superpower relations for many years to come",
+      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-12",
+      "time": "20:11",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-12-961e3d92",
       "headline": "EU needs to delay social media access for children - von der Leyen",
       "summary": "She told an EU summit that an expert panel was due to come up with steps on how to protect minors online by July.",
@@ -1080,6 +1052,20 @@
       "time": "18:00",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-11-1f136862",
+      "headline": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+      "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to be heard.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-11",
+      "time": "16:10",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-10-649e13a4",
