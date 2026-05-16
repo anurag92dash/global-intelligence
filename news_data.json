@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T22:02:40.426622+00:00",
+  "updated": "2026-05-16T23:04:01.777828+00:00",
   "story_count": 85,
   "source_count": 10,
   "stories": [
@@ -140,6 +140,20 @@
       "category": "politics",
       "date": "2026-05-16",
       "time": "11:44",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-16-2d35a559",
+      "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "22:27",
       "conflict_id": null,
       "score": 43.0
     },
@@ -704,20 +718,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-05-15-2d35a559",
-      "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-15-816fdf95",
       "headline": "What China critics in Maga movement make of Trump's Beijing trip",
       "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
@@ -814,20 +814,6 @@
       "time": "12:33",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-15-ee8ebe6b",
-      "headline": "Trump Fed nominees oppose terms of keeping Powell as temporary chair",
-      "summary": "The central bank said the incumbent would remain chair pro tempore until Kevin Warsh is sworn in as early as next week",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9baac6fa-a302-4621-bc71-23a60e704703",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "22:35",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-05-15-50e428cf",
@@ -968,6 +954,20 @@
       "time": "12:55",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-05-14-14520ce5",
+      "headline": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
+      "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Congo, after she was deported to the African country that had refused to accept her.The deportation of Adriana María Quiroz Zapata “was likely illegal”, the US district judge Richard Leon ruled on Wednesday. Continue",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
+      "region": "NA",
+      "country": "Colombia",
+      "category": "business",
+      "date": "2026-05-14",
+      "time": "18:49",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-05-13-c1fa4580",
