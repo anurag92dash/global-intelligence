@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16T07:02:57.051544+00:00",
+  "updated": "2026-05-16T08:58:16.051711+00:00",
   "story_count": 80,
   "source_count": 10,
   "stories": [
@@ -18,9 +18,9 @@
       "score": 67.0
     },
     {
-      "id": "2026-05-16-9716e1d1",
-      "headline": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
-      "summary": "Lebanon&#039;s Ministry of Health said Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
+      "id": "2026-05-16-e0b39373",
+      "headline": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
+      "summary": "Lebanon&#039;s Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
       "region": "MENA",
@@ -46,32 +46,46 @@
       "score": 59.4
     },
     {
-      "id": "2026-05-16-0a82bec4",
-      "headline": "Trump says senior IS leader killed by US and Nigerian forces",
-      "summary": "The US president says the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "id": "2026-05-16-91705ce5",
+      "headline": "Trump Says US Forces, Nigeria Military Killed ISIS Leader",
+      "summary": "US and Nigerian forces killed an ISIS leader who was hiding in Africa, President Donald Trump said, adding that his death has “greatly diminished” the group’s global operations.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-says-us-forces-nigeria-armed-forces-killed-isis-leader",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "04:06",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
+      "id": "2026-05-16-051421aa",
+      "headline": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+      "summary": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "08:02",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-16-9c40310d",
+      "headline": "Senior IS leader killed by US and Nigerian forces",
+      "summary": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-05-16",
-      "time": "06:26",
+      "time": "08:45",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-05-16-aff27c6c",
-      "headline": "Trump Says US Forces, Nigeria Armed Forces Killed ISIS Leader",
-      "summary": "US and Nigerian forces killed an ISIS leader who was hiding in Africa, President Donald Trump said, adding that his death has “greatly diminished” the group’s global operations.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-16/trump-says-us-forces-nigeria-armed-forces-killed-isis-leader",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-16",
-      "time": "04:06",
-      "conflict_id": null,
-      "score": 50.1
     },
     {
       "id": "2026-05-16-433c43b7",
@@ -200,6 +214,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-05-16-75dc8927",
+      "headline": "Trump's independence warning prompts response from Taiwan",
+      "summary": "Taiwan's foreign ministry said in a statement following Trump's comments that \"Beijing has no right to claim jurisdiction over Taiwan.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/16/trumps-independence-warning-prompts-response-from-taiwan",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "08:26",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-05-16-0bf48cd9",
       "headline": "Why birth rates are falling everywhere all at once",
       "summary": "Homes and phones are part of the reason for the demographic shift changing our world",
@@ -212,6 +240,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-16-8d1a0262",
+      "headline": "Europe Lacks Everything Needed to Make Its Stock Market a Winner",
+      "summary": "The equity story that powered European stocks has unraveled as investors seek shelter from a global energy shock and buy into the artificial intelligence frenzy.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/europe-lacks-everything-needed-to-make-its-stock-market-a-winner",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-16",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-16-38b8312e",
@@ -326,20 +368,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-05-15-27b1f24a",
-      "headline": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
-      "summary": "Ukraine’s air force says the attack on Thursday was part of the largest aerial assault since the war began.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/zelenskyy-vows-response-after-russian-strike-kills-24-in-kyiv?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "18:08",
-      "conflict_id": "ukraine-war",
-      "score": 75.4
-    },
-    {
       "id": "2026-05-15-13050511",
       "headline": "Israel says it has killed Hamas commander in Gaza air strike",
       "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
@@ -354,20 +382,6 @@
       "score": 71.0
     },
     {
-      "id": "2026-05-15-50eb69a1",
-      "headline": "Ukraine ‘entirely justified’ to plan strikes against Russian energy and military targets after Kyiv attacks, Zelenskyy says – as it happpened",
-      "summary": "This blog is now closed, you can read more on this story hereMeanwhile, the Latvian president, Edgars Rinkēvičs, has begun political consultations aimed at finding a parliamentary majority capable of forming a new government after the collapse of prime minister Evika Siliņa’s administration.Rinkēvičs’s office posted a short video from the meeting on its social media. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "16:05",
-      "conflict_id": "ukraine-war",
-      "score": 60.0
-    },
-    {
       "id": "2026-05-15-f84898d4",
       "headline": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
       "summary": "Three women and a child among civilians killed in Israel&#039;s latest attacks on Gaza City.",
@@ -380,6 +394,20 @@
       "time": "21:05",
       "conflict_id": "israel-hamas",
       "score": 59.4
+    },
+    {
+      "id": "2026-05-15-3fec8d5b",
+      "headline": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
+      "summary": "Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "16:07",
+      "conflict_id": null,
+      "score": 57.2
     },
     {
       "id": "2026-05-15-a27c1cdb",
@@ -410,6 +438,20 @@
       "score": 53.0
     },
     {
+      "id": "2026-05-15-50eb69a1",
+      "headline": "Ukraine ‘entirely justified’ to plan strikes against Russian energy and military targets after Kyiv attacks, Zelenskyy says – as it happpened",
+      "summary": "This blog is now closed, you can read more on this story hereMeanwhile, the Latvian president, Edgars Rinkēvičs, has begun political consultations aimed at finding a parliamentary majority capable of forming a new government after the collapse of prime minister Evika Siliņa’s administration.Rinkēvičs’s office posted a short video from the meeting on its social media. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/may/15/russian-attack-kyiv-ukraine-europe-live-updates-latest",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "16:05",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
+    },
+    {
       "id": "2026-05-15-2d35a559",
       "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
       "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
@@ -424,46 +466,18 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-15-746b6b2c",
-      "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
-      "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "12:53",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-05-15-3fec8d5b",
-      "headline": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
-      "summary": "Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
+      "id": "2026-05-15-d817bf1c",
+      "headline": "13 men killed by US military boat strikes identified: ‘These were flesh-and-blood people’",
+      "summary": "All victims of US strikes in eastern Pacific and the Caribbean identified so far came from extremely poor communitiesSign up for the Breaking News US newsletter emailA five-month investigation has named 13 previously unidentified victims of US attacks on boats allegedly carrying narcotics in a campaign that has killed nearly 200 people in the Caribbean and the eastern Pacific.It is unclear if the US has ever identified any of its 194 victims befo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/15/us-military-airstrikes-caribbean-pacific-victim-identities",
       "region": "NA",
-      "country": "Trump",
+      "country": "Caribbean",
       "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "16:07",
+      "time": "10:00",
       "conflict_id": null,
-      "score": 49.2
-    },
-    {
-      "id": "2026-05-15-473a8bc2",
-      "headline": "Trump departs China touting deals, but little clarity on Iran or Taiwan",
-      "summary": "Trump tells reporters he is still deciding fate of new Taiwan weapons package, says not &quot;asking for any favors&quot; on Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/trump-departs-china-touting-deals-but-little-clarity-on-iran-or-taiwan?traffic_source=rss",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "17:46",
-      "conflict_id": null,
-      "score": 47.4
+      "score": 48.0
     },
     {
       "id": "2026-05-15-2aea4a53",
@@ -480,20 +494,6 @@
       "score": 45.0
     },
     {
-      "id": "2026-05-15-a8e58450",
-      "headline": "Russia pounds Kyiv as its advance in eastern Ukraine slows to a crawl",
-      "summary": "Ukraine has prevented Russian arms and fuel from reaching the front line in a successful disruption campaign.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/russia-pounds-kyiv-as-its-war-machine-grinds-to-a-near-standstill?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "17:32",
-      "conflict_id": "ukraine-war",
-      "score": 43.4
-    },
-    {
       "id": "2026-05-15-0d3ca825",
       "headline": "Trump says 20-year nuclear programme suspension by Iran would be enough",
       "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
@@ -504,6 +504,20 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "21:17",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-15-746b6b2c",
+      "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+      "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "12:53",
       "conflict_id": null,
       "score": 43.0
     },
@@ -578,16 +592,16 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-15-57dabbcd",
-      "headline": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+      "id": "2026-05-15-3566c9a4",
+      "headline": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
+      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Switzerland",
+      "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "21:50",
+      "time": "23:04",
       "conflict_id": null,
       "score": 35.0
     },
@@ -602,34 +616,6 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "19:52",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-ffd6fc26",
-      "headline": "Why is Ireland not taking part in this year's Eurovision?",
-      "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "11:41",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-3566c9a4",
-      "headline": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-      "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "23:04",
       "conflict_id": null,
       "score": 35.0
     },
@@ -662,18 +648,32 @@
       "score": 34.4
     },
     {
-      "id": "2026-05-15-62d32752",
-      "headline": "Global Bond Selloff Worsens as Rising Oil Prices Spook Investors",
-      "summary": "Government bond markets tumbled around the world, sending yields surging from Japan to the US on intensifying fears that the war-driven price shock will force central banks to raise interest rates to contain the impact.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/treasuries-lead-global-bond-yields-higher-on-inflation-angst",
+      "id": "2026-05-15-e625f594",
+      "headline": "Tina Peters, Colorado Election Denier, Will Be Freed by Gov. Jared Polis",
+      "summary": "Gov. Jared Polis, a Democrat, commuted the sentence of Ms. Peters, a former county clerk serving a nine-year sentence for her role in a plot to examine voting machines after the 2020 election.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/15/us/politics/tina-peters-colorado-trump-polis.html",
       "region": "NA",
-      "country": "Japan",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "22:15",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-05-15-57dabbcd",
+      "headline": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
+      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "business",
       "date": "2026-05-15",
-      "time": "03:20",
+      "time": "21:50",
       "conflict_id": null,
-      "score": 34.1
+      "score": 27.0
     },
     {
       "id": "2026-05-15-50e428cf",
@@ -718,16 +718,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-15-d1cb637a",
-      "headline": "Trump discloses hundreds of millions of dollars in trades in first quarter",
-      "summary": "Transactions relating to companies including Nvidia, Palantir, Paramount and Boeing listed in disclosures",
+      "id": "2026-05-15-a81468ca",
+      "headline": "US federal prosecutors scrutinise BlackRock private credit fund",
+      "summary": "Wall Street’s top cops examine valuation practices at BlackRock TCP Capital Corp",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/f9213bec-28ca-4930-bae8-1379abc851f7",
+      "url": "https://www.ft.com/content/59ab31ca-e5d3-4d22-b943-02c139db6822",
       "region": "NA",
-      "country": "Trump",
+      "country": null,
       "category": "business",
       "date": "2026-05-15",
-      "time": "13:06",
+      "time": "23:22",
       "conflict_id": null,
       "score": 26.4
     },
@@ -756,6 +756,20 @@
       "category": "business",
       "date": "2026-05-15",
       "time": "21:57",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-15-1fcef7f5",
+      "headline": "Erock, a Power Systems Maker for Data Centers, Files for US IPO",
+      "summary": "Erock Inc., a modular power systems maker serving data centers and other sectors, filed for a US initial public offering, disclosing increasing revenue and widening losses.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/power-systems-maker-for-data-centers-erock-files-for-us-ipo",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-15",
+      "time": "21:56",
       "conflict_id": null,
       "score": 26.1
     },
@@ -816,20 +830,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-05-14-71c80607",
-      "headline": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
-      "summary": "Russia launched one of the biggest air strikes on Kyiv since the start of the war with several apartment blocks hit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-14",
-      "time": "11:46",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-14-5d1fa255",
       "headline": "Gunfire chaos as Philippine senator resists ICC arrest: What we know so far",
       "summary": "Gunshots rang out sparking chaos in the Senate building where Senator Ronald \"Bato\" dela Rosa had sought refuge.",
@@ -858,6 +858,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-14-435e78f3",
+      "headline": "Latvian PM resigns after row over stray Ukrainian drones",
+      "summary": "Drones bound for Russia crashed down in Latvia last week, prompting a political fallout.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy21k5917jo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-14",
+      "time": "10:53",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-14-06e5d959",
+      "headline": "War criminal Ratko Mladić's jail release request denied",
+      "summary": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-14",
+      "time": "17:45",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-14-ba1c5cdf",
       "headline": "'Door is open' for Canada to join Eurovision",
       "summary": "Prime Minister Mark Carney has already floated the idea of Canada joining the song contest.",
@@ -868,6 +896,20 @@
       "category": "politics",
       "date": "2026-05-14",
       "time": "17:40",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-14-71c80607",
+      "headline": "Watch: BBC at Kyiv block of flats hit by Russian drone strike",
+      "summary": "Russia launched one of the biggest air strikes on Kyiv since the start of the war with several apartment blocks hit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cd6pnle9zngo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-14",
+      "time": "11:46",
       "conflict_id": null,
       "score": 35.0
     },
@@ -970,20 +1012,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-12-40bbe161",
-      "headline": "Trump says Iran ceasefire is on 'massive life support'",
-      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "00:59",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-12-581eff22",
       "headline": "Pakistan struck a rehab centre and killed 269 Afghans. Their families want to know why",
       "summary": "There are calls to investigate the 16 March airstrike - which the UN says likely killed more - as a war crime.",
@@ -994,20 +1022,6 @@
       "category": "geopolitics",
       "date": "2026-05-12",
       "time": "07:31",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-12-ebb3899c",
-      "headline": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "20:11",
       "conflict_id": null,
       "score": 43.0
     },
@@ -1024,20 +1038,6 @@
       "time": "11:00",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-12-abcf7a69",
-      "headline": "The Kabul rehab centre hit by deadly Pakistani strike",
-      "summary": "Pakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "07:36",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-05-12-7c54c6ec",
