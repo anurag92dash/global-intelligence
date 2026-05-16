@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-16T01:21:55.219120+00:00",
-  "story_count": 83,
+  "updated": "2026-05-16T04:43:43.224190+00:00",
+  "story_count": 82,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-16-2f283a45",
+      "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "03:30",
+      "conflict_id": null,
+      "score": 68.0
+    },
     {
       "id": "2026-05-16-9716e1d1",
       "headline": "Iran war live: Lebanon, Israel extend truce; Tehran ready for more US talks",
@@ -18,18 +32,18 @@
       "score": 63.4
     },
     {
-      "id": "2026-05-16-32267980",
-      "headline": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
-      "region": "NA",
-      "country": "Taiwan",
+      "id": "2026-05-16-c73b8c19",
+      "headline": "Israel launches deadly air strikes on Gaza City apartment building",
+      "summary": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-05-16",
-      "time": "",
-      "conflict_id": null,
-      "score": 54.8
+      "time": "03:37",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
     },
     {
       "id": "2026-05-16-d870456a",
@@ -46,6 +60,34 @@
       "score": 46.8
     },
     {
+      "id": "2026-05-16-32267980",
+      "headline": "Trump says he gave Xi 'no commitment' on Taiwan at summit",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-says-he-gave-xi-no-commitment-on-taiwan-at-summit",
+      "region": "NA",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "",
+      "conflict_id": null,
+      "score": 46.8
+    },
+    {
+      "id": "2026-05-16-736776c2",
+      "headline": "VinFast Seeks to Shed Most Debt With Vietnam Factory Spinoffs",
+      "summary": "VinFast Auto Ltd. said its planned sale of two Vietnamese factories will enable the electric vehicle maker to shed about 182 trillion dong ($6.9 billion) in debt and obligations while potentially speed its path toward profitability.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/vinfast-seeks-to-shed-most-debt-with-vietnam-factory-spinoffs",
+      "region": "APJ",
+      "country": "Vietnam",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "03:45",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-05-16-98419f37",
       "headline": "Why Were These C.E.O.s in Beijing With Trump?",
       "summary": "Some of America’s most powerful C.E.O.s accompanied President Trump to Beijing during his summit with President Xi Jinping of China. Our reporter Ana Swanson explains what they were hoping to gain from the trip.",
@@ -60,16 +102,30 @@
       "score": 33.2
     },
     {
-      "id": "2026-05-16-1e76a645",
-      "headline": "Democratic Colorado governor hopefuls condemn commutation of Tina Peters’ election interference sentence – live",
-      "summary": "Current governor Jared Polis commuted sentence of Trump ally who backed the president’s false claims about the 2020 election, saying punishment was too longColorado governor commutes sentence of election denier Tina PetersSign up for the Breaking News US emailJamieson Greer also said US export controls on semiconductor chips were not a major topic of discussions with Chinese officials in Beijing.The US trade representative’s comments to Bloomberg",
+      "id": "2026-05-16-bad1d248",
+      "headline": "Donald Trump does ‘not feel optimistic’ for Jimmy Lai after speaking with Xi Jinping",
+      "summary": "Family and supporters had hoped the US president could help free the 78-year-old British citizen during summit talks in BeijingDonald Trump raised the case of jailed Hong Kong democracy campaigner Jimmy Lai in talks with Chinese leader Xi Jinping but was told it “is a tough one”.Family and supporters of the 78-year-old British citizen had hoped the US president could help secure his release. Continue reading...",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/15/trump-china-visit-live-updates-xi-jinping-talks-meeting-summit-latest-news",
+      "url": "https://www.theguardian.com/world/2026/may/16/trump-not-optimistic-jimmy-lai-release-xi-jinping",
       "region": "NA",
-      "country": "Beijing",
+      "country": "Hong Kong",
       "category": "politics",
       "date": "2026-05-16",
-      "time": "01:05",
+      "time": "03:28",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-05-16-b3160c89",
+      "headline": "Stafford byelection tipped to swing towards LNP as danger looms for Steven Miles’ leadership of Queensland Labor",
+      "summary": "Voters in northern Brisbane electorate go to polls after sudden death of former independent MP Jimmy SullivanGet our breaking news email, free app or daily news podcastA byelection in the Brisbane seat of Stafford is expected to swing towards the sitting LNP Queensland government in a result experts say would likely be fatal to former premier Steven Miles’ leadership of the Labor party.Voters in the northern Brisbane electorate of Stafford have g",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/16/stafford-byelection-tipped-to-swing-towards-lnp-as-danger-looms-for-steven-miles-leadership-of-queensland-labor",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-16",
+      "time": "04:09",
       "conflict_id": null,
       "score": 32.0
     },
@@ -102,16 +158,30 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-16-6ea4ceb1",
-      "headline": "NextEra Energy Is in Talks to Combine With Dominion Energy: FT",
-      "summary": "NextEra Energy Inc. is in discussions to combine with utility rival Dominion Energy Inc. in a mostly stock deal, the Financial Times reported.",
+      "id": "2026-05-16-0bf48cd9",
+      "headline": "Why birth rates are falling everywhere all at once",
+      "summary": "Homes and phones are part of the reason for the demographic shift changing our world",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fba35eca-df3a-4ad6-b42d-eb08eb7c9ad3",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-16",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-05-16-38b8312e",
+      "headline": "NextEra Energy Is Said to Be in Talks to Acquire Dominion",
+      "summary": "NextEra Energy Inc. is in discussions to acquire utility rival Dominion Energy Inc. in a mostly stock deal aimed at helping address the growing demand for power from data centers, according to a person familiar with the matter.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-16/nextera-energy-is-in-talks-to-combine-with-dominion-energy-ft",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-16/nextera-energy-is-said-to-be-in-talks-to-acquire-dominion-energy",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-05-16",
-      "time": "01:05",
+      "time": "01:39",
       "conflict_id": null,
       "score": 26.1
     },
@@ -186,20 +256,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-16-01c33cae",
-      "headline": "Japan and South Korea tech stocks swoon and bond yields soar",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/japan-and-south-korea-tech-stocks-swoon-and-bond-yields-soar",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-05-16",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-15-27b1f24a",
       "headline": "Zelenskyy vows response after Russian strike kills 24 in Kyiv",
       "summary": "Ukraine’s air force says the attack on Thursday was part of the largest aerial assault since the war began.",
@@ -214,18 +270,18 @@
       "score": 75.4
     },
     {
-      "id": "2026-05-15-2f283a45",
-      "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
-      "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "id": "2026-05-15-13050511",
+      "headline": "Israel says it has killed Hamas commander in Gaza air strike",
+      "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "21:28",
-      "conflict_id": null,
-      "score": 68.0
+      "time": "19:38",
+      "conflict_id": "israel-hamas",
+      "score": 71.0
     },
     {
       "id": "2026-05-15-2d35a559",
@@ -254,20 +310,6 @@
       "time": "13:15",
       "conflict_id": "israel-hamas",
       "score": 65.0
-    },
-    {
-      "id": "2026-05-15-13050511",
-      "headline": "Israel says it has killed Hamas commander in Gaza air strike",
-      "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "19:38",
-      "conflict_id": "israel-hamas",
-      "score": 63.0
     },
     {
       "id": "2026-05-15-50eb69a1",
@@ -310,20 +352,6 @@
       "time": "14:12",
       "conflict_id": null,
       "score": 59.4
-    },
-    {
-      "id": "2026-05-15-413770cd",
-      "headline": "Trump undecided on Taiwan arms sale after summit with Xi",
-      "summary": "US president raises doubts about $14bn weapons package for Taipei after two days of meetings in China",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/66933e51-e06d-475c-aed2-f808f9443dea",
-      "region": "NA",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "19:50",
-      "conflict_id": null,
-      "score": 58.4
     },
     {
       "id": "2026-05-15-a27c1cdb",
@@ -396,30 +424,16 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-15-b18344cd",
-      "headline": "Back From China, Trump Faces Decision on Whether to Resume Strikes on Iran",
-      "summary": "Top aides have drafted battle plans as peace negotiations have stalled.",
+      "id": "2026-05-15-3fec8d5b",
+      "headline": "Republicans Waited to Challenge Trump on the Iran War. Now It May Be Too Late.",
+      "summary": "Having deferred to the president for months, G.O.P. lawmakers missed crucial milestones to try to limit his war powers. That has tied their hands in seeking parameters and exit criteria.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/15/us/politics/trump-iran.html",
+      "url": "https://www.nytimes.com/2026/05/15/us/politics/iran-war-powers-congress.html",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "18:27",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
-      "id": "2026-05-15-c9475684",
-      "headline": "Explosion at Lumber Mill in Searsmont, Maine, Draws Large Emergency Response",
-      "summary": "Footage from the scene showed flames burning through the roof of a large structure as heavy, dark smoke billowed skyward.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/15/us/maine-searsmont-explosion-fire-lumber-mill.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "21:04",
+      "time": "16:07",
       "conflict_id": null,
       "score": 49.2
     },
@@ -435,7 +449,7 @@
       "date": "2026-05-15",
       "time": "17:46",
       "conflict_id": null,
-      "score": 48.4
+      "score": 47.4
     },
     {
       "id": "2026-05-15-5e13ee8f",
@@ -448,20 +462,6 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "16:39",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-15-91c64e25",
-      "headline": "India and UAE sign defence pacts, as Iran war tensions simmer",
-      "summary": "A deal inked during Modi&#039;s visit to the UAE focuses on maritime security, cyberdefence, and military collaboration.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/15/india_and_uae_sign_defence-pacts_as_iran_war_tensions_simmer?traffic_source=rss",
-      "region": "MENA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "15:44",
       "conflict_id": null,
       "score": 47.4
     },
@@ -490,6 +490,20 @@
       "category": "business",
       "date": "2026-05-15",
       "time": "21:50",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-15-0d3ca825",
+      "headline": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "21:17",
       "conflict_id": null,
       "score": 43.0
     },
@@ -620,20 +634,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-15-ee8ebe6b",
-      "headline": "Trump Fed nominees oppose terms of keeping Powell as temporary chair",
-      "summary": "The central bank said the incumbent would remain chair pro tempore until Kevin Warsh is sworn in as early as next week",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9baac6fa-a302-4621-bc71-23a60e704703",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "22:35",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
       "id": "2026-05-15-62d32752",
       "headline": "Global Bond Selloff Worsens as Rising Oil Prices Spook Investors",
       "summary": "Government bond markets tumbled around the world, sending yields surging from Japan to the US on intensifying fears that the war-driven price shock will force central banks to raise interest rates to contain the impact.",
@@ -676,20 +676,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-15-6b333f0e",
-      "headline": "Xi takes Trump on tour of Communist Party's seat of power in Beijing",
-      "summary": "Trump and Xi toured Zhongnanhai, the heavily guarded compound where China's top leaders live and work.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/crrpj0ejxp8o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "09:17",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-15-415c111e",
       "headline": "Former China hawk elected Solomon Islands' leader",
       "summary": "Vote comes a week after lawmakers ousted the nation's former pro-China prime minister.",
@@ -718,20 +704,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-15-a81468ca",
-      "headline": "US federal prosecutors scrutinise BlackRock private credit fund",
-      "summary": "Wall Street’s top cops examine valuation practices at BlackRock TCP Capital Corp",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/59ab31ca-e5d3-4d22-b943-02c139db6822",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "23:22",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-05-15-95aa7fcf",
       "headline": "Berkshire Sold $8 Billion of Chevron Shares as Prices Soared",
       "summary": "Berkshire Hathaway Inc. sold about $8 billion worth of Chevron Corp. shares in the first quarter as the oil giant’s stock reached a record high.",
@@ -746,6 +718,34 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-15-e103f2a3",
+      "headline": "Forbright Files for IPO Pitching Middle Market, Digital Banking",
+      "summary": "Forbright Inc., a financial services platform that focuses on middle-market lending and digital consumer banking, filed for an initial public offering showing growing deposits.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/forbright-files-for-ipo-pitching-middle-market-digital-banking",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-15",
+      "time": "21:57",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-15-1fcef7f5",
+      "headline": "Erock, a Power Systems Maker for Data Centers, Files for US IPO",
+      "summary": "Erock Inc., a modular power systems maker serving data centers and other sectors, filed for a US initial public offering, disclosing increasing revenue and widening losses.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-15/power-systems-maker-for-data-centers-erock-files-for-us-ipo",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-15",
+      "time": "21:56",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-15-d963b1e2",
       "headline": "Argentina’s YPF Seeks Incentive Program for $25 Billion Oil Project",
       "summary": "State-run Argentine energy giant YPF SA announced a $25 billion project to accelerate oil production, marking the largest investment since President Javier Milei took office.",
@@ -756,20 +756,6 @@
       "category": "business",
       "date": "2026-05-15",
       "time": "20:23",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-15-4c8b49fb",
-      "headline": "GIC, Itausa Lead $1 Billion Injection in Aegea, Diluting Equipav",
-      "summary": "Aegea will receive as much as $1 billion in fresh capital from shareholders, led by Singapore sovereign wealth fund GIC Pte and Itaúsa SA, as it prepares a potential bid for Minas Gerais’ state-owned utility Copasa, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-15/gic-itausa-lead-1-billion-injection-in-aegea-diluting-equipav",
-      "region": "APJ",
-      "country": "Singapore",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "20:01",
       "conflict_id": null,
       "score": 26.1
     },
@@ -970,20 +956,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-05-14-cab7f117",
-      "headline": "Takeaways from Nebraska Democratic primaries filled with plot twists",
-      "summary": "Democrats knew they couldn’t unseat a GOP senator, so they backed an independent and fielded a candidate who promised to drop out if she won. Then it got complicated.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/13/takeaways-nations-oddest-senate-primary/",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-05-14",
-      "time": "01:27",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
       "id": "2026-05-13-c1fa4580",
       "headline": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
       "summary": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.",
@@ -996,20 +968,6 @@
       "time": "23:22",
       "conflict_id": null,
       "score": 67.0
-    },
-    {
-      "id": "2026-05-13-4b102612",
-      "headline": "Netanyahu says he 'secretly visited' UAE during war with Iran",
-      "summary": "The UAE denied reports of the \"alleged visit\" and insisted relations between the two countries were not based on \"unofficial arrangements\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-13",
-      "time": "22:30",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-05-13-c879a53c",
@@ -1038,6 +996,34 @@
       "time": "16:19",
       "conflict_id": "ukraine-war",
       "score": 47.0
+    },
+    {
+      "id": "2026-05-12-651a4f6c",
+      "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-12",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-12-40bbe161",
+      "headline": "Trump says Iran ceasefire is on 'massive life support'",
+      "summary": "The US president criticises an Iranian counteroffer to end the war, and says the month-long ceasefire is \"unbelievably weak\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgznxn18zgo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-12",
+      "time": "00:59",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-12-581eff22",
