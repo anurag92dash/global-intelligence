@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-16T10:11:32.718208+00:00",
-  "story_count": 80,
+  "updated": "2026-05-16T11:16:41.785303+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-16-9669b995",
+      "headline": "Hamas confirms top commander killed in Israeli air strike",
+      "summary": "Friday's strike is the latest launched by Israel on Gaza despite a ceasefire with Hamas.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "10:12",
+      "conflict_id": "israel-hamas",
+      "score": 71.0
+    },
     {
       "id": "2026-05-16-2f283a45",
       "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
@@ -16,20 +30,6 @@
       "time": "05:53",
       "conflict_id": null,
       "score": 67.0
-    },
-    {
-      "id": "2026-05-16-c73b8c19",
-      "headline": "Israel launches deadly air strikes on Gaza City apartment building",
-      "summary": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-16",
-      "time": "03:37",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
     },
     {
       "id": "2026-05-16-91705ce5",
@@ -46,6 +46,20 @@
       "score": 58.1
     },
     {
+      "id": "2026-05-16-6376d0c3",
+      "headline": "Israeli strikes on southern Lebanon continue despite ‘ceasefire’ extension",
+      "summary": "Despite Lebanon and Israel extending the ceasefire deal for another 45 days, Israel continues to bomb Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/israeli-strikes-on-southern-lebanon-continue-despite-ceasefire-extension?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "10:34",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
       "id": "2026-05-16-e53307ee",
       "headline": "Israeli settler blindfolds and detains Palestinian in occupied West Bank",
       "summary": "An armed Israeli settler blindfolded and detained a Palestinian man in the occupied West Bank.",
@@ -60,58 +74,30 @@
       "score": 51.4
     },
     {
-      "id": "2026-05-16-9c40310d",
-      "headline": "Senior IS leader killed by US and Nigerian forces",
-      "summary": "US President Donald Trump said the joint operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-16-c73b8c19",
+      "headline": "Israel launches deadly air strikes on Gaza City apartment building",
+      "summary": "At least seven Palestinians were killed when Israeli air strikes hit a residential building and a vehicle in Gaza City.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/16/israel-launches-deadly-air-strikes-on-gaza-city-apartment-building?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "03:37",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
+      "id": "2026-05-16-c43179d6",
+      "headline": "Russia’s Putin to visit China following Trump’s trip",
+      "summary": "Putin and Chinese President Xi Jinping plan to &#039;further strengthen the comprehensive partnership&#039;, the Kremlin says.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/russias-putin-to-visit-china-following-trumps-trip?traffic_source=rss",
       "region": "NA",
       "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-16",
-      "time": "09:22",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-05-16-433c43b7",
-      "headline": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
-      "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic State.“Tonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly executed a meticulously planned and very complex mission to eliminate the most active terrorist in the world from the b",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-05-16",
-      "time": "04:56",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-05-16-051421aa",
-      "headline": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
-      "summary": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-05-16",
-      "time": "08:02",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-16-fcbf86e5",
-      "headline": "Iran war live: Tehran warns more economic woes for US over ‘war of choice’",
-      "summary": "Iranian FM&#039;s warning comes as Israel continues to attack Lebanon, hours after agreeing to a 45-day ceasefire extension.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-16",
-      "time": "00:00",
+      "time": "08:38",
       "conflict_id": null,
       "score": 47.4
     },
@@ -144,9 +130,37 @@
       "score": 46.8
     },
     {
+      "id": "2026-05-16-c81dbb41",
+      "headline": "Putin to visit China days after Trump's Beijing trip, Kremlin says",
+      "summary": "Putin and Chinese President Xi Jinping will discuss ways to deepen their countries' \"comprehensive partnership and strategic cooperation,\" the Kremlin said.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/16/putin-to-visit-china-days-after-trumps-beijing-trip-kremlin-says",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "10:19",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-05-16-f8ebccbc",
+      "headline": "Senior IS leader killed in joint operation, US and Nigeria say",
+      "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy72p2kpd03o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-16",
+      "time": "11:04",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-16-e383d5c3",
       "headline": "Trump’s China summit shows toll of a difficult year for the president",
-      "summary": "A year ago, the president promised a new era in the first major foreign trip of his second term. Now in Beijing, the war with Iran and economic strain have clouded his diplomacy.",
+      "summary": "A year ago, Trump promised a new era during the first major foreign trip of his second term. On his recent visit to Beijing, the war with Iran and economic strain clouded his diplomacy.",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/politics/2026/05/16/china-summit-showed-how-trump-problems-hobble-his-diplomacy/",
       "region": "APJ",
@@ -156,6 +170,34 @@
       "time": "10:00",
       "conflict_id": null,
       "score": 40.9
+    },
+    {
+      "id": "2026-05-16-433c43b7",
+      "headline": "Trump says Islamic State ‘second in command’ killed by US and Nigerian forces",
+      "summary": "US president calls Abu-Bilal al-Minuki ‘most active terrorist in the world’ and says he was eliminated in ‘very complex mission’Donald Trump has said US and Nigerian forces killed the “second in command” global leader of the Islamic State.“Tonight, at my direction, brave American forces and the Armed Forces of Nigeria flawlessly executed a meticulously planned and very complex mission to eliminate the most active terrorist in the world from the b",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/16/islamic-state-abu-bilal-al-minuki-killed-by-us-nigerian-forces-trump-says",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-05-16",
+      "time": "04:56",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-05-16-27e902a7",
+      "headline": "A call to stop the global housing crisis: World Urban Forum, why it matters?",
+      "summary": "More than 28,000 participants are set to gather in Baku for the UN's World Urban Forum as UN-Habitat warns that 3 billion people lack adequate housing and slum populations could triple by 2050.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/16/a-call-to-stop-the-global-housing-world-urban-forum-why-it-matters",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-05-16-736776c2",
@@ -410,18 +452,18 @@
       "score": 21.0
     },
     {
-      "id": "2026-05-15-13050511",
-      "headline": "Israel says it has killed Hamas commander in Gaza air strike",
-      "summary": "Izz ad-Din al-Haddad, described as \"one of the architects of the October 7 massacre\", was killed in Gaza City, Israel says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21jjwz1k1o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-15-c79e3ac2",
+      "headline": "Israel confirms Hamas armed wing chief killed in Gaza strike",
+      "summary": "The military said Haddad was “among the last senior commanders in Hamas’s military wing responsible for planning and carrying out the October 7th massacre.”",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/15/israeli-army-announces-targeting-of-hamas-military-chief-in-gaza-city-airstrike",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "19:38",
+      "time": "19:37",
       "conflict_id": "israel-hamas",
-      "score": 71.0
+      "score": 65.0
     },
     {
       "id": "2026-05-15-f84898d4",
@@ -436,6 +478,34 @@
       "time": "21:05",
       "conflict_id": "israel-hamas",
       "score": 59.4
+    },
+    {
+      "id": "2026-05-15-2d35a559",
+      "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "23:59",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
+      "id": "2026-05-15-82f13b1e",
+      "headline": "Watch: What did we learn from Trump's visit to China?",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "13:25",
+      "conflict_id": null,
+      "score": 59.0
     },
     {
       "id": "2026-05-15-a27c1cdb",
@@ -466,30 +536,16 @@
       "score": 52.0
     },
     {
-      "id": "2026-05-15-2d35a559",
-      "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
-      "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "id": "2026-05-15-816fdf95",
+      "headline": "What China critics in Maga movement make of Trump's Beijing trip",
+      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-05-15-82f13b1e",
-      "headline": "Watch: What did we learn from Trump's visit to China?",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
       "region": "APJ",
       "country": "Beijing",
-      "category": "politics",
+      "category": "geopolitics",
       "date": "2026-05-15",
-      "time": "13:25",
+      "time": "19:52",
       "conflict_id": null,
       "score": 51.0
     },
@@ -522,20 +578,6 @@
       "score": 45.0
     },
     {
-      "id": "2026-05-15-2aea4a53",
-      "headline": "What is the 'Thucydides Trap' that Xi invoked in his meeting with Trump?",
-      "summary": "Xi Jinping opened his Beijing summit with Trump by asking whether the two powers could avoid the \"Thucydides Trap\" — then warned that mishandling Taiwan could lead to war.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/15/what-is-the-thucydides-trap-that-xi-invoked-in-his-meeting-with-trump",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "14:44",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-05-15-746b6b2c",
       "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
       "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
@@ -548,34 +590,6 @@
       "time": "12:53",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-15-816fdf95",
-      "headline": "What China critics in Maga movement make of Trump's Beijing trip",
-      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "19:52",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-15-ce23dbf5",
-      "headline": "Israeli army announces targeting of Hamas military chief in Gaza City airstrike",
-      "summary": "Israeli army said it targeted Hamas military chief in Gaza City air strike, meanwhile there has been no immediate confirmation from Hamas on the strike against Izz al-Din al-Haddad.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/15/israeli-army-announces-targeting-of-hamas-military-chief-in-gaza-city-airstrike",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "19:37",
-      "conflict_id": "israel-hamas",
-      "score": 41.0
     },
     {
       "id": "2026-05-15-7d251c5a",
@@ -858,20 +872,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-14-06e5d959",
-      "headline": "War criminal Ratko Mladić's jail release request denied",
-      "summary": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-14",
-      "time": "17:45",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-14-ba1c5cdf",
       "headline": "'Door is open' for Canada to join Eurovision",
       "summary": "Prime Minister Mark Carney has already floated the idea of Canada joining the song contest.",
@@ -956,6 +956,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-12-651a4f6c",
+      "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
+      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-12",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-05-12-0c041eeb",
       "headline": "Zelensky's ex-chief of staff in court as Ukraine corruption probe escalates",
       "summary": "Andriy Yermak was named by Ukraine's two anti-corruption agencies as a suspect in a money-laundering scheme.",
@@ -968,20 +982,6 @@
       "time": "16:19",
       "conflict_id": "ukraine-war",
       "score": 47.0
-    },
-    {
-      "id": "2026-05-12-651a4f6c",
-      "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "20:00",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-05-12-40bbe161",
@@ -1008,20 +1008,6 @@
       "category": "geopolitics",
       "date": "2026-05-12",
       "time": "07:31",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-12-ebb3899c",
-      "headline": "How the Trump-Xi summit could set superpower relations for many years to come",
-      "summary": "Trump's whirlwind visit to China is the most significant for years - but will it bear fruit?",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ceqprgen1nyo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "20:11",
       "conflict_id": null,
       "score": 43.0
     },
