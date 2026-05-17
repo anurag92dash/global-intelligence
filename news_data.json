@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-17T10:45:53.791298+00:00",
+  "updated": "2026-05-17T11:50:57.309865+00:00",
   "story_count": 87,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-17-4e3ccf10",
+      "headline": "Largest Ukrainian drone attack since invasion kills 3 in Moscow area, Russia says",
+      "summary": "Ukrainian President Volodymyr Zelenskyy confirms the attack in a post on X, writing that \"Ukrainian long-range sanctions reached the Moscow region.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/17/largest-ukrainian-drone-attack-since-invasion-kills-3-in-moscow-area-russia-says",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "10:59",
+      "conflict_id": null,
+      "score": 61.0
+    },
     {
       "id": "2026-05-17-7264bb71",
       "headline": "GOP senator who voted to convict Trump in impeachment trial loses primary",
@@ -16,6 +30,62 @@
       "time": "03:36",
       "conflict_id": null,
       "score": 57.9
+    },
+    {
+      "id": "2026-05-17-885598e8",
+      "headline": "At least four killed in Ukrainian drone attacks on Russia",
+      "summary": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "09:14",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-17-ffe6fe6a",
+      "headline": "EU plan to slash steel imports will hurt Ukraine, officials warn",
+      "summary": "Brussels’ proposed quota reduction could cost Kyiv up to €1bn in lost export revenue",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/501e3207-4a9e-4edb-9a80-812cbfbd4f46",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "04:00",
+      "conflict_id": "ukraine-war",
+      "score": 54.4
+    },
+    {
+      "id": "2026-05-17-61f21823",
+      "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "11:28",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-05-17-105c8a21",
+      "headline": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
+      "summary": "Russia’s capital and the surrounding Moscow region came under record drone attacks overnight, leaving at least three people killed and over a dozen wounded.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "05:21",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-05-17-d8973287",
@@ -60,46 +130,18 @@
       "score": 47.4
     },
     {
-      "id": "2026-05-17-885598e8",
-      "headline": "At least four killed in Ukrainian drone attacks on Russia",
-      "summary": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
+      "id": "2026-05-17-b4e986b0",
+      "headline": "Deadly drone strikes on Moscow ‘entirely justified’, says Zelenskyy",
+      "summary": "Ukrainian president claims responsibility for attacks in retaliation for Russia’s bombardment of Kyiv",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c7e98e0b-90c4-4602-86d7-5a99b1b0b7ab",
       "region": "EU",
       "country": null,
       "category": "geopolitics",
       "date": "2026-05-17",
-      "time": "09:14",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-17-61f21823",
-      "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "10:05",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-17-105c8a21",
-      "headline": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
-      "summary": "Russia’s capital and the surrounding Moscow region came under record drone attacks overnight, leaving at least three people killed and over a dozen wounded.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "05:21",
-      "conflict_id": null,
-      "score": 42.1
+      "time": "10:49",
+      "conflict_id": "ukraine-war",
+      "score": 46.4
     },
     {
       "id": "2026-05-17-c33c7d29",
@@ -118,7 +160,7 @@
     {
       "id": "2026-05-17-9cc68228",
       "headline": "At least four people killed in Russia as Ukraine launches retaliatory strikes",
-      "summary": "Wave of almost 600 drones launched across 14 regions, after Moscow’s deadly three-day attack on Ukraine last weekAt least four people have been killed in a large-scale retaliatory strike by Ukraine on Russia’s regions, including Moscow, Russian authorities have said.The wave of almost 600 Ukrainian drones struck overnight across 14 Russian regions, as well as the Crimean peninsula and the Black and Azov seas, the Russian defence ministry said on ",
+      "summary": "Wave of almost 600 drones launched across 14 regions, after Moscow’s deadly three-day attack on Ukraine last weekAt least four people have been killed in a large-scale retaliatory strike by Ukraine on Russia’s regions, including Moscow, the Russian authorities have said.The wave of almost 600 Ukrainian drones struck overnight across 14 Russian regions, as well as the Crimean peninsula and the Black and Azov seas, the Russian defence ministry said",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/17/people-killed-in-russia-ukraine-retaliatory-strikes-moscow",
       "region": "EU",
@@ -128,20 +170,6 @@
       "time": "09:48",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-05-17-18ae0984",
-      "headline": "Bulgaria wins Eurovision for first time; Israel comes second amid boycott",
-      "summary": "Spain, Netherlands, Ireland, Iceland and Slovenia stage biggest political boycott in Eurovision history over Gaza war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/bulgaria-wins-eurovision-for-first-time-israel-comes-second-amid-boycott?traffic_source=rss",
-      "region": "EU",
-      "country": "Netherlands",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "08:42",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-05-17-a59624fe",
@@ -170,6 +198,20 @@
       "time": "03:23",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-17-1ac34f6f",
+      "headline": "Malaysia’s Coalition Tensions Deepen as Anwar Floats Snap Poll",
+      "summary": "Fresh strains are emerging in Malaysia’s ruling alliance as political jockeying and oneupmanship among the coalition’s parties led Prime Minister Anwar Ibrahim to raise the prospect of a snap general election if divisions deepen.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/malaysia-s-coalition-tensions-deepen-as-anwar-floats-snap-poll",
+      "region": "EU",
+      "country": "Malaysia",
+      "category": "politics",
+      "date": "2026-05-17",
+      "time": "10:45",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-17-73dbfd7b",
@@ -382,6 +424,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-05-17-e4ba06ee",
+      "headline": "‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles",
+      "summary": "French police fire teargas and UK shops close for safety reasons as hundreds queue for Royal Pop timepieces that make up Audemars Piguet collaborationThe launch of limited-edition Swatch watches descended into chaos in several European cities and New York, with French police firing teargas to restore order at a store near Paris.Hundreds of people waited through the night from Friday into Saturday – and in some cases for several days – hoping to b",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-17",
+      "time": "10:50",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-05-17-ced1bfc9",
       "headline": "‘A place for everybody’: Stockholm to open its first publicly run sauna",
       "summary": "Unlike its Nordic neighbours, finding a place in the Swedish capital to bada bastu is hard, with years-long waiting lists at member clubsThere is little doubt that Stockholm is a city of sauna-goers. All year round, from early morning to late into the night, the city’s residents can be seen emerging from wooden huts, a trail of woodsmoke coming from the chimney, and lowering themselves into the deep brackish waters of the Swedish capital’s shorel",
@@ -406,20 +462,6 @@
       "category": "politics",
       "date": "2026-05-17",
       "time": "07:24",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-17-84eed6fb",
-      "headline": "Iraq’s new PM Ali al-Zaidi formally takes over",
-      "summary": "Iraq’s new prime minister Ali al‑Zaidi has formally taken office in Baghdad, pledging reforms.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/aje-onl-nf_clip-iraqs-new-pm-al-zaidi-formally-takes-over-160526?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iraq",
-      "category": "politics",
-      "date": "2026-05-17",
-      "time": "00:14",
       "conflict_id": null,
       "score": 23.4
     },
@@ -774,20 +816,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-15-3566c9a4",
-      "headline": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
-      "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "23:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-15-816fdf95",
       "headline": "What China critics in Maga movement make of Trump's Beijing trip",
       "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
@@ -938,20 +966,6 @@
       "category": "geopolitics",
       "date": "2026-05-14",
       "time": "20:51",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-14-06e5d959",
-      "headline": "War criminal Ratko Mladić's jail release request denied",
-      "summary": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-14",
-      "time": "17:45",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1164,20 +1178,6 @@
       "time": "18:00",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-11-1f136862",
-      "headline": "'Total lack of respect': Macron interrupts speaker to ask for silence",
-      "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to be heard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-11",
-      "time": "16:10",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-05-10-649e13a4",
