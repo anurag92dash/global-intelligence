@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-17T14:18:55.294869+00:00",
-  "story_count": 86,
-  "source_count": 10,
+  "updated": "2026-05-17T15:33:14.970555+00:00",
+  "story_count": 83,
+  "source_count": 9,
   "stories": [
-    {
-      "id": "2026-05-17-5047422e",
-      "headline": "One of Ukraine's largest drone attacks kills 3 in Moscow area, Russia says",
-      "summary": "Ukrainian President Volodymyr Zelenskyy confirms the attack in a post on X, writing that \"Ukrainian long-range sanctions reached the Moscow region.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/17/largest-ukrainian-drone-attack-since-invasion-kills-3-in-moscow-area-russia-says",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "10:59",
-      "conflict_id": "ukraine-war",
-      "score": 73.0
-    },
     {
       "id": "2026-05-17-6ce55897",
       "headline": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
@@ -88,48 +74,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-05-17-61f21823",
-      "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
-      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "14:18",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-05-17-105c8a21",
-      "headline": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
-      "summary": "Russia’s capital and the surrounding Moscow region came under record drone attacks overnight, leaving at least three people killed and over a dozen wounded.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "05:21",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-05-17-d8973287",
-      "headline": "WHO Declares Congo Ebola Outbreak Global Health Emergency",
-      "summary": "The World Health Organization declared an Ebola outbreak in Democratic Republic of Congo and Uganda a public health emergency of international concern, warning that a rare virus strain with no approved vaccine or treatment may already be spreading more widely than detected.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/who-declares-congo-uganda-ebola-outbreak-global-health-emergency",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "01:31",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-05-17-33f18cff",
       "headline": "Cassidy Loses Senate Primary in Louisiana, as Trump Vanquishes G.O.P. Foe",
       "summary": "Senator Bill Cassidy, a two-term Republican who voted to convict President Trump in his 2021 impeachment trial,  took a veiled swipe at Mr. Trump, saying power should not focus on “one individual.”",
@@ -158,20 +102,6 @@
       "score": 47.4
     },
     {
-      "id": "2026-05-17-51a46612",
-      "headline": "Ukrainian drone attacks on Russia kill at least five",
-      "summary": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "09:14",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-05-17-b4e986b0",
       "headline": "Deadly drone strikes on Moscow ‘entirely justified’, says Zelenskyy",
       "summary": "Ukrainian president claims responsibility for attacks in retaliation for Russia’s bombardment of Kyiv",
@@ -184,6 +114,62 @@
       "time": "10:49",
       "conflict_id": "ukraine-war",
       "score": 46.4
+    },
+    {
+      "id": "2026-05-17-61f21823",
+      "headline": "Large-scale Ukrainian drone attack kills three in Moscow region, says Russia",
+      "summary": "Ukraine's president says the strikes are a \"justified\" response to deadly Russian attacks on Ukrainian cities.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ye480kxpmo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "14:18",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-17-d8c36fc0",
+      "headline": "UAE says drone strike caused fire at nuclear plant",
+      "summary": "Attack at Barakah plant caused no injuries, and authorities say radiation levels remain normal",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "15:02",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-05-17-105c8a21",
+      "headline": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
+      "summary": "Russia’s capital and the surrounding Moscow region came under record drone attacks overnight, leaving at least three people killed and over a dozen wounded.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "05:21",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
+      "id": "2026-05-17-2ba069ca",
+      "headline": "What to Watch in Saturday’s Republican Senate Primary in Louisiana",
+      "summary": "Senator Bill Cassidy, who has drawn President Trump’s ire, is fighting for political survival.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/16/us/politics/what-to-watch-louisiana-senate-primary.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-05-17",
+      "time": "01:01",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-05-17-c33c7d29",
@@ -200,30 +186,30 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-17-acb8224f",
-      "headline": "Israel comes second at Eurovision amid boycotts and backlash",
-      "summary": "Bulgaria won Eurovision, pushing Israel into second place amid boycotts and protests over Israel’s war on Gaza.",
+      "id": "2026-05-17-fc203df5",
+      "headline": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
+      "summary": "Authorities say radiation levels remain normal, operations not affected.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
       "region": "MENA",
-      "country": "Israel",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-05-17",
-      "time": "12:05",
+      "time": "14:07",
       "conflict_id": null,
       "score": 39.4
     },
     {
-      "id": "2026-05-17-a59624fe",
-      "headline": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
-      "summary": "Iran says it will soon reveal the plan as Trump warns Tehran it will have a &#039;very bad time&#039; if deal not reached soon.",
+      "id": "2026-05-17-51a46612",
+      "headline": "Ukrainian drone attacks on Russia kill at least five",
+      "summary": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/iran-war-day-79-tehran-to-unveil-hormuz-toll-plan-israel-bombs-lebanon?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
+      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
+      "region": "EU",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-05-17",
-      "time": "07:19",
+      "time": "09:14",
       "conflict_id": null,
       "score": 39.4
     },
@@ -240,6 +226,20 @@
       "time": "14:16",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-17-ca358cdd",
+      "headline": "NVIDIA Earnings Anticipated Amid Supply Constraints and China Uncertainty",
+      "summary": "US President Donald Trump said he discussed guardrails on artificial intelligence with Chinese leader Xi Jinping, while adding that Nvidia Corp.’s H200 chips also came up during a two-day summit in Beijing. Meanwhile, investors will eagerly be awaiting earnings results from chip giant Nvidia, the world’s largest company by market capitalization, for signs of how much momentum the artificial intelligence rally has left in it after a bout of jitter",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-17/nvidia-earnings-anticipated-on-wednesday-video",
+      "region": "NA",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "14:48",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-17-767fd837",
@@ -326,20 +326,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-05-17-0ae34221",
-      "headline": "Senate Ruling Threatens Ballroom Funding in G.O.P. Budget Bill",
-      "summary": "Democrats announced Saturday night that the Senate’s top parliamentary referee had determined that the $1 billion provision did not comply with budget rules.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/16/us/politics/white-house-ballroom-senate.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-05-17",
-      "time": "02:43",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-05-17-29fac833",
       "headline": "‘Feels like an illusion’: inside post-Maduro Venezuela’s bewildering new era",
       "summary": "Four months after Trump’s surprise raid, a political thaw has descended – but mingled with hope is trepidation for what comes nextWhen Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were setting off fireworks to celebrate the new year.Then his windows shattered, the building’s walls shook and its facade was ripped off, sending him flying on to the ground of an apartment suddenly reduced to rubbl",
@@ -350,6 +336,20 @@
       "category": "business",
       "date": "2026-05-17",
       "time": "05:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-05-17-888e3a18",
+      "headline": "Big tobacco is exploiting fears of the illicit market to unwind health gains, Australian experts warn",
+      "summary": "Cigarettes kill 66 Australians every day, coalition says, criticising MPs who heard evidence from Philip Morris in secretGet our breaking news email, free app or daily news podcastBig tobacco is exploiting fears of the illicit market to unwind longstanding health policies, leading health campaigners have warned, amid a parliamentary inquiry which took secret evidence from the cigarette manufacturer Philip Morris.A coalition of 15 health organisat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-05-17",
+      "time": "15:00",
       "conflict_id": null,
       "score": 32.0
     },
@@ -380,6 +380,20 @@
       "time": "10:05",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-05-17-f934b0c7",
+      "headline": "Two Malaysian ex-ministers quit ruling party, posing challenge to Anwar",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/two-malaysian-ex-ministers-quit-ruling-party-posing-challenge-to-anwar",
+      "region": "APJ",
+      "country": "Malaysia",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-05-17-31a595f9",
@@ -508,34 +522,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-17-ebb2cd5e",
-      "headline": "Xi, Putin Hail Opening of China-Russia Expo, Stress Cooperation",
-      "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin exchanged congratulatory messages marking the opening of the China-Russia Expo in the northeasten city of Harbin, highlighting deepening economic ties between the two countries.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/xi-putin-hail-opening-of-china-russia-expo-stress-cooperation",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "02:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-17-4b98a98c",
-      "headline": "India Missed Out on AI and Now Its Run as Market Darling May Be Over",
-      "summary": "India stands out as one of the biggest losers as the artificial intelligence trade reshapes global investment flows.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/india-missed-out-on-ai-and-now-its-run-as-market-darling-may-be-over",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-05-17",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-17-03066a42",
       "headline": "‘Fiercely loyal, endlessly generous’ father named as victim of Rottnest Island shark attack",
       "summary": "Steven Mattaboni, 38, was a ‘one-of-a-kind gentleman’ and devoted parent to two young daughters, his wife Shirene saysGet our breaking news email, free app or daily news podcastA father of two young daughters, husband and avid fisher has been identified as the victim of a fatal shark attack at Rottnest Island in Western Australia.Steven Mattaboni, 38, a surveyor from Perth, was in the water at Horseshoe Reef about 9.55am on Saturday when he was b",
@@ -564,20 +550,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-17-ced1bfc9",
-      "headline": "‘A place for everybody’: Stockholm to open its first publicly run sauna",
-      "summary": "Unlike its Nordic neighbours, finding a place in the Swedish capital to bada bastu is hard, with years-long waiting lists at member clubsThere is little doubt that Stockholm is a city of sauna-goers. All year round, from early morning to late into the night, the city’s residents can be seen emerging from wooden huts, a trail of woodsmoke coming from the chimney, and lowering themselves into the deep brackish waters of the Swedish capital’s shorel",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/17/a-place-for-everybody-stockholm-to-open-its-first-publicly-run-sauna",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-17",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-05-17-4e63e907",
       "headline": "Pro-Palestine protest held at oldest colonial building in South Africa",
       "summary": "To commemorate the Nakba, protesters in Cape Town staged a demonstration in solidarity with Palestinians.",
@@ -588,20 +560,6 @@
       "category": "politics",
       "date": "2026-05-17",
       "time": "13:02",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-17-f25aa0d1",
-      "headline": "India’s Tata and Dutch giant ASML sign semiconductor deal during Modi visit",
-      "summary": "Prime Minister Modi says his talks with the Dutch PM also focused on expanding cooperation in defence and security.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/indias-tata-and-dutch-giant-asml-sign-semiconductor-deal-during-modi-visit?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-05-17",
-      "time": "07:24",
       "conflict_id": null,
       "score": 23.4
     },
@@ -702,20 +660,6 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
-    },
-    {
-      "id": "2026-05-17-db44c04a",
-      "headline": "China’s Unitree unveils a rideable, wall-smashing robot straight out of science fiction",
-      "summary": "A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "07:00",
-      "conflict_id": null,
-      "score": 21.0
     },
     {
       "id": "2026-05-16-9669b995",
@@ -870,6 +814,20 @@
       "time": "10:00",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-05-15-3566c9a4",
+      "headline": "Switzerland to open secret files on Auschwitz 'Angel of Death' Mengele",
+      "summary": "Mengele fled Europe after the war but for years there were rumours he spent time in Switzerland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cgjpyqjj8y4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Switzerland",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "23:04",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-15-816fdf95",
@@ -1051,7 +1009,7 @@
       "date": "2026-05-13",
       "time": "23:22",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-05-13-c879a53c",
