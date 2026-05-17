@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-17T04:17:49.405396+00:00",
-  "story_count": 90,
-  "source_count": 9,
+  "updated": "2026-05-17T07:19:16.285904+00:00",
+  "story_count": 92,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-17-7264bb71",
+      "headline": "GOP senator who voted to convict Trump in impeachment trial loses primary",
+      "summary": "Sen. Bill Cassidy of Louisiana failed to make the runoff in his GOP Senate primary five years after his vote to convict Donald Trump, which led the president to call for his ouster.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/16/gop-senator-who-defied-trump-impeachment-faces-voters-five-years-later/",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-05-17",
+      "time": "03:36",
+      "conflict_id": null,
+      "score": 56.9
+    },
     {
       "id": "2026-05-17-d8973287",
       "headline": "WHO Declares Congo Ebola Outbreak Global Health Emergency",
@@ -18,18 +32,18 @@
       "score": 50.1
     },
     {
-      "id": "2026-05-17-7264bb71",
-      "headline": "GOP senator who voted to convict Trump in impeachment trial loses primary",
-      "summary": "Sen. Bill Cassidy of Louisiana failed to make the runoff in his GOP Senate primary five years after his vote to convict Donald Trump, which led the president to call for his ouster.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/16/gop-senator-who-defied-trump-impeachment-faces-voters-five-years-later/",
+      "id": "2026-05-17-61e2520a",
+      "headline": "Trump’s pick for Republican primary beats senator who voted to impeach him",
+      "summary": "Julia Letlow advances to second round after US president accused Bill Cassidy of disloyalty",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e2aca448-a6db-4322-b14f-f461c827f347",
       "region": "NA",
-      "country": "Senate",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-05-17",
-      "time": "03:36",
+      "time": "03:17",
       "conflict_id": null,
-      "score": 48.9
+      "score": 42.4
     },
     {
       "id": "2026-05-17-33f18cff",
@@ -41,9 +55,23 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-05-17",
-      "time": "04:00",
+      "time": "04:40",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-05-17-edbcd10d",
+      "headline": "A Port Kembla nuclear submarine base would ‘place a massive target on our backs’, NSW labour union warns",
+      "summary": "Outcry follows release of previously secret documents naming Wollongong suburb as preferred east coast Aukus baseAs Aukus spending and delays blow out, will Australia’s nuclear submarines ever materialise?Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA labour union has expressed alarm about newly released documents that reveal Port Kembla to be a preferred Australian base for nucl",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/17/port-kembla-nsw-aukus-nuclear-submarine-base-outcry-nsw-labour-union",
+      "region": "EU",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "05:46",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-05-17-81248185",
@@ -60,34 +88,6 @@
       "score": 38.8
     },
     {
-      "id": "2026-05-17-d870456a",
-      "headline": "Trump-Xi summit: How the US president's China visit unfolded",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/trump-xi-summit-how-the-us-president-s-china-visit-unfolded",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-17",
-      "time": "",
-      "conflict_id": null,
-      "score": 38.8
-    },
-    {
-      "id": "2026-05-17-6bbc4d2a",
-      "headline": "Trump-backed challenger defeats two-term Republican senator in primary",
-      "summary": "President had branded Bill Cassidy of Louisiana ‘disloyal’ for voting to impeach him",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e2aca448-a6db-4322-b14f-f461c827f347",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-17",
-      "time": "03:17",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
       "id": "2026-05-17-73dbfd7b",
       "headline": "Philippines Asks Court to Deny Petition of Senator Sought by ICC",
       "summary": "The Philippine government asked the Supreme Court to deny a petition by Senator Ronald Dela Rosa to stop his arrest after the International Criminal Court issued a warrant on allegations of crimes against humanity.",
@@ -100,6 +100,48 @@
       "time": "03:12",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-05-17-f64c736e",
+      "headline": "7 Republicans Voted to Convict Trump. Most Are No Longer in Office.",
+      "summary": "Senator Bill Cassidy’s defeat means no more than two of them will be left in Congress next year.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/16/us/politics/republicans-trump-cassidy-conviction-impeachment.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-05-17",
+      "time": "03:39",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-05-17-90c1eb1d",
+      "headline": "‘Feels like an illusion’: how Trump seizing Maduro has changed little in Venezuela",
+      "summary": "Some feel optimistic change will come, but for many it’s business as usual for the movement Hugo Chávez startedWhen Ángel Linares heard a strange buzz followed by an explosion, his first thought was that neighbours were setting off fireworks to celebrate the new year.Then his windows shattered, the building’s walls shook and its facade was ripped off, sending him flying on to the ground of an apartment suddenly reduced to rubble. His 85-year-old ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/ng-interactive/2026/may/17/feels-like-an-illusion-how-trump-seizing-maduro-has-changed-little-in-venezuela",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-05-17",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-05-17-31a595f9",
+      "headline": "Sara Duterte trial, Takaichi-Lee summit, Samsung unionists go on strike",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/sara-duterte-trial-takaichi-lee-summit-samsung-unionists-go-on-strike",
+      "region": "APJ",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-05-17-620e7f14",
@@ -186,6 +228,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-17-c89d6f4a",
+      "headline": "‘Fiercely loyal, endlessly generous’ young father named as victim of Rottnest Island shark attack",
+      "summary": "Steven Mattaboni, 38, was a ‘one-of-a-kind gentleman’ and devoted father of two young daughters, his wife Shirene said A father of two young daughters, husband and avid fisher has been identified as the victim of a fatal shark attack at Rottnest Island in Western Australia.Steven Mattaboni, 38, a surveyor from Perth, was in the water at Horseshoe Reef on Rottnest Island about 9.55am on Saturday when he was believed to have been bitten by a shark,",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/17/steven-mattaboni-named-as-victim-of-rottnest-island-shark-attack",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-05-17",
+      "time": "06:53",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-05-17-ced1bfc9",
       "headline": "‘A place for everybody’: Stockholm to open its first publicly run sauna",
       "summary": "Unlike its Nordic neighbours, finding a place in the Swedish capital to bada bastu is hard, with years-long waiting lists at member clubsThere is little doubt that Stockholm is a city of sauna-goers. All year round, from early morning to late into the night, the city’s residents can be seen emerging from wooden huts, a trail of woodsmoke coming from the chimney, and lowering themselves into the deep brackish waters of the Swedish capital’s shorel",
@@ -256,20 +312,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-17-0e757e8f",
-      "headline": "Japan to bolster sea lane defense with Southeast Asia info-sharing plan",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/defense/japan-to-bolster-sea-lane-defense-with-southeast-asia-info-sharing-plan",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-17-2decb465",
       "headline": "Honda taps ace engineer to lead transformation after EV strategy pause",
       "summary": "",
@@ -298,18 +340,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-17-f4abe8c4",
-      "headline": "Alphabet beats Berkshire with record 576bn yen bond offering",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/bonds/alphabet-beats-berkshire-with-record-576bn-yen-bond-offering",
-      "region": "APJ",
+      "id": "2026-05-17-21e97343",
+      "headline": "Watch: Bulgaria wins Eurovision as Dara celebrates historic victory",
+      "summary": "Bulgarian singer Dara wins 70th edition of the Eurovision Song Contest, beating 24 other countries to take the crown of the world's biggest live televised music show.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/05/17/watch-bulgaria-wins-eurovision-as-dara-celebrates-historic-victory",
+      "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-05-17",
-      "time": "",
+      "time": "00:47",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
       "id": "2026-05-16-231d83e6",
@@ -340,18 +382,46 @@
       "score": 63.0
     },
     {
-      "id": "2026-05-16-49fb483b",
-      "headline": "Israel kills last Hamas chief who oversaw October 7 attack",
-      "summary": "Death of Izz al-Din al-Haddad in an air strike piles greater pressure on fragile ceasefire",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e36df354-4d50-4399-b9dd-5beda50688b9",
+      "id": "2026-05-16-abc4c953",
+      "headline": "Russia launches nearly 300 drones at Ukraine as 528 bodies of Ukrainian soldiers are returned",
+      "summary": "Russian forces launched hundreds of strikes across Ukraine overnight, with direct hits by drones recorded at 15 locationsm Ukraine's Air Force said. Meanwhile, the bodies of 528 Ukrainian soldiers were returned a day after Russia and Ukraine exchanged prisoners of war.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/16/russia-launches-nearly-300-drones-at-ukraine-as-528-bodies-of-ukrainian-soldiers-are-retur",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "11:24",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
+      "id": "2026-05-16-b3287e3f",
+      "headline": "Thousands protest at Eurovision final as five countries boycott over Israel",
+      "summary": "Spain, Ireland, Iceland, Slovenia and Netherlands all withdrew in protest against Israel&#039;s participation amid Gaza war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/16/thousands-protest-at-eurovision-final-as-five-countries-boycott-over-israel?traffic_source=rss",
+      "region": "EU",
+      "country": "Netherlands",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "20:31",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-05-16-d0b1eb37",
+      "headline": "Eurovision final in Vienna overshadowed by protests over Israel’s participation",
+      "summary": "Hundreds protested in Vienna against Israel’s participation in Eurovision 2026 as security was tightened around the Wiener Stadthalle before the grand final, amid tensions linked to the war in Gaza.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/05/16/eurovision-final-in-vienna-overshadowed-by-protests-over-israels-participation",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-05-16",
-      "time": "15:38",
+      "time": "18:21",
       "conflict_id": null,
-      "score": 50.4
+      "score": 45.0
     },
     {
       "id": "2026-05-16-2d35a559",
@@ -466,6 +536,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-05-16-c81dbb41",
+      "headline": "Putin to visit China days after Trump's Beijing trip, Kremlin says",
+      "summary": "Putin and Chinese President Xi Jinping will discuss ways to deepen their countries' \"comprehensive partnership and strategic cooperation,\" the Kremlin said.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/16/putin-to-visit-china-days-after-trumps-beijing-trip-kremlin-says",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-16",
+      "time": "10:19",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-05-16-f8ebccbc",
       "headline": "Senior IS leader killed in joint operation, US and Nigeria say",
       "summary": "President Donald Trump said the operation eliminated \"the most active terrorist in the world\", Abu-Bilal al-Minuki.",
@@ -560,20 +644,6 @@
       "category": "politics",
       "date": "2026-05-16",
       "time": "19:22",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-05-16-1b60c460",
-      "headline": "UK ex-health minister says will run to replace Prime Minister Keir Starmer",
-      "summary": "Pressure mounts on Starmer&#039;s government, as Labour rivals including recently resigned Wes Streeting circle.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/uk-ex-health-minister-says-will-run-to-replace-prime-minister-keir-starmer?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-16",
-      "time": "17:32",
       "conflict_id": null,
       "score": 31.4
     },
@@ -718,18 +788,32 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-16-a4ffa332",
-      "headline": "Palestinian President Abbas casts vote in decisive Fatah elections",
-      "summary": "Internal Fatah leadership elections take place amid questions of who will eventually succeed the 90-year-old leader.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/16/palestinian-president-abbas-casts-vote-in-decisive-fatah-elections?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-16",
-      "time": "18:03",
+      "id": "2026-05-15-816fdf95",
+      "headline": "What China critics in Maga movement make of Trump's Beijing trip",
+      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "19:52",
       "conflict_id": null,
-      "score": 23.4
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-15-82f13b1e",
+      "headline": "Watch: What did we learn from Trump's visit to China?",
+      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-15",
+      "time": "13:25",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-15-746b6b2c",
@@ -744,20 +828,6 @@
       "time": "12:53",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-15-7d251c5a",
-      "headline": "In pageantry and politics, China summit yields Xi’s goal — equal footing with U.S.",
-      "summary": "The image of peer superpowers during President Trump’s visit displayed a dynamic that analysts say the Chinese have long sought and Americans had resisted.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/15/beijing-summit-yields-chinese-goal-equal-footing-with-us/",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "07:15",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-05-15-d817bf1c",
@@ -798,34 +868,6 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "23:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-816fdf95",
-      "headline": "What China critics in Maga movement make of Trump's Beijing trip",
-      "summary": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "19:52",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-82f13b1e",
-      "headline": "Watch: What did we learn from Trump's visit to China?",
-      "summary": "President Trump has concluded a two-day visit to Beijing at a high-stakes summit with Chinese leader Xi Jinping.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cn8p36jzd7yo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "politics",
-      "date": "2026-05-15",
-      "time": "13:25",
       "conflict_id": null,
       "score": 35.0
     },
@@ -942,16 +984,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-14-f2f9c868",
-      "headline": "Warning of record global temperatures",
-      "summary": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "id": "2026-05-14-f81cf0a5",
+      "headline": "BBC on the ground during march through Jerusalem's Old City",
+      "summary": "Tens of thousands of Israeli celebrants have marched through the area captured by Israel in the 1967 Arab-Israeli war.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
+      "url": "https://www.bbc.com/news/videos/cdxp0143q0po?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-05-14",
-      "time": "15:29",
+      "time": "20:51",
       "conflict_id": null,
       "score": 35.0
     },
@@ -998,6 +1040,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-14-f2f9c868",
+      "headline": "Warning of record global temperatures",
+      "summary": "Warning of record global temperatures as chance of very strong El Niño grows",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cy420k2y34lo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-14",
+      "time": "15:29",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-14-ba1c5cdf",
+      "headline": "'Door is open' for Canada to join Eurovision",
+      "summary": "Prime Minister Mark Carney has already floated the idea of Canada joining the song contest.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1k2z1lv4d3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-05-14",
+      "time": "17:40",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-05-14-fc96d314",
       "headline": "The strange Japanese companies minting money from AI",
       "summary": "What the creator of MSG and the world’s biggest toilet-maker have in common",
@@ -1024,20 +1094,6 @@
       "time": "12:55",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-05-14-14520ce5",
-      "headline": "Judge orders Trump administration to return Colombian woman deported to DRC back to the US",
-      "summary": "Judge called Adriana Maria Quiroz Zapata’s deportation to the Democratic Republic of Congo ‘likely illegal’A federal judge has ordered the Trump administration to bring a Colombian woman back to the US from the Democratic Republic of Congo, after she was deported to the African country that had refused to accept her.The deportation of Adriana María Quiroz Zapata “was likely illegal”, the US district judge Richard Leon ruled on Wednesday. Continue",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/may/14/trump-administration-colombian-woman-drc",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "business",
-      "date": "2026-05-14",
-      "time": "18:49",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-05-13-c1fa4580",
@@ -1080,20 +1136,6 @@
       "time": "11:57",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-12-e6c32f3d",
-      "headline": "Hamas 'weaponised' sexual violence in 7 October attacks, Israeli investigation says",
-      "summary": "The most comprehensive report of its kind details harrowing cases of sexual attacks which it says were systematic.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz9k7pzggo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "16:58",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-05-12-651a4f6c",
@@ -1152,20 +1194,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-12-917ebca7",
-      "headline": "UK promises jets, drones and warship for Strait of Hormuz defence mission",
-      "summary": "More than 40 nations are involved in the mission, which the Ministry of Defence says will begin when conditions allow.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y909grldqo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "19:31",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-12-abcf7a69",
       "headline": "The Kabul rehab centre hit by deadly Pakistani strike",
       "summary": "Pakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.",
@@ -1194,20 +1222,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-11-5788a9f3",
-      "headline": "EU agrees sanctions on Israeli settlers over West Bank violence",
-      "summary": "The EU's foreign policy chief said \"extremism and violence carry consequences\", while Israel branded the move \"arbitrary\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202wp2rl09o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-11",
-      "time": "19:37",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-11-d6cf7290",
       "headline": "Advocaat, 78, set for World Cup record after Curacao return",
       "summary": "Dick Advocaat makes a surprise return as Curacao's head coach after his successor Fred Rutten resigned just a month out from their World Cup debut.",
@@ -1220,6 +1234,20 @@
       "time": "18:00",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-11-1f136862",
+      "headline": "'Total lack of respect': Macron interrupts speaker to ask for silence",
+      "summary": "The French president stood up during a conference in Kenya to tell the audience to quieten down, saying it was “impossible” for speakers to be heard.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/czx2wd20evyo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-11",
+      "time": "16:10",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-10-649e13a4",
