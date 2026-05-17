@@ -1,21 +1,21 @@
 {
-  "updated": "2026-05-17T11:50:57.309865+00:00",
+  "updated": "2026-05-17T12:48:45.218915+00:00",
   "story_count": 87,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-05-17-4e3ccf10",
-      "headline": "Largest Ukrainian drone attack since invasion kills 3 in Moscow area, Russia says",
+      "id": "2026-05-17-5047422e",
+      "headline": "One of Ukraine's largest drone attacks kills 3 in Moscow area, Russia says",
       "summary": "Ukrainian President Volodymyr Zelenskyy confirms the attack in a post on X, writing that \"Ukrainian long-range sanctions reached the Moscow region.\"",
       "source": "Euronews",
       "url": "http://www.euronews.com/my-europe/2026/05/17/largest-ukrainian-drone-attack-since-invasion-kills-3-in-moscow-area-russia-says",
       "region": "EU",
-      "country": null,
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-17",
       "time": "10:59",
-      "conflict_id": null,
-      "score": 61.0
+      "conflict_id": "ukraine-war",
+      "score": 73.0
     },
     {
       "id": "2026-05-17-7264bb71",
@@ -172,6 +172,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-05-17-acb8224f",
+      "headline": "Israel comes second at Eurovision amid boycotts and backlash",
+      "summary": "Bulgaria won Eurovision, pushing Israel into second place amid boycotts and protests over Israel’s war on Gaza.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/17/israel-comes-second-at-eurovision-amid-boycotts-and-backlash?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "12:05",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-05-17-a59624fe",
       "headline": "Iran war day 79: Tehran to unveil Hormuz toll plan; Israel bombs Lebanon",
       "summary": "Iran says it will soon reveal the plan as Trump warns Tehran it will have a &#039;very bad time&#039; if deal not reached soon.",
@@ -198,6 +212,20 @@
       "time": "03:23",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-17-b6b67286",
+      "headline": "Emerging Carry Trade Rebounds With Real, Rand Among Favorites",
+      "summary": "The emerging-market carry trade has bounced back from its Iran war losses as surging crude oil prices reinforce expectations that interest rates will stay elevated and bolster the currencies of commodity exporters.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/emerging-carry-trade-rebounds-with-real-rand-among-favorites",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-05-17",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-17-1ac34f6f",
@@ -319,20 +347,6 @@
       "url": "https://www.ft.com/content/0c2adc44-5dcf-4273-943e-9899a1ce44ff",
       "region": "EU",
       "country": null,
-      "category": "business",
-      "date": "2026-05-17",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-05-17-d353ba67",
-      "headline": "Europe’s leaders must stop self-censoring",
-      "summary": "White House pressure is being met with political flattery and strategic ambiguity that citizens find confusing",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c4a067dc-dfac-487b-906f-c9bbb73016e8",
-      "region": "EU",
-      "country": "White House",
       "category": "business",
       "date": "2026-05-17",
       "time": "04:00",
@@ -522,6 +536,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-05-17-16ae86b2",
+      "headline": "China says Xi and Trump agreed to spur trade by lowering some tariffs",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-xi-summit/china-says-xi-and-trump-agreed-to-spur-trade-by-lowering-some-tariffs",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-05-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-05-17-07d7bbed",
       "headline": "China investor gobbles up 120-year-old German sewing machine maker",
       "summary": "",
@@ -562,6 +590,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-05-17-db44c04a",
+      "headline": "China’s Unitree unveils a rideable, wall-smashing robot straight out of science fiction",
+      "summary": "A Chinese robotics company has started selling a giant pilotable robot. It costs €500,000, walks on two legs, and can also smash through walls. Welcome to the future?",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/next/2026/05/17/chinas-unitree-unveils-a-rideable-wall-smashing-robot-straight-out-of-science-fiction",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "07:00",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-05-16-9669b995",
@@ -718,20 +760,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-16-d3c5482d",
-      "headline": "Wall Street Week | Dalio's Warning, AI Arms Race, China Powers Ahead, NYC Tax Standoff",
-      "summary": "This week, Ray Dalio explains why markets shrug off wars and why this time might be different. And, why are AI executives warning about the dangers of systems they are simultaneously racing to build?  Plus, China’s massive investments in energy infrastructure are increasingly shaping the global competition for artificial intelligence leadership and industrial power. Later, can New York remain attractive to businesses and young workers while raisi",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-16/wall-street-week-dalio-s-warning-nyc-tax-standoff-video",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-16",
-      "time": "14:15",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-05-16-43e626f2",
       "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
       "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
@@ -756,20 +784,6 @@
       "category": "business",
       "date": "2026-05-16",
       "time": "14:53",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-16-3e14635e",
-      "headline": "Bond Selloff Threatens to Knock AI Stock Frenzy Off Course",
-      "summary": "Investors are fervently chasing the hot rally in tech and AI stocks while widely acknowledging that rising yields threaten to knock equities off course.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-16/bond-selloff-threatens-to-knock-ai-stock-frenzy-off-course",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-16",
-      "time": "13:31",
       "conflict_id": null,
       "score": 26.1
     },
@@ -1052,20 +1066,6 @@
       "time": "23:22",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-05-13-4b102612",
-      "headline": "Netanyahu says he 'secretly visited' UAE during war with Iran",
-      "summary": "The UAE denied reports of the \"alleged visit\" and insisted relations between the two countries were not based on \"unofficial arrangements\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-13",
-      "time": "22:30",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-13-c879a53c",
