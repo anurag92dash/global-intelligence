@@ -1,8 +1,50 @@
 {
-  "updated": "2026-05-17T16:36:04.828693+00:00",
-  "story_count": 83,
-  "source_count": 9,
+  "updated": "2026-05-17T17:37:59.750742+00:00",
+  "story_count": 85,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-17-5047422e",
+      "headline": "One of Ukraine's largest drone attacks kills 3 in Moscow area, Russia says",
+      "summary": "Ukrainian President Volodymyr Zelenskyy confirms the attack in a post on X, writing that \"Ukrainian long-range sanctions reached the Moscow region.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/17/largest-ukrainian-drone-attack-since-invasion-kills-3-in-moscow-area-russia-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "10:59",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-05-17-546d14b7",
+      "headline": "Drone strike sparks fire near UAE nuclear plant amid Iran ceasefire tension",
+      "summary": "A drone strike sparked a fire near the UAE’s Barakah nuclear plant, officials say, with no injuries or radiation leak reported as regional tensions around the Iran ceasefire escalate.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/17/drone-strike-sparks-fire-near-uae-nuclear-plant-amid-iran-ceasefire-tension",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "13:50",
+      "conflict_id": null,
+      "score": 61.0
+    },
+    {
+      "id": "2026-05-17-472758c6",
+      "headline": "Three community kitchen workers among five killed by Israel in Gaza",
+      "summary": "Israeli attacks on Gaza have killed at least 871 Palestinians since the so-called ceasefire started last year.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/three-community-kitchen-workers-among-five-killed-by-israel-in-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "16:31",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
     {
       "id": "2026-05-17-6ce55897",
       "headline": "How will Izz al-Din al-Haddad assassination impact Hamas’s Gaza operations?",
@@ -18,6 +60,34 @@
       "score": 59.4
     },
     {
+      "id": "2026-05-17-bc1b35c8",
+      "headline": "UAE reports strike near Abu Dhabi nuclear power plant",
+      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "16:25",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
+      "id": "2026-05-17-d8c36fc0",
+      "headline": "UAE says drone strike caused fire at nuclear plant",
+      "summary": "Attack at Barakah plant caused no injuries, and authorities say radiation levels remain normal",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "16:06",
+      "conflict_id": null,
+      "score": 58.4
+    },
+    {
       "id": "2026-05-17-7264bb71",
       "headline": "GOP senator who voted to convict Trump in impeachment trial loses primary",
       "summary": "Sen. Bill Cassidy of Louisiana failed to make the runoff in his GOP Senate primary five years after his vote to convict Donald Trump, which led the president to call for his ouster.",
@@ -30,6 +100,20 @@
       "time": "03:36",
       "conflict_id": null,
       "score": 57.9
+    },
+    {
+      "id": "2026-05-17-fc203df5",
+      "headline": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
+      "summary": "Authorities say radiation levels remain normal, operations not affected.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "14:07",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-05-17-24e6a842",
@@ -74,32 +158,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-05-17-bc1b35c8",
-      "headline": "UAE reports strike near Abu Dhabi nuclear power plant",
-      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-17-105c8a21",
+      "headline": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
+      "summary": "Russia’s capital and the surrounding Moscow region came under record drone attacks overnight, leaving at least three people killed and over a dozen wounded.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
       "region": "NA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-05-17",
-      "time": "16:25",
+      "time": "05:21",
       "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-05-17-d8c36fc0",
-      "headline": "UAE says drone strike caused fire at nuclear plant",
-      "summary": "Attack at Barakah plant caused no injuries, and authorities say radiation levels remain normal",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c4b786a6-55d4-4689-b19e-48a48f7946e6",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "16:06",
-      "conflict_id": null,
-      "score": 50.4
+      "score": 50.1
     },
     {
       "id": "2026-05-17-33f18cff",
@@ -114,20 +184,6 @@
       "time": "13:06",
       "conflict_id": null,
       "score": 49.2
-    },
-    {
-      "id": "2026-05-17-fc203df5",
-      "headline": "Drone strike sparks fire on perimeter of UAE’s Barakah nuclear power plant",
-      "summary": "Authorities say radiation levels remain normal, operations not affected.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/drone-strike-sparks-fire-at-uaes-barakah-nuclear-power-plant?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "14:07",
-      "conflict_id": null,
-      "score": 47.4
     },
     {
       "id": "2026-05-17-ac413f41",
@@ -172,20 +228,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-17-105c8a21",
-      "headline": "Record Drone Attack on Moscow Kills Three, Targets Refinery",
-      "summary": "Russia’s capital and the surrounding Moscow region came under record drone attacks overnight, leaving at least three people killed and over a dozen wounded.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/record-drone-attack-on-moscow-kills-three-targets-refinery",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "05:21",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-05-17-8cf74376",
       "headline": "At Supreme Court, Virginia Democrats Pressed Legal Theory Embraced by Trump",
       "summary": "A long-shot emergency request to restore a voting map was the latest salvo in an all-out legal war over control of the House.",
@@ -228,20 +270,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-17-51a46612",
-      "headline": "Ukrainian drone attacks on Russia kill at least five",
-      "summary": "Russian authorities say three people killed in the Moscow region and one in Belgorod in Ukrainian attacks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/17/at-least-four-killed-in-ukrainian-drone-attacks-on-russia?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "09:14",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-05-17-835a667c",
       "headline": "Trump-backed challenger defeats Republican senator who voted to convict president",
       "summary": "Trump threw his full support behind Julia Letlow in Louisiana's high-stakes contest, branding the incumbent \"disloyal\".",
@@ -254,6 +282,20 @@
       "time": "16:25",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-17-04bbb88c",
+      "headline": "Bloomberg This Weekend 5/17/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Luke Broadwater, New York Times White House Correspondent, Mike Lawler, Republican Representative of New York, Soumaya Keynes, Author of \"How to Win a Trade War,\" Missy Ryan, The Atlantic National Security Writer, Theo Baker, Author of \"How to Rule ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-17/bloomberg-this-weekend-5-17-2026-video",
+      "region": "EU",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-05-17",
+      "time": "16:33",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-17-767fd837",
@@ -552,7 +594,7 @@
     {
       "id": "2026-05-17-e4ba06ee",
       "headline": "‘It was like a mosh pit’: Swatch closes stores as watch launch causes crowding and scuffles",
-      "summary": "French police fire teargas and UK shops close for safety reasons as hundreds queue for Royal Pop timepieces that make up Audemars Piguet collaborationThe launch of limited-edition Swatch watches descended into chaos in several European cities and New York, with French police firing teargas to restore order at a store near Paris.Hundreds of people waited through the night from Friday into Saturday – and in some cases for several days – hoping to b",
+      "summary": "Paris police used teargas on Saturday and UK shops stayed shut on Sunday after rush for Royal Pop timepiecesSwatch closed its stores in the UK and in some cities in Europe and the US at the weekend after the launch of a limited-edition watch caused chaos.Shoppers waited throughout the night, and in some cases for several days, hoping to buy the Royal Pop timepieces – made in collaboration with the luxury watchmaker Audemars Piguet – on Saturday. ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/17/swatch-royal-pop-launch-chaos-closures",
       "region": "EU",
@@ -576,6 +618,20 @@
       "time": "13:02",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-05-17-4684076b",
+      "headline": "Japan to craft guidelines on using Anthropic's Mythos for cyberdefense",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-to-craft-guidelines-on-using-anthropic-s-mythos-for-cyberdefense",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-17-0d7c173d",
@@ -998,20 +1054,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-05-13-c1fa4580",
-      "headline": "Hezbollah support endures in south Lebanon as ceasefire fails to stop war with Israel",
-      "summary": "Despite continuing Israeli attacks and occupation, many people in the south still believe the armed group is the only force capable of defending them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d3g6deljyo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-13",
-      "time": "23:22",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-13-c879a53c",
       "headline": "Climbers clear path to Everest summit past giant chunk of ice",
       "summary": "Nearly 1,000 climbers will attempt to scale the peak in coming weeks and this has raised safety concerns.",
@@ -1024,20 +1066,6 @@
       "time": "11:57",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-12-651a4f6c",
-      "headline": "Lebanon says two paramedics among 13 killed in Israeli strikes",
-      "summary": "Lebanon's health ministry says the paramedics were carrying out a rescue mission in Nabatieh in response to an earlier attack that killed one person.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21j3xl72zo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-12",
-      "time": "20:00",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-05-12-40bbe161",
