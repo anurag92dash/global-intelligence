@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-17T21:33:41.616898+00:00",
-  "story_count": 84,
+  "updated": "2026-05-17T22:32:06.438527+00:00",
+  "story_count": 82,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-05-17-5047422e",
+      "headline": "One of Ukraine's largest drone attacks kills 3 in Moscow area, Russia says",
+      "summary": "Ukrainian President Volodymyr Zelenskyy confirms the attack in a post on X, writing that \"Ukrainian long-range sanctions reached the Moscow region.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/17/largest-ukrainian-drone-attack-since-invasion-kills-3-in-moscow-area-russia-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "10:59",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
     {
       "id": "2026-05-17-546d14b7",
       "headline": "Drone strike sparks fire near UAE nuclear plant amid Iran ceasefire tension",
@@ -74,20 +88,6 @@
       "score": 58.4
     },
     {
-      "id": "2026-05-17-5047422e",
-      "headline": "One of Ukraine's largest drone attacks kills 3 in Moscow area, Russia says",
-      "summary": "Ukrainian President Volodymyr Zelenskyy confirms the attack in a post on X, writing that \"Ukrainian long-range sanctions reached the Moscow region.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/17/largest-ukrainian-drone-attack-since-invasion-kills-3-in-moscow-area-russia-says",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "10:59",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
-    },
-    {
       "id": "2026-05-17-7264bb71",
       "headline": "GOP senator who voted to convict Trump in impeachment trial loses primary",
       "summary": "Sen. Bill Cassidy of Louisiana failed to make the runoff in his GOP Senate primary five years after his vote to convict Donald Trump, which led the president to call for his ouster.",
@@ -130,6 +130,20 @@
       "score": 55.4
     },
     {
+      "id": "2026-05-17-00f3dc95",
+      "headline": "Ukraine’s deadly drone strikes on Moscow ‘entirely justified’, says Zelenskyy",
+      "summary": "Ukrainian president claims responsibility for attacks in retaliation for Russia’s bombardment of Kyiv",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c7e98e0b-90c4-4602-86d7-5a99b1b0b7ab",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "10:49",
+      "conflict_id": "ukraine-war",
+      "score": 54.4
+    },
+    {
       "id": "2026-05-17-ffe6fe6a",
       "headline": "EU plan to slash steel imports will hurt Ukraine, officials warn",
       "summary": "Brussels’ proposed quota reduction could cost Kyiv up to €1bn in lost export revenue",
@@ -156,20 +170,6 @@
       "time": "21:02",
       "conflict_id": null,
       "score": 50.4
-    },
-    {
-      "id": "2026-05-17-b4e986b0",
-      "headline": "Deadly drone strikes on Moscow ‘entirely justified’, says Zelenskyy",
-      "summary": "Ukrainian president claims responsibility for attacks in retaliation for Russia’s bombardment of Kyiv",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c7e98e0b-90c4-4602-86d7-5a99b1b0b7ab",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "10:49",
-      "conflict_id": "ukraine-war",
-      "score": 46.4
     },
     {
       "id": "2026-05-17-264d8c54",
@@ -214,16 +214,16 @@
       "score": 41.2
     },
     {
-      "id": "2026-05-17-c33c7d29",
-      "headline": "Aukus nuclear submarine base would ‘place a massive target on our backs’, NSW labour union warns",
-      "summary": "Outcry follows release of previously secret documents naming Port Kembla as preferred east coast Aukus baseAs Aukus spending and delays blow out, will Australia’s nuclear submarines ever materialise?Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA labour union has expressed alarm about newly released documents that reveal Port Kembla to be a preferred Australian base for nuclear-po",
+      "id": "2026-05-17-60fb3cd0",
+      "headline": "News live: Australian health officials to work on ebola outbreak response, minister says; NSW police arrest 993 in domestic violence sweep",
+      "summary": "World Health Organization declared outbreak in Africa a ‘public health emergency of international concern’. Follow today’s news liveGet our breaking news email, free app or daily news podcastWatt was asked about the response to the federal budget last week, which is starting to filter through opinion polls this morning. He said the government didn’t design the budget to see the government’s standing go up or down in those surveys, but to see more",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/17/port-kembla-nsw-aukus-nuclear-submarine-base-outcry-nsw-labour-union",
-      "region": "EU",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/18/australia-news-live-nsw-victoria-queensland-politics-labor-liberal-coalition-melbourne-sydney-brisbane-economy-weather-ntwnfb",
+      "region": "APJ",
       "country": "Australia",
-      "category": "geopolitics",
+      "category": "politics",
       "date": "2026-05-17",
-      "time": "05:46",
+      "time": "22:08",
       "conflict_id": null,
       "score": 40.0
     },
@@ -370,7 +370,7 @@
     {
       "id": "2026-05-17-888e3a18",
       "headline": "Big tobacco is exploiting fears of the illicit market to unwind health gains, Australian experts warn",
-      "summary": "Cigarettes kill 66 Australians every day, coalition says, criticising MPs who heard evidence from Philip Morris in secretGet our breaking news email, free app or daily news podcastBig tobacco is exploiting fears of the illicit market to unwind longstanding health policies, leading health campaigners have warned, amid a parliamentary inquiry which took secret evidence from the cigarette manufacturer Philip Morris.A coalition of 15 health organisat",
+      "summary": "Cigarettes kill 66 Australians every day, health groups say, criticising MPs who heard evidence from Philip Morris in secretFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastBig tobacco is exploiting fears of the illicit market to unwind longstanding health policies, leading health campaigners have warned, amid a parliamentary inquiry which took secret evidence from the cigarette manu",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/may/18/big-tobacco-is-exploiting-fears-of-the-illicit-market-to-unwind-health-gains-australian-experts-warn",
       "region": "APJ",
@@ -522,34 +522,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-17-bd1aef4e",
-      "headline": "Australia Says Tax Changes Aim to Fix Broken Housing Market",
-      "summary": "Australia’s Treasurer Jim Chalmers on Sunday reiterated that overhauling the nation’s capital gains tax laws is aimed at fixing a broken housing market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/australia-says-tax-changes-aim-to-fix-broken-housing-market",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-05-17",
-      "time": "03:54",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-17-c0c12b88",
-      "headline": "China Market Watchdog Sets Priorities to Support Private Sector",
-      "summary": "China’s market regulator set out 34 priorities for 2026 to support private sector growth, focusing on fair competition, stronger legal protections and efficient regulation.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-17/china-market-watchdog-sets-priorities-to-support-private-sector",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-05-17",
-      "time": "03:48",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-17-d8a138ed",
       "headline": "AI super-apps are remaking China’s internet",
       "summary": "Welcome to the agentic era",
@@ -562,20 +534,6 @@
       "time": "19:39",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-05-17-03066a42",
-      "headline": "‘Fiercely loyal, endlessly generous’ father named as victim of Rottnest Island shark attack",
-      "summary": "Steven Mattaboni, 38, was a ‘one-of-a-kind gentleman’ and devoted parent to two young daughters, his wife Shirene saysGet our breaking news email, free app or daily news podcastA father of two young daughters, husband and avid fisher has been identified as the victim of a fatal shark attack at Rottnest Island in Western Australia.Steven Mattaboni, 38, a surveyor from Perth, was in the water at Horseshoe Reef about 9.55am on Saturday when he was b",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/17/steven-mattaboni-named-as-victim-of-rottnest-island-shark-attack",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-05-17",
-      "time": "06:53",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-05-17-e39de00b",
@@ -968,6 +926,20 @@
       "time": "23:30",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-14-06e5d959",
+      "headline": "War criminal Ratko Mladić's jail release request denied",
+      "summary": "A UN judge admits the 84-year-old is \"in the final stages of his life\", but says prison conditions in The Hague ensure his maximum comfort.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c7v9l417vryo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-14",
+      "time": "17:45",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-14-f2f9c868",
