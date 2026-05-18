@@ -1,36 +1,8 @@
 {
-  "updated": "2026-05-18T21:23:02.936264+00:00",
-  "story_count": 85,
+  "updated": "2026-05-18T22:30:01.875639+00:00",
+  "story_count": 86,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-05-18-0f7cecf7",
-      "headline": "Belarus stages nuclear drills with Russia as Kyiv warns of new offensive",
-      "summary": "Russia and Belarus conducted joint nuclear exercises on Monday as Kyiv warned Moscow was preparing a new offensive from Belarusian territory against Ukraine or NATO.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/18/belarus-stages-nuclear-drills-with-russia-as-kyiv-warns-of-new-offensive",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-18",
-      "time": "18:23",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
-    },
-    {
-      "id": "2026-05-18-6c885262",
-      "headline": "Belarus dismisses concerns as it launches joint nuclear drills with Russia",
-      "summary": "Strong reactions from Ukraine and NATO allies as Belarusian and Russian forces train to use nuclear weapons.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/belarus-dismisses-concerns-as-it-launches-joint-nuclear-drills-with-russia?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-18",
-      "time": "18:10",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
-    },
     {
       "id": "2026-05-18-74d90af7",
       "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
@@ -44,6 +16,20 @@
       "time": "16:49",
       "conflict_id": null,
       "score": 59.0
+    },
+    {
+      "id": "2026-05-18-0f7cecf7",
+      "headline": "Belarus stages nuclear drills with Russia as Kyiv warns of new offensive",
+      "summary": "Russia and Belarus conducted joint nuclear exercises on Monday as Kyiv warned Moscow was preparing a new offensive from Belarusian territory against Ukraine or NATO.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/18/belarus-stages-nuclear-drills-with-russia-as-kyiv-warns-of-new-offensive",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-18",
+      "time": "18:23",
+      "conflict_id": "ukraine-war",
+      "score": 57.0
     },
     {
       "id": "2026-05-18-530aff0c",
@@ -83,23 +69,37 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-18",
-      "time": "21:09",
+      "time": "22:13",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
-      "id": "2026-05-18-9db48fa1",
-      "headline": "Trump says he called off attack on Iran planned for Tuesday",
-      "summary": "US president says the UAE, Saudi Arabia and Qatar requested that Washington suspend operation",
+      "id": "2026-05-18-66c9f9bd",
+      "headline": "Trump says he is holding off attack on Iran planned for Tuesday",
+      "summary": "US president says UAE, Saudi Arabia and Qatar requested Washington suspend operation ‘for two or three days’",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/5cce5b90-a84d-4d4f-b271-de7940ac92c3",
       "region": "MENA",
       "country": "Washington",
       "category": "geopolitics",
       "date": "2026-05-18",
-      "time": "20:02",
+      "time": "22:20",
       "conflict_id": null,
-      "score": 50.4
+      "score": 51.4
+    },
+    {
+      "id": "2026-05-18-d9e3c1ee",
+      "headline": "Oil Declines After Trump Says He Called Off Strike on Iran",
+      "summary": "Oil fell after President Donald Trump said he’d called off a strike on Iran planned for Tuesday following an appeal by the leaders of Persian Gulf allies.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/latest-oil-market-news-and-analysis-for-may-19",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-18",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 51.1
     },
     {
       "id": "2026-05-18-4839d1ca",
@@ -127,21 +127,7 @@
       "date": "2026-05-18",
       "time": "20:34",
       "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-05-18-930712ea",
-      "headline": "UN calls on Israel to prevent Gaza ‘genocide’",
-      "summary": "The United Nations rights chief called for Israel to &#039;end its unlawful presence in the Palestinian territory&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/un-calls-on-israel-to-prevent-gaza-genocide?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-18",
-      "time": "17:49",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "score": 46.0
     },
     {
       "id": "2026-05-18-ed6555cd",
@@ -256,18 +242,18 @@
       "score": 37.0
     },
     {
-      "id": "2026-05-18-ceb9dd1e",
-      "headline": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
+      "id": "2026-05-18-ec029182",
+      "headline": "UAE still investigating mystery nuclear plant drone attack",
+      "summary": "The enigma surrounding Sunday’s unprecedented drone attack on the Barakah nuclear plant deepened on Monday as the UAE said the drone came from its western border, but it did not accuse Iran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/18/uae-still-investigating-mystery-nuclear-plant-drone-attack",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-05-18",
-      "time": "09:58",
+      "time": "16:15",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
     },
     {
       "id": "2026-05-18-a3314b35",
@@ -284,16 +270,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-18-df33e97e",
-      "headline": "NextEra to Buy Dominion for $67 Billion to Form Power Giant",
-      "summary": "NextEra Energy Inc. agreed to pay about $67 billion in stock for Dominion Energy Inc. in the biggest power acquisition ever, creating a giant utility extending from Florida to the artificial intelligence data centers clustered in Virginia.",
+      "id": "2026-05-18-07a7839b",
+      "headline": "AMP Trims ‘Frothy’ Private Credit Assets in Investment Pivot",
+      "summary": "Australian pension and wealth manager AMP Ltd. has been scaling back its exposure to private credit, citing an increasingly frothy market as its shifts money toward assets such as infrastructure.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/nextera-to-buy-dominion-for-67-billion-to-form-utility-colossus",
-      "region": "NA",
-      "country": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/amp-trims-frothy-private-credit-assets-in-investment-pivot",
+      "region": "APJ",
+      "country": "Australia",
       "category": "business",
       "date": "2026-05-18",
-      "time": "11:35",
+      "time": "21:36",
       "conflict_id": null,
       "score": 34.1
     },
@@ -354,16 +340,30 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-18-630d3196",
-      "headline": "NextEra, Dominion to create huge power biz as AI drives US energy demand",
-      "summary": "One of the biggest proposed mergers this year, companies&#039; union will create world&#039;s biggest regulated electric utility.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/18/nextera-dominion-to-create-huge-power-biz-as-ai-drives-us-energy-demand?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "id": "2026-05-18-f8af1010",
+      "headline": "Australia news live: flash flooding hits Queensland roads; $57bn of Victoria infrastructure threatened by climate hazards",
+      "summary": "Flood warning in place on Gold Coast. Follow today’s news liveGet our breaking news email, free app or daily news podcastLiberal senator says Coalition’s migration policy ‘alienates’ migrants and ‘doesn’t meet the needs’ of the communityLiberal senator Andrew McLachlan said he has “deep concerns” the Coalition’s immigration policy will divide the nation, saying he doesn’t think the country should take a “negative approach to migration”.I have dee",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/may/19/australia-news-live-queensland-weather-rain-flash-flood-victoria-infrastructure-environment-climate-jim-chalmers-budget-cost-of-living-tax-housing-anthony-albanese-angus-taylor-ntwnfb",
+      "region": "EU",
+      "country": "Australia",
+      "category": "politics",
       "date": "2026-05-18",
-      "time": "18:22",
+      "time": "22:15",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-05-18-27968f41",
+      "headline": "Clashes as Morales-allied protesters march on Bolivian capital",
+      "summary": "South American country suffers huge protests as economic crisis fuels unrest against President Paz&#039;s government.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/clashes-as-morales-allied-protesters-march-on-bolivian-capital?traffic_source=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-05-18",
+      "time": "21:16",
       "conflict_id": null,
       "score": 31.4
     },
@@ -438,20 +438,6 @@
       "score": 29.0
     },
     {
-      "id": "2026-05-18-e867a2ad",
-      "headline": "Former Google executive Matt Brittin takes reins at scandal-hit public broadcaster BBC",
-      "summary": "Brittin replaces Tim Davie, who had held the BBC post since 2020. He resigned in November over a lawsuit brought by US President Donald Trump.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/18/former-google-executive-matt-brittin-takes-reins-at-scandal-hit-public-broadcaster-bbc",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-18",
-      "time": "13:29",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-05-18-d80f907b",
       "headline": "Shakira wins £50m tax refund from Spanish government",
       "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
@@ -522,6 +508,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-18-df33e97e",
+      "headline": "NextEra to Buy Dominion for $67 Billion to Form Power Giant",
+      "summary": "NextEra Energy Inc. agreed to pay about $67 billion in stock for Dominion Energy Inc. in the biggest power acquisition ever, creating a giant utility extending from Florida to the artificial intelligence data centers clustered in Virginia.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/nextera-to-buy-dominion-for-67-billion-to-form-utility-colossus",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-18",
+      "time": "11:35",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-18-171d1cd0",
       "headline": "SpaceX IPO Adds Second Musk Stock. It’s a Problem for Tesla",
       "summary": "For years, there was only one way for mom-and-pop investors to buy into Elon Musk’s vision: shares of Tesla Inc. That’s about to change &mdash; and it’s a serious risk for Tesla investors.",
@@ -550,18 +550,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-18-e030bd96",
-      "headline": "Eager for Arms Deal, Taiwan Stresses Need for U.S. Support",
-      "summary": "After President Trump hinted that weapons sales to Taiwan could figure in negotiations with China, officials emphasized their island’s strategic importance.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/17/us/politics/taiwan-china-us-arms-deal.html",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
+      "id": "2026-05-18-92060e09",
+      "headline": "UBS BB Hires Former Bradesco BBI Banker Mesquita as Head of ECM",
+      "summary": "UBS BB Investment Bank hired Claudia Bollina Mesquita as head of equity capital markets, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/ubs-bb-hires-former-bradesco-bbi-banker-mesquita-as-head-of-ecm",
+      "region": "NA",
+      "country": null,
+      "category": "business",
       "date": "2026-05-18",
-      "time": "00:13",
+      "time": "19:38",
       "conflict_id": null,
-      "score": 25.2
+      "score": 26.1
     },
     {
       "id": "2026-05-18-c7c0511f",
@@ -578,6 +578,34 @@
       "score": 24.0
     },
     {
+      "id": "2026-05-18-53d546cf",
+      "headline": "A redistricting re-do? What to know about Alabama’s primary elections",
+      "summary": "Voters may have to return to the polls in August as state seeks to implement a previously blocked redistricting push.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/a-redistricting-re-do-what-to-know-about-alabamas-primary-elections?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-18",
+      "time": "22:13",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-05-18-2f0fbbb7",
+      "headline": "Venezuelan protesters clash with police at rally for political prisoners",
+      "summary": "Protesters in Venezuela have clashed with police at a rally for political prisoners.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/venezuelan-protesters-clash-with-police-at-rally-for-political-prisoners?traffic_source=rss",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-05-18",
+      "time": "21:17",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-05-18-9a0783d9",
       "headline": "Some change, but much more of the same in Palestinian Fatah elections",
       "summary": "Abbas&#039;s son Yasser joins Fatah leadership, raising questions about nepotism and the group&#039;s commitment to inclusivity.",
@@ -590,6 +618,20 @@
       "time": "19:33",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-05-18-b5d91d04",
+      "headline": "China's empty, unfinished skyscrapers find new lease on life",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/property/china-s-empty-unfinished-skyscrapers-find-new-lease-on-life",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-18",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-18-d040c763",
@@ -712,34 +754,6 @@
       "region": "APJ",
       "country": "China",
       "category": "geopolitics",
-      "date": "2026-05-18",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-18-aa811e86",
-      "headline": "Japan's cash registers or its fiscal policy: which is more embarrassing?",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/comment/japan-s-cash-registers-or-its-fiscal-policy-which-is-more-embarrassing",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "politics",
-      "date": "2026-05-18",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-18-6db9ad46",
-      "headline": "Singapore's small-cap stocks soar, defying Middle East worries",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/equities/singapore-s-small-cap-stocks-soar-defying-middle-east-worries",
-      "region": "APJ",
-      "country": "Singapore",
-      "category": "business",
       "date": "2026-05-18",
       "time": "",
       "conflict_id": null,
@@ -928,20 +942,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-16-43e626f2",
-      "headline": "Rescue diver dies during search for bodies of Italians who drowned in Maldives caves",
-      "summary": "Staff Sgt Mohamed Mahdhee died while diving in the search-and-rescue operation, the Maldives government tells the BBC.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1w2gv1gdnjo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-16",
-      "time": "15:01",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-15-746b6b2c",
       "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
       "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
@@ -966,6 +966,20 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "23:04",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-15-c48486a9",
+      "headline": "Boy, 15, shot dead in France as prosecutors blame drug war",
+      "summary": "Prosecutors in Nantes say the shooting was drug-related, but the victim's aunt says he was not involved.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cj9pze942j8o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-05-15",
+      "time": "12:33",
       "conflict_id": null,
       "score": 35.0
     },
