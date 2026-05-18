@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-18T20:07:52.776091+00:00",
-  "story_count": 84,
+  "updated": "2026-05-18T21:23:02.936264+00:00",
+  "story_count": 85,
   "source_count": 10,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-05-18",
       "time": "18:23",
       "conflict_id": "ukraine-war",
-      "score": 73.0
+      "score": 65.0
     },
     {
       "id": "2026-05-18-6c885262",
@@ -29,21 +29,35 @@
       "date": "2026-05-18",
       "time": "18:10",
       "conflict_id": "ukraine-war",
-      "score": 67.4
+      "score": 59.4
     },
     {
-      "id": "2026-05-18-c43e7c61",
-      "headline": "Belarus Starts Nuclear Drills With Russia Amid Kyiv Warnings",
-      "summary": "Belarus announced that its armed forces would conduct snap nuclear exercises alongside Russian allies, following warnings from Kyiv that it could retaliate if Minsk becomes more deeply involved in the Kremlin’s war.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/belarus-starts-nuclear-drills-with-russia-after-kyiv-s-warnings",
-      "region": "NA",
+      "id": "2026-05-18-74d90af7",
+      "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
+      "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
       "country": null,
+      "category": "politics",
+      "date": "2026-05-18",
+      "time": "16:49",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
+      "id": "2026-05-18-530aff0c",
+      "headline": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+      "summary": "Gulf states push Donald Trump to avoid any escalation in the US-Israel war on Iran, which prompted regional attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "region": "NA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-05-18",
-      "time": "12:59",
+      "time": "20:12",
       "conflict_id": null,
-      "score": 58.1
+      "score": 55.4
     },
     {
       "id": "2026-05-18-faef6eb3",
@@ -60,18 +74,32 @@
       "score": 53.0
     },
     {
-      "id": "2026-05-18-74d90af7",
-      "headline": "Four killed in protests during Kenyan strikes over high fuel prices",
-      "summary": "Thousands of commuters are stranded, with key roads in the capital Nairobi largely empty due to the protests over fuel costs.",
+      "id": "2026-05-18-b9c4c6b1",
+      "headline": "Trump says he called off new Iran attack at request of Gulf states",
+      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2p0n44drvo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-05-18",
-      "time": "16:49",
+      "time": "21:09",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-05-18-9db48fa1",
+      "headline": "Trump says he called off attack on Iran planned for Tuesday",
+      "summary": "US president says the UAE, Saudi Arabia and Qatar requested that Washington suspend operation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5cce5b90-a84d-4d4f-b271-de7940ac92c3",
+      "region": "MENA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-05-18",
+      "time": "20:02",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-05-18-4839d1ca",
@@ -86,6 +114,20 @@
       "time": "19:19",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-05-18-0cda8a11",
+      "headline": "Trump: I called off attack on Iran planned for Tuesday",
+      "summary": "The US president said he had been asked to do so by the leaders of Qatar, Saudi Arabia and the United Arab Emirates as \"serious negotiations are now taking place.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/18/trump-i-called-off-attack-on-iran-planned-for-tuesday",
+      "region": "MENA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-18",
+      "time": "20:34",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-05-18-930712ea",
@@ -144,6 +186,48 @@
       "score": 40.0
     },
     {
+      "id": "2026-05-18-b731dc89",
+      "headline": "Four reported killed, 30 injured, in Kenyan fuel price protests",
+      "summary": "Nationwide protests disrupt cities as fuel price hikes trigger unrest.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/18/four-reported-killed-30-injured-in-kenyan-fuel-price-protests?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-18",
+      "time": "20:12",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-18-d1c04c3a",
+      "headline": "Could the Iran war trigger the next debt shock?",
+      "summary": "Government bonds are under pressure and households could soon feel the impact.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/5/18/could-the-iran-war-trigger-the-next-debt-shock?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-18",
+      "time": "19:17",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-18-a93d4d39",
+      "headline": "Japan kicks into high gear steering Iran war oil shock response",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/japan-kicks-into-high-gear-steering-iran-war-oil-shock-response",
+      "region": "MENA",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-05-18",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
+    },
+    {
       "id": "2026-05-18-99786c4d",
       "headline": "'No society is immune' to housing crisis, UN chief warns at World Urban Forum in Baku",
       "summary": "António Guterres told the World Urban Forum in Baku that no country is immune from the housing crisis, as 40,000 delegates gathered for the second day of talks.",
@@ -153,7 +237,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-05-18",
-      "time": "18:57",
+      "time": "18:58",
       "conflict_id": null,
       "score": 37.0
     },
@@ -170,34 +254,6 @@
       "time": "18:16",
       "conflict_id": null,
       "score": 37.0
-    },
-    {
-      "id": "2026-05-18-ec029182",
-      "headline": "UAE still investigating mystery nuclear plant drone attack",
-      "summary": "The enigma surrounding Sunday’s unprecedented drone attack on the Barakah nuclear plant deepened on Monday as the UAE said the drone came from its western border, but it did not accuse Iran.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/18/uae-still-investigating-mystery-nuclear-plant-drone-attack",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-18",
-      "time": "16:15",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-05-18-b9c4c6b1",
-      "headline": "Trump says he called off new Iran attack at request of Gulf states",
-      "summary": "The US president says he is holding off on a US attack planned for Tuesday as \"serious negotiations are now taking place\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-18",
-      "time": "19:43",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-18-ceb9dd1e",
@@ -226,6 +282,20 @@
       "time": "03:51",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-18-df33e97e",
+      "headline": "NextEra to Buy Dominion for $67 Billion to Form Power Giant",
+      "summary": "NextEra Energy Inc. agreed to pay about $67 billion in stock for Dominion Energy Inc. in the biggest power acquisition ever, creating a giant utility extending from Florida to the artificial intelligence data centers clustered in Virginia.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/nextera-to-buy-dominion-for-67-billion-to-form-utility-colossus",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-18",
+      "time": "11:35",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-18-f65b52af",
@@ -284,16 +354,16 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-18-5aac61ae",
-      "headline": "Philippines launches VP Duterte impeachment trial amid political division",
-      "summary": "Senate court established despite following House leadership changes and a shootout.",
+      "id": "2026-05-18-630d3196",
+      "headline": "NextEra, Dominion to create huge power biz as AI drives US energy demand",
+      "summary": "One of the biggest proposed mergers this year, companies&#039; union will create world&#039;s biggest regulated electric utility.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/18/philippines-launches-vp-duterte-impeachment-trial-amid-political-division?traffic_source=rss",
+      "url": "https://www.aljazeera.com/economy/2026/5/18/nextera-dominion-to-create-huge-power-biz-as-ai-drives-us-energy-demand?traffic_source=rss",
       "region": "NA",
-      "country": "Philippines",
-      "category": "politics",
+      "country": null,
+      "category": "business",
       "date": "2026-05-18",
-      "time": "16:29",
+      "time": "18:22",
       "conflict_id": null,
       "score": 31.4
     },
@@ -368,6 +438,20 @@
       "score": 29.0
     },
     {
+      "id": "2026-05-18-e867a2ad",
+      "headline": "Former Google executive Matt Brittin takes reins at scandal-hit public broadcaster BBC",
+      "summary": "Brittin replaces Tim Davie, who had held the BBC post since 2020. He resigned in November over a lawsuit brought by US President Donald Trump.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/18/former-google-executive-matt-brittin-takes-reins-at-scandal-hit-public-broadcaster-bbc",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-18",
+      "time": "13:29",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-05-18-d80f907b",
       "headline": "Shakira wins £50m tax refund from Spanish government",
       "summary": "The Colombian singer says the court ruling means the \"narrative\" that she was guilty now \"crumbles\".",
@@ -410,30 +494,30 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-18-92060e09",
-      "headline": "UBS BB Hires Former Bradesco BBI Banker Mesquita as Head of ECM",
-      "summary": "UBS BB Investment Bank hired Claudia Bollina Mesquita as head of equity capital markets, according to people familiar with the matter.",
+      "id": "2026-05-18-fbc4a71e",
+      "headline": "Foreign Holdings of Treasuries Fell in March Amid Bill Sales",
+      "summary": "Foreign holdings of US Treasuries dropped in March from a record high as overseas investors dumped bills while adding to their stockpile of longer-dated federal securities.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/ubs-bb-hires-former-bradesco-bbi-banker-mesquita-as-head-of-ecm",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/foreign-holdings-of-us-treasuries-fell-in-march-amid-bill-sales",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-05-18",
-      "time": "19:38",
+      "time": "20:28",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-05-18-7827b7f6",
-      "headline": "US Natural Gas Futures Top $3 for First Time Since March",
-      "summary": "US natural gas futures ended higher as forecasts shifted to show hotter weather in the coming weeks, signaling increased demand for the power-plant fuel as homes and businesses crank up air-conditioners. Intraday and end-of-day settlement prices for the front-month contract reached more than $3 per million British thermal units for the first time since late March.",
+      "id": "2026-05-18-166ba3c4",
+      "headline": "Stocks End Choppy Day Little Changed as Yields Steady; SOX Drops",
+      "summary": "The S&amp;P 500 Index ended a choppy session on Monday near where it started trading, with swings in oil prices setting the tempo during the day as investors parsed mixed signals around US-Iran peace talks. Ten-year Treasury yields steadied below 4.6%, while semiconductor stocks traded lower.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-natural-gas-futures-top-3-for-first-time-since-march",
-      "region": "NA",
-      "country": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-futures-slip-as-inflation-worries-feed-risk-off-sentiment",
+      "region": "MENA",
+      "country": "Iran",
       "category": "business",
       "date": "2026-05-18",
-      "time": "13:44",
+      "time": "12:27",
       "conflict_id": null,
       "score": 26.1
     },
@@ -452,44 +536,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-18-79efd8e2",
-      "headline": "US Regulators Poised to Reshape Secret Ratings Process for Banks",
-      "summary": "US regulators are poised to unveil as soon as this week a plan that would overhaul how examiners secretly rate banks, according to people familiar with the matter, a move likely to be cheered by lenders.",
+      "id": "2026-05-18-f01d5852",
+      "headline": "GLP-1 Users Turn to Telehealth to Access Weight Loss Drugs",
+      "summary": "Justin Schrieber, CEO of telehealth company LifeMD, said that the main reason that Americans end up at virtual health care providers is to access GLP-1 weight loss medication, as well as other prescription medication. Schreiber said that there is still an untapped market for GLP-1 access and the next frontier of virtual access is for hormone replacement care.  (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/us-regulators-poised-to-reshape-secret-ratings-process-for-banks",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-18/glp-1-users-turn-to-telehealth-to-access-treatment-video",
       "region": "NA",
-      "country": null,
+      "country": "America",
       "category": "business",
       "date": "2026-05-18",
-      "time": "19:24",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-18-553d35d9",
-      "headline": "Mexico Signs Deal for Floating Gas Plant to Meet Yucatan Demand",
-      "summary": "Mexico signed an agreement to send a floating gas power plant to the Yucatan peninsula, the latest in a series of private partnerships aiming to boost electricity generation and shore up the nation’s grid against seasonal blackouts.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/mexico-signs-deal-for-floating-gas-plant-to-meet-yucatan-demand",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "business",
-      "date": "2026-05-18",
-      "time": "19:24",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-18-c037538b",
-      "headline": "Blue Owl Fund Returns to Market With $400 Million Bond Offering",
-      "summary": "A Blue Owl Capital Inc. private credit fund sold a $400 million investment-grade bond, a month after a debt sale to bond giant Pacific Investment Management Co. helped ease capital-access worries.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-18/blue-owl-fund-returns-to-market-with-400-million-bond-offering",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-18",
-      "time": "14:17",
+      "time": "20:18",
       "conflict_id": null,
       "score": 26.1
     },
@@ -534,6 +590,20 @@
       "time": "19:33",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-05-18-d040c763",
+      "headline": "Philippine digital banks struggle to find their mojo",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/asean-money/philippine-digital-banks-struggle-to-find-their-mojo",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-18",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-18-92562628",
@@ -676,34 +746,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-18-cdb994f0",
-      "headline": "Index providers reshape Asian financial markets with exacting standards",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/trading-asia/index-providers-reshape-asian-financial-markets-with-exacting-standards",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-18",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-18-c64f7026",
-      "headline": "UzNIF debuts on London market in first international Uzbek IPO",
-      "summary": "The IPO generated more than $2.8 billion (€2.6bn) in investor demand and raised around $603 million (€540m). Officials at the London Stock Exchange described the listing as a landmark moment for Uzbekistan’s access to international capital markets.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/18/uznif-debuts-on-london-market-in-first-international-uzbek-ipo",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-18",
-      "time": "11:52",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-05-17-bc1b35c8",
       "headline": "UAE reports strike near Abu Dhabi nuclear power plant",
       "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
@@ -730,20 +772,6 @@
       "time": "23:44",
       "conflict_id": null,
       "score": 40.9
-    },
-    {
-      "id": "2026-05-17-66a636d9",
-      "headline": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
-      "summary": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "23:02",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-17-835a667c",
@@ -942,20 +970,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-15-ffd6fc26",
-      "headline": "Why is Ireland not taking part in this year's Eurovision?",
-      "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-15",
-      "time": "11:41",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-15-50e428cf",
       "headline": "New York Times defends journalist after Israel threatens to sue",
       "summary": "Israel's prime minister says he has ordered legal action over an article which alleged Israeli security officials raped Palestinian detainees.",
@@ -1010,6 +1024,20 @@
       "time": "09:17",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-05-15-5c331b87",
+      "headline": "UBS's Hoffman-Burchardi: Markets Favor Active Investing (Correct)",
+      "summary": "Ulrike Hoffman-Burchardi, global equities CIO at UBS Global Wealth Management, says that after a decade of mega cap dominance reinforced by passive investing, it's now time for active investing. She speaks on \"Bloomberg Surveillance.\" (Corrects name of guest in video and description) (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-15/ubs-s-hoffman-burchardi-markets-favor-active-investing-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-15",
+      "time": "15:54",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-14-06e5d959",
@@ -1094,20 +1122,6 @@
       "time": "23:22",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-05-13-4b102612",
-      "headline": "Netanyahu says he 'secretly visited' UAE during war with Iran",
-      "summary": "The UAE denied reports of the \"alleged visit\" and insisted relations between the two countries were not based on \"unofficial arrangements\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/czj2mnwv1ryo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-13",
-      "time": "22:30",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-13-c879a53c",
