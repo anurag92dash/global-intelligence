@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-20T22:47:56.817726+00:00",
+  "updated": "2026-05-20T23:59:03.215093+00:00",
   "story_count": 78,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-05-20-2c12fb2f",
-      "headline": "Lebanon says 21 killed, including children, in Israeli air strikes",
-      "summary": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "10:42",
-      "conflict_id": null,
-      "score": 51.0
-    },
     {
       "id": "2026-05-20-acbe7ffc",
       "headline": "Hamas to blame for lack of progress on phase two of ceasefire, Board of Peace report says",
@@ -30,20 +16,6 @@
       "time": "16:05",
       "conflict_id": "israel-hamas",
       "score": 49.0
-    },
-    {
-      "id": "2026-05-20-ad09c005",
-      "headline": "Same but different: how Xi and China welcomed Trump and Putin",
-      "summary": "Choreography of back-to-back visits appeared deliberately mirrored but China made sure the differences were noticedDays after Donald Trump was greeted in Beijing with a military band, an honour guard and dozens of youths waving American and Chinese flags, Vladimir Putin arrived in China to an almost identical spectacle.The choreography of the two welcomes appeared deliberately mirrored, designed to showcase Beijing’s ability to host leaders from ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "13:44",
-      "conflict_id": null,
-      "score": 48.0
     },
     {
       "id": "2026-05-20-3d9c0034",
@@ -74,6 +46,20 @@
       "score": 43.4
     },
     {
+      "id": "2026-05-20-2c12fb2f",
+      "headline": "Lebanon says 21 killed, including children, in Israeli air strikes",
+      "summary": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-20",
+      "time": "10:42",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-20-91b694e1",
       "headline": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
       "summary": "The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said.",
@@ -102,16 +88,16 @@
       "score": 41.2
     },
     {
-      "id": "2026-05-20-66c42799",
-      "headline": "Barney Frank, Gay Pioneer and Liberal Stalwart in Congress, Dies at 86",
-      "summary": "Often voted the “brainiest,” “funniest” and “most eloquent” member of the House, he was also the first to come out voluntarily and helped normalize being openly gay in public office.",
+      "id": "2026-05-20-57ce2beb",
+      "headline": "Jan. 6 Police Officers Sue to Block Trump’s Payout Fund",
+      "summary": "The two officers accused the administration of creating a “slush fund” to reward rioters and groups that committed violence on behalf of President Trump.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html",
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html",
       "region": "NA",
-      "country": "Congress",
-      "category": "politics",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-05-20",
-      "time": "14:37",
+      "time": "19:46",
       "conflict_id": null,
       "score": 41.2
     },
@@ -158,16 +144,30 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-20-9e94511d",
-      "headline": "Families demand justice for victims killed in Israeli strikes on Beirut",
-      "summary": "Two childhood neighbours say they are fighting for justice after an Israeli strike killed five of their relatives.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/20/families-demand-justice-for-victims-killed-in-israeli-strikes-on-beirut?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-05-20-ad09c005",
+      "headline": "Same but different: how Xi and China welcomed Trump and Putin",
+      "summary": "Choreography of back-to-back visits appeared deliberately mirrored but China made sure the differences were noticedDays after Donald Trump was greeted in Beijing with a military band, an honour guard and dozens of youths waving American and Chinese flags, Vladimir Putin arrived in China to an almost identical spectacle.The choreography of the two welcomes appeared deliberately mirrored, designed to showcase Beijing’s ability to host leaders from ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
+      "region": "NA",
+      "country": "Washington",
       "category": "geopolitics",
       "date": "2026-05-20",
-      "time": "15:24",
+      "time": "13:44",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-05-20-c05294a6",
+      "headline": "US police officers sue Trump over $1.8bn ‘anti-weaponisation’ fund",
+      "summary": "Officers Harry Dunn and Daniel Hodges say the fund will likely be used to &#039;reward&#039; rioters who attacked the US Capitol.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/20/us-police-officers-sue-trump-over-1-8bn-anti-weaponisation-fund?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-20",
+      "time": "23:32",
       "conflict_id": null,
       "score": 39.4
     },
@@ -195,21 +195,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-05-20",
-      "time": "15:18",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-20-8093b558",
-      "headline": "Barney Frank: One of the first openly gay US congressmen dies aged 86",
-      "summary": "After a decades-long career in Congress, he spent his final weeks in hospice care at his home in Maine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgpy2ze3q1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-05-20",
-      "time": "15:33",
+      "time": "23:47",
       "conflict_id": null,
       "score": 35.0
     },
@@ -326,20 +312,6 @@
       "score": 34.4
     },
     {
-      "id": "2026-05-20-04435766",
-      "headline": "Asian Stocks to Rise as Nvidia Whipsaws on Results: Markets Wrap",
-      "summary": "Asian equities were set to climb Thursday after gains on Wall Street that reflected a constructive outlook for US-Iran talks. Nvidia Corp. shares whipsawed in a lukewarm response to rising data center sales.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/asian-stocks-to-rise-as-nvidia-whipsaws-on-results-markets-wrap",
-      "region": "EU",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-05-20",
-      "time": "22:04",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-05-20-c2c8ad94",
       "headline": "Moody’s Cuts Mexico Credit Rating to One Notch Above Junk",
       "summary": "Moody’s Ratings cut Mexico’s credit score to the lowest tier of investment grade, citing the country’s weakening fiscal position and stoking concern Latin America’s second-largest economy is heading toward junk status.",
@@ -354,6 +326,34 @@
       "score": 34.1
     },
     {
+      "id": "2026-05-20-04435766",
+      "headline": "Asian Stocks to Rise as Nvidia Whipsaws on Results: Markets Wrap",
+      "summary": "Asian equities were set to climb Thursday after gains on Wall Street that reflected a constructive outlook for US-Iran talks. Nvidia Corp. shares whipsawed in a lukewarm response to its sales forecast.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/asian-stocks-to-rise-as-nvidia-whipsaws-on-results-markets-wrap",
+      "region": "EU",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-05-20",
+      "time": "22:04",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-20-c41d384e",
+      "headline": "How the $1.8 Billion Trump Fund May Violate Past Practice and Policy",
+      "summary": "The fund that could offer payouts to Trump allies who accuse the government of mistreatment is not only highly unusual but also appears to violate the administration’s own policies.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-20",
+      "time": "22:41",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-05-20-08c1f4d2",
       "headline": "Trump Gets His Payback in Primary Elections, but It Comes at a Cost in Congress",
       "summary": "Republican senators are angry the president is working to unseat their colleagues. But he is also creating more free agents in his own party in Congress willing to defy him.",
@@ -364,20 +364,6 @@
       "category": "politics",
       "date": "2026-05-20",
       "time": "22:12",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-05-20-572d1b81",
-      "headline": "Prison to Pardons to Payouts: Jan. 6 Rioters Are Elated at Trump’s $1.8 Billion Fund",
-      "summary": "The possibility that people who ransacked the Capitol could get money from the government they attacked is the latest head-spinning twist in President Trump’s effort to rewrite the history of Jan. 6.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-20",
-      "time": "12:49",
       "conflict_id": null,
       "score": 33.2
     },
@@ -550,6 +536,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-05-20-04444cda",
+      "headline": "SoftBank-Backed Firm to File for IPO on Data Center Ambition",
+      "summary": "SoftBank Group Corp.-backed digital infrastructure firm SB Energy Corp. plans to file a confidential draft registration statement for a proposed initial public offering in the US, the company said in a Wednesday statement.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-20/softbank-backed-firm-to-file-for-us-ipo-on-data-center-ambitions",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-20",
+      "time": "22:28",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-20-c45ebdcf",
       "headline": "Raizen Races to Win Creditor Support as Bondholders Hold Out",
       "summary": "Raizen SA is considering pushing ahead with a debt restructuring plan over the objections of offshore bondholders, calculating that it has enough backing from bank creditors and local noteholders to win majority support, according to people familiar with the matter.",
@@ -560,20 +560,6 @@
       "category": "business",
       "date": "2026-05-20",
       "time": "22:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-20-7b34e3f7",
-      "headline": "SoftBank-Backed Firm to File for US IPO on Data Center Ambitions",
-      "summary": "SoftBank Group Corp.-backed digital infrastructure firm SB Energy Corp. plans to file a confidential draft registration statement for a proposed initial public offering in the US, the company said in a Wednesday statement.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-20/softbank-backed-firm-to-file-for-us-ipo-on-data-center-ambitions",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-20",
-      "time": "22:28",
       "conflict_id": null,
       "score": 26.1
     },
@@ -630,6 +616,20 @@
       "category": "business",
       "date": "2026-05-20",
       "time": "20:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-20-ac9b7922",
+      "headline": "NextEra to Buy Dominion for $67B to Form Power Giant",
+      "summary": "Bloomberg's David Carnevali joins Dani Burger on \"Bloomberg Deals.\" NextEra Energy agreed to pay about $67 billion in stock for Dominion Energy in the biggest power acquisition ever, creating a giant utility extending from Florida to the artificial intelligence data centers clustered in Virginia. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-20/nextera-to-buy-dominion-for-67b-to-form-power-giant-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-20",
+      "time": "19:49",
       "conflict_id": null,
       "score": 26.1
     },
@@ -844,6 +844,20 @@
       "score": 40.9
     },
     {
+      "id": "2026-05-19-a8faad2f",
+      "headline": "Israeli minister Smotrich says ICC prosecutor seeking warrant for his arrest",
+      "summary": "The Hague-based court declines to comment, saying applications for warrants are classified as secret.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-19",
+      "time": "17:31",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-19-5a7ffa48",
       "headline": "Trump told Taiwan not to 'go independent' - but does it want to?",
       "summary": "Taiwan independence is the reddest of red lines for China, which claims the island as its own.",
@@ -872,6 +886,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-19-0930fa3f",
+      "headline": "Trump endorses Paxton in Texas Senate primary over incumbent Cornyn",
+      "summary": "The president faced pressure from his base to endorse the state’s attorney general, Ken Paxton. Advisers had urged him to support Sen. John Cornyn, arguing that Paxton has too much baggage.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/19/trump-endorses-paxton-texas-senate-primary-over-incumbent-cornyn/",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-05-19",
+      "time": "22:14",
+      "conflict_id": null,
+      "score": 32.9
+    },
+    {
+      "id": "2026-05-19-38477d9c",
+      "headline": "US claims ‘emergency refugee situation’ as it admits 10,000 more white South Africans",
+      "summary": "Trump has repeatedly made false claims that white Afrikaners facing genocide with costs of resettling them at $100mThe US government has said it will increase the number of white South Africans it admits as refugees this year from about 7,500 to 17,500, claiming that “unforeseen developments in South Africa created an emergency refugee situation.”Since starting his second term in office last year, Donald Trump has repeatedly made false claims tha",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/may/19/us-government-increase-white-south-africa-refugees",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-19",
+      "time": "09:43",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-05-19-81b4fe50",
       "headline": "Oil &amp; Gas M&amp;A Heats Up With $20 Billion of Assets in Play",
       "summary": "Buyout shops are finding a rare exit opportunity in the US oil patch.",
@@ -896,20 +938,6 @@
       "category": "geopolitics",
       "date": "2026-05-18",
       "time": "23:06",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-18-ceb9dd1e",
-      "headline": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
-      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-05-18",
-      "time": "09:58",
       "conflict_id": null,
       "score": 35.0
     },
@@ -956,20 +984,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-17-bc1b35c8",
-      "headline": "UAE reports strike near Abu Dhabi nuclear power plant",
-      "summary": "The country is investigating the source of the strike, which it calls a \"dangerous escalation\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy27pkj1l1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-17",
-      "time": "20:53",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-16-9669b995",
       "headline": "Hamas confirms top commander killed in Israeli air strike",
       "summary": "Friday's strike is the latest launched by Israel on Gaza despite a ceasefire with Hamas.",
@@ -1008,20 +1022,6 @@
       "category": "geopolitics",
       "date": "2026-05-15",
       "time": "23:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-15-57dabbcd",
-      "headline": "Trump and Xi conclude 'very successful' talks but few deals confirmed",
-      "summary": "There were plenty of choreographed ceremonies but no trade breakthroughs after the two-day visit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypj01189lo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-15",
-      "time": "21:50",
       "conflict_id": null,
       "score": 35.0
     },
