@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-21T22:56:19.300249+00:00",
-  "story_count": 77,
-  "source_count": 9,
+  "updated": "2026-05-21T23:51:49.603302+00:00",
+  "story_count": 82,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-05-21-acc98ac0",
@@ -18,16 +18,30 @@
       "score": 59.4
     },
     {
-      "id": "2026-05-21-084fbdd2",
-      "headline": "Trump says he will speak to Taiwan's president in break from protocol",
-      "summary": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Taiwan",
+      "id": "2026-05-21-e6b5d79a",
+      "headline": "Israel says all Gaza flotilla activists have been deported amid global outrage over their treatment",
+      "summary": "Multiple European countries are calling for EU sanctions against Israeli national security minister Itamar Ben Gvir.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/21/israel-says-all-gaza-flotilla-activists-have-been-deported-amid-global-outrage-over-their-",
+      "region": "EU",
+      "country": "Europe",
       "category": "geopolitics",
       "date": "2026-05-21",
-      "time": "13:01",
+      "time": "14:29",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-05-21-71f14f45",
+      "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-05-21",
+      "time": "08:48",
       "conflict_id": null,
       "score": 51.0
     },
@@ -46,18 +60,18 @@
       "score": 49.2
     },
     {
-      "id": "2026-05-21-643ec60e",
-      "headline": "News live: Australian flotilla activists released by Israel arrive in Istanbul and claim they were denied food and water",
-      "summary": "Eleven Australians were among pro-Palestine activists detained by Israel from the Global Sumud flotilla. Follow today’s news liveThree people have been charged with murder after a man died after a fall in Sydney’s north-west last week.NSW police said emergency services were called to a unit complex in Castle Hill on 17 May amid reports a man had been shouting from a balcony. On arrival, officers found the man, 44, suffering serious injuries in a ",
+      "id": "2026-05-21-6bb18edd",
+      "headline": "Australia news live: Plibersek condemns Israeli minister’s ‘disgraceful’ treatment of flotilla activists; Guzman y Gomez pulls out of US",
+      "summary": "Eleven Australians were among pro-Palestine activists detained by Israel from the Global Sumud flotilla. Follow today’s news liveGuzman y Gomez, the Mexican-themed fast food chain, is pulling out of the United States in a spectacular turnaround on its American market ambitions, AAP reports.The decision was made because the financial performance of the US business was not acceptable or meeting targets. Continue reading...",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/may/22/australia-news-live-flotilla-sumud-israel-al-roj-camp-isis-budget-capital-gains-negative-gearing-jim-chalmers-anthony-albanese-angus-taylor-ntwnfb",
-      "region": "MENA",
-      "country": "Palestine",
+      "region": "NA",
+      "country": "United States",
       "category": "geopolitics",
       "date": "2026-05-21",
-      "time": "22:42",
+      "time": "23:36",
       "conflict_id": null,
-      "score": 48.0
+      "score": 49.0
     },
     {
       "id": "2026-05-21-8363853b",
@@ -88,6 +102,34 @@
       "score": 46.8
     },
     {
+      "id": "2026-05-21-50c1d76b",
+      "headline": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
+      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-21",
+      "time": "16:08",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-21-084fbdd2",
+      "headline": "Trump says he will speak to Taiwan's president in break from protocol",
+      "summary": "It comes as the US weighs whether to proceed with a $14bn arms sales to Taiwan, which China claims as its own.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c78qv3w4xzqo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-21",
+      "time": "13:01",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-21-e9471984",
       "headline": "US charges Cuba's Raúl Castro with murder over 1996 downing of two planes",
       "summary": "Cuba's current president says the charges against Castro - including conspiracy to kill US nationals and destruction of aircraft - are a \"political manoeuvre\".",
@@ -116,32 +158,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-21-50c1d76b",
-      "headline": "Gaza flotilla activists deported from Israel as backlash over treatment grows",
-      "summary": "A video showing a far-right Israeli minister taunting activists who were kneeling with their hands tied behind their backs has been widely condemned.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d3v2d6p1eo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-21-14099d8d",
+      "headline": "Who is Ahmad Vahidi, Interpol-wanted IRGC general and key Iranian war strategist?",
+      "summary": "Ahmad Vahidi, deputy IRGC commander and the man Argentina formally accused of planning the 1994 Buenos Aires bombing that killed 85 people, has emerged as the key figure in organising Tehran's military response and partaking in back-channel negotiations with regional mediators.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/21/who-is-ahmad-vahidi-interpol-wanted-irgc-general-and-key-iranian-war-strategist",
       "region": "MENA",
-      "country": "Israel",
+      "country": "Argentina",
       "category": "geopolitics",
       "date": "2026-05-21",
-      "time": "16:08",
+      "time": "14:29",
       "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-21-a48681c6",
-      "headline": "Walmart warns US shoppers are cutting spending as higher petrol prices bite",
-      "summary": "The retail giant said it expects customers to cut back in the coming months due to higher pump prices.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj9prkzwr8vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "18:08",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
     },
     {
       "id": "2026-05-21-286e6ed0",
@@ -168,20 +196,6 @@
       "category": "geopolitics",
       "date": "2026-05-21",
       "time": "11:03",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-21-71f14f45",
-      "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "08:48",
       "conflict_id": null,
       "score": 35.0
     },
@@ -256,32 +270,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-21-1f9f70a6",
-      "headline": "Treasuries Erase Drop on Signs of Progress Toward Ending War",
-      "summary": "US government bonds snapped an earlier decline to notch gains as oil retreated on hopes that an agreement to end the US war in the Middle East will be reached soon.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-21/treasuries-erase-drop-on-signs-of-progress-toward-ending-war",
+      "id": "2026-05-21-df77ca6c",
+      "headline": "In a Rarity, Republicans Stand Up to Trump",
+      "summary": "President Trump faced a wall of opposition from Senate G.O.P. lawmakers, in part over his plan to create a $1.8 billion fund to reward his allies.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html",
       "region": "NA",
-      "country": null,
-      "category": "business",
+      "country": "Senate",
+      "category": "politics",
       "date": "2026-05-21",
-      "time": "18:49",
+      "time": "23:46",
       "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-21-ca762812",
-      "headline": "How Star Wars went from space opera to soap opera",
-      "summary": "Disney turned its flagship film franchise into TV fodder. Can it go back to the big screen?",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/05/21/how-star-wars-went-from-space-opera-to-soap-opera",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "12:47",
-      "conflict_id": null,
-      "score": 33.8
+      "score": 33.2
     },
     {
       "id": "2026-05-21-123826d8",
@@ -321,7 +321,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-05-21",
-      "time": "20:18",
+      "time": "22:56",
       "conflict_id": null,
       "score": 33.2
     },
@@ -410,6 +410,48 @@
       "score": 32.0
     },
     {
+      "id": "2026-05-21-14d7e0e9",
+      "headline": "Cities must plan for migration as permanent reality, experts say at World Urban Forum",
+      "summary": "Governments must treat migration as a permanent feature of urban planning, not an emergency, the IOM deputy director general told Euronews at the World Urban Forum in Baku.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/21/cities-must-plan-for-migration-as-permanent-reality-experts-say-at-world-urban-forum",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-21",
+      "time": "18:44",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-05-21-d83a37e7",
+      "headline": "Ahead of the SpaceX IPO, a look at the biggest stock market debuts ever",
+      "summary": "From Saudi Aramco to Facebook, these are the biggest IPOs in history and why SpaceX could dwarf them all.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/21/ahead-of-the-spacex-ipo-a-look-at-the-biggest-stock-market-debuts-ever",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-05-21",
+      "time": "14:10",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-05-21-8bc0918d",
+      "headline": "Intensifying heat wave grips northern India as temperatures near 48°C",
+      "summary": "India’s northern plains are enduring another intense heat wave, with authorities warning of prolonged extreme temperatures close to 45 degrees Celsius in New Delhi on Thursday. Cooling shelters and health alerts have been introduced across New Delhi and nearby states.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/05/21/intensifying-heat-wave-grips-northern-india-as-temperatures-near-48c",
+      "region": "SA",
+      "country": "New Delhi",
+      "category": "geopolitics",
+      "date": "2026-05-21",
+      "time": "13:51",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-05-21-49f3078b",
       "headline": "Jailed Vietnamese tycoon's Birkin bags sell for more than $550K",
       "summary": "The disgraced tycoon is serving a life sentence for embezzling from a major Vietnamese bank.",
@@ -438,20 +480,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-21-850b2e9e",
-      "headline": "Samsung strike on hold as workers push for AI bonus",
-      "summary": "The walkout, which was due to start on Thursday, has been suspended while union members vote on a tentative deal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4g04qkqlk2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-21",
-      "time": "06:01",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-21-1b6a3246",
       "headline": "Protesters gather outside Ireland's parliament over Yves Sakila's 'disturbing' death",
       "summary": "Yves Sakila, 35, died on one of Dublin's busiest shopping streets after an alleged shoplifting incident.",
@@ -464,20 +492,6 @@
       "time": "15:48",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-05-21-b8798a41",
-      "headline": "‘Fast entry’ SpaceX, OpenAI and Anthropic IPOs to ignite Wall St trading frenzy",
-      "summary": "Passive investors set to dump billions of shares to make way for new stocks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/970b1bab-ca00-4ea1-8964-a59ea431de6e",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-21",
-      "time": "17:41",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-05-21-dd2a7300",
@@ -508,9 +522,23 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-21-8956ee59",
-      "headline": "Asian Stocks to Rise on Optimism Over Iran Talks: Markets Wrap",
-      "summary": "Asian equities were set for a second day of gains after optimism around ongoing US-Iran talks boosted US stocks and weighed on crude prices.",
+      "id": "2026-05-21-c0554d63",
+      "headline": "Investors Look Beyond TSMC as AI Boom Spreads to New Winners",
+      "summary": "After several years flying high as Asia’s best Nvidia Corp. proxy, Taiwan Semiconductor Manufacturing Co. is increasingly vying with other artificial intelligence stocks for investor attention.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-21/investors-look-beyond-tsmc-as-ai-boom-spreads-to-new-winners",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-21",
+      "time": "23:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-21-94a7bf8e",
+      "headline": "Asian Stocks Set to Rise on Iran Talks Optimism: Markets Wrap",
+      "summary": "Asian stocks were poised for a second day of gains and US equity-index futures edged higher as optimism over ongoing US-Iran talks buoyed sentiment.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-21/asian-stocks-to-rise-on-optimism-over-iran-talks-markets-wrap",
       "region": "NA",
@@ -518,6 +546,20 @@
       "category": "business",
       "date": "2026-05-21",
       "time": "22:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-21-65f138c9",
+      "headline": "Ross Raises Forecasts Amid Sales Surge, Record Same-Store Growth",
+      "summary": "Ross Stores Inc. raised its sales and profit guidance after first-quarter results surpassed consensus estimates, aided by strong customer traffic among younger shoppers and the highest same-store growth in the company’s history.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-21/ross-raises-forecasts-amid-sales-surge-record-same-store-growth",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-21",
+      "time": "23:19",
       "conflict_id": null,
       "score": 26.1
     },
@@ -648,6 +690,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-05-21-637f37f2",
+      "headline": "Mazda's 'inchworm' brand strategy hinges on transformed dealerships",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/mazda-s-inchworm-brand-strategy-hinges-on-transformed-dealerships",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-21",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-05-21-07be938b",
       "headline": "Japan banks to offer loans backed by growth potential, not real estate",
       "summary": "",
@@ -669,20 +725,6 @@
       "url": "https://asia.nikkei.com/politics/defense/japan-lacks-enough-underground-shelters-to-withstand-missile-attacks",
       "region": "APJ",
       "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-21-8382ee0e",
-      "headline": "Terra Drone's Indonesia CEO sentenced to 16 months for deadly fire",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/society/terra-drone-s-indonesia-ceo-sentenced-to-16-months-for-deadly-fire",
-      "region": "APJ",
-      "country": "Indonesia",
       "category": "geopolitics",
       "date": "2026-05-21",
       "time": "",
@@ -716,6 +758,34 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-05-21-2127a17b",
+      "headline": "Ancient Buddhist hall with 1,000-year-old ‘eternal flame’ burns in Japan",
+      "summary": "A Buddhist hall on Japan’s Miyajima Island that housed an “eternal flame” believed to have burned for more than 1,000 years was destroyed in a fire, with aerial footage showing the building engulfed in flames.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/05/21/ancient-buddhist-hall-with-1000-year-old-eternal-flame-burns-in-japan",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-21",
+      "time": "19:32",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-05-21-b694a337",
+      "headline": "'Historic' UK trade deal with Gulf states set to add billions to British economy",
+      "summary": "The deal is the first of its kind between the GCC and a G7 country, and will scrap tariffs on billions of euros worth of British exports.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/21/historic-uk-trade-deal-with-gulf-states-set-to-add-billions-to-british-economy",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-21",
+      "time": "15:02",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-05-20-a0bfb2fd",
@@ -942,18 +1012,18 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-19-a8faad2f",
-      "headline": "Israeli minister Smotrich says ICC prosecutor seeking warrant for his arrest",
-      "summary": "The Hague-based court declines to comment, saying applications for warrants are classified as secret.",
+      "id": "2026-05-19-548efc2c",
+      "headline": "Israeli forces board Gaza-bound flotilla near Cyprus, activists say",
+      "summary": "The Global Sumud Flotilla says commandos have intercepted more than 50 boats trying to breach the Gaza maritime blockade since Monday.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y9jq2r907o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c142vz80553o?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-05-19",
-      "time": "17:31",
+      "time": "20:27",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-05-19-baaecaf9",
