@@ -1,35 +1,21 @@
 {
-  "updated": "2026-05-23T09:29:58.310601+00:00",
-  "story_count": 79,
+  "updated": "2026-05-23T10:52:40.038021+00:00",
+  "story_count": 78,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-05-23-7013d25b",
-      "headline": "At least 90 killed in Chinese coal mine explosion, state media reports",
-      "summary": "The explosion took place at 19:29 local time on Friday at a coal mine in northern China.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y0ve18qlko?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "09:03",
-      "conflict_id": null,
-      "score": 68.0
-    },
-    {
-      "id": "2026-05-23-15e5963c",
-      "headline": "China mine explosion: death toll leaps to 90 after gas blast",
-      "summary": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after blast in northern Shanxi provinceAt least 90 people have been killed in a gas explosion at a coalmine in China’s northern Shanxi province, the country’s deadliest mining accident since at least 2009.The gas explosion occurred late on Friday at the Liushenyu coalmine in Qinyuan county, with 247 workers on duty underground, the state news agency Xinhua reported. Continue re",
+      "id": "2026-05-23-59a1732d",
+      "headline": "China mine death toll rises to 90 after gas blast",
+      "summary": "Xi Jinping urges authorities to ‘spare no effort’ in rescue operation after explosion in northern Shanxi provinceAt least 90 people have been killed in a gas explosion at a coalmine in northern China’s Shanxi province, in the country’s worst mining disaster in 17 years.The explosion happened on Friday at 7.29pm (12.29 BST) while 247 workers were underground at the Liushenyu coalmine in Qinyuan county, the state media agency Xinhua reported. Conti",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/23/china-mine-explosion-shanxi-deaths-xi-jinping",
       "region": "APJ",
       "country": "China",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "08:51",
+      "time": "09:57",
       "conflict_id": null,
-      "score": 65.0
+      "score": 64.0
     },
     {
       "id": "2026-05-23-1e3ef892",
@@ -57,7 +43,7 @@
       "date": "2026-05-23",
       "time": "06:41",
       "conflict_id": null,
-      "score": 62.0
+      "score": 61.0
     },
     {
       "id": "2026-05-23-b021d5e2",
@@ -71,21 +57,7 @@
       "date": "2026-05-23",
       "time": "03:19",
       "conflict_id": null,
-      "score": 59.1
-    },
-    {
-      "id": "2026-05-23-d5b6d5b0",
-      "headline": "Gas explosion at Chinese coal mine kills at least 90",
-      "summary": "President Xi Jinping has called on authorities nationwide to learn from the incident.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-23",
-      "time": "06:57",
-      "conflict_id": null,
-      "score": 56.4
+      "score": 58.1
     },
     {
       "id": "2026-05-23-6994976f",
@@ -100,6 +72,20 @@
       "time": "",
       "conflict_id": null,
       "score": 55.8
+    },
+    {
+      "id": "2026-05-23-d5b6d5b0",
+      "headline": "Gas explosion at Chinese coal mine kills at least 90",
+      "summary": "President Xi Jinping has called on authorities nationwide to learn from the incident.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "06:57",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-05-23-1271a38f",
@@ -130,16 +116,30 @@
       "score": 55.4
     },
     {
-      "id": "2026-05-23-9b6d1565",
-      "headline": "Gaza flotilla activists allege abuse by Israeli forces while detained",
-      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-05-23-21bb19fd",
+      "headline": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
+      "summary": "His comments come as both Kyiv and Moscow try to advance their interests on the battlefield.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "08:10",
+      "time": "10:10",
+      "conflict_id": "ukraine-war",
+      "score": 43.4
+    },
+    {
+      "id": "2026-05-23-a9371e22",
+      "headline": "Senegal's president sacks prime minister Sonko after months of tensions",
+      "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "09:50",
       "conflict_id": null,
       "score": 43.0
     },
@@ -200,18 +200,32 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-23-a9371e22",
-      "headline": "Senegal's president sacks prime minister Sonko after months of tensions",
-      "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
+      "id": "2026-05-23-9b6d1565",
+      "headline": "Gaza flotilla activists allege abuse by Israeli forces while detained",
+      "summary": "The detainees say they were slapped, hit, humiliated and even subjected to sexual violence, but Israel's prison service says the allegations are false.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202jwpd24go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
+      "url": "https://www.bbc.com/news/articles/cglp5z63k9no?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "08:10",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-23-23a0c12f",
+      "headline": "Senegal’s President Faye sacks PM Sonko as deepening rift erupts",
+      "summary": "Supporters of Senegal’s ousted prime minister have rallied outside his home in Dakar.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/senegals-president-faye-sacks-pm-sonko-as-deepening-rift-erupts?traffic_source=rss",
+      "region": "MENA",
       "country": null,
       "category": "politics",
       "date": "2026-05-23",
-      "time": "08:34",
+      "time": "10:19",
       "conflict_id": null,
-      "score": 35.0
+      "score": 31.4
     },
     {
       "id": "2026-05-23-205e8941",
@@ -298,6 +312,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-05-23-080f4e22",
+      "headline": "See what artists want to do with Charlottesville’s melted Confederate statue",
+      "summary": "The bronze ingots left over from a Robert E. Lee statue that once ignited violence will now be part of a new work of public art.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/05/23/bronze-charlottesville-melted-robert-e-lee-statue-become-art/",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 24.9
+    },
+    {
       "id": "2026-05-23-b157aba7",
       "headline": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
       "summary": "Prime minister launches impassioned argument in favour of much-maligned reforms announced in last week’s federal budgetGet our breaking news email, free app or daily news podcastA visibly emotional Anthony Albanese has launched an impassioned defence of Labor’s proposed changes to negative gearing, the capital gains tax discount and family trusts, saying he will “not allow Australia to become a country where aspiration is only for some”.The prime",
@@ -368,20 +396,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-23-83e8bb0a",
-      "headline": "Australian fast-food chain Guzman y Gomez says 'adios' to tough US market",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/food-beverage/australian-fast-food-chain-guzman-y-gomez-says-adios-to-tough-us-market",
-      "region": "NA",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-23-7f198f3c",
       "headline": "Global infrastructure funding doubles over 5 years, led by Japanese banks",
       "summary": "",
@@ -394,20 +408,6 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
-    },
-    {
-      "id": "2026-05-22-ee89c253",
-      "headline": "Gaza flotilla activists allege sexual assault and rape in Israeli detention",
-      "summary": "Israeli prison service denies claims of abuse during detention of 430 people trying to take aid to PalestiniansActivists released from Israeli custody after being detained on a flotilla trying to take aid to Gaza were subjected to abuse, organisers have alleged, with several hospitalised with injuries and at least 15 reporting sexual assaults, including rape.Israel’s prison service denied the allegations, and Reuters was not able to verify them i",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-22",
-      "time": "15:36",
-      "conflict_id": "israel-hamas",
-      "score": 69.0
     },
     {
       "id": "2026-05-22-e9d8deed",
@@ -520,20 +520,6 @@
       "time": "16:41",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-05-22-f1f1c4f4",
-      "headline": "Bolivia in crisis: Social unrest, demands for president to resign escalate",
-      "summary": "Protests have spiraled out of control and President Rodrigo Paz is facing demands to resign.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/5/22/bolivia-in-crisis-social-unrest-demands-for-president-to-resign-escalate?traffic_source=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "20:29",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-05-22-79cdb09a",
@@ -872,20 +858,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-22-c82f99ba",
-      "headline": "Soft power sell-off: anger as British Council announces sale of historic Madrid building",
-      "summary": "Backlash grows among European staff against radical cuts to pay off Covid-era debt, with some accusing council of ‘colonial attitude’The historic Palacete building at 31 Paseo del General Martínez Campos in Madrid’s upmarket Chamberí district has been home to the British Council in Spain for about 70 years.About 5,000 students each year pass through its 35 classrooms, learning English, attending exams, and forging cultural ties with the UK. Over ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/soft-power-sell-off-anger-british-council-sale-historic-madrid-building",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "16:25",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-05-22-71da0abe",
       "headline": "Average rent now swallows 98.7% of young workers’ pay for one-person flats in Spain",
       "summary": "The youth emancipation rate fell to 14.5% in 2025, the worst figure on record, says Spain's Youth Council, adding that a young person must spend almost all their wages to rent a home alone.",
@@ -924,20 +896,6 @@
       "category": "geopolitics",
       "date": "2026-05-21",
       "time": "05:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-21-71f14f45",
-      "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "08:48",
       "conflict_id": null,
       "score": 35.0
     },
@@ -998,20 +956,6 @@
       "score": 24.9
     },
     {
-      "id": "2026-05-20-2c12fb2f",
-      "headline": "Lebanon says 21 killed, including children, in Israeli air strikes",
-      "summary": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "10:42",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-20-91b694e1",
       "headline": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
       "summary": "The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said.",
@@ -1024,6 +968,34 @@
       "time": "04:59",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-05-20-2c12fb2f",
+      "headline": "Lebanon says 21 killed, including children, in Israeli air strikes",
+      "summary": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-20",
+      "time": "10:42",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-20-6497584b",
+      "headline": "British couple on new hunger strike in Iranian jail, family say",
+      "summary": "Lindsay and Craig Foreman, from East Sussex, have each spent several days refusing food, their family says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8e890y14r5o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-20",
+      "time": "14:44",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-20-25104da2",
@@ -1064,6 +1036,20 @@
       "category": "politics",
       "date": "2026-05-20",
       "time": "08:00",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-05-20-14f15464",
+      "headline": "Could a football match soften North Korea-South Korea relations?",
+      "summary": "A North Korean women's football team played in South Korea marking the first time athletes from the North have crossed the border in nearly 8 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-05-20",
+      "time": "15:58",
       "conflict_id": null,
       "score": 27.0
     },
