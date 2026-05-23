@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-23T14:23:28.789850+00:00",
-  "story_count": 79,
+  "updated": "2026-05-23T15:36:44.737758+00:00",
+  "story_count": 81,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-05-23-9b7b9344",
+      "headline": "US oil producers increase output to capture price surge from Iran war",
+      "summary": "Drilling expansion follows 40 per cent jump in cost from global supply crunch that has dented president’s approval ratings",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 59.4
+    },
     {
       "id": "2026-05-23-59a1732d",
       "headline": "China mine death toll rises to 90 after gas blast",
@@ -32,6 +46,48 @@
       "score": 55.4
     },
     {
+      "id": "2026-05-23-6994976f",
+      "headline": "US arms sales to Taiwan on 'pause' due to Iran war, acting Navy chief says",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
+      "region": "NA",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "",
+      "conflict_id": null,
+      "score": 54.8
+    },
+    {
+      "id": "2026-05-23-c04fe2de",
+      "headline": "Xi Jinping urges 'all-out rescue' after coal mine explosion kills at least 90 in China",
+      "summary": "Six emergency rescue teams consisting of 345 personnel have since been sent to the scene, the Xinhua state news agency reported on Saturday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/23/xi-jinping-urges-all-out-rescue-after-coal-mine-explosion-kills-at-least-82-in-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "06:41",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-05-23-21bb19fd",
+      "headline": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
+      "summary": "His comments come as Russia accuses Ukraine of killing 12 in an attack on a college.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "10:10",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
+    },
+    {
       "id": "2026-05-23-ec2398d3",
       "headline": "Senegal's president sacks PM and former ally after months-long feud",
       "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
@@ -46,72 +102,30 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-23-b021d5e2",
-      "headline": "Deadliest China Coal Mine Blast Since 2009 Kills at Least 90",
-      "summary": "The death toll from a gas explosion at a coal mine in China’s Shanxi province has jumped to at least 90 people, making it the country’s deadliest such incident since 2009.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "03:19",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-05-23-6994976f",
-      "headline": "US arms sales to Taiwan on 'pause' due to Iran war, acting Navy chief says",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
-      "region": "NA",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "",
-      "conflict_id": null,
-      "score": 46.8
-    },
-    {
-      "id": "2026-05-23-21bb19fd",
-      "headline": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
-      "summary": "His comments come as Russia accuses Ukraine of killing 12 in an attack on a college.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
+      "id": "2026-05-23-3617455c",
+      "headline": "Zelenskyy rebuffs Merz proposal, says Ukraine deserves full EU membership",
+      "summary": "Volodymyr Zelenskyy has rejected a proposal by German Chancellor Friedrich Merz to grant Kyiv a non-voting \"associate membership\". Zelenskyy stressed that Ukraine's EU presence must be complete, with full rights.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "10:10",
+      "time": "14:45",
       "conflict_id": "ukraine-war",
-      "score": 43.4
+      "score": 49.0
     },
     {
-      "id": "2026-05-23-d457ad0d",
-      "headline": "Rubio meets Modi during India visit with energy high on agenda",
-      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "11:55",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-23-23eb44bf",
-      "headline": "More than 40,000 Californians evacuated due to chemical tank leak",
-      "summary": "Officials warn the tank contains a \"highly volatile\" substance that could lead to an explosion.",
+      "id": "2026-05-23-ada2ba5d",
+      "headline": "Toxic chemical leak forces thousands to evacuate near Los Angeles",
+      "summary": "Officials warn the tank in Orange County contains a \"highly volatile\" substance that could lead to an explosion.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": null,
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "01:59",
+      "time": "15:32",
       "conflict_id": null,
       "score": 43.0
     },
@@ -125,7 +139,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "02:44",
+      "time": "15:11",
       "conflict_id": null,
       "score": 41.2
     },
@@ -144,6 +158,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-05-23-67c316df",
+      "headline": "‘Every health facility said they were full’: alarm over rapid spread of Ebola in DRC",
+      "summary": "New strain of virus, aid cuts, and cultural norms around burials and touch add to difficulties in stemming outbreakThe warnings from aid groups and healthcare workers in the Democratic Republic of the Congo have been stark, their calls for coordinated international action impassioned.As the country reels from the return of the Ebola virus, there is growing concern that its fragile healthcare system will struggle to cope with an outbreak that expe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/23/ebola-virus-spread-drc-democratic-republic-of-congo",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "13:17",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-05-23-d4a35d60",
       "headline": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
       "summary": "French Foreign Minister Jean-Noel Barrot said France would not tolerate its nationals being threatened or intimidated.",
@@ -158,30 +186,16 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-23-11754f08",
-      "headline": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
-      "summary": "Parts of the Puebla stadium for high-profile warm-up for 2026 edition were closed to spectators due to FIFA sanctions.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "09:26",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-23-5723926d",
-      "headline": "French pair held until trial after boys abandoned by road in Portugal",
-      "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
+      "id": "2026-05-23-1dda1a63",
+      "headline": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": "Portugal",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "12:39",
+      "time": "14:24",
       "conflict_id": null,
       "score": 35.0
     },
@@ -200,18 +214,32 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-23-8f9f49b5",
-      "headline": "Rubio Invites India’s Modi to Visit White House as Ties Improve",
-      "summary": "US Secretary of State Marco Rubio met Indian Prime Minister Narendra Modi in New Delhi on Saturday and invited him to visit the White House, as the two sides work to improve ties.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/rubio-to-meet-india-s-modi-with-energy-trade-ties-in-focus",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
+      "id": "2026-05-23-b46ef2ac",
+      "headline": "Five police officers, 13 year-old boy killed in Israeli attack on Gaza",
+      "summary": "Attack on a police post in northern Gaza comes as dozens of people were wounded in Israeli attacks in the past 48 hours.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/five-police-officers-13-year-old-boy-killed-in-israeli-attack-on-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "06:49",
+      "time": "15:00",
       "conflict_id": null,
-      "score": 34.1
+      "score": 31.4
+    },
+    {
+      "id": "2026-05-23-89e73622",
+      "headline": "French Open has ‘positive’ meeting with players over tennis dispute",
+      "summary": "Roland Garros director discusses greater revenue sharing with player representatives after boycott-impacted media day.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/french-open-has-positive-meeting-with-players-over-tennis-dispute?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "14:40",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-05-23-93156900",
@@ -224,20 +252,6 @@
       "category": "geopolitics",
       "date": "2026-05-23",
       "time": "12:54",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-05-23-353c741b",
-      "headline": "The pollution that outlives war",
-      "summary": "Long after fighting is over, the toxic leftovers of war continue to poison communities and the environment.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "12:50",
       "conflict_id": null,
       "score": 31.4
     },
@@ -424,6 +438,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-05-23-b2439d86",
+      "headline": "Jacinta Allan launches state-sponsored apprenticeships at Victoria’s Labor conference ahead of election",
+      "summary": "The premier is offering 2,000 apprenticeships at the revived State Electricity Commission as part of a pre-election pushGet our breaking news email, free app or daily news podcastJacinta Allan has used Labor’s final state conference before the election to announce a plan for a government-owned electricity body to hire apprentices to address significant workforce shortages and job insecurity.The Victorian premier announced the plan in a speech tha",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/23/state-sponsored-apprenticeships-and-decriminalising-cannabis-on-the-bill-at-victorias-labor-conference",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "05:18",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-05-23-b157aba7",
       "headline": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
       "summary": "Prime minister launches impassioned argument in favour of much-maligned reforms announced in last week’s federal budgetGet our breaking news email, free app or daily news podcastA visibly emotional Anthony Albanese has launched an impassioned defence of Labor’s proposed changes to negative gearing, the capital gains tax discount and family trusts, saying he will “not allow Australia to become a country where aspiration is only for some”.The prime",
@@ -547,7 +575,7 @@
       "date": "2026-05-22",
       "time": "08:12",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-05-22-8ed5cd72",
@@ -561,7 +589,21 @@
       "date": "2026-05-22",
       "time": "09:08",
       "conflict_id": null,
-      "score": 48.0
+      "score": 56.0
+    },
+    {
+      "id": "2026-05-22-c7338a0f",
+      "headline": "Tulsi Gabbard to resign as US national intelligence director",
+      "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-22",
+      "time": "20:30",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-22-c277409f",
@@ -592,6 +634,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-05-22-6e3a9458",
+      "headline": "Tulsi Gabbard resigns as Trump's director of national intelligence",
+      "summary": "Tulsi Gabbard was appointed as director of national intelligence at the start of Trump's second term as US president.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/22/tulsi-gabbard-resigns-as-trumps-director-of-national-intelligence",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-22",
+      "time": "17:35",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-05-22-79cdb09a",
       "headline": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
       "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
@@ -606,16 +662,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-22-5ba576a3",
-      "headline": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "summary": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
+      "id": "2026-05-22-dbcae0e8",
+      "headline": "Sabalenka cuts media short as French Open players protest",
+      "summary": "Leading players, including Aryna Sabalenka, Coco Gauff and Jannik Sinner, limit their French Open media duties to 15 minutes in a row over prize money.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-05-22",
-      "time": "21:47",
+      "time": "14:59",
       "conflict_id": null,
       "score": 35.0
     },
@@ -660,20 +716,6 @@
       "time": "18:41",
       "conflict_id": null,
       "score": 34.4
-    },
-    {
-      "id": "2026-05-22-7341eda5",
-      "headline": "Abrego Garcia Wins Dismissal of US Human-Smuggling Case",
-      "summary": "A federal judge in Tennessee dismissed human-smuggling charges against Salvadoran migrant Kilmar Armando Abrego Garcia after concluding the US government brought the case in retaliation for his legal fight against being deported.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/abrego-garcia-wins-dismissal-of-us-human-smuggling-case",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "23:16",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-05-22-4c6264ee",
@@ -732,16 +774,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-22-dbcae0e8",
-      "headline": "Sabalenka cuts media short as French Open players protest",
-      "summary": "Leading players, including Aryna Sabalenka, Coco Gauff and Jannik Sinner, limit their French Open media duties to 15 minutes in a row over prize money.",
+      "id": "2026-05-22-5ba576a3",
+      "headline": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+      "summary": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/sport/tennis/articles/ce3pg95djdeo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": null,
-      "category": "politics",
+      "category": "business",
       "date": "2026-05-22",
-      "time": "14:59",
+      "time": "21:47",
       "conflict_id": null,
       "score": 27.0
     },
@@ -786,6 +828,20 @@
       "time": "20:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-22-2e3ad406",
+      "headline": "Equatorial Leans Against Bidding on Copasa Privatization",
+      "summary": "Equatorial SA is unlikely to bid on a key stake in Copasa, the Brazilian water utility that’s being privatized by the government of Minas Gerais state, according to people familiar to the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-22/equatorial-eqtl3-leans-against-bidding-on-copasa-csmg3-privatization",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-05-22",
+      "time": "22:10",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-22-c0e90ab6",
@@ -858,34 +914,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-21-71f14f45",
-      "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
-      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "08:48",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-21-ca762812",
-      "headline": "How Star Wars went from space opera to soap opera",
-      "summary": "Disney turned its flagship film franchise into TV fodder. Can it go back to the big screen?",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/05/21/how-star-wars-went-from-space-opera-to-soap-opera",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "12:47",
-      "conflict_id": null,
-      "score": 33.8
-    },
-    {
       "id": "2026-05-21-1620483f",
       "headline": "Papua New Guinea warns against fishing in New Ireland after mystery deaths of marine life",
       "summary": "Initial testing found evidence of metals in water samples, months after province’s residents began reporting unusual numbers of dead fish washing ashorePapua New Guinea’s government has warned communities not to fish from parts of the New Ireland coastline as preliminary tests show evidence of metals in some water samples, after months of residents reporting dead marine life in the area.On 7 May the fisheries minister, Jelta Wong, said initial te",
@@ -926,20 +954,6 @@
       "time": "17:53",
       "conflict_id": null,
       "score": 24.9
-    },
-    {
-      "id": "2026-05-21-c4d193e0",
-      "headline": "Macron says France must address issue of reparations for its role in slave trade",
-      "summary": "French president’s use of term comes as demand grows for formal discussion on addressing legacies of enslavementEmmanuel Macron has said reparations for France’s role in hundreds of years of enslavement of African people is an issue that should be addressed, but he stopped short of making clear proposals.“How to repair … is a question that must not be refused,” the French president said in a speech on the legacies of slavery at the Élysée Palace.",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-05-21",
-      "time": "15:05",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-05-20-2c12fb2f",
@@ -1096,6 +1110,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-19-1070a6c4",
+      "headline": "Honduran ex-president controversially pardoned by Trump speaks to BBC",
+      "summary": "Juan Orlando Hernández was serving a 45-year prison sentence for drug trafficking when he was pardoned by Trump.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp36dwnezo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-19",
+      "time": "11:46",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-05-17-66a636d9",
       "headline": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
       "summary": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
@@ -1107,7 +1135,7 @@
       "date": "2026-05-17",
       "time": "23:02",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     }
   ]
 }
