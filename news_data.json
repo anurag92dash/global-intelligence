@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-23T11:51:55.490274+00:00",
-  "story_count": 78,
-  "source_count": 9,
+  "updated": "2026-05-23T12:53:03.256132+00:00",
+  "story_count": 81,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-05-23-59a1732d",
@@ -15,21 +15,7 @@
       "date": "2026-05-23",
       "time": "09:57",
       "conflict_id": null,
-      "score": 64.0
-    },
-    {
-      "id": "2026-05-23-b021d5e2",
-      "headline": "Deadliest China Coal Mine Blast Since 2009 Kills at Least 90",
-      "summary": "The death toll from a gas explosion at a coal mine in China’s Shanxi province has jumped to at least 90 people, making it the country’s deadliest such incident since 2009.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "03:19",
-      "conflict_id": null,
-      "score": 58.1
+      "score": 65.0
     },
     {
       "id": "2026-05-23-16781183",
@@ -43,7 +29,35 @@
       "date": "2026-05-23",
       "time": "10:59",
       "conflict_id": null,
-      "score": 55.4
+      "score": 63.4
+    },
+    {
+      "id": "2026-05-23-c04fe2de",
+      "headline": "Xi Jinping urges 'all-out rescue' after coal mine explosion kills at least 90 in China",
+      "summary": "Six emergency rescue teams consisting of 345 personnel have since been sent to the scene, the Xinhua state news agency reported on Saturday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/23/xi-jinping-urges-all-out-rescue-after-coal-mine-explosion-kills-at-least-82-in-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "06:41",
+      "conflict_id": null,
+      "score": 62.0
+    },
+    {
+      "id": "2026-05-23-b021d5e2",
+      "headline": "Deadliest China Coal Mine Blast Since 2009 Kills at Least 90",
+      "summary": "The death toll from a gas explosion at a coal mine in China’s Shanxi province has jumped to at least 90 people, making it the country’s deadliest such incident since 2009.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "03:19",
+      "conflict_id": null,
+      "score": 59.1
     },
     {
       "id": "2026-05-23-1271a38f",
@@ -56,6 +70,20 @@
       "category": "geopolitics",
       "date": "2026-05-23",
       "time": "06:51",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-05-23-d5b6d5b0",
+      "headline": "Gas explosion at Chinese coal mine kills at least 90",
+      "summary": "President Xi Jinping has called on authorities nationwide to learn from the incident.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "06:57",
       "conflict_id": null,
       "score": 55.4
     },
@@ -88,23 +116,9 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-23-d5b6d5b0",
-      "headline": "Gas explosion at Chinese coal mine kills at least 90",
-      "summary": "President Xi Jinping has called on authorities nationwide to learn from the incident.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-23",
-      "time": "06:57",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-05-23-21bb19fd",
       "headline": "Zelenskyy says ‘time is right’ for Ukraine to start process of joining EU",
-      "summary": "His comments come as both Kyiv and Moscow try to advance their interests on the battlefield.",
+      "summary": "His comments come as Russia accuses Ukraine of killing 12 in an attack on a college.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/5/23/zelenskyy-says-time-is-right-for-ukraine-to-start-process-of-joining-eu?traffic_source=rss",
       "region": "EU",
@@ -114,6 +128,20 @@
       "time": "10:10",
       "conflict_id": "ukraine-war",
       "score": 43.4
+    },
+    {
+      "id": "2026-05-23-d457ad0d",
+      "headline": "Rubio meets Modi during India visit with energy high on agenda",
+      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "India",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "11:55",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-23-23eb44bf",
@@ -158,20 +186,6 @@
       "score": 41.2
     },
     {
-      "id": "2026-05-23-11754f08",
-      "headline": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
-      "summary": "Parts of the Puebla stadium for high-profile warm-up for 2026 edition were closed to spectators due to FIFA sanctions.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "09:26",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-05-23-f2f65e75",
       "headline": "Israeli forces attack central Gaza despite ceasefire agreement",
       "summary": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
@@ -186,18 +200,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-23-e41851dc",
-      "headline": "Burn-like rashes and hunger: Gaza’s children face skin disease crisis",
-      "summary": "Overcrowded camps in Gaza see a surge in skin diseases. Children are most affected as healthcare services collapse.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/23/burn-like-rashes-and-hunger-gazas-children-face-skin-disease-crisis?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
+      "id": "2026-05-23-5723926d",
+      "headline": "French pair held until trial after boys abandoned by road in Portugal",
+      "summary": "The couple, who allegedly left two young boys on a roadside in the south of Portugal, will remain in custody, a court rules.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Portugal",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "05:46",
+      "time": "12:39",
       "conflict_id": null,
-      "score": 39.4
+      "score": 35.0
     },
     {
       "id": "2026-05-23-9b6d1565",
@@ -212,6 +226,34 @@
       "time": "08:10",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-23-8f9f49b5",
+      "headline": "Rubio Invites India’s Modi to Visit White House as Ties Improve",
+      "summary": "US Secretary of State Marco Rubio met Indian Prime Minister Narendra Modi in New Delhi on Saturday and invited him to visit the White House, as the two sides work to improve ties.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/rubio-to-meet-india-s-modi-with-energy-trade-ties-in-focus",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "06:49",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-23-d002e0c0",
+      "headline": "Former F1 world champion Alain Prost reportedly injured in robbery at Swiss home",
+      "summary": "Swiss police investigating an alleged home invasion71-year-old sustained a head injury, says reportsSwiss police are investigating an alleged robbery amid reports that the four-times Formula 1 world champion Alain Prost was injured during a home invasion.The Swiss tabloid Blick reported late on Friday that the 71-year-old Frenchman sustained a head injury from intruders who forced his son to open a safe during the incident on Tuesday morning. Con",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/may/23/f1-world-champion-alain-prost-injured-robbery-switzerland",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "12:11",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-05-23-8cef5c95",
@@ -242,20 +284,6 @@
       "score": 31.4
     },
     {
-      "id": "2026-05-23-e5853543",
-      "headline": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
-      "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "07:44",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-23-205e8941",
       "headline": "The new Luddite movement",
       "summary": "If governments don’t slow AI down, voters — like their predecessors — might take matters into their own hands",
@@ -282,6 +310,20 @@
       "time": "00:30",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-23-a3222376",
+      "headline": "Gas Prices Rise as Summer Holiday Travel Begins",
+      "summary": "Memorial Day weekend is expected to kick off one of the busiest summer travel season in years, with millions of Americans hitting the roads and airports despite rising costs. GasBuddy's Head of Petroleum Analysis Patrick De Hahn and The Points Guy Managing Editor Clint Henderson joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss the climbing gas prices, expensive airfare and what travelers can expect this summer. (Source",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-23/gas-prices-rise-as-summer-holiday-travel-begins-video",
+      "region": "EU",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "12:43",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-23-bfa8ef21",
@@ -340,20 +382,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-05-23-080f4e22",
-      "headline": "See what artists want to do with Charlottesville’s melted Confederate statue",
-      "summary": "The bronze ingots left over from a Robert E. Lee statue that once ignited violence will now be part of a new work of public art.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/23/bronze-charlottesville-melted-robert-e-lee-statue-become-art/",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
       "id": "2026-05-23-b157aba7",
       "headline": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
       "summary": "Prime minister launches impassioned argument in favour of much-maligned reforms announced in last week’s federal budgetGet our breaking news email, free app or daily news podcastA visibly emotional Anthony Albanese has launched an impassioned defence of Labor’s proposed changes to negative gearing, the capital gains tax discount and family trusts, saying he will “not allow Australia to become a country where aspiration is only for some”.The prime",
@@ -366,6 +394,20 @@
       "time": "04:23",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-23-1f0e9387",
+      "headline": "Cockroach Janta Party’s founder says Indian government took website down",
+      "summary": "Group’s creator says his Instagram page was also hacked, along with the movement’s account.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/23/cockroach-janta-partys-founder-says-indian-government-took-website-down?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "11:51",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-23-f1f1b283",
@@ -424,6 +466,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-05-23-83e8bb0a",
+      "headline": "Australian fast-food chain Guzman y Gomez says 'adios' to tough US market",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/food-beverage/australian-fast-food-chain-guzman-y-gomez-says-adios-to-tough-us-market",
+      "region": "NA",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-05-23-7f198f3c",
       "headline": "Global infrastructure funding doubles over 5 years, led by Japanese banks",
       "summary": "",
@@ -452,6 +508,20 @@
       "score": 59.0
     },
     {
+      "id": "2026-05-22-610afe7d",
+      "headline": "Ukraine's President Zelenskyy invited to NATO summit in Ankara, Rutte confirms",
+      "summary": "Trump has lashed out at NATO allies on numerous occasions since the start of the Iran war on 28 February when both the US and Israel launched surprised strikes against the Islamic republic.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/22/ukraines-president-zelenskyy-invited-to-nato-summit-in-ankara-rutte-confirms",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-22",
+      "time": "16:17",
+      "conflict_id": "ukraine-war",
+      "score": 57.0
+    },
+    {
       "id": "2026-05-22-8ed5cd72",
       "headline": "US arms sales to Taiwan on ‘pause’ due to Iran war, says acting navy chief",
       "summary": "Hung Cao’s comments are latest blow to Taipei after Donald Trump recently cast doubt over US’s enduring supportUS arms sales to Taiwan have been “paused” to ensure the US military has enough munitions for its Iran operations, according to Washington’s acting navy secretary, in the latest blow to Taipei after a series of comments by Donald Trump.When asked at a congressional hearing on Thursday about a $14bn (£10.4bn) weapons package awaiting Trum",
@@ -464,6 +534,20 @@
       "time": "09:08",
       "conflict_id": null,
       "score": 56.0
+    },
+    {
+      "id": "2026-05-22-c7338a0f",
+      "headline": "Tulsi Gabbard to resign as US national intelligence director",
+      "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-22",
+      "time": "20:30",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-22-c277409f",
@@ -492,6 +576,20 @@
       "time": "16:41",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-05-22-6e3a9458",
+      "headline": "Tulsi Gabbard resigns as Trump's director of national intelligence",
+      "summary": "Tulsi Gabbard was appointed as director of national intelligence at the start of Trump's second term as US president.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/22/tulsi-gabbard-resigns-as-trumps-director-of-national-intelligence",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-22",
+      "time": "17:35",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-05-22-79cdb09a",
@@ -620,20 +718,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-22-98ac797a",
-      "headline": "US concerned Russian campaign against Baltics could ‘spark into something bigger’, says Rubio – as it happened",
-      "summary": "The US secretary of state said the US is monitoring Russian allegations against the BalticsRubio begins with thanks to Sweden for hosting the ministerial meeting.But that’s where the niceties end as says the upcoming Ankara summit will be “one of the more important leaders’ summit in the history of Nato,” as the leaders will have to respond to Trump’s “disappointment” with the alliance’s “response to our operations in the Middle East.”“That will ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/may/22/nato-mark-rutte-us-donald-trump-troops-poland-summit-russia-baltics-drones-tensions-ukraine-latest-news-updates",
-      "region": "EU",
-      "country": "Sweden",
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "16:35",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-05-22-85937f83",
       "headline": "Rubio tries to reassure Nato allies over US troop deployments",
       "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
@@ -746,6 +830,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-22-ead80df0",
+      "headline": "Lantheus Explores Potential $7 Billion Sale Following Offer From Curium",
+      "summary": "Lantheus Holdings Inc. is weighing a sale after getting a takeover offer from Curium that values the radiopharma company at about $7 billion, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-22/lantheus-is-said-to-weigh-sale-following-offer-from-curium",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-22",
+      "time": "19:53",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-22-e88834bf",
       "headline": "S&amp;P 500 Posts Eighth Weekly Gain as AI Stocks Power Rally",
       "summary": "US stocks advanced, notching gains ahead of a long holiday weekend fueled by hopes for resolution of hostilities in the Middle East and relentless enthusiasm for artificial intelligence-linked trades.",
@@ -800,6 +898,20 @@
       "time": "21:51",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-22-71da0abe",
+      "headline": "Average rent now swallows 98.7% of young workers’ pay for one-person flats in Spain",
+      "summary": "The youth emancipation rate fell to 14.5% in 2025, the worst figure on record, says Spain's Youth Council, adding that a young person must spend almost all their wages to rent a home alone.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/05/22/average-rent-now-swallows-987-of-young-workers-pay-for-one-person-flats-in-spain",
+      "region": "EU",
+      "country": "Spain",
+      "category": "business",
+      "date": "2026-05-22",
+      "time": "16:45",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-05-21-3c21b524",
@@ -858,20 +970,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-21-9c1d2760",
-      "headline": "Ukraine's Baltic allies unsettled by repeated drone incursions",
-      "summary": "The intrusion of Ukrainian unmanned aerial vehicles into the airspace of the Baltic states raises questions, and not all of them have answers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3pzg491ypo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "18:39",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-21-49f3078b",
       "headline": "Jailed Vietnamese tycoon's Birkin bags sell for more than $550K",
       "summary": "The disgraced tycoon is serving a life sentence for embezzling from a major Vietnamese bank.",
@@ -914,20 +1012,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-20-a0bfb2fd",
-      "headline": "US doctor who contracted Ebola in DRC flown to Germany for treatment",
-      "summary": "Dr Peter Stafford’s wife and four children are also being monitored for symptoms amid Ebola outbreak in CongoAn American doctor who contracted Ebola in the Democratic Republic of the Congo has been flown to Germany for treatment, along with his wife and four children, as the World Health Organization warned of the “scale and speed” of the outbreak.Authorities have reported at least 134 suspected deaths and more than 500 cases of the hemorrhagic B",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/20/ebola-outbreak-us-doctor-germany",
-      "region": "NA",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "12:28",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-05-20-2c12fb2f",
       "headline": "Lebanon says 21 killed, including children, in Israeli air strikes",
       "summary": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
@@ -954,20 +1038,6 @@
       "time": "14:44",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-05-20-16dd6685",
-      "headline": "Austrian ex-intelligence officer found guilty of Russia spying charges",
-      "summary": "The spy scandal has revived fears that Austria remains a hotbed of Russian espionage activity.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy21541dz4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Austria",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "19:30",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-05-20-25104da2",
@@ -1008,34 +1078,6 @@
       "category": "politics",
       "date": "2026-05-20",
       "time": "08:00",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-20-14f15464",
-      "headline": "Could a football match soften North Korea-South Korea relations?",
-      "summary": "A North Korean women's football team played in South Korea marking the first time athletes from the North have crossed the border in nearly 8 years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "15:58",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-20-bd094036",
-      "headline": "Xi basks in spotlight as he hosts Putin days after Trump",
-      "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-20",
-      "time": "11:42",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1082,18 +1124,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-19-1070a6c4",
-      "headline": "Honduran ex-president controversially pardoned by Trump speaks to BBC",
-      "summary": "Juan Orlando Hernández was serving a 45-year prison sentence for drug trafficking when he was pardoned by Trump.",
+      "id": "2026-05-17-66a636d9",
+      "headline": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "summary": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp36dwnezo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-19",
-      "time": "11:46",
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-17",
+      "time": "23:02",
       "conflict_id": null,
-      "score": 27.0
+      "score": 35.0
     }
   ]
 }
