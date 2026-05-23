@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-23T12:53:03.256132+00:00",
-  "story_count": 81,
-  "source_count": 10,
+  "updated": "2026-05-23T14:23:28.789850+00:00",
+  "story_count": 79,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-05-23-59a1732d",
@@ -15,7 +15,7 @@
       "date": "2026-05-23",
       "time": "09:57",
       "conflict_id": null,
-      "score": 65.0
+      "score": 56.0
     },
     {
       "id": "2026-05-23-16781183",
@@ -29,77 +29,7 @@
       "date": "2026-05-23",
       "time": "10:59",
       "conflict_id": null,
-      "score": 63.4
-    },
-    {
-      "id": "2026-05-23-c04fe2de",
-      "headline": "Xi Jinping urges 'all-out rescue' after coal mine explosion kills at least 90 in China",
-      "summary": "Six emergency rescue teams consisting of 345 personnel have since been sent to the scene, the Xinhua state news agency reported on Saturday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/23/xi-jinping-urges-all-out-rescue-after-coal-mine-explosion-kills-at-least-82-in-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "06:41",
-      "conflict_id": null,
-      "score": 62.0
-    },
-    {
-      "id": "2026-05-23-b021d5e2",
-      "headline": "Deadliest China Coal Mine Blast Since 2009 Kills at Least 90",
-      "summary": "The death toll from a gas explosion at a coal mine in China’s Shanxi province has jumped to at least 90 people, making it the country’s deadliest such incident since 2009.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "03:19",
-      "conflict_id": null,
-      "score": 59.1
-    },
-    {
-      "id": "2026-05-23-1271a38f",
-      "headline": "Iran war day 85: Tehran says major gaps remain in US talks",
-      "summary": "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "06:51",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-05-23-d5b6d5b0",
-      "headline": "Gas explosion at Chinese coal mine kills at least 90",
-      "summary": "President Xi Jinping has called on authorities nationwide to learn from the incident.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/gas-explosion-at-chinese-coal-mine-kills-at-least-90?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-23",
-      "time": "06:57",
-      "conflict_id": null,
       "score": 55.4
-    },
-    {
-      "id": "2026-05-23-6994976f",
-      "headline": "US arms sales to Taiwan on 'pause' due to Iran war, acting Navy chief says",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
-      "region": "NA",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "",
-      "conflict_id": null,
-      "score": 54.8
     },
     {
       "id": "2026-05-23-ec2398d3",
@@ -114,6 +44,34 @@
       "time": "11:36",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-05-23-b021d5e2",
+      "headline": "Deadliest China Coal Mine Blast Since 2009 Kills at Least 90",
+      "summary": "The death toll from a gas explosion at a coal mine in China’s Shanxi province has jumped to at least 90 people, making it the country’s deadliest such incident since 2009.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/xi-urges-chinese-authorities-to-curb-accidents-after-mine-blast",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "03:19",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-05-23-6994976f",
+      "headline": "US arms sales to Taiwan on 'pause' due to Iran war, acting Navy chief says",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/us-arms-sales-to-taiwan-on-pause-due-to-iran-war-acting-navy-chief-says",
+      "region": "NA",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "",
+      "conflict_id": null,
+      "score": 46.8
     },
     {
       "id": "2026-05-23-21bb19fd",
@@ -186,16 +144,30 @@
       "score": 41.2
     },
     {
-      "id": "2026-05-23-f2f65e75",
-      "headline": "Israeli forces attack central Gaza despite ceasefire agreement",
-      "summary": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
+      "id": "2026-05-23-d4a35d60",
+      "headline": "France bans far-right Israeli minister Ben-Gvir over abuse of activists",
+      "summary": "French Foreign Minister Jean-Noel Barrot said France would not tolerate its nationals being threatened or intimidated.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "url": "https://www.aljazeera.com/news/2026/5/23/france-bans-far-right-israeli-minister-ben-gvir?traffic_source=rss",
+      "region": "EU",
+      "country": "France",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "06:40",
+      "time": "13:18",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-23-11754f08",
+      "headline": "Mexico beat Ghana as World Cup cohosts excel despite FIFA sanctions",
+      "summary": "Parts of the Puebla stadium for high-profile warm-up for 2026 edition were closed to spectators due to FIFA sanctions.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/23/mexico-beat-ghana-as-world-cup-co-hosts-lay-down-early-warm-up-marker?traffic_source=rss",
+      "region": "NA",
+      "country": "Mexico",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "09:26",
       "conflict_id": null,
       "score": 39.4
     },
@@ -242,18 +214,32 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-23-d002e0c0",
-      "headline": "Former F1 world champion Alain Prost reportedly injured in robbery at Swiss home",
-      "summary": "Swiss police investigating an alleged home invasion71-year-old sustained a head injury, says reportsSwiss police are investigating an alleged robbery amid reports that the four-times Formula 1 world champion Alain Prost was injured during a home invasion.The Swiss tabloid Blick reported late on Friday that the 71-year-old Frenchman sustained a head injury from intruders who forced his son to open a safe during the incident on Tuesday morning. Con",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/2026/may/23/f1-world-champion-alain-prost-injured-robbery-switzerland",
-      "region": "EU",
+      "id": "2026-05-23-93156900",
+      "headline": "Israeli air strike pounds southern Lebanon leaving many injured",
+      "summary": "An Israeli air strike has hit the Al-Baqbouq area north of Tyre in southern Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-air-strike-pounds-southern-lebanon-leaving-many-injured?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "12:54",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-05-23-353c741b",
+      "headline": "The pollution that outlives war",
+      "summary": "Long after fighting is over, the toxic leftovers of war continue to poison communities and the environment.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/5/23/the-pollution-that-outlives-war?traffic_source=rss",
+      "region": "MENA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "12:11",
+      "time": "12:50",
       "conflict_id": null,
-      "score": 32.0
+      "score": 31.4
     },
     {
       "id": "2026-05-23-8cef5c95",
@@ -284,14 +270,14 @@
       "score": 31.4
     },
     {
-      "id": "2026-05-23-205e8941",
-      "headline": "The new Luddite movement",
-      "summary": "If governments don’t slow AI down, voters — like their predecessors — might take matters into their own hands",
+      "id": "2026-05-23-3a534e38",
+      "headline": "Bond slump stirs vigilante fears",
+      "summary": "A sense is setting in among investment professionals that we have a serious problem here",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/f5c96fa6-5b9b-4951-b71d-e32b3b57d8df",
-      "region": "EU",
+      "url": "https://www.ft.com/content/e16e6cdf-e824-4bc1-a199-e42746e602bb",
+      "region": "NA",
       "country": null,
-      "category": "politics",
+      "category": "business",
       "date": "2026-05-23",
       "time": "04:00",
       "conflict_id": null,
@@ -310,6 +296,48 @@
       "time": "00:30",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-23-316722ec",
+      "headline": "Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies",
+      "summary": "President Donald Trump’s latest financial disclosure has drawn scrutiny for its astonishing scale: 3,711 trades, almost entirely in shares of companies across America, including many whose fortunes can turn on federal policy. Bloomberg News US Equities Team Leader Elena Popina joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-23/trump-s-3-711-trades-point-to-multiple-strategies-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "14:02",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-23-38a3c7a1",
+      "headline": "Will the Dollar Remain King in a Cashless Society?",
+      "summary": "The dollar has been the world's reserve currency for decades, but it's history goes back centuries – to before the United States was  the United States. Brendan Greeley, author of the new book \"The Almighty Dollar: 500 Years of the World's Most Powerful Money,\" joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the currency's history, explain its dominance in global finance, and look ahead to the role it'll play in a wor",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-23/will-the-dollar-remain-king-in-a-cashless-society-video",
+      "region": "NA",
+      "country": "United States",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "13:54",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-23-0715fd05",
+      "headline": "Bangladesh Central Bank Launches $5 Billion Fund to Spur Growth",
+      "summary": "Bangladesh’s central bank unveiled a 600 billion-taka ($5 billion) package to boost economic growth, revive shuttered factories and support small businesses.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/bangladesh-central-bank-launches-5-billion-fund-to-spur-growth",
+      "region": "SA",
+      "country": "Bangladesh",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "12:51",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-23-a3222376",
@@ -382,6 +410,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-05-23-5649c11b",
+      "headline": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
+      "summary": "Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlementsGet our breaking news email, free app or daily news podcastThe Israeli government is undermining stability in the West Bank as settler violence reaches unprecedented levels, a coalition of western countries says, as its leaders call for an end to construction of Israeli settlements it says breach international law.In a ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
+      "region": "EU",
+      "country": "Netherlands",
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "06:03",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-05-23-b157aba7",
       "headline": "Anthony Albanese visibly emotional after defending Labor’s capital gains tax and negative gearing changes",
       "summary": "Prime minister launches impassioned argument in favour of much-maligned reforms announced in last week’s federal budgetGet our breaking news email, free app or daily news podcastA visibly emotional Anthony Albanese has launched an impassioned defence of Labor’s proposed changes to negative gearing, the capital gains tax discount and family trusts, saying he will “not allow Australia to become a country where aspiration is only for some”.The prime",
@@ -394,6 +436,20 @@
       "time": "04:23",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-23-a225b1b7",
+      "headline": "Rising global costs threaten Mexico’s production costs and food stability",
+      "summary": "Sharp price hikes for food staples are forcing Mexicans to tighten budgets and cut back consumption.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/5/23/rising-global-costs-threaten-mexicos-production-costs-and-food-stability?traffic_source=rss",
+      "region": "NA",
+      "country": "Mexico",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "14:11",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-23-1f0e9387",
@@ -466,20 +522,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-23-83e8bb0a",
-      "headline": "Australian fast-food chain Guzman y Gomez says 'adios' to tough US market",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/food-beverage/australian-fast-food-chain-guzman-y-gomez-says-adios-to-tough-us-market",
-      "region": "NA",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-23-7f198f3c",
       "headline": "Global infrastructure funding doubles over 5 years, led by Japanese banks",
       "summary": "",
@@ -505,21 +547,7 @@
       "date": "2026-05-22",
       "time": "08:12",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-05-22-610afe7d",
-      "headline": "Ukraine's President Zelenskyy invited to NATO summit in Ankara, Rutte confirms",
-      "summary": "Trump has lashed out at NATO allies on numerous occasions since the start of the Iran war on 28 February when both the US and Israel launched surprised strikes against the Islamic republic.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/22/ukraines-president-zelenskyy-invited-to-nato-summit-in-ankara-rutte-confirms",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-22",
-      "time": "16:17",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
+      "score": 51.0
     },
     {
       "id": "2026-05-22-8ed5cd72",
@@ -533,21 +561,7 @@
       "date": "2026-05-22",
       "time": "09:08",
       "conflict_id": null,
-      "score": 56.0
-    },
-    {
-      "id": "2026-05-22-c7338a0f",
-      "headline": "Tulsi Gabbard to resign as US national intelligence director",
-      "summary": "Gabbard who has been largely out of public view during recent US operations says she is leaving due to her husband's illness.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgj2gkv1x1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-22",
-      "time": "20:30",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 48.0
     },
     {
       "id": "2026-05-22-c277409f",
@@ -576,20 +590,6 @@
       "time": "16:41",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-05-22-6e3a9458",
-      "headline": "Tulsi Gabbard resigns as Trump's director of national intelligence",
-      "summary": "Tulsi Gabbard was appointed as director of national intelligence at the start of Trump's second term as US president.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/22/tulsi-gabbard-resigns-as-trumps-director-of-national-intelligence",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "17:35",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-05-22-79cdb09a",
@@ -788,76 +788,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-22-2e3ad406",
-      "headline": "Equatorial Leans Against Bidding on Copasa Privatization",
-      "summary": "Equatorial SA is unlikely to bid on a key stake in Copasa, the Brazilian water utility that’s being privatized by the government of Minas Gerais state, according to people familiar to the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/equatorial-eqtl3-leans-against-bidding-on-copasa-csmg3-privatization",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "22:10",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-22-2e6bd379",
-      "headline": "Emerging Assets Post Positive Week as Hopes for Peace Deal Grow",
-      "summary": "Emerging-market stocks and currencies gained on the week as investors grew increasingly hopeful that the US and Iran are moving closer to a peace deal.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/em-stocks-poised-for-weekly-gain-tech-stocks-rise-on-ai-trade",
-      "region": "NA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "05:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-22-d353ad85",
-      "headline": "Nasdaq Gets Approval From SEC to List Bitcoin Index Options",
-      "summary": "The Securities and Exchange Commission has given the go-ahead for Nasdaq Inc. to list index options based on the price of Bitcoin, the latest sign that Wall Street is becoming more tightly integrated with the world of digital assets.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/nasdaq-bitcoin-index-options-granted-approval-by-sec",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "20:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-22-ead80df0",
-      "headline": "Lantheus Explores Potential $7 Billion Sale Following Offer From Curium",
-      "summary": "Lantheus Holdings Inc. is weighing a sale after getting a takeover offer from Curium that values the radiopharma company at about $7 billion, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/lantheus-is-said-to-weigh-sale-following-offer-from-curium",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "19:53",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-22-e88834bf",
-      "headline": "S&amp;P 500 Posts Eighth Weekly Gain as AI Stocks Power Rally",
-      "summary": "US stocks advanced, notching gains ahead of a long holiday weekend fueled by hopes for resolution of hostilities in the Middle East and relentless enthusiasm for artificial intelligence-linked trades.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-22/ai-fueled-rally-puts-s-p-500-on-track-for-eighth-weekly-gain",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "12:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-22-c0e90ab6",
       "headline": "A Ford Truck, Home to Newborn Robins, Is Stuck at a Kansas Car Dealer",
       "summary": "Employees of a dealership in Olathe, Kan., found the nest, which is protected under federal law, on top of one of the truck’s tires.",
@@ -900,20 +830,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-22-71da0abe",
-      "headline": "Average rent now swallows 98.7% of young workers’ pay for one-person flats in Spain",
-      "summary": "The youth emancipation rate fell to 14.5% in 2025, the worst figure on record, says Spain's Youth Council, adding that a young person must spend almost all their wages to rent a home alone.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/05/22/average-rent-now-swallows-987-of-young-workers-pay-for-one-person-flats-in-spain",
-      "region": "EU",
-      "country": "Spain",
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "16:45",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-05-21-3c21b524",
       "headline": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
       "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
@@ -938,6 +854,20 @@
       "category": "geopolitics",
       "date": "2026-05-21",
       "time": "05:04",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-21-71f14f45",
+      "headline": "Far-right Israeli minister condemned for taunting handcuffed Gaza flotilla activists",
+      "summary": "France and Italy are among the countries that have criticised a video showing Itamar Ben-Gvir taunting dozens of activists detained at an Israeli port.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp32weyn8o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-05-21",
+      "time": "08:48",
       "conflict_id": null,
       "score": 35.0
     },
@@ -998,18 +928,18 @@
       "score": 24.9
     },
     {
-      "id": "2026-05-20-91b694e1",
-      "headline": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
-      "summary": "The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "04:59",
+      "id": "2026-05-21-c4d193e0",
+      "headline": "Macron says France must address issue of reparations for its role in slave trade",
+      "summary": "French president’s use of term comes as demand grows for formal discussion on addressing legacies of enslavementEmmanuel Macron has said reparations for France’s role in hundreds of years of enslavement of African people is an issue that should be addressed, but he stopped short of making clear proposals.“How to repair … is a question that must not be refused,” the French president said in a speech on the legacies of slavery at the Élysée Palace.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/may/21/macron-pressure-reparatory-justice-france-slave-trade-legacies-enslavement",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-05-21",
+      "time": "15:05",
       "conflict_id": null,
-      "score": 43.0
+      "score": 24.0
     },
     {
       "id": "2026-05-20-2c12fb2f",
@@ -1023,7 +953,21 @@
       "date": "2026-05-20",
       "time": "10:42",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-20-91b694e1",
+      "headline": "China confirms it will buy 200 Boeing jets after Trump-Xi summit",
+      "summary": "The two sides will also work towards an extension to the tariffs truce they agreed in October, China's Commerce Ministry said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c98rjydlgp4o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-20",
+      "time": "04:59",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-20-6497584b",
@@ -1078,6 +1022,34 @@
       "category": "politics",
       "date": "2026-05-20",
       "time": "08:00",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-05-20-14f15464",
+      "headline": "Could a football match soften North Korea-South Korea relations?",
+      "summary": "A North Korean women's football team played in South Korea marking the first time athletes from the North have crossed the border in nearly 8 years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/clypmgl80z7o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-05-20",
+      "time": "15:58",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-05-20-bd094036",
+      "headline": "Xi basks in spotlight as he hosts Putin days after Trump",
+      "summary": "Two presidential visits days apart is how Xi Jinping wants the world to see him: talking to everyone, tied to no-one.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjep12qx3xjo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-20",
+      "time": "11:42",
       "conflict_id": null,
       "score": 27.0
     },
