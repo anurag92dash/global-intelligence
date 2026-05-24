@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-24T11:39:51.614518+00:00",
-  "story_count": 71,
-  "source_count": 8,
+  "updated": "2026-05-24T12:44:43.456723+00:00",
+  "story_count": 73,
+  "source_count": 7,
   "stories": [
-    {
-      "id": "2026-05-24-9b8f24bb",
-      "headline": "At least four killed after massive Russian drone and missile attack on Kyiv",
-      "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Sunday that Russia had used the powerful nuclear-capable Oreshnik medium-range missile in its overnight attack, as well as hundreds of drones and dozens of other missiles.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "06:04",
-      "conflict_id": "ukraine-war",
-      "score": 73.0
-    },
     {
       "id": "2026-05-24-73d51151",
       "headline": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
@@ -43,21 +29,7 @@
       "date": "2026-05-24",
       "time": "01:18",
       "conflict_id": null,
-      "score": 60.0
-    },
-    {
-      "id": "2026-05-24-a0f76c8f",
-      "headline": "Russian attacks on Ukraine’s Kyiv kill at least four people",
-      "summary": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "08:22",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
+      "score": 59.0
     },
     {
       "id": "2026-05-24-8a3e1ab2",
@@ -71,35 +43,7 @@
       "date": "2026-05-24",
       "time": "08:27",
       "conflict_id": null,
-      "score": 59.4
-    },
-    {
-      "id": "2026-05-24-f56c69d0",
-      "headline": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
-      "summary": "Trump announces progress on Iran peace deal, signalling the Strait of Hormuz, vital for global trade, could reopen soon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "10:25",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-05-24-2f111d06",
-      "headline": "US, Iran inch closer to deal to end the war: What to know",
-      "summary": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "09:37",
-      "conflict_id": null,
-      "score": 56.4
+      "score": 58.4
     },
     {
       "id": "2026-05-24-724b1429",
@@ -116,6 +60,48 @@
       "score": 56.4
     },
     {
+      "id": "2026-05-24-2f111d06",
+      "headline": "US, Iran inch closer to deal to end the war: What to know",
+      "summary": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "09:37",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-24-3120bb81",
+      "headline": "LIVE: Threat of war ‘still looms large’ as US, Iran inch towards deal",
+      "summary": "Trump says &#039;an agreement has been largely negotiated, subject to finalization&#039; between the US, Iran and regional powers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "05:35",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-24-a0f76c8f",
+      "headline": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+      "summary": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "08:22",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
+    },
+    {
       "id": "2026-05-24-876df6f7",
       "headline": "Man killed in shark attack off Australia's north-east coast",
       "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
@@ -130,16 +116,16 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-24-b7d1006c",
-      "headline": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
-      "summary": "US president makes announcement after mediator Pakistan holds &#039;highly productive&#039; talks in Tehran.",
+      "id": "2026-05-24-f56c69d0",
+      "headline": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+      "summary": "Trump announces progress on Iran peace deal, signalling the Strait of Hormuz, vital for global trade, could reopen soon.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
       "region": "NA",
-      "country": "Pakistan",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "05:35",
+      "time": "10:25",
       "conflict_id": null,
       "score": 47.4
     },
@@ -186,20 +172,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-24-a3339598",
-      "headline": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
-      "summary": "A gunman known to the U.S. Secret Service opened fire near the White House and was shot and killed by federal officers. President Trump was in the White House at the time.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-05-24",
-      "time": "11:31",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
       "id": "2026-05-24-7bc42b8a",
       "headline": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
       "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in the past eight years, new analysis reveals.Attacks include 1,261 strikes on markets used by families for daily groceries and 863 incidents in which food distribution systems were targeted and workers killed. Contin",
@@ -242,20 +214,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-24-16b7d14e",
-      "headline": "Pakistan train bombing kills at least 24 people",
-      "summary": "Pakistan's prime minister, Shehbaz Sharif, said he strongly condemned the \"heinous bomb explosion\" and sent his condolences to the victims' families.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/24/pakistan-train-bombing-kills-at-least-24-people",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "politics",
-      "date": "2026-05-24",
-      "time": "10:12",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-05-24-45e1152b",
       "headline": "Blast targeting train kills at least 20 in Pakistan",
       "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
@@ -265,7 +223,7 @@
       "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "09:08",
+      "time": "12:26",
       "conflict_id": null,
       "score": 35.0
     },
@@ -284,6 +242,34 @@
       "score": 34.1
     },
     {
+      "id": "2026-05-24-a3339598",
+      "headline": "Gunman in Shooting Near White House Killed in Exchange of Fire With Secret Service",
+      "summary": "A gunman known to the U.S. Secret Service opened fire near the White House and was shot and killed by federal officers. President Trump was in the White House at the time.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "11:31",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-05-24-26249204",
+      "headline": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
+      "summary": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "12:19",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-05-24-4197f773",
       "headline": "Brazil debt crisis swells with over 82 million behind on payments",
       "summary": "",
@@ -296,6 +282,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-05-24-d4dd6709",
+      "headline": "Bolivian minister's convoy ambushed while overseeing roadblock clearance",
+      "summary": "Security forces were met by resistance while attempting to clear highway barriers, amid unrest over the government's economic policies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce3pdw1z59do?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "11:42",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-24-11e03828",
@@ -312,6 +312,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-05-24-cf61f442",
+      "headline": "What’s Happening in EM: Political Risk Roils Markets (Podcast)",
+      "summary": "Maria Elena Vizcaino and Zijia Song discuss the fresh wave of political risk rippling across emerging markets, how they’re affecting financial assets and how investors are positioning for the resurgent jitters.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/audio/2026-05-24/what-s-happening-in-em-political-risk-roils-markets-podcast",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-24",
+      "time": "12:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-24-3a9a31e2",
       "headline": "World’s Most Fervent Day Traders in Korea to Get Risky New Tools",
       "summary": "The world’s best-performing yet most volatile market is set to debut its first ever single-stock leveraged exchange‑traded funds this week, tools that have the potential to amplify gains and losses.",
@@ -324,6 +338,20 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-05-24-519db564",
+      "headline": "Clashes in Belgrade as student-led protests demand elections",
+      "summary": "Demonstrators challenge President Vucic’s rule and demand elections, justice and rule of law.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/5/24/clashes-in-belgrade-as-student-led-protests-demand-elections?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "11:48",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-24-ef356073",
@@ -410,34 +438,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-24-b1466f7c",
-      "headline": "Europe's biggest beach: endless sand on Germany's North Sea coast",
-      "summary": "A sandbank the size of 1,400 football pitches: Kniepsand on the North Frisian island of Amrum looks like a slice of desert and shields the island, while its vast beach could give tourism further inland a boost.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/24/europes-biggest-beach-endless-sand-on-germanys-north-sea-coast",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-05-24",
-      "time": "06:30",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-23-7a2c8410",
-      "headline": "US and Iran 'getting a lot closer' to an agreement to end war, Trump says",
-      "summary": "The US and Iran are close to signing a Pakistan-drafted framework agreement to end the war, with a decision expected within 48 hours, according to officials who spoke in anonymity. The proposal sets a 30-to-60-day window to negotiate details, though nuclear issues are excluded.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/23/us-and-iran-getting-a-lot-closer-to-an-agreement-to-end-war-trump-says",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "17:04",
-      "conflict_id": null,
-      "score": 62.0
-    },
-    {
       "id": "2026-05-23-8022728a",
       "headline": "US warns Japan of severe delays in Tomahawk deliveries due to Iran war",
       "summary": "Missiles could come two years late as Pentagon works to replenish stocks depleted in Middle East military campaign",
@@ -494,18 +494,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-23-3617455c",
-      "headline": "Zelenskyy rebuffs Merz proposal, says Ukraine deserves full EU membership",
-      "summary": "Volodymyr Zelenskyy has rejected a proposal by German Chancellor Friedrich Merz to grant Kyiv a non-voting \"associate membership\". Zelenskyy stressed that Ukraine's EU presence must be complete, with full rights.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-05-23-73dd0736",
+      "headline": "Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",
+      "summary": "Congo suspended flights to the eastern city of Bunia and regional health ministers warned of escalating cross-border risks from Ebola as the outbreak spread across three provinces and overwhelmed contact-tracing efforts.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/congo-faces-surge-in-ebola-cases-as-key-medical-tools-run-short",
+      "region": "NA",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "14:45",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
+      "time": "23:01",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-05-23-67c316df",
@@ -522,6 +522,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-05-23-1dda1a63",
+      "headline": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Portugal",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "14:24",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-23-ec2398d3",
       "headline": "Senegal's president sacks PM and former ally after months-long feud",
       "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
@@ -532,6 +546,20 @@
       "category": "politics",
       "date": "2026-05-23",
       "time": "11:36",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-23-5fc447d0",
+      "headline": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
+      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "23:34",
       "conflict_id": null,
       "score": 35.0
     },
@@ -704,34 +732,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-22-64962f02",
-      "headline": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
-      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney, has said that Alberta is “essential” to the country’s future, hours after the province’s leader moved the oil-rich region closer toward a referendum on independence.Separatists in the western province spent months collecting signatures seeking to trigger a binding October vote on seceding from the ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
-      "region": "NA",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "16:41",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-05-22-79cdb09a",
-      "headline": "Carney says Alberta is 'essential' to Canada as province plans vote on separation",
-      "summary": "Alberta's decision to hold a referendum on separation has been widely criticised, including by separatists who say the question is not definitive enough.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy42w778e72o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "20:59",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-22-61a630c4",
       "headline": "AI used to fake evidence that ended Korean actor's career, say police",
       "summary": "Police are seeking an arrest warrant for a YouTuber who allegedly fabricated evidence to defame actor Kim Soo-hyun.",
@@ -758,6 +758,20 @@
       "time": "01:44",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-05-22-64962f02",
+      "headline": "PM says Alberta ‘essential’ to Canada as separatists push for independence",
+      "summary": "Alberta premier calls for referendum on secession after judge ruled initiative to force binding vote invalid The Canadian prime minister, Mark Carney, has said that Alberta is “essential” to the country’s future, hours after the province’s leader moved the oil-rich region closer toward a referendum on independence.Separatists in the western province spent months collecting signatures seeking to trigger a binding October vote on seceding from the ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/22/canada-mark-carney-alberta-secession",
+      "region": "NA",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-05-22",
+      "time": "16:41",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-05-22-4c6264ee",
@@ -802,20 +816,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-22-85937f83",
-      "headline": "Rubio tries to reassure Nato allies over US troop deployments",
-      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Poland",
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "15:18",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-22-b116401e",
       "headline": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
       "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
@@ -826,6 +826,20 @@
       "category": "politics",
       "date": "2026-05-22",
       "time": "11:34",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-05-22-85937f83",
+      "headline": "Rubio tries to reassure Nato allies over US troop deployments",
+      "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cedpz9669deo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Poland",
+      "category": "politics",
+      "date": "2026-05-22",
+      "time": "15:18",
       "conflict_id": null,
       "score": 27.0
     },
@@ -872,6 +886,34 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-22-e060b960",
+      "headline": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",
+      "summary": "BBC's Will Grant reports from a pro-government demonstration held after the US indictment of the former president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cr5pl7jevyro?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-22",
+      "time": "20:49",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-05-21-3c21b524",
+      "headline": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
+      "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-21",
+      "time": "11:03",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-21-1620483f",
       "headline": "Papua New Guinea warns against fishing in New Ireland after mystery deaths of marine life",
       "summary": "Initial testing found evidence of metals in water samples, months after province’s residents began reporting unusual numbers of dead fish washing ashorePapua New Guinea’s government has warned communities not to fish from parts of the New Ireland coastline as preliminary tests show evidence of metals in some water samples, after months of residents reporting dead marine life in the area.On 7 May the fisheries minister, Jelta Wong, said initial te",
@@ -898,20 +940,6 @@
       "time": "21:27",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-05-20-2c12fb2f",
-      "headline": "Lebanon says 21 killed, including children, in Israeli air strikes",
-      "summary": "Twelve people were killed in a single strike on a house, including three children and three women, Lebanon's state-run news agency says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce9p1l7yp2lo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-20",
-      "time": "10:42",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-05-20-25104da2",
@@ -956,20 +984,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-19-baaecaf9",
-      "headline": "Anti-government demonstrators and police clash in Bolivia",
-      "summary": "Protesters have been calling for the president to resign after weeks-long unrest.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx21349w77go?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-05-19",
-      "time": "11:37",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-19-1070a6c4",
       "headline": "Honduran ex-president controversially pardoned by Trump speaks to BBC",
       "summary": "Juan Orlando Hernández was serving a 45-year prison sentence for drug trafficking when he was pardoned by Trump.",
@@ -980,6 +994,20 @@
       "category": "politics",
       "date": "2026-05-19",
       "time": "11:46",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-05-19-86dd590e",
+      "headline": "Watch key moments from BBC's interview with pardoned Honduran ex-president",
+      "summary": "Juan Orlando Hernández was controversially pardoned by Trump in December while serving a 45-year prison sentence in the US for drug trafficking.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/crlp5590rgzo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-19",
+      "time": "20:07",
       "conflict_id": null,
       "score": 27.0
     },
