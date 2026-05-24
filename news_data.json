@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-24T05:45:38.833786+00:00",
+  "updated": "2026-05-24T08:12:19.905153+00:00",
   "story_count": 75,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-05-24-9b8f24bb",
+      "headline": "At least four killed after massive Russian drone and missile attack on Kyiv",
+      "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Sunday that Russia had used the powerful nuclear-capable Oreshnik medium-range missile in its overnight attack, as well as hundreds of drones and dozens of other missiles.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "06:04",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
     {
       "id": "2026-05-24-42970d7f",
       "headline": "Trump says Iran deal 'largely negotiated' including reopening Strait of Hormuz",
@@ -15,7 +29,7 @@
       "date": "2026-05-24",
       "time": "01:18",
       "conflict_id": null,
-      "score": 51.0
+      "score": 60.0
     },
     {
       "id": "2026-05-24-8a3e1ab2",
@@ -29,7 +43,49 @@
       "date": "2026-05-24",
       "time": "01:29",
       "conflict_id": null,
-      "score": 50.4
+      "score": 59.4
+    },
+    {
+      "id": "2026-05-24-daba1004",
+      "headline": "Trump Touts Imminent Iran Deal That Would Reopen Hormuz Strait",
+      "summary": "US President Donald Trump said a peace deal with Iran was nearing completion and that the reopening of the strategic Strait of Hormuz would be announced shortly, even as an Iranian media outlet cast doubt on the claim.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-24/trump-touts-imminent-iran-deal-that-would-reopen-hormuz-strait",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "07:40",
+      "conflict_id": null,
+      "score": 51.1
+    },
+    {
+      "id": "2026-05-24-876df6f7",
+      "headline": "Man killed in shark attack off Australia's north-east coast",
+      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "07:12",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-05-24-b7d1006c",
+      "headline": "LIVE: Trump says Iran deal ‘largely negotiated’; Pakistan says talks soon",
+      "summary": "US president makes announcement after mediator Pakistan holds &#039;highly productive&#039; talks in Tehran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "05:35",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-05-24-5d2f319f",
@@ -43,21 +99,21 @@
       "date": "2026-05-24",
       "time": "03:47",
       "conflict_id": null,
-      "score": 50.1
+      "score": 42.1
     },
     {
-      "id": "2026-05-24-adf26ef3",
-      "headline": "One dead, multiple injured after Russia launches wave of strikes on Ukraine",
-      "summary": "Twenty-one people have been injured, including a 15-year-old boy, with damage reported across all districts of Kyiv.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-05-24-a44be711",
+      "headline": "LNG Tanker Exits Hormuz for India for First Time Since War Began",
+      "summary": "A liquefied natural gas tanker carrying a shipment for India has exited the Strait of Hormuz, the first for the country from the Persian Gulf since the Iran war began months ago as the region’s exporters discreetly supply key buyers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-24/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began",
+      "region": "MENA",
+      "country": "India",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "04:54",
-      "conflict_id": "ukraine-war",
-      "score": 47.0
+      "time": "01:02",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-05-24-a3339598",
@@ -72,6 +128,48 @@
       "time": "05:13",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-05-24-7bc42b8a",
+      "headline": "Hunger increasingly used as weapon of war as ‘food-related violence’ surges, analysis shows",
+      "summary": "More than 20,000 attacks on markets, farmland and food distribution systems have been recorded since 2018Hunger is being increasingly exploited as a weapon of war with more than 20,000 documented incidents of “food-related violence” in the past eight years, new analysis reveals.Attacks include 1,261 strikes on markets used by families for daily groceries and 863 incidents in which food distribution systems were targeted and workers killed. Contin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/24/hunger-weapon-of-war-food-violence-surges",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "06:00",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-05-24-1e5a3d68",
+      "headline": "Man dies in northeast Australia after shark attack",
+      "summary": "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "07:13",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-24-cacf81ea",
+      "headline": "ECB Faces Pressure to Hike as Iran War Feeds Prices, Kocher Says",
+      "summary": "The European Central Bank is heading for an interest-rate increase next month unless a sustainable peace deal between the US and Iran can be found, according to Governing Council member Martin Kocher.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-24/ecb-faces-pressure-to-hike-as-iran-war-feeds-prices-kocher-says",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-24",
+      "time": "07:04",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-24-4197f773",
@@ -200,18 +298,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-24-7f198f3c",
-      "headline": "Global infrastructure funding doubles over 5 years, led by Japanese banks",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/finance/global-infrastructure-funding-doubles-over-5-years-led-by-japanese-banks",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-05-24-b1466f7c",
+      "headline": "Europe's biggest beach: endless sand on Germany's North Sea coast",
+      "summary": "A sandbank the size of 1,400 football pitches: Kniepsand on the North Frisian island of Amrum looks like a slice of desert and shields the island, while its vast beach could give tourism further inland a boost.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/24/europes-biggest-beach-endless-sand-on-germanys-north-sea-coast",
+      "region": "EU",
+      "country": "Germany",
       "category": "business",
       "date": "2026-05-24",
-      "time": "",
+      "time": "06:30",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
       "id": "2026-05-23-3584132b",
@@ -267,7 +365,7 @@
       "date": "2026-05-23",
       "time": "18:37",
       "conflict_id": null,
-      "score": 56.4
+      "score": 55.4
     },
     {
       "id": "2026-05-23-efcd98b8",
@@ -281,35 +379,7 @@
       "date": "2026-05-23",
       "time": "15:58",
       "conflict_id": null,
-      "score": 56.0
-    },
-    {
-      "id": "2026-05-23-b8ac289b",
-      "headline": "Xi Jinping urges 'all-out rescue' after coal mine explosion kills at least 82 in China",
-      "summary": "Six emergency rescue teams consisting of 345 personnel have since been sent to the scene, the Xinhua state news agency reported on Saturday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/23/xi-jinping-urges-all-out-rescue-after-coal-mine-explosion-kills-at-least-82-in-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "06:41",
-      "conflict_id": null,
-      "score": 53.0
-    },
-    {
-      "id": "2026-05-23-cc2e6574",
-      "headline": "Israeli forces arrest two children in occupied West Bank village",
-      "summary": "Israeli soldiers arrest two Palestinian children during a raid on al-Mughayyir village in the occupied West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-arrest-two-children-in-occupied-west-bank-village?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "15:42",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
+      "score": 48.0
     },
     {
       "id": "2026-05-23-b3361d26",
@@ -340,20 +410,6 @@
       "score": 47.4
     },
     {
-      "id": "2026-05-23-31b5276d",
-      "headline": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
-      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "23:24",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-23-b26583bd",
       "headline": "California declares emergency as fire crews race to contain toxic leak",
       "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
@@ -364,20 +420,6 @@
       "category": "geopolitics",
       "date": "2026-05-23",
       "time": "20:07",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-23-d457ad0d",
-      "headline": "Rubio meets Modi during India visit with energy high on agenda",
-      "summary": "The secretary of state wants to sell US energy to Delhi to make up for shortfalls caused by the Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "11:55",
       "conflict_id": null,
       "score": 43.0
     },
@@ -396,18 +438,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-23-73dd0736",
-      "headline": "Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",
-      "summary": "Congo suspended flights to the eastern city of Bunia and regional health ministers warned of escalating cross-border risks from Ebola as the outbreak spread across three provinces and overwhelmed contact-tracing efforts.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/congo-faces-surge-in-ebola-cases-as-key-medical-tools-run-short",
-      "region": "NA",
-      "country": null,
+      "id": "2026-05-23-31b5276d",
+      "headline": "I survived a missile strike in the Strait of Hormuz, but my friend has not been found",
+      "summary": "Sunil Puniya was on his first sea job when a missile struck the oil tanker Skylight at the start of the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8pn63q771o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "23:01",
+      "time": "23:24",
       "conflict_id": null,
-      "score": 42.1
+      "score": 43.0
     },
     {
       "id": "2026-05-23-0dd2e09c",
@@ -466,20 +508,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-23-1dda1a63",
-      "headline": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Portugal",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "14:24",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-23-ec2398d3",
       "headline": "Senegal's president sacks PM and former ally after months-long feud",
       "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
@@ -506,20 +534,6 @@
       "time": "19:17",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-05-23-5649c11b",
-      "headline": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
-      "summary": "Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlementsGet our breaking news email, free app or daily news podcastThe Israeli government is undermining stability in the West Bank as settler violence reaches unprecedented levels, a coalition of western countries says, as its leaders call for an end to construction of Israeli settlements it says breach international law.In a ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
-      "region": "EU",
-      "country": "Netherlands",
-      "category": "politics",
-      "date": "2026-05-23",
-      "time": "06:03",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-05-23-b70abdba",
@@ -592,34 +606,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-23-1d249324",
-      "headline": "Japan's Akazawa has Brief Talk with China's Wang at APEC",
-      "summary": "Japanese Trade Minister Ryosei Akazawa and Chinese Commerce Minister Wang Wentao spoke briefly Friday at an Asia-Pacific Economic Cooperation dinner in Suzhou, China. The encounter marks the first face-to-face ministerial interaction between the nations since Prime Minister Sanae Takaichi’s comments on Taiwan strained ties. Akazawa confirmed the meeting at a press conference but declined to disclose what was discussed. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/japan-s-akazawa-has-brief-talk-with-china-s-wang-at-apec-video",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "11:52",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-23-bfa8ef21",
-      "headline": "ECB Hike May Be Inevitable to Keep Credibility, Stournaras Says",
-      "summary": "Preserving the European Central Bank’s credibility is a strong argument in favor of an interest-rate increase next month, according to Governing Council member Yannis Stournaras.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/ecb-hike-may-be-inevitable-to-keep-credibility-stournaras-says",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "08:24",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-23-9129252c",
       "headline": "How $6 Gas Prices Are Affecting the Lives of Californians",
       "summary": "California is the nation’s most expensive state for gasoline. The latest spike has forced more residents to change their habits.",
@@ -632,6 +618,20 @@
       "time": "09:00",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-05-23-5649c11b",
+      "headline": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
+      "summary": "Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlementsGet our breaking news email, free app or daily news podcastThe Israeli government is undermining stability in the West Bank as settler violence reaches unprecedented levels, a coalition of western countries says, as its leaders call for an end to construction of Israeli settlements it says breach international law.In a ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/may/23/albanese-joins-coalition-of-nations-calling-for-an-end-to-israeli-settlement-expansion-in-the-west-bank-ntwnfb",
+      "region": "EU",
+      "country": "Netherlands",
+      "category": "politics",
+      "date": "2026-05-23",
+      "time": "06:03",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-05-23-b2439d86",
