@@ -1,36 +1,8 @@
 {
-  "updated": "2026-05-24T17:38:15.726746+00:00",
-  "story_count": 72,
+  "updated": "2026-05-24T18:44:53.846632+00:00",
+  "story_count": 73,
   "source_count": 8,
   "stories": [
-    {
-      "id": "2026-05-24-73d51151",
-      "headline": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
-      "summary": "Capital rocked by explosions after Ukrainian leader Volodymyr Zelenskyy warned of imminent large-scale attack",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "13:11",
-      "conflict_id": "ukraine-war",
-      "score": 78.4
-    },
-    {
-      "id": "2026-05-24-7f030a56",
-      "headline": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
-      "summary": "Assault hits water facility, market, residential buildings and schools, killing at least four and injuring dozens Russia used its powerful hypersonic Oreshnik ballistic missile for a third time in Ukraine as part of a massive attack on Kyiv and its surrounding region that killed at least four people and injured about 100.Russia hit the city of Bila Tserkva in the Kyiv region with the missile, Ukraine’s president, Volodymyr Zelenskyy, said. He des",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "16:02",
-      "conflict_id": "ukraine-war",
-      "score": 76.0
-    },
     {
       "id": "2026-05-24-9b8f24bb",
       "headline": "At least four killed after massive Russian drone and missile attack on Kyiv",
@@ -44,6 +16,34 @@
       "time": "06:04",
       "conflict_id": "ukraine-war",
       "score": 73.0
+    },
+    {
+      "id": "2026-05-24-73d51151",
+      "headline": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
+      "summary": "Capital rocked by explosions after Ukrainian leader Volodymyr Zelenskyy warned of imminent large-scale attack",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "13:11",
+      "conflict_id": "ukraine-war",
+      "score": 70.4
+    },
+    {
+      "id": "2026-05-24-7f030a56",
+      "headline": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
+      "summary": "Assault hits water facility, market, residential buildings and schools, killing at least four and injuring dozens Russia used its powerful hypersonic Oreshnik ballistic missile for a third time in Ukraine as part of a massive attack on Kyiv and its surrounding region that killed at least four people and injured about 100.Russia hit the city of Bila Tserkva in the Kyiv region with the missile, Ukraine’s president, Volodymyr Zelenskyy, said. He des",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "16:02",
+      "conflict_id": "ukraine-war",
+      "score": 68.0
     },
     {
       "id": "2026-05-24-42970d7f",
@@ -102,32 +102,18 @@
       "score": 56.4
     },
     {
-      "id": "2026-05-24-2f111d06",
-      "headline": "US, Iran inch closer to deal to end the war: What to know",
-      "summary": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
+      "id": "2026-05-24-1d21d2a1",
+      "headline": "Zelenskyy speaks to Al Jazeera at site of major Russian attacks in Kyiv",
+      "summary": "Russia has launched one of its largest attacks on Kyiv since the war began, firing hundreds of drones and missiles.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/zelenskyy-speaks-to-al-jazeera-at-site-of-major-russian-attacks-in-kyiv?traffic_source=rss",
       "region": "MENA",
-      "country": "Iran",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "09:37",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-05-24-724b1429",
-      "headline": "Trump says US and Iran deal to end war is ‘largely negotiated’",
-      "summary": "US President Trump announced that a Memorandum of Understanding on a peace deal with Iran has been ‘largely negotiated&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "09:10",
-      "conflict_id": null,
-      "score": 56.4
+      "time": "18:22",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
     },
     {
       "id": "2026-05-24-42dd34d1",
@@ -139,7 +125,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "17:01",
+      "time": "18:27",
       "conflict_id": null,
       "score": 51.4
     },
@@ -298,20 +284,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-24-70881c94",
-      "headline": "Russia pounds Ukraine’s capital with hypersonic missile",
-      "summary": "Russia pounded Ukraine’s capital overnight on Saturday with drones and ballistic missiles.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "09:20",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-05-24-884b3d7c",
       "headline": "Turkish police storm main opposition headquarters with tear gas",
       "summary": "Officers used tear gas inside the CHP building in Ankara to enforce a controversial judicial decision reinstating former leader Kemal Kılıçdaroğlu. The intrusion has sparked fierce resistance from current party officials, who accuse Kılıçdaroğlu of deploying \"mafia thugs\" to seize power.",
@@ -326,6 +298,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-05-24-583e38a1",
+      "headline": "Large-scale Russian attack on Ukraine leaves four dead and dozens injured",
+      "summary": "The Oreshnik missile, which reportedly travels over 10 times the speed of sound, was used, Russia has confirmed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyp6831yp5o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "16:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-24-45731f82",
       "headline": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
       "summary": "Chinese president became heated when criticising US ally for its increased defence spending",
@@ -335,7 +321,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-05-24",
-      "time": "15:06",
+      "time": "18:21",
       "conflict_id": null,
       "score": 34.4
     },
@@ -377,7 +363,7 @@
       "country": "White House",
       "category": "politics",
       "date": "2026-05-24",
-      "time": "11:31",
+      "time": "17:44",
       "conflict_id": null,
       "score": 33.2
     },
@@ -506,6 +492,20 @@
       "time": "11:48",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-05-24-7c7d5cce",
+      "headline": "Japan gold exports hit record $25bn, likely include metal once smuggled in",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/commodities/japan-gold-exports-hit-record-25bn-likely-include-metal-once-smuggled-in",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-24",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-24-848b8cbd",
@@ -646,6 +646,20 @@
       "time": "15:58",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-05-23-8ef32178",
+      "headline": "Rubio hints at 'good news' on Iran deal after Trump suggests agreement is imminent",
+      "summary": "On Sunday, US Secretary of State Marco Rubio told reporters in India there was a chance of some \"some good news\" regarding a deal later in the day.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/23/trump-says-agreement-to-end-iran-war-largely-negotiated",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "21:38",
+      "conflict_id": null,
+      "score": 46.0
     },
     {
       "id": "2026-05-23-b26583bd",
