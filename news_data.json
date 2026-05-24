@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-24T12:44:43.456723+00:00",
+  "updated": "2026-05-24T14:11:07.870395+00:00",
   "story_count": 73,
-  "source_count": 7,
+  "source_count": 8,
   "stories": [
+    {
+      "id": "2026-05-24-9b8f24bb",
+      "headline": "At least four killed after massive Russian drone and missile attack on Kyiv",
+      "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Sunday that Russia had used the powerful nuclear-capable Oreshnik medium-range missile in its overnight attack, as well as hundreds of drones and dozens of other missiles.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "06:04",
+      "conflict_id": "ukraine-war",
+      "score": 81.0
+    },
     {
       "id": "2026-05-24-73d51151",
       "headline": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
@@ -13,9 +27,23 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "08:06",
+      "time": "13:11",
       "conflict_id": "ukraine-war",
-      "score": 70.4
+      "score": 78.4
+    },
+    {
+      "id": "2026-05-24-7f030a56",
+      "headline": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
+      "summary": "At least four people died and dozens of others were injured Russia used its powerful hypersonic Oreshnik ballistic missile for a third time in Ukraine as part of a massive attack on Kyiv and its surrounding region that killed at least four people and injured dozens.Russia hit the city of Bila Tserkva in the Kyiv region with the missile, Ukraine’s president Volodymyr Zelenskyy said. He described a Russian assault that hit a water supply facility, ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "13:46",
+      "conflict_id": "ukraine-war",
+      "score": 76.0
     },
     {
       "id": "2026-05-24-42970d7f",
@@ -29,7 +57,21 @@
       "date": "2026-05-24",
       "time": "01:18",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
+    },
+    {
+      "id": "2026-05-24-a0f76c8f",
+      "headline": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+      "summary": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "08:22",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
     },
     {
       "id": "2026-05-24-8a3e1ab2",
@@ -43,7 +85,49 @@
       "date": "2026-05-24",
       "time": "08:27",
       "conflict_id": null,
-      "score": 58.4
+      "score": 59.4
+    },
+    {
+      "id": "2026-05-24-530d3c0a",
+      "headline": "Iran hints US will end war in ‘Persian-style’ peace on Tehran’s terms",
+      "summary": "Iran’s foreign ministry spokesman invoked ancient Persia’s victory over Rome in comparison to today’s US-Iran talks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/iran-hints-us-will-end-war-in-persian-style-peace-on-tehrans-terms?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "13:26",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-05-24-f56c69d0",
+      "headline": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
+      "summary": "Trump announces progress on Iran peace deal, signalling the Strait of Hormuz, vital for global trade, could reopen soon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "10:25",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-05-24-2f111d06",
+      "headline": "US, Iran inch closer to deal to end the war: What to know",
+      "summary": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "09:37",
+      "conflict_id": null,
+      "score": 56.4
     },
     {
       "id": "2026-05-24-724b1429",
@@ -60,74 +144,18 @@
       "score": 56.4
     },
     {
-      "id": "2026-05-24-2f111d06",
-      "headline": "US, Iran inch closer to deal to end the war: What to know",
-      "summary": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "09:37",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-05-24-3120bb81",
-      "headline": "LIVE: Threat of war ‘still looms large’ as US, Iran inch towards deal",
-      "summary": "Trump says &#039;an agreement has been largely negotiated, subject to finalization&#039; between the US, Iran and regional powers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/24/live-trump-says-new-iran-deal-largely-negotiated-with-talks-very-soon?traffic_source=rss",
+      "id": "2026-05-24-16b7d14e",
+      "headline": "Pakistan train bombing kills at least 24 people",
+      "summary": "Pakistan's prime minister, Shehbaz Sharif, said he strongly condemned the \"heinous bomb explosion\" and sent his condolences to the victims' families.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/24/pakistan-train-bombing-kills-at-least-24-people",
       "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
+      "country": "Pakistan",
+      "category": "politics",
       "date": "2026-05-24",
-      "time": "05:35",
+      "time": "10:12",
       "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-05-24-a0f76c8f",
-      "headline": "Russian attacks on Ukraine’s Kyiv kill at least four people",
-      "summary": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "08:22",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
-      "id": "2026-05-24-876df6f7",
-      "headline": "Man killed in shark attack off Australia's north-east coast",
-      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "07:12",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-05-24-f56c69d0",
-      "headline": "Iran war day 86: Trump announces potential deal amid ‘cloud of mistrust’",
-      "summary": "Trump announces progress on Iran peace deal, signalling the Strait of Hormuz, vital for global trade, could reopen soon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/iran-war-day-86-trump-announces-potential-deal-amid-cloud-of-mistrust?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "10:25",
-      "conflict_id": null,
-      "score": 47.4
+      "score": 45.0
     },
     {
       "id": "2026-05-24-1179d230",
@@ -140,6 +168,34 @@
       "category": "geopolitics",
       "date": "2026-05-24",
       "time": "10:34",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-24-45e1152b",
+      "headline": "Blast targeting train kills at least 20 in Pakistan",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "12:26",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-24-876df6f7",
+      "headline": "Man killed in shark attack off Australia's north-east coast",
+      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "07:12",
       "conflict_id": null,
       "score": 43.0
     },
@@ -186,46 +242,32 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-24-35dd5025",
-      "headline": "Yemen war sees scramble for scant resources between displaced and locals",
-      "summary": "Reduced aid to Yemen and a domestic economic crisis see extreme suffering among the displaced at the Maryamah camp.",
+      "id": "2026-05-24-26249204",
+      "headline": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
+      "summary": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "08:47",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-24-1e5a3d68",
-      "headline": "Man dies in northeast Australia after shark attack",
-      "summary": "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/man-dies-in-northeast-australia-after-shark-attack?traffic_source=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "07:13",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-24-45e1152b",
-      "headline": "Blast targeting train kills at least 20 in Pakistan",
-      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
       "region": "SA",
       "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "12:26",
+      "time": "12:19",
       "conflict_id": null,
-      "score": 35.0
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-24-9ff9c52c",
+      "headline": "Marco Rubio says ‘significant progress’ made in US-Iran talks to end war",
+      "summary": "Iranian news agency says deal could see shipping levels through Strait of Hormuz return to pre-war levels within weeks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "10:01",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-05-24-cacf81ea",
@@ -254,20 +296,6 @@
       "time": "11:31",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-05-24-26249204",
-      "headline": "Blast hits train in Pakistan’s Balochistan, killing at least 24 people",
-      "summary": "More than 50 people injured in attack on train carrying military personnel in Quetta, capital of southwestern province.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/5/24/blast-hits-train-in-pakistans-balochistan-killing-at-least-24-people?traffic_source=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "12:19",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-05-24-4197f773",
@@ -319,6 +347,20 @@
       "url": "https://www.bloomberg.com/news/audio/2026-05-24/what-s-happening-in-em-political-risk-roils-markets-podcast",
       "region": "NA",
       "country": null,
+      "category": "business",
+      "date": "2026-05-24",
+      "time": "12:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-24-e397618d",
+      "headline": "Resurgent Political Risk Derails Rallies Across Emerging Markets",
+      "summary": "Investors in emerging markets are getting slammed by a fresh wave of political turmoil that is derailing bets from Latin America to Eastern Europe.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-24/resurgent-political-risk-derails-rallies-across-emerging-markets",
+      "region": "EU",
+      "country": "Latin America",
       "category": "business",
       "date": "2026-05-24",
       "time": "12:30",
@@ -438,6 +480,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-05-24-b1466f7c",
+      "headline": "Europe's biggest beach: endless sand on Germany's North Sea coast",
+      "summary": "A sandbank the size of 1,400 football pitches: Kniepsand on the North Frisian island of Amrum looks like a slice of desert and shields the island, while its vast beach could give tourism further inland a boost.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/24/europes-biggest-beach-endless-sand-on-germanys-north-sea-coast",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-05-24",
+      "time": "06:30",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-05-23-7a2c8410",
+      "headline": "US and Iran 'getting a lot closer' to an agreement to end war, Trump says",
+      "summary": "The US and Iran are close to signing a Pakistan-drafted framework agreement to end the war, with a decision expected within 48 hours, according to officials who spoke in anonymity. The proposal sets a 30-to-60-day window to negotiate details, though nuclear issues are excluded.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/23/us-and-iran-getting-a-lot-closer-to-an-agreement-to-end-war-trump-says",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "17:04",
+      "conflict_id": null,
+      "score": 62.0
+    },
+    {
       "id": "2026-05-23-8022728a",
       "headline": "US warns Japan of severe delays in Tomahawk deliveries due to Iran war",
       "summary": "Missiles could come two years late as Pentagon works to replenish stocks depleted in Middle East military campaign",
@@ -464,6 +534,20 @@
       "time": "15:58",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-05-23-8ef32178",
+      "headline": "Rubio hints at 'good news' on Iran deal after Trump suggests agreement is imminent",
+      "summary": "On Sunday, US Secretary of State Marco Rubio told reporters in India there was a chance of some \"some good news\" regarding a deal later in the day.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/23/trump-says-agreement-to-end-iran-war-largely-negotiated",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "21:38",
+      "conflict_id": null,
+      "score": 46.0
     },
     {
       "id": "2026-05-23-b26583bd",
@@ -494,18 +578,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-23-73dd0736",
-      "headline": "Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",
-      "summary": "Congo suspended flights to the eastern city of Bunia and regional health ministers warned of escalating cross-border risks from Ebola as the outbreak spread across three provinces and overwhelmed contact-tracing efforts.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/congo-faces-surge-in-ebola-cases-as-key-medical-tools-run-short",
-      "region": "NA",
-      "country": null,
+      "id": "2026-05-23-3617455c",
+      "headline": "Zelenskyy rebuffs Merz proposal, says Ukraine deserves full EU membership",
+      "summary": "Volodymyr Zelenskyy has rejected a proposal by German Chancellor Friedrich Merz to grant Kyiv a non-voting \"associate membership\". Zelenskyy stressed that Ukraine's EU presence must be complete, with full rights.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "23:01",
-      "conflict_id": null,
-      "score": 42.1
+      "time": "14:45",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
       "id": "2026-05-23-67c316df",
@@ -522,20 +606,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-05-23-1dda1a63",
-      "headline": "French mum and partner held until trial after sons abandoned by road in Portugal",
-      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Portugal",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "14:24",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-23-ec2398d3",
       "headline": "Senegal's president sacks PM and former ally after months-long feud",
       "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
@@ -546,20 +616,6 @@
       "category": "politics",
       "date": "2026-05-23",
       "time": "11:36",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-23-5fc447d0",
-      "headline": "Rosenberg: Luhansk strike sparks Russian accusations and vow to retaliate",
-      "summary": "Eighteen people were killed and 42 others injured in the strike on the town in Russian-occupied eastern Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgz05jyrrpo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "23:34",
       "conflict_id": null,
       "score": 35.0
     },
@@ -606,6 +662,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-05-23-b70abdba",
+      "headline": "North Korean side wins final in South Korea",
+      "summary": "North Korean team Naegohyang, who made history by crossing the border into South Korea, win the Asian Women's Champions League final.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/cdxpz1p8nw4o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "10:52",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-05-23-316722ec",
       "headline": "Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies",
       "summary": "President Donald Trump’s latest financial disclosure has drawn scrutiny for its astonishing scale: 3,711 trades, almost entirely in shares of companies across America, including many whose fortunes can turn on federal policy. Bloomberg News US Equities Team Leader Elena Popina joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
@@ -630,34 +700,6 @@
       "category": "business",
       "date": "2026-05-23",
       "time": "13:54",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-23-0715fd05",
-      "headline": "Bangladesh Central Bank Launches $5 Billion Fund to Spur Growth",
-      "summary": "Bangladesh’s central bank unveiled a 600 billion-taka ($5 billion) package to boost economic growth, revive shuttered factories and support small businesses.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-23/bangladesh-central-bank-launches-5-billion-fund-to-spur-growth",
-      "region": "SA",
-      "country": "Bangladesh",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "12:51",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-23-a3222376",
-      "headline": "Gas Prices Rise as Summer Holiday Travel Begins",
-      "summary": "Memorial Day weekend is expected to kick off one of the busiest summer travel season in years, with millions of Americans hitting the roads and airports despite rising costs. GasBuddy's Head of Petroleum Analysis Patrick De Hahn and The Points Guy Managing Editor Clint Henderson joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss the climbing gas prices, expensive airfare and what travelers can expect this summer. (Source",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/gas-prices-rise-as-summer-holiday-travel-begins-video",
-      "region": "EU",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "12:43",
       "conflict_id": null,
       "score": 26.1
     },
@@ -716,20 +758,6 @@
       "time": "09:08",
       "conflict_id": null,
       "score": 57.0
-    },
-    {
-      "id": "2026-05-22-c277409f",
-      "headline": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
-      "summary": "Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede respondersThe Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards.The outbreak is spreading rapidly, WHO leaders said, with almost 750 suspected cases and 177 suspected deaths, up from 246 cases and 65 deaths when it was fir",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-22",
-      "time": "15:47",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-05-22-61a630c4",
@@ -900,20 +928,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-21-3c21b524",
-      "headline": "EasyJet boss says summer flights won't be hit by jet fuel shortages",
-      "summary": "The airline has seen no problems with fuel, but says people are booking later because of uncertainty caused by the Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ckgplpd7px4o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "11:03",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-21-1620483f",
       "headline": "Papua New Guinea warns against fishing in New Ireland after mystery deaths of marine life",
       "summary": "Initial testing found evidence of metals in water samples, months after province’s residents began reporting unusual numbers of dead fish washing ashorePapua New Guinea’s government has warned communities not to fish from parts of the New Ireland coastline as preliminary tests show evidence of metals in some water samples, after months of residents reporting dead marine life in the area.On 7 May the fisheries minister, Jelta Wong, said initial te",
@@ -994,20 +1008,6 @@
       "category": "politics",
       "date": "2026-05-19",
       "time": "11:46",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-19-86dd590e",
-      "headline": "Watch key moments from BBC's interview with pardoned Honduran ex-president",
-      "summary": "Juan Orlando Hernández was controversially pardoned by Trump in December while serving a 45-year prison sentence in the US for drug trafficking.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/crlp5590rgzo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-19",
-      "time": "20:07",
       "conflict_id": null,
       "score": 27.0
     },
