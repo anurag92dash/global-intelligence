@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24T16:30:44.409172+00:00",
+  "updated": "2026-05-24T17:38:15.726746+00:00",
   "story_count": 72,
   "source_count": 8,
   "stories": [
@@ -20,7 +20,7 @@
     {
       "id": "2026-05-24-7f030a56",
       "headline": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
-      "summary": "Assault hits water facility, market, residential buildings and schools, killing at least four and injuring dozensRussia used its powerful hypersonic Oreshnik ballistic missile for a third time in Ukraine as part of a massive attack on Kyiv and its surrounding region that killed at least four people and injured about 100.Russia hit the city of Bila Tserkva in the Kyiv region with the missile, Ukraine’s president, Volodymyr Zelenskyy, said. He desc",
+      "summary": "Assault hits water facility, market, residential buildings and schools, killing at least four and injuring dozens Russia used its powerful hypersonic Oreshnik ballistic missile for a third time in Ukraine as part of a massive attack on Kyiv and its surrounding region that killed at least four people and injured about 100.Russia hit the city of Bila Tserkva in the Kyiv region with the missile, Ukraine’s president, Volodymyr Zelenskyy, said. He des",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
       "region": "EU",
@@ -58,20 +58,6 @@
       "time": "01:18",
       "conflict_id": null,
       "score": 60.0
-    },
-    {
-      "id": "2026-05-24-42dd34d1",
-      "headline": "Trump says US will not ‘rush into a deal’ with Iran as talks continue",
-      "summary": "Comments suggest there is no imminent end to war as differences remain",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "15:19",
-      "conflict_id": null,
-      "score": 59.4
     },
     {
       "id": "2026-05-24-530d3c0a",
@@ -144,18 +130,32 @@
       "score": 56.4
     },
     {
-      "id": "2026-05-24-05dca0f3",
-      "headline": "U.S. and Iran Agree in Principle to a Deal to Reopen the Strait of Hormuz, U.S. Official Says",
-      "summary": "The deal does not address Iran’s missile stockpile nor does it stipulate a moratorium on enrichment.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/24/us/us-and-iran-agree-in-principle-to-a-deal-to-reopen-the-strait-of-hormuz-us-official-says.html",
-      "region": "MENA",
-      "country": "Iran",
+      "id": "2026-05-24-42dd34d1",
+      "headline": "Trump says US will not ‘rush into a deal’ with Iran as talks continue",
+      "summary": "Comments downplay hopes of an imminent reopening of the Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "16:12",
+      "time": "17:01",
       "conflict_id": null,
-      "score": 50.2
+      "score": 51.4
+    },
+    {
+      "id": "2026-05-24-4281d433",
+      "headline": "Turkish police storm main opposition CHP’s party headquarters",
+      "summary": "Violence erupted after Turkish police stormed the headquarters of the main opposition CHP party in Ankara.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/turkish-police-storm-main-opposition-chps-party-headquarters?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "16:28",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-05-24-16b7d14e",
@@ -214,6 +214,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-05-24-3879733e",
+      "headline": "Turkish riot police storm opposition offices after leaders ousted",
+      "summary": "Officers forced their way into the building days after the party vowed to defy a court ruling removing its leaders.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "16:30",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-05-24-876df6f7",
       "headline": "Man killed in shark attack off Australia's north-east coast",
       "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
@@ -238,6 +252,20 @@
       "category": "geopolitics",
       "date": "2026-05-24",
       "time": "03:47",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
+      "id": "2026-05-24-a44be711",
+      "headline": "LNG Tanker Exits Hormuz for India for First Time Since War Began",
+      "summary": "A liquefied natural gas tanker carrying a shipment for India has exited the Strait of Hormuz, the first for the country from the Persian Gulf since the Iran war began months ago as the region’s exporters discreetly supply key buyers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-24/lng-tanker-exits-hormuz-for-india-for-first-time-since-war-began",
+      "region": "MENA",
+      "country": "India",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "01:02",
       "conflict_id": null,
       "score": 42.1
     },
@@ -284,18 +312,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-24-68d301b0",
-      "headline": "Turkish police storm opposition offices after leaders ousted",
-      "summary": "Officers stormed the building days after the party vowed to defy a court ruling removing its leaders.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-24-884b3d7c",
+      "headline": "Turkish police storm main opposition headquarters with tear gas",
+      "summary": "Officers used tear gas inside the CHP building in Ankara to enforce a controversial judicial decision reinstating former leader Kemal Kılıçdaroğlu. The intrusion has sparked fierce resistance from current party officials, who accuse Kılıçdaroğlu of deploying \"mafia thugs\" to seize power.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/24/turkish-police-storm-main-opposition-headquarters-with-tear-gas",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-05-24",
-      "time": "15:20",
+      "time": "13:56",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
     },
     {
       "id": "2026-05-24-45731f82",
@@ -368,16 +396,16 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-24-884b3d7c",
-      "headline": "Turkish police storm main opposition headquarters with tear gas",
-      "summary": "Officers used tear gas inside the CHP building in Ankara to enforce a controversial judicial decision reinstating former leader Kemal Kılıçdaroğlu. The intrusion has sparked fierce resistance from current party officials, who accuse Kılıçdaroğlu of deploying \"mafia thugs\" to seize power.",
+      "id": "2026-05-24-7533be67",
+      "headline": "Turkish police use tear gas to break into CHP headquarters",
+      "summary": "Turkish riot police used tear gas and forced their way into the Ankara headquarters of the main opposition CHP party after a court dismissed its leadership, as supporters blocked entrances in defiance of the ruling.",
       "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/24/turkish-police-storm-main-opposition-headquarters-with-tear-gas",
+      "url": "http://www.euronews.com/video/2026/05/24/turkish-police-use-tear-gas-to-break-into-chp-headquarters",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-05-24",
-      "time": "13:56",
+      "time": "15:15",
       "conflict_id": null,
       "score": 29.0
     },
@@ -396,16 +424,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-24-11e03828",
-      "headline": "Why IPO mania could signal top of the market",
-      "summary": "A potential deluge of AI-related equity supply removes a source of upthrust for prices",
+      "id": "2026-05-24-7dd93848",
+      "headline": "ECB summons banks to urge them to fix flaws exposed by latest AI models",
+      "summary": "Supervisor to stress seriousness of risks to financial system at hastily arranged meeting",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/7e153dc1-7e13-44d0-9c49-8071a4c29261",
+      "url": "https://www.ft.com/content/482c56aa-6d2b-4456-9d33-b42dc30788bd",
       "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-05-24",
-      "time": "11:00",
+      "time": "17:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -462,20 +490,6 @@
       "category": "politics",
       "date": "2026-05-24",
       "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-05-24-3a859cd2",
-      "headline": "David Miliband: Europe and US need ‘separate bedrooms’ but not divorce",
-      "summary": "Former Labour minister says complete disengagement has potential ‘for us to end up in a very, very difficult position’David Miliband has said Europe should have “separate bedrooms” from the US, but not seek a “divorce” from its traditional alliance, despite the Trump administration’s impact on the relationship.The former Labour foreign secretary, who has served as the president of the International Rescue Committee since 2013, said at the Hay lit",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/24/europe-and-us-need-separate-bedrooms-but-not-divorce-says-david-miliband",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-05-24",
-      "time": "14:25",
       "conflict_id": null,
       "score": 24.0
     },
@@ -714,20 +728,6 @@
       "category": "politics",
       "date": "2026-05-23",
       "time": "19:17",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-23-0dd2e09c",
-      "headline": "Bloomberg This Weekend 5/23/2026 | Trump Weighs Iran Options, Tracking The Ebola Outbreak",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by GasBuddy Head of Petroleum Analysis Patrick De Haan, The Points Guy Managing Editor Clint Henderson, Refugees International President Jeremy Konyndyk, Journalist and Author “The Almighty Dollar” Brendan Greeley, Former CIA Director US Army (Ret.) Ge",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/bloomberg-this-weekend-5-23-2026-video",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "16:14",
       "conflict_id": null,
       "score": 34.1
     },
