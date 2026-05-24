@@ -1,21 +1,21 @@
 {
-  "updated": "2026-05-24T08:12:19.905153+00:00",
-  "story_count": 75,
-  "source_count": 9,
+  "updated": "2026-05-24T10:07:31.401410+00:00",
+  "story_count": 70,
+  "source_count": 7,
   "stories": [
     {
-      "id": "2026-05-24-9b8f24bb",
-      "headline": "At least four killed after massive Russian drone and missile attack on Kyiv",
-      "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Sunday that Russia had used the powerful nuclear-capable Oreshnik medium-range missile in its overnight attack, as well as hundreds of drones and dozens of other missiles.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv",
+      "id": "2026-05-24-73d51151",
+      "headline": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
+      "summary": "Capital rocked by explosions after Ukrainian leader Volodymyr Zelenskyy warned of imminent large-scale attack",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
       "region": "EU",
-      "country": null,
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "06:04",
+      "time": "08:06",
       "conflict_id": "ukraine-war",
-      "score": 65.0
+      "score": 70.4
     },
     {
       "id": "2026-05-24-42970d7f",
@@ -34,16 +34,58 @@
     {
       "id": "2026-05-24-8a3e1ab2",
       "headline": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
-      "summary": "US president says he will announce agreement to end the war after talks with Gulf leaders and allies",
+      "summary": "US president plans to announce agreement to end war after talks with Gulf leaders and allies",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "01:29",
+      "time": "08:27",
       "conflict_id": null,
       "score": 59.4
+    },
+    {
+      "id": "2026-05-24-724b1429",
+      "headline": "Trump says US and Iran deal to end war is ‘largely negotiated’",
+      "summary": "US President Trump announced that a Memorandum of Understanding on a peace deal with Iran has been ‘largely negotiated&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/trump-says-us-and-iran-deal-to-end-war-is-largely?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "09:10",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-05-24-2f111d06",
+      "headline": "US, Iran inch closer to deal to end the war: What to know",
+      "summary": "The proposed US-Iran peace deal seeks to reopen the strategically vital Strait of Hormuz amid lingering disagreements.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/us-iran-inch-closer-to-deal-to-end-the-war-what-to-know?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "09:37",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-05-24-a0f76c8f",
+      "headline": "Russian attacks on Ukraine’s Kyiv kill at least four people",
+      "summary": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "08:22",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
     },
     {
       "id": "2026-05-24-daba1004",
@@ -144,6 +186,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-05-24-35dd5025",
+      "headline": "Yemen war sees scramble for scant resources between displaced and locals",
+      "summary": "Reduced aid to Yemen and a domestic economic crisis see extreme suffering among the displaced at the Maryamah camp.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/5/24/yemen-war-sees-scramble-for-scant-resources-between-displaced-and-locals?traffic_source=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "08:47",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-05-24-1e5a3d68",
       "headline": "Man dies in northeast Australia after shark attack",
       "summary": "The man was rushed to ⁠shore after being bitten on Sunday near ​Kennedy Shoal, but died shortly afterwards.",
@@ -184,6 +240,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-05-24-45e1152b",
+      "headline": "Blast targeting train kills at least 20 in Pakistan",
+      "summary": "Officials say the train had been transporting military personnel home for Eid when it was attacked by armed separatists.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm2pkd58xldo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "09:08",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-24-5e99bba4",
@@ -298,74 +368,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-24-b1466f7c",
-      "headline": "Europe's biggest beach: endless sand on Germany's North Sea coast",
-      "summary": "A sandbank the size of 1,400 football pitches: Kniepsand on the North Frisian island of Amrum looks like a slice of desert and shields the island, while its vast beach could give tourism further inland a boost.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/24/europes-biggest-beach-endless-sand-on-germanys-north-sea-coast",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-05-24",
-      "time": "06:30",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-23-3584132b",
-      "headline": "Russia pounds Kyiv with missiles and drones in heavy overnight assault",
-      "summary": "Capital is rocked by explosions after Ukraine’s Zelenskyy warned of an imminent large-scale attack",
+      "id": "2026-05-23-8022728a",
+      "headline": "US warns Japan of severe delays in Tomahawk deliveries due to Iran war",
+      "summary": "Missiles could come two years late as Pentagon works to replenish stocks depleted in Middle East military campaign",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/334b2b9e-10c5-4292-aa53-c1c0589f1413",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "23:25",
-      "conflict_id": "ukraine-war",
-      "score": 62.4
-    },
-    {
-      "id": "2026-05-23-7a2c8410",
-      "headline": "US and Iran 'getting a lot closer' to an agreement to end war, Trump says",
-      "summary": "The US and Iran are close to signing a Pakistan-drafted framework agreement to end the war, with a decision expected within 48 hours, according to officials who spoke in anonymity. The proposal sets a 30-to-60-day window to negotiate details, though nuclear issues are excluded.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/23/us-and-iran-getting-a-lot-closer-to-an-agreement-to-end-war-trump-says",
+      "url": "https://www.ft.com/content/406bc3bb-068b-4f4c-b064-23082e8a9f70",
       "region": "NA",
-      "country": "Pakistan",
+      "country": "Pentagon",
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "17:04",
-      "conflict_id": null,
-      "score": 62.0
-    },
-    {
-      "id": "2026-05-23-9b7b9344",
-      "headline": "US oil producers increase output to capture price surge from Iran war",
-      "summary": "Drilling expansion follows 40 per cent jump in cost from global supply crunch that has dented president’s approval ratings",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d0fc0074-86f1-46ec-bf80-9bbb6abb2c24",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "11:00",
+      "time": "19:00",
       "conflict_id": null,
       "score": 59.4
-    },
-    {
-      "id": "2026-05-23-d8a92e11",
-      "headline": "Pakistan army chief visits Tehran to push for end to US-Israeli war on Iran",
-      "summary": "Munir met senior Iranian officials on Saturday as Islamabad and Doha push to finalise a memorandum to end the war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/pakistan-army-chief-visits-tehran-to-push-for-end-to-us-israeli-war-on-iran-2?traffic_source=rss",
-      "region": "MENA",
-      "country": "Islamabad",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "18:37",
-      "conflict_id": null,
-      "score": 55.4
     },
     {
       "id": "2026-05-23-efcd98b8",
@@ -382,34 +396,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-05-23-b3361d26",
-      "headline": "Trump says Iran agreement ‘largely negotiated’, awaiting finalisation",
-      "summary": "US president says deal would include reopening Strait of Hormuz after call with Middle East leaders.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/trump-says-iran-agreement-largely-negotiated-still-awaiting-finalisation?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "21:09",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-05-23-b9fba07b",
-      "headline": "Police beat and detain Gaza flotilla activists at airport",
-      "summary": "Police forcibly detained members of the Global Sumud Flotilla and their supporters at Bilbao Airport.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/23/police-beat-and-detain-gaza-flotilla-activists-at-airport?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "18:30",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-05-23-b26583bd",
       "headline": "California declares emergency as fire crews race to contain toxic leak",
       "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
@@ -420,20 +406,6 @@
       "category": "geopolitics",
       "date": "2026-05-23",
       "time": "20:07",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-23-e81e36e3",
-      "headline": "UK officials suggested single market for goods with Europe",
-      "summary": "Industry figures briefed on the move said the idea has not been taken forward at this point, after EU scepticism.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "03:47",
       "conflict_id": null,
       "score": 43.0
     },
@@ -452,32 +424,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-23-0dd2e09c",
-      "headline": "Bloomberg This Weekend 5/23/2026 | Trump Weighs Iran Options, Tracking The Ebola Outbreak",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by GasBuddy Head of Petroleum Analysis Patrick De Haan, The Points Guy Managing Editor Clint Henderson, Refugees International President Jeremy Konyndyk, Journalist and Author “The Almighty Dollar” Brendan Greeley, Former CIA Director US Army (Ret.) Ge",
+      "id": "2026-05-23-73dd0736",
+      "headline": "Ebola Spreads Across Congo as Flights Halted, Supplies Run Low",
+      "summary": "Congo suspended flights to the eastern city of Bunia and regional health ministers warned of escalating cross-border risks from Ebola as the outbreak spread across three provinces and overwhelmed contact-tracing efforts.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/bloomberg-this-weekend-5-23-2026-video",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-23/congo-faces-surge-in-ebola-cases-as-key-medical-tools-run-short",
       "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "16:14",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-05-23-3617455c",
-      "headline": "Zelenskyy rebuffs Merz proposal, says Ukraine deserves full EU membership",
-      "summary": "Volodymyr Zelenskyy has rejected a proposal by German Chancellor Friedrich Merz to grant Kyiv a non-voting \"associate membership\". Zelenskyy stressed that Ukraine's EU presence must be complete, with full rights.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership",
-      "region": "EU",
-      "country": "Ukraine",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-05-23",
-      "time": "14:45",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
+      "time": "23:01",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-05-23-67c316df",
@@ -508,6 +466,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-23-1dda1a63",
+      "headline": "French mum and partner held until trial after sons abandoned by road in Portugal",
+      "summary": "The couple, who allegedly left the woman's sons on a roadside in southern Portugal, will remain in custody.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cq5p75l7n17o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Portugal",
+      "category": "geopolitics",
+      "date": "2026-05-23",
+      "time": "14:24",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-23-ec2398d3",
       "headline": "Senegal's president sacks PM and former ally after months-long feud",
       "summary": "Bassirou Diomaye Faye also dissolved the government, creating uncertainty amid a debt crisis in the country.",
@@ -522,6 +494,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-05-23-e81e36e3",
+      "headline": "UK officials suggested single market for goods with Europe",
+      "summary": "Industry figures briefed on the move said the idea has not been taken forward at this point, after EU scepticism.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr5plpm3g2ro?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "03:47",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-05-23-00d3af30",
       "headline": "Hungary’s New Premier Warns Predecessor Left Budget ‘Skeletons’",
       "summary": "Hungary’s new Prime Minister Peter Magyar said he was hoping for economic growth of about 2% this year but put voters on notice that the state of public finances left by his predecessor made it impossible to make firm forecasts.",
@@ -532,6 +518,20 @@
       "category": "politics",
       "date": "2026-05-23",
       "time": "19:17",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-23-0dd2e09c",
+      "headline": "Bloomberg This Weekend 5/23/2026 | Trump Weighs Iran Options, Tracking The Ebola Outbreak",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by GasBuddy Head of Petroleum Analysis Patrick De Haan, The Points Guy Managing Editor Clint Henderson, Refugees International President Jeremy Konyndyk, Journalist and Author “The Almighty Dollar” Brendan Greeley, Former CIA Director US Army (Ret.) Ge",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-23/bloomberg-this-weekend-5-23-2026-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-05-23",
+      "time": "16:14",
       "conflict_id": null,
       "score": 34.1
     },
@@ -606,20 +606,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-23-9129252c",
-      "headline": "How $6 Gas Prices Are Affecting the Lives of Californians",
-      "summary": "California is the nation’s most expensive state for gasoline. The latest spike has forced more residents to change their habits.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/23/us/gas-prices-california.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-05-23-5649c11b",
       "headline": "Albanese joins coalition of nations calling for an end to Israeli settlement expansion in the West Bank",
       "summary": "Australia joins the UK, Italy, France, Germany, Canada, Norway, the Netherlands and New Zealand in condemning illegal settlementsGet our breaking news email, free app or daily news podcastThe Israeli government is undermining stability in the West Bank as settler violence reaches unprecedented levels, a coalition of western countries says, as its leaders call for an end to construction of Israeli settlements it says breach international law.In a ",
@@ -646,34 +632,6 @@
       "time": "05:18",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-05-23-2ecf5670",
-      "headline": "Tens of thousands rally in Serbia for antigovernment demonstrations",
-      "summary": "The student-led movement, which began after the Novi Sad disaster in November 2024, is pushing for early elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/tens-of-thousands-rally-in-serbia-for-antigovernment-demonstrations?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-23",
-      "time": "18:58",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-23-fa73a409",
-      "headline": "Thousands march in Madrid demanding Spanish PM quit over graft allegations",
-      "summary": "Prime Minister Pedro Sanchez maintains the cases against his family and entourage are politically motivated.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/23/thousands-march-in-madrid-demanding-spanish-pm-quit-over-graft-allegations?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-23",
-      "time": "17:40",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-05-22-e9d8deed",
@@ -816,20 +774,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-22-ec04ec60",
-      "headline": "UK pitched single market for goods with EU in pursuit of deeper trade ties",
-      "summary": "Exclusive: Top British official presented idea in Brussels but sources say it was rebuffedThe UK government pitched the creation of a single market for goods with the EU as the cornerstone of an ambitious attempt to reintegrate British trade back into Europe, the Guardian can reveal.During recent visits to Brussels, the Cabinet Office’s top official on EU relations, Michael Ellam, presented the idea to deepen the UK’s economic relationship with t",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/may/22/uk-pitched-single-market-for-goods-with-eu-as-it-pursues-trade-reintegration",
-      "region": "EU",
-      "country": "Brussels",
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "21:51",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-05-22-85937f83",
       "headline": "Rubio tries to reassure Nato allies over US troop deployments",
       "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
@@ -840,20 +784,6 @@
       "category": "politics",
       "date": "2026-05-22",
       "time": "15:18",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-22-5ba576a3",
-      "headline": "Judge dismisses criminal case against Kilmar Abrego Garcia",
-      "summary": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "21:47",
       "conflict_id": null,
       "score": 27.0
     },
@@ -900,6 +830,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-22-5ba576a3",
+      "headline": "Judge dismisses criminal case against Kilmar Abrego Garcia",
+      "summary": "A federal judge says the Maryland man who was wrongfully deported last year is being prosecuted for political reasons.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx21r04wg8qo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-22",
+      "time": "21:47",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-05-22-e060b960",
       "headline": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",
       "summary": "BBC's Will Grant reports from a pro-government demonstration held after the US indictment of the former president.",
@@ -912,20 +856,6 @@
       "time": "20:49",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-05-22-1b8efb76",
-      "headline": "Texas runoff roiled by shadowy spending and a call to imprison ‘American Zionists’",
-      "summary": "Incendiary comments by a House candidate in Texas prompted condemnation from her fellow Democrats, who accused Republicans of propping her up.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/22/texas-democrat-maureen-galindos-call-imprison-zionists-sparks-uproar/",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-22",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 24.9
     },
     {
       "id": "2026-05-21-1620483f",
@@ -1051,7 +981,7 @@
       "date": "2026-05-17",
       "time": "23:02",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     }
   ]
 }
