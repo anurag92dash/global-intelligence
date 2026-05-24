@@ -1,22 +1,8 @@
 {
-  "updated": "2026-05-24T15:19:38.844134+00:00",
-  "story_count": 74,
+  "updated": "2026-05-24T16:30:44.409172+00:00",
+  "story_count": 72,
   "source_count": 8,
   "stories": [
-    {
-      "id": "2026-05-24-9b8f24bb",
-      "headline": "At least four killed after massive Russian drone and missile attack on Kyiv",
-      "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Sunday that Russia had used the powerful nuclear-capable Oreshnik medium-range missile in its overnight attack, as well as hundreds of drones and dozens of other missiles.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "06:04",
-      "conflict_id": "ukraine-war",
-      "score": 81.0
-    },
     {
       "id": "2026-05-24-73d51151",
       "headline": "Russia pounds Ukraine with hypersonic ‘Oreshnik’ missile",
@@ -34,16 +20,30 @@
     {
       "id": "2026-05-24-7f030a56",
       "headline": "Russia hits Kyiv with hypersonic ballistic missile in ‘deranged’ attack",
-      "summary": "Assault hits water facility, market, residential buildings and schools, killing at least four and injuring dozensRussia used its powerful hypersonic Oreshnik ballistic missile for a third time in Ukraine as part of a massive attack on Kyiv and its surrounding region that killed at least four people and injured dozens.Russia hit the city of Bila Tserkva in the Kyiv region with the missile, Ukraine’s president, Volodymyr Zelenskyy, said. He describ",
+      "summary": "Assault hits water facility, market, residential buildings and schools, killing at least four and injuring dozensRussia used its powerful hypersonic Oreshnik ballistic missile for a third time in Ukraine as part of a massive attack on Kyiv and its surrounding region that killed at least four people and injured about 100.Russia hit the city of Bila Tserkva in the Kyiv region with the missile, Ukraine’s president, Volodymyr Zelenskyy, said. He desc",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/24/russia-hits-kyiv-ukraine-hypersonic-ballistic-missile",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "14:07",
+      "time": "16:02",
       "conflict_id": "ukraine-war",
       "score": 76.0
+    },
+    {
+      "id": "2026-05-24-9b8f24bb",
+      "headline": "At least four killed after massive Russian drone and missile attack on Kyiv",
+      "summary": "Ukrainian President Volodymyr Zelenskyy confirmed on Sunday that Russia had used the powerful nuclear-capable Oreshnik medium-range missile in its overnight attack, as well as hundreds of drones and dozens of other missiles.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/24/at-least-one-killed-after-massive-russian-drone-and-missile-attack-on-kyiv",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "06:04",
+      "conflict_id": "ukraine-war",
+      "score": 73.0
     },
     {
       "id": "2026-05-24-42970d7f",
@@ -60,30 +60,16 @@
       "score": 60.0
     },
     {
-      "id": "2026-05-24-a0f76c8f",
-      "headline": "Russian attacks on Ukraine’s Kyiv kill at least four people",
-      "summary": "Two ​people are killed in ⁠the ​capital itself and two ⁠in the Kyiv region while 40 locations are damaged.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/24/russian-attacks-on-ukraines-kyiv-kill-at-least-four-people?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-24",
-      "time": "08:22",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
-    },
-    {
-      "id": "2026-05-24-8a3e1ab2",
-      "headline": "Trump says deal with Iran to reopen Hormuz ‘largely negotiated’",
-      "summary": "US president plans to announce agreement to end war after talks with Gulf leaders and allies",
+      "id": "2026-05-24-42dd34d1",
+      "headline": "Trump says US will not ‘rush into a deal’ with Iran as talks continue",
+      "summary": "Comments suggest there is no imminent end to war as differences remain",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/a27cc653-71ee-4668-8fcf-562fd7c9b93f",
+      "url": "https://www.ft.com/content/ee0042ee-b0c1-4639-a061-df13da46b451",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "08:27",
+      "time": "15:19",
       "conflict_id": null,
       "score": 59.4
     },
@@ -112,6 +98,20 @@
       "category": "geopolitics",
       "date": "2026-05-24",
       "time": "10:25",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-05-24-90278a92",
+      "headline": "Trump: No rush on Iran deal, as Netanyahu demands end to nuclear threat",
+      "summary": "US blockade remains until final deal, as officials on both sides say obstacles remain",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/24/marco-rubio-says-significant-progress-made-in-us-iran-talks-to-end-war?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "10:01",
       "conflict_id": null,
       "score": 56.4
     },
@@ -153,7 +153,7 @@
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "15:10",
+      "time": "16:12",
       "conflict_id": null,
       "score": 50.2
     },
@@ -216,14 +216,14 @@
     {
       "id": "2026-05-24-876df6f7",
       "headline": "Man killed in shark attack off Australia's north-east coast",
-      "summary": "The 39-year-old was fatally injured while swimming out at a shoal off the Cassowary Coast in Queensland.",
+      "summary": "The 39-year-old was fatally injured at a shoal off the Cassowary Coast in Queensland, apparently while spearfishing.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cn9pq5l2d14o?at_medium=RSS&at_campaign=rss",
       "region": "APJ",
       "country": "Australia",
       "category": "geopolitics",
       "date": "2026-05-24",
-      "time": "07:12",
+      "time": "15:29",
       "conflict_id": null,
       "score": 43.0
     },
@@ -270,6 +270,62 @@
       "score": 39.4
     },
     {
+      "id": "2026-05-24-70881c94",
+      "headline": "Russia pounds Ukraine’s capital with hypersonic missile",
+      "summary": "Russia pounded Ukraine’s capital overnight on Saturday with drones and ballistic missiles.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/24/russia-pounds-ukraines-capital-with-hypersonic-missile?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-24",
+      "time": "09:20",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-24-68d301b0",
+      "headline": "Turkish police storm opposition offices after leaders ousted",
+      "summary": "Officers stormed the building days after the party vowed to defy a court ruling removing its leaders.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qwrqre83o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "15:20",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-24-45731f82",
+      "headline": "Xi railed against Japan’s ‘remilitarisation’ at Trump summit",
+      "summary": "Chinese president became heated when criticising US ally for its increased defence spending",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/70e922b3-c423-40f2-9c9d-1c64a38e026b",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "15:06",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-05-24-8f9f49b5",
+      "headline": "Rubio Invites India’s Modi to Visit White House as Ties Improve",
+      "summary": "US Secretary of State Marco Rubio met Indian Prime Minister Narendra Modi in New Delhi on Saturday and invited him to visit the White House, as the two sides work to improve ties. Bloomberg News State Department Reporter Eric Martin joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss Rubio's four-day visit to the world’s most-populous nation for talks with senior Indian officials on issues ranging from energy to regional ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-24/rubio-invites-india-s-modi-to-visit-white-house-video",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "15:48",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-05-24-cacf81ea",
       "headline": "ECB Faces Pressure to Hike as Iran War Feeds Prices, Kocher Says",
       "summary": "The European Central Bank is heading for an interest-rate increase next month unless a sustainable peace deal between the US and Iran can be found, according to Governing Council member Martin Kocher.",
@@ -310,6 +366,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-05-24-884b3d7c",
+      "headline": "Turkish police storm main opposition headquarters with tear gas",
+      "summary": "Officers used tear gas inside the CHP building in Ankara to enforce a controversial judicial decision reinstating former leader Kemal Kılıçdaroğlu. The intrusion has sparked fierce resistance from current party officials, who accuse Kılıçdaroğlu of deploying \"mafia thugs\" to seize power.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/24/turkish-police-storm-main-opposition-headquarters-with-tear-gas",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-24",
+      "time": "13:56",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-05-24-d4dd6709",
@@ -396,9 +466,9 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-24-1de105b9",
-      "headline": "Europe and US need ‘separate bedrooms’ but not divorce, says David Miliband",
-      "summary": "Speaking at Hay literary festival, former Labour minister says complete disengagement has potential ‘for us to end up in a very, very difficult position’ Former foreign secretary David Miliband has said Europe should have “separate bedrooms” from the US, but not seek a “divorce” from its traditional alliance, despite the Trump administration’s impact on the relationship.Speaking at the Hay literary festival on Sunday, the former Labour minister, ",
+      "id": "2026-05-24-3a859cd2",
+      "headline": "David Miliband: Europe and US need ‘separate bedrooms’ but not divorce",
+      "summary": "Former Labour minister says complete disengagement has potential ‘for us to end up in a very, very difficult position’David Miliband has said Europe should have “separate bedrooms” from the US, but not seek a “divorce” from its traditional alliance, despite the Trump administration’s impact on the relationship.The former Labour foreign secretary, who has served as the president of the International Rescue Committee since 2013, said at the Hay lit",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/may/24/europe-and-us-need-separate-bedrooms-but-not-divorce-says-david-miliband",
       "region": "EU",
@@ -406,20 +476,6 @@
       "category": "politics",
       "date": "2026-05-24",
       "time": "14:25",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-05-24-dd1a88a6",
-      "headline": "Irish gangland figure fails in Dublin byelection bid for seat in parliament",
-      "summary": "Gerry ‘the monk’ Hutch comes fourth in contest won by Daniel Ennis of Social DemocratsThe Irish gangland figure Gerry “the monk” Hutch has failed in his bid for a parliamentary seat in a Dublin byelection.The 63-year-old came fourth in a contest won by Daniel Ennis of the Social Democrats, a victory for progressive politics after a campaign dominated by concerns over the cost of living and immigration. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/24/irish-gangland-figure-hutch-fails-dublin-byelection-bid-for-seat-in-parliament",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-24",
-      "time": "09:41",
       "conflict_id": null,
       "score": 24.0
     },
@@ -436,6 +492,20 @@
       "time": "11:48",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-05-24-848b8cbd",
+      "headline": "Global oil inventories to fall below 100 days of demand on Hormuz blockade",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/global-oil-inventories-to-fall-below-100-days-of-demand-on-hormuz-blockade",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-24",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-24-ef356073",
@@ -508,20 +578,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-24-83e8bb0a",
-      "headline": "Australian fast-food chain Guzman y Gomez says 'adios' to tough US market",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/food-beverage/australian-fast-food-chain-guzman-y-gomez-says-adios-to-tough-us-market",
-      "region": "NA",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-05-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-24-b1466f7c",
       "headline": "Europe's biggest beach: endless sand on Germany's North Sea coast",
       "summary": "A sandbank the size of 1,400 football pitches: Kniepsand on the North Frisian island of Amrum looks like a slice of desert and shields the island, while its vast beach could give tourism further inland a boost.",
@@ -578,20 +634,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-05-23-8ef32178",
-      "headline": "Rubio hints at 'good news' on Iran deal after Trump suggests agreement is imminent",
-      "summary": "On Sunday, US Secretary of State Marco Rubio told reporters in India there was a chance of some \"some good news\" regarding a deal later in the day.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/23/trump-says-agreement-to-end-iran-war-largely-negotiated",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "21:38",
-      "conflict_id": null,
-      "score": 46.0
-    },
-    {
       "id": "2026-05-23-b26583bd",
       "headline": "California declares emergency as fire crews race to contain toxic leak",
       "summary": "Thousands have been evacuated as officials warn a tank containing about 7,000 gallons of methyl methacrylate could explode.",
@@ -618,20 +660,6 @@
       "time": "23:24",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-05-23-3617455c",
-      "headline": "Zelenskyy rebuffs Merz proposal, says Ukraine deserves full EU membership",
-      "summary": "Volodymyr Zelenskyy has rejected a proposal by German Chancellor Friedrich Merz to grant Kyiv a non-voting \"associate membership\". Zelenskyy stressed that Ukraine's EU presence must be complete, with full rights.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/23/zelenskyy-rebuffs-merz-proposal-says-ukraine-deserves-full-eu-membership",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-23",
-      "time": "14:45",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
     },
     {
       "id": "2026-05-23-67c316df",
@@ -718,34 +746,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-23-316722ec",
-      "headline": "Trump’s 3,711 Trades Point to Multiple Stock-Market Strategies",
-      "summary": "President Donald Trump’s latest financial disclosure has drawn scrutiny for its astonishing scale: 3,711 trades, almost entirely in shares of companies across America, including many whose fortunes can turn on federal policy. Bloomberg News US Equities Team Leader Elena Popina joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/trump-s-3-711-trades-point-to-multiple-strategies-video",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "14:02",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-23-38a3c7a1",
-      "headline": "Will the Dollar Remain King in a Cashless Society?",
-      "summary": "The dollar has been the world's reserve currency for decades, but it's history goes back centuries – to before the United States was  the United States. Brendan Greeley, author of the new book \"The Almighty Dollar: 500 Years of the World's Most Powerful Money,\" joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the currency's history, explain its dominance in global finance, and look ahead to the role it'll play in a wor",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-23/will-the-dollar-remain-king-in-a-cashless-society-video",
-      "region": "NA",
-      "country": "United States",
-      "category": "business",
-      "date": "2026-05-23",
-      "time": "13:54",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-22-e9d8deed",
       "headline": "US navy chief says $14bn arms sale to Taiwan paused due to Iran war",
       "summary": "Hung Cao told a Senate hearing they were \"doing a pause\" on the sale to make sure they had munitions for the Iran war.",
@@ -772,6 +772,20 @@
       "time": "09:08",
       "conflict_id": null,
       "score": 57.0
+    },
+    {
+      "id": "2026-05-22-c277409f",
+      "headline": "Suspected Ebola cases triple in a week as WHO warns of rapid spread in DRC",
+      "summary": "Situation described as ‘deeply worrisome’ by officials as aid cuts and community distrust impede respondersThe Ebola outbreak in the Democratic Republic of the Congo poses a “very high” risk to the country, the World Health Organization said on Friday, revising its threat assessment upwards.The outbreak is spreading rapidly, WHO leaders said, with almost 750 suspected cases and 177 suspected deaths, up from 246 cases and 65 deaths when it was fir",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/may/22/suspected-ebola-cases-triple-in-a-week-as-who-warns-of-rapid-spread-in-drc",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-22",
+      "time": "15:47",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-05-22-61a630c4",
@@ -858,20 +872,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-22-b116401e",
-      "headline": "Turkish opposition fights court ousting of leaders in ruling boosting Erdoğan",
-      "summary": "The appeal court declared Özgür Özel's party leadership victory void, further cementing the president's grip on power.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c62egj12026o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "11:34",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-22-85937f83",
       "headline": "Rubio tries to reassure Nato allies over US troop deployments",
       "summary": "President Donald Trump says he wants to send more troops to Poland, a week after his officials cancelled a similar deployment.",
@@ -924,20 +924,6 @@
       "category": "business",
       "date": "2026-05-22",
       "time": "21:47",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-22-e060b960",
-      "headline": "‘Long live Raúl!’ - Castro’s supporters in Cuba rally in his defence",
-      "summary": "BBC's Will Grant reports from a pro-government demonstration held after the US indictment of the former president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cr5pl7jevyro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-22",
-      "time": "20:49",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1008,20 +994,6 @@
       "category": "geopolitics",
       "date": "2026-05-20",
       "time": "18:14",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-05-19-1070a6c4",
-      "headline": "Honduran ex-president controversially pardoned by Trump speaks to BBC",
-      "summary": "Juan Orlando Hernández was serving a 45-year prison sentence for drug trafficking when he was pardoned by Trump.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyp36dwnezo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-19",
-      "time": "11:46",
       "conflict_id": null,
       "score": 27.0
     },
