@@ -1,8 +1,92 @@
 {
-  "updated": "2026-05-28T23:00:15.796592+00:00",
+  "updated": "2026-05-29T00:18:04.925801+00:00",
   "story_count": 74,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-05-29-ea70a663",
+      "headline": "Japan's car exports to war-hit Middle East plummet 90% in April",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-05-29",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
+      "id": "2026-05-29-084d8f13",
+      "headline": "Taiwanese tourists flock to Japan's Kyushu for local-ish trips",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/travel-leisure/taiwanese-tourists-flock-to-japan-s-kyushu-for-local-ish-trips",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-05-29",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-05-29-40cb6dc7",
+      "headline": "Humanoid robots strut their stuff as trade show comes to Japan",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/humanoid-robots-strut-their-stuff-as-trade-show-comes-to-japan",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-29",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-05-29-cb861418",
+      "headline": "Japan Post Bank share price doubles as overseas investors look beyond AI",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/equities/japan-post-bank-share-price-doubles-as-overseas-investors-look-beyond-ai",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-29",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-05-29-5d999565",
+      "headline": "Top Japanese banks to use OpenAI's new model against cyberattacks",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/top-japanese-banks-to-use-openai-s-new-model-against-cyberattacks",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-05-29",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-05-29-bf3d43f6",
+      "headline": "Qualcomm unveils first chip for budget PCs amid memory, CPU crunch",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/tech/semiconductors/qualcomm-unveils-first-chip-for-budget-pcs-amid-memory-cpu-crunch",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-29",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
     {
       "id": "2026-05-28-62b3aa47",
       "headline": "Netanyahu orders Israeli forces to take control of 70% of Gaza",
@@ -15,7 +99,7 @@
       "date": "2026-05-28",
       "time": "19:48",
       "conflict_id": "israel-hamas",
-      "score": 62.4
+      "score": 70.4
     },
     {
       "id": "2026-05-28-5f01f541",
@@ -60,6 +144,34 @@
       "score": 59.4
     },
     {
+      "id": "2026-05-28-4e294aa2",
+      "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "summary": "US officials earlier told the BBC that, pending the approval of Trump and Iran's leadership, the framework of a ceasefire extension deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-28",
+      "time": "23:32",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
+      "id": "2026-05-28-4413534b",
+      "headline": "Oil Set for Worst Month Since 2020 as US, Iran to Extend Truce",
+      "summary": "Oil edged lower after the US and Iran tentatively agreed to extend a ceasefire by 60 days, potentially allowing shipments through the Strait of Hormuz to resume.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/oil-edges-lower-at-open-on-tentative-deal-to-extend-iran-truce",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-28",
+      "time": "22:02",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
       "id": "2026-05-28-c2abdffd",
       "headline": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
       "summary": "At least five children were reportedly killed in the strike, which appears to have targeted a Hamas commander.",
@@ -72,6 +184,20 @@
       "time": "16:20",
       "conflict_id": "israel-hamas",
       "score": 55.0
+    },
+    {
+      "id": "2026-05-28-e49f48f5",
+      "headline": "Netanyahu orders Israeli army to seize 70 percent of Gaza",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu says he has ordered the military to take control of 70 percent of Gaza.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/28/netanyahu-orders-israeli-army-to-seize-70-percent-of-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-05-28",
+      "time": "23:48",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-05-28-1efdcd5a",
@@ -102,20 +228,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-28-f9205b6b",
-      "headline": "Bessent Says Trump Won’t Accept a Bad Deal on Iran: Full Briefing",
-      "summary": "Treasury Secretary Scott Bessent said that President Trump will not make a bad deal with Iran amid reports of a 60-day truce extension waiting the president's approval. Bessent, speaking at the White House press briefing, outlined President Trump's conditions for a deal with Iran, saying that for a deal to happen the country must agree to open the Strait of Hormuz, turn over its enriched uranium and not to pursue a nuclear weapon. (Source: Bloomb",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-28/bessent-says-trump-won-t-accept-bad-iran-deal-briefing-video",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-05-28",
-      "time": "19:22",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-05-28-9307fe8c",
       "headline": "After stern words from Trump, U.S. and Iran trade strikes",
       "summary": "The renewed violence came after the president said Iran was wrong if it thought he would feel pressure to make concessions and resolve the standoff before U.S. midterm elections later this year.",
@@ -144,20 +256,6 @@
       "score": 49.0
     },
     {
-      "id": "2026-05-28-a43f8314",
-      "headline": "Australia news live: Rowland to ‘reset’ corruption commission after Brereton resigns; Asio warns politicians against classified chats in cars",
-      "summary": "Attorney general says Nacc needs public support ‘in terms of perception and in practice’. Follow today’s news liveGet our breaking news email, free app or daily news podcastWho’s leading the fight against Labor’s CGT reform – and what’s in it for them?People with direct personal financial stakes in Labor’s tax reforms are among the loudest voices opposing the changes. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/may/29/australia-news-live-senate-estimates-capital-gains-tax-anthony-albanese-angus-taylor-housing-weather-floods-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-05-28",
-      "time": "22:47",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-05-28-db9e19ab",
       "headline": "Russia on the back foot with dynamics of war shifting in Ukraine’s favour, EU says – as it happened",
       "summary": "This blog is now closed Meanwhile, Hungary’s Magyar hits a bit more upbeat tone in his latest post on Facebook, saying that while there are still some issues that need to be resolved, the two sides managed to agree a deal on “many important questions.”In a Facebook video, he takes viewers into a meeting room in Brussels from which he is working on ironing out the final details.“I will obviously not anticipate or prejudge what will be the outcome ",
@@ -170,6 +268,20 @@
       "time": "15:10",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-05-28-9ddbc08d",
+      "headline": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
+      "summary": "Fibre-optic drones are now Hezbollah's primary weapon against Israel's soldiers and civilians.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c0r2ydlvk41o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-28",
+      "time": "16:39",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-28-7bcce337",
@@ -242,13 +354,13 @@
       "score": 34.4
     },
     {
-      "id": "2026-05-28-744cf93a",
-      "headline": "Asian Stocks to Rise on Firming US-Iran Sentiment: Markets Wrap",
-      "summary": "Asian equities were poised to advance after gains in US stocks and Treasuries, as reports suggested Washington and Tehran were nearing an agreement to extend a ceasefire.",
+      "id": "2026-05-28-214c345b",
+      "headline": "Asian Stocks Rise on US-Iran Truce Deal, Oil Drops: Markets Wrap",
+      "summary": "Asian equities advanced and oil dropped after the US and Iran reached a tentative deal to extend their ceasefire.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-05-28/asian-stocks-to-rise-on-firming-us-iran-sentiment-markets-wrap",
       "region": "NA",
-      "country": "Washington",
+      "country": "Iran",
       "category": "business",
       "date": "2026-05-28",
       "time": "22:02",
@@ -312,44 +424,16 @@
       "score": 33.2
     },
     {
-      "id": "2026-05-28-6a29268f",
-      "headline": "James Talarico Opens Texas Senate Campaign Against Ken Paxton With Houston Rally",
-      "summary": "Personal attacks and a packed campaign rally set the tone for what is likely to be a rancorous contest in Texas for U.S. Senate between James Talarico and Ken Paxton.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/28/us/politics/ken-paxton-james-talarico-texas-senate-race.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-05-28",
-      "time": "12:58",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-05-28-3967f04b",
-      "headline": "Massie Visits Greene in Costa Rica for Fishing and ‘Spicy’ Political Talks",
-      "summary": "The two Republican critics of President Trump — Thomas Massie, who lost his House primary last week, and Marjorie Taylor Greene, who resigned from Congress — met up in the tropics.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/27/us/politics/massie-marjorie-taylor-greene-costa-rica.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-05-28",
-      "time": "02:55",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-05-28-fec0e64e",
-      "headline": "Michigan Gov. Gretchen Whitmer says she won’t run for president in 2028",
-      "summary": "Whitmer, term-limited after two gubernatorial wins in her battleground state, had been widely viewed as a potential Democratic candidate.",
+      "id": "2026-05-28-07713999",
+      "headline": "Michigan’s Whitmer walks back comment saying she won’t run for president in 2028",
+      "summary": "Whitmer, term-limited after two gubernatorial wins in her battleground state, has been widely viewed as a potential Democratic candidate.",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/politics/2026/05/28/michigan-gov-whitmer-says-she-is-not-running-president-2028/",
       "region": "EU",
       "country": "NATO",
       "category": "politics",
       "date": "2026-05-28",
-      "time": "17:52",
+      "time": "23:20",
       "conflict_id": null,
       "score": 32.9
     },
@@ -368,18 +452,18 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-28-ea70a663",
-      "headline": "Japan's car exports to war-hit Middle East plummet 90% in April",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/trade/japan-s-car-exports-to-war-hit-middle-east-plummet-90-in-april",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
+      "id": "2026-05-28-f80ffc8c",
+      "headline": "Guatemala denies agreeing to US strikes against drug traffickers",
+      "summary": "President Bernardo Arevalo&#039;s government says it requested security cooperation but did not approve US attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/28/guatemala-denies-agreeing-to-us-strikes-against-drug-traffickers?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
       "date": "2026-05-28",
-      "time": "",
+      "time": "21:42",
       "conflict_id": null,
-      "score": 30.8
+      "score": 31.4
     },
     {
       "id": "2026-05-28-b35c16c2",
@@ -394,6 +478,34 @@
       "time": "17:47",
       "conflict_id": null,
       "score": 29.0
+    },
+    {
+      "id": "2026-05-28-e91cfff3",
+      "headline": "Judge refuses to block Trump order to create federal voter list and limit mail voting",
+      "summary": "Democrats and civil rights groups argued it was urgent that the judge issue a restraining order in the midst of primary season and with states already gearing up for the fall midterm elections.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/28/judge-refuses-to-block-trump-order-to-create-federal-voter-list-and-limit-mail-voting",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-28",
+      "time": "16:06",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-05-28-81317615",
+      "headline": "Australia sues US giant 3M over 'forever chemicals' in firefighting foam",
+      "summary": "The A$2bn case, which centres on contamination at defence sites, is the largest ever brought by the government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3w2yl3p97qo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-05-28",
+      "time": "02:47",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-28-062b5f57",
@@ -422,6 +534,20 @@
       "time": "19:17",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-28-13f597f2",
+      "headline": "Tech Frenzy Sparks Shake-Up at China’s Troubled Consumer Funds",
+      "summary": "China’s battered consumer-focused funds are showing signs of pivoting to tech as a prolonged demand slump forces even the sector’s most committed backers to rethink their strategy.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-28/tech-frenzy-sparks-shake-up-at-china-s-troubled-consumer-funds",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-28",
+      "time": "23:30",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-28-76c828d0",
@@ -676,62 +802,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-28-40cb6dc7",
-      "headline": "Humanoid robots strut their stuff as trade show comes to Japan",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/humanoid-robots-strut-their-stuff-as-trade-show-comes-to-japan",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-28-cb861418",
-      "headline": "Japan Post Bank share price doubles as overseas investors look beyond AI",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/equities/japan-post-bank-share-price-doubles-as-overseas-investors-look-beyond-ai",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-28-5d999565",
-      "headline": "Top Japanese banks to use OpenAI's new model against cyberattacks",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/top-japanese-banks-to-use-openai-s-new-model-against-cyberattacks",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-05-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-05-28-bf3d43f6",
-      "headline": "Qualcomm unveils first chip for budget PCs amid memory, CPU crunch",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/qualcomm-unveils-first-chip-for-budget-pcs-amid-memory-cpu-crunch",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-05-27-c60c99ed",
       "headline": "Israeli strike in Gaza City kills new head of Hamas's military wing",
       "summary": "Hamas says Mohammed Odeh was killed alongside his wife and two children in a strike on a residential building.",
@@ -760,20 +830,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-05-27-c7f6a2a9",
-      "headline": "Oil Prices Steady as Traders Assess US-Iran Truce Reports",
-      "summary": "Oil prices were little changed after a volatile trading day as traders digested news that the US and Iran have reached a tentative deal to extend a ceasefire and work toward a pact to end the war.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-27/latest-oil-market-news-and-analysis-for-may-28",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-05-27",
-      "time": "22:05",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-05-27-6f50cd17",
       "headline": "Almost 500,000 Russian soldiers killed in Ukraine war, GCHQ says",
       "summary": "GCHQ's director Anne Keast-Butler set out the threats facing the UK in her inaugural public speech.",
@@ -788,20 +844,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-27-928480e3",
-      "headline": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
-      "summary": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outside world.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-27",
-      "time": "12:27",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-27-36e628cb",
       "headline": "Stocks Hit Record Highs After US-Iran Deal Reports: Markets Wrap",
       "summary": "Wall Street traders sent stocks to all-time highs, bonds advanced while a rally in oil waned amid speculation about a diplomatic breakthrough in the three-month war that has rattled global markets.",
@@ -814,20 +856,6 @@
       "time": "22:14",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-05-27-1dc89a75",
-      "headline": "Why some Republicans are worried about Ken Paxton as a Senate nominee",
-      "summary": "Few politicians have garnered as much scandal in Texas as Paxton, but he has ignited the MAGA base, who see him as a fighter.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/05/27/who-is-ken-paxton-why-are-some-republicans-worried/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-05-27",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-05-27-6e2d2802",
@@ -942,20 +970,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-05-25-e15b99e8",
-      "headline": "Moment of gas explosion at China coal mine",
-      "summary": "At least 82 people have been killed and two are missing after a gas explosion at a coal mine in northern China on Sunday, officials say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cedpp9ldnl9o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-25",
-      "time": "10:20",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-25-4c8e54aa",
       "headline": "Spread of Ebola in DRC ‘outpacing’ response efforts, warns WHO",
       "summary": "Director general of World Health Organization urges neighbouring countries to take immediate actionThe World Health Organization has warned that the Ebola outbreak is outpacing response efforts and countries neighbouring the Democratic Republic of Congo (DRC) are at high risk from the disease.“We are urgently scaling up operations, but at the moment the epidemic is outpacing us,” said the WHO’s director-general, Dr Tedros Adhanom Ghebreyesus, as ",
@@ -1022,20 +1036,6 @@
       "category": "geopolitics",
       "date": "2026-05-23",
       "time": "23:34",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-21-286e6ed0",
-      "headline": "From AI to interceptors, Ukraine is trying to drone-proof its skies",
-      "summary": "After four years of Russia's full-scale invasion, Ukraine has become far more successful at fighting off air raids.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c1k2lmmjvzxo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-05-21",
-      "time": "05:04",
       "conflict_id": null,
       "score": 35.0
     }
