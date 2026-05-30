@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-30T07:49:38.083720+00:00",
-  "story_count": 64,
+  "updated": "2026-05-30T09:47:58.239704+00:00",
+  "story_count": 66,
   "source_count": 8,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-05-30",
       "time": "05:58",
       "conflict_id": null,
-      "score": 64.0
+      "score": 72.0
     },
     {
       "id": "2026-05-30-3d2e8f60",
@@ -29,12 +29,12 @@
       "date": "2026-05-30",
       "time": "07:33",
       "conflict_id": null,
-      "score": 59.4
+      "score": 58.4
     },
     {
-      "id": "2026-05-30-fd411ddd",
-      "headline": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-      "summary": "Israel pushes deeper into Lebanon just days after Israel&#039;s prime minister ordered 70 percent of Gaza to be occupied.",
+      "id": "2026-05-30-2352faf7",
+      "headline": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
+      "summary": "Israel issues two rounds of forced displacement orders for towns in southern Lebanon as forces push deeper into country.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/5/30/iran-war-live-trump-due-to-make-final-determination-on-deal-with-tehran?traffic_source=rss",
       "region": "MENA",
@@ -43,7 +43,35 @@
       "date": "2026-05-30",
       "time": "00:00",
       "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-05-30-6a4dcae9",
+      "headline": "Iran war: What is happening on day 92 as Trump weighs Iran deal",
+      "summary": "Trump weighs next steps on Iran deal as Tehran insists negotiations are continuing and no final agreement exists.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/iran-war-what-is-happening-on-day-92-as-trump-weighs-iran-deal?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "07:30",
+      "conflict_id": null,
       "score": 55.4
+    },
+    {
+      "id": "2026-05-30-b7701844",
+      "headline": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
+      "summary": "Strikes have seen 13,000 residents without power in Zaporizhzhia as Russia and Ukraine trade drone attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/ukraine-drones-strike-russian-oil-facility-as-kyiv-and-moscow-trade-blows?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "08:54",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
     },
     {
       "id": "2026-05-30-bc563dfa",
@@ -57,7 +85,7 @@
       "date": "2026-05-30",
       "time": "04:19",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-05-30-19576e7b",
@@ -86,6 +114,48 @@
       "time": "02:48",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-05-30-45ebae81",
+      "headline": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+      "summary": "BBC Verify has analysed videos of attacks in occupied Ukraine on Russian trucks carrying ammunition, fuel and food.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdjp0n7rn41o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "01:34",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-30-7e30e30c",
+      "headline": "Malaysian Defense Minister Says Won’t Rush Spending",
+      "summary": "Malaysian defense chief Mohamed Khaled Nordin told Bloomberg that the country will not rush to increase its defence budget despite US pressure for partners to become more self-reliant. Khaled spoke with Haslinda Amin in an exclusive interview at Asia’s premier defense summit, the Shangri-La Dialogue. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-30/malaysian-defense-minister-says-won-t-rush-spending-video",
+      "region": "NA",
+      "country": "Malaysia",
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "08:51",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-30-1d8465ad",
+      "headline": "NATO Military Head Says No ‘Drama’ With US",
+      "summary": "Europe has responded to President Donald Trump’s demands to pay more for defense, a top NATO military official said Saturday, adding that the relationship with the Pentagon is stable and free of “drama.” Giuseppe Cavo Dragone, chair of NATO’s Military Committee, spoke with Haslinda Amin at the Shangri-La Dialogue, Asia’s premier defense summit. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-30/nato-military-head-says-no-drama-with-us-video",
+      "region": "EU",
+      "country": "Pentagon",
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "08:33",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-05-30-62a64053",
@@ -142,6 +212,90 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-30-8acf9345",
+      "headline": "Can California Convince Teens to Work in Construction?",
+      "summary": "Facing an uncertain job market and the looming threat of A.I., graduating high school seniors in America’s tech capital are increasingly rethinking their career plans. Job demand in fields like construction, along with the allure of potential six-figure salaries, have some high schools investing in hands-on classes that are redefining what success looks like for the class of 2026.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/video/us/100000010907463/california-high-schools-construction-trade-classes.html",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-05-30-df8542ee",
+      "headline": "Trump Squeezes Immigrants by Cutting Them Off From Jobs, Healthcare and Housing",
+      "summary": "The methodically planned strategy is intended to pressure noncitizens, including many with legal status, to leave the United States.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-immigrants-health-housing.html",
+      "region": "NA",
+      "country": "United States",
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-05-30-7fa84c37",
+      "headline": "Homelessness Declined in 2024, According to Delayed Federal Report",
+      "summary": "The modest drop marked the first decrease in homelessness in nearly a decade. The Housing and Urban Development report was published months later than usual.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/05/29/us/politics/homelessness-declined-in-2024-according-to-delayed-federal-report.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "02:01",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-05-30-b912d33d",
+      "headline": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
+      "summary": "Undermanned side upsets finals-bound ACT Brumbies 21-19Players come together to mark victory and club’s expected demiseAn undermanned Moana Pasifika have capped off their potential final match with a stirring victory, upsetting the finals-bound ACT Brumbies 21-19.But there were mixed feelings as players celebrated a rare win before coming together with staff to mark the occasion of the club’s farewell game and expected demise with an emotionally ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/sport/2026/may/30/moana-pasifika-sign-off-super-rugby-pacific-hymn-win",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "08:31",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-05-30-9c2a18e1",
+      "headline": "Police fire tear gas during protest outside New Jersey ICE facility",
+      "summary": "Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "09:28",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-05-30-6fb0c4ad",
+      "headline": "Voting ongoing in snap elections in Malta, governing party expected to win",
+      "summary": "Malta&#039;s economy to dominate this year’s election, with rising rents and infrastructure at the forefront of debates.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/30/voting-ongoing-in-snap-elections-in-malta-governing-party-expected-to-win?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "08:22",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-30-9db02afa",
@@ -214,6 +368,20 @@
       "score": 51.4
     },
     {
+      "id": "2026-05-29-4e294aa2",
+      "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-29",
+      "time": "09:17",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-05-29-7c95699a",
       "headline": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
       "summary": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likelyEbola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the lives of at least 240 people since the outbreak began in Ituri province in the Democratic Republic of the Congo earlier this month.Public health offici",
@@ -226,20 +394,6 @@
       "time": "05:44",
       "conflict_id": null,
       "score": 48.0
-    },
-    {
-      "id": "2026-05-29-9e9612ca",
-      "headline": "Trump heads into Situation Room to potentially finalise Iran deal",
-      "summary": "Donald Trump says he’s in the Situation Room at the White House to make a “final determination” on a deal with Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/trump-heads-into-situation-room-to-potentially-finalise-iran-deal?traffic_source=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-05-29",
-      "time": "19:01",
-      "conflict_id": null,
-      "score": 47.4
     },
     {
       "id": "2026-05-29-d00a108b",
@@ -270,20 +424,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-29-59b839ea",
-      "headline": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
-      "summary": "Mark Rutte says Moscow’s ‘reckless behaviour is danger to us all’ after drone hits apartment building, while Russia denies involvementThe Nato secretary general, Mark Rutte, has said the alliance is “ready to defend every inch” of its territory after a Russian drone hit an apartment building in Romania, a member state, during an overnight attack on neighbouring Ukraine.“Russia’s reckless behaviour is a danger to us all,” Rutte wrote on social med",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-05-29",
-      "time": "13:59",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-05-29-79dae541",
       "headline": "Ex-US Attorney General Pam Bondi testifies in Epstein files probe",
       "summary": "Bondi, who was fired in April, defended the release of Epstein records in a closed-door congressional hearing.",
@@ -298,20 +438,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-05-29-1c76b60c",
-      "headline": "Romania to expel Russian consul after residential drone strike",
-      "summary": "Romanian President Nicusor Dan says that the Russian consul in the southeastern city of Constanta will be expelled.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/29/romania-to-expel-russian-consul-after-residential-drone-strike?traffic_source=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-05-29",
-      "time": "18:18",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-05-29-74a488dc",
       "headline": "Nato and EU condemn Russia after drone hits Romanian residential block",
       "summary": "Romania says the Russian drone was likely hit over Ukraine by its air defences and altered its trajectory.",
@@ -322,20 +448,6 @@
       "category": "geopolitics",
       "date": "2026-05-29",
       "time": "17:27",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-05-29-fc88798c",
-      "headline": "Israel put on UN sexual violence in warzones blacklist for first time",
-      "summary": "Israel says it rejects allegations in a new report by the office of the UN secretary general.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-29",
-      "time": "18:41",
       "conflict_id": null,
       "score": 35.0
     },
@@ -364,34 +476,6 @@
       "category": "business",
       "date": "2026-05-29",
       "time": "13:35",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-29-e3662323",
-      "headline": "US Dollar’s May Rally Leaves Strategists Wary of More Gains",
-      "summary": "This month’s rally in the dollar, as traders priced in the prospect of higher US interest rates, is leaving Wall Street strategists wary of further gains.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-29/dollar-s-monthly-rise-leaves-strategists-wary-of-further-gains",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-29",
-      "time": "00:38",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-05-29-0e301ca8",
-      "headline": "Space Rally Gets Reality Check With Blue Origin Blowup",
-      "summary": "A weeks-long rally in space-related stocks came to an abrupt halt on Friday, with the explosion of a Blue Origin rocket serving as a glaring reminder of the risks that come with the potential riches investors hope to reap from the blossoming industry.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-29/space-stocks-hype-gets-reality-check-with-blue-origin-blowup",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-29",
-      "time": "16:41",
       "conflict_id": null,
       "score": 34.1
     },
@@ -452,6 +536,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-29-8df2feba",
+      "headline": "EasyJet Draws Early Interest From Investment Firm Castlelake",
+      "summary": "EasyJet Plc, the UK airline that helped pioneer ultra low-cost travel in Europe over the past three decades, has drawn takeover interest from an investment firm, potentially shaking up the regional airline market as it navigates high fuel costs and steep competition.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-29/castlelake-considers-making-offer-to-buy-uk-s-easyjet",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-05-29",
+      "time": "18:53",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-29-7415702f",
       "headline": "Citadel Securities Loses Court Fight Over New IEX Options Venue",
       "summary": "Citadel Securities lost its bid to block IEX Group Inc. from launching a new type of options exchange that intentionally slows orders, after a federal appeals court on Friday rejected the market maker’s challenge.",
@@ -462,20 +560,6 @@
       "category": "business",
       "date": "2026-05-29",
       "time": "21:55",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-29-b47d6592",
-      "headline": "SpaceX Wins $4 Billion Contract for US Golden Dome Satellites",
-      "summary": "SpaceX has won a contract for more than $4 billion to build satellites to track foreign aircraft and missiles as part of President Donald Trump’s Golden Dome defensive shield.\nBloomberg's Sana Pashanka reports. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-29/spacex-wins-4b-contract-for-us-golden-dome-satellites-video",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-05-29",
-      "time": "21:30",
       "conflict_id": null,
       "score": 26.1
     },
@@ -504,34 +588,6 @@
       "category": "business",
       "date": "2026-05-29",
       "time": "20:22",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-29-4989d787",
-      "headline": "EasyJet Draws Takeover Interest From Investment Firm Castlelake",
-      "summary": "Castlelake LP is considering a possible offer for EasyJet Plc, the UK-based discount carrier struggling with rising fuel costs and slumping demand.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-29/castlelake-considers-making-offer-to-buy-uk-s-easyjet",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-29",
-      "time": "18:53",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-29-c0c56ed6",
-      "headline": "Short-Sellers Are Lining Up to Take Bets Against Bond ETFs",
-      "summary": "Betting against bond funds",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-05-29/short-sellers-are-circling-blackrock-s-lqd-and-hyg",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-29",
-      "time": "20:05",
       "conflict_id": null,
       "score": 26.1
     },
@@ -574,20 +630,6 @@
       "category": "politics",
       "date": "2026-05-29",
       "time": "19:48",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-29-7f7d6294",
-      "headline": "What’s next after scrapping the ‘Black Code’ in France?",
-      "summary": "French MPs vote to repeal law that governed slavery in colonies.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/5/29/whats-next-after-scrapping-the-black-code-in-france?traffic_source=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-05-29",
-      "time": "18:51",
       "conflict_id": null,
       "score": 23.4
     },
@@ -660,20 +702,6 @@
       "time": "23:20",
       "conflict_id": null,
       "score": 24.9
-    },
-    {
-      "id": "2026-05-28-e9d16203",
-      "headline": "Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake",
-      "summary": "Picture was created by administrator in charge of station’s Facebook account who wanted to create ‘friendlier image’It was an arresting image and an irresistible story. A group of tough Thai police officers – five men and one woman – all wearing elaborate festival-style dresses, surrounding a drug dealer they had caught while undercover.The image, released by local police, was so compelling that it found its way on to the front page of the UK’s D",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/may/28/image-of-thai-police-in-sparkly-dresses-with-handcuffed-suspect-turns-out-to-be-ai-fake",
-      "region": "EU",
-      "country": "Oman",
-      "category": "business",
-      "date": "2026-05-28",
-      "time": "16:05",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-05-27-c60c99ed",

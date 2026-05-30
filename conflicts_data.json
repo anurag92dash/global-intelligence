@@ -7,21 +7,21 @@
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
     "status_signal": "stable",
-    "last_activity": "2026-05-29",
+    "last_activity": "2026-05-30",
     "recent_headlines": [
+      {
+        "headline": "Ukraine drones strike Russian oil facility, as Kyiv and Moscow trade blows",
+        "source": "Al Jazeera",
+        "date": "2026-05-30"
+      },
+      {
+        "headline": "Ukraine using AI drones to strike vital convoys supplying Russian troops",
+        "source": "BBC News",
+        "date": "2026-05-30"
+      },
       {
         "headline": "Polish president threatens to strip Ukraine’s Zelenskyy of top state honour",
         "source": "Al Jazeera",
-        "date": "2026-05-29"
-      },
-      {
-        "headline": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
-        "source": "The Guardian",
-        "date": "2026-05-29"
-      },
-      {
-        "headline": "Nato and EU condemn Russia after drone hits Romanian residential block",
-        "source": "BBC News",
         "date": "2026-05-29"
       }
     ],
@@ -52,13 +52,8 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-05-30",
+    "last_activity": "2026-05-29",
     "recent_headlines": [
-      {
-        "headline": "Iran war live: Trump due to make ‘final determination’ on deal with Tehran",
-        "source": "Al Jazeera",
-        "date": "2026-05-30"
-      },
       {
         "headline": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
         "source": "BBC News",
@@ -66,6 +61,11 @@
       },
       {
         "headline": "UN: “100% of Gaza” should be for Palestinians",
+        "source": "Al Jazeera",
+        "date": "2026-05-29"
+      },
+      {
+        "headline": "Netanyahu says Israeli forces have crossed Lebanon’s Litani River",
         "source": "Al Jazeera",
         "date": "2026-05-29"
       }
@@ -128,8 +128,13 @@
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
     "status_signal": "stable",
-    "last_activity": "2026-05-29",
+    "last_activity": "2026-05-30",
     "recent_headlines": [
+      {
+        "headline": "Iran war live: Supreme leader’s adviser blames US blockade for stalled deal",
+        "source": "Al Jazeera",
+        "date": "2026-05-30"
+      },
       {
         "headline": "Nato and EU condemn Russia after drone hits Romanian residential block",
         "source": "BBC News",
@@ -139,11 +144,6 @@
         "headline": "Citadel Securities Loses Court Fight Over New IEX Options Venue",
         "source": "Bloomberg",
         "date": "2026-05-29"
-      },
-      {
-        "headline": "Image of Thai police in sparkly dresses with handcuffed suspect turns out to be AI fake",
-        "source": "The Guardian",
-        "date": "2026-05-28"
       }
     ],
     "timeline": [
