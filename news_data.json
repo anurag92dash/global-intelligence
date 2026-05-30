@@ -1,7 +1,7 @@
 {
-  "updated": "2026-05-30T18:45:44.123472+00:00",
-  "story_count": 63,
-  "source_count": 8,
+  "updated": "2026-05-30T20:00:28.412868+00:00",
+  "story_count": 69,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-05-30-68c1e55f",
@@ -15,7 +15,21 @@
       "date": "2026-05-30",
       "time": "05:58",
       "conflict_id": null,
-      "score": 64.0
+      "score": 72.0
+    },
+    {
+      "id": "2026-05-30-b2696884",
+      "headline": "US says it is capable to resume war with Iran as deal remains elusive",
+      "summary": "Trump signalled he was on the verge of reaching a peace deal with Iran but failed to sign off on the agreement following a two-hour meeting on Friday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/30/us-says-it-is-capable-to-resume-war-with-iran-as-deal-remains-elusive",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "09:46",
+      "conflict_id": null,
+      "score": 54.0
     },
     {
       "id": "2026-05-30-7f6e3c54",
@@ -44,6 +58,20 @@
       "time": "16:58",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-05-30-d37ae765",
+      "headline": "EU expands sanctions on Hamas and Palestinian Islamic Jihad to include Hamas Politburo members",
+      "summary": "\"In their capacity as decision-makers of the organisation, the members of the Politburo have knowledge of the planning, preparation and execution of violent actions by Hamas,\" the bloc said.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/30/eu-expands-sanctions-on-hamas-and-palestinian-islamic-jihad-to-include-hamas-politburo-mem",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "08:27",
+      "conflict_id": "israel-hamas",
+      "score": 49.0
     },
     {
       "id": "2026-05-30-b1c1a77d",
@@ -116,32 +144,32 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-30-fe6fbbc4",
-      "headline": "Hanwha Aerospace Eyes Europe, US Arms Deals",
-      "summary": "South Korea's Hanwha Aerospace is increasing weapons manufacturing at home, and expanding operations in Europe and the US. The company's Global Chief Strategy Officer, Alex Wong spoke with Bloomberg’s Haslinda Amin on the sidelines of the Shangri-La Dialogue, Asia’s premier defense summit. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/hanwha-aerospace-eyes-europe-us-arms-deals-video",
+      "id": "2026-05-30-68124122",
+      "headline": "US, UK and Australia to develop underwater drone technology",
+      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "South Korea",
+      "country": "Australia",
       "category": "geopolitics",
       "date": "2026-05-30",
-      "time": "11:35",
+      "time": "12:16",
       "conflict_id": null,
-      "score": 34.1
+      "score": 35.0
     },
     {
-      "id": "2026-05-30-b19be3a7",
-      "headline": "China Pledges to Retaliate If EU Imposes Trade Restrictions",
-      "summary": "China warned it would “resolutely” retaliate if the European Union proceeds with new restrictive trade measures, following a May 29 European Commission discussion on China policy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-30/china-pledges-to-retaliate-if-eu-imposes-trade-restrictions",
+      "id": "2026-05-30-28cdec01",
+      "headline": "SoftBank pledges €75bn to build Europe’s biggest AI facility in France",
+      "summary": "Masayoshi Son places France at the centre of his global AI ambitions",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1022f9bd-5b6d-44a5-9303-c8b05b8c6463",
       "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
+      "country": "France",
+      "category": "business",
       "date": "2026-05-30",
-      "time": "10:58",
+      "time": "18:39",
       "conflict_id": null,
-      "score": 34.1
+      "score": 34.4
     },
     {
       "id": "2026-05-30-2ac91bf6",
@@ -226,6 +254,20 @@
       "time": "16:21",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-05-30-57e61c49",
+      "headline": "SoftBank plans $88bn AI data hub in France as it expands beyond US",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/softbank/softbank-plans-88bn-ai-data-hub-in-france-as-it-expands-beyond-us",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-05-30-b21d17a9",
@@ -466,18 +508,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-30-9c2a18e1",
-      "headline": "Police fire tear gas during protest outside New Jersey ICE facility",
-      "summary": "Police fired tear gas and used horses to push back protesters outside the Delaney Hall immigration detention facility.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/police-fire-tear-gas-during-protest-outside-new-jersey-ice-facility?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
+      "id": "2026-05-30-3dc837c4",
+      "headline": "Japan, US, Philippines to hold September investment forum for Manila AI hub",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/japan-us-philippines-to-hold-september-investment-forum-for-manila-ai-hub",
+      "region": "APJ",
+      "country": "Philippines",
+      "category": "business",
       "date": "2026-05-30",
-      "time": "09:28",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-05-30-9db02afa",
@@ -506,6 +548,62 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-05-30-3c041498",
+      "headline": "Austrian protesters shut Brenner motorway on Saturday over pollution",
+      "summary": "Thousands of demonstrators blocked Austria’s vital Brenner motorway on Saturday to protest rising traffic noise and pollution. The eight-hour shutdown of the transit corridor between Germany and Italy disrupted travel.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/30/austrian-protesters-shut-brenner-motorway-on-saturday-over-pollution",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "16:13",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-05-30-9a3c073b",
+      "headline": "FlixBus revives Poland’s infamous 666 ‘highway to Hel’",
+      "summary": "Three years after the disappearance of the famous 666 bus to the Hel Peninsula, the route will return to Polish roads, this time operated by FlixBus.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/05/30/flixbus-revives-polands-infamous-666-highway-to-hel",
+      "region": "EU",
+      "country": "Poland",
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "14:55",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-05-30-10c9627a",
+      "headline": "Maltese cast ballots as Labour government seeks fourth term in snap election",
+      "summary": "Maltese voters headed to the polls on Saturday for a snap election, with Prime Minister Robert Abela’s Labour Party tipped to win on a platform of economic stability and 4% GDP growth, despite ongoing corruption concerns.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/30/maltese-cast-ballots-as-labour-government-seeks-fourth-term-in-snap-election",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "13:26",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-05-30-2d911f1b",
+      "headline": "Afghan refugee truck crash kills 18, injures 35 in eastern Afghanistan",
+      "summary": "Zabihullah Mujahid, the spokesperson for the Taliban government, expressed deep sorrow over the tragedy, which took place at the conclusion of the Muslim holiday of Eid al-Adha, and offered condolences to the families of the victims",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/30/afghan-refugee-truck-crash-kills-18-injures-35-in-eastern-afghanistan",
+      "region": "SA",
+      "country": "Afghanistan",
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "10:07",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-05-29-954db3f8",
@@ -561,7 +659,7 @@
       "date": "2026-05-29",
       "time": "09:17",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-05-29-bde0a663",
@@ -631,21 +729,7 @@
       "date": "2026-05-28",
       "time": "15:53",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-05-28-767f2f39",
-      "headline": "How did this novel about food win a Booker Prize this year?",
-      "summary": "Taiwan Travelogue is the first novel translated from Mandarin Chinese to win the prestigious award.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cx21k1dkygno?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-05-28",
-      "time": "22:48",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 51.0
     },
     {
       "id": "2026-05-28-1f6e3f3e",
@@ -841,7 +925,7 @@
       "date": "2026-05-25",
       "time": "04:16",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-05-24-d4dd6709",
