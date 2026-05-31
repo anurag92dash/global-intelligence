@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-31T10:16:28.874058+00:00",
-  "story_count": 75,
+  "updated": "2026-05-31T11:52:56.512912+00:00",
+  "story_count": 77,
   "source_count": 9,
   "stories": [
     {
@@ -60,8 +60,50 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-31-e1c3c215",
-      "headline": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
+      "id": "2026-05-31-1ec12a18",
+      "headline": "Russia launches fresh strikes on Ukraine, Kyiv hits refinery hub",
+      "summary": "In response to Russian shelling of Ukrainian territory, Ukrainian forces launched a series of powerful strikes on strategically important Russian oil infrastructure.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/05/31/russia-launches-fresh-strikes-on-ukraine-kyiv-hits-refinery-hub",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "11:02",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
+      "id": "2026-05-31-e5136bf9",
+      "headline": "Rio’s Forever War",
+      "summary": "In 2025, Brazil’s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/fault-lines/2026/5/31/rios-forever-war?traffic_source=rss",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "11:24",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-31-f0370908",
+      "headline": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+      "summary": "Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "08:49",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-31-de908744",
+      "headline": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
       "summary": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
@@ -186,20 +228,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-31-b9314f67",
-      "headline": "Hundreds arrested in France after wild Champions League celebrations",
-      "summary": "Thousands of officers tried to quell unrest as crowds of fans - some firing flares - celebrated PSG's victory over Arsenal.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cg7pk5j7nyjo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "business",
-      "date": "2026-05-31",
-      "time": "06:41",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-05-31-704e93a8",
       "headline": "Colombia votes in presidential election that could redefine relations with US",
       "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
@@ -216,28 +244,28 @@
     {
       "id": "2026-05-31-9b9ef5fd",
       "headline": "South Africa made to look like fools after World Cup visa issues, says minister",
-      "summary": "According to media reports, the team's departure for Mexico on Sunday has been delayed due to an \"administrative bungle\".",
+      "summary": "The country's football association says it is working to resolve the problems that have delayed the team's departure to Mexico.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/c86dxvql3qno?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Mexico",
       "category": "politics",
       "date": "2026-05-31",
-      "time": "09:51",
+      "time": "11:32",
       "conflict_id": null,
       "score": 27.0
     },
     {
-      "id": "2026-05-31-62c4e5d2",
-      "headline": "There can only be one President Donald Trump, forever",
-      "summary": "By snubbing his son’s wedding he seemed intent on making sure Don Jr knows his place",
+      "id": "2026-05-31-c092e51d",
+      "headline": "China’s comparative advantage is industrial policy",
+      "summary": "Western attempts to imitate Beijing’s state-funded model are unwise",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/ca3d9345-7f22-42f6-897d-d4b3f31acff7",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
+      "url": "https://www.ft.com/content/42fc2ea1-cd3a-43d1-87c6-eba09a44d888",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
       "date": "2026-05-31",
-      "time": "04:00",
+      "time": "11:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -252,20 +280,6 @@
       "category": "politics",
       "date": "2026-05-31",
       "time": "00:04",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-05-31-979eb56d",
-      "headline": "Japan’s Koizumi rejects China accusations of ‘new militarism’",
-      "summary": "Shinjiro Koizumi says Tokyo is pursuing security co-operation across Asia-Pacific region",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bc92a6f7-0490-426a-869f-69265cb819b2",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-05-31",
-      "time": "06:02",
       "conflict_id": null,
       "score": 26.4
     },
@@ -354,18 +368,32 @@
       "score": 24.0
     },
     {
-      "id": "2026-05-31-ad314ede",
-      "headline": "French police arrest more than 400 as PSG fans celebrate Champions League win over Arsenal",
-      "summary": "Interior minister says rioting took place in about 15 cities in France, with almost 300 people detained in ParisFrench police detained more than 400 people involved in violent clashes in Paris and other French cities that erupted on Saturday night after Paris Saint-Germain defeated Arsenal to win the Champions League title.Seven officers were injured as football fans set off fires and vandalised shops, the interior minister, Laurent Nuñez, said, ",
+      "id": "2026-05-31-0a922589",
+      "headline": "French police arrest 780 after violent clashes as PSG fans celebrate Champions League win",
+      "summary": "Interior minister says 57 officers injured as rioters set fires and vandalise shops in about 15 citiesFrench police have detained 780 people involved in violent clashes in Paris and other French cities that erupted on Saturday night after Paris Saint-Germain defeated Arsenal to win the Champions League title.The interior minister, Laurent Nuñez, said 57 officers were wounded, with most suffering minor injuries, as football fans set off fires and ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/may/30/paris-police-arrest-paris-saint-germain-fans-celebrate-champions-league-win-over-arsenal",
       "region": "EU",
-      "country": "France",
+      "country": null,
       "category": "politics",
       "date": "2026-05-31",
-      "time": "09:00",
+      "time": "11:44",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-31-494bb0ed",
+      "headline": "From AFCON to World Cup 2026: How Morocco became a football powerhouse",
+      "summary": "Morocco&#039;s success is built on an effective strategy, but there has been some upheaval in the run-up to FIFA World Cup.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/5/31/from-afcon-to-world-cup-2026-how-morocco-became-a-football-powerhouse?traffic_source=rss",
+      "region": "MENA",
+      "country": "Morocco",
+      "category": "business",
+      "date": "2026-05-31",
+      "time": "11:01",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-31-e6f09e0c",
@@ -466,20 +494,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-05-30-65d64cfa",
-      "headline": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
-      "summary": "Pentagon chief Pete Hegseth says US &#039;more than capable&#039; of restarting war if satisfactory deal not reached.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/iran-reasserts-control-over-hormuz-strait-as-deal-with-us-remains-elusive?traffic_source=rss",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "19:48",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
       "id": "2026-05-30-bc563dfa",
       "headline": "No deal announced after Trump meeting to make 'final determination' on Iran",
       "summary": "The US president met his advisers, after officials confirmed the US and Iran had agreed a framework of a deal.",
@@ -490,6 +504,20 @@
       "category": "geopolitics",
       "date": "2026-05-30",
       "time": "11:39",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-30-ecefc159",
+      "headline": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "13:34",
       "conflict_id": null,
       "score": 43.0
     },
@@ -620,20 +648,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-30-27aaa3d1",
-      "headline": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
-      "summary": "Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examinationWhy did Anthropic’s founder sit beside the pope during a warning about AI?In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers, accelerating war and exploiting the environment. At a ceremony ho",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-05-30-6f584ab1",
       "headline": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
       "summary": "In Colombia, FARC dissidents say they returned to war after a historic peace deal failed to deliver security",
@@ -746,6 +760,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-05-30-e809c1e9",
+      "headline": "This Millennial University President Sees Running Grambling State Like an Enterprise",
+      "summary": "Dr. Martin Lemelle, Jr., Grambling State University President says he views running his HBU like an enterprise (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-30/lemelle-running-grambling-state-like-an-enterprise-video",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-30",
+      "time": "15:28",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-30-a3e00729",
       "headline": "Can AI Grow Without Hurting Local Communities?",
       "summary": "The rush to build AI data centers is drawing trillions of dollars in investment and long-term bets from infrastructure firms such as DigitalBridge. But in communities where those facilities are being built, residents and officials are raising concerns about electricity costs, water use, noise, transparency and who bears the risk if demand falls short. Michigan Attorney General Dana Nessel is challenging approval of a major data center project nea",
@@ -816,6 +844,20 @@
       "score": 21.0
     },
     {
+      "id": "2026-05-30-9a3c073b",
+      "headline": "FlixBus revives Poland’s infamous 666 ‘highway to Hel’",
+      "summary": "Three years after the disappearance of the famous 666 bus to the Hel Peninsula, the route will return to Polish roads, this time operated by FlixBus.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/05/30/flixbus-revives-polands-infamous-666-highway-to-hel",
+      "region": "EU",
+      "country": "Poland",
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "14:55",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-05-30-10c9627a",
       "headline": "Maltese cast ballots as Labour government seeks fourth term in snap election",
       "summary": "Maltese voters headed to the polls on Saturday for a snap election, with Prime Minister Robert Abela’s Labour Party tipped to win on a platform of economic stability and 4% GDP growth, despite ongoing corruption concerns.",
@@ -844,20 +886,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-05-29-4e294aa2",
-      "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-29",
-      "time": "09:17",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-05-29-7c95699a",
       "headline": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
       "summary": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likelyEbola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the lives of at least 240 people since the outbreak began in Ituri province in the Democratic Republic of the Congo earlier this month.Public health offici",
@@ -870,6 +898,20 @@
       "time": "05:44",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-05-29-4e294aa2",
+      "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-29",
+      "time": "09:17",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-05-29-fc88798c",
@@ -939,7 +981,7 @@
       "date": "2026-05-28",
       "time": "15:53",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-05-28-77ae547a",
@@ -982,20 +1024,6 @@
       "time": "13:15",
       "conflict_id": "israel-hamas",
       "score": 55.0
-    },
-    {
-      "id": "2026-05-27-928480e3",
-      "headline": "'Like a prisoner being released' - Relief for Iranians as internet shutdown ends",
-      "summary": "The government imposed the blackout after the start of the war with the US and Israel in February, cutting most Iranians off from the outside world.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21x812w1lo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-05-27",
-      "time": "12:27",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-27-d20b338c",
@@ -1051,7 +1079,7 @@
       "date": "2026-05-25",
       "time": "04:16",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     }
   ]
 }
