@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-31T11:52:56.512912+00:00",
+  "updated": "2026-05-31T13:06:10.484088+00:00",
   "story_count": 77,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-05-31-0f4d5fa6",
+      "headline": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
+      "summary": "Donald Trump says talks with Iran are progressing &#039;slowly but surely&#039;, as Israel intensifies operations in Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "08:29",
+      "conflict_id": null,
+      "score": 63.4
+    },
     {
       "id": "2026-05-31-af3c77a1",
       "headline": "Trump tightens terms on Iran war deal, US media say",
@@ -18,18 +32,60 @@
       "score": 56.4
     },
     {
-      "id": "2026-05-31-0f4d5fa6",
-      "headline": "Iran war day 93: Trump won’t ‘rush’ deal; Israel expands Lebanon invasion",
-      "summary": "Donald Trump says talks with Iran are progressing &#039;slowly but surely&#039;, as Israel intensifies operations in Lebanon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/iran-war-day-93-trump-wont-rush-deal-israel-expands-lebanon-invasion?traffic_source=rss",
+      "id": "2026-05-31-97693d09",
+      "headline": "Israel seizes castle in Lebanon as it expands ground offensive",
+      "summary": "The Israeli military says everyone south of the Zahrani river should leave, after it captured the strategic Beaufort Castle.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdep04kzz5wo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-05-31",
-      "time": "08:29",
+      "time": "12:18",
       "conflict_id": null,
-      "score": 55.4
+      "score": 52.0
+    },
+    {
+      "id": "2026-05-31-e2ea0dfd",
+      "headline": "Israel captures Crusader castle in deepening Lebanon push",
+      "summary": "Seizure of 12th-century hilltop fortress comes as Israeli prime minister orders expanded offensive against Hizbollah",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fa98dbf6-4f5e-4f8d-aff6-a6bef9709d6c",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "11:24",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-05-31-f0370908",
+      "headline": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
+      "summary": "Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "08:49",
+      "conflict_id": null,
+      "score": 48.4
+    },
+    {
+      "id": "2026-05-31-e78fd6c5",
+      "headline": "Israel retakes Beaufort castle in Lebanon, Paris issues harsh condemnation",
+      "summary": "Israeli forces push deeper into Lebanon and raise their flag over Beaufort Castle, a strategic fortress. France condemns the move and demands a UN Security Council meeting.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/31/israel-retakes-beaufort-castle-in-lebanon-paris-issues-harsh-condemnation",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "12:20",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-05-31-7b9dcaca",
@@ -74,6 +130,20 @@
       "score": 41.0
     },
     {
+      "id": "2026-05-31-ec4da141",
+      "headline": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
+      "summary": "Shinjiro Koizumi says Japan valued as a ‘peace-loving’ nation while China expands military capabilities ‘without sufficient transparency’Japan’s defence minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing’s criticism of Tokyo’s increasingly muscular security stance.Under the prime minister, Sanae Takaichi, Japan has quickened its pivot to a more proactive defence policy, further shaking off",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "05:02",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-05-31-e5136bf9",
       "headline": "Rio’s Forever War",
       "summary": "In 2025, Brazil’s deadliest police raid killed 120 people and exposed a pattern of mishandled evidence and impunity.",
@@ -84,34 +154,6 @@
       "category": "geopolitics",
       "date": "2026-05-31",
       "time": "11:24",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-31-f0370908",
-      "headline": "Israel issues more displacement orders in Lebanon, seizes strategic castle",
-      "summary": "Israeli Defence Minister Israel Katz describes the capture of Beaufort Castle as a significant tactical victory.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/31/israel-issues-more-displacement-orders-in-lebanon-seizes-strategic-castle?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-31",
-      "time": "08:49",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-05-31-de908744",
-      "headline": "Iran war live: Israel to expand Lebanon invasion; US-Tehran deal in limbo",
-      "summary": "Lebanese PM describes Israel&#039;s attacks as collective punishment as US warns Iran of strikes if no deal is reached.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/5/31/iran-war-live-lebanon-accuses-israel-of-scorched-earth-policy?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-31",
-      "time": "00:00",
       "conflict_id": null,
       "score": 39.4
     },
@@ -130,16 +172,30 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-31-1271a865",
-      "headline": "Sandoz warns cheap Chinese imports threaten Europe’s antibiotic supply",
-      "summary": "Continent risks losing critical medicine capacity without stronger protections, says chief executive",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6b74ddb9-319b-4293-a9d7-0effb17a4485",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
+      "id": "2026-05-31-704e93a8",
+      "headline": "Colombia votes in presidential election that could redefine relations with US",
+      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Colombia",
+      "category": "politics",
       "date": "2026-05-31",
-      "time": "04:00",
+      "time": "08:47",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-05-31-b7a55d44",
+      "headline": "Wall Street bulls bet US stocks rally will defy bubble fears",
+      "summary": "Investors and strategists shrug off worries that markets could be overheating by betting on huge gains for AI-linked shares",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/90dbca8c-fb63-4fa5-a5d6-e6d6d9f6d10e",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-31",
+      "time": "12:00",
       "conflict_id": null,
       "score": 34.4
     },
@@ -158,6 +214,48 @@
       "score": 34.4
     },
     {
+      "id": "2026-05-31-f1558c42",
+      "headline": "AI Bubble Debate Gets Real as Chip Stocks Rally Turns Historic",
+      "summary": "Chipmakers are by far the hottest stocks in the market, but their recent surge is lending urgency to the debate over whether investors are buying into an artificial-intelligence bubble that’s due to burst.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/ai-bubble-debate-gets-real-as-chip-stocks-rally-turns-historic",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-31",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-31-d89109ee",
+      "headline": "Economic Model and US Relations at Stake in Colombian Election",
+      "summary": "Colombians are voting in presidential elections in which the economic model, counter-narcotics policies and relations with Washington are all at stake.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/economic-model-and-us-relations-at-stake-in-colombian-election",
+      "region": "NA",
+      "country": "Washington",
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-05-31-3c50888d",
+      "headline": "How Poland Became Europe’s Growth Leader",
+      "summary": "Poland has become one of Europe’s standout growth stories, with an economy that crossed $1 trillion and a new generation of entrepreneurs returning home after studying and working abroad. Finance Minister Andrzej Domański points to decades of reform, EU integration, foreign investment and a diversified economy as drivers of Poland’s rise, while venture capitalist Aleksandra Pedraszewska says Warsaw’s technology scene now offers opportunities that",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-31/how-poland-became-europe-s-growth-leader-video",
+      "region": "EU",
+      "country": "Poland",
+      "category": "business",
+      "date": "2026-05-31",
+      "time": "12:05",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-05-31-7ad183ab",
       "headline": "Singapore’s CapitaLand Sheds 10% of China Staff Amid Downturn",
       "summary": "CapitaLand Investment Ltd. said its workforce in China plunged by about 10%, or 365 people, last year as the asset manager continues to grapple with a major real estate crisis in Asia’s largest economy.",
@@ -172,20 +270,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-05-31-ec4da141",
-      "headline": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
-      "summary": "Shinjiro Koizumi says Japan valued as a ‘peace-loving’ nation while China expands military capabilities ‘without sufficient transparency’Japan’s defence minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing’s criticism of Tokyo’s increasingly muscular security stance.Under the prime minister, Sanae Takaichi, Japan has quickened its pivot to a more proactive defence policy, further shaking off",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "politics",
-      "date": "2026-05-31",
-      "time": "05:02",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-05-31-4fc41c2f",
       "headline": "Australia to buy only secondhand nuclear subs from US in major Aukus switch – as it happened",
       "summary": "This blog is now closedGet our breaking news email, free app or daily news podcastExtra negative gearing limits could hurt market and family budgets, Labor saysClare O’Neil has rejected calls from the Greens and others to put further limits on negative gearing access, saying the government should not interrupt “immediate arrangements”.There’s people in the debate who want to see the government go further. I really understand that but I just think",
@@ -198,6 +282,20 @@
       "time": "03:36",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-05-31-092eeea2",
+      "headline": "Japan rejects ‘new militarism’, says China is rapidly arming",
+      "summary": "Japan accuses China of lacking military transparency and stresses the importance of dialogue for regional stability.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/5/31/japan-rejects-new-militarism-says-china-is-rapidly-arming?traffic_source=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "12:51",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-05-31-57e61c49",
@@ -228,18 +326,18 @@
       "score": 30.8
     },
     {
-      "id": "2026-05-31-704e93a8",
-      "headline": "Colombia votes in presidential election that could redefine relations with US",
-      "summary": "The election is held after months of public recrimination between current left-wing President Gustavo Petro and his US counterpart Donald Trump.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2027g423glo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "politics",
+      "id": "2026-05-31-b8d77b97",
+      "headline": "Pashinyan on course for landslide victory and pro-West mandate in Armenia election, new poll shows",
+      "summary": "A new poll projects Armenian Premier Nikol Pashinyan’s party could win a large parliamentary majority, as Russia intensifies its campaign to counter Yerevan's pro-West realignment, warning of a Ukraine scenario.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/05/31/pashinyan-on-course-for-landslide-victory-and-pro-west-mandate-in-armenia-election-new-pol",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
       "date": "2026-05-31",
-      "time": "08:47",
+      "time": "06:00",
       "conflict_id": null,
-      "score": 27.0
+      "score": 29.0
     },
     {
       "id": "2026-05-31-9b9ef5fd",
@@ -256,20 +354,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-05-31-c092e51d",
-      "headline": "China’s comparative advantage is industrial policy",
-      "summary": "Western attempts to imitate Beijing’s state-funded model are unwise",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/42fc2ea1-cd3a-43d1-87c6-eba09a44d888",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-05-31",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-05-31-ff75e390",
       "headline": "Jes Staley to appear before Congress over ties to Jeffrey Epstein",
       "summary": "Former Barclays boss agrees to in-person interview with US lawmakers over his relationship with paedophile",
@@ -282,6 +366,34 @@
       "time": "00:04",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-05-31-bd7d1d7c",
+      "headline": "Congo Adds Lithium to Strategic Minerals in Higher Tax Bracket",
+      "summary": "Democratic Republic of Congo’s lithium miners could soon be required to triple royalty payments after the government approved the inclusion of several metals to its list of strategic minerals.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/congo-adds-lithium-to-strategic-minerals-in-higher-tax-bracket",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "12:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-05-31-284dbda8",
+      "headline": "EM’s Record Rally Leads Two Hedge Funds to Turn Away Investors",
+      "summary": "There’s so much cash going to emerging markets that a pair of hedge funds that specialize in hard-to-reach debt are starting to turn away investors.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/em-s-record-rally-leads-two-hedge-funds-to-turn-away-investors",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-31",
+      "time": "12:30",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-05-31-93b399ca",
@@ -380,6 +492,20 @@
       "time": "11:44",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-05-31-e36845de",
+      "headline": "Dublin protesters demand justice over death of Congolese man",
+      "summary": "Dublin protesters demand justice over death of Congolese man",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/31/dublin-protesters-demand-justice-over-death-of-congolese-man?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "11:36",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-05-31-494bb0ed",
@@ -508,20 +634,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-30-ecefc159",
-      "headline": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
-      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Singapore",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "13:34",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-05-30-5dd8d1f3",
       "headline": "Vitol Awarded Namibia Fuel Supply Deal From July to September",
       "summary": "Namibia said it arranged an emergency deal with Vitol Group for three months of fuel supply through September in an effort to mitigate price shocks for oil products caused by the Iran war.",
@@ -532,20 +644,6 @@
       "category": "geopolitics",
       "date": "2026-05-30",
       "time": "17:31",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-05-30-55645cba",
-      "headline": "Hegseth Reaffirms US Commitment to Pacific Allies",
-      "summary": "US Defense Secretary Pete Hegseth praised defense allies in Asia and hailed newly stable ties with China, while taking swipes at longstanding security partners in Europe. Bloomberg News Global Defense Editor Gerry Doyle joined Christina Ruffini and David Gura on Bloomberg This Weekend to discuss the comments Hegseth made Saturday at an Asia security forum in Singapore, which are the latest sign of the Trump administration shifting attention towar",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-reaffirms-us-commitment-to-pacific-allies-video",
-      "region": "EU",
-      "country": "Singapore",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "13:39",
       "conflict_id": null,
       "score": 42.1
     },
@@ -648,32 +746,18 @@
       "score": 32.0
     },
     {
-      "id": "2026-05-30-6f584ab1",
-      "headline": "Al Jazeera exclusive interview with rebel FARC faction in Colombia",
-      "summary": "In Colombia, FARC dissidents say they returned to war after a historic peace deal failed to deliver security",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/30/al-jazeera-exclusive-interview-with-rebel-farc-faction-in-colombia?traffic_source=rss",
-      "region": "SA",
-      "country": "Colombia",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "21:54",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-05-30-5ad8dbe7",
-      "headline": "Ghana's parliament passes anti-LGBTQ+ bill",
-      "summary": "Same-sex acts are punishable by jail terms under Ghana's new bill targeting those identifying as gay, lesbian or transgender.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5yedendprko?at_medium=RSS&at_campaign=rss",
+      "id": "2026-05-30-27aaa3d1",
+      "headline": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+      "summary": "Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examinationWhy did Anthropic’s founder sit beside the pope during a warning about AI?In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers, accelerating war and exploiting the environment. At a ceremony ho",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
       "region": "EU",
       "country": null,
-      "category": "politics",
+      "category": "geopolitics",
       "date": "2026-05-30",
-      "time": "00:51",
+      "time": "13:00",
       "conflict_id": null,
-      "score": 27.0
+      "score": 32.0
     },
     {
       "id": "2026-05-30-06d47060",
@@ -746,34 +830,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-05-30-7b77265e",
-      "headline": "Bloomberg This Weekend 5/30/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by The Associated Press International Correspondent Philip Crowther, Fmr. CDC Director Dr. Tom Frieden, The New York Times Texas Bureau Chief David Goodman and Cisco President and Chief Product Officer Jeetu Patel. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/bloomberg-this-weekend-5-30-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "16:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-30-e809c1e9",
-      "headline": "This Millennial University President Sees Running Grambling State Like an Enterprise",
-      "summary": "Dr. Martin Lemelle, Jr., Grambling State University President says he views running his HBU like an enterprise (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/lemelle-running-grambling-state-like-an-enterprise-video",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "15:28",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-05-30-a3e00729",
       "headline": "Can AI Grow Without Hurting Local Communities?",
       "summary": "The rush to build AI data centers is drawing trillions of dollars in investment and long-term bets from infrastructure firms such as DigitalBridge. But in communities where those facilities are being built, residents and officials are raising concerns about electricity costs, water use, noise, transparency and who bears the risk if demand falls short. Michigan Attorney General Dana Nessel is challenging approval of a major data center project nea",
@@ -802,20 +858,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-05-30-8acf9345",
-      "headline": "Can California Convince Teens to Work in Construction?",
-      "summary": "Facing an uncertain job market and the looming threat of A.I., graduating high school seniors in America’s tech capital are increasingly rethinking their career plans. Job demand in fields like construction, along with the allure of potential six-figure salaries, have some high schools investing in hands-on classes that are redefining what success looks like for the class of 2026.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/video/us/100000010907463/california-high-schools-construction-trade-classes.html",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-05-30",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-05-30-b912d33d",
       "headline": "Moana Pasifika sign off from Super Rugby with a win and emotionally charged hymn",
       "summary": "Undermanned side upsets finals-bound ACT Brumbies 21-19Players come together to mark victory and club’s expected demiseAn undermanned Moana Pasifika have capped off their potential final match with a stirring victory, upsetting the finals-bound ACT Brumbies 21-19.But there were mixed feelings as players celebrated a rare win before coming together with staff to mark the occasion of the club’s farewell game and expected demise with an emotionally ",
@@ -840,34 +882,6 @@
       "category": "politics",
       "date": "2026-05-30",
       "time": "16:13",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-30-9a3c073b",
-      "headline": "FlixBus revives Poland’s infamous 666 ‘highway to Hel’",
-      "summary": "Three years after the disappearance of the famous 666 bus to the Hel Peninsula, the route will return to Polish roads, this time operated by FlixBus.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/05/30/flixbus-revives-polands-infamous-666-highway-to-hel",
-      "region": "EU",
-      "country": "Poland",
-      "category": "business",
-      "date": "2026-05-30",
-      "time": "14:55",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-30-10c9627a",
-      "headline": "Maltese cast ballots as Labour government seeks fourth term in snap election",
-      "summary": "Maltese voters headed to the polls on Saturday for a snap election, with Prime Minister Robert Abela’s Labour Party tipped to win on a platform of economic stability and 4% GDP growth, despite ongoing corruption concerns.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/30/maltese-cast-ballots-as-labour-government-seeks-fourth-term-in-snap-election",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "13:26",
       "conflict_id": null,
       "score": 21.0
     },
@@ -914,18 +928,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-05-29-fc88798c",
-      "headline": "Israel put on UN sexual violence in warzones blacklist for first time",
-      "summary": "Israel says it rejects allegations in a new report by the office of the UN secretary general.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx21le869n1o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-05-29-827e7cb4",
+      "headline": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+      "summary": "Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable diseaseThe death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organization has said, as its head arrived in the country to support efforts to contain the disease.Anaïs Legand, from the WHO’s high threat pathogens team, said the revised death rate estimate is based on confirmed cases",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "region": "NA",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-05-29",
-      "time": "18:41",
+      "time": "16:38",
       "conflict_id": null,
-      "score": 35.0
+      "score": 40.0
     },
     {
       "id": "2026-05-29-e528d3ac",
@@ -982,20 +996,6 @@
       "time": "15:53",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-05-28-77ae547a",
-      "headline": "Israel strikes Beirut and southern Lebanon after large-scale evacuation orders",
-      "summary": "The Israeli military has ordered Lebanese residents to leave some 17% of the country's territory.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cj3pgrpmlklo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-05-28",
-      "time": "11:31",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-28-1f6e3f3e",
