@@ -1,8 +1,22 @@
 {
-  "updated": "2026-05-31T04:49:35.344731+00:00",
-  "story_count": 72,
-  "source_count": 9,
+  "updated": "2026-05-31T08:00:00.975391+00:00",
+  "story_count": 71,
+  "source_count": 8,
   "stories": [
+    {
+      "id": "2026-05-31-7b9dcaca",
+      "headline": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
+      "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "06:47",
+      "conflict_id": null,
+      "score": 43.0
+    },
     {
       "id": "2026-05-31-e1c3c215",
       "headline": "Iran war live: Lebanon slams Israel’s invasion; US-Tehran deal in limbo",
@@ -15,7 +29,21 @@
       "date": "2026-05-31",
       "time": "00:00",
       "conflict_id": null,
-      "score": 47.4
+      "score": 39.4
+    },
+    {
+      "id": "2026-05-31-b802f9c2",
+      "headline": "Japan defence minister denies militarism and criticises China's 'huge arsenal'",
+      "summary": "Shinjiro Koizumi makes some of Tokyo's most pointed remarks yet in the dispute over Japan's military build-up.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp8p4ejy8ppo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-05-31",
+      "time": "06:34",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-05-31-1271a865",
@@ -44,6 +72,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-05-31-ec4da141",
+      "headline": "Japan defence minister rebuffs claims of ‘new militarism’ levelled by China",
+      "summary": "Shinjiro Koizumi says Japan valued as a ‘peace-loving’ nation while China expands military capabilities ‘without sufficient transparency’Japan’s defence minister took a veiled swipe at China on Sunday, pledging to keep strengthening the military despite Beijing’s criticism of Tokyo’s increasingly muscular security stance.Under the prime minister, Sanae Takaichi, Japan has quickened its pivot to a more proactive defence policy, further shaking off",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/31/japan-defence-minister-rebuffs-claims-of-new-militarism-levelled-by-china",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "05:02",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-05-31-5bb8accd",
@@ -111,9 +153,23 @@
       "country": "France",
       "category": "business",
       "date": "2026-05-31",
-      "time": "02:04",
+      "time": "06:41",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-05-31-62c4e5d2",
+      "headline": "There can only be one President Donald Trump, forever",
+      "summary": "By snubbing his son’s wedding he seemed intent on making sure Don Jr knows his place",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ca3d9345-7f22-42f6-897d-d4b3f31acff7",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-05-31-ff75e390",
@@ -130,16 +186,30 @@
       "score": 26.4
     },
     {
-      "id": "2026-05-31-6feaa744",
-      "headline": "Philippines Seeks Closer Ties With China's Adversaries",
-      "summary": "Philippine Defense Secretary Gilberto Teodoro outlines deepening military ties with a network of US allies and tells Bloomberg's Haslinda Amin why it's important to work together on military deterrence. They speak on the sidelines of the Shangri-La Dialogue in Singapore. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-31/philippines-seeks-closer-ties-with-china-s-adversaries-video",
+      "id": "2026-05-31-979eb56d",
+      "headline": "Japan’s Koizumi rejects China accusations of ‘new militarism’",
+      "summary": "Shinjiro Koizumi says Tokyo is pursuing security co-operation across Asia-Pacific region",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/bc92a6f7-0490-426a-869f-69265cb819b2",
       "region": "APJ",
-      "country": "Philippines",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-05-31",
-      "time": "02:35",
+      "time": "06:02",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-05-31-af3c28d3",
+      "headline": "Saudi Contractor’s Owners Seek Up To $800 Million in Riyadh IPO",
+      "summary": "Saudi Arabia’s Mutlaq Al-Ghowairi Contracting Co.’s shareholders are seeking up to 3 billion riyals ($799 million) in a Riyadh initial public offering, in what would be the Gulf’s first major listing this year.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-31/saudi-contractor-s-owners-seek-up-to-800-million-in-riyadh-ipo",
+      "region": "MENA",
+      "country": "Riyadh",
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "06:49",
       "conflict_id": null,
       "score": 26.1
     },
@@ -172,6 +242,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-05-31-e6f09e0c",
+      "headline": "The world hit a 44-year high in executions",
+      "summary": "Governments around the world executed more people in 2025 than at any point since 1981.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/5/31/the-world-hit-a-44-year-high-in-executions?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "05:03",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-05-31-1f381b6c",
       "headline": "Thousands in Peru protest Fujimori presidential run",
       "summary": "Thousands of demonstrators took to the streets of Lima to protest the presidential bid of Keiko Fujimori.",
@@ -184,6 +268,20 @@
       "time": "03:58",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-05-31-501ab067",
+      "headline": "Computex in Taiwan, South Korea local elections, India monetary policy",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/computex-in-taiwan-south-korea-local-elections-india-monetary-policy",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "politics",
+      "date": "2026-05-31",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-05-31-3dc837c4",
@@ -214,20 +312,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-05-30-68c1e55f",
-      "headline": "US ‘more than capable’ of resuming war against Iran, Pete Hegseth says",
-      "summary": "Pentagon chief also tells Singapore defence summit of ‘alarm’ at China’s military buildup but says US does not seek ‘needless confrontation’The US warned on Saturday it was “more than capable” of resuming war with Iran after President Donald Trump said any peace deal must adhere to his red lines, including Tehran never being able to develop nuclear weapons.The White House had signalled Trump was close to a decision on an initial deal on Friday af",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/may/30/us-more-than-capable-of-resuming-war-against-iran-pete-hegseth-says",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "05:58",
-      "conflict_id": null,
-      "score": 72.0
-    },
-    {
       "id": "2026-05-30-65d64cfa",
       "headline": "Iran reasserts control over Hormuz Strait as deal with US remains elusive",
       "summary": "Pentagon chief Pete Hegseth says US &#039;more than capable&#039; of restarting war if satisfactory deal not reached.",
@@ -239,21 +323,7 @@
       "date": "2026-05-30",
       "time": "19:48",
       "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-05-30-b2696884",
-      "headline": "US says it is capable to resume war with Iran as deal remains elusive",
-      "summary": "Trump signalled he was on the verge of reaching a peace deal with Iran but failed to sign off on the agreement following a two-hour meeting on Friday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/30/us-says-it-is-capable-to-resume-war-with-iran-as-deal-remains-elusive",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "09:46",
-      "conflict_id": null,
-      "score": 54.0
+      "score": 55.4
     },
     {
       "id": "2026-05-30-5fada83b",
@@ -270,32 +340,32 @@
       "score": 51.4
     },
     {
-      "id": "2026-05-30-d37ae765",
-      "headline": "EU expands sanctions on Hamas and Palestinian Islamic Jihad to include Hamas Politburo members",
-      "summary": "\"In their capacity as decision-makers of the organisation, the members of the Politburo have knowledge of the planning, preparation and execution of violent actions by Hamas,\" the bloc said.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/30/eu-expands-sanctions-on-hamas-and-palestinian-islamic-jihad-to-include-hamas-politburo-mem",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "08:27",
-      "conflict_id": "israel-hamas",
-      "score": 49.0
-    },
-    {
-      "id": "2026-05-30-7b9dcaca",
-      "headline": "Ebola spread in DR Congo 'deeply alarming', MSF warns",
-      "summary": "The medical charity's comments come as the head of the World Health Organization visits the region worst-hit by the virus outbreak.",
+      "id": "2026-05-30-ecefc159",
+      "headline": "US not 'turning back' on Asia allies, but expects them to boost defence, says Hegseth",
+      "summary": "The US defense secretary is questioned about US commitment, including further arms deals, at an Asian security summit in Singapore.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c99ldxykz4zo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c5ye34k7yejo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": null,
+      "country": "Singapore",
       "category": "geopolitics",
       "date": "2026-05-30",
-      "time": "21:10",
+      "time": "13:34",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-05-30-5dd8d1f3",
+      "headline": "Vitol Awarded Namibia Fuel Supply Deal From July to September",
+      "summary": "Namibia said it arranged an emergency deal with Vitol Group for three months of fuel supply through September in an effort to mitigate price shocks for oil products caused by the Iran war.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/vitol-awarded-namibia-fuel-supply-deal-from-july-to-september",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "17:31",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-05-30-55645cba",
@@ -312,20 +382,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-05-30-5020e58c",
-      "headline": "Hegseth Hails China Relationship at Defense Summit",
-      "summary": "Jabs at European allies and talks of stable US-China ties &mdash; Defense Secretary Pete Hegseth took to the stage at a security summit in Singapore this weekend. \n\nBut two topics were notably missing from his address: Taiwan and the Iran war. Haslinda Amin with more. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-05-30/hegseth-hails-china-relationship-at-defense-summit-video",
-      "region": "APJ",
-      "country": "Singapore",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "11:07",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-05-30-d82427f5",
       "headline": "New Aukus drone tech to protect critical undersea cables as Marles warns: ‘seabed is a battlefield’",
       "summary": "Minister at Singapore defence summit also reveals Australia to buy only secondhand Aukus submarines from USFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe defence minister, Richard Marles, has said the “seabed is a battlefield” in a combative speech urging Beijing to be more transparent about its maritime operations, and taking aim at weak international controls over so-called “",
@@ -338,20 +394,6 @@
       "time": "22:10",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-05-30-68124122",
-      "headline": "US, UK and Australia to develop underwater drone technology",
-      "summary": "The technology, developed under the Aukus military pact, is aimed at protecting undersea cables and boosting naval defence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y8wjvd1ypo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-05-30",
-      "time": "12:16",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-05-30-a6395fa9",
@@ -396,6 +438,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-05-30-fe6fbbc4",
+      "headline": "Hanwha Aerospace Eyes Europe, US Arms Deals",
+      "summary": "South Korea's Hanwha Aerospace is increasing weapons manufacturing at home, and expanding operations in Europe and the US. The company's Global Chief Strategy Officer, Alex Wong spoke with Bloomberg’s Haslinda Amin on the sidelines of the Shangri-La Dialogue, Asia’s premier defense summit. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-30/hanwha-aerospace-eyes-europe-us-arms-deals-video",
+      "region": "EU",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "11:35",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-05-30-4ca957c6",
       "headline": "Trump’s doctor says he is in ‘excellent health’ after latest checkup",
       "summary": "While the president’s medical report says he remains fit to serve, independent physicians have raised questions about the recurrent bruises on his hands and swelling in his legs.",
@@ -410,6 +466,20 @@
       "score": 32.9
     },
     {
+      "id": "2026-05-30-87ac09a5",
+      "headline": "Bound by blood: new film highlights Jamaica’s outlawed obeah belief system",
+      "summary": "Stew Peas focuses on obeah, an enduring African magic practice in Jamaica banned by colonisers in the 1700sA new movie from award-winning Jamaican film-maker Sosiessia Nixon shines a spotlight on Jamaica’s enduring west African-based magic and spiritual healing tradition known as obeah.Nixon’s tense, feature-length suspense, Stew Peas, tells of the story of Jamaican detective Tessa, who is obsessed with an old murder case. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/30/stew-pews-film-obeah-jamaica-magic-tradition",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-05-30-62a64053",
       "headline": "‘Significant’ storm to hammer millions in WA and bring icy weather to NSW, Victoria and SA",
       "summary": "Bureau of Meteorology says WA residents should brace for wind gusts higher than 125km/h – the strength of category two cyclonesGet our breaking news email, free app or daily news podcastA major storm system bearing down on millions of Western Australians on Saturday is bringing cyclone-strength winds, and is set to deliver a “wintry blast” to the east of the country early next week.Residents across WA’s populated south-west were warned to tie dow",
@@ -420,6 +490,20 @@
       "category": "geopolitics",
       "date": "2026-05-30",
       "time": "02:49",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-05-30-27aaa3d1",
+      "headline": "Anthropic’s alliance with pope on AI harms: all in good faith or ‘Vatican-washing?’",
+      "summary": "Experts say AI firm’s engagement with Vatican risks creating ‘feelgood’ discourse that lacks critical examinationWhy did Anthropic’s founder sit beside the pope during a warning about AI?In the first major written teaching of his papacy, Pope Leo XIV took artificial intelligence to task. The pontiff delineated the technology’s most concerning threats to humanity: replacing workers, accelerating war and exploiting the environment. At a ceremony ho",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/may/30/pope-leo-anthropic-ai",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-30",
+      "time": "13:00",
       "conflict_id": null,
       "score": 32.0
     },
@@ -494,6 +578,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-05-30-eaf3d61c",
+      "headline": "US Jobs Report Set to Reveal Solid Growth, Steady Unemployment Rate",
+      "summary": "Jobs week is coming up in the US, with a whole slate of indicators on the state of the labor market culminating on Friday with the government’s official report on employment for the month of May.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-05-30/us-jobs-report-set-to-reveal-solid-growth-steady-unemployment-rate",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-05-30",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-05-30-d355009a",
       "headline": "Why Britain’s Bond Market Is Sounding the Alarm",
       "summary": "As political uncertainty grows in the United Kingdom, investors are increasingly focused on the country’s fiscal outlook and rising government borrowing costs. Bloomberg Opinion Columnist John Authers says concerns over spending, debt, and political instability are pushing gilt yields higher, reviving memories of past market crises that helped topple governments from Harold Wilson to Liz Truss. With Britain’s debt burden elevated and both major p",
@@ -518,20 +616,6 @@
       "category": "business",
       "date": "2026-05-30",
       "time": "21:59",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-05-30-eaf3d61c",
-      "headline": "US Jobs Report Set to Reveal Solid Growth, Steady Unemployment Rate",
-      "summary": "Jobs week is coming up in the US, with a whole slate of indicators on the state of the labor market culminating on Friday with the government’s official report on employment for the month of May.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-30/us-jobs-report-set-to-reveal-solid-growth-steady-unemployment-rate",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-05-30",
-      "time": "20:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -576,20 +660,6 @@
       "time": "14:03",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-05-30-6a1075c5",
-      "headline": "Inside Trump’s Deal With the I.R.S. to Drop His $10 Billion Lawsuit",
-      "summary": "Discussions among a group of lawyers with allegiance to the president were closely held. Some senior White House officials were said to have felt blindsided as the agreement took shape.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "23:55",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-05-30-6570f9e0",
@@ -690,76 +760,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-05-30-245ae67f",
-      "headline": "‘Opposite visions’: What to know about Colombia’s presidential election",
-      "summary": "Senator Ivan Cepeda is leading two right-wing rivals in the first round of an election dominated by security concerns.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/5/30/opposite-visions-what-to-know-about-colombias-presidential-election?traffic_source=rss",
-      "region": "EU",
-      "country": "Colombia",
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "16:21",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-05-30-3c041498",
-      "headline": "Austrian protesters shut Brenner motorway on Saturday over pollution",
-      "summary": "Thousands of demonstrators blocked Austria’s vital Brenner motorway on Saturday to protest rising traffic noise and pollution. The eight-hour shutdown of the transit corridor between Germany and Italy disrupted travel.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/30/austrian-protesters-shut-brenner-motorway-on-saturday-over-pollution",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "16:13",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-30-10c9627a",
-      "headline": "Maltese cast ballots as Labour government seeks fourth term in snap election",
-      "summary": "Maltese voters headed to the polls on Saturday for a snap election, with Prime Minister Robert Abela’s Labour Party tipped to win on a platform of economic stability and 4% GDP growth, despite ongoing corruption concerns.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/30/maltese-cast-ballots-as-labour-government-seeks-fourth-term-in-snap-election",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "13:26",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-30-2d911f1b",
-      "headline": "Afghan refugee truck crash kills 18, injures 35 in eastern Afghanistan",
-      "summary": "Zabihullah Mujahid, the spokesperson for the Taliban government, expressed deep sorrow over the tragedy, which took place at the conclusion of the Muslim holiday of Eid al-Adha, and offered condolences to the families of the victims",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/05/30/afghan-refugee-truck-crash-kills-18-injures-35-in-eastern-afghanistan",
-      "region": "SA",
-      "country": "Afghanistan",
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "10:07",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-05-30-b5672b29",
-      "headline": "PSOE's legal storm: Nine cases closing in on Spanish PM Pedro Sánchez",
-      "summary": "The government came under increasing pressure this week after authorities searched the Socialist Party's Madrid headquarters.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/05/30/psoes-legal-storm-nine-cases-closing-in-on-spanish-pm-pedro-sanchez",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-05-30",
-      "time": "10:01",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-05-29-954db3f8",
       "headline": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
       "summary": "The expansion in control by Israel would contradict the terms of the ceasefire  Israel and Hamas agreed to in October 2025.",
@@ -774,20 +774,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-05-29-4e294aa2",
-      "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
-      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-05-29",
-      "time": "09:17",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-05-29-7c95699a",
       "headline": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
       "summary": "In today’s newsletter: As the virus spreads across borders, health workers warn that weakened global support is making a prolonged crisis more likelyEbola is spreading rapidly in parts of east Africa. The deadly disease, which kills around half of those it infects, is suspected to have claimed the lives of at least 240 people since the outbreak began in Ituri province in the Democratic Republic of the Congo earlier this month.Public health offici",
@@ -800,6 +786,34 @@
       "time": "05:44",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-05-29-4e294aa2",
+      "headline": "US and Iran 'very close' to deal but 'not there yet', Vance says",
+      "summary": "US officials earlier told the BBC that the framework of a ceasefire extension deal had been agreed, pending the approval of Trump and Iran's leadership.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c87qng40wz9o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-05-29",
+      "time": "09:17",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-05-29-827e7cb4",
+      "headline": "WHO puts Ebola outbreak death rate at ‘huge’ 30-50% as chief arrives in DRC",
+      "summary": "Tedros Adhanom Ghebreyesus calls for ceasefire among armed groups to help avoid deaths from preventable diseaseThe death rate of the Ebola outbreak in the Democratic Republic of the Congo is between 30% and 50%, the World Health Organization has said, as its head arrived in the country to support efforts to contain the disease.Anaïs Legand, from the WHO’s high threat pathogens team, said the revised death rate estimate is based on confirmed cases",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-05-29",
+      "time": "16:38",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-05-29-fc88798c",
@@ -869,7 +883,7 @@
       "date": "2026-05-28",
       "time": "15:53",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-05-28-1f6e3f3e",
@@ -970,20 +984,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-05-26-af7e0d91",
-      "headline": "Dozens of drones crash into Sydney harbour after light show glitch",
-      "summary": "Vivid Sydney organisers and the UK company behind the drone show blamed it on technical difficulties.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d330wqq2zo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-05-26",
-      "time": "03:44",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-05-25-e699ef63",
       "headline": "Trump tells US negotiators 'not to rush' into deal with Iran",
       "summary": "The deal under discussion would involve a 60-day ceasefire extension during which the Strait of Hormuz would be reopened, according to US media.",
@@ -994,20 +994,6 @@
       "category": "geopolitics",
       "date": "2026-05-25",
       "time": "04:16",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-05-25-e3b51e09",
-      "headline": "More than 1.5m foreign pilgrims begin Hajj despite Iran war fears",
-      "summary": "Saudi Arabia says that is 11,000 more than the number of Muslims who travelled to the Gulf kingdom last year.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy22jx03ryo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-05-25",
-      "time": "20:11",
       "conflict_id": null,
       "score": 43.0
     }
