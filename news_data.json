@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-02T21:29:16.236965+00:00",
-  "story_count": 77,
-  "source_count": 8,
+  "updated": "2026-06-02T23:14:44.408717+00:00",
+  "story_count": 72,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-06-02-d1c1080e",
@@ -32,20 +32,6 @@
       "score": 57.0
     },
     {
-      "id": "2026-06-02-a0584fc5",
-      "headline": "Trump taps housing official Bill Pulte to be US spymaster",
-      "summary": "The head of the Federal Housing Finance Agency, who pushed for criminal charges against Trump's foes, will step in as acting Director of National Intelligence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cyv2dpyz3dpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-02",
-      "time": "20:36",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-06-02-ee41132d",
       "headline": "Ukraine rescuers pull dead from rubble after Russian strikes kill 22 people",
       "summary": "An eight-year-old boy killed in a strike on an apartment block are among the dead, officials say.",
@@ -60,34 +46,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-02-5e0ae2e7",
-      "headline": "Trump appoints real estate heir Bill Pulte as national intelligence chief",
-      "summary": "Housing industry executive and staunch ally of the president to take up role in acting capacity",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e9c93603-3793-436f-a4f1-34ecd2b3fb9b",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-02",
-      "time": "15:06",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-06-02-910e1c02",
-      "headline": "What to watch in Tuesday’s US primary elections",
-      "summary": "Votes from California to Iowa offer gauge of Americans’ mood and their appetite for more Maga",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4ebd6b00-07f6-40c6-aed1-67d3a3c93bb6",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-06-02",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
       "id": "2026-06-02-425fa364",
       "headline": "Why the U.S.-Iran Negotiations Are Taking So Long",
       "summary": "As negotiations to end the war in Iran drag on, our reporter David E. Sanger describes the factors that are complicating any agreement.",
@@ -98,34 +56,6 @@
       "category": "geopolitics",
       "date": "2026-06-02",
       "time": "21:01",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-06-02-123beca2",
-      "headline": "Trump Names Bill Pulte as Acting Director of National Intelligence",
-      "summary": "Bill Pulte, a Trump loyalist who leads the federal housing finance agency, will oversee the U.S. intelligence agencies. He has no known background in intelligence.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/bill-pulte-acting-director-national-intelligence.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-02",
-      "time": "20:57",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-06-02-5de2150c",
-      "headline": "What to Watch in Tuesday’s Primary Elections in Iowa, Montana and Beyond",
-      "summary": "Democrats have a competitive Senate primary race in Iowa, where the party is hoping to make gains, while a smokejumper is running in a contested House primary in Montana.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/iowa-montana-primary-election-midterms.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-06-02",
-      "time": "17:46",
       "conflict_id": null,
       "score": 41.2
     },
@@ -200,6 +130,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-02-a3590553",
+      "headline": "US says it fired missile at Iran-bound oil tanker",
+      "summary": "The US military says the vessel's engine room was hit after the crew \"ignored repeated warnings\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yx135yg53o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-02",
+      "time": "21:49",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-02-a0584fc5",
+      "headline": "Trump taps housing official Bill Pulte to be US spymaster",
+      "summary": "The head of the Federal Housing Finance Agency, who pushed for criminal charges against Trump's foes, will step in as acting Director of National Intelligence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cyv2dpyz3dpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-02",
+      "time": "20:36",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-02-075f192d",
       "headline": "Denmark's Mette Frederiksen to form government after months of negotiations",
       "summary": "The leader of Denmark's Social Democratic Party is forming a centre-left coalition minority government, giving her a third term as prime minister.",
@@ -226,6 +184,20 @@
       "time": "07:31",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-06-02-5e0ae2e7",
+      "headline": "Trump appoints real estate heir Bill Pulte as national intelligence chief",
+      "summary": "Housing industry executive and staunch ally of the president to take up role in acting capacity",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e9c93603-3793-436f-a4f1-34ecd2b3fb9b",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-02",
+      "time": "22:05",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-06-02-94ff5889",
@@ -256,32 +228,74 @@
       "score": 34.1
     },
     {
-      "id": "2026-06-02-2d6da2ce",
-      "headline": "Rubio to Testify Before Senate, Arguing for Budget Amid Iran War and Pressure on Cuba",
-      "summary": "The secretary of state has played a key role in the Iran deliberations, as well as in U.S. policy toward Cuba.",
+      "id": "2026-06-02-ac1dcb38",
+      "headline": "Bruce Crandall, Part of a Heroic Rescue Mission in Vietnam, Dies at 93",
+      "summary": "“Fourteen times he flew into what they called the valley of death,” President George W. Bush said in awarding him the Medal of Honor in 2007.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/02/us/politics/marco-rubio-senate-budget-iran-cuba.html",
-      "region": "NA",
-      "country": "Senate",
+      "url": "https://www.nytimes.com/2026/06/02/us/bruce-crandall-dead.html",
+      "region": "APJ",
+      "country": "Vietnam",
       "category": "geopolitics",
       "date": "2026-06-02",
-      "time": "14:51",
+      "time": "22:35",
       "conflict_id": null,
       "score": 33.2
     },
     {
-      "id": "2026-06-02-b3b76d6d",
-      "headline": "California Primary Elections: What to Watch in the Governor’s Race, L.A. Mayoral Race and More",
-      "summary": "The race to replace Gov. Gavin Newsom has been unpredictable for months, while Mayor Karen Bass of Los Angeles is trying to fend off two challengers.",
+      "id": "2026-06-02-a0dd5f98",
+      "headline": "Who Can Vote for Mayor of Los Angeles?",
+      "summary": "Many residents in the region mistakenly think the mayor is their leader.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/02/us/elections/california-primary-what-to-watch.html",
+      "url": "https://www.nytimes.com/2026/06/02/us/politics/la-mayor-vote.html",
       "region": "NA",
       "country": null,
       "category": "politics",
       "date": "2026-06-02",
-      "time": "09:02",
+      "time": "22:31",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-06-02-7c2d5689",
+      "headline": "In Cedar Rapids, a Voter Expects — and Receives — Personal Attention",
+      "summary": "A Democratic voter was leaning toward Zach Wahls in the Senate primary. A visit from Josh Turek made her think twice. Then came a call from Mr. Wahls.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/02/us/politics/turek-wahls-voter-iowa-senate-primary.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-06-02",
+      "time": "22:00",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-06-02-46891f1e",
+      "headline": "G.O.P. Works to Jump-Start Immigration Bill After Trump Retreat on Fund",
+      "summary": "Republicans hoped the acting attorney general’s vow that the administration was “not moving forward” with a fund for people claiming to be victimized by the government would unlock the votes.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/02/us/politics/trump-fund-thune.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-02",
+      "time": "22:47",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-06-02-9377b880",
+      "headline": "Los Angeles mayor faces a TV star and a former ally. See primary results live.",
+      "summary": "Latest Los Angeles mayor primary results as incumbent Karen Bass seeks reelection in a tight race with candidates Nithya Raman and Spencer Pratt.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/elections/2026/06/02/la-mayor-primary-live-results-karen-bass-faces-spencer-pratt-nithya-raman/",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-02",
+      "time": "15:56",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-06-02-14de7be1",
@@ -312,23 +326,9 @@
       "score": 32.0
     },
     {
-      "id": "2026-06-02-f6825ba4",
-      "headline": "Politics live: Australia always preferred secondhand Aukus submarines, defence secretary says",
-      "summary": "Senate estimates told it was a ‘joint idea’ to rework the nuclear submarine deal. Follow today’s news live Get our breaking news email, free app or daily news podcast‘Individuals will have their views’, Wong brushes off Husic’s Aukus callThe foreign minister, Penny Wong, has brushed off concerns from Labor MP Ed Husic, who has called for a rethink of the Aukus pact, and says the government still believes the deal with the US and the UK is the bes",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jun/03/politics-live-australia-aukus-submarines-pauline-hanson-anthony-albanese-angus-taylor-question-time-senate-estimates-labor-one-nation-coaliton-ntwnfb",
-      "region": "NA",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-06-02",
-      "time": "21:09",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-06-02-299e2e32",
       "headline": "Sarah was amused by the quicksand she stepped in on a South Australian beach. Then ‘reality set in’",
-      "summary": "Joy turned to panic as Sarah and her dog sank quickly. She thought ‘this is not how I’m going to go’Get our breaking news email, free app or daily news podcast“I’ve literally had my real, live Indiana Jones moment,” Sarah Darbyshire says of the frightening moment she and her dog stumbled into quicksand.The Holdfast Bay council has put up signs warning about the treacherous, liquefied patch on Glenelg North beach in South Australia. Continue readi",
+      "summary": "Joy turned to panic as Sarah and her dog sank quickly. She thought ‘this is not how I’m going to go’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcast“I’ve literally had my real, live Indiana Jones moment,” Sarah Darbyshire says of the frightening moment she and her dog stumbled into quicksand.The Holdfast Bay council has put up signs warning about the treacherous, liquefied patch on ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jun/03/woman-dog-quicksand-australia-beach",
       "region": "APJ",
@@ -352,20 +352,6 @@
       "time": "09:06",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-02-e6606ce9",
-      "headline": "What to know about Tuesday’s primaries in California, New Jersey, Montana",
-      "summary": "Voters in six US states are casting primary ballots that will set the battle lines for November&#039;s midterm elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/2/what-to-know-about-tuesdays-primaries-in-california-new-jersey-montana?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-02",
-      "time": "19:58",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-06-02-0366e73c",
@@ -522,6 +508,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-02-7aef4ffe",
+      "headline": "Venezuela Moves to Open Power Sector to Private Investment",
+      "summary": "Venezuela’s National Assembly debated a reform that would open the country’s electricity sector to private investment, allowing companies to generate, distribute and sell power under government concessions after more than 15 years of state control.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-02/venezuela-moves-to-open-power-sector-to-private-investment",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-06-02",
+      "time": "19:48",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-02-bf2f9098",
+      "headline": "Anthopic, OpenAI Should Not Be Allowed to IPO, Says Ed Zitron",
+      "summary": "Ed Zitron, CEO at EZ Primary Research, said that the risk of balancing the equity market on record public offerings for AI companies that have never reported profit is a dangerous proposition and that those companies should not be allowed to IPO. Zitron, an AI skeptic, said that many of these companies will not last in the long term. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-02/anthopic-openai-should-not-be-allowed-to-ipo-zitron-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-02",
+      "time": "21:24",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-02-412116e3",
       "headline": "How China’s Wealthy Sidestep Strict Rules to Get Money Out of the Country",
       "summary": "China’s capital controls remain among the world’s strictest. Individuals are generally limited to transferring $50,000 overseas each year, while emigrants are given a one-time opportunity to move their assets abroad.",
@@ -550,20 +564,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-02-c0dc8a00",
-      "headline": "Short-Sellers Are Dug In as Bond Market Faces Big Payrolls Test",
-      "summary": "Bond traders are locked in to wagers on higher yields even after paring some of their more extreme positions, with critical US employment data due on Friday that may add to the argument for Federal Reserve interest-rate hikes.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/short-sellers-are-dug-in-as-bond-market-faces-big-payrolls-test",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-02",
-      "time": "20:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-02-fd9abdfd",
       "headline": "UBS Sells $1.5 Billion AT1, First Since Swiss Reform Pause",
       "summary": "UBS Group AG raised $1.5 billion of Additional Tier 1 capital in US dollars, its first foray into the market since Switzerland paused plans to tighten rules on the riskiest type of bank debt.",
@@ -574,34 +574,6 @@
       "category": "business",
       "date": "2026-06-02",
       "time": "08:50",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-02-7aef4ffe",
-      "headline": "Venezuela Moves to Open Power Sector to Private Investment",
-      "summary": "Venezuela’s National Assembly will debate a reform that would open the country’s electricity sector to private investment, allowing companies to generate, distribute and sell power under government concessions after more than 15 years of state control.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/venezuela-moves-to-open-power-sector-to-private-investment",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "business",
-      "date": "2026-06-02",
-      "time": "19:48",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-02-6f43b45a",
-      "headline": "Traders Most Bullish Yuan in 15 Years on Global Role, Valuation",
-      "summary": "Traders ramped up wagers on a stronger yuan in the coming year, betting that increased global usage and an attractive valuation will guide China’s currency through near-term speed bumps.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-02/traders-most-bullish-yuan-in-15-years-on-global-role-valuation",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-06-02",
-      "time": "19:22",
       "conflict_id": null,
       "score": 26.1
     },
@@ -620,6 +592,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-06-02-60c1de46",
+      "headline": "‘Gateway to full scale fracking’: Santos could drill for new gas in Northern Territory within weeks",
+      "summary": "Finocchiaro government grants approval for up to 12 wells in Beetaloo basinFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastSantos could begin new drilling for gas in the Northern Territory’s Beetaloo basin within weeks after the Finocchiaro government granted approval for up to 12 wells.The decision, published late last month, has prompted calls from environment groups for the feder",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/03/santos-could-drill-for-new-gas-in-beetaloo-basin-within-weeks-as-murray-watt-urged-to-do-his-job",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-06-02",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-06-02-93dfe929",
       "headline": "Inside the billion-dollar business of getting a visa",
       "summary": "An investigation reveals how visa giant VFS Global profits from millions of visa applications from the Global South.",
@@ -632,48 +618,6 @@
       "time": "19:43",
       "conflict_id": null,
       "score": 23.4
-    },
-    {
-      "id": "2026-06-02-87461e9f",
-      "headline": "China opens its markets to African exports. Who benefits?",
-      "summary": "China&#039;s tariff-free access for many African products has renewed hopes of industrial growth. But trade remains uneven.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/counting-the-cost/2026/6/2/china-opens-its-markets-to-african-exports-who-benefits?traffic_source=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-06-02",
-      "time": "16:30",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-06-02-2807562b",
-      "headline": "Intisar Shanib becomes first woman to head football club in Libya",
-      "summary": "Shanib has been appointed as the president of Darnes Sports Club, a prominent football club in Libya&#039;s Derna city.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/2/intisar-shanib-first-woman-to-become-president-of-libyan-sports-club?traffic_source=rss",
-      "region": "MENA",
-      "country": "Libya",
-      "category": "politics",
-      "date": "2026-06-02",
-      "time": "16:26",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-06-02-011459bc",
-      "headline": "How China's Anta joined Nike and Adidas on the world sportswear podium",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/business-asia/how-china-s-anta-joined-nike-and-adidas-on-the-world-sportswear-podium2",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-06-02",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
     },
     {
       "id": "2026-06-02-38e63574",
@@ -718,34 +662,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-02-d31cd637",
-      "headline": "South Korea's conservative fortress becomes an election battleground",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/south-korea-s-conservative-fortress-becomes-an-election-battleground",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "politics",
-      "date": "2026-06-02",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-02-fa7677bb",
-      "headline": "Bangladesh tilts to China as India water-sharing impasse deepens",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/bangladesh-tilts-to-china-as-india-water-sharing-impasse-deepens",
-      "region": "SA",
-      "country": "Bangladesh",
-      "category": "geopolitics",
-      "date": "2026-06-02",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-06-02-cf60397a",
       "headline": "European Commission is set to criticise Italy for weak industrial strategy",
       "summary": "The Commission will criticise Italy’s lack of robust industrial plans and calls for measures to incentivise investment in capital markets as well as reform of tax system, in country-specific recommendations to be published tomorrow.",
@@ -772,6 +688,20 @@
       "time": "15:24",
       "conflict_id": null,
       "score": 21.0
+    },
+    {
+      "id": "2026-06-01-bfef0d9e",
+      "headline": "Trump administration will abide by ruling halting $1.8bn 'anti-weaponisation' fund",
+      "summary": "The justice department says it  \"disagrees strongly\" with a court decision to halt the establishment of the fund.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/crkpyj41m15o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-01",
+      "time": "23:03",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-06-01-4bd9fde9",
@@ -868,20 +798,6 @@
       "category": "business",
       "date": "2026-06-01",
       "time": "23:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-01-73eb327b",
-      "headline": "Oil Swings Higher as Traders Weigh Prospects of US-Iran Deal",
-      "summary": "Oil edged higher as traders parsed discordant signals on the prospects of a US-Iran peace deal.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-01/latest-oil-market-news-and-analysis-for-june-2",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-06-01",
-      "time": "22:01",
       "conflict_id": null,
       "score": 26.1
     },
@@ -1080,6 +996,20 @@
       "time": "13:15",
       "conflict_id": "israel-hamas",
       "score": 55.0
+    },
+    {
+      "id": "2026-05-27-a5010385",
+      "headline": "Bolivian Congress allows deployment of troops to quell protests",
+      "summary": "Lawmakers who back the measure say it is key to restoring normality after four weeks of road blocks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c8932y4d4w7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-05-27",
+      "time": "11:34",
+      "conflict_id": null,
+      "score": 27.0
     }
   ]
 }
