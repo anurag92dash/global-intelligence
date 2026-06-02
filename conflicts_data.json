@@ -7,8 +7,13 @@
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
     "status_signal": "stable",
-    "last_activity": "2026-05-28",
+    "last_activity": "2026-06-02",
     "recent_headlines": [
+      {
+        "headline": "Four dead and several injured after massive Russian strikes across Ukraine",
+        "source": "BBC News",
+        "date": "2026-06-02"
+      },
       {
         "headline": "Learning from Ukraine war, Hezbollah is now using fibre-optic drones to hit Israel",
         "source": "BBC News",
@@ -46,23 +51,23 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "escalating",
+    "status_signal": "stable",
     "last_activity": "2026-06-01",
     "recent_headlines": [
-      {
-        "headline": "Iran warns Israeli attacks in Lebanon and Gaza threaten US ceasefire talks",
-        "source": "Al Jazeera",
-        "date": "2026-06-01"
-      },
-      {
-        "headline": "Australia politics live: Chalmers says economic woes driving voters to One Nation; Wong sanctions Israelis over West Bank violence",
-        "source": "The Guardian",
-        "date": "2026-06-01"
-      },
       {
         "headline": "Is the US-backed Gaza peace process in serious danger?",
         "source": "Al Jazeera",
         "date": "2026-06-01"
+      },
+      {
+        "headline": "Netanyahu says he has directed IDF to increase control of Gaza to 70%",
+        "source": "BBC News",
+        "date": "2026-05-29"
+      },
+      {
+        "headline": "Gaza City hospitals say several killed in strike, as Israel targets Hamas leaders",
+        "source": "BBC News",
+        "date": "2026-05-28"
       }
     ],
     "timeline": [
