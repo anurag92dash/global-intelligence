@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-05T20:19:40.312115+00:00",
+  "updated": "2026-06-05T21:51:29.987894+00:00",
   "story_count": 69,
-  "source_count": 9,
+  "source_count": 8,
   "stories": [
     {
       "id": "2026-06-05-5ab38562",
@@ -32,20 +32,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-06-05-2ce44d6e",
-      "headline": "Zelenskyy to meet Macron, Merz and Starmer in London on Sunday, France says",
-      "summary": "Ukraine recaptured more territory than it lost to Russian forces in May for the second straight month, an analysis of data from the Institute for the Study of War carried out by the AFP news agency showed earlier this month.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/05/zelenskyy-to-meet-macron-merz-and-starmer-in-london-on-sunday-france-says",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "15:20",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
-    },
-    {
       "id": "2026-06-05-5dca56f8",
       "headline": "Investors boost bets for Fed rate rise after bumper US jobs report",
       "summary": "World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’",
@@ -57,7 +43,21 @@
       "date": "2026-06-05",
       "time": "20:07",
       "conflict_id": null,
-      "score": 42.4
+      "score": 50.4
+    },
+    {
+      "id": "2026-06-05-74bb70c2",
+      "headline": "‘Pervasive fear’ grips Gaza as Israeli attacks persist despite ceasefire",
+      "summary": "A drone attack killed a young woman and injured 15 others near Khan Younis, reported the Wafa news agency.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/5/pervasive-fear-grips-gaza-as-israeli-attacks-persist-despite-ceasefire?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-05",
+      "time": "20:17",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-06-05-ae5b3c01",
@@ -116,32 +116,60 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-05-06c325ac",
-      "headline": "Steve Hilton, Tory aide turned California’s would-be governor",
-      "summary": "The expat David Cameron adviser is seeking to follow in Arnold Schwarzenegger’s footsteps",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/71bf3c6c-d029-4304-9d75-1172f49df6af",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "16:17",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
       "id": "2026-06-05-57a08964",
       "headline": "Inside the CBS mutiny against Bari Weiss and David Ellison",
-      "summary": "A saga that started with Donald Trump’s assault on ‘60 Minutes’ has turned into a full-blown crisis",
+      "summary": "A saga that started with Trump’s assault on ‘60 Minutes’ has turned into a full-blown crisis",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/6b54109c-cc81-4b2c-961d-9ef91b38aa4c",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-06-05",
-      "time": "04:00",
+      "time": "20:22",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-06-05-43118d74",
+      "headline": "Top Goldman lawyer Ruemmler to remain with bank despite Epstein ties",
+      "summary": "General counsel resigned after revelations about relationship with disgraced financier but now will stay on as adviser",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4d802a0e-32c2-49c3-aa57-d50afd123938",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-05",
+      "time": "20:53",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-06-05-dabad115",
+      "headline": "Canada’s TerraVest Slides as Warrant Alleges Insider Tipping",
+      "summary": "Shares of Canadian manufacturer TerraVest Industries Inc. closed down the most since 2011 over allegations of insider tipping by its executive chairman.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/canada-s-terravest-slides-as-chairman-pellerin-accused-of-insider-tipping",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-06-05",
+      "time": "17:35",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-06-05-e3b40406",
+      "headline": "Emerging-Market Currencies Plunge on Blowout US Jobs Report",
+      "summary": "Currencies in the developing world sank after a blowout US jobs report provided the clearest sign yet that the labor market is breaking out of a prolonged period of lackluster hiring, undercutting the case for rate cuts from the Federal Reserve.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/em-stocks-currencies-dragged-down-by-korean-market-selloff",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-05",
+      "time": "07:14",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-06-05-bf33fd75",
@@ -168,20 +196,6 @@
       "category": "business",
       "date": "2026-06-05",
       "time": "19:14",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-06-05-95774e87",
-      "headline": "Bloomberg Editors on Tech Trends",
-      "summary": "Bloomberg's Brody Ford, Enterprise Reporter, Sarah Frier, Managing Editor, Rachel Metz, AI Reporter and Jillian Ward, Executive Editor, U.S. Technology discuss newsroom insights, reporting priorities and tech trends at Bloomberg Tech 2026 in San Francisco.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-05/bloomberg-editors-on-tech-trends-video",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "18:50",
       "conflict_id": null,
       "score": 34.1
     },
@@ -242,6 +256,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-06-05-923afa28",
+      "headline": "Zelenskyy: Putin choosing war by rejecting offer for in-person talks",
+      "summary": "Russian President Vladimir Putin has turned down an offer for in-person talks with the Ukrainian President.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/5/zelenskyy-putin-choosing-war-by-rejecting-offer-for-in-person-talks?traffic_source=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-05",
+      "time": "20:36",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-06-05-81183332",
       "headline": "China's Xi to visit North Korea next week, first time since 2019",
       "summary": "",
@@ -254,48 +282,6 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
-    },
-    {
-      "id": "2026-06-05-deebbb4f",
-      "headline": "Albania's Edi Rama tells Euronews there is 'no alternative' to EU accession",
-      "summary": "In a wide-ranging interview with Euronews, Albanian Prime Minister Edi Rama said there is no alternative for his country to EU accession. He also warned about the risks posed by anti-EU forces and “third actors” operating in the Western Balkans.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/05/albanias-edi-rama-tells-euronews-there-is-no-alternative-to-eu-accession",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-05",
-      "time": "16:29",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-06-05-aa842850",
-      "headline": "Rama alleges 'hybrid war' behind protests against Kushner-linked coastal development",
-      "summary": "The luxury venture, spanning a protected island and a stretch of seafront on the southern coast, has drawn opposition from environmental campaigners and critics of Prime Minister Edi Rama, who sees external interference.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/05/rama-alleges-hybrid-war-behind-protests-against-kushner-linked-coastal-development",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-05",
-      "time": "14:49",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-06-05-795a93e5",
-      "headline": "Why Portugal loses 'about half of its lifeguards' each beach season",
-      "summary": "Portugal’s lifeguards' federation warns of too few lifeguards patrolling beaches, blaming low pay, poor job security and lack of strategy.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/05/why-portugal-loses-about-half-of-its-lifeguards-each-beach-season",
-      "region": "EU",
-      "country": "Portugal",
-      "category": "business",
-      "date": "2026-06-05",
-      "time": "13:14",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-06-05-016aaf48",
@@ -335,7 +321,7 @@
       "country": null,
       "category": "business",
       "date": "2026-06-05",
-      "time": "20:03",
+      "time": "20:48",
       "conflict_id": null,
       "score": 26.4
     },
@@ -354,16 +340,30 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-05-83440499",
-      "headline": "Pugilistic Florida billionaire plots law firm stake sale to private equity",
-      "summary": "Move by largest US personal injury firm could cement buyout groups’ arrival in a sector that has long been off-limits",
+      "id": "2026-06-05-6cabf13f",
+      "headline": "Trump says US may take equity stakes in AI companies",
+      "summary": "President suggests ‘partnership’ will ease voter concerns about the technology ahead of November’s midterm elections",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/ac309e7b-b5eb-43d4-a668-d9090b2bceaa",
+      "url": "https://www.ft.com/content/b1ab6106-77e6-4218-9eb4-e44bd56ca400",
       "region": "NA",
-      "country": null,
+      "country": "Trump",
       "category": "politics",
       "date": "2026-06-05",
-      "time": "14:14",
+      "time": "20:22",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-05-ac036f1c",
+      "headline": "SpaceX signs $30bn deal to lease computing capacity to Google",
+      "summary": "Agreement comes ahead of a record-breaking initial public offering for Elon Musk’s rockets-to-AI conglomerate",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/77982a06-7d75-45a4-a64f-f8dc89a6a626",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-05",
+      "time": "21:21",
       "conflict_id": null,
       "score": 26.4
     },
@@ -391,7 +391,7 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-06-05",
-      "time": "18:56",
+      "time": "20:42",
       "conflict_id": null,
       "score": 25.2
     },
@@ -448,6 +448,20 @@
       "category": "politics",
       "date": "2026-06-05",
       "time": "13:10",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-06-05-30114262",
+      "headline": "House Passes Ukraine Aid in Defiance of Republican Leaders",
+      "summary": "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president’s foreign policy agenda.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-06-05",
+      "time": "08:05",
       "conflict_id": null,
       "score": 25.2
     },
@@ -620,20 +634,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-04-b0110440",
-      "headline": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
-      "summary": "BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-04",
-      "time": "11:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-04-d113b0e9",
       "headline": "Miracle on Everest: Guide believed dead spotted crawling down ice",
       "summary": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
@@ -660,20 +660,6 @@
       "time": "23:15",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-06-04-1781e3d5",
-      "headline": "Postal Service Frees Up Enough Cash to Keep Operating for ‘Several Years’",
-      "summary": "The agency had warned it could run out of money within months, but its regulators said suspending payments to a retirement fund had given officials more time to find a permanent solution.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/04/us/politics/postal-service-finances.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-04",
-      "time": "21:30",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-06-04-fa714d1d",
@@ -732,20 +718,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-04-4314683f",
-      "headline": "Private Credit Deterioration Slow, Contained: Robson",
-      "summary": "Meghan Robson, head of US credit strategy at BNP Paribas, and Sonali Pier, portfolio manager: multi-sector credit at PIMCO, join Katie Greifeld on \"Bloomberg Real Yield.\" Cliffwater, Blackstone, and Partners Group all capped certain fund redemptions this week. The moves put private markets back into the spotlight. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-04/private-credit-deterioration-slow-contained-robson-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-04",
-      "time": "20:41",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-04-489be620",
       "headline": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across USCanada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales, ending a saga that has captivated the public and angered animal rights groups.The federal fisheries ministry announced this week that all of Marineland’s belugas would be shipped to either Spain or one of four locations in the US, end",
@@ -772,6 +744,20 @@
       "time": "16:38",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-03-70f39b5f",
+      "headline": "'Crazy' phone call between Trump and Netanyahu complicates Iran talks",
+      "summary": "Israel's PM laughed off reports of friction, but he has tested the patience of other US presidents.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgz21pq3g6o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-03",
+      "time": "20:28",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-06-03-b725e5eb",
@@ -898,6 +884,20 @@
       "time": "21:50",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-06-01-f0c4f842",
+      "headline": "Typhoon Jangmi threatens Japan as Europe swelters",
+      "summary": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40CA powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed within the monsoonal gyre over the Philippine Sea.A monsoonal gyre is a large, slow-rotating weather system that spawns typhoons through smaller vortices for",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
+      "region": "EU",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-06-01",
+      "time": "07:17",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-06-01-d6722c42",
