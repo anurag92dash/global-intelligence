@@ -1,21 +1,35 @@
 {
-  "updated": "2026-06-05T18:17:58.038413+00:00",
-  "story_count": 71,
+  "updated": "2026-06-05T20:19:40.312115+00:00",
+  "story_count": 69,
   "source_count": 9,
   "stories": [
     {
-      "id": "2026-06-05-df0be1cd",
-      "headline": "Zelensky proposes face-to-face talks in open letter to Putin",
-      "summary": "Ukraine's president tells the Russian leader that only \"direct engagement\" between the two countries could end the war, with the US focused on Iran.",
+      "id": "2026-06-05-5ab38562",
+      "headline": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
+      "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy2ypyp4x4o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cpqpqx5qe40o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-06-05",
-      "time": "08:03",
+      "time": "18:16",
       "conflict_id": "ukraine-war",
-      "score": 55.0
+      "score": 63.0
+    },
+    {
+      "id": "2026-06-05-022005aa",
+      "headline": "Russia’s Putin says ‘no point’ meeting Ukraine’s Zelenskyy for now",
+      "summary": "The Russian leader insisted military action would only stop after Moscow achieves its &#039;goals&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/5/russias-putin-says-no-point-meeting-ukraines-zelenskyy-for-now?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-05",
+      "time": "18:04",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
     },
     {
       "id": "2026-06-05-2ce44d6e",
@@ -32,18 +46,32 @@
       "score": 49.0
     },
     {
-      "id": "2026-06-05-7759ed2e",
-      "headline": "Are the US and Iran closer to war or to a deal?",
-      "summary": "As US and Iran pursue talks, both signal they are still ready to use force against each other.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/are-us-and-iran-closer-to-war-or-to-a-deal?traffic_source=rss",
+      "id": "2026-06-05-5dca56f8",
+      "headline": "Investors boost bets for Fed rate rise after bumper US jobs report",
+      "summary": "World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ab37709f-9b5e-493c-902c-a87cba23b493",
       "region": "NA",
-      "country": "Iran",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-05",
+      "time": "20:07",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-06-05-ae5b3c01",
+      "headline": "Is the latest US ceasefire deal for Lebanon meaningless?",
+      "summary": "Israel and Hezbollah continue fighting after truce announcement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-06-05",
-      "time": "14:33",
+      "time": "18:45",
       "conflict_id": null,
-      "score": 47.4
+      "score": 39.4
     },
     {
       "id": "2026-06-05-27d0b4a9",
@@ -56,20 +84,6 @@
       "category": "geopolitics",
       "date": "2026-06-05",
       "time": "17:54",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-06-05-be7734ee",
-      "headline": "Israel maintains attacks despite US-brokered deal with Lebanon",
-      "summary": "The Israeli army also issues new forced displacement orders for several towns and villages in southern Lebanon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/5/israel-maintains-attacks-despite-us-brokered-deal-with-lebanon?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "13:43",
       "conflict_id": null,
       "score": 39.4
     },
@@ -88,16 +102,30 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-05-5dca56f8",
-      "headline": "Investors boost bets for Fed rate rise after bumper US jobs report",
-      "summary": "World’s biggest economy adds 172,000 jobs in May in sign labour market is ‘turning the corner’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ab37709f-9b5e-493c-902c-a87cba23b493",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "id": "2026-06-05-cf9a0a76",
+      "headline": "Hezbollah rejects renewed ceasefire agreed by Israel and Lebanon",
+      "summary": "The United States announced the ceasefire agreement on Wednesday night following a fresh round of talks.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c052343r812o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "United States",
+      "category": "geopolitics",
       "date": "2026-06-05",
-      "time": "16:19",
+      "time": "01:44",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-05-06c325ac",
+      "headline": "Steve Hilton, Tory aide turned California’s would-be governor",
+      "summary": "The expat David Cameron adviser is seeking to follow in Arnold Schwarzenegger’s footsteps",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/71bf3c6c-d029-4304-9d75-1172f49df6af",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-05",
+      "time": "16:17",
       "conflict_id": null,
       "score": 34.4
     },
@@ -116,58 +144,44 @@
       "score": 34.4
     },
     {
-      "id": "2026-06-05-5c8420d0",
-      "headline": "Morgan Stanley Sees AI-Related Funding Expanding to 15% of All Credit Deals",
-      "summary": "Scott Goodwin, co-founder and managing partner at Diameter Capital Partners, says that business development companies will face pressure to sell their highest-quality loans to software companies at a discount as banks tighten their grip on the private credit funds. Goodwin speaks with Bloomberg TV's Dani Burger at the Bloomberg Global Credit Forum in New York on June 3. (Source: Bloomberg)",
+      "id": "2026-06-05-bf33fd75",
+      "headline": "US Bonds Slide as Strong Jobs Data Fuels Bets on 2026 Fed Hike",
+      "summary": "Bond traders fully priced in a Federal Reserve interest-rate hike by the end of this year after US job growth topped all forecasts in May, spurring yields higher in the $31 trillion Treasuries market.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-05/diameter-s-goodwin-aims-to-buy-loans-from-struggling-bdc-video",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "15:12",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-06-05-cf4c2dd4",
-      "headline": "Credit Titans Warn of Shakeout on Debt Deals That ‘Don’t Make Sense’",
-      "summary": "Davidson Kempner's Suzanne Gibbons, Glendon Capital's Holly Kim, Sculptor Capital's Brett Klein and Matthew Rahmani of Perella Weinberg speak with Bloomberg News' Irene Garcia Perez on how credit markets are navigating heightened volatility, higher-for-longer interest rates and the credit market's ``cockroach'' problem at Bloomberg's Global Credit Forum in New York on June 3. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-05/debt-deals-that-don-t-make-sense-poised-for-shakeout-video",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/traders-fully-price-in-fed-rate-hike-this-year-after-jobs-data",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-06-05",
-      "time": "14:45",
+      "time": "12:47",
       "conflict_id": null,
       "score": 34.1
     },
     {
-      "id": "2026-06-05-8b4ea5c9",
-      "headline": "TAG Immobilien Is Said to Eye Polish IPO Kickoff in Coming Weeks",
-      "summary": "German real estate group TAG Immobilien AG is considering starting the formal process for a potential initial public offering of its Polish unit Robyg SA in Warsaw as soon as the coming weeks, according to people familiar with the matter.",
+      "id": "2026-06-05-e2afe45f",
+      "headline": "Jobs Report Shocks Wall Street | Open Interest 6/5/2026",
+      "summary": "The May jobs report shocked Wall Street, with the US adding 172,000 jobs and pushing Fed-hike bets higher. Bond yields surged as stocks pulled back and investors leaned out of the AI trade.  White House National Economic Council Director Kevin Hassett and BlackRock Global Fixed Income CIO Rick Rieder react to the numbers. Meanwhile, Revelio Labs CEO Ben Zweig joined \"Bloomberg Open Interest\" to warn about the \"frozen\" labor market and how entry-l",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/tag-immobilien-is-said-to-eye-polish-ipo-kickoff-in-coming-weeks",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/the-open-interest-6-5-2026-video",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-06-05",
+      "time": "19:14",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-06-05-95774e87",
+      "headline": "Bloomberg Editors on Tech Trends",
+      "summary": "Bloomberg's Brody Ford, Enterprise Reporter, Sarah Frier, Managing Editor, Rachel Metz, AI Reporter and Jillian Ward, Executive Editor, U.S. Technology discuss newsroom insights, reporting priorities and tech trends at Bloomberg Tech 2026 in San Francisco.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-05/bloomberg-editors-on-tech-trends-video",
       "region": "NA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-06-05",
-      "time": "15:15",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-06-05-00073c5b",
-      "headline": "EU Calls on Spain to Cut Gas Use for Stability Post-Blackout",
-      "summary": "The European Commission has called on Spain to move away from using gas-fired power plants to stabilize its electricity system after last year’s blackout, saying better grids, interconnections and more storage should replace the emergency measures.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/eu-calls-on-spain-to-lower-gas-reliance-to-stabilize-power-grid",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-06-05",
-      "time": "13:35",
+      "time": "18:50",
       "conflict_id": null,
       "score": 34.1
     },
@@ -184,6 +198,20 @@
       "time": "14:05",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-06-05-48af2ebd",
+      "headline": "US imposes new sanctions on Cuban president and Castro family members",
+      "summary": "US secretary of state Marco Rubio says anyone providing services to listed entities ‘is at risk of sanctions themselves’The United States has announced fresh economic sanctions on Cuba’s president and some of his immediate family, alongside members of the Castro family, in Washington’s latest ramping up of pressure on its communist-led neighbour.Among those targeted were the son and a grandson of former president Raúl Castro, who no longer holds ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/05/us-sanctions-cuba-president-castro-family",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-06-05",
+      "time": "01:07",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-06-05-b0d0c9ce",
@@ -212,20 +240,6 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-05-4266bab9",
-      "headline": "Barcelona teenager Lamine Yamal wins La Liga Player of the Season award",
-      "summary": "Lamine Yamal will be an integral part of Spain&#039;s World Cup 2026 challenge and was key in Barcelona&#039;s La Liga defence.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/5/barcelona-teenager-lamine-yamal-wins-la-liga-player-of-season-award?traffic_source=rss",
-      "region": "EU",
-      "country": "Spain",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "15:05",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-06-05-81183332",
@@ -312,16 +326,30 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-05-95131de1",
-      "headline": "Nasdaq tumbles 3% as shares in chip and memory groups sink",
-      "summary": "Rising expectations of Federal Reserve rate rise send US bond yields rising sharply",
+      "id": "2026-06-05-99982918",
+      "headline": "Nasdaq tumbles 4% as shares in chip and memory groups sink",
+      "summary": "Rising expectations of a Federal Reserve rate increase send US bond yields rising sharply",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/2929bbd3-1f71-4424-a577-f016c3c65603",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-06-05",
-      "time": "17:07",
+      "time": "20:03",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-05-1ac5f163",
+      "headline": "Meta weighs big equity raising after blockbuster Google deal",
+      "summary": "Facebook parent could sell tens of billions of dollars in new stock as it seeks to finance AI infrastructure",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e6df645d-1709-4a77-b15d-aa43a0209efd",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-05",
+      "time": "18:12",
       "conflict_id": null,
       "score": 26.4
     },
@@ -340,20 +368,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-05-a45911e5",
-      "headline": "Trump lawyers refuse to reveal financial information to BBC in $10bn lawsuit",
-      "summary": "Broadcaster has sought documents under subpoena in effort to identify impact of ‘Panorama’ documentary on US president",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d2a04386-82ca-4399-9e0d-0f263c7c7c41",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-05",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-06-05-a5e2b8f5",
       "headline": "US demands tougher rules for car parts in Mexico trade talks",
       "summary": "Washington wants to reduce Chinese supplies from North America’s vehicles while increasing American content",
@@ -368,60 +382,18 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-05-80f6f31b",
-      "headline": "How to Make Sure You Have Enough Money for Retirement",
-      "summary": "How much money do you really need to last for your retirement? It's a question investment professionals deal with on a daily basis. Gabriela Santos, JPMorgan Asset Management chief market strategist for Americas, says as Americans live longer, they have to \"plan to get to and through retirement.\" She appears on the debut episode of \"Bloomberg Money.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-05/how-to-make-sure-you-have-enough-money-for-retirement-video",
+      "id": "2026-06-05-41bb89b8",
+      "headline": "Graham Platner Controversy Deepens Democratic Unease Before Maine Senate Primary",
+      "summary": "The party’s politicians, officials and strategists wrestled with how to respond to new reporting about Graham Platner, with worries rising about his vulnerabilities in a general election.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html",
       "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-06-05",
-      "time": "17:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-05-04817a93",
-      "headline": "TPG, Oaktree, Oak Hill Lead €1 Billion Debt for Evoke Buyout",
-      "summary": "Private lenders including TPG Credit, Oaktree Capital Management and Oak Hill Advisors are set to provide around €1 billion ($1.2 billion) of funding for the acquisition of gambling firm Evoke Plc by Bally’s Intralot.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/tpg-oaktree-oak-hill-lead-1-billion-funding-for-evoke-buyout",
-      "region": "NA",
-      "country": null,
+      "country": "Senate",
       "category": "politics",
       "date": "2026-06-05",
-      "time": "10:25",
+      "time": "18:56",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-05-85317e00",
-      "headline": "AstraZeneca Broadens US Growth Push",
-      "summary": "AstraZeneca CFO Aradhana Sarin discusses how the pharmaceutical company is broadening its US shareholder base and plans to generate $80 Billion in revenue by 2030. She speaks with Bloomberg's Katie Greifeld. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-05/astrazeneca-broadens-us-growth-push-video",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-05",
-      "time": "16:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-05-54e57e5f",
-      "headline": "SpaceX IPO Is Said to Draw More Orders Than Shares Available",
-      "summary": "SpaceX has already received orders for more than the shares available in its $75 billion initial public offering, according to people familiar with the matter, putting the company on the verge of setting the record for the biggest-ever listing.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/spacex-s-75-billion-ipo-draws-more-orders-than-shares-available",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-05",
-      "time": "14:42",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-06-05-b2e57b67",
@@ -452,16 +424,30 @@
       "score": 25.2
     },
     {
-      "id": "2026-06-05-30114262",
-      "headline": "House Passes Ukraine Aid in Defiance of Republican Leaders",
-      "summary": "Eighteen G.O.P. lawmakers broke with their party and joined Democrats to deliver yet another blow to the president’s foreign policy agenda.",
+      "id": "2026-06-05-753eb593",
+      "headline": "Trump Keeps Immunity from I.R.S. Audits, Even as $1.8 Billion Fund Falls Away",
+      "summary": "Even as they rebelled against a $1.8 billion fund for President Trump’s allies, Republicans looked the other way as his administration granted him potentially lucrative tax protections.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/04/us/politics/house-ukraine-aid-russia-republicans.html",
-      "region": "EU",
-      "country": "Ukraine",
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html",
+      "region": "NA",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-06-05",
-      "time": "08:05",
+      "time": "17:01",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-06-05-3868b967",
+      "headline": "Deal to Renew FISA Surveillance Law Falters in the Senate Over Pulte",
+      "summary": "Democrats who had been expected to supply the votes necessary to advance it balked after President Trump named Bill Pulte to head the intelligence apparatus.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/fisa-surveillance-law-senate-pulte-trump.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-06-05",
+      "time": "13:10",
       "conflict_id": null,
       "score": 25.2
     },
@@ -589,21 +575,7 @@
       "date": "2026-06-04",
       "time": "17:50",
       "conflict_id": "israel-hamas",
-      "score": 55.0
-    },
-    {
-      "id": "2026-06-04-e85c15d6",
-      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
-      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-04",
-      "time": "07:49",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 63.0
     },
     {
       "id": "2026-06-04-f6334c16",
@@ -648,6 +620,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-04-b0110440",
+      "headline": "Watch: Lebanon-Israel ceasefire deal made in 'hope rather than expectation'",
+      "summary": "BBC correspondent John Sudworth reports from the Beirut stronghold of Hezbollah support, Dahieh.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/cwy20yggenxo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-06-04",
+      "time": "11:02",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-04-d113b0e9",
       "headline": "Miracle on Everest: Guide believed dead spotted crawling down ice",
       "summary": "Cleaners found Dawa Sherpa crawling towards Base Camp six days after he went missing at a higher altitude.",
@@ -662,9 +648,9 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-04-4df953e6",
-      "headline": "Gold Slumps Most in Two Months as Jobs Fuel Fed Rate-Hike Bets",
-      "summary": "Gold fell the most in more than two months as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates this year, a headwind for the precious metal.",
+      "id": "2026-06-04-9e6ae4f6",
+      "headline": "Gold Erases 2026 Gains as Jobs Report Fuels Fed Rate-Hike Bets",
+      "summary": "Gold erased this year’s gains as robust US jobs data fueled bets that the Federal Reserve will likely raise interest rates in 2026, a headwind for the precious metal.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-04/gold-steadies-as-uncertainty-surrounds-progress-in-us-iran-talks",
       "region": "NA",
@@ -674,6 +660,20 @@
       "time": "23:15",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-06-04-1781e3d5",
+      "headline": "Postal Service Frees Up Enough Cash to Keep Operating for ‘Several Years’",
+      "summary": "The agency had warned it could run out of money within months, but its regulators said suspending payments to a retirement fund had given officials more time to find a permanent solution.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/04/us/politics/postal-service-finances.html",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-04",
+      "time": "21:30",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-06-04-fa714d1d",
@@ -732,16 +732,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-04-2784d24e",
-      "headline": "Nasdaq 100 Sinks 3% as Fed-Hike Wagers Lift Yields: Markets Wrap",
-      "summary": "Wall Street’s historic weekly run came to a halt, with stocks hit by a tech selloff and higher bond yields as a solid jobs report added to bets the Federal Reserve’s next rate move will be a hike.",
+      "id": "2026-06-04-4314683f",
+      "headline": "Private Credit Deterioration Slow, Contained: Robson",
+      "summary": "Meghan Robson, head of US credit strategy at BNP Paribas, and Sonali Pier, portfolio manager: multi-sector credit at PIMCO, join Katie Greifeld on \"Bloomberg Real Yield.\" Cliffwater, Blackstone, and Partners Group all capped certain fund redemptions this week. The moves put private markets back into the spotlight. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/asian-stocks-poised-to-edge-lower-oil-steadies-markets-wrap",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-04/private-credit-deterioration-slow-contained-robson-video",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-06-04",
-      "time": "22:12",
+      "time": "20:41",
       "conflict_id": null,
       "score": 26.1
     },
@@ -886,20 +886,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-01-ee01c68a",
-      "headline": "Iran attacks damage 20 US military sites since start of war, satellite images show",
-      "summary": "Analysts told BBC Verify that Tehran's strikes were more extensive than publicly acknowledged.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2l2yl7r8r2o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-06-01",
-      "time": "05:33",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-06-01-4bd9fde9",
       "headline": "Bowen: Trump needs this war to end but Iran is not backing down",
       "summary": "Under pressure from the polls and Gulf allies, the White House is pushing for a deal but Iran wants concessions, writes BBC's international editor.",
@@ -912,20 +898,6 @@
       "time": "21:50",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-06-01-f0c4f842",
-      "headline": "Typhoon Jangmi threatens Japan as Europe swelters",
-      "summary": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40CA powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed within the monsoonal gyre over the Philippine Sea.A monsoonal gyre is a large, slow-rotating weather system that spawns typhoons through smaller vortices for",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
-      "region": "EU",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-06-01",
-      "time": "07:17",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-06-01-d6722c42",
@@ -995,7 +967,7 @@
       "date": "2026-05-29",
       "time": "09:17",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     }
   ]
 }
