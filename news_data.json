@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-06T10:47:48.294011+00:00",
+  "updated": "2026-06-06T12:02:21.555186+00:00",
   "story_count": 75,
-  "source_count": 10,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-06-06-852a4f8b",
-      "headline": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
-      "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predictCentral Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, west Africa’s 2014-2016 outbreak that killed more than 11,000 people, according to a new analysis by US health officials.The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
-      "region": "NA",
-      "country": null,
+      "id": "2026-06-06-c3f253f9",
+      "headline": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+      "summary": "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "04:21",
-      "conflict_id": null,
-      "score": 56.0
+      "time": "10:52",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
     },
     {
       "id": "2026-06-06-a1ae8abf",
@@ -88,6 +88,20 @@
       "score": 48.9
     },
     {
+      "id": "2026-06-06-852a4f8b",
+      "headline": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+      "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predictCentral Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, west Africa’s 2014-2016 outbreak that killed more than 11,000 people, according to a new analysis by US health officials.The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "04:21",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
       "id": "2026-06-06-52d42c79",
       "headline": "US intercepts Iranian attacks as Israel continues to bomb Lebanon",
       "summary": "US Central Command said seven ballistic missiles were fired towards Kuwait and Bahrain.",
@@ -116,16 +130,16 @@
       "score": 45.0
     },
     {
-      "id": "2026-06-06-ce4d92ff",
-      "headline": "Iran's football team granted visas to enter US for World Cup, officials say",
-      "summary": "The approval comes just 10 days before the Iranian squad's opening match against New Zealand in Los Angeles.",
+      "id": "2026-06-06-83e9776d",
+      "headline": "Iran says staff blocked from entering US after players given World Cup visas",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "New Zealand",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "03:14",
+      "time": "11:56",
       "conflict_id": null,
       "score": 43.0
     },
@@ -158,6 +172,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-06-06-b269d6cc",
+      "headline": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
+      "summary": "The city's governor urges residents to remain indoors for the first time since the beginning of the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cg7498kz808o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "11:37",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-06-8de5683c",
       "headline": "The power games that paved the way for Trump’s World Cup",
       "summary": "Football’s biggest show kicks off next week and the US president means to be its biggest star. But hosts do not make all the rules",
@@ -186,6 +214,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-06-06-5ed9f2b1",
+      "headline": "Paramount Open to Selling Kids Channels to Quell EU Fears Over $110 Billion Warner Deal",
+      "summary": "Paramount Skydance Corp. is prepared &mdash; if necessary &mdash; to divest some children’s TV network assets to help win European Union approval of its $110 billion bid for Warner Bros. Discovery Inc.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/paramount-open-to-divest-kids-tv-assets-in-eu-probe-of-110-billion-warner-deal",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-06-06-8abea4d2",
       "headline": "Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups",
       "summary": "The Texas attorney general has mounted an all-out effort to prove Democratic Hispanic groups have been corrupting elections. Now he could be the beneficiary of his own attacks.",
@@ -200,6 +242,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-06-06-c69c237a",
+      "headline": "On China, Trump picked the right battle but the wrong strategy",
+      "summary": "A long trade war looms. Trump’s scattershot protectionism, chaotic tariffs and belligerence against our natural allies guarantees that US trade policy will remain a hot messWe are in for a long trade war.In the months since “Liberation Day” last year, when Donald Trump let loose a volley of tariffs against imports from everywhere, countries have rushed to build new relationships in the hope of maybe circumventing the US to protect the global trad",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jun/06/us-china-trump-trade-war",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-06-06",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-06-06-a651e8df",
       "headline": "Australian snow season begins amid El Niño fears",
       "summary": "Webcams showed snow blanketing the ground in some areas. In others, it was patchy or nonexistentGet our breaking news email, free app or daily news podcastAustralia’s snow season has officially begun, with resorts predicting a good season despite climactic threats and the cost-of-living crisis.Between 20cm and 40cm of snow fell across the Victorian and New South Wales alps before the long weekend, with the falls bolstered by snowmakers. Continue ",
@@ -212,6 +268,20 @@
       "time": "06:40",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-06-06-e46dd648",
+      "headline": "Cockroach Janta Party rallies at New Delhi for youth protests",
+      "summary": "Protesters call for Education Minister&#039;s resignation after exam scandals, symbolizing a lost faith in India&#039;s system.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/6/youth-led-satire-cockroach-janta-party-protests-exam-system-failures?traffic_source=rss",
+      "region": "SA",
+      "country": "New Delhi",
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "11:07",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-06-8bb76944",
@@ -449,7 +519,7 @@
       "date": "2026-06-05",
       "time": "23:12",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-06-05-5ab38562",
@@ -534,20 +604,6 @@
       "time": "20:42",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-06-05-b273a03e",
-      "headline": "Hegseth takes six of his children to France on official trip",
-      "summary": "The Pentagon says he is covering his family’s travel expenses, but bringing them along could strain his security team during a time of increased threats, officials warned.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/06/05/hegseth-takes-six-his-kids-france-official-trip/",
-      "region": "EU",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "22:56",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-06-05-b0d0c9ce",
@@ -729,7 +785,7 @@
       "date": "2026-06-04",
       "time": "17:50",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 55.0
     },
     {
       "id": "2026-06-04-3af91172",
@@ -844,20 +900,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-04-da2179d7",
-      "headline": "Nasdaq 100 Sinks 5% in AI-Led Rout as Yields Climb: Markets Wrap",
-      "summary": "Wall Street’s historic weekly run came to a halt, with stocks hit by a tech selloff and higher bond yields after a solid jobs report added to bets the Federal Reserve’s next interest-rate move will be a hike.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/asian-stocks-poised-to-edge-lower-oil-steadies-markets-wrap",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-04",
-      "time": "22:12",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-04-8d74ae2d",
       "headline": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
       "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expiredFierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Mogadishu, damaging property and forcing some civilians to flee.In the runup to the fighting, which started on Wednesday afternoon, opposition leaders embedded with militias set up positions in their clan strongholds t",
@@ -884,34 +926,6 @@
       "time": "17:40",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-06-04-820150e2",
-      "headline": "Jamaican police officer charged with murder after woman shot during protest",
-      "summary": "Andrew Wilson appears in court over killing of Latoya Bulgin at protest over a police shooting days earlierAuthorities in Jamaica have taken the rare step of charging a police officer with murder after he was accused of shooting a 45-year-old woman in a case that prompted violent protests.According to the Independent Commission of Investigations (Indecom), Constable Andrew Wilson appeared in court on Wednesday and was denied bail. Another hearing",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/04/jamaica-police-officer-charged-murder-woman-protest",
-      "region": "MENA",
-      "country": "Oman",
-      "category": "politics",
-      "date": "2026-06-04",
-      "time": "16:38",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-06-03-b725e5eb",
-      "headline": "BYD is losing its spark",
-      "summary": "The Chinese EV giant is struggling to stay ahead in an industry defined by software",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/06/03/byd-is-losing-its-spark",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-03",
-      "time": "16:11",
-      "conflict_id": null,
-      "score": 33.8
     },
     {
       "id": "2026-06-03-238094f1",
@@ -954,20 +968,6 @@
       "time": "01:40",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-02-a7b2dfea",
-      "headline": "Clashes continue in Lebanon despite Israel and Hezbollah accepting US partial ceasefire plan",
-      "summary": "A cessation of hostilities between Israel and Hezbollah is seen as crucial to the peace process with Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c202rxp1z15o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-02",
-      "time": "07:31",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-06-02-c907580d",
