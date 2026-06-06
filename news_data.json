@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T17:48:14.384852+00:00",
+  "updated": "2026-06-06T19:01:33.428102+00:00",
   "story_count": 78,
   "source_count": 9,
   "stories": [
@@ -14,20 +14,6 @@
       "category": "geopolitics",
       "date": "2026-06-06",
       "time": "14:38",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
-      "id": "2026-06-06-c3f253f9",
-      "headline": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
-      "summary": "Violence in the West Bank has escalated since Israel began its war on Gaza in 2023.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "10:52",
       "conflict_id": "israel-hamas",
       "score": 59.4
     },
@@ -88,6 +74,34 @@
       "score": 53.0
     },
     {
+      "id": "2026-06-06-5e1e4da1",
+      "headline": "Starmer to host Zelenskyy and EU leaders for Ukraine talks",
+      "summary": "Ukrainian leader will attend UK meeting along with French president and German chancellorKeir Starmer will host Volodymyr Zelenskyy, Emmanuel Macron and Friedrich Merz for talks in Downing Street on Sunday to discuss support for Ukraine.The Ukrainian leader will visit the UK with the French president and German chancellor after a week of heightened hostilities and Vladimir Putin’s rejection of his proposal of face-to-face talks on Moscow’s war. C",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/starmer-to-host-zelenskyy-and-eu-leaders-for-ukraine-talks",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "17:54",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
+    },
+    {
+      "id": "2026-06-06-c3f253f9",
+      "headline": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
+      "summary": "The infant&#039;s mother is in critical condition, with shrapnel close to the heart, according to her husband.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-forces-fatally-shoot-palestinian-infant-wound-parents-in-west-bank?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "10:52",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
       "id": "2026-06-06-f3f99160",
       "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
       "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
@@ -142,20 +156,6 @@
       "time": "10:02",
       "conflict_id": "ukraine-war",
       "score": 49.0
-    },
-    {
-      "id": "2026-06-06-0a4c5838",
-      "headline": "Graham Platner says his past has been ‘weaponized’ at rally in Maine",
-      "summary": "Supporters brush off negative stories about the Democratic Senate candidate and rebut suggestions that he is the wrong person to take on GOP Sen. Susan Collins.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/06/graham-platner-says-his-past-has-been-weaponized-rally-maine/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "01:33",
-      "conflict_id": null,
-      "score": 48.9
     },
     {
       "id": "2026-06-06-c4b3220d",
@@ -228,6 +228,20 @@
       "score": 42.4
     },
     {
+      "id": "2026-06-06-e17d433f",
+      "headline": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says",
+      "summary": "The latest violence between the United States and Iran threatened a cease-fire and risked further stoking tensions in the region.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/05/us/politics/iran-attack-drones-hormuz.html",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "07:22",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-06-06-0652efc0",
       "headline": "Oil tanker owners fear market crash after Iran war drove record profits",
       "summary": "Shipowners ploughed windfall into new vessels and are braced for steep drop in rates if Strait of Hormuz reopens",
@@ -250,20 +264,6 @@
       "region": "NA",
       "country": "Trump",
       "category": "politics",
-      "date": "2026-06-06",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-06-06-3e8d807c",
-      "headline": "On yer bike! Freud and middle-aged men in Lycra",
-      "summary": "The ever-present fear of ridicule among cycling’s weekend warriors tells us a thing or two about human nature",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5f72603d-11a7-4032-a57f-a7a456737a6a",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
       "date": "2026-06-06",
       "time": "04:00",
       "conflict_id": null,
@@ -298,18 +298,32 @@
       "score": 33.2
     },
     {
-      "id": "2026-06-06-41bb89b8",
-      "headline": "Graham Platner Controversy Deepens Democratic Unease Before Maine Senate Primary",
-      "summary": "The party’s politicians, officials and strategists wrestled with how to respond to new reporting about Graham Platner, with worries rising about his vulnerabilities in a general election.",
+      "id": "2026-06-06-0d9b37b6",
+      "headline": "Trump Pardons Stephen Buyer, Former Congressman Convicted of Insider Trading",
+      "summary": "Stephen Buyer, a former Republican representative from Indiana, was convicted of trading stock related to two deals before they were made public.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/05/us/politics/platner-democrats-maine-senate-primary-election.html",
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/trump-pardon-stephen-buyer-insider-trading.html",
       "region": "NA",
-      "country": "Senate",
+      "country": "Congress",
       "category": "politics",
       "date": "2026-06-06",
-      "time": "14:06",
+      "time": "05:32",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-06-06-cd3f0553",
+      "headline": "Trump pardons former GOP congressman convicted of insider trading",
+      "summary": "President Donald Trump issued a full pardon for Steve Buyer, a former Indiana Republican congressman who was convicted of insider trading in 2023.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/06/trump-pardons-former-gop-congressman-convicted-insider-trading/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "18:44",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-06-06-c69c237a",
@@ -422,20 +436,6 @@
       "time": "07:06",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-06-28b75c8e",
-      "headline": "Allegations against Maine Senate candidate plunge Democrats into turmoil",
-      "summary": "Political outsider’s campaign is overshadowed by accusations of inappropriate behaviour",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0b82963a-0225-484f-8b94-012c85c362d5",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-06-06",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-06-06-65c8725e",
@@ -578,6 +578,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-06-06-6244dbfa",
+      "headline": "Japan to label Philippines 'top priority' for oil reserve support",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/japan-to-label-philippines-top-priority-for-oil-reserve-support",
+      "region": "APJ",
+      "country": "Philippines",
+      "category": "business",
+      "date": "2026-06-06",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-06-06-0b2381a8",
       "headline": "Japan's corporate real estate sales hit 18-year high on strong demand",
       "summary": "",
@@ -613,20 +627,6 @@
       "url": "https://asia.nikkei.com/economy/trade/japan-s-farmer-backed-ruling-party-to-support-trade-talks-with-mercosur",
       "region": "APJ",
       "country": "Japan",
-      "category": "business",
-      "date": "2026-06-06",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-06-044a07b0",
-      "headline": "South Korean stocks fall, currency slips as foreigners dump shares",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/south-korean-stocks-fall-currency-slips-as-foreigners-dump-shares",
-      "region": "APJ",
-      "country": "South Korea",
       "category": "business",
       "date": "2026-06-06",
       "time": "",
