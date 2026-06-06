@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-06T15:37:29.664951+00:00",
-  "story_count": 80,
+  "updated": "2026-06-06T16:44:04.741613+00:00",
+  "story_count": 79,
   "source_count": 9,
   "stories": [
     {
@@ -18,20 +18,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-06-06-f3f99160",
-      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "14:46",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
       "id": "2026-06-06-852a4f8b",
       "headline": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
       "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predictCentral Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, west Africa’s 2014-2016 outbreak that killed more than 11,000 people, according to a new analysis by US health officials.The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios",
@@ -46,18 +32,32 @@
       "score": 56.0
     },
     {
-      "id": "2026-06-06-5dcbfc5e",
-      "headline": "Iran fires missiles at Gulf after US targets Iranian radar sites",
-      "summary": "US CENTCOM says ballistic missiles fired towards Kuwait and Bahrain; Iran denounces US attacks as a violation of truce.",
+      "id": "2026-06-06-929eb10a",
+      "headline": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
+      "summary": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/us-intercepts-iranian-attacks-as-israel-continues-to-bomb-lebanon?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
       "region": "MENA",
-      "country": "Bahrain",
+      "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "07:51",
+      "time": "15:30",
       "conflict_id": null,
       "score": 55.4
+    },
+    {
+      "id": "2026-06-06-83fc62d7",
+      "headline": "Israeli strike kills nine including Lebanese soldiers as border truce under pressure",
+      "summary": "Lebanon has accused Israel of undermining ceasefire efforts after an airstrike killed three members of its army in the country's south.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/06/israeli-strike-kills-nine-including-lebanese-soldiers-as-border-truce-under-pressure",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "14:10",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-06-06-a1ae8abf",
@@ -86,6 +86,20 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 53.0
+    },
+    {
+      "id": "2026-06-06-f3f99160",
+      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Bahrain",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "14:46",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-06-06-0f42b4f9",
@@ -168,20 +182,6 @@
       "category": "geopolitics",
       "date": "2026-06-06",
       "time": "14:50",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-06-06-83fc62d7",
-      "headline": "Israeli strike kills nine including Lebanese soldiers as border truce under pressure",
-      "summary": "Lebanon has accused Israel of undermining ceasefire efforts after an airstrike killed three members of its army in the country's south.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/06/israeli-strike-kills-nine-including-lebanese-soldiers-as-border-truce-under-pressure",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "14:10",
       "conflict_id": null,
       "score": 45.0
     },
@@ -279,7 +279,7 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-06-06",
-      "time": "12:35",
+      "time": "16:27",
       "conflict_id": null,
       "score": 33.2
     },
@@ -326,6 +326,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-06-06-bc2f7b00",
+      "headline": "‘I’m a cockroach’: Gen Z protest movement lands in Indian capital",
+      "summary": "India&#039;s Gen Z Cockroach movement stages its first protest in the capital, demanding education minister&#039;s resignation.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/6/6/im-a-cockroach-gen-z-protest-movement-lands-in-indian-capital?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "15:27",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-06-06-142d361a",
       "headline": "Cockroach Janta Party rallies in New Delhi for youth protests",
       "summary": "Protesters call for education minister&#039;s resignation after exam scandals, symbolising a lost faith in India&#039;s system.",
@@ -336,20 +350,6 @@
       "category": "politics",
       "date": "2026-06-06",
       "time": "11:07",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-06-06-8bb76944",
-      "headline": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
-      "summary": "CJP organisers rally supporters to demand the resignation of Education Minister Dharmendra Pradhan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
-      "region": "SA",
-      "country": "New Delhi",
-      "category": "politics",
-      "date": "2026-06-06",
-      "time": "09:13",
       "conflict_id": null,
       "score": 31.4
     },
@@ -606,6 +606,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-06-06-0b2381a8",
+      "headline": "Japan's corporate real estate sales hit 18-year high on strong demand",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/property/japan-s-corporate-real-estate-sales-hit-18-year-high-on-strong-demand",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-06-06",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-06-06-db485f23",
       "headline": "Majority of Tokyo Growth stocks below market cap cutoff as deadline nears",
       "summary": "",
@@ -641,20 +655,6 @@
       "url": "https://asia.nikkei.com/business/markets/south-korean-stocks-fall-currency-slips-as-foreigners-dump-shares",
       "region": "APJ",
       "country": "South Korea",
-      "category": "business",
-      "date": "2026-06-06",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-06-0902c5c9",
-      "headline": "AI glasses maker Rokid lands Toyota affiliate investment",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-glasses-maker-rokid-lands-toyota-affiliate-investment",
-      "region": "APJ",
-      "country": null,
       "category": "business",
       "date": "2026-06-06",
       "time": "",
@@ -730,20 +730,6 @@
       "time": "18:16",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-06-05-43118d74",
-      "headline": "Top Goldman lawyer Ruemmler to remain with bank despite Epstein ties",
-      "summary": "General counsel resigned after revelations about relationship with disgraced financier but now will stay on as adviser",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4d802a0e-32c2-49c3-aa57-d50afd123938",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-05",
-      "time": "21:54",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-06-05-d2c35ece",
@@ -869,7 +855,7 @@
       "date": "2026-06-04",
       "time": "17:50",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-06-04-3af91172",
@@ -884,20 +870,6 @@
       "time": "14:23",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-06-04-31d5910f",
-      "headline": "Kushner-backed luxury resort plan sparks protests in Albania",
-      "summary": "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-04",
-      "time": "14:33",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-06-04-d113b0e9",
@@ -926,6 +898,20 @@
       "time": "21:24",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-06-04-31d5910f",
+      "headline": "Kushner-backed luxury resort plan sparks protests in Albania",
+      "summary": "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-04",
+      "time": "14:33",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-06-04-cf2b8442",
@@ -1079,7 +1065,7 @@
       "date": "2026-06-01",
       "time": "05:33",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-06-01-4bd9fde9",
