@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-06T21:33:49.527692+00:00",
-  "story_count": 77,
-  "source_count": 9,
+  "updated": "2026-06-06T22:41:08.197325+00:00",
+  "story_count": 80,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-06-06-7ef767bd",
@@ -32,6 +32,20 @@
       "score": 59.4
     },
     {
+      "id": "2026-06-06-852a4f8b",
+      "headline": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
+      "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predictCentral Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, west Africa’s 2014-2016 outbreak that killed more than 11,000 people, according to a new analysis by US health officials.The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "04:21",
+      "conflict_id": null,
+      "score": 56.0
+    },
+    {
       "id": "2026-06-06-d4a9cd1c",
       "headline": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
       "summary": "The seven-month-old boy's shrouded body was wrapped in a Palestinian flag and carried by his father to the graveyard.",
@@ -44,6 +58,20 @@
       "time": "19:57",
       "conflict_id": "israel-hamas",
       "score": 55.0
+    },
+    {
+      "id": "2026-06-06-f01b1559",
+      "headline": "Fossil fuel imports have dropped across the EU since war on Iran - except in these three countries",
+      "summary": "While the EU has responded to the latest fossil fuel crisis by limiting fossil fuel imports, a trio of states have “deepened their exposure by increasing them\".",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/06/fossil-fuel-imports-have-dropped-across-the-eu-since-war-on-iran-except-in-these-three-cou",
+      "region": "EU",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-06-06-5e1e4da1",
@@ -74,18 +102,74 @@
       "score": 51.4
     },
     {
-      "id": "2026-06-06-852a4f8b",
-      "headline": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
-      "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predictCentral Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, west Africa’s 2014-2016 outbreak that killed more than 11,000 people, according to a new analysis by US health officials.The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/06/ebola-spread-in-central-africa-could-match-2014-record-outbreak-us-health-officials-say",
+      "id": "2026-06-06-c223eb27",
+      "headline": "Asia-to-US Container Rates Spike 109% Since Iran War Started",
+      "summary": "Container shipping rates jumped over the past week amid higher fuel costs, congestion at some Asian ports and a pickup in demand heading into a peak season for booking ocean freight.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/asia-to-us-container-rates-spike-109-since-iran-war-started",
       "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "12:06",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-06-06-20472fa5",
+      "headline": "Ukraine launches large-scale drone attack as Putin meets Schröder",
+      "summary": "Ukraine's President Volodymyr Zelensky said \"it is time to end this war\" after confirming he had ordered the strike on Russian targets, including naval and energy sites across the west of the country.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/06/ukraine-launches-large-scale-drone-attack-as-putin-meets-schroder",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "10:02",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
+      "id": "2026-06-06-4a9ed96d",
+      "headline": "Ebola cases surge over 400 as fears grow over central Africa outbreak",
+      "summary": "Health officials have warned the Ebola outbreak in the Democratic Republic of Congo and Uganda could become one of the largest on record after confirmed cases jumped to 471, prompting a major international response.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/06/ebola-cases-surge-over-400-as-fears-grow-over-central-africa-outbreak",
+      "region": "EU",
       "country": null,
       "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "04:21",
+      "time": "14:50",
       "conflict_id": null,
-      "score": 48.0
+      "score": 45.0
+    },
+    {
+      "id": "2026-06-06-83fc62d7",
+      "headline": "Israeli strike kills nine including Lebanese soldiers as border truce under pressure",
+      "summary": "Lebanon has accused Israel of undermining ceasefire efforts after an airstrike killed three members of its army in the country's south.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/06/israeli-strike-kills-nine-including-lebanese-soldiers-as-border-truce-under-pressure",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "14:10",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-06-06-a1ae8abf",
+      "headline": "Iran and US exchange strikes in latest threat to fragile ceasefire",
+      "summary": "The US claims to have intercepted Iranian drones before launching missile strikes on what it described as \"radar sites\" in the south of Iran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/06/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "07:19",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-06-06-47191148",
@@ -102,16 +186,16 @@
       "score": 43.4
     },
     {
-      "id": "2026-06-06-f3f99160",
-      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "summary": "The US military strikes Iranian drones and radar sites and Tehran says it has targeted US bases in Kuwait and Bahrain.",
+      "id": "2026-06-06-48768756",
+      "headline": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
+      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Bahrain",
+      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
       "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "14:46",
+      "time": "21:14",
       "conflict_id": null,
       "score": 43.0
     },
@@ -130,20 +214,6 @@
       "score": 42.4
     },
     {
-      "id": "2026-06-06-c223eb27",
-      "headline": "Asia-to-US Container Rates Spike 109% Since Iran War Started",
-      "summary": "Container shipping rates jumped over the past week amid higher fuel costs, congestion at some Asian ports and a pickup in demand heading into a peak season for booking ocean freight.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/asia-to-us-container-rates-spike-109-since-iran-war-started",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "12:06",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-06-06-e17d433f",
       "headline": "Iran Fired Drones Toward Strait of Hormuz With U.S. Shooting Down at Least 4, U.S. Military Says",
       "summary": "The latest violence between the United States and Iran threatened a cease-fire and risked further stoking tensions in the region.",
@@ -158,20 +228,6 @@
       "score": 41.2
     },
     {
-      "id": "2026-06-06-0a4c5838",
-      "headline": "Graham Platner says his past has been ‘weaponized’ at rally in Maine",
-      "summary": "Supporters brush off negative stories about the Democratic Senate candidate and rebut suggestions that he is the wrong person to take on GOP Sen. Susan Collins.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/06/graham-platner-says-his-past-has-been-weaponized-rally-maine/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "01:33",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
       "id": "2026-06-06-b269d6cc",
       "headline": "Ukrainian drones target St Petersburg in attack Russia calls 'unprecedented'",
       "summary": "Residents of Russia's second-largest city were urged to stay indoors for the first time since the war started.",
@@ -182,20 +238,6 @@
       "category": "geopolitics",
       "date": "2026-06-06",
       "time": "20:50",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-06-48768756",
-      "headline": "Hegseth attacks Europe over 'invasion' of migrants on its beaches in D-Day speech",
-      "summary": "The US defence secretary was speaking in Normandy, 82 years after allied forces launched their operation to liberate Nazi-occupied north-western Europe.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c802e7jk458o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "21:14",
       "conflict_id": null,
       "score": 35.0
     },
@@ -214,6 +256,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-06-83e9776d",
+      "headline": "Iran says staff blocked from entering US after players given World Cup visas",
+      "summary": "Iranian officials say technical staff have been denied visas, hours after the US said players could enter the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy8286nqz87o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "22:38",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-06-0652efc0",
       "headline": "Oil tanker owners fear market crash after Iran war drove record profits",
       "summary": "Shipowners ploughed windfall into new vessels and are braced for steep drop in rates if Strait of Hormuz reopens",
@@ -224,20 +280,6 @@
       "category": "business",
       "date": "2026-06-06",
       "time": "12:28",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-06-06-3e8d807c",
-      "headline": "On yer bike! Freud and middle-aged men in Lycra",
-      "summary": "The ever-present fear of ridicule among cycling’s weekend warriors tells us a thing or two about human nature",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5f72603d-11a7-4032-a57f-a7a456737a6a",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "04:00",
       "conflict_id": null,
       "score": 34.4
     },
@@ -284,32 +326,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-06-06-97ee3d3c",
-      "headline": "US Sanctions Cuba’s Díaz-Canel as Trump Ramps Up Pressure",
-      "summary": "The US slapped sanctions on Cuban President Miguel Díaz-Canel and members of his family, further ratcheting up pressure on the communist-run Caribbean island. CNN, Havana Bureau Chief Patrick Oppmann joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/us-sanctions-cuba-s-diaz-canel-trump-ramps-up-pressure-video",
-      "region": "NA",
-      "country": "Caribbean",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "12:38",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-06-06-5ed9f2b1",
-      "headline": "Paramount Open to Selling Kids Channels to Quell EU Fears Over $110 Billion Warner Deal",
-      "summary": "Paramount Skydance Corp. is prepared &mdash; if necessary &mdash; to divest some children’s TV network assets to help win European Union approval of its $110 billion bid for Warner Bros. Discovery Inc.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/paramount-open-to-divest-kids-tv-assets-in-eu-probe-of-110-billion-warner-deal",
+      "id": "2026-06-06-f627679c",
+      "headline": "Bob Packwood, Senator Forced to Quit in Sex Scandal, Dies at 93",
+      "summary": "An unorthodox Republican, he helped shape tax policy and women’s rights legislation before resigning in 1995 amid accusations by more than 20 women of sexual misconduct.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/bob-packwood-dead.html",
       "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
+      "country": "NATO",
+      "category": "politics",
       "date": "2026-06-06",
-      "time": "11:00",
+      "time": "22:25",
       "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
     },
     {
       "id": "2026-06-06-8abea4d2",
@@ -424,6 +452,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-06-06-9988645c",
+      "headline": "Off the Record: Politics, protests and dead flamingos dominate EU-Western Balkans summit",
+      "summary": "Euronews Europe editor Maria Tadeo provides highlights and analysis from the EU-Western Balkans summit held this week in her signature newsletter Off the Record.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/06/off-the-record-politics-protests-and-dead-flamingos-dominate-eu-western-balkans-summit",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "15:13",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-06-06-c2712a0b",
       "headline": "Armenia braces for election as Russia piles pressure on pro-West government",
       "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
@@ -450,6 +492,20 @@
       "time": "10:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-06-06-10d2279b",
+      "headline": "Delta President on Middle East Flights & Premium Travel",
+      "summary": "Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on Middle East, Rhiad flights and premium travel.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-06/delta-president-on-middle-east-flights-premium-travel",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "21:50",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-06-06-65c8725e",
@@ -508,18 +564,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-06-555e6ce2",
-      "headline": "Chris Davis on His Biggest Investing Mistakes",
-      "summary": "Barry sits down with Chris Davis,  Chairman and Portfolio Manager at Davis Funds. They discuss his approach to managing risk and the key elements changing the economy. Chris and Barry also discuss Chris's mentors including Charlie Munger, and how he settled into the family business. \n (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/chris-davis-on-his-biggest-investing-mistakes-video",
+      "id": "2026-06-06-3b5a0c77",
+      "headline": "C.I.A. Officer Found With Gold Bars Said to Have Created Fake Spy Program",
+      "summary": "A federal judge has ruled that David Rush, the C.I.A. employee, must remain in detention. U.S. officials say Mr. Rush funneled millions in federal funds to himself.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/cia-officer-gold-fake-spy-program.html",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-06-06",
-      "time": "09:01",
+      "time": "20:06",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-06-06-bdfbf0c6",
@@ -690,32 +746,32 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-05-d2c35ece",
-      "headline": "Indonesia’s Crisis of Confidence as Markets Decode Prabowo",
-      "summary": "Indonesia spent much of this week confronting a question that might have seemed unthinkable a few short years ago: what happens when investors stop believing in Southeast Asia’s largest economy?",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/indonesia-facing-a-crisis-of-confidence-as-markets-divine-prabowo-s-wiles",
-      "region": "APJ",
-      "country": "Indonesia",
+      "id": "2026-06-06-0f275e27",
+      "headline": "Dua Lipa and Callum Turner celebrate with guests at Sicily wedding party",
+      "summary": "Newlyweds Dua Lipa and Callum Turner were seen greeting guests and celebrating at a wedding party in Palermo, Sicily, as part of a weekend of festivities following their recent London wedding.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/06/06/dua-lipa-and-callum-turner-celebrate-with-guests-at-sicily-wedding-party",
+      "region": "EU",
+      "country": null,
       "category": "business",
-      "date": "2026-06-05",
-      "time": "10:30",
+      "date": "2026-06-06",
+      "time": "12:32",
       "conflict_id": null,
-      "score": 34.1
+      "score": 21.0
     },
     {
-      "id": "2026-06-05-efe49091",
-      "headline": "Amid Graham Platner Controversy, Where Does the Maine Senate Race Go Next?",
-      "summary": "New revelations about Graham Platner have left Democrats anxious.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/05/us/politics/maine-senate-graham-platner-democrats.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-06-05",
-      "time": "21:51",
+      "id": "2026-06-06-789e2f8b",
+      "headline": "Lazio Maremma cowboys: tradition and innovation at Canale Monterano's Riarto",
+      "summary": "For centuries, the buttero was central to livestock and rural life in the Maremma between Lazio and Tuscany. Though the trade is fading, new horsemen keep the region's history and identity alive.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/06/06/lazio-maremma-cowboys-tradition-and-innovation-at-canale-monteranos-riarto",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-06",
+      "time": "10:38",
       "conflict_id": null,
-      "score": 33.2
+      "score": 21.0
     },
     {
       "id": "2026-06-05-b0d0c9ce",
@@ -998,20 +1054,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-06-02-c907580d",
-      "headline": "Putin remains uncompromising on Ukraine, but is public discourse on war changing in Russia?",
-      "summary": "Russia is intensifying attacks in Ukraine but more than four years of war are causing concern even among Putin loyalists.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy82339793go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-02",
-      "time": "23:33",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-02-c2afc63b",
       "headline": "Video shows elaborate drug-smuggling tunnel between US and Mexico",
       "summary": "Four people have been arrested and charged with trafficking more than $45 million in cocaine, according to federal officials.",
@@ -1037,7 +1079,7 @@
       "date": "2026-06-01",
       "time": "05:33",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-06-01-4bd9fde9",
