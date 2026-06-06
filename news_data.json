@@ -1,8 +1,22 @@
 {
-  "updated": "2026-06-06T16:44:04.741613+00:00",
-  "story_count": 79,
+  "updated": "2026-06-06T17:48:14.384852+00:00",
+  "story_count": 78,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-06-06-be5bf905",
+      "headline": "Israeli attack on Gaza City tent camp kills at least six",
+      "summary": "Latest Israeli attack comes as Hamas readies for meetings in Egypt on full implementation of Gaza &#039;ceasefire&#039; agreement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-strike-kills-at-least-five-people-at-wedding-in-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "14:38",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
     {
       "id": "2026-06-06-c3f253f9",
       "headline": "Israeli forces fatally shoot Palestinian infant, wound parents in West Bank",
@@ -30,20 +44,6 @@
       "time": "04:21",
       "conflict_id": null,
       "score": 56.0
-    },
-    {
-      "id": "2026-06-06-929eb10a",
-      "headline": "Israeli attacks in Lebanon kill 10 people, including high-ranking soldiers",
-      "summary": "The deaths include a brigadier general, a captain and a soldier killed while travelling on the Khardali-Nabatieh road.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/6/israeli-attacks-in-lebanon-kill-10-people-including-high-ranking-soldiers?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "15:30",
-      "conflict_id": null,
-      "score": 55.4
     },
     {
       "id": "2026-06-06-83fc62d7",
@@ -195,7 +195,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "13:38",
+      "time": "17:14",
       "conflict_id": null,
       "score": 43.0
     },
@@ -268,6 +268,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-06-06-74496bc4",
+      "headline": "Fed’s Barr Warns of Risks Tied to Looser Wall Street Bank Rules",
+      "summary": "Federal Reserve Governor Michael Barr criticized moves from regulators over the past year to relax the rules for US lenders, saying the proposals “considerably weaken bank regulation and supervision.”",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-06/fed-s-barr-warns-of-risks-tied-to-looser-wall-street-bank-rules",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-06",
+      "time": "16:00",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-06-06-8abea4d2",
@@ -424,6 +438,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-06-65c8725e",
+      "headline": "Bloomberg This Weekend 6/06/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Navy Federal Credit Union Chief Economist Heather Long, CNN Havana Bureau Chief Patrick Oppman, Fmr. US Ambassador to Israel Tom Nides and Grindr CEO George Arison. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-06/bloomberg-this-weekend-6-06-2026-video",
+      "region": "NA",
+      "country": "Israel",
+      "category": "business",
+      "date": "2026-06-06",
+      "time": "16:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-06-c6c9e1c4",
       "headline": "How Bolivia's Plans to Tap Mineral Riches Are Being Tested by Mass Unrest",
       "summary": "Bolivia’s new president, Rodrigo Paz, is attempting to rebrand the country as a destination for foreign investment after two decades of socialist rule. Sitting atop some of the world’s largest lithium resources and vast mineral reserves, Bolivia has long struggled to translate its natural resources into economic prosperity. Paz argues that clearer laws, stability, and closer ties with international investors can unlock growth. But, just six month",
@@ -476,62 +504,6 @@
       "category": "business",
       "date": "2026-06-06",
       "time": "09:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-06-c69b55dc",
-      "headline": "Why Susquehanna Is Building a Prediction Market Business | Odd Lots",
-      "summary": "Prediction markets that enable you to bet on pretty much everything are everywhere nowadays. But there's still a big question over whether they can expand to include larger institutional investors like hedge funds. Part of the problem is that a lot of prediction market contracts are illiquid and trading volumes can sometimes be shallow. That's where trading firm Susquehanna International Group comes in. In this episode, recorded live at New York'",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/why-susquehanna-is-building-a-prediction-market-business-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-06",
-      "time": "08:10",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-06-85578f8e",
-      "headline": "Why Susquehanna Is Building a Prediction Markets Business",
-      "summary": "Creating an asset class for bets on anything.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/how-susquehanna-is-expanding-into-prediction-markets",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-06",
-      "time": "08:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-06-b20f191a",
-      "headline": "RBNZ’s Breman Says Country Finding Solutions to Protectionism",
-      "summary": "New Zealand’s central bank governor, Anna Breman, is seeing encouraging signs that will help counter the negative effects of deepening protectionism and a decline in global cooperation.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/rbnz-s-breman-says-country-finding-solutions-to-protectionism",
-      "region": "APJ",
-      "country": "New Zealand",
-      "category": "business",
-      "date": "2026-06-06",
-      "time": "07:13",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-06-f7e3f6b4",
-      "headline": "Austria Downgrade Ends Era in Club of Europe’s Safest Borrowers",
-      "summary": "Austria lost its last top credit score from a major assessor because of persistently high budget deficits, ending a decades-long streak as one of Europe’s best-rated issuers.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/austria-downgrade-ends-era-in-club-of-europe-s-safest-borrowers",
-      "region": "EU",
-      "country": "Austria",
-      "category": "business",
-      "date": "2026-06-06",
-      "time": "05:59",
       "conflict_id": null,
       "score": 26.1
     },
@@ -662,6 +634,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-06-06-d9dbcda5",
+      "headline": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+      "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX’s highly anticipated IPO next week.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "17:03",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-06-06-0f275e27",
       "headline": "Dua Lipa and Callum Turner celebrate with guests at Sicily wedding party",
       "summary": "Newlyweds Dua Lipa and Callum Turner were seen greeting guests and celebrating at a wedding party in Palermo, Sicily, as part of a weekend of festivities following their recent London wedding.",
@@ -690,11 +676,11 @@
       "score": 21.0
     },
     {
-      "id": "2026-06-06-9b31d02e",
-      "headline": "Lazio's Maremma cowboys between tradition and innovation: Canale Monterano's Riarto",
-      "summary": "For centuries, the buttero has been central to cattle breeding and rural life in the Maremma, between Lazio and Tuscany. Though the trade is fading, new mounted herders help keep alive the region’s history and identity.",
+      "id": "2026-06-06-789e2f8b",
+      "headline": "Lazio Maremma cowboys: tradition and innovation at Canale Monterano's Riarto",
+      "summary": "For centuries, the buttero was central to livestock and rural life in the Maremma between Lazio and Tuscany. Though the trade is fading, new horsemen keep the region's history and identity alive.",
       "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/06/06/lazios-maremma-cowboys-between-tradition-and-innovation-canale-monteranos-riarto",
+      "url": "http://www.euronews.com/culture/2026/06/06/lazio-maremma-cowboys-tradition-and-innovation-at-canale-monteranos-riarto",
       "region": "EU",
       "country": null,
       "category": "business",
