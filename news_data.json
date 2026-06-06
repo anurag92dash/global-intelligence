@@ -1,36 +1,8 @@
 {
-  "updated": "2026-06-06T08:45:12.632251+00:00",
-  "story_count": 73,
+  "updated": "2026-06-06T10:47:48.294011+00:00",
+  "story_count": 75,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-06-06-a1ae8abf",
-      "headline": "Iran and US exchange strikes in latest threat to fragile ceasefire",
-      "summary": "The US claims to have intercepted Iranian drones before launching missile strikes on what it described as \"radar sites\" in the south of Iran.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/06/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "07:19",
-      "conflict_id": null,
-      "score": 61.0
-    },
-    {
-      "id": "2026-06-06-f3f99160",
-      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
-      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "06:16",
-      "conflict_id": null,
-      "score": 59.0
-    },
     {
       "id": "2026-06-06-852a4f8b",
       "headline": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
@@ -46,6 +18,34 @@
       "score": 56.0
     },
     {
+      "id": "2026-06-06-a1ae8abf",
+      "headline": "Iran and US exchange strikes in latest threat to fragile ceasefire",
+      "summary": "The US claims to have intercepted Iranian drones before launching missile strikes on what it described as \"radar sites\" in the south of Iran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/06/iran-and-us-exchange-strikes-in-latest-threat-to-fragile-ceasefire",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "07:19",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-06-06-f3f99160",
+      "headline": "US and Iran exchange strikes in Gulf in latest test of ceasefire",
+      "summary": "The US military says it struck Iranian drones and radar sites. Tehran responds by targeting US bases in Kuwait and Bahrain.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvgzgyjk2weo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Bahrain",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "06:16",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-06-06-0f42b4f9",
       "headline": "US and Iran exchange strikes in new threat to shaky ceasefire",
       "summary": "Kuwait and Bahrain are attacked as American forces intercept drones launched over Strait of Hormuz",
@@ -58,6 +58,20 @@
       "time": "03:54",
       "conflict_id": null,
       "score": 50.4
+    },
+    {
+      "id": "2026-06-06-20472fa5",
+      "headline": "Ukraine launches large-scale drone attack as Putin meets Schröder",
+      "summary": "Ukraine's President Volodymyr Zelensky said \"it is time to end this war\" after confirming he had ordered the strike on Russian targets, including naval and energy sites across the west of the country.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/06/ukraine-launches-large-scale-drone-attack-as-putin-meets-schroder",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "10:02",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-06-06-0a4c5838",
@@ -125,7 +139,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "02:22",
+      "time": "10:34",
       "conflict_id": null,
       "score": 41.2
     },
@@ -146,7 +160,7 @@
     {
       "id": "2026-06-06-8de5683c",
       "headline": "The power games that paved the way for Trump’s World Cup",
-      "summary": "Football’s biggest show kicks off next week and the US president means to be its biggest star. But prestige-hungry hosts do not always get their way",
+      "summary": "Football’s biggest show kicks off next week and the US president means to be its biggest star. But hosts do not make all the rules",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/8b74a6d7-899e-41d0-8ecd-4664dd33aa9a",
       "region": "NA",
@@ -156,6 +170,34 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-06-06-3e8d807c",
+      "headline": "On yer bike! Freud and middle-aged men in Lycra",
+      "summary": "The ever-present fear of ridicule among cycling’s weekend warriors tells us a thing or two about human nature",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5f72603d-11a7-4032-a57f-a7a456737a6a",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-06",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-06-06-8abea4d2",
+      "headline": "Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups",
+      "summary": "The Texas attorney general has mounted an all-out effort to prove Democratic Hispanic groups have been corrupting elections. Now he could be the beneficiary of his own attacks.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-06-06-a651e8df",
@@ -170,6 +212,20 @@
       "time": "06:40",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-06-06-8bb76944",
+      "headline": "Supporters of the Cockroach People’s Party hold protest in New Delhi",
+      "summary": "CJP organisers rally supporters to demand the resignation of Education Minister Dharmendra Pradhan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/6/supporters-of-the-cockroach-peoples-party-hold-protest-in-new-delhi?traffic_source=rss",
+      "region": "SA",
+      "country": "New Delhi",
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "09:13",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-06-f8d19e4a",
@@ -212,6 +268,20 @@
       "time": "07:06",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-06-06-555e6ce2",
+      "headline": "Chris Davis on His Biggest Investing Mistakes",
+      "summary": "Barry sits down with Chris Davis,  Chairman and Portfolio Manager at Davis Funds. They discuss his approach to managing risk and the key elements changing the economy. Chris and Barry also discuss Chris's mentors including Charlie Munger, and how he settled into the family business. \n (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-06/chris-davis-on-his-biggest-investing-mistakes-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-06",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-06-06-c69b55dc",
@@ -280,20 +350,6 @@
       "category": "business",
       "date": "2026-06-06",
       "time": "05:59",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-06-de5cb0bb",
-      "headline": "Philippine Court Drops Remaining Marcos Ill-Gotten Wealth Case",
-      "summary": "The Philippine anti-graft court dismissed the remaining claims in a civil case seeking to recover assets allegedly acquired by the late former President Ferdinand Marcos and his family.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/philippine-court-drops-remaining-marcos-ill-gotten-wealth-case",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-06",
-      "time": "05:31",
       "conflict_id": null,
       "score": 26.1
     },
@@ -368,18 +424,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-06-0902c5c9",
-      "headline": "AI glasses maker Rokid lands Toyota affiliate investment",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/ai-glasses-maker-rokid-lands-toyota-affiliate-investment",
-      "region": "APJ",
+      "id": "2026-06-06-9b31d02e",
+      "headline": "Lazio's Maremma cowboys between tradition and innovation: Canale Monterano's Riarto",
+      "summary": "For centuries, the buttero has been central to cattle breeding and rural life in the Maremma, between Lazio and Tuscany. Though the trade is fading, new mounted herders help keep alive the region’s history and identity.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/06/06/lazios-maremma-cowboys-between-tradition-and-innovation-canale-monteranos-riarto",
+      "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-06-06",
-      "time": "",
+      "time": "10:38",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
       "id": "2026-06-05-df478658",
@@ -396,20 +452,6 @@
       "score": 63.0
     },
     {
-      "id": "2026-06-05-ae5b3c01",
-      "headline": "Is the latest US ceasefire deal for Lebanon meaningless?",
-      "summary": "Israel and Hezbollah continue fighting after truce announcement.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/6/5/is-the-latest-us-ceasefire-deal-for-lebanon-meaningless?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "18:45",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
       "id": "2026-06-05-5ab38562",
       "headline": "Putin says there is 'no point' meeting Zelensky over ending Ukraine war",
       "summary": "The Russian president's refusal comes after his Ukrainian counterpart wrote an open letter calling for face-to-face talks.",
@@ -422,20 +464,6 @@
       "time": "18:16",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-06-05-2ce44d6e",
-      "headline": "Zelenskyy to meet Macron, Merz and Starmer in London on Sunday, France says",
-      "summary": "Ukraine recaptured more territory than it lost to Russian forces in May for the second straight month, an analysis of data from the Institute for the Study of War carried out by the AFP news agency showed earlier this month.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/05/zelenskyy-to-meet-macron-merz-and-starmer-in-london-on-sunday-france-says",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "15:20",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
     },
     {
       "id": "2026-06-05-ce13492f",
@@ -464,6 +492,20 @@
       "time": "21:54",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-06-05-d2c35ece",
+      "headline": "Indonesia’s Crisis of Confidence as Markets Decode Prabowo",
+      "summary": "Indonesia spent much of this week confronting a question that might have seemed unthinkable a few short years ago: what happens when investors stop believing in Southeast Asia’s largest economy?",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-05/indonesia-facing-a-crisis-of-confidence-as-markets-divine-prabowo-s-wiles",
+      "region": "APJ",
+      "country": "Indonesia",
+      "category": "business",
+      "date": "2026-06-05",
+      "time": "10:30",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-06-05-efe49091",
@@ -532,20 +574,6 @@
       "category": "politics",
       "date": "2026-06-05",
       "time": "16:29",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-06-05-aa842850",
-      "headline": "Rama alleges 'hybrid war' behind protests against Kushner-linked coastal development",
-      "summary": "The luxury venture, spanning a protected island and a stretch of seafront on the southern coast, has drawn opposition from environmental campaigners and critics of Prime Minister Edi Rama, who sees external interference.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/05/rama-alleges-hybrid-war-behind-protests-against-kushner-linked-coastal-development",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-05",
-      "time": "14:49",
       "conflict_id": null,
       "score": 29.0
     },
@@ -662,20 +690,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-05-137d07be",
-      "headline": "Tech Selloff, Bitcoin Drop Test Retail Investor Strength Ahead of SpaceX IPO",
-      "summary": "For years, Wall Street has benefited from one of the most reliable forces in modern markets: a retail-trader army willing to buy almost anything.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-05/tanking-tech-crashing-crypto-jolt-retail-crowd-before-spacex",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-05",
-      "time": "21:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-05-b2e57b67",
       "headline": "Chuck Schumer Privately Backs Haley Stevens in Michigan Democratic Senate Primary",
       "summary": "Chuck Schumer, the Democratic minority leader, has remained officially neutral on the race, but in conversations with donors, he has been clear about which candidate he supports.",
@@ -728,6 +742,20 @@
       "category": "geopolitics",
       "date": "2026-06-04",
       "time": "14:23",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-06-04-e85c15d6",
+      "headline": "Israel and Lebanon agree to implement ceasefire if Hezbollah stops attacks",
+      "summary": "The countries reject \"any attempt, by any state or non-state actor, to hold Lebanon's future hostage\", the US says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5y01pdqvkgo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-06-04",
+      "time": "07:49",
       "conflict_id": null,
       "score": 43.0
     },
@@ -830,6 +858,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-06-04-8d74ae2d",
+      "headline": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expiredFierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Mogadishu, damaging property and forcing some civilians to flee.In the runup to the fighting, which started on Wednesday afternoon, opposition leaders embedded with militias set up positions in their clan strongholds t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-04",
+      "time": "11:52",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-06-04-489be620",
       "headline": "Canada endorses embattled marine park’s plan to relocate 30 beluga whales",
       "summary": "Beluga whales, which Marineland threatened to euthanize in 2025, will be moved to sanctuaries in Spain or across USCanada and an embattled marine park have reached a tentative deal on the future of 30 beluga whales, ending a saga that has captivated the public and angered animal rights groups.The federal fisheries ministry announced this week that all of Marineland’s belugas would be shipped to either Spain or one of four locations in the US, end",
@@ -925,7 +967,7 @@
       "date": "2026-06-02",
       "time": "07:31",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-06-02-c907580d",
@@ -982,20 +1024,6 @@
       "time": "13:12",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-06-01-f0c4f842",
-      "headline": "Typhoon Jangmi threatens Japan as Europe swelters",
-      "summary": "Powerful winds and rain expected in parts of Japan and Australia, while temperatures in Spain could hit 40CA powerful tropical storm is forecast to track near Okinawa, Japan, on Monday before moving towards the south-east of the country. Typhoon Jangmi (also known as Typhoon No 6) has formed within the monsoonal gyre over the Philippine Sea.A monsoonal gyre is a large, slow-rotating weather system that spawns typhoons through smaller vortices for",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jun/01/typhoon-jangmi-japan-europe-temperatures-australia",
-      "region": "EU",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-06-01",
-      "time": "07:17",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-06-01-28a73468",
