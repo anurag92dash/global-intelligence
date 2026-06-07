@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-07T11:24:02.231072+00:00",
+  "updated": "2026-06-07T12:54:21.431368+00:00",
   "story_count": 76,
-  "source_count": 9,
+  "source_count": 8,
   "stories": [
     {
       "id": "2026-06-07-37d8012d",
@@ -18,6 +18,20 @@
       "score": 67.1
     },
     {
+      "id": "2026-06-07-72290fd8",
+      "headline": "Russian drone hits building storing spent nuclear fuel near Chornobyl",
+      "summary": "Attack was ‘extremely vile’ and deliberate, says Ukraine’s president Volodymyr Zelenskyy A Russian Shahed drone has substantially damaged a building used to store spent nuclear fuel close to the disused Chornobyl nuclear power plant, in what Ukraine’s president described as a deliberate and “extremely vile” attack.While the structure – the reception building of the spent fuel storage facility – was empty of containers at the time, the targeting o",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "11:39",
+      "conflict_id": "ukraine-war",
+      "score": 60.0
+    },
+    {
       "id": "2026-06-07-6ff30cc0",
       "headline": "The accomplishments of 100 days of war on Iran are undeniable",
       "summary": "The US has not just decimated Iran&#039;s nuclear programme and military, it has also degraded the power of its regime.",
@@ -29,7 +43,7 @@
       "date": "2026-06-07",
       "time": "08:55",
       "conflict_id": null,
-      "score": 55.4
+      "score": 47.4
     },
     {
       "id": "2026-06-07-8b5519aa",
@@ -43,7 +57,21 @@
       "date": "2026-06-07",
       "time": "07:33",
       "conflict_id": null,
-      "score": 55.4
+      "score": 47.4
+    },
+    {
+      "id": "2026-06-07-2d6ff57a",
+      "headline": "Zelenskyy used Abramovich to send message to Putin about peace talks",
+      "summary": "Former Chelsea FC owner invited to Kyiv last month in failed attempt to broker direct negotiations",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d097aba1-fd9a-4fd4-a4ba-fb980c27487a",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "12:06",
+      "conflict_id": "ukraine-war",
+      "score": 46.4
     },
     {
       "id": "2026-06-07-24e09cb0",
@@ -57,63 +85,35 @@
       "date": "2026-06-07",
       "time": "10:35",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
-      "id": "2026-06-07-64514bfe",
-      "headline": "Iran after 100 days of war: The triumph of survival",
-      "summary": "Tehran sees its ability to preserve its governing system amid a regime-change war as a clear victory.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "08:52",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-06-07-31478800",
-      "headline": "US Defence Secretary Hegseth warns of 'invasion' on European shores in D-Day speech",
-      "summary": "US Defense Secretary Pete Hegseth used a D-Day anniversary speech in Normandy to warn European leaders about migration, saying that “boats and men” arriving on southern European shores posed a challenge that governments could no longer ignore.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/06/07/us-defence-secretary-hegseth-warns-of-invasion-on-european-shores-in-d-day-speech",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "08:02",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-06-07-b9d6e0df",
-      "headline": "US defence chief uses D-Day speech to warn Europe on migration ‘invasion’",
-      "summary": "Pete Hegseth drew controversy for saying, \"Boats and men arrive. When will European capitals do something about that invasion? Or is it too late?\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/07/us-defence-chief-uses-d-day-speech-to-warn-on-migration-invasion",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "07:01",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-06-07-49763117",
-      "headline": "European leaders to meet Zelenskyy at Downing Street as pressure mounts on Russia",
-      "summary": "The talks will focus on coordinating European support for Ukraine, increasing pressure on Russia and efforts to achieve a just and lasting peace, according to French President Emmanuel Macron.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/07/european-leaders-to-meet-zelenskyy-at-downing-street-as-pressure-mounts-on-russia",
+      "id": "2026-06-07-003fad2c",
+      "headline": "Russian drone hits nuclear fuel site near Chernobyl",
+      "summary": "Radiation levels remain ‘within normal limits’, says Ukraine’s state nuclear company",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3c109ff1-e1cd-42c9-86b2-5e5bfb4671e5",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "09:57",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
+      "time": "10:37",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-06-07-de748c07",
+      "headline": "Hegseth Criticizes Europe Over Migration ‘Invasion’ in D-Day Speech",
+      "summary": "The remarks from Defense Secretary Pete Hegseth reflect many of the Trump administration’s previous assertions on immigrants in Europe, which overlap with the language of European far-right political parties.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/07/us/politics/hegseth-europe-migration-d-day.html",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "12:37",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-06-07-d5dc4ac0",
@@ -144,32 +144,32 @@
       "score": 39.4
     },
     {
-      "id": "2026-06-07-bba79b6f",
-      "headline": "How many times were the US and Iran on the verge of a deal?",
-      "summary": "One hundred days into the US-Israel war on Iran, we look at the number of times a deal seemed close.",
+      "id": "2026-06-07-f8ce8e01",
+      "headline": "Hundred days of the US-Israel war on Iran",
+      "summary": "As the war on Iran marks 100 days, a complete truce still seems elusive, with the loss of life mounting in the region.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/how-many-times-were-the-us-and-iran-on-the-verge-of-a-deal?traffic_source=rss",
+      "url": "https://www.aljazeera.com/gallery/2026/6/7/100-days-of-the-us-israel-war-on?traffic_source=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "04:51",
+      "time": "09:34",
       "conflict_id": null,
       "score": 39.4
     },
     {
-      "id": "2026-06-07-471c4d31",
-      "headline": "More than 1.5 million people die and 860 million fall ill from unsafe food, the WHO warns",
-      "summary": "The World Health Organization warns that unsafe food harms millions of people worldwide, with children being particularly impacted.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/health/2026/06/07/more-than-15-million-people-die-and-860-million-fall-ill-from-unsafe-food-the-who-warns",
-      "region": "EU",
-      "country": null,
+      "id": "2026-06-07-64514bfe",
+      "headline": "Iran after 100 days of war: The triumph of survival",
+      "summary": "Tehran sees its ability to preserve its governing system amid a regime-change war as a clear victory.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/7/iran-after-100-days-of-war-the-triumph-of-survival?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "11:14",
+      "time": "08:52",
       "conflict_id": null,
-      "score": 37.0
+      "score": 39.4
     },
     {
       "id": "2026-06-07-31b54915",
@@ -186,6 +186,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-06-07-48622c65",
+      "headline": "US-China Rivalry Is Laid Bare by a Contract to Deepen an Argentine River",
+      "summary": "A government tender in Argentina underscored tensions between Washington and Beijing in Latin America as President Javier Milei’s administration awarded a 25-year contract to upgrade a key trade artery to a venture with a history of ties to China.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/us-china-rivalry-laid-bare-by-contract-to-deepen-argentina-s-parana-river",
+      "region": "NA",
+      "country": "Latin America",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "11:30",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-06-07-2088441b",
       "headline": "Petronas Seeks Access to Turkmenistan Gas Field, Bernama Says",
       "summary": "Malaysia’s national petroleum company Petroliam Nasional Bhd is seeking access to a major gas field in Turkmenistan, Bernama reported, citing Prime Minister Anwar Ibrahim.",
@@ -200,20 +214,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-06-07-9a1a2fef",
-      "headline": "More than a million people join Pope Leo for outdoor mass in Madrid",
-      "summary": "In his first visit to an EU country outside Italy, pope urges world leaders to stop dividing electorates and to respect ‘every human being’More than a million people have filled the streets near one of Madrid’s main squares to join Pope Leo for an outdoor mass, likely to be the largest event of his week-long visit to Spain.Throngs of people pressed along barriers near the landmark Plaza de Cibeles, waving flags and shouting “Long live the pope”, ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/07/million-people-pope-leo-outdoor-mass-madrid",
-      "region": "EU",
-      "country": "Spain",
-      "category": "business",
-      "date": "2026-06-07",
-      "time": "10:20",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-06-07-876fd1eb",
       "headline": "‘It’s time to move forward’: Armenians vote in election closely watched by Russia and EU",
       "summary": "Voters to choose between pro-Russian opposition and incumbent Nikol Pashinyan, who is more closely aligned with the westArmenians are going to the polls in an election that could cement the country’s shift towards Europe and away from its traditional alliance with Russia.Prime minister Nikol Pashinyan’s Civil Contract party enters the vote as the favourite, ahead of three opposition candidates who advocate for closer ties with Moscow. Pashinyan’s",
@@ -226,48 +226,6 @@
       "time": "09:56",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-07-bef86d05",
-      "headline": "Kosovo votes again amid political deadlock, seeking EU and NATO progress",
-      "summary": "Deadlock hampers Kosovo’s EU ambitions as voters head to polls amid economic struggles and political discord.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/kosovo-votes-again-amid-political-deadlock-seeking-eu-and-nato-progress?traffic_source=rss",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "09:39",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-06-07-e88ed042",
-      "headline": "Why is Chinese President Xi Jinping visiting North Korea now?",
-      "summary": "The Chinese leader is making his first trip to Pyongyang in seven years, amid significant military developments.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/why-is-chinese-president-xi-jinping-visiting-north-korea-now?traffic_source=rss",
-      "region": "APJ",
-      "country": "North Korea",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "04:30",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-06-07-02c35b73",
-      "headline": "Protests grow in Albania against Trump-Kushner-linked resort",
-      "summary": "Thousands of protesters have rallied in the Albanian capital against a proposed luxury beach resort linked to Trump.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/aje-onl-nf_protests-grow-in-albania-against-trump-resort-060626?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "02:17",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-06-07-264c0ba8",
@@ -312,20 +270,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-06-07-e880a115",
-      "headline": "Kosovo election: Frustrated voters head to the polls again amid political stalemate",
-      "summary": "Europe's youngest country has faced mounting public frustration since holding inconclusive elections in February 2025.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/07/kosovo-election-frustrated-voters-head-to-the-polls-again-amid-political-stalemate",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "06:08",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-06-07-92ed5b99",
       "headline": "Armenia votes as Russia piles pressure on pro-West government",
       "summary": "Incumbent Prime Minister Nikol Pashinyan is seeking a third term despite falling domestic support.",
@@ -338,20 +282,6 @@
       "time": "04:45",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-07-d15621a8",
-      "headline": "Will America’s evangelicals stick with Trump?",
-      "summary": "A critical part of the president’s base is questioning whether his politics and rhetoric align with Christian values",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/875790ee-cfc7-4fd6-937d-615f7ce5ff1c",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-06-07-a3140f70",
@@ -368,13 +298,13 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-07-04311a90",
-      "headline": "Trump’s outbursts rattle Gulf allies",
-      "summary": "US president’s threat against longtime mediator heightens concerns about unpredictability of Washington’s policy",
+      "id": "2026-06-07-d15621a8",
+      "headline": "Will America’s evangelicals stick with Trump?",
+      "summary": "A critical part of the president’s base is questioning whether his politics and rhetoric align with Christian values",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/a25ad28c-f360-4331-a18e-f93b0da6c372",
+      "url": "https://www.ft.com/content/875790ee-cfc7-4fd6-937d-615f7ce5ff1c",
       "region": "NA",
-      "country": "Washington",
+      "country": "America",
       "category": "politics",
       "date": "2026-06-07",
       "time": "04:00",
@@ -382,18 +312,74 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-07-e0b8f99f",
-      "headline": "Expensive oil is making electric vehicles look positively cheap",
-      "summary": "Petrol retails for £1.58 a litre in the UK, up about 20% since the start of the year",
+      "id": "2026-06-07-8ca6dbd2",
+      "headline": "Are we at the start of a new investment super-cycle?",
+      "summary": "AI, clean energy and defence spending are reinforcing each other, amplifying potential spend",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/c1530777-a7fb-428e-8eb5-78d59c6908a7",
+      "url": "https://www.ft.com/content/d91cf0b4-2ed6-47b6-a9b1-46f87c52efc1",
       "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-06-07",
-      "time": "04:00",
+      "time": "12:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-06-07-bfe5a68d",
+      "headline": "Italian bank BPM proposes €50bn merger with Monte dei Paschi",
+      "summary": "Planned combination of ‘equals’ is latest attempt at banking consolidation in the country",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a14f2550-b3af-4893-b09c-3d3d845f4a51",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "12:34",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-07-ed5f7ab5",
+      "headline": "Rep Steube Discusses Concerns Over Acting DNI Head",
+      "summary": "President Trump has appointed Bill Pulte as the Acting Director of National Intelligence which has mixed reactions from lawmakers on both sides of the aisle. Republican Congressman Greg Steube joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss his opinion on Pulte's appointment. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-07/rep-steube-discusses-concerns-over-acting-dni-head-video",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-06-07",
+      "time": "12:49",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-07-53a51e9b",
+      "headline": "Is the Caribbean the Next Space Race Battleground?",
+      "summary": "The rapid growth of satellite networks is creating a global race to build the infrastructure needed to get them into orbit. Launch on Demand founder Burton Catledge is developing what could become the first US-owned commercial spaceport in Latin America, betting that demand for launch capacity will surge as the number of satellites in orbit expands dramatically over the coming decade. McKinsey aerospace expert Ryan Burkardt says existing launch i",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-07/is-the-caribbean-the-next-space-race-battleground-video",
+      "region": "SA",
+      "country": "Latin America",
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "12:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-07-d6639c14",
+      "headline": "Israel’s Central Bank Intervened in FX Trade to Curb Shekel",
+      "summary": "The Bank of Israel intervened in the foreign exchange market in May, purchasing $801 million as the shekel reached the strongest level in over three decades.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/israel-s-central-bank-intervened-in-fx-trade-to-curb-shekel",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "11:44",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-06-07-53055d07",
@@ -550,20 +536,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-06-e3a9aad1",
-      "headline": "War in Iran Approaches 100 Day Mark",
-      "summary": "American forces headed off Iranian missile and drone attacks in the Persian Gulf as the war that began nearly 100 days ago continued to simmer with no resolution in the offing. Six ballistic missiles fired at Bahrain and Kuwait “were intercepted and a seventh did not reach its intended target,” US Central Command said in a statement on X late Friday. Bloomberg News Congressional Reporter Steven Dennis joined David Gura and Christina Ruffini on Bl",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/war-in-iran-approaches-100-day-mark-video",
-      "region": "NA",
-      "country": "Congress",
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "15:02",
-      "conflict_id": null,
-      "score": 58.1
-    },
-    {
       "id": "2026-06-06-852a4f8b",
       "headline": "Ebola spread in central Africa could match 2014 record outbreak, US health officials say",
       "summary": "Modelling from US CDC shows Ebola spread could be on ‘dangerous trajectory’, but experts warn outbreaks can be very hard to predictCentral Africa’s Ebola outbreak could spread to be similar in scale to the worst outbreak in history, west Africa’s 2014-2016 outbreak that killed more than 11,000 people, according to a new analysis by US health officials.The US Centers for Disease Control and Prevention (CDC) on Friday published a range of scenarios",
@@ -620,18 +592,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-06-06-74496bc4",
-      "headline": "Fed’s Barr Warns of Risks Tied to Looser Wall Street Bank Rules",
-      "summary": "Federal Reserve Governor Michael Barr criticized moves from regulators over the past year to relax the rules for US lenders, saying the proposals “considerably weaken bank regulation and supervision.”",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-06/fed-s-barr-warns-of-risks-tied-to-looser-wall-street-bank-rules",
+      "id": "2026-06-06-76ace517",
+      "headline": "Senators Warn of Intelligence Gaps if Surveillance Program Expires",
+      "summary": "Two senior Republicans urged the Trump administration to prepare for the possible expiration of a contentious intelligence-gathering authority.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/06/us/politics/cotton-grassley-surveillance-program.html",
       "region": "NA",
-      "country": null,
-      "category": "business",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-06-06",
-      "time": "16:00",
+      "time": "23:29",
       "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
     },
     {
       "id": "2026-06-06-f627679c",
@@ -704,16 +676,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-06-65c8725e",
-      "headline": "Bloomberg This Weekend 6/06/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Navy Federal Credit Union Chief Economist Heather Long, CNN Havana Bureau Chief Patrick Oppman, Fmr. US Ambassador to Israel Tom Nides and Grindr CEO George Arison. (Source: Bloomberg)",
+      "id": "2026-06-06-5ce7de5a",
+      "headline": "Delta's Peter Carter on Consumer Premium Travel Appetite",
+      "summary": "Delta Airlines President Peter Carter speaks at the International Air Transport Association (IATA) on consumers \"insatiable appetite\" for premium travel. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-06/bloomberg-this-weekend-6-06-2026-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-06/delta-s-peter-carter-on-consumer-premium-travel-appetite-video",
       "region": "NA",
-      "country": "Israel",
-      "category": "business",
+      "country": null,
+      "category": "politics",
       "date": "2026-06-06",
-      "time": "16:19",
+      "time": "21:34",
       "conflict_id": null,
       "score": 26.1
     },
@@ -744,20 +716,6 @@
       "time": "07:47",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-06-05-8ca0922a",
-      "headline": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
-      "summary": "It is taking place weeks after Xi met the leaders of the US and Russia - two countries that loom large over North Korea's foreign policy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "North Korea",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "05:17",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-06-05-b0d0c9ce",
@@ -802,6 +760,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-06-05-bafe83b5",
+      "headline": "China cracks down on soft porn, violence and materialism in viral micro dramas",
+      "summary": "Micro dramas have surged in popularity, but drawn criticism for often sensationalist content.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clypy34pj6yo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-06-05",
+      "time": "05:16",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-06-04-631f4a55",
       "headline": "Israeli strikes kill 11 people in Gaza City, medics say",
       "summary": "Women and children were among those killed in the attacks on four residential buildings, which Israel's military says killed four Hamas security officials.",
@@ -830,20 +802,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-06-04-31d5910f",
-      "headline": "Kushner-backed luxury resort plan sparks protests in Albania",
-      "summary": "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-04",
-      "time": "14:33",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-04-3af91172",
       "headline": "Fifa bans all water bottles from World Cup games",
       "summary": "Fifa has been warned it is putting fans' health at risk by introducing a bottle ban at this summer's World Cup.",
@@ -870,6 +828,20 @@
       "time": "10:18",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-06-04-31d5910f",
+      "headline": "Kushner-backed luxury resort plan sparks protests in Albania",
+      "summary": "Demonstrators say the project backed by Donald Trump's son-in-law would harm a protected environment.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c3r2rdjv2n1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-04",
+      "time": "14:33",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-06-04-cf2b8442",
@@ -926,6 +898,20 @@
       "time": "21:24",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-06-04-8d74ae2d",
+      "headline": "Civilians flee as Somali troops and opposition-allied militias trade fire in Mogadishu",
+      "summary": "Violence flares before protests on Thursday over president’s decision to remain in office after his term expiredFierce clashes have taken place between government troops and militias allied with the opposition in Somalia’s capital, Mogadishu, damaging property and forcing some civilians to flee.In the runup to the fighting, which started on Wednesday afternoon, opposition leaders embedded with militias set up positions in their clan strongholds t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/04/civilians-flee-mogadishu-somalia-as-militias-and-troops-trade-fire",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-04",
+      "time": "11:52",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-06-04-489be620",
@@ -1052,6 +1038,20 @@
       "time": "21:50",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-06-01-28a73468",
+      "headline": "Colombia presidential runoff pits leftist senator against pro-Trump rival",
+      "summary": "Left-wing senator Iván Cepeda will face Trump admirer Abelardo de la Espriella at the final ballot on 21 June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c1w2xvwq8g9o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Colombia",
+      "category": "politics",
+      "date": "2026-06-01",
+      "time": "01:53",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-05-31-97693d09",
