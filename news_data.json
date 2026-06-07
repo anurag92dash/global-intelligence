@@ -1,8 +1,22 @@
 {
-  "updated": "2026-06-07T19:51:48.948435+00:00",
-  "story_count": 79,
+  "updated": "2026-06-07T20:57:12.247248+00:00",
+  "story_count": 80,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-06-07-26364b03",
+      "headline": "Iran launches missiles at Israel for first time since ceasefire, Israeli military says",
+      "summary": "The apparent attack Sunday night, Tehran’s first such strike in two months, threatened to further complicate efforts to broker a peace deal aimed at ending the war.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "20:23",
+      "conflict_id": null,
+      "score": 65.9
+    },
     {
       "id": "2026-06-07-3057b651",
       "headline": "Zelensky in Downing Street for Ukraine war talks with European leaders",
@@ -46,18 +60,32 @@
       "score": 60.0
     },
     {
-      "id": "2026-06-07-de6ed574",
-      "headline": "Missiles and negotiations: Iran 100 days into the war with US and Israel",
-      "summary": "Talks and attacks have continued for months, and could last much longer without a breakthrough.",
+      "id": "2026-06-07-b79672d8",
+      "headline": "Iran losing patience with Israel and US over ceasefire violations",
+      "summary": "Iran’s patience has reached its limit with the continuous violations of the ‘ceasefire’.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/6/7/missiles-and-negotiations-iran-100-days-into-the-war-with-us-and-israel?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-losing-patience-with-israel-and-us-over-ceasefire-violations?traffic_source=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "14:14",
+      "time": "20:01",
       "conflict_id": null,
-      "score": 55.4
+      "score": 56.4
+    },
+    {
+      "id": "2026-06-07-f9da3833",
+      "headline": "Iran launches missiles at Israel in the first such bombardment since a ceasefire in April",
+      "summary": "There are no immediate reports of injuries or damage in the attack, the first by Iran on Israel since a ceasefire took effect on April 8.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/07/iran-launches-missiles-at-israel-in-the-first-such-bombardment-since-a-ceasefire-in-april",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "19:27",
+      "conflict_id": null,
+      "score": 54.0
     },
     {
       "id": "2026-06-07-5130d3d1",
@@ -102,6 +130,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-06-07-a07c191d",
+      "headline": "Iran launches ballistic missiles at Israel",
+      "summary": "Attack comes after Israel carried out a strike in Beirut that it said targeted Hizbollah",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a312b725-8921-415a-a9da-c8f6836f5459",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "20:13",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
       "id": "2026-06-07-2a0fa84c",
       "headline": "Trump Defends Compensation Fund and Iran War in ‘Meet the Press’ Interview",
       "summary": "In a lengthy interview with NBC’s “Meet the Press,” the president again vowed that gas prices would go down when the war in Iran ends.",
@@ -111,7 +153,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "15:13",
+      "time": "20:19",
       "conflict_id": null,
       "score": 49.2
     },
@@ -158,16 +200,16 @@
       "score": 48.4
     },
     {
-      "id": "2026-06-07-054a3fc8",
-      "headline": "Does Israel really think it can get rid of Hezbollah in Lebanon?",
-      "summary": "It’s hard to assume that ‘anything positive’ for Lebanon can come from its talks with Israel, argues analyst Imad Harb.",
+      "id": "2026-06-07-72f5b5c7",
+      "headline": "Iran fires missiles at Israel after it attacked Beirut",
+      "summary": "Videos show missiles over Israel as the Israeli military says Iran launched a new wave of attacks.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-bottom-line/2026/6/7/does-israel-really-think-it-can-get-rid-of-hezbollah-in-lebanon?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/7/iran-fires-missiles-at-israel-after-it-attacked-beirut?traffic_source=rss",
       "region": "MENA",
-      "country": "Lebanon",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "14:58",
+      "time": "20:12",
       "conflict_id": null,
       "score": 47.4
     },
@@ -184,34 +226,6 @@
       "time": "18:56",
       "conflict_id": "ukraine-war",
       "score": 46.4
-    },
-    {
-      "id": "2026-06-07-f9da3833",
-      "headline": "Iran launches missiles at Israel in the first such bombardment since a ceasefire in April",
-      "summary": "There are no immediate reports of injuries or damage in the attack, the first by Iran on Israel since a ceasefire took effect on April 8.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/07/iran-launches-missiles-at-israel-in-the-first-such-bombardment-since-a-ceasefire-in-april",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "19:27",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-06-07-7ca7bbe7",
-      "headline": "Last-minute visas and moving training camp: Iran's road to the World Cup",
-      "summary": "Iran's participation has become one of the most complex stories of the tournament.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmpmp89dvro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "17:22",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-06-07-24e09cb0",
@@ -242,16 +256,16 @@
       "score": 42.4
     },
     {
-      "id": "2026-06-07-ef8b77e2",
-      "headline": "Trump says U.S. open to unfreezing Iranian funds, easing sanctions ‘if they behave’",
-      "summary": "The president, appearing on “Meet the Press,” said the U.S. will help Iran eliminate its enriched uranium if a peace deal is reached — and warned of harsh military action if talks fail.",
+      "id": "2026-06-07-ee5cab60",
+      "headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
+      "summary": "When pressed by host Kristen Welker, the president cited no evidence for claims about Jan. 6 and elections he said were “rigged.”",
       "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
+      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-walks-out-meet-press-interview-when-challenged-over-false-claims/",
       "region": "NA",
       "country": "Trump",
-      "category": "geopolitics",
+      "category": "politics",
       "date": "2026-06-07",
-      "time": "17:05",
+      "time": "18:15",
       "conflict_id": null,
       "score": 40.9
     },
@@ -282,6 +296,34 @@
       "time": "16:49",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-06-07-a0362aef",
+      "headline": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
+      "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-07",
+      "time": "19:55",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-07-a7fdbda1",
+      "headline": "Israel attacks Beirut days after Trump’s showdown with Netanyahu",
+      "summary": "Limited strikes on Lebanese capital follow US president’s intervention last week forcing Israeli PM to delay major raid",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/02a3b935-62dc-44a1-9957-6867e8ee1890",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "15:02",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-06-07-d273955c",
@@ -338,20 +380,6 @@
       "time": "18:20",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-06-07-ee5cab60",
-      "headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
-      "summary": "When pressed by host Kristen Welker, the president cited no evidence for claims about Jan. 6 and elections he said were “rigged.”",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-walks-out-meet-press-interview-when-challenged-over-false-claims/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "18:15",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-06-07-2b9127eb",
@@ -468,7 +496,7 @@
     {
       "id": "2026-06-07-d04e5e68",
       "headline": "Embraer Arijan Meijer on Tariff Impact Within Aviation",
-      "summary": "Embraer CEO Arijan Meijer speaks at the International Air Transport Association (IATA) on the impact of tariffs saying it \"makes sense\" for aviation to be excluded. (Source: Bloomberg)",
+      "summary": "Embraer CEO of Commercial Aviation Arijan Meijer speaks at the International Air Transport Association (IATA) on the impact of tariffs saying it \"makes sense\" for aviation to be excluded. (Source: Bloomberg)",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-06-07/embraer-arijan-meijer-on-tariff-impact-within-aviation-video",
       "region": "NA",
@@ -476,6 +504,34 @@
       "category": "business",
       "date": "2026-06-07",
       "time": "17:52",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-07-31829ac8",
+      "headline": "Stocks Face Rising Risk With Mega AI Deals Ready to Flood Market",
+      "summary": "A flood of new shares from companies looking to fund their artificial intelligence ambitions is raising questions on Wall Street about whether there will be enough buyers to soak them all up and what this pile of fresh equity will mean for stock prices more broadly.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/ai-s-mega-stock-deals-raise-specter-of-more-shares-than-buyers",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-07-53311a60",
+      "headline": "Etihad Airways CEO on Competition & Asian Market Growth",
+      "summary": "Etihad Airways CEO Antonoaldo Neves speaks at the International Air Transport Association (IATA) on EU carrier advantages, growing Asian traffic, and competition. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-07/etihad-airways-ceo-on-competition-asian-market-growth",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "19:57",
       "conflict_id": null,
       "score": 26.1
     },
@@ -504,34 +560,6 @@
       "category": "business",
       "date": "2026-06-07",
       "time": "16:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-07-15b16d8c",
-      "headline": "The Innovative Digital Archives at the Obama Presidential Center",
-      "summary": "Reflecting his status as a contemporary president, 95% of President Obama's records are digital. The decision was made to forgo the traditional physical archive and provide access to these digital files instead. Bloomberg New's Alexandra Lange joins David Gura and Christina Ruffini on Bloomberg This Weekend to discuss the creation of the Obama Presidential Center.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-07/the-innovative-digital-archives-at-the-obama-center-video",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "16:13",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-07-42179fe3",
-      "headline": "Ingredion Is in Advanced Talks to Acquire Tate &amp; Lyle for £2.7 billion",
-      "summary": "Ingredion Inc. is in advanced talks to acquire Tate &amp; Lyle Plc in a deal valued at £2.7 billion ($3.6 billion), people with knowledge of the matter said, as another famous brand prepares to leaves the London stock market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/ingredion-is-in-advanced-talks-to-acquire-tate-lyle-for-2-7-billion",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-07",
-      "time": "16:01",
       "conflict_id": null,
       "score": 26.1
     },
@@ -634,6 +662,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-06-07-e33f3875",
+      "headline": "Asset managers, trust banks step up scrutiny at Japan shareholder meetings",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-trends/asset-managers-trust-banks-step-up-scrutiny-at-japan-shareholder-meetings",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-06-07-b04cbe41",
       "headline": "In South Korea, separate surnames can leave moms feeling left out",
       "summary": "",
@@ -714,20 +756,6 @@
       "category": "politics",
       "date": "2026-06-07",
       "time": "13:56",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-06-07-e8b57f9c",
-      "headline": "River cruise boom: why holidays on the water are trending",
-      "summary": "River cruises are evolving from a niche product into a key part of Europe's travel market. Rising demand on the German Rhine is increasing pressure on infrastructure.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/07/river-cruise-boom-why-holidays-on-the-water-are-trending",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-06-07",
-      "time": "09:58",
       "conflict_id": null,
       "score": 21.0
     },
@@ -828,20 +856,6 @@
       "time": "22:27",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-06-bdfbf0c6",
-      "headline": "Man dies after shark attack off Western Australia coast near Albany",
-      "summary": "Government department says man was in the water around Michaelmas Island, near Albany, when he was bitten by a suspected 4.5-metre sharkGet our breaking news email, free app or daily news podcastA male diver aged in his 30s has died after being bitten by a shark in Western Australia.The state’s police force confirmed on Saturday afternoon that the 35-year-old man had died, after being treated by paramedics at the scene for more than two hours. Co",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/06/man-fighting-for-life-after-being-bitten-by-shark-off-western-australian-coast",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-06-06",
-      "time": "07:47",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-06-05-b0d0c9ce",
@@ -1065,7 +1079,7 @@
       "date": "2026-06-02",
       "time": "07:31",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-06-02-c2afc63b",
