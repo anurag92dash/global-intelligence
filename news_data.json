@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-07T17:14:45.829583+00:00",
-  "story_count": 79,
+  "updated": "2026-06-07T18:19:32.511603+00:00",
+  "story_count": 80,
   "source_count": 9,
   "stories": [
     {
-      "id": "2026-06-07-28073035",
-      "headline": "US, Iran Appear Far From Peace Deal 100 Days Since War Began",
-      "summary": "The US and Iran appear to be making little progress toward an interim deal to end the war Washington and Israel began 100 days ago, as fresh attacks pile pressure on a fragile ceasefire.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-07/us-and-iran-appear-far-from-peace-deal-100-days-since-war-began",
-      "region": "NA",
-      "country": "Washington",
+      "id": "2026-06-07-6cffd4a2",
+      "headline": "Zelensky arrives in UK for Downing Street talks with European leaders",
+      "summary": "Zelensky's meeting with Ukraine's staunchest European allies comes as US President Donald Trump's focus has shifted to the war with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr7xr1g3nvvo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "10:39",
-      "conflict_id": null,
-      "score": 66.1
+      "time": "17:28",
+      "conflict_id": "ukraine-war",
+      "score": 63.0
     },
     {
       "id": "2026-06-07-72290fd8",
@@ -32,18 +32,18 @@
       "score": 60.0
     },
     {
-      "id": "2026-06-07-d4d16b61",
-      "headline": "Israel kills nine in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
-      "summary": "At least five people were killed in one attack on a police post as Hamas and other groups met mediators in Cairo.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-06-07-28073035",
+      "headline": "US, Iran Appear Far From Peace Deal 100 Days Since War Began",
+      "summary": "The US and Iran appear to be making little progress toward an interim deal to end the war Washington and Israel began 100 days ago, as fresh attacks pile pressure on a fragile ceasefire.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-07/us-and-iran-appear-far-from-peace-deal-100-days-since-war-began",
+      "region": "NA",
+      "country": "Washington",
       "category": "geopolitics",
       "date": "2026-06-07",
-      "time": "14:31",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
+      "time": "10:39",
+      "conflict_id": null,
+      "score": 58.1
     },
     {
       "id": "2026-06-07-31478800",
@@ -58,6 +58,20 @@
       "time": "08:02",
       "conflict_id": null,
       "score": 53.0
+    },
+    {
+      "id": "2026-06-07-5130d3d1",
+      "headline": "Israel kills 13 in Gaza as Egypt hosts renewed ‘ceasefire’ talks",
+      "summary": "Israeli attacks came near Khan Younis, in Gaza City and Deir el-Balah as Hamas and other groups met mediators in Cairo.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/israeli-army-kills-nine-in-gaza-as-mediators-renew-diplomacy-in-cairo?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "14:31",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-06-07-1a728e99",
@@ -102,6 +116,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-06-07-2a0fa84c",
+      "headline": "Trump Defends Compensation Fund and Iran War in ‘Meet the Press’ Interview",
+      "summary": "In a lengthy interview with NBC’s “Meet the Press,” the president again vowed that gas prices would go down when the war in Iran ends.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "15:13",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
       "id": "2026-06-07-de748c07",
       "headline": "Hegseth Criticizes Europe Over Migration ‘Invasion’ in D-Day Speech",
       "summary": "The remarks from Defense Secretary Pete Hegseth reflect many of the Trump administration’s previous assertions on immigrants in Europe, which overlap with the language of European far-right political parties.",
@@ -114,6 +142,20 @@
       "time": "12:37",
       "conflict_id": null,
       "score": 49.2
+    },
+    {
+      "id": "2026-06-07-49763117",
+      "headline": "European leaders to meet Zelenskyy at Downing Street as pressure mounts on Russia",
+      "summary": "The talks will focus on coordinating European support for Ukraine, increasing pressure on Russia and efforts to achieve a just and lasting peace, according to French President Emmanuel Macron.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/07/european-leaders-to-meet-zelenskyy-at-downing-street-as-pressure-mounts-on-russia",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "09:57",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-06-07-054a3fc8",
@@ -200,48 +242,6 @@
       "score": 46.4
     },
     {
-      "id": "2026-06-07-003fad2c",
-      "headline": "Russian drone hits nuclear fuel site near Chernobyl",
-      "summary": "Radiation levels remain ‘within normal limits’, says Ukraine’s state nuclear company",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3c109ff1-e1cd-42c9-86b2-5e5bfb4671e5",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "10:37",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-06-07-2a0fa84c",
-      "headline": "Trump Defends Compensation Fund and Iran War in ‘Meet the Press’ Interview",
-      "summary": "In a lengthy interview with NBC’s “Meet the Press,” the president again vowed that gas prices would go down when the war in Iran ends.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/07/us/politics/trump-new-wars-compensation-fund.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "15:13",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-06-07-49763117",
-      "headline": "European leaders to meet Zelenskyy at Downing Street as pressure mounts on Russia",
-      "summary": "The talks will focus on coordinating European support for Ukraine, increasing pressure on Russia and efforts to achieve a just and lasting peace, according to French President Emmanuel Macron.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/07/european-leaders-to-meet-zelenskyy-at-downing-street-as-pressure-mounts-on-russia",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "09:57",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
-    },
-    {
       "id": "2026-06-07-ef8b77e2",
       "headline": "Trump says U.S. open to unfreezing Iranian funds, easing sanctions ‘if they behave’",
       "summary": "The president, appearing on “Meet the Press,” said the U.S. will help Iran eliminate its enriched uranium if a peace deal is reached — and warned of harsh military action if talks fail.",
@@ -310,6 +310,20 @@
       "time": "14:00",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-06-07-ee5cab60",
+      "headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
+      "summary": "When pressed by host Kristen Welker, the president cited no evidence for claims about Jan. 6 and elections he said were “rigged.”",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-walks-out-meet-press-interview-when-challenged-over-false-claims/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-07",
+      "time": "18:15",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-06-07-264c0ba8",
@@ -410,6 +424,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-07-d04e5e68",
+      "headline": "Embraer Arijan Meijer on Tariff Impact Within Aviation",
+      "summary": "Embraer CEO Arijan Meijer speaks at the International Air Transport Association (IATA) on the impact of tariffs saying it \"makes sense\" for aviation to be excluded. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-07/embraer-arijan-meijer-on-tariff-impact-within-aviation-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "17:52",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-07-391397f3",
+      "headline": "Bloomberg This Weekend 6/07/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Florida Rep. Greg Steube, Air France-KLM Benjamin Smith, United Airlines CEO Scott Kirby, Oklahoma Sen. Alan Armstrong, GE Aerospace Larry Culp, Puck News Washington Reporter Abby Livingston and Eagleton Center for Public Interest Polling Ashley Kon",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-07/bloomberg-this-weekend-6-07-2026-video",
+      "region": "EU",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-06-07",
+      "time": "17:15",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-07-1e3e66c3",
       "headline": "Brazil Budget Freeze Grounds Aircraft Approval Process",
       "summary": "Brazil’s decision to freeze part of the budget of its civil aviation regulator is threatening to delay the arrival of new aircraft and planned capacity expansions just as airlines race to meet robust travel demand and address fleet shortages.",
@@ -480,20 +522,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-07-c11104cb",
-      "headline": "Rep. Steube Discusses Concerns Over Acting DNI Head",
-      "summary": "President Trump has appointed Bill Pulte as the Acting Director of National Intelligence which has mixed reactions from lawmakers on both sides of the aisle. Republican Congressman Greg Steube joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss his opinion on Pulte's appointment. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-07/rep-steube-discusses-concerns-over-acting-dni-head-video",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "12:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-07-2be4ff0c",
       "headline": "Can a Forgotten Caribbean Town Become a Spaceport?",
       "summary": "The Dominican Republic’s plan to build a commercial spaceport in the small town of Oviedo is about far more than rockets. Launch on Demand founder Burton Catledge says the project could create thousands of jobs, attract new investment, and help diversify the country beyond tourism. Supporters envision a new hub for aerospace, technology, and education, while local residents hope the project can bring opportunities to a region that has long felt o",
@@ -504,34 +532,6 @@
       "category": "business",
       "date": "2026-06-07",
       "time": "14:03",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-07-76f6d7d7",
-      "headline": "SpaceX IPO: What You Need to Know",
-      "summary": "Ahead of SpaceX's highly anticipated IPO Co-host of Bloomberg Tech Ed Ludlow, Bloomberg New's Senior Equities reporter Bailey Lipschultz, and Bloomberg's Senior Aerospace Defense and Airline analyst George Ferguson join David Gura and Christina Ruffini on Bloomberg This Weekend to discuss market expectations and the potential impact on the industry. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-07/spacex-ipo-what-you-need-to-know-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-07",
-      "time": "13:35",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-07-53a51e9b",
-      "headline": "Is the Caribbean the Next Space Race Battleground?",
-      "summary": "The rapid growth of satellite networks is creating a global race to build the infrastructure needed to get them into orbit. Launch on Demand founder Burton Catledge is developing what could become the first US-owned commercial spaceport in Latin America, betting that demand for launch capacity will surge as the number of satellites in orbit expands dramatically over the coming decade. McKinsey aerospace expert Ryan Burkardt says existing launch i",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-07/is-the-caribbean-the-next-space-race-battleground-video",
-      "region": "SA",
-      "country": "Latin America",
-      "category": "business",
-      "date": "2026-06-07",
-      "time": "12:04",
       "conflict_id": null,
       "score": 26.1
     },
@@ -562,6 +562,20 @@
       "time": "16:47",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-07-4f8a51eb",
+      "headline": "Bolivia’s legislature passes law allowing use of troops against protesters",
+      "summary": "New law grants president power to use military to clear roadblocks set up amid weeks of antigovernment demonstrations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/7/bolivias-legislature-passes-law-allowing-use-of-troops-against-protesters?traffic_source=rss",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-06-07",
+      "time": "17:13",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-06-07-5f38a5ad",
