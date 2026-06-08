@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-08T22:53:19.658780+00:00",
-  "story_count": 75,
-  "source_count": 9,
+  "updated": "2026-06-08T23:55:32.812460+00:00",
+  "story_count": 79,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-06-08-69cf5337",
@@ -15,7 +15,21 @@
       "date": "2026-06-08",
       "time": "22:47",
       "conflict_id": null,
-      "score": 59.0
+      "score": 67.0
+    },
+    {
+      "id": "2026-06-08-d19a1207",
+      "headline": "Gold Steadies After Israel and Iran Agree to End Missile Strikes",
+      "summary": "Gold was steady, after Israel and Iran agreed to end attacks that had jeopardized talks to end the war in the Middle East.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/gold-steadies-after-israel-and-iran-agree-to-end-missile-strikes",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-08",
+      "time": "23:19",
+      "conflict_id": null,
+      "score": 58.1
     },
     {
       "id": "2026-06-08-eae1fe2a",
@@ -74,18 +88,60 @@
       "score": 49.2
     },
     {
-      "id": "2026-06-08-8c5309ae",
-      "headline": "Xi meets Kim in Pyongyang amid scrutiny of North Korea's nuclear buildup",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/xi-meets-kim-in-pyongyang-amid-scrutiny-of-north-korea-s-nuclear-buildup",
+      "id": "2026-06-08-cc981073",
+      "headline": "Soldiers, not talks will decide Russia's war in Ukraine, Lavrov says",
+      "summary": "Russia’s top diplomat criticised Zelenskyy’s open letter to Putin, rejecting the possibility of direct talks with Kyiv.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/08/soldiers-not-talks-will-decide-russias-war-in-ukraine-lavrov-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-08",
+      "time": "14:29",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
+      "id": "2026-06-08-1445e8ec",
+      "headline": "Israel launches strikes on Iran after Tehran fires barrage of missiles",
+      "summary": "The exchange, after Tehran’s first such strike on Israel in two months, threatened to further complicate efforts to broker a peace deal aimed at ending the war.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-08",
+      "time": "02:21",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
+      "id": "2026-06-08-ac1c1733",
+      "headline": "Eriksen at home and 'doing well' after collapse",
+      "summary": "Christian Eriksen says he is \"doing well\" and is at home with his family following his collapse in Sunday's game against Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-08",
+      "time": "16:29",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-06-08-a66473f5",
+      "headline": "Watch: Why is China's Xi Jinping visiting North Korea?",
+      "summary": "The Chinese President Xi received a colourful welcome to Pyongyang for his first visit in seven years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c5yzje727l5o?at_medium=RSS&at_campaign=rss",
       "region": "APJ",
       "country": "North Korea",
       "category": "geopolitics",
       "date": "2026-06-08",
-      "time": "",
+      "time": "12:18",
       "conflict_id": null,
-      "score": 46.8
+      "score": 43.0
     },
     {
       "id": "2026-06-08-22b03523",
@@ -114,34 +170,6 @@
       "time": "17:19",
       "conflict_id": null,
       "score": 42.4
-    },
-    {
-      "id": "2026-06-08-42611846",
-      "headline": "Oil Steady as Israel and Iran Halt Hostilities That Risked Talks",
-      "summary": "Oil steadied after Israel and Iran agreed to end attacks against each other following an escalation of violence that threatened to derail efforts to end the war in the Middle East.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/latest-oil-market-news-and-analysis-for-june-9",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-08",
-      "time": "22:07",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-06-08-1445e8ec",
-      "headline": "Israel launches strikes on Iran after Tehran fires barrage of missiles",
-      "summary": "The exchange, after Tehran’s first such strike on Israel in two months, threatened to further complicate efforts to broker a peace deal aimed at ending the war.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-says-us-open-unfreezing-iranian-funds-easing-sanctions-if-they-behave/",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-08",
-      "time": "02:21",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-06-08-68354082",
@@ -186,6 +214,48 @@
       "score": 39.4
     },
     {
+      "id": "2026-06-08-ab6245f6",
+      "headline": "US confirms it denied entry to Somali referee set to take part in World Cup",
+      "summary": "Award-winning referee Omar Artan was &#039;determined to be inadmissible due to vetting concerns&#039; after arriving in Miami.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/8/us-confirms-denying-entry-to-somali-referee-set-to-take-part-in-world-cup?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-08",
+      "time": "21:30",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-08-8c5309ae",
+      "headline": "Xi meets Kim in Pyongyang amid scrutiny of North Korea's nuclear buildup",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/xi-meets-kim-in-pyongyang-amid-scrutiny-of-north-korea-s-nuclear-buildup",
+      "region": "APJ",
+      "country": "North Korea",
+      "category": "geopolitics",
+      "date": "2026-06-08",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
+    },
+    {
+      "id": "2026-06-08-159b6eeb",
+      "headline": "Danish footballer Christian Eriksen 'doing well' after collapse",
+      "summary": "Eriksen is recovering at home with his family after collapsing during a game against Ukraine on Sunday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/08/danish-footballer-christian-eriksen-doing-well-after-collapse",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-08",
+      "time": "18:16",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-06-08-c740d379",
       "headline": "Armenia's pro-West government wins election despite Russian pressure",
       "summary": "Prime Minister Nikol Pashinyan's Civil Contract Party secures nearly 50% of the vote, comfortably beating the other contenders.",
@@ -196,34 +266,6 @@
       "category": "politics",
       "date": "2026-06-08",
       "time": "10:28",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-08-136075c7",
-      "headline": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
-      "summary": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-06-08",
-      "time": "17:18",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-08-ac1c1733",
-      "headline": "Eriksen at home and 'doing well' after collapse",
-      "summary": "Christian Eriksen says he is \"doing well\" and is at home with his family following his collapse in Sunday's game against Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c9w2kpyx58no?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-08",
-      "time": "16:29",
       "conflict_id": null,
       "score": 35.0
     },
@@ -242,6 +284,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-08-136075c7",
+      "headline": "Jailed crypto founder Sam Bankman-Fried seeks Trump pardon",
+      "summary": "The former leader of crypto platform FTX, currently serving a 25-year sentence, on Monday officially applied to be pardoned.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjwgd6jqd5do?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-06-08",
+      "time": "17:18",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-08-1fc07000",
       "headline": "Ratcliffe’s Ineos Launches Loan Deal After War Boost",
       "summary": "Ineos Group started marketing new term loans to raise around $960 million, marking the second time in recent weeks that Jim Ratcliffe’s struggling chemicals conglomerate has tapped debt markets.",
@@ -254,6 +310,20 @@
       "time": "14:21",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-06-08-feb4e4fd",
+      "headline": "Trump Nominates Blanche for Attorney General, Setting Up Confirmation Fight",
+      "summary": "As acting attorney general, Todd Blanche has shown a willingness to execute the president’s maximalist demands. Whether the Senate will confirm him remains unclear.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/08/us/politics/trump-todd-blanche-attorney-general.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-06-08",
+      "time": "21:29",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-06-08-1495e47a",
@@ -284,16 +354,16 @@
       "score": 32.0
     },
     {
-      "id": "2026-06-08-fbe53dcb",
-      "headline": "EU planning to add to $1.5 trillion sanctions hit on Russia",
-      "summary": "New proposed listings target Russia&#039;s &#039;military industrial complex, human rights violators and propagandists&#039;.",
+      "id": "2026-06-08-bbaa2804",
+      "headline": "Trump nominates Todd Blanche as attorney general, setting up Senate fight",
+      "summary": "Blanche, who currently serves as acting attorney general, has faced controversy over the Epstein files and January 6.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/8/eu-planning-to-add-to-1-5-trillion-sanctions-hit-on-russia?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
+      "url": "https://www.aljazeera.com/news/2026/6/8/trump-nominates-todd-blanche-as-attorney-general-setting-up-senate-fight?traffic_source=rss",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
       "date": "2026-06-08",
-      "time": "21:25",
+      "time": "23:17",
       "conflict_id": null,
       "score": 31.4
     },
@@ -310,6 +380,34 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-06-08-3321cd20",
+      "headline": "France’s justice minister refuses to resign after outcry over girl’s killing",
+      "summary": "Gérald Darmanin will not resign, but he apologised for the handling of the primary suspect in an 11-year-old girl's murder and asked France's public prosecutors to re-examine the country's 70,000 legal complaints under review for alleged crimes against children.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/08/frances-justice-minister-refuses-to-resign-after-outcry-over-girls-killing",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-06-08",
+      "time": "14:12",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-06-08-d30638df",
+      "headline": "SpaceX's stock market blast-off could be Musk's biggest gamble yet",
+      "summary": "SpaceX is preparing for a stock market debut that could transform the company, the wider market and Elon Musk's fortune.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy8d9e4lzv1o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-08",
+      "time": "23:22",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-06-08-468e474b",
@@ -340,6 +438,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-06-08-8c72a0dd",
+      "headline": "How one of India's most successful female politicians is losing her party",
+      "summary": "Mamata Banerjee's once-dominant Trinamool Congress party is unravelling, weeks after losing power in West Bengal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx2w4y6l9yqo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-06-08",
+      "time": "22:44",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-06-08-45fafcee",
       "headline": "Wall Street rebounds as traders race back into chip stocks",
       "summary": "Intel and Micron among big gainers as fervour over AI-linked shares resumes",
@@ -354,22 +466,22 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-08-fc4da25d",
-      "headline": "SpaceX IPO Is Well Oversubscribed With $10 Billion Orders",
-      "summary": "SpaceX’s initial public offering is well oversubscribed with multiple institutional investors placing orders for about $10 billion or more of shares, according to people familiar with the matter, as demand builds for a potentially record-setting debut.",
+      "id": "2026-06-08-6807c01f",
+      "headline": "WestJet Slams Canada’s Loan Offer to Airlines Hit by Fuel Costs",
+      "summary": "WestJet Airlines Ltd. condemned the Canadian government’s offer of loans to help carriers hit by high jet fuel costs in the wake of the closing of the Strait of Hormuz.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/spacex-ipo-is-said-to-be-well-oversubscribed-orders-close-wed",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-08/westjet-slams-canada-s-loan-offer-to-airlines-hit-by-fuel-costs",
       "region": "NA",
-      "country": null,
+      "country": "Canada",
       "category": "politics",
       "date": "2026-06-08",
-      "time": "15:49",
+      "time": "22:56",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-06-08-e71b16fb",
-      "headline": "OpenAI Filed Confidentially for IPO as Rivals Race to Market",
+      "id": "2026-06-08-000fc35d",
+      "headline": "OpenAI Files Confidentially for IPO as Rivals Race to Market",
       "summary": "OpenAI, the maker of ChatGPT, filed confidentially for an IPO, joining artificial intelligence rivals in tapping public markets to fund ambitious growth plans.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-08/openai-filed-confidentially-for-ipo-as-rivals-race-to-market",
@@ -392,20 +504,6 @@
       "category": "business",
       "date": "2026-06-08",
       "time": "19:27",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-08-cd145270",
-      "headline": "Bitcoin’s $235 Billion Crash Masks Bigger Shift in Crypto",
-      "summary": "The easiest way to understand crypto used to be to look at Bitcoin.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-08/bitcoin-s-235-billion-crash-masks-a-bigger-shift-across-crypto",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-08",
-      "time": "15:56",
       "conflict_id": null,
       "score": 26.1
     },
@@ -475,7 +573,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-06-08",
-      "time": "22:14",
+      "time": "23:24",
       "conflict_id": null,
       "score": 25.2
     },
@@ -494,8 +592,8 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-08-f6143187",
-      "headline": "Australia news live: ABC boss says Pickering did not violate code with Tame comments: Hanson claims ‘no wonder’ Victorian premier called ‘witch’",
+      "id": "2026-06-08-e920ffbc",
+      "headline": "Australia news live: ABC boss says Pickering did not violate code with Tame comments; Hanson claims ‘no wonder’ Victorian premier called ‘witch’",
       "summary": "Hugh Marks says Charlie Pickering’s comments to Avi Yemini about Grace Tame hosting an ABC podcast were ‘his own view’Get our breaking news email, free app or daily news podcast‘If Australian datacentres are going to power the AI revolution, we deserve a fair return’ – David PocockIndependent senator David Pocock has published an opinion piece about the growth of AI datacentres in Australia and how the gold rush should benefit Australians. He wri",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/09/anthony-albanese-labor-one-nation-pauline-hanson-coalition-angus-taylor-ndis-jacinta-allan-victoria-ntwnfb",
@@ -503,7 +601,7 @@
       "country": "Australia",
       "category": "business",
       "date": "2026-06-08",
-      "time": "22:30",
+      "time": "23:50",
       "conflict_id": null,
       "score": 24.0
     },
@@ -548,20 +646,6 @@
       "time": "19:30",
       "conflict_id": null,
       "score": 23.4
-    },
-    {
-      "id": "2026-06-08-152bfd26",
-      "headline": "Hong Kong's urban development near China border draws AstraZeneca, others",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/property/hong-kong-s-urban-development-near-china-border-draws-astrazeneca-others",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "geopolitics",
-      "date": "2026-06-08",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
     },
     {
       "id": "2026-06-08-3bed128d",
@@ -634,6 +718,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-06-08-6f783908",
+      "headline": "Wizz Air announces Starlink wifi deal as other budget rivals hold back",
+      "summary": "The Hungarian budget carrier will roll out satellite internet across its fleet from 2027, as Ryanair and EasyJet continue to resist the technology over cost concerns.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/next/2026/06/08/wizz-air-announces-starlink-wifi-deal-as-other-budget-rivals-hold-back",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-08",
+      "time": "13:38",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-06-08-3adaab7e",
+      "headline": "Intesa Sanpaolo launches bid for Mps bank, merger set for December 2026",
+      "summary": "Within 24 hours of Banco BPM’s merger bid, Intesa Sanpaolo launches a full public offer for Monte dei Paschi di Siena. If approved, the deal would create Europe’s second-largest banking group.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/06/08/intesa-sanpaolo-launches-bid-for-mps-bank-merger-set-for-december-2026",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-06-08",
+      "time": "12:15",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-06-07-090feb7e",
       "headline": "Iran's World Cup team lands in Mexico amid US visa row",
       "summary": "All of Iran's group games are in the US, but players and support staff will have to fly in and out of the country on match day.",
@@ -658,20 +770,6 @@
       "category": "geopolitics",
       "date": "2026-06-07",
       "time": "21:39",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-07-a0362aef",
-      "headline": "Trump abruptly ends NBC interview after clash over 'rigged election' claim",
-      "summary": "During the interview, the president was repeatedly challenged on several points by the show's presenter Kristen Welker.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/ce8k1xx6yzjo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "19:55",
       "conflict_id": null,
       "score": 35.0
     },
@@ -702,20 +800,6 @@
       "time": "10:35",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-06-07-ee5cab60",
-      "headline": "Trump walks out of ‘Meet the Press’ interview when challenged over false claims",
-      "summary": "When pressed by host Kristen Welker, the president cited no evidence for claims about Jan. 6 and elections he said were “rigged.”",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/07/trump-walks-out-meet-press-interview-when-challenged-over-false-claims/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-07",
-      "time": "18:15",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-06-07-fd500ecd",
@@ -774,34 +858,6 @@
       "score": 47.0
     },
     {
-      "id": "2026-06-06-1263b614",
-      "headline": "‘Historic’: Canadian warehouse workers sign first-ever union deal with Walmart",
-      "summary": "Union says collective agreement is just the start of a broader fight to unionize major employers across the countryCanadian warehouse workers have signed the first-ever collective agreement with Walmart, a breakthrough labour organizers are calling a “historic and powerful step”.But the union says the deal with a corporation long hostile to organized labour is only an opening salvo in a broader fight to unionize major employers across the country",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/06/canada-walmart-first-union-deal",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-06",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-06-06-a50f9b82",
-      "headline": "Insecurity and instability drive voters in Peru's tight presidential race",
-      "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-06-06",
-      "time": "23:17",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-06-06-cb7ccc8b",
       "headline": "Ragas and symphonies: Indian maestro Ilaiyaraaja is still reshaping music 50 years on",
       "summary": "Fifty years after his debut, Ilaiyaraaja remains one of the most celebrated composers in Indian cinema.",
@@ -816,18 +872,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-05-8ca0922a",
-      "headline": "Xi Jinping to meet Kim Jong Un in rare visit to North Korea",
-      "summary": "It is taking place weeks after Xi met the leaders of the US and Russia - two countries that loom large over North Korea's foreign policy.",
+      "id": "2026-06-06-a50f9b82",
+      "headline": "Insecurity and instability drive voters in Peru's tight presidential race",
+      "summary": "After eight presidents in 10 years, many voters are looking for stability so the next president can focus on tackling crime and inequality.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clypym3q7p1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/c9d21184e7yo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "North Korea",
-      "category": "geopolitics",
-      "date": "2026-06-05",
-      "time": "05:17",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-06-06",
+      "time": "23:17",
       "conflict_id": null,
-      "score": 51.0
+      "score": 27.0
     },
     {
       "id": "2026-06-05-016aaf48",
@@ -869,7 +925,7 @@
       "date": "2026-06-04",
       "time": "14:23",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-06-04-561b82f6",
