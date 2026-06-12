@@ -6,9 +6,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
-    "last_activity": "2026-06-11",
+    "status_signal": "escalating",
+    "last_activity": "2026-06-12",
     "recent_headlines": [
+      {
+        "headline": "Three killed as Ukraine and Russia exchange cross-border attacks",
+        "source": "Al Jazeera",
+        "date": "2026-06-12"
+      },
       {
         "headline": "Avril Haines, Former Intelligence Chief, Will Lead Carnegie Endowment for International Peace",
         "source": "New York Times",
@@ -18,11 +23,6 @@
         "headline": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
         "source": "BBC News",
         "date": "2026-06-10"
-      },
-      {
-        "headline": "Russia's fuel crisis intensifies as Ukraine steps up strikes on occupied territories",
-        "source": "BBC News",
-        "date": "2026-06-08"
       }
     ],
     "timeline": [
@@ -60,14 +60,14 @@
         "date": "2026-06-12"
       },
       {
-        "headline": "Israel deports French journalist accused of supporting Hamas",
-        "source": "Al Jazeera",
-        "date": "2026-06-11"
-      },
-      {
         "headline": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
         "source": "BBC News",
         "date": "2026-06-09"
+      },
+      {
+        "headline": "Funeral held for baby shot dead by Israeli troops in occupied West Bank",
+        "source": "BBC News",
+        "date": "2026-06-06"
       }
     ],
     "timeline": [
@@ -131,19 +131,19 @@
     "last_activity": "2026-06-12",
     "recent_headlines": [
       {
-        "headline": "Asian stocks rise after Trump hints at Iran war deal",
+        "headline": "Global stocks rise after Trump hints at Iran war deal",
         "source": "Financial Times",
         "date": "2026-06-12"
       },
       {
-        "headline": "Supreme Court Blocks Alabama From Executing Inmate Using Nitrogen Gas",
-        "source": "New York Times",
+        "headline": "Pokémon Go data trained AI that could assist military drones in war zones",
+        "source": "The Guardian",
         "date": "2026-06-12"
       },
       {
-        "headline": "Israel deports French journalist accused of supporting Hamas",
-        "source": "Al Jazeera",
-        "date": "2026-06-11"
+        "headline": "SpaceX IPO: How Locked-Out Asian Investors Are Trading",
+        "source": "Bloomberg",
+        "date": "2026-06-12"
       }
     ],
     "timeline": [
@@ -174,11 +174,6 @@
       {
         "headline": "Deadly Sudan drone strike targets funeral procession",
         "source": "BBC News",
-        "date": "2026-06-11"
-      },
-      {
-        "headline": "Scaffolding Company’s Data-Center Pivot Cuts Into Margins",
-        "source": "Bloomberg",
         "date": "2026-06-11"
       }
     ],
