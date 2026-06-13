@@ -1,8 +1,50 @@
 {
-  "updated": "2026-06-13T08:14:26.152570+00:00",
+  "updated": "2026-06-13T10:38:16.669048+00:00",
   "story_count": 76,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-06-13-48b25333",
+      "headline": "US kills leader of Venezuela's Tren de Aragua gang in airstrike, Trump says",
+      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-06-13",
+      "time": "04:09",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
+      "id": "2026-06-13-9ed8a3e1",
+      "headline": "US kills leader of Venezuelan Tren de Aragua gang in air strike",
+      "summary": "Trump administration said it killed Héctor Guerrero in co-ordination with the government of Delcy Rodríguez",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/298a1431-dc3e-4cbc-aa6f-769e54541b60",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-13",
+      "time": "03:42",
+      "conflict_id": null,
+      "score": 58.4
+    },
+    {
+      "id": "2026-06-13-478fed93",
+      "headline": "US Kills Tren de Aragua Leader Guerrero in Strike on Compound",
+      "summary": "The US killed the leader of the Tren De Aragua drug cartel, Niño Guerrero, in a strike that was carried out with the assistance of Venezuela, President Donald Trump said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/trump-says-us-killed-tren-de-aragua-leader-nino-guerrero",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-13",
+      "time": "01:29",
+      "conflict_id": null,
+      "score": 58.1
+    },
     {
       "id": "2026-06-13-38177331",
       "headline": "Trump says leader of Venezuelan Tren de Aragua gang killed in US strike",
@@ -18,32 +60,32 @@
       "score": 57.0
     },
     {
-      "id": "2026-06-13-9ed8a3e1",
-      "headline": "US kills leader of Venezuelan Tren de Aragua gang in air strike",
-      "summary": "Trump administration said it killed Héctor Guerrero in co-ordination with the government of Delcy Rodríguez",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/298a1431-dc3e-4cbc-aa6f-769e54541b60",
-      "region": "NA",
-      "country": "Venezuela",
-      "category": "politics",
+      "id": "2026-06-13-b7ab99d4",
+      "headline": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
+      "summary": "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
       "date": "2026-06-13",
-      "time": "03:42",
+      "time": "09:12",
       "conflict_id": null,
-      "score": 50.4
+      "score": 56.4
     },
     {
-      "id": "2026-06-13-478fed93",
-      "headline": "US Kills Tren de Aragua Leader Guerrero in Strike on Compound",
-      "summary": "The US killed the leader of the Tren De Aragua drug cartel, Niño Guerrero, in a strike that was carried out with the assistance of Venezuela, President Donald Trump said.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/trump-says-us-killed-tren-de-aragua-leader-nino-guerrero",
-      "region": "NA",
-      "country": "Venezuela",
-      "category": "politics",
+      "id": "2026-06-13-d6539e6e",
+      "headline": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+      "summary": "Shady al-Areer, 38, was smuggled from Israel into the occupied West Bank after October 7, 2023. This is his story.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
       "date": "2026-06-13",
-      "time": "01:29",
-      "conflict_id": null,
-      "score": 50.1
+      "time": "08:04",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-06-13-1ecb1bf4",
@@ -57,7 +99,21 @@
       "date": "2026-06-13",
       "time": "06:15",
       "conflict_id": null,
-      "score": 48.4
+      "score": 47.4
+    },
+    {
+      "id": "2026-06-13-5e06fd38",
+      "headline": "US fans celebrate victory over Paraguay in World Cup opener",
+      "summary": "US fans celebrate victory over Paraguay in World Cup opener",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/us-fans-celebrate-victory-over-paraguay-in-world-cup-opener?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-13",
+      "time": "07:58",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-06-13-ccc94087",
@@ -70,20 +126,6 @@
       "category": "geopolitics",
       "date": "2026-06-13",
       "time": "06:07",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-06-13-623e99e1",
-      "headline": "Iran war live: US, Tehran signal peace deal within reach but not signed yet",
-      "summary": "Four activists from Palestine Action jailed by a British court over protest raid on Israeli arms firm in UK.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/13/iran-war-live-us-tehran-signal-peace-deal-within-reach-but-not-signed-yet?traffic_source=rss",
-      "region": "MENA",
-      "country": "Palestine",
-      "category": "geopolitics",
-      "date": "2026-06-13",
-      "time": "00:00",
       "conflict_id": null,
       "score": 39.4
     },
@@ -186,6 +228,34 @@
       "score": 30.8
     },
     {
+      "id": "2026-06-13-6dd354f0",
+      "headline": "Theft of rare Pushkin editions in France: up to 7 years in prison for perpetrators",
+      "summary": "According to French magistrates, the flights may be intended to repatriate Russian cultural heritage, against a backdrop of heightened tensions between Moscow and the West since the full-scale invasion of Ukraine.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/06/13/theft-of-rare-pushkin-editions-in-france-up-to-7-years-in-prison-for-perpetrators",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-13",
+      "time": "09:29",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-06-13-da97fa7d",
+      "headline": "Could drones target Germany's parliament? Minister warns of growing threat",
+      "summary": "As drone-related security concerns rise across Europe, German Interior Minister Alexander Dobrindt is calling for permanent protection of the Bundestag and other constitutional bodies while authorities expand the country's counter-drone capabilities.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/13/drone-attack-on-bundestag-dobrindt-warns-of-growing-threat",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-06-13",
+      "time": "08:23",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-06-13-410c34aa",
       "headline": "‘A huge anomaly’: Antarctica records winter temperatures 20C warmer than normal",
       "summary": "The new heat record comes amid a prolonged heatwave that has seen maximum daily temperatures above zero degrees for three consecutive weeks.",
@@ -198,6 +268,20 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 29.0
+    },
+    {
+      "id": "2026-06-13-627fb562",
+      "headline": "Anthropic suspends new AI tools over US government security concerns",
+      "summary": "Anthropic's Claude Fable 5, released publicly this week, sparked concerns about cybersecurity and hacking.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c932g3v3e13o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-13",
+      "time": "03:54",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-06-13-838e5f66",
@@ -242,6 +326,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-13-53bced79",
+      "headline": "Former ECB Rate-Setter Muller Reports for Duty as Volunteer Cop",
+      "summary": "Just days after finishing a seven-year stint at the helm of Estonia’s central bank, Madis Muller is preparing for a very different role: volunteering in the police’s criminal-investigations unit.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-13/former-ecb-rate-setter-muller-reports-for-duty-as-volunteer-cop",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-13",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-13-4464b6b3",
       "headline": "Switzerland Asks If 10 Million People Is Where to Draw the Line",
       "summary": "A Swiss plebiscite this weekend on whether to impose a population ceiling is offering voters a choice that threatens to become their most consequential yet of the current century.",
@@ -270,6 +368,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-06-13-1e623f90",
+      "headline": "Challenges and Opportunities of Investing in African Startups",
+      "summary": "Investment into African startups held up in 2025, even as funding conditions tightened. According to AVCA, more than $5 billion was invested in African startups last year, with deal activity also rising. Bloomberg's Jennifer Zabasajja spoke with venture capital investor Andrew Firman from Kaleo Ventures on opportunities and challenges of investing in the continent. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/challenges-and-opportunities-of-investing-in-african-startups",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-13",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-13-58608515",
       "headline": "Two Dan Sullivans? Alaska Republicans Suggest Kicking One Off the Ballot in Senate Race",
       "summary": "The lieutenant governor and the top elections official, both Republicans, are investigating whether the challenger coordinated with a Democrat to confuse voters.",
@@ -284,18 +396,18 @@
       "score": 25.2
     },
     {
-      "id": "2026-06-13-5c25975d",
-      "headline": "Jessie J’s triumphant return puts lucrative Chinese market in spotlight",
-      "summary": "Other western acts have attempted to crack country’s music scene since singer’s breakout success in 2018One week after announcing she was “cancer free”, the British pop star Jessie J did what any recovering patient would do and travelled thousands of miles around the world to perform for an audience of more than a billion people.On 29 May, the singer-songwriter, whose real name is Jessica Cornish, belted out a stage-rattling rendition of Frank Si",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/jessie-j-lucrative-chinese-market-westlife-charli-xcx",
-      "region": "EU",
-      "country": null,
+      "id": "2026-06-13-18d154b1",
+      "headline": "‘Right to protest genocide’ denied: Scotland’s Palestine Action supporters",
+      "summary": "As the banned group fights its proscription in London, similar battles are playing out in Edinburgh.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/13/right-to-protest-genocide-denied-scotlands-palestine-action-supporters?traffic_source=rss",
+      "region": "MENA",
+      "country": "Palestine",
       "category": "politics",
       "date": "2026-06-13",
-      "time": "05:00",
+      "time": "09:13",
       "conflict_id": null,
-      "score": 24.0
+      "score": 23.4
     },
     {
       "id": "2026-06-13-a9fdfe4d",
@@ -354,20 +466,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-13-f2f5942c",
-      "headline": "Australia's Woodside swoops on Inpex attempt to buy into gas venture",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/australia-s-woodside-swoops-on-inpex-attempt-to-buy-into-gas-venture",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-06-13",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-06-12-346ce597",
       "headline": "Palestinian and Israeli civil society groups urge G7 to take action on Gaza",
       "summary": "Paris meeting draws up proposals and calls for urgent diplomacy towards two-state solution at summit next weekPalestinian and Israeli civil society groups meeting in Paris on Friday have urged G7 leaders to act at their summit in the French spa town of Évian-les-Bains next week to save the narrowing chances of a two-state solution.The groups called for specific action on enforcing a ceasefire, disarming Hamas and starting reconstruction in Gaza, ",
@@ -396,6 +494,20 @@
       "score": 59.0
     },
     {
+      "id": "2026-06-12-36e3d52e",
+      "headline": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
+      "summary": "Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at warIran will present a major challenge to Fifa’s “football unites the world” slogan on Monday by becoming the first country in World Cup history to compete on the soil of a host nation with which it is at war.The national team’s opening match against New Zealand in Los Angeles will kick off amid continu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+      "region": "NA",
+      "country": "New Zealand",
+      "category": "geopolitics",
+      "date": "2026-06-12",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 57.0
+    },
+    {
       "id": "2026-06-12-cd2db3ac",
       "headline": "US says it downed multiple Iranian attack drones as both sides say peace deal is closer",
       "summary": "A ceasefire took effect in April, but sporadic episodes of violence have occurred, each time sparking new fears of a return to all-out war, despite Trump repeatedly stating a deal was within reach.",
@@ -410,34 +522,6 @@
       "score": 53.0
     },
     {
-      "id": "2026-06-12-52fa1849",
-      "headline": "EU agrees launch of accession process for Ukraine and Moldova",
-      "summary": "Progress for Kyiv&#039;s membership bid given the green light after Hungary&#039;s new government lifts Budapest&#039;s veto.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/eu-agrees-launch-of-accession-process-for-ukraine-and-moldova?traffic_source=rss",
-      "region": "EU",
-      "country": "Hungary",
-      "category": "geopolitics",
-      "date": "2026-06-12",
-      "time": "20:58",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
-      "id": "2026-06-12-908b785f",
-      "headline": "World Cup Ticket Prices in Mexico City Too Expensive for Most Fans",
-      "summary": "The opening game in Mexico City took place amid weeks of protests from groups including teachers’ unions complaining about pay and pensions.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/12/us/world-cup-tickets-expensive-mexico.html",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "politics",
-      "date": "2026-06-12",
-      "time": "23:03",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
       "id": "2026-06-12-2ea2e250",
       "headline": "Canada police investigate whether Toronto police death linked to global terror attacks",
       "summary": "Constable Marc Pinizzotto, 43, was killed while executing search warrants related to a shooting at US consulateAuthorities in Canada are investigating whether the killing of a Toronto police officer while he was executing search warrants related to a shooting at the city’s US consulate is linked a broader series of global terror attacks.Constable Marc Pinizzotto, 43, a member of the emergency taskforce, was killed on Thursday during a dawn search",
@@ -448,20 +532,6 @@
       "category": "geopolitics",
       "date": "2026-06-12",
       "time": "18:08",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-06-12-36e3d52e",
-      "headline": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
-      "summary": "Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at warIran will present a major challenge to Fifa’s “football unites the world” slogan on Monday by becoming the first country in World Cup history to compete on the soil of a host nation with which it is at war.The national team’s opening match against New Zealand in Los Angeles will kick off amid continu",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
-      "region": "NA",
-      "country": "New Zealand",
-      "category": "geopolitics",
-      "date": "2026-06-12",
-      "time": "13:00",
       "conflict_id": null,
       "score": 48.0
     },
@@ -480,18 +550,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-12-fa27b972",
-      "headline": "Three Indian sailors killed in US strike on oil tanker",
-      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
+      "id": "2026-06-12-6f46f651",
+      "headline": "The college scam that promised students fleeing war a new life in Finland",
+      "summary": "BBC speaks to students from war-torn Myanmar who say they were cheated after paying to study abroad.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "India",
+      "url": "https://www.bbc.com/news/articles/cgrprx55zpvo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Finland",
       "category": "geopolitics",
       "date": "2026-06-12",
-      "time": "05:58",
+      "time": "22:08",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-06-12-07a90028",
@@ -534,48 +604,6 @@
       "time": "07:27",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-12-7bbc489a",
-      "headline": "Judge keeps order in place to remove Trump’s name from Kennedy Center",
-      "summary": "The US president has sought to reshape the capital city&#039;s image and institutions through series of plans and projects.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/judge-keeps-order-in-place-to-remove-trumps-name-from-kennedy-center?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-12",
-      "time": "21:32",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-06-12-c666ee5f",
-      "headline": "Pope warns people smugglers they face God’s wrath",
-      "summary": "Migration has been a central theme throughout Pope Leo&#039;s weeklong tour of Spain.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/12/pope-warns-people-smugglers-they-face-gods-wrath?traffic_source=rss",
-      "region": "EU",
-      "country": "Spain",
-      "category": "geopolitics",
-      "date": "2026-06-12",
-      "time": "20:17",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-06-12-4fbaa5f0",
-      "headline": "Federal judge rejects bid to halt removal of Trump's name from Kennedy Center building",
-      "summary": "Since returning to the White House, Trump has taken repeated measures to put his name and image in official spaces, an abrupt break with American political tradition.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/12/federal-judge-rejects-bid-to-halt-removal-of-trumps-name-from-kennedy-center-building",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-06-12",
-      "time": "18:12",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-06-12-53e21fb3",
@@ -718,20 +746,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-12-7faac0a9",
-      "headline": "Ice Cube: Ready To Take BIG3 to the Next Level",
-      "summary": "Rapper & Co-Founder of Big3 league Ice Cube, discusses the league preparing to go public after a $290 million valuation. He discusses the early days of the league, how the fans have really embraced it, and what it means to be the first publicly traded sports league. He speaks with Romaine Bostick & Randall Williams on “The Close.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-12/ice-cube-ready-to-take-big3-to-the-next-level-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-12",
-      "time": "20:55",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-12-814ce2e1",
       "headline": "The value of SpaceX rockets on its stock-market debut",
       "summary": "Elon Musk has become the world’s first trillionaire",
@@ -774,20 +788,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-11-16e6b7f9",
-      "headline": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
-      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "politics",
-      "date": "2026-06-11",
-      "time": "23:41",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-06-11-66c98d24",
       "headline": "Thai court sentences two Uyghur men to death for 2015 Bangkok bombing",
       "summary": "Twenty people were killed and 120 injured in the attack at the Erawan Shrine, a popular tourist destinationA Thai court has handed out death sentences to two Uyghur men from the north-western Chinese region of Xinjiang for a 2015 bombing in the centre of Bangkok that killed 20 people.The explosion occurred at the Erawan Shrine in the centre of Bangkok, an area popular with foreign tourists. As well as the 20 people killed, another 120 were injure",
@@ -812,6 +812,34 @@
       "category": "business",
       "date": "2026-06-11",
       "time": "23:07",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-11-13aed324",
+      "headline": "US and Iran exchange strikes across Middle East for second day in a row",
+      "summary": "Iran says it responded to US strikes by targeting American assets in Kuwait, Jordan and Bahrain, which reported damage to its capital city overnight.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gyp9v0e93o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-11",
+      "time": "12:09",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-11-16e6b7f9",
+      "headline": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
+      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Mexico",
+      "category": "politics",
+      "date": "2026-06-11",
+      "time": "23:41",
       "conflict_id": null,
       "score": 35.0
     },
@@ -872,20 +900,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-06-10-54ac1734",
-      "headline": "Israeli strikes in southern Lebanon kill 17, reports say",
-      "summary": "Nine of them were killed in a series of attacks in the town of Tayr Debba, according to Lebanon's state news agency.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cpq3d44l907o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-10",
-      "time": "14:44",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-10-51ce7e0c",
       "headline": "Fear of the SaaSpocalypse is tormenting techland",
       "summary": "Software once ate the world. Now it is in danger of eating itself",
@@ -925,21 +939,7 @@
       "date": "2026-06-09",
       "time": "10:51",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-06-09-79f9b8a7",
-      "headline": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-09",
-      "time": "17:47",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 51.0
     },
     {
       "id": "2026-06-09-b319e635",
@@ -1023,7 +1023,7 @@
       "date": "2026-06-07",
       "time": "13:24",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-06-07-fd500ecd",
