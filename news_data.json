@@ -1,19 +1,33 @@
 {
-  "updated": "2026-06-14T22:48:50.728422+00:00",
-  "story_count": 81,
+  "updated": "2026-06-14T23:58:03.318201+00:00",
+  "story_count": 77,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-06-14-029d5b33",
-      "headline": "Trump says Iran and US agree deal to open Strait of Hormuz and extend ceasefire",
+      "id": "2026-06-14-c12ce718",
+      "headline": "US and Iran Agree to Deal Halting War",
+      "summary": "The US and Iran reached an interim agreement to reopen the Strait of Hormuz, halting a war that killed thousands of people and setting the stage for negotiations on the fate of Iran's nuclear program. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-14/us-and-iran-agree-to-deal-halting-war-video",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "23:49",
+      "conflict_id": null,
+      "score": 66.1
+    },
+    {
+      "id": "2026-06-14-5369e21c",
+      "headline": "Iran and US agree deal to open Strait of Hormuz and extend ceasefire",
       "summary": "Leaders to sign agreement on Friday for reopening of waterway and end to US naval blockade of Iranian ports",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/76bed6e5-ab1f-43ff-a6c0-ae5e7cdbf3c1",
       "region": "NA",
-      "country": "Trump",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-06-14",
-      "time": "22:25",
+      "time": "22:46",
       "conflict_id": null,
       "score": 59.4
     },
@@ -32,9 +46,23 @@
       "score": 59.1
     },
     {
+      "id": "2026-06-14-7eb671ec",
+      "headline": "Strait of Hormuz backlog could take weeks to clear after US-Iran deal",
+      "summary": "Analysts warn oil flows may be slow to recover and remain vulnerable to renewed disruption",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c2d4e116-c49a-4f6b-9b2e-d10d37e4c2e8",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "23:03",
+      "conflict_id": null,
+      "score": 58.4
+    },
+    {
       "id": "2026-06-14-de1884b9",
       "headline": "Oil Slumps as US-Iran Deal May Allow Strait of Hormuz to Reopen",
-      "summary": "Oil sank after the US and Iran agreed to a peace deal to end the war in the Middle East, potentially allowing the Strait of Hormuz to reopen.",
+      "summary": "Oil tumbled after the US and Iran agreed to a peace deal to end the war in the Middle East, potentially allowing the Strait of Hormuz to reopen.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-14/latest-oil-market-news-and-analysis-for-june-15",
       "region": "NA",
@@ -46,9 +74,23 @@
       "score": 58.1
     },
     {
-      "id": "2026-06-14-418b8fd1",
-      "headline": "US-Iran ceasefire deal announced, Trump says Strait of Hormuz reopening",
-      "summary": "Trump has announced a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.",
+      "id": "2026-06-14-5b5b0b31",
+      "headline": "Japanese Stocks Set to Rise After US-Iran Peace Deal Reached",
+      "summary": "Japanese stocks are set to gain after President Donald Trump said the US and Iran have reached a peace deal, raising hopes the Middle East war is nearing an end and the Strait of Hormuz will reopen.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/japanese-stocks-set-to-rise-after-us-iran-peace-deal-reached",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "23:09",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
+      "id": "2026-06-14-7e578920",
+      "headline": "US-Iran ‘peace deal’ announced, Trump says Strait of Hormuz reopening",
+      "summary": "Trump announces that a ceasefire deal with Iran has been agreed, and that the Strait of Hormuz will reopen for shipping.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
       "region": "NA",
@@ -144,6 +186,20 @@
       "score": 51.4
     },
     {
+      "id": "2026-06-14-e6b35601",
+      "headline": "Trump Says Hormuz Strait to Open Friday Upon Deal Signing",
+      "summary": "President Trump says the Strait of Hormuz will be “opening” on Friday upon the signing of the deal with Iran.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/trump-says-hormuz-strait-to-open-friday-upon-deal-signing",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "22:31",
+      "conflict_id": null,
+      "score": 51.1
+    },
+    {
       "id": "2026-06-14-295abdf1",
       "headline": "Macron and Trump test their bruised bromance at G7 summit",
       "summary": "French president will host world leaders at Évian-les-Bains from Monday",
@@ -172,20 +228,6 @@
       "score": 50.2
     },
     {
-      "id": "2026-06-14-e6b35601",
-      "headline": "Trump Says Hormuz Strait to Open Friday Upon Deal Signing",
-      "summary": "President Trump says the Strait of Hormuz will be “opening” on Friday upon the signing of the deal with Iran.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-14/trump-says-hormuz-strait-to-open-friday-upon-deal-signing",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-14",
-      "time": "22:31",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-06-14-3ffe4917",
       "headline": "Swiss voters reject proposal to cap population at 10 million",
       "summary": "Far-right plan would have obliged the Swiss government to limit the population, currently 9.1 million, to 10 million by 2050Voters in Switzerland have rejected an unprecedented far-right proposal to cap the country’s population at 10 million in a divisive referendum dubbed “the Swiss Brexit”.Some 54.79% of voters were against the proposal by the Swiss People’s party (SVP) and 45.21% were in favour. Turnout was 58.86%. Continue reading...",
@@ -200,6 +242,20 @@
       "score": 49.0
     },
     {
+      "id": "2026-06-14-fbdf6037",
+      "headline": "Live updates: Trump’s UFC fights to kick off at White House as thunderstorms loom",
+      "summary": "The South Lawn event is meant to celebrate the nation’s 250th anniversary and Trump’s own 80th birthday.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/14/trumps-ufc-cage-fights-kick-off-white-house-americas-250th-live-updates/",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-06-14",
+      "time": "23:53",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
       "id": "2026-06-14-ded5edfe",
       "headline": "Swiss right-wing plan to cap population rejected by narrow margins",
       "summary": "Swiss voters reject a proposed population cap that would cap the country’s population at 10 million.",
@@ -212,6 +268,20 @@
       "time": "20:30",
       "conflict_id": null,
       "score": 48.4
+    },
+    {
+      "id": "2026-06-14-f93834b8",
+      "headline": "Australia news live: Wong welcomes US-Iran peace deal; Joyce says fundraised millions to pay for One Nation ads",
+      "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastThe prime minister and foreign minister have issued a lengthier statement welcoming the agreement made by the US and Iran, and called for continued restraint to avoid further escalation.President Donald Trump made the announcement he had signed a deal this morning, saying the strait of Hormuz would be reopened.Continued restraint and constructive engagement will be",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
+      "region": "NA",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-06-14",
+      "time": "23:45",
+      "conflict_id": null,
+      "score": 48.0
     },
     {
       "id": "2026-06-14-f7b3d556",
@@ -242,9 +312,9 @@
       "score": 46.0
     },
     {
-      "id": "2026-06-14-1c54dac8",
-      "headline": "Trump says US-Iran peace deal 'complete,' Strait of Hormuz blockade lifted",
-      "summary": "Tehran has since confirmed that the \"text of the memorandum of understanding\" has been agreed on and is to be signed in Switzerland on Friday, opening the door to 60-day negotiations \"following verification of US commitments,\" including the lifting of the US blockade.",
+      "id": "2026-06-14-47ffb520",
+      "headline": "Trump says US-Iran peace deal 'complete,' to be signed on Friday",
+      "summary": "Tehran has since confirmed that the \"text of the memorandum of understanding\" has been agreed on and is to be signed in Switzerland, opening the door to 60-day negotiations \"following verification of US commitments,\" including the lifting of the US blockade.",
       "source": "Euronews",
       "url": "http://www.euronews.com/2026/06/14/iranian-media-says-tehran-is-yet-to-make-a-final-decision-on-us-peace-deal",
       "region": "NA",
@@ -284,32 +354,60 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-14-ae1aa160",
-      "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Tehran",
+      "id": "2026-06-14-63a2cf85",
+      "headline": "What is in the US-Iran deal?",
+      "summary": "Agreement will extend ceasefire by 60 days, reopen the Strait of Hormuz and begin nuclear negotiations",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3bc9f664-dcad-4c2e-b745-91bb4e0fa934",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-06-14",
-      "time": "11:23",
+      "time": "23:17",
       "conflict_id": null,
-      "score": 43.0
+      "score": 42.4
     },
     {
-      "id": "2026-06-14-f26ad68d",
-      "headline": "Live updates: Trump’s UFC fights to kick off at White House for America’s 250th",
-      "summary": "The South Lawn event is meant to celebrate the nation’s 250th anniversary and Trump’s own 80th birthday.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/14/trumps-ufc-cage-fights-kick-off-white-house-americas-250th-live-updates/",
+      "id": "2026-06-14-dcb896c2",
+      "headline": "US Futures Climb, Oil Falls on Iran Peace Deal: Markets Wrap",
+      "summary": "US equity futures climbed, oil slumped and the dollar fell after the US and Iran said they had reached a deal to reopen the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/us-futures-climb-oil-falls-on-iran-peace-deal-markets-wrap",
       "region": "NA",
-      "country": "White House",
+      "country": "Iran",
       "category": "business",
       "date": "2026-06-14",
-      "time": "22:20",
+      "time": "22:06",
       "conflict_id": null,
-      "score": 40.9
+      "score": 42.1
+    },
+    {
+      "id": "2026-06-14-e0ac3393",
+      "headline": "UK, France, Germany Ready to Lift Relevant Iran Sanctions",
+      "summary": "“We are prepared to lift relevant sanctions in response to clear, verifiable steps by Iran on its nuclear programme,” according to a joint statement from the leaders of the UK, France, Germany and Italy.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/uk-france-germany-ready-to-lift-relevant-sanctions",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "23:02",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
+      "id": "2026-06-14-77e533d1",
+      "headline": "LIVE: Ilia Topuria vs Justin Gaethje title fight at Trump’s UFC Freedom 250",
+      "summary": "Title fights, Topuria-Gaethje and Pereira-Gane, to be staged in front of US President Donald Trump at the White House.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/liveblog/2026/6/14/live-ilia-topuria-vs-justin-gaethje-title-fight-at-ufc-freedom-250?traffic_source=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-06-14",
+      "time": "21:21",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-06-14-4fa0402c",
@@ -364,34 +462,6 @@
       "category": "politics",
       "date": "2026-06-14",
       "time": "17:33",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-06-14-92c81e25",
-      "headline": "For His 80th Birthday, Trump Brings the Fight to the White House Lawn",
-      "summary": "Presidential historians say the U.F.C. event, which was estimated to cost more than $60 million, is unprecedented.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/14/us/ufc-trump-white-house.html",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-06-14",
-      "time": "18:53",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-06-14-82798e83",
-      "headline": "Trump at 80: A President ‘Really Uncomfortable’ With Aging",
-      "summary": "Even for a president known for imposing his own reality on every situation, Mr. Trump has not outrun scrutiny over his age.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-14",
-      "time": "12:31",
       "conflict_id": null,
       "score": 33.2
     },
@@ -508,22 +578,8 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-14-b55996c4",
-      "headline": "Fusion industry suppliers bet on race for reactors creating a $73bn market",
-      "summary": "Groups eye windfall as technology’s potential to deliver abundant power attracts investors",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/73d5d6a0-31d5-458b-81fa-01dec3dd465a",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-14",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-06-14-bd58a1ef",
-      "headline": "Stock Market Moves On From SpaceX To Focus On Iran Deal, Fed",
+      "id": "2026-06-14-0260cfcc",
+      "headline": "Stock Market Moves On From SpaceX to Focus On Iran Deal, Fed",
       "summary": "After SpaceX and its bankers pulled off the largest-ever IPO without a hitch last week, investors are returning their focus back to Earth.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-14/stock-market-moves-on-from-spacex-with-iran-deal-fed-in-focus",
@@ -532,20 +588,6 @@
       "category": "business",
       "date": "2026-06-14",
       "time": "22:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-14-a0dbfc62",
-      "headline": "ASIC Says ASX Agrees to Pay Fine Over Misleading Chess Statement",
-      "summary": "Australia’s securities regulator said ASX Ltd. has admitted that its Feb. 10, 2022 market announcement which stated that the Chess replacement project was “progressing well” was misleading.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-14/asic-says-asx-agrees-to-pay-fine-over-misleading-chess-statement",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-06-14",
-      "time": "22:15",
       "conflict_id": null,
       "score": 26.1
     },
@@ -644,34 +686,6 @@
       "category": "business",
       "date": "2026-06-14",
       "time": "17:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-14-5339ea3e",
-      "headline": "FIFA’s American Dream: How the World Cup Cashed In",
-      "summary": "The 2026 World Cup is set to generate more than $11 billion in revenue, making it the richest tournament in football history. But soaring ticket prices, dynamic pricing models, and a booming resale market are raising concerns that many longtime supporters are being priced out. Veteran England fan Andy Milne says attending his tenth World Cup will be by far his most expensive, while former Liverpool CEO Peter Moore argues that FIFA risks sacrifici",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-14/fifa-s-american-dream-how-the-world-cup-cashed-in-video",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-06-14",
-      "time": "14:03",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-14-549d0564",
-      "headline": "Equity Funding Squeeze Driven By AI Rally, SpaceX IPO Stretches Banks",
-      "summary": "The cost to fund US equity positions is surging unexpectedly, as a combination of the AI-driven stock rally, the massive growth of leveraged ETFs and SpaceX’s $75 billion public listing tests Wall Street’s market plumbing.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-14/s-p-500-funding-squeeze-driven-by-ai-rally-spacex-ipo-stretches-banks",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-14",
-      "time": "14:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -799,7 +813,7 @@
       "date": "2026-06-13",
       "time": "11:15",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-06-13-38177331",
@@ -858,20 +872,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-12-fa27b972",
-      "headline": "Three Indian sailors killed in US strike on oil tanker",
-      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-06-12",
-      "time": "05:58",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-06-12-6f46f651",
       "headline": "The college scam that promised students fleeing war a new life in Finland",
       "summary": "BBC speaks to students from war-torn Myanmar who say they were cheated after paying to study abroad.",
@@ -882,20 +882,6 @@
       "category": "geopolitics",
       "date": "2026-06-12",
       "time": "22:08",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-12-07a90028",
-      "headline": "Dzeko's last dance could be Bosnia's new beginning",
-      "summary": "As Edin Dzeko enters the final stage of his career, BBC Sport tells the story of an underappreciated player who survived war to make history for Bosnia-Herzegovina.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/sport/football/articles/c9d3vexqg2do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-12",
-      "time": "07:09",
       "conflict_id": null,
       "score": 35.0
     },
@@ -984,20 +970,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-11-1c16d9ce",
-      "headline": "Thousands march in Pakistan-administered Kashmir as clashes kill at least 15",
-      "summary": "An uneasy silence has blanketed the capital, with empty streets, closed shops and patrolling police.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cdxdyn5716xo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-06-11",
-      "time": "16:41",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-06-10-f957b32d",
       "headline": "Zelensky under pressure to end row with Poland over WW2 name of army unit",
       "summary": "Poland is threatening to strip Ukraine's president of a state honour over the naming Ukrainian military unit after controversial World War Two fighters.",
@@ -1068,20 +1040,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-06-09-79f9b8a7",
-      "headline": "Israeli air strikes hit Lebanese city of Tyre despite Iranian warning to stop attacks",
-      "summary": "Iran warned Israel on Monday that it could resume hostilities if attacks on its Lebanese ally Hezbollah do not stop.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c36y16nkr5no?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-09",
-      "time": "17:47",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-09-b319e635",
       "headline": "Peru election result close as vote counting continues",
       "summary": "The race between right-wing Keiko Fujimori and left-wing Roberto Sánchez has been dominated by concerns over crime and political instability.",
@@ -1108,20 +1066,6 @@
       "time": "22:00",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-07-5d2434d8",
-      "headline": "Israel strikes Beirut suburb days after US-brokered truce",
-      "summary": "Israel says the attacks on the Lebanese capital were ordered  \"in response to Hezbollah's firing at Israeli territory\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c0qyevk8139o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-07",
-      "time": "20:56",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-06-07-fd500ecd",
