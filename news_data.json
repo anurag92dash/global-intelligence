@@ -1,8 +1,22 @@
 {
-  "updated": "2026-06-14T06:36:58.775466+00:00",
-  "story_count": 74,
+  "updated": "2026-06-14T10:06:22.111548+00:00",
+  "story_count": 75,
   "source_count": 8,
   "stories": [
+    {
+      "id": "2026-06-14-62bc9b77",
+      "headline": "Trump says US and Iran will sign deal on Sunday to reopen Strait",
+      "summary": "Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 59.4
+    },
     {
       "id": "2026-06-14-693a155f",
       "headline": "Two killed in Israeli strike on Gaza",
@@ -20,16 +34,30 @@
     {
       "id": "2026-06-14-ae1aa160",
       "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "summary": "The US president's comments come as Iran says an exact date has not been decided, but it \"will not be tomorrow\".",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-06-14",
-      "time": "05:41",
+      "time": "07:55",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-06-14-61aa5ee0",
+      "headline": "Will the US-Iran deal be signed on Sunday? What we know so far",
+      "summary": "US says a deal to stop the war on Iran could be signed as early as Sunday. Tehran, however, disputes the timeline.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/will-the-us-iran-deal-be-signed-on-sunday-what-we-know-so-far?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "09:18",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-06-14-f631290a",
@@ -46,6 +74,48 @@
       "score": 47.4
     },
     {
+      "id": "2026-06-14-4d6c1d4a",
+      "headline": "US kills leader of Venezuela's Tren de Aragua gang in air strike, Trump says",
+      "summary": "Niño Guerrero was killed in a \"swift and lethal kinetic strike,\" the US President wrote in a social media post.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp36z37knlko?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-14",
+      "time": "06:39",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-06-14-2d2e3908",
+      "headline": "UK armed forces board Russian shadow fleet oil tanker in English Channel, PM says",
+      "summary": "Royal Marine Commandos and NCA officers boarded the vessel in a six-hour operation in the early hours of Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "09:56",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-14-e0c1c620",
+      "headline": "How Israel’s ‘trampoline’ economy has adapted to war",
+      "summary": "After two decades of growth the country has proven to be surprisingly resilient to war and energy shocks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "08:09",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-06-14-295abdf1",
       "headline": "Macron and Trump test their bruised bromance at G7 summit",
       "summary": "French president will host world leaders at Évian-les-Bains from Monday",
@@ -58,6 +128,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-06-14-82798e83",
+      "headline": "Trump at 80: A President ‘Really Uncomfortable’ With Aging",
+      "summary": "Even for a president known for imposing his own reality on every situation, Mr. Trump has not outrun scrutiny over his age.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-14",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-06-14-048a6ad5",
@@ -144,16 +228,16 @@
       "score": 30.8
     },
     {
-      "id": "2026-06-14-0a233f49",
-      "headline": "UK armed forces intercept Russian shadow fleet in Channel, MoD says",
-      "summary": "Royal Marine Commandos boarded the vessel in an operation lasting six hours in the early hours of Sunday.",
+      "id": "2026-06-14-a13420b1",
+      "headline": "Why the US economy keeps defying the odds",
+      "summary": "Why has the American economy continued to outperform so many of its peers, despite facing the same global shocks?",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
+      "url": "https://www.bbc.com/news/articles/cwy031el03po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
       "date": "2026-06-14",
-      "time": "06:31",
+      "time": "05:14",
       "conflict_id": null,
       "score": 27.0
     },
@@ -170,6 +254,20 @@
       "time": "02:24",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-06-14-2159da89",
+      "headline": "SpaceX Surge Further Boosts Saudi Billionaire Prince’s Fortune",
+      "summary": "Friday’s debut share surge for SpaceX is bolstering the fortunes of one of Saudi Arabia’s richest men.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-14/spacex-surge-further-boosts-saudi-billionaire-prince-s-fortune",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "politics",
+      "date": "2026-06-14",
+      "time": "07:33",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-06-14-3e8bdc3d",
@@ -214,6 +312,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-06-14-0072a3b9",
+      "headline": "Romanian president picks Liberal former mayor as PM to form new government",
+      "summary": "Adrian Vestea nominated as prime minister after previous choice, Eugen Tomac, withdraws.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss",
+      "region": "EU",
+      "country": "Romania",
+      "category": "politics",
+      "date": "2026-06-14",
+      "time": "09:31",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-06-14-565ed917",
       "headline": "Smiles all around as Morocco, Brazil share spoils and Knicks make history",
       "summary": "World Cup opener ends in a draw for Morocco and Brazil as local fans celebrate New York Knicks&#039; basketball triumph.",
@@ -254,6 +366,20 @@
       "time": "00:03",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-06-14-54fa20f6",
+      "headline": "Growth in species discoveries fuels hopes for new drugs",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/datawatch/growth-in-species-discoveries-fuels-hopes-for-new-drugs",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-14",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-06-14-915c4182",
@@ -326,46 +452,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-14-068e2759",
-      "headline": "'Indonesia Bankrupt' rallies demand fiscal reform, end to flagship programs",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/indonesia-bankrupt-rallies-demand-fiscal-reform-end-to-flagship-programs",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "business",
-      "date": "2026-06-14",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-13-62bc9b77",
-      "headline": "Trump says US and Iran will sign deal on Sunday to reopen Strait",
-      "summary": "Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
+      "id": "2026-06-13-e14be6c9",
+      "headline": "As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak",
+      "summary": "The FIFA World Cup is expected to create a \"hospitable environment\" for pathogens, with millions of people gathering in packed stadiums, and there are concerns about the spread of diseases such as Ebola, dengue, and measles. Johns Hopkins Center for Health Security Senior Scholar Dr. Amesh Adalja joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss.\n\nPrivate disease-tracking companies, research institutions, and nonprofits",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-13/health-officials-warn-of-measles-outbreak-at-world-cup-video",
       "region": "NA",
-      "country": "Pakistan",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-06-13",
-      "time": "19:31",
+      "time": "14:52",
       "conflict_id": null,
-      "score": 59.4
-    },
-    {
-      "id": "2026-06-13-2abedc75",
-      "headline": "Israel attacks Lebanon as US says Iran deal to be signed on Sunday",
-      "summary": "Explosions shook southern Lebanon on Saturday as Israel continued its attacks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/13/israel-attacks-lebanon-as-us-says-iran-deal-to-be-signed-on-sunday?traffic_source=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-13",
-      "time": "20:40",
-      "conflict_id": null,
-      "score": 56.4
+      "score": 50.1
     },
     {
       "id": "2026-06-13-38177331",
@@ -379,49 +477,7 @@
       "date": "2026-06-13",
       "time": "01:51",
       "conflict_id": null,
-      "score": 56.0
-    },
-    {
-      "id": "2026-06-13-62d771f3",
-      "headline": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
-      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-13",
-      "time": "11:15",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-06-13-ff0e6504",
-      "headline": "US and Iran Move Closer to Deal Despite Hormuz Skirmishes",
-      "summary": "Pakistan said an interim US-Iran deal to reopen the Strait of Hormuz could be finalized within 24 hours, raising expectations that the sides may be nearing a broader agreement after recent skirmishes near the strategic waterway. Bloomberg News State Department Reporter Eric Martin and Jerusalem Reporter Dan Williams joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss.\n\nPakistan is preparing for the electronic signing of t",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-13/us-iran-move-closer-to-deal-despite-hormuz-skirmishes-video",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-06-13",
-      "time": "15:50",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-06-13-e14be6c9",
-      "headline": "As World Cup Begins, Health Officials Issue Warnings Amid Measles Outbreak",
-      "summary": "The FIFA World Cup is expected to create a \"hospitable environment\" for pathogens, with millions of people gathering in packed stadiums, and there are concerns about the spread of diseases such as Ebola, dengue, and measles. Johns Hopkins Center for Health Security Senior Scholar Dr. Amesh Adalja joined David Gura and Christina Ruffini on Bloomberg This Weekend to discuss.\n\nPrivate disease-tracking companies, research institutions, and nonprofits",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-13/health-officials-warn-of-measles-outbreak-at-world-cup-video",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-13",
-      "time": "14:52",
-      "conflict_id": null,
-      "score": 50.1
+      "score": 48.0
     },
     {
       "id": "2026-06-13-19181664",
@@ -438,18 +494,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-13-a25c44a8",
-      "headline": "‘A global rupture’: Carney calls for Canada-EU unity before G7 summit",
-      "summary": "Canada&#039;s prime minister has warned that the &#039;rules-based&#039; global order is &#039;breaking down&#039; amid superpower dominance.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/13/a-global-rupture-carney-calls-for-canada-eu-unity-before-g7-summit?traffic_source=rss",
-      "region": "EU",
-      "country": "Canada",
-      "category": "politics",
+      "id": "2026-06-13-62d771f3",
+      "headline": "Israel carries out air strikes on Lebanon, state media says, as Iran claims deal with US near",
+      "summary": "The strikes come as Iran's foreign minister says a deal to end fighting with the US is close.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
       "date": "2026-06-13",
-      "time": "19:54",
+      "time": "11:15",
       "conflict_id": null,
-      "score": 39.4
+      "score": 43.0
     },
     {
       "id": "2026-06-13-42c4bb18",
@@ -466,6 +522,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-13-8c0da389",
+      "headline": "As Trump turns 80, what's it really like to work as an octogenarian?",
+      "summary": "As President Donald Trump celebrates his birthday, we ask people who have worked into their 80s themselves about what it takes to keep going.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cm20vyxppneo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-13",
+      "time": "23:22",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-13-86b779e4",
       "headline": "CLO ETFs Boom on Higher Rates, Private Debt Woes",
       "summary": "Wall Street has an answer for retail investors seeking to profit from elevated interest rates and dodge defaults in private credit: funds that buy collateralized loan obligations.",
@@ -478,20 +548,6 @@
       "time": "19:00",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-06-13-83e135d3",
-      "headline": "Musk Is the World’s First Trillionaire. Who Was the First Billionaire?",
-      "summary": "John D. Rockefeller, the Gilded Age oil baron, became America’s first billionaire in 1916. Like Elon Musk’s ascension, the milestone made headlines.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/12/us/musk-trillionaire-first-billionaire.html",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-06-13",
-      "time": "00:20",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-06-13-f3c94f99",
@@ -532,20 +588,6 @@
       "category": "politics",
       "date": "2026-06-13",
       "time": "07:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-13-abe46b97",
-      "headline": "Caffeine Minimalists Rewrite Routines to Battle Coffee Jitters",
-      "summary": "While plenty of Americans are emphatically unready to give up caffeine, many are experimenting with a new range of options beyond the traditional cup of hot java, paying heed to caffeine’s impact on their sleep, mood and energy level. Consumers are becoming more cognizant of “energy management” in their beverage choices, says Daniel Jhung, president of the coffee and beverage division of Nestlé USA. For many, this might mean drinking coffee in th",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-13/consumers-embrace-caffeine-minimalism-video",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-06-13",
-      "time": "17:04",
       "conflict_id": null,
       "score": 26.1
     },
@@ -648,20 +690,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-12-d2c4c061",
-      "headline": "'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
-      "summary": "Patnala Suresh and his wife were looking forward to celebrating their 15th wedding anniversary this month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-06-12",
-      "time": "08:52",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-06-12-2ea2e250",
       "headline": "Canada police investigate whether Toronto police death linked to global terror attacks",
       "summary": "Constable Marc Pinizzotto, 43, was killed while executing search warrants related to a shooting at US consulateAuthorities in Canada are investigating whether the killing of a Toronto police officer while he was executing search warrants related to a shooting at the city’s US consulate is linked a broader series of global terror attacks.Constable Marc Pinizzotto, 43, a member of the emergency taskforce, was killed on Thursday during a dawn search",
@@ -676,6 +704,20 @@
       "score": 48.0
     },
     {
+      "id": "2026-06-12-fa27b972",
+      "headline": "Three Indian sailors killed in US strike on oil tanker",
+      "summary": "The US military had attacked the Palau-flagged tanker on Wednesday after accusing it of not complying with directions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cy73dr081p8o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "India",
+      "category": "geopolitics",
+      "date": "2026-06-12",
+      "time": "05:58",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-06-12-a63be049",
       "headline": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
       "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
@@ -687,7 +729,7 @@
       "date": "2026-06-12",
       "time": "22:00",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-06-12-6f46f651",
@@ -746,34 +788,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-06-12-1ec10b09",
-      "headline": "Watch: Four UFO videos newly declassified by US government",
-      "summary": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-12",
-      "time": "14:59",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-06-12-9d859f96",
-      "headline": "'They destroyed the future': Palestinian anger at rise in Israeli demolitions in East Jerusalem",
-      "summary": "Palestinian homes are being pulled down in occupied East Jerusalem to make way for a park.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cewpwjr9rj4o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-12",
-      "time": "05:01",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-06-12-d667f510",
       "headline": "Jailed South Korea ex-president gets 30 more years for sending drones into North",
       "summary": "Prosecutors argued that Yoon ordered the operation to provoke Pyongyang and create a pretext for martial law.",
@@ -800,20 +814,6 @@
       "time": "16:04",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-06-12-90706029",
-      "headline": "Trump Administration Says It Will Restart Asylum and Immigration Processing",
-      "summary": "The response came after a federal judge rebuked officials for failing to immediately comply with the order he issued last week.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/12/us/politics/trump-uscis-asylum-immigration.html",
-      "region": "EU",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-06-12",
-      "time": "22:56",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-06-12-cb187683",
@@ -940,6 +940,20 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-09-720ebe49",
+      "headline": "Bowen: Trump and Netanyahu wanted to reshape the Middle East - now they risk a permacrisis",
+      "summary": "The US and Israeli leaders have lost control of the consequences after miscalculating the Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cjdgl548x3eo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-09",
+      "time": "20:14",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-09-69cf5337",
