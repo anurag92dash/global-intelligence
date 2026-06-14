@@ -1,22 +1,8 @@
 {
-  "updated": "2026-06-14T10:06:22.111548+00:00",
-  "story_count": 75,
+  "updated": "2026-06-14T12:12:47.211301+00:00",
+  "story_count": 76,
   "source_count": 8,
   "stories": [
-    {
-      "id": "2026-06-14-62bc9b77",
-      "headline": "Trump says US and Iran will sign deal on Sunday to reopen Strait",
-      "summary": "Tehran cautions that timing is unclear but Pakistan says agreement to extend ceasefire is close",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/726f4afe-c3ff-4ec0-bfc9-b572b419e11f",
-      "region": "NA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-06-14",
-      "time": "09:01",
-      "conflict_id": null,
-      "score": 59.4
-    },
     {
       "id": "2026-06-14-693a155f",
       "headline": "Two killed in Israeli strike on Gaza",
@@ -30,20 +16,6 @@
       "time": "01:11",
       "conflict_id": "israel-hamas",
       "score": 51.4
-    },
-    {
-      "id": "2026-06-14-ae1aa160",
-      "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
-      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-06-14",
-      "time": "07:55",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-06-14-61aa5ee0",
@@ -60,18 +32,18 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-14-f631290a",
-      "headline": "Iran war live: Trump says deal to be signed today; Tehran disputes timing",
-      "summary": "US and Iran appear close to signing the first stage of a peace deal, the two sides differ on when it will be signed.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/14/iran-war-live-trump-says-deal-to-be-signed-today-as-tehran-urges-caution?traffic_source=rss",
+      "id": "2026-06-14-ae1aa160",
+      "headline": "Trump says US-Iran deal to be signed on Sunday as Tehran casts doubt on timing",
+      "summary": "The US president's comments come as Iran says an exact date has not been decided.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cvglmn49xz0o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-06-14",
-      "time": "00:00",
+      "time": "11:23",
       "conflict_id": null,
-      "score": 47.4
+      "score": 43.0
     },
     {
       "id": "2026-06-14-4d6c1d4a",
@@ -88,32 +60,74 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-14-2d2e3908",
-      "headline": "UK armed forces board Russian shadow fleet oil tanker in English Channel, PM says",
-      "summary": "Royal Marine Commandos and NCA officers boarded the vessel in a six-hour operation in the early hours of Sunday.",
+      "id": "2026-06-14-efd3067a",
+      "headline": "Jamaica’s beach access crisis: ‘We shouldn’t be forced to fight for what is already ours’",
+      "summary": "Activists argue business model is ‘plantation tourism’ designed to benefit elite and disadvantage most JamaicansCampaigners go to court to fight privatisation of Jamaican coastDevon Taylor remembers when the Mammee Bay shoreline in St Ann, Jamaica, was filled with children frolicking in the ocean after school, fishers haggling with locals over the price of their daily catch and craft vendors carving souvenirs under almond trees.“I grew up on Mamm",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/jun/14/jamaica-beach-access-crisis-plantation-tourism",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-06-14-8e102019",
+      "headline": "Israel attacks Beirut on same day Trump says Iran deal to be signed",
+      "summary": "Israel has bombed the southern suburbs of Beirut, saying it targeted Hezbollah ‘infrastructure’.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/14/israel-attacks-beirut-on-same-day-trump-says-iran-deal-to-be-signed?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "11:15",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-14-be5b01e5",
+      "headline": "Israel accuses Hezbollah of ceasefire violation, issues displacement orders",
+      "summary": "Israel warns of attacks as Iran insists Lebanon must be included in any peace deal with the United States.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/14/israel-issues-forced-displacement-orders-for-29-towns-in-southern-lebanon?traffic_source=rss",
+      "region": "MENA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-06-14",
+      "time": "10:25",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-14-c1c37a0d",
+      "headline": "Swiss voters reject 10 million population cap, early projections say",
+      "summary": "Not all votes have been counted, but the current trend suggests 55% of participants voted against the proposal.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c20ygjem17zo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-14",
+      "time": "11:31",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-14-772def82",
+      "headline": "Royal Marines board Russian shadow fleet oil tanker in English Channel",
+      "summary": "Marines were joined by National Crime Agency officers in the six-hour long operation in the early hours of Sunday.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/clyek039l2vo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": null,
       "category": "geopolitics",
       "date": "2026-06-14",
-      "time": "09:56",
+      "time": "10:19",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-06-14-e0c1c620",
-      "headline": "How Israel’s ‘trampoline’ economy has adapted to war",
-      "summary": "After two decades of growth the country has proven to be surprisingly resilient to war and energy shocks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3cce2be6-0fe4-47db-acce-1df6e7c83dfd",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-14",
-      "time": "08:09",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-06-14-295abdf1",
@@ -172,20 +186,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-06-14-e62bff9b",
-      "headline": "Why is the price of gold trending down?",
-      "summary": "Gold has been under pressure since the US and Israel launched a war against Iran in late February.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/6/14/why-is-the-price-of-gold-trending-down?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-14",
-      "time": "00:56",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-06-14-f3b0082d",
       "headline": "BOJ policy meeting, G7 summit, Min Aung Hlaing visits China",
       "summary": "",
@@ -208,20 +208,6 @@
       "region": "APJ",
       "country": "China",
       "category": "politics",
-      "date": "2026-06-14",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-06-14-806ed4a4",
-      "headline": "SpaceX closes up nearly 20% in market debut, but faces an Asia problem",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/spacex-closes-up-nearly-20-in-market-debut-but-faces-an-asia-problem",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
       "date": "2026-06-14",
       "time": "",
       "conflict_id": null,
@@ -252,6 +238,34 @@
       "category": "business",
       "date": "2026-06-14",
       "time": "02:24",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-14-584dc324",
+      "headline": "The coach who bonded with Putin and took Curaçao to the World Cup",
+      "summary": "The curious case of Dick Advocaat",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d56df5f0-0310-4e31-b5bb-f53d335b191c",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-14",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-14-5584feaf",
+      "headline": "Germany seeks Deutsche Börse exemption from EU supervision",
+      "summary": "Stock exchange would have option to remain under domestic authority as part of new EU markets regime",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/103ba798-b257-4797-a4fb-a2e5ab009b2d",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-06-14",
+      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -310,20 +324,6 @@
       "time": "06:00",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-06-14-0072a3b9",
-      "headline": "Romanian president picks Liberal former mayor as PM to form new government",
-      "summary": "Adrian Vestea nominated as prime minister after previous choice, Eugen Tomac, withdraws.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/14/romanian-president-picks-liberal-former-mayor-as-pm-to-form-new-government?traffic_source=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "politics",
-      "date": "2026-06-14",
-      "time": "09:31",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-06-14-565ed917",
@@ -438,6 +438,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-06-14-806ed4a4",
+      "headline": "SpaceX closes up nearly 20% in market debut, but faces an Asia problem",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/spacex-closes-up-nearly-20-in-market-debut-but-faces-an-asia-problem",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-14",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-06-14-3b2904a5",
       "headline": "Japan pharma companies turn to China for drug discovery, growth",
       "summary": "",
@@ -508,6 +522,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-06-13-f3c94f99",
+      "headline": "Swiss wait to hear result of ballot on capping population at 10 million",
+      "summary": "The far-right proposal would require the government to put restrictions in place to limit the population by 2050 A national ballot on an unprecedented far-right proposal to limit Switzerland’s population to 10 million concludes this weekend, amid warnings of devastating consequences for the country’s economy if voters back the initiative.A “yes” vote would require the Swiss government to take steps to cap the population at 10 million by 2050, ena",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million",
+      "region": "EU",
+      "country": "Switzerland",
+      "category": "politics",
+      "date": "2026-06-13",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-06-13-42c4bb18",
       "headline": "Vincent's parents 'never say he's good enough' - so he turned to a middle-aged couple online",
       "summary": "A niche group of content creators called \"virtual parents\" have become hugely popular among young people.",
@@ -548,20 +576,6 @@
       "time": "19:00",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-06-13-f3c94f99",
-      "headline": "Swiss wait to hear result of ballot on capping population at 10 million",
-      "summary": "The far-right proposal would require the government to put restrictions in place to limit the population by 2050 A national ballot on an unprecedented far-right proposal to limit Switzerland’s population to 10 million concludes this weekend, amid warnings of devastating consequences for the country’s economy if voters back the initiative.A “yes” vote would require the Swiss government to take steps to cap the population at 10 million by 2050, ena",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/13/swiss-wait-to-hear-result-of-ballot-on-capping-population-at-10-million",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "politics",
-      "date": "2026-06-13",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-06-13-627fb562",
@@ -718,18 +732,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-12-a63be049",
-      "headline": "Elon Musk becomes world's first trillionaire as SpaceX soars in stock market debut",
-      "summary": "Musk is now worth $1.11tn according to the Bloomberg rich list, while SpaceX listed on the Nasdaq stock exchange with a value of $2.2tn.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gypy3wwl7o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
+      "id": "2026-06-12-36e3d52e",
+      "headline": "An ideological tug-of-war: the pressures facing Iran’s World Cup squad in US",
+      "summary": "Flag bans, travel headaches and a religious regime video among bumps in road, as team prepares to be first to play in country with which it is at warIran will present a major challenge to Fifa’s “football unites the world” slogan on Monday by becoming the first country in World Cup history to compete on the soil of a host nation with which it is at war.The national team’s opening match against New Zealand in Los Angeles will kick off amid continu",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/12/iran-first-play-war-world-cup-fifa",
+      "region": "NA",
+      "country": "New Zealand",
+      "category": "geopolitics",
       "date": "2026-06-12",
-      "time": "22:00",
+      "time": "13:00",
       "conflict_id": null,
-      "score": 35.0
+      "score": 40.0
     },
     {
       "id": "2026-06-12-6f46f651",
@@ -788,6 +802,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-06-12-1ec10b09",
+      "headline": "Watch: Four UFO videos newly declassified by US government",
+      "summary": "The eyewitness footage shows bright orbs in the sky over an undisclosed location in the northeastern US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/videos/c8e2w83kxryo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-12",
+      "time": "14:59",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-06-12-d667f510",
       "headline": "Jailed South Korea ex-president gets 30 more years for sending drones into North",
       "summary": "Prosecutors argued that Yoon ordered the operation to provoke Pyongyang and create a pretext for martial law.",
@@ -844,20 +872,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-11-24e00f60",
-      "headline": "London council seizes social housing flat rented by Sierra Leone first lady",
-      "summary": "Fatima Jabbe-Bio kept tenancy in Southwark despite living for much of year at presidential lodge in FreetownA social housing flat rented by Sierra Leone’s first lady has been seized by a London council.Southwark council confirmed it had repossessed the two-bedroom home in Walworth previously occupied by Fatima Jabbe-Bio, whose tenancy was reported by the Times last year. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/society/2026/jun/11/london-council-seizes-social-housing-flat-sierra-leone-first-lady",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-11",
-      "time": "15:19",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-06-11-1c16d9ce",
       "headline": "Thousands march in Pakistan-administered Kashmir as clashes kill at least 15",
       "summary": "An uneasy silence has blanketed the capital, with empty streets, closed shops and patrolling police.",
@@ -868,20 +882,6 @@
       "category": "geopolitics",
       "date": "2026-06-11",
       "time": "16:41",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-06-11-16e6b7f9",
-      "headline": "World Cup kicks off in Mexico with Shakira, dancing, and protests",
-      "summary": "There was a star-studded opening ceremony, and some sporadic clashes between police and protesters around the Azteca stadium.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c2ly928xz8go?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "politics",
-      "date": "2026-06-11",
-      "time": "23:41",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1024,6 +1024,20 @@
       "time": "17:13",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-07-090feb7e",
+      "headline": "Iran's World Cup team lands in Mexico amid US visa row",
+      "summary": "All of Iran's group games are in the US, but players and support staff will have to fly in and out of the country on match day.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c5yz3zdp3jqo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Mexico",
+      "category": "geopolitics",
+      "date": "2026-06-07",
+      "time": "13:24",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-07-fd500ecd",
