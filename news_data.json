@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-20T16:46:34.884470+00:00",
-  "story_count": 82,
+  "updated": "2026-06-20T18:03:10.651720+00:00",
+  "story_count": 83,
   "source_count": 10,
   "stories": [
     {
@@ -29,7 +29,35 @@
       "date": "2026-06-20",
       "time": "16:07",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
+    },
+    {
+      "id": "2026-06-20-926dd177",
+      "headline": "Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire",
+      "summary": "Setback for Donald Trump’s push to end war with the Islamic republic",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "15:17",
+      "conflict_id": null,
+      "score": 58.4
+    },
+    {
+      "id": "2026-06-20-8cefb0a7",
+      "headline": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
+      "summary": "Possible Democratic presidential candidate describes war as historic ‘American national security mess’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "17:07",
+      "conflict_id": null,
+      "score": 58.4
     },
     {
       "id": "2026-06-20-b48cf229",
@@ -46,18 +74,74 @@
       "score": 57.0
     },
     {
-      "id": "2026-06-20-926dd177",
-      "headline": "Iran closes Strait of Hormuz after Israel and Hizbollah exchange fire",
-      "summary": "Setback for Donald Trump’s push to end war with the Islamic republic",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
+      "id": "2026-06-20-40f668c4",
+      "headline": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
+      "summary": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
       "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "17:05",
+      "conflict_id": null,
+      "score": 48.4
+    },
+    {
+      "id": "2026-06-20-81b3a6e6",
+      "headline": "Bolivia declares state of emergency amid blockade crisis",
+      "summary": "For several weeks, a wave of protests has erupted over President Rodrigo Paz’s austerity measures.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-06-20",
+      "time": "16:41",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-06-20-43f452e5",
+      "headline": "‘You could’ve been the greatest’: Trump faces Israeli anger over Iran deal",
+      "summary": "Public outrage in Israel mounts over MoU, with many feeling betrayed by the US in its deal with Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/you-could-have-been-the-greatest-trump-faces-israeli-anger-over-iran-deal?traffic_source=rss",
+      "region": "NA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-20",
-      "time": "15:17",
+      "time": "16:38",
       "conflict_id": null,
-      "score": 50.4
+      "score": 47.4
+    },
+    {
+      "id": "2026-06-20-da185feb",
+      "headline": "Iran recloses Strait of Hormuz, citing Israeli strikes on Lebanon",
+      "summary": "It comes after Israel carried out a wave of fresh strikes on southern Lebanon on Saturday morning.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/20/iran-recloses-strait-of-hormuz-citing-israeli-strikes-on-lebanon",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "13:48",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-06-20-31a893d6",
+      "headline": "Bolivian president declares state of emergency",
+      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-06-20",
+      "time": "15:27",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-20-39e88d1a",
@@ -74,20 +158,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-20-c3a2a4ca",
-      "headline": "Iran Sanctions Losing Efficacy",
-      "summary": "In 2015, sanctions played a key role in bringing Iran to the negotiating table but now warfare has been the primary tool. Oliver Wyman Partner and Global Anti-Financial Crime Practice Leader Daniel Tannebaum explains to David Gura and Christina Ruffini on Bloomberg This Weekend how even if sanctions on Iran are lifted, businesses may remain hesitant to reengage with Iran due to lingering risks. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/iran-sanctions-losing-efficacy-video",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "15:50",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-06-20-06dce51b",
       "headline": "Zelenskyy issues one-week ultimatum to Lukashenka over drone-guidance equipment",
       "summary": "During a media briefing in Kyiv on Friday, Zelenskyy threatened Ukraine will take down the drone relay equipment on the border if the Belarusian leader, Aliaksandr Lukashenka, doesn't do anything to address it.",
@@ -100,20 +170,6 @@
       "time": "12:35",
       "conflict_id": "ukraine-war",
       "score": 41.0
-    },
-    {
-      "id": "2026-06-20-795fc704",
-      "headline": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
-      "summary": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "15:10",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-06-20-2b8a06f9",
@@ -140,20 +196,6 @@
       "category": "politics",
       "date": "2026-06-20",
       "time": "15:31",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-20-31a893d6",
-      "headline": "Bolivian president declares state of emergency",
-      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "15:27",
       "conflict_id": null,
       "score": 35.0
     },
@@ -270,6 +312,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-20-52b11f5b",
+      "headline": "Brazil’s Lula Holds Lead Against Bolsonaro After Bank Scandal",
+      "summary": "President Luiz Inacio Lula da Silva maintained his lead in polls on the Brazilian presidential election against Senator Flavio Bolsonaro, who is weighed down by his ties to a former banker involved in the country’s biggest bank fraud scandal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal",
+      "region": "EU",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-06-20",
+      "time": "16:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-20-37c3984d",
       "headline": "Pointed News Quiz | Bonds, Streaming, Yogurt",
       "summary": "David Gura, Christina Ruffini, and Lisa Mateo of “Bloomberg This Weekend” play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com (Source: Bloomberg)",
@@ -363,7 +419,7 @@
       "country": null,
       "category": "business",
       "date": "2026-06-20",
-      "time": "16:21",
+      "time": "16:46",
       "conflict_id": null,
       "score": 25.2
     },
@@ -522,6 +578,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-06-19-2cfae6e7",
+      "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-06-19",
+      "time": "19:27",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-06-19-c4389e49",
       "headline": "Vance slams Israeli reaction to Iran deal as U.S. military lifts blockade",
       "summary": "The president defended the agreement, but it has been criticized as a return to the prewar status quo.",
@@ -548,48 +618,6 @@
       "time": "21:46",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-06-19-2cfae6e7",
-      "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-06-19",
-      "time": "19:27",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-06-19-9de4a068",
-      "headline": "In Trump's shadow, Vance becomes face of Iran deal",
-      "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-19",
-      "time": "04:12",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-06-19-7469f939",
-      "headline": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
-      "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-19",
-      "time": "05:33",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-06-19-f4eabe8a",
@@ -644,20 +672,6 @@
       "category": "politics",
       "date": "2026-06-19",
       "time": "20:31",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-06-19-7f777074",
-      "headline": "Sánchez backs international dialogue against other leaders: 'A Europe open to the world'",
-      "summary": "Spain’s prime minister used the European Council summit to urge a more ambitious multiannual budget, and voiced solidarity with Meloni after Trump said she begged him for a photo.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/19/sanchez-backs-international-dialogue-against-other-leaders-a-europe-open-to-the-world",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-06-19",
-      "time": "18:01",
       "conflict_id": null,
       "score": 29.0
     },
@@ -998,20 +1012,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-16-f94ace0f",
-      "headline": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
-      "summary": "Brazil supreme court finds that Eduardo Bolsonaro – who resides in the US - tried to get sanctions put on judges trying ex-president over coup plotBrazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in prison after finding him guilty of courting US ⁠interference in his father’s coup plot trial last year.The office of Brazil’s ‌prosecutor general had ‌charged Eduardo Bolsonaro – who lives in the US - courting interf",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
-      "region": "NA",
-      "country": "Brazil",
-      "category": "geopolitics",
-      "date": "2026-06-16",
-      "time": "21:44",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-06-16-af5d8362",
       "headline": "Fujitsu chair resigns after ‘woman-related inappropriate conduct’",
       "summary": "Japanese technology company at centre of Post Office IT scandal is negotiating settlement with UK government over faulty softwareBusiness live – latest updatesThe chair of Fujitsu, the Japanese technology firm at the centre of the Post Office IT scandal, has resigned after its board became aware of his “woman-related inappropriate conduct”.The company said on Tuesday that Hidenori Furuta had stepped down after two years in the role. Continue read",
@@ -1079,7 +1079,7 @@
       "date": "2026-06-15",
       "time": "14:26",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-06-15-42128c05",
@@ -1092,6 +1092,20 @@
       "category": "geopolitics",
       "date": "2026-06-15",
       "time": "13:54",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-06-15-9455bfd1",
+      "headline": "Trump heralds Iran deal but questions - and risks - remain",
+      "summary": "The announcement of an Iran deal was a welcome birthday gift for the president – but its success or failure may hinge on the details.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c9824e0rz75o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-15",
+      "time": "02:41",
       "conflict_id": null,
       "score": 43.0
     },
