@@ -1,8 +1,22 @@
 {
-  "updated": "2026-06-21T19:27:13.310380+00:00",
-  "story_count": 81,
-  "source_count": 9,
+  "updated": "2026-06-21T20:51:02.129433+00:00",
+  "story_count": 82,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-06-21-4f5cae31",
+      "headline": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "10:55",
+      "conflict_id": "ukraine-war",
+      "score": 55.0
+    },
     {
       "id": "2026-06-21-6fdbd545",
       "headline": "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
@@ -46,30 +60,30 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-21-4f5cae31",
-      "headline": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "10:55",
-      "conflict_id": "ukraine-war",
-      "score": 47.0
-    },
-    {
-      "id": "2026-06-21-6904488d",
-      "headline": "US and Iran begin talks on initial peace deal in Switzerland",
-      "summary": "The face-to-face meeting follows ongoing fighting in Lebanon and Iran's claim to have shut the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
+      "id": "2026-06-21-7d640d69",
+      "headline": "US and Iran publicly trade threats as talks take place in Switzerland",
+      "summary": "US President Donald Trump on Sunday threatened to strike Iran if it did not stop Hezbollah from \"causing trouble\", while Iran's chief negotiator Mohammad Bagher Ghalibaf warned the US to \"be careful with their statements\".",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/21/us-and-iran-publicly-trade-threats-as-talks-progress-in-switzerland",
+      "region": "NA",
       "country": "Switzerland",
       "category": "geopolitics",
       "date": "2026-06-21",
-      "time": "14:41",
+      "time": "17:34",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-06-21-adb60ba3",
+      "headline": "Trump and Iran's negotiator trade warnings as talks held in Switzerland",
+      "summary": "The US president, who is not at the talks, threatens to attack Iran if it does not restrain Hezbollah in Lebanon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwy0q41v1lzo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Switzerland",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "19:33",
       "conflict_id": null,
       "score": 43.0
     },
@@ -88,6 +102,76 @@
       "score": 41.2
     },
     {
+      "id": "2026-06-21-049aeb3f",
+      "headline": "Russian strikes on eastern Ukraine kill three and injure 22",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said on Saturday that his forces had targeted an oil-processing facility in Russia's Tyumen region.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/21/russian-strikes-on-eastern-ukraine-kill-three-and-injure-22",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "06:03",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
+      "id": "2026-06-21-bd8b7c55",
+      "headline": "Mourners gather to remember Lebanese conservationist killed by Israel",
+      "summary": "People gathered in Beirut in memory of beloved turtle conservationist Mona Khalil, killed in Israeli attack.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/mourners-gather-to-remember-lebanese-conservationist-killed-by-israel?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "20:21",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-21-17c08d05",
+      "headline": "Remembering Al Jazeera cameraman Ahmed Wishah’s life’s work",
+      "summary": "Al Jazeera cameraman Ahmed Wishah dedicated his life to documenting life in Gaza before he was killed by Israel.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/remembering-al-jazeera-cameraman-ahmed-wishahs-lifes-work?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "20:11",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-21-4b3a8530",
+      "headline": "Russian-occupied Crimea suspends petrol sales amid fuel crisis",
+      "summary": "Kyiv's targeting of Russia's energy industry has sparked a major fuel crisis in Crimea, with long queues for petrol stations and limited supply.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/21/russian-occupied-crimea-suspends-petrol-sales-amid-fuel-crisis",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "08:29",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-06-21-085c1fda",
+      "headline": "US-Iran peace deal talks underway in Switzerland",
+      "summary": "\"We're going to hopefully make progress on the nuclear issue, make progress on the Lebanon ceasefire issue,\" US Vice President JD Vance told reporters.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/21/us-and-iranian-delegations-arrive-in-switzerland-for-peace-deal-talks",
+      "region": "MENA",
+      "country": "Switzerland",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "07:19",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-06-21-dfe00d96",
       "headline": "Half of France under red heat alert as alcohol banned at street music festival",
       "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
@@ -100,20 +184,6 @@
       "time": "15:22",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-06-21-9d7dae7f",
-      "headline": "Wars trigger $12bn venture capital rush into defence tech",
-      "summary": "Funding this year has already surpassed 2025 total as soaring valuations fuel fears of a hype cycle",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cb535f43-d2b7-4d14-82fe-abdd14765dfe",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "18:00",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-06-21-710e815b",
@@ -130,18 +200,32 @@
       "score": 34.4
     },
     {
-      "id": "2026-06-21-dd635cc5",
-      "headline": "Starmer on brink of quitting as UK prime minister",
-      "summary": "US President Donald Trump says Starmer will resign after failing ‘badly’",
+      "id": "2026-06-21-84c58e58",
+      "headline": "Philippines fears China may move to seize full control of disputed atoll",
+      "summary": "Defence secretary warns of heightened Chinese military activity around Scarborough Shoal",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/ed96e673-8d46-4dec-aebc-d69863b9e801",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
+      "url": "https://www.ft.com/content/d5191b00-dccb-465e-8afb-e61cc8260f93",
+      "region": "APJ",
+      "country": "Philippines",
+      "category": "geopolitics",
       "date": "2026-06-21",
-      "time": "14:41",
+      "time": "20:19",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-06-21-1f396763",
+      "headline": "Bond Traders Burned by Fed’s Pivot Look to Prices Gauge, Oil",
+      "summary": "Bond traders, recently forced to reposition for the possibility of higher interest rates ahead, are looking to this week’s personal spending data for an early read on whether the market’s newly hawkish stance is warranted.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-21/bond-traders-burned-by-fed-s-pivot-look-to-prices-gauge-oil",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-21",
+      "time": "19:00",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-06-21-08f23f81",
@@ -172,20 +256,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-06-21-1f632861",
-      "headline": "How Trump’s Fragile Agreement With Iran Is Shaping the Midterms",
-      "summary": "Democrats say the president started an economically painful war that resulted in nothing positive. Republicans are more divided, even as they show some signs of relief at falling gas prices.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/21/us/politics/trump-iran-agreement-midterms.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "18:20",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-06-21-08d14fce",
       "headline": "India’s ‘Cockroach’ movement camps out until education minister resigns",
       "summary": "The viral &#039;Cockroach&#039; movement&#039;s supporters occupy New Delhi&#039;s protest site, refusing to leave until minister resigns.",
@@ -214,6 +284,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-06-21-af34a32b",
+      "headline": "Starmer reflecting on 'political realities' amid reports of imminent resignation",
+      "summary": "The British PM has repeatedly vowed to fight on in his role but has come under increasing pressure in recent weeks.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/21/starmer-reflecting-on-political-realities-amid-reports-of-imminent-resignation",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "14:09",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-06-21-db0647eb",
       "headline": "Why Giorgia Meloni turned on Donald Trump",
       "summary": "Italian premier’s fallout with US president comes as she gears up for re-election battle",
@@ -224,6 +308,20 @@
       "category": "politics",
       "date": "2026-06-21",
       "time": "12:48",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-21-c06392d7",
+      "headline": "Building materials group CRH nears its biggest-ever deal to buy Arcosa",
+      "summary": "Irish company closes in on purchase of Dallas-based construction firm with market capitalisation of almost $7bn",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6c95c41b-7bf1-4adf-84e9-08356f8a4981",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-21",
+      "time": "19:31",
       "conflict_id": null,
       "score": 26.4
     },
@@ -312,6 +410,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-06-21-52cb1f78",
+      "headline": "Trump Administration Shuttered a Criminal Probe Into Fraudster’s Clemency",
+      "summary": "Federal prosecutors had been examining the circumstances behind the commutation of David Gentile’s sentence. He was aided by a Catholic priest friendly with the president.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-06-21-1ff1d36f",
       "headline": "For cash-strapped farmers, deal to end Iran fighting comes too late",
       "summary": "Some of the president’s strongest supporters are hurting as midterm elections approach.",
@@ -354,20 +466,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-21-37c0a062",
-      "headline": "Australia is publishing books too quickly – and everyone is losing out",
-      "summary": "Thanks to rushed deadlines, financial pressure and overworked staff, titles are going to market before they’re ready – and then sliding from view immediatelyA Sydney author – I’ll call her Rebecca – vowed never to write another book after the deranging experience of publishing her first. She’s using a pseudonym because one day she might change her mind; the notoriously small Australian publishing industry does not tend to look with favour on auth",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/jun/22/australia-publishing-industry-releasing-books-too-quickly",
-      "region": "EU",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-06-21",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-06-21-12e476d5",
       "headline": "Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform – as it happened",
       "summary": "This blog has now closedGet our breaking news email, free app or daily news podcastTed O’Brien distanced himself from Pauline Hanson’s suggestion that Australia shouldn’t give aid to Pacific countries that also take aid from China.He said it was a legitimate concern, but her solution was “completely wrong” for the Pacific and not in Australia’s national interest.The idea that you effectively hold a gun to the head of our Pacific neighbours – that",
@@ -380,6 +478,34 @@
       "time": "04:09",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-21-ac404be7",
+      "headline": "Japan fans celebrate 4-0 World Cup win in Tokyo",
+      "summary": "Fans gathered at Tokyo&#039;s Shibuya Crossing after Japan beat Tunisia 4-0 in a World Cup group-stage match.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/japan-fans-celebrate-4-0-world-cup-win-in-tokyo?traffic_source=rss",
+      "region": "APJ",
+      "country": "Tunisia",
+      "category": "business",
+      "date": "2026-06-21",
+      "time": "19:54",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-06-21-8e9bfcaa",
+      "headline": "ByteDance sidelines listing as China's first $1 trillion valuation nears",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/opinion/bytedance-sidelines-listing-as-china-s-first-1-trillion-valuation-nears",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-06-21-7178be6d",
@@ -452,34 +578,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-21-37b36830",
-      "headline": "Honda's China struggles weigh on frustrated parts suppliers",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/honda-s-china-struggles-weigh-on-frustrated-parts-suppliers",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-21-b1d70f6b",
-      "headline": "Exploring Taipingshan, Taiwan's primeval mountain escape",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/life-arts/life/destinations/exploring-taipingshan-taiwan-s-primeval-mountain-escape",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-06-21-be8faf7f",
       "headline": "Japan targets $65bn in public-private physical AI investment by 2040",
       "summary": "",
@@ -506,6 +604,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-06-20-c277c1df",
+      "headline": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "21:57",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-06-20-a2eef201",
@@ -536,18 +648,18 @@
       "score": 51.0
     },
     {
-      "id": "2026-06-20-c277c1df",
-      "headline": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "id": "2026-06-20-cddb787e",
+      "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-20",
-      "time": "21:57",
-      "conflict_id": "israel-hamas",
-      "score": 47.0
+      "time": "17:40",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-20-39e88d1a",
@@ -564,20 +676,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-20-cddb787e",
-      "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
-      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "17:40",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-20-b7213030",
       "headline": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
       "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
@@ -590,34 +688,6 @@
       "time": "15:31",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-06-20-94257cee",
-      "headline": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "10:19",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-20-ed5aa53a",
-      "headline": "‘Agonizing for Everyone’: After IVF Mix-up, Birthing Couple Keeps Baby",
-      "summary": "One Florida couple discovered the baby they birthed did not come from their embryo, but they will retain custody in an agreement with the biological couple.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/20/us/ivf-baby-mixup.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "16:42",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-06-20-3572b492",
@@ -646,34 +716,6 @@
       "time": "02:33",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-20-52b11f5b",
-      "headline": "Brazil’s Lula Holds Lead Against Bolsonaro After Bank Scandal",
-      "summary": "President Luiz Inacio Lula da Silva maintained his lead in polls on the Brazilian presidential election against Senator Flavio Bolsonaro, who is weighed down by his ties to a former banker involved in the country’s biggest bank fraud scandal.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/brazil-lula-maintains-lead-against-bolsonaro-after-bank-scandal",
-      "region": "EU",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "16:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-20-37c3984d",
-      "headline": "Pointed News Quiz | Bonds, Streaming, Yogurt",
-      "summary": "David Gura, Christina Ruffini, and Lisa Mateo of “Bloomberg This Weekend” play Pointed! Wager your points, leverage your bets and answer wisely. A new quiz is available to play each week on Bloomberg.com (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/pointed-news-quiz-bonds-streaming-yogurt-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-20",
-      "time": "16:17",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-06-20-f00e1abd",
@@ -730,20 +772,6 @@
       "time": "19:27",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-06-19-5bb7b73a",
-      "headline": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
-      "summary": "JD Vance has not travelled to Switzerland as the Israeli military said it was targeting Hezbollah and that four of its own soldiers had been killed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Switzerland",
-      "category": "geopolitics",
-      "date": "2026-06-19",
-      "time": "15:16",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-06-19-4bd6bac8",
@@ -812,20 +840,6 @@
       "category": "geopolitics",
       "date": "2026-06-18",
       "time": "14:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-18-5e9f6b6b",
-      "headline": "Bowen: US-Iran deal raises inescapable question of what the war was for",
-      "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-18",
-      "time": "15:53",
       "conflict_id": null,
       "score": 35.0
     },
