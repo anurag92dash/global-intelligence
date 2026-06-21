@@ -1,21 +1,35 @@
 {
-  "updated": "2026-06-21T07:03:30.610660+00:00",
+  "updated": "2026-06-21T10:41:55.546742+00:00",
   "story_count": 83,
-  "source_count": 10,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-06-21-cd7db1c7",
-      "headline": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
-      "summary": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president Bolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldozers to raze anti-government roadblocks that have paralysed the country.For more than six weeks, unions, Indigenous groups and coca farmers have marched through cities and blocked roads across the country with rubbl",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+      "id": "2026-06-21-6fdbd545",
+      "headline": "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
+      "summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
       "region": "NA",
-      "country": "Bolivia",
-      "category": "politics",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-06-21",
-      "time": "04:23",
+      "time": "09:02",
       "conflict_id": null,
-      "score": 56.0
+      "score": 57.2
+    },
+    {
+      "id": "2026-06-21-f0314e73",
+      "headline": "The deal with Iran may be imperfect but it is what the American people want",
+      "summary": "The Iran war has put the US in a difficult position, but Trump has made the most of it.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/6/21/the-deal-with-iran-may-be-imperfect-but-it-is-what-the-american-people-want?traffic_source=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "09:17",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-06-21-0a0a4d32",
@@ -30,6 +44,20 @@
       "time": "04:34",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-06-21-f9205a3b",
+      "headline": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
+      "summary": "Iran wants the US to pressure Israel to stop the war in Lebanon, which has reeled from renewed attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending?traffic_source=rss",
+      "region": "MENA",
+      "country": "Switzerland",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "09:10",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-06-21-badfecf0",
@@ -60,18 +88,46 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-21-049aeb3f",
-      "headline": "Russian strikes on eastern Ukraine kill three and injure 22",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said on Saturday that his forces had targeted an oil-processing facility in Russia's Tyumen region.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/21/russian-strikes-on-eastern-ukraine-kill-three-and-injure-22",
+      "id": "2026-06-21-cd7db1c7",
+      "headline": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
+      "summary": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president Bolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldozers to raze anti-government roadblocks that have paralysed the country.For more than six weeks, unions, Indigenous groups and coca farmers have marched through cities and blocked roads across the country with rubbl",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+      "region": "NA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "04:23",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-06-21-3fb8c2fe",
+      "headline": "Putin’s war machine sputters in drone age",
+      "summary": "Ukraine’s innovations cut into Russia’s manpower advantage",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-06-21",
-      "time": "06:03",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-06-21-42f49997",
+      "headline": "SpaceX handed lowest possible ESG rating by MSCI",
+      "summary": "Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-06-21-bd1c32e3",
@@ -102,6 +158,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-21-dd635cc5",
+      "headline": "Starmer on brink of quitting as UK prime minister",
+      "summary": "Move could see Andy Burnham become Britain’s seventh leader in the decade since Brexit",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ed96e673-8d46-4dec-aebc-d69863b9e801",
+      "region": "EU",
+      "country": "Britain",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "10:29",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-21-e7ed2eb7",
+      "headline": "Protect Every Animal From Cruelty? Not in 2026, Oregon Democrats Say",
+      "summary": "A possible referendum in Oregon on animal rights would end fishing, hunting, even pest control, just when Democrats are trying really hard not to be seen as “weirdos again.”",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/21/us/politics/animal-rights-cruelty-oregon.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-06-21-52cb1f78",
+      "headline": "Trump Administration Shuttered a Criminal Probe Into Fraudster’s Clemency",
+      "summary": "Federal prosecutors had been examining the circumstances behind the commutation of David Gentile’s sentence. He was aided by a Catholic priest friendly with the president.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-06-21-119685bb",
       "headline": "Trump, Claiming Vandalism, Says Reflecting Pool Will Likely Need to Be Drained",
       "summary": "The pool has taken on clouds of algae after a hasty renovation. A three-time Olympian was charged with destroying government property after he says he touched one of the strands of blue paint peeling off the pool’s bottom.",
@@ -114,6 +212,20 @@
       "time": "01:59",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-06-21-1ff1d36f",
+      "headline": "For cash-strapped farmers, deal to end Iran fighting comes too late",
+      "summary": "Some of the president’s strongest supporters are hurting as midterm elections approach.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/business/2026/06/21/cash-strapped-farmers-iran-wars-end-comes-too-late/",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 24.9
     },
     {
       "id": "2026-06-21-12e476d5",
@@ -132,7 +244,7 @@
     {
       "id": "2026-06-21-deae5f24",
       "headline": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
-      "summary": "Even voters for far-right and Eurosceptic parties back closer relations, polling saysTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for the issues they care about and want closer ties, including levels of integration – such as free movement – long seen as toxic, a survey has found.Ten years after the Brexit referendum, the polling by the European Council on Foreign Relations (ECFR), a",
+      "summary": "Poll also finds three quarters of people in Britain want closer ties, with majority accepting free movementTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for the issues they care about and want closer ties, including levels of integration – such as free movement – long seen as toxic, a survey has found.Ten years after the Brexit referendum, the polling by the European Council on Forei",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
       "region": "EU",
@@ -142,6 +254,48 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-21-257930f8",
+      "headline": "Albanian protesters rally against Kushner-backed resort in protected area",
+      "summary": "Demonstrators chant &quot;Albania is not for sale,&quot; challenging coastal projects tied to Kushner amid environmental concerns.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/6/21/albanian-protesters-rally-against-kushner-backed-resort-in-protected-area?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "09:52",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-06-21-3bfce0c4",
+      "headline": "Colombians to vote in presidential run-off pitting leftist against hardliner",
+      "summary": "Run-off election sees leftist Ivan Cepeda and far-right lawyer Abelardo de la Espriella vying for the presidency.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/colombians-to-vote-in-presidential-run-off-pitting-leftist-against-hardliner?traffic_source=rss",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "09:38",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-06-21-c7d93be5",
+      "headline": "Protests in Albania against Kushner resort swell to tens of thousands",
+      "summary": "Albanians have gathered for the 21st day in a row to protest plans to build a resort on Albania&#039;s coast.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/protests-in-albania-against-kushner-resort-swell-to-tens-of-thousands?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "09:19",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-06-21-2394f88e",
@@ -267,7 +421,7 @@
       "date": "2026-06-20",
       "time": "21:57",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 55.0
     },
     {
       "id": "2026-06-20-a2eef201",
@@ -281,7 +435,21 @@
       "date": "2026-06-20",
       "time": "16:34",
       "conflict_id": "ukraine-war",
-      "score": 63.0
+      "score": 55.0
+    },
+    {
+      "id": "2026-06-20-cddb787e",
+      "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "17:40",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-20-31a893d6",
@@ -295,119 +463,21 @@
       "date": "2026-06-20",
       "time": "15:27",
       "conflict_id": null,
-      "score": 59.0
+      "score": 43.0
     },
     {
-      "id": "2026-06-20-b48cf229",
-      "headline": "Polish president strips Zelenskyy of Poland's highest state honour",
-      "summary": "Polish President Karol Nawrocki’s decision to strip Volodymyr Zelenskyy of the Order of the White Eagle has sparked controversy in Ukraine.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/20/polish-president-strips-zelenskyy-of-polands-highest-state-honour",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "12:35",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
-    },
-    {
-      "id": "2026-06-20-81b3a6e6",
-      "headline": "Bolivia declares state of emergency amid blockade crisis",
-      "summary": "For several weeks, a wave of protests has erupted over President Rodrigo Paz’s austerity measures.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "16:41",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-06-20-6172e8f9",
-      "headline": "Ukraine says Russian attack kills five people in Zaporizhzhia",
-      "summary": "During nightly address, Ukrainian President Volodymyr Zelenskyy warns that Russia is preparing for &#039;massive&#039; attack.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/ukraine-says-russian-attack-kills-five-people-in-zaporizhzhia?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "19:31",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
-      "id": "2026-06-20-c8da8250",
-      "headline": "Iran says it closed Strait of Hormuz after Israel and Hizbollah exchange fire",
-      "summary": "Set-back comes as US vice-president heads to Switzerland for peace talks with negotiators from the Islamic republic",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fad77f6e-b1db-460a-a0c8-c2fd132932f5",
-      "region": "MENA",
-      "country": "Switzerland",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "20:39",
-      "conflict_id": null,
-      "score": 51.4
-    },
-    {
-      "id": "2026-06-20-40f668c4",
-      "headline": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
-      "summary": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-shuts-strait-of-hormuz-as-israel-tests-mou-with-lebanon-strikes?traffic_source=rss",
+      "id": "2026-06-20-39e88d1a",
+      "headline": "Israel and Hezbollah continue strikes despite ceasefire agreement",
+      "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-06-20",
-      "time": "17:05",
+      "time": "18:36",
       "conflict_id": null,
-      "score": 48.4
-    },
-    {
-      "id": "2026-06-20-eeb79b31",
-      "headline": "Trump vows Iran will not charge Strait of Hormuz tolls, but says US might",
-      "summary": "The US-Iran memorandum of understanding does not rule out future tolls in the strait after an initial 60-day period.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/trump-vows-iran-will-not-charge-strait-of-hormuz-tolls-but-says-us-might?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "21:54",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-06-20-f5434a96",
-      "headline": "Bolivia declares state of emergency to clear protest blockades",
-      "summary": "Bolivia declares state of emergency to clear protest blockades",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "20:42",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-06-20-65b15f5e",
-      "headline": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
-      "summary": "Al Jazeera condemned Israel&#039;s &#039;deliberate&#039; targeting of Wishah, the network&#039;s 12th media worker killed during Gaza war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/al-jazeera-cameraman-ahmad-wishah-killed-in-israeli-attack-in-gaza?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "18:07",
-      "conflict_id": null,
-      "score": 47.4
+      "score": 43.0
     },
     {
       "id": "2026-06-20-8cefb0a7",
@@ -420,20 +490,6 @@
       "category": "geopolitics",
       "date": "2026-06-20",
       "time": "17:07",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-06-20-92ec115b",
-      "headline": "Zelenskyy returns Polish state medal in escalating dispute with ally",
-      "summary": "Ukrainian president calls on Warsaw to show more respect in row dating back to second world war",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "18:33",
       "conflict_id": null,
       "score": 42.4
     },
@@ -452,20 +508,6 @@
       "score": 41.2
     },
     {
-      "id": "2026-06-20-06dce51b",
-      "headline": "Zelenskyy issues one-week ultimatum to Lukashenka over drone-guidance equipment",
-      "summary": "During a media briefing in Kyiv on Friday, Zelenskyy threatened Ukraine will take down the drone relay equipment on the border if the Belarusian leader, Aliaksandr Lukashenka, doesn't do anything to address it.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/20/zelenskyy-issues-one-week-ultimatum-to-lukashenka-over-drone-guidance-equipment",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "12:35",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
-    },
-    {
       "id": "2026-06-20-b7213030",
       "headline": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
       "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
@@ -480,16 +522,30 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-20-d0c31963",
-      "headline": "Chief whip warns Starmer that growing number of MPs want exit timetable",
-      "summary": "Prime minister is spending the weekend discussing his future with allies and colleagues",
+      "id": "2026-06-20-94257cee",
+      "headline": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "10:19",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-20-92ec115b",
+      "headline": "Zelenskyy returns Polish state medal in escalating dispute with ally",
+      "summary": "Ukrainian president calls on Warsaw to show more respect in row dating back to second world war",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd",
+      "url": "https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a",
       "region": "EU",
       "country": null,
-      "category": "politics",
+      "category": "geopolitics",
       "date": "2026-06-20",
-      "time": "17:01",
+      "time": "18:33",
       "conflict_id": null,
       "score": 34.4
     },
@@ -662,20 +718,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-06-20-e72f8a66",
-      "headline": "James Bradley, Co-Author of ‘Flags of Our Fathers,’ Dies at 72",
-      "summary": "His best-selling book celebrated the servicemen in the stirring photograph of the U.S. flag-raising on Iwo Jima. One, it was long believed, was his father.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/19/us/james-bradley-dead.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-20",
-      "time": "01:40",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-06-20-ac264e18",
       "headline": "Anthony Albanese says Australia’s first mainland case of deadly H5N1 bird flu ‘concerning’",
       "summary": "Tests taken in Western Australia suggest a second bird was also infected, but there is no evidence poultry or agriculture systems are affectedGet our breaking news email, free app or daily news podcastThe deadly H5N1 bird flu strain has arrived on the Australian mainland with test results confirming a migratory seabird found on the Western Australian coast was positive for the disease.The agriculture minister, Julie Collins, confirmed a brown sku",
@@ -704,46 +746,32 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-19-2cfae6e7",
-      "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
-      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "id": "2026-06-19-7469f939",
+      "headline": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Lebanon",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-19",
-      "time": "19:27",
+      "time": "05:33",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
-      "id": "2026-06-19-f4eabe8a",
-      "headline": "A New Air Force One, via Qatar, Nears Its First Presidential Flight",
-      "summary": "President Trump showed off the new red, white and blue Boeing 747, a gift from Qatar that prompted a storm of criticism from lawmakers, before a flyover on July 4.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html",
+      "id": "2026-06-19-9de4a068",
+      "headline": "In Trump's shadow, Vance becomes face of Iran deal",
+      "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
-      "category": "politics",
+      "category": "geopolitics",
       "date": "2026-06-19",
-      "time": "23:50",
+      "time": "04:12",
       "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-06-19-11167c85",
-      "headline": "Trump visits new Air Force One, a luxury gift from Qatar that will soon fly him",
-      "summary": "The 747 jumbo jet has a new blue, red and gold paint scheme preferred by the president.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/06/19/new-air-force-one-gift-qatar-arrives-will-soon-fly-trump/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-19",
-      "time": "20:35",
-      "conflict_id": null,
-      "score": 32.9
+      "score": 35.0
     },
     {
       "id": "2026-06-19-51527677",
@@ -788,20 +816,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-19-0778e869",
-      "headline": "Value Investing Legend Seth Klarman: Masters in Business",
-      "summary": "Barry sits down with Munger disciple Seth Klarman, CEO of Baupost Group, a Boston-based investment manager with a multi-strategy approach. They discuss Seth's start as a 25 year-old and journey to CEO. They also discuss his approach to risk, IPOs, and sectors along with his sports passions including a smaller ownership in the Boston Red Sox, horse racing, and his feelings about the Boston Celtics' 2026 season. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-19/value-investing-legend-seth-klarman-masters-in-business-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-19",
-      "time": "21:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-19-524c5b9d",
       "headline": "Global framework for reparatory justice adopted at landmark Ghana conference",
       "summary": "Call for formal apologies from countries that benefited from transatlantic trade slave included in 19-point roadmapMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leaders demanded formal apologies from countries that benefited from the transatlantic slave trade.Heads of state and government and other officials formally approved the strat",
@@ -814,6 +828,20 @@
       "time": "17:26",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-18-b11359d3",
+      "headline": "What Iran and US get from deal and why both could struggle to keep it",
+      "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-06-18",
+      "time": "20:04",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-18-31b2f5db",
@@ -830,30 +858,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-18-769a9619",
-      "headline": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
-      "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
+      "id": "2026-06-18-ea189e39",
+      "headline": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+      "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
+      "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-06-18",
-      "time": "01:29",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-18-b11359d3",
-      "headline": "What Iran and US get from deal and why both could struggle to keep it",
-      "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-06-18",
-      "time": "20:04",
+      "time": "14:02",
       "conflict_id": null,
       "score": 35.0
     },
@@ -940,20 +954,6 @@
       "time": "13:41",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-06-17-565def58",
-      "headline": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
-      "summary": "Abdiqadir Salah was pierced by shrapnel in a bombing that killed 12 in Somalia. But as the US denies civilians were hurt they face no hope of compensationRead more: Killed walking home from school: why did Somali children become targets of US drone strikes?A seven-year-old boy who was riddled with shrapnel during a deadly US airstrike in Somalia faces losing his ability to walk unless he has a £750 emergency operation.But Abdiqadir Salah’s family",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-17",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-06-17-32b1d1fb",
@@ -1135,7 +1135,7 @@
       "date": "2026-06-15",
       "time": "14:26",
       "conflict_id": null,
-      "score": 43.0
+      "score": 59.0
     },
     {
       "id": "2026-06-15-b63364a7",
