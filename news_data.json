@@ -1,21 +1,77 @@
 {
-  "updated": "2026-06-21T02:02:27.892191+00:00",
-  "story_count": 82,
+  "updated": "2026-06-21T07:03:30.610660+00:00",
+  "story_count": 83,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-06-21-8704db78",
-      "headline": "US-Iran talks to begin in Switzerland as Tehran says it has closed Hormuz Strait",
-      "summary": "The US military has disputed Tehran's claim, as Iran said it closed the Strait over deadly Israeli attacks in Lebanon.",
+      "id": "2026-06-21-cd7db1c7",
+      "headline": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
+      "summary": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president Bolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldozers to raze anti-government roadblocks that have paralysed the country.For more than six weeks, unions, Indigenous groups and coca farmers have marched through cities and blocked roads across the country with rubbl",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/21/bolivian-president-declares-state-of-emergency-and-deploys-military-to-quell-anti-government-protests",
+      "region": "NA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "04:23",
+      "conflict_id": null,
+      "score": 56.0
+    },
+    {
+      "id": "2026-06-21-0a0a4d32",
+      "headline": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Switzerland",
       "category": "geopolitics",
       "date": "2026-06-21",
-      "time": "01:46",
+      "time": "04:34",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
+    },
+    {
+      "id": "2026-06-21-badfecf0",
+      "headline": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+      "summary": "Al Jazeera cameraman Ahmed Wishah killed in targeted Israeli strike",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/al-jazeera-cameraman-ahmed-wishah-killed-in-targeted-israeli-strike?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "05:35",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-06-21-57e79898",
+      "headline": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
+      "summary": "Talks come as Iran says it is closing the Strait of Hormuz over Israel&#039;s deadly attacks on Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
+      "region": "MENA",
+      "country": "Switzerland",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-06-21-049aeb3f",
+      "headline": "Russian strikes on eastern Ukraine kill three and injure 22",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said on Saturday that his forces had targeted an oil-processing facility in Russia's Tyumen region.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/21/russian-strikes-on-eastern-ukraine-kill-three-and-injure-22",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "06:03",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
       "id": "2026-06-21-bd1c32e3",
@@ -32,8 +88,22 @@
       "score": 30.8
     },
     {
-      "id": "2026-06-21-694006a5",
-      "headline": "Trump, Claiming Vandalism, Says Reflecting Pool Will Be Drained",
+      "id": "2026-06-21-f765948d",
+      "headline": "Finally, a use for corporate bullshit",
+      "summary": "Companies might one day be able to use it to choose who to hire and promote",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1795c467-761d-4cfc-8fe9-a6dbb888ba7b",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-21",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-21-119685bb",
+      "headline": "Trump, Claiming Vandalism, Says Reflecting Pool Will Likely Need to Be Drained",
       "summary": "The pool has taken on clouds of algae after a hasty renovation. A three-time Olympian was charged with destroying government property after he says he touched one of the strands of blue paint peeling off the pool’s bottom.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html",
@@ -41,23 +111,65 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-06-21",
-      "time": "01:52",
+      "time": "01:59",
       "conflict_id": null,
       "score": 25.2
     },
     {
-      "id": "2026-06-21-99a047a6",
-      "headline": "Australia news live: Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform; boy, 12, dies in Cairns crash in suspected stolen car",
-      "summary": "Follow live updatesGet our breaking news email, free app or daily news podcastTed O’Brien distanced himself from Pauline Hanson’s suggestion that Australia shouldn’t give aid to Pacific countries that also take aid from China.He said it was a legitimate concern, but her solution was “completely wrong” for the Pacific and not in Australia’s national interest.The idea that you effectively hold a gun to the head of our Pacific neighbours – that’s no",
+      "id": "2026-06-21-12e476d5",
+      "headline": "Angus Taylor dismisses Labor’s ‘half-arsed’ tweaks to CGT reform – as it happened",
+      "summary": "This blog has now closedGet our breaking news email, free app or daily news podcastTed O’Brien distanced himself from Pauline Hanson’s suggestion that Australia shouldn’t give aid to Pacific countries that also take aid from China.He said it was a legitimate concern, but her solution was “completely wrong” for the Pacific and not in Australia’s national interest.The idea that you effectively hold a gun to the head of our Pacific neighbours – that",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/21/australia-news-live-bird-flu-h5n1-wildlife-fuel-excise-iran-hormuz-albanese-bowen-taylor-coalition-one-nation-pauline-hanson-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "geopolitics",
       "date": "2026-06-21",
-      "time": "01:28",
+      "time": "04:09",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-06-21-deae5f24",
+      "headline": "Two-thirds of EU citizens back UK rejoining bloc, survey finds",
+      "summary": "Even voters for far-right and Eurosceptic parties back closer relations, polling saysTwo-thirds of EU citizens would back Britain rejoining the bloc, while most UK voters say Brexit has been bad for the issues they care about and want closer ties, including levels of integration – such as free movement – long seen as toxic, a survey has found.Ten years after the Brexit referendum, the polling by the European Council on Foreign Relations (ECFR), a",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/two-thirds-eu-citizens-back-uk-rejoining-bloc-brexit-survey",
+      "region": "EU",
+      "country": "Britain",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-06-21-2394f88e",
+      "headline": "South Africa’s immigration crackdown divides Johannesburg’s inner city",
+      "summary": "A government push to curb undocumented employment is exposing the dependence of many small businesses on migrant labour.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/21/south-africas-immigration-crackdown-divides-johannesburgs-inner-city?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "05:42",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-06-21-e054cc39",
+      "headline": "Summer Davos, BRICS security meeting, Bangkok election",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/summer-davos-brics-security-meeting-bangkok-election",
+      "region": "APJ",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-06-21-0e84c45a",
@@ -144,6 +256,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-06-20-c277c1df",
+      "headline": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
+      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "21:57",
+      "conflict_id": "israel-hamas",
+      "score": 63.0
+    },
+    {
       "id": "2026-06-20-a2eef201",
       "headline": "Zelensky returns highest Polish honour after award stripped",
       "summary": "Ukraine's president said his country was open to \"engagement\" about \"difficult and painful chapters of our shared past\".",
@@ -156,6 +282,20 @@
       "time": "16:34",
       "conflict_id": "ukraine-war",
       "score": 63.0
+    },
+    {
+      "id": "2026-06-20-31a893d6",
+      "headline": "Bolivian president declares state of emergency",
+      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-06-20",
+      "time": "15:27",
+      "conflict_id": null,
+      "score": 59.0
     },
     {
       "id": "2026-06-20-b48cf229",
@@ -172,18 +312,18 @@
       "score": 57.0
     },
     {
-      "id": "2026-06-20-c277c1df",
-      "headline": "Israeli strikes kill six people in Gaza including Al Jazeera cameraman, officials say",
-      "summary": "The Israeli military accused Ahmed Wishah of being a \"Hamas sniper operative\", without providing evidence.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c4gy26p6pwzo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
+      "id": "2026-06-20-81b3a6e6",
+      "headline": "Bolivia declares state of emergency amid blockade crisis",
+      "summary": "For several weeks, a wave of protests has erupted over President Rodrigo Paz’s austerity measures.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "politics",
       "date": "2026-06-20",
-      "time": "21:57",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
+      "time": "16:41",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-06-20-6172e8f9",
@@ -214,34 +354,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-06-20-31a893d6",
-      "headline": "Bolivian president declares state of emergency",
-      "summary": "The move comes after weeks of anti-government protests that have caused a shortage of basic goods in Bolivia.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cr47wn92zdgo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "15:27",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-06-20-8cefb0a7",
-      "headline": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
-      "summary": "Possible Democratic presidential candidate describes war as historic ‘American national security mess’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "17:07",
-      "conflict_id": null,
-      "score": 50.4
-    },
-    {
       "id": "2026-06-20-40f668c4",
       "headline": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes",
       "summary": "Iran shuts Strait of Hormuz as Israel tests MOU with Lebanon strikes.",
@@ -270,6 +382,20 @@
       "score": 47.4
     },
     {
+      "id": "2026-06-20-f5434a96",
+      "headline": "Bolivia declares state of emergency to clear protest blockades",
+      "summary": "Bolivia declares state of emergency to clear protest blockades",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
+      "region": "SA",
+      "country": "Bolivia",
+      "category": "politics",
+      "date": "2026-06-20",
+      "time": "20:42",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-06-20-65b15f5e",
       "headline": "Al Jazeera cameraman Ahmed Wishah killed in Israeli attack in Gaza",
       "summary": "Al Jazeera condemned Israel&#039;s &#039;deliberate&#039; targeting of Wishah, the network&#039;s 12th media worker killed during Gaza war.",
@@ -284,32 +410,18 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-20-81b3a6e6",
-      "headline": "Bolivia declares state of emergency amid blockade crisis",
-      "summary": "For several weeks, a wave of protests has erupted over President Rodrigo Paz’s austerity measures.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/bolivia-declares-state-of-emergency-amid-blockade-crisis?traffic_source=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "16:41",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-06-20-39e88d1a",
-      "headline": "Israel and Hezbollah continue strikes despite ceasefire agreement",
-      "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx240k9l112o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
+      "id": "2026-06-20-8cefb0a7",
+      "headline": "Rahm Emanuel says Trump ‘got schooled’ by Iran in bad ceasefire deal",
+      "summary": "Possible Democratic presidential candidate describes war as historic ‘American national security mess’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3be5a96f-f22e-4b8e-898f-fe10c2f84058",
+      "region": "NA",
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-06-20",
-      "time": "18:36",
+      "time": "17:07",
       "conflict_id": null,
-      "score": 43.0
+      "score": 42.4
     },
     {
       "id": "2026-06-20-92ec115b",
@@ -354,48 +466,6 @@
       "score": 41.0
     },
     {
-      "id": "2026-06-20-f5434a96",
-      "headline": "Bolivia declares state of emergency to clear protest blockades",
-      "summary": "Bolivia declares state of emergency to clear protest blockades",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/bolivia-declares-state-of-emergency-to-clear-protest-blockades?traffic_source=rss",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "20:42",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-06-20-795fc704",
-      "headline": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments",
-      "summary": "Iran warns of ‘reciprocal action’ if US doesn’t honour MOU commitments.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/20/iran-warns-of-reciprocal-action-if-us-doesnt-honour-mou-commitments?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "15:10",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-06-20-2b8a06f9",
-      "headline": "Wife of Spanish PM Pedro Pedro Sánchez has passport revoked as court orders corruption trial",
-      "summary": "The case is one of several corruption affairs that have embroiled the Socialist leader’s family and former allies, threatening to topple his minority coalition government.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/20/wife-of-spanish-pm-pedro-pedro-sanchez-has-passport-revoked-as-court-orders-corruption-tri",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "15:11",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-06-20-b7213030",
       "headline": "Meloni tells Trump to 'focus on your own popularity' as row escalates",
       "summary": "The US president earlier questioned Meloni's popularity after suggesting she \"begged\" for a photo at G7 summit",
@@ -410,16 +480,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-20-90869887",
-      "headline": "Pedro Sánchez’s wife ordered to face corruption trial and surrender passport",
-      "summary": "Spanish prime minister’s office accuses judge of over-reach after shock decision",
+      "id": "2026-06-20-d0c31963",
+      "headline": "Chief whip warns Starmer that growing number of MPs want exit timetable",
+      "summary": "Prime minister is spending the weekend discussing his future with allies and colleagues",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/1ca7cd4f-8b93-46d1-81ae-2c506da275b0",
+      "url": "https://www.ft.com/content/e586d110-34cf-47c6-8a05-68750ee425dd",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-06-20",
-      "time": "14:40",
+      "time": "17:01",
       "conflict_id": null,
       "score": 34.4
     },
@@ -452,20 +522,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-06-20-ae75d286",
-      "headline": "Court bans Spanish PM’s wife from leaving country amid corruption probe",
-      "summary": "Begona Gomez is accused of using her position as the prime minister&#039;s wife ⁠to secure work contracts.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/20/court-bans-spanish-pms-wife-from-leaving-country-amid-corruption-probe?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "14:21",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-06-20-df1cd626",
       "headline": "African and Caribbean nations call for formal apology for transatlantic slavery",
       "summary": "The leaders have asked for apologies from the countries that benefited from the slave trade, as well as debt relief and financial compensation.",
@@ -478,20 +534,6 @@
       "time": "02:33",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-20-4f45c0b5",
-      "headline": "Tens of thousands of Albanians join ‘Flamingo Revolution’ protest",
-      "summary": "Demonstrations against government corruption were sparked by a real estate development proposal by Jared Kushner",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/68048f2c-9f87-415f-849d-175690c72487",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "18:29",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-06-20-52b11f5b",
@@ -620,20 +662,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-06-20-62ce34be",
-      "headline": "Memo by Rubio Approved Detention of Immigrant Who Criticized Trump Ally",
-      "summary": "Secretary of State Marco Rubio said Beto Coral’s criticism of a presidential candidate in his home country of Colombia undermined U.S. foreign policy.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/19/us/rubio-beto-coral-colombia.html",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "01:57",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-06-20-e72f8a66",
       "headline": "James Bradley, Co-Author of ‘Flags of Our Fathers,’ Dies at 72",
       "summary": "His best-selling book celebrated the servicemen in the stirring photograph of the U.S. flag-raising on Iwo Jima. One, it was long believed, was his father.",
@@ -662,16 +690,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-20-bd81664e",
-      "headline": "Beyond the beach: Spain pushes offbeat regions as tourist numbers nudge 100m",
-      "summary": "Exclusive: Tourism minister says another likely record year of visitor growth is not a worry amid move to welcome tourists out of season and market less frequented areasSpain is redoubling its efforts to push its tourist appeal beyond the familiar “sun and sand and coast” model as it prepares for another record-breaking year in which the number of foreign visitors could reach 100 million for the first time, the country’s tourism minister has said",
+      "id": "2026-06-20-0898563b",
+      "headline": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
+      "summary": "Guardian investigation also finds same areas experienced relative decline over same periodLeave-voting areas have seen faster relative growth in foreign workers since the Brexit referendum, a Guardian investigation has found.Data analysis suggests that the decade since the Brexit vote may not have matched the expectations of many Leave supporters, showing their local areas have also become relatively more deprived over the same period. Continue r",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/20/spain-offbeat-regions-tourist-numbers-overtourism",
+      "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
       "region": "EU",
-      "country": "Spain",
-      "category": "business",
+      "country": null,
+      "category": "politics",
       "date": "2026-06-20",
-      "time": "07:00",
+      "time": "16:00",
       "conflict_id": null,
       "score": 24.0
     },
@@ -687,21 +715,7 @@
       "date": "2026-06-19",
       "time": "19:27",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-06-19-5bb7b73a",
-      "headline": "US-Iran talks postponed as Israel launches deadly strikes in Lebanon",
-      "summary": "JD Vance has not travelled to Switzerland as the Israeli military said it was targeting Hezbollah and that four of its own soldiers had been killed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/c8r2eme2n5do?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Switzerland",
-      "category": "geopolitics",
-      "date": "2026-06-19",
-      "time": "15:16",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-06-19-f4eabe8a",
@@ -816,20 +830,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-18-ea189e39",
-      "headline": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
-      "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-18",
-      "time": "14:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-18-769a9619",
       "headline": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
       "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
@@ -840,6 +840,20 @@
       "category": "geopolitics",
       "date": "2026-06-18",
       "time": "01:29",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-18-b11359d3",
+      "headline": "What Iran and US get from deal and why both could struggle to keep it",
+      "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-06-18",
+      "time": "20:04",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1054,20 +1068,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-16-f94ace0f",
-      "headline": "Jair Bolsonaro’s son sentenced to four years in jail for seeking US interference in father’s Brazil coup trial",
-      "summary": "Brazil supreme court finds that Eduardo Bolsonaro – who resides in the US - tried to get sanctions put on judges trying ex-president over coup plotBrazil’s supreme court has sentenced Eduardo Bolsonaro to four years and two months in prison after finding him guilty of courting US ⁠interference in his father’s coup plot trial last year.The office of Brazil’s ‌prosecutor general had ‌charged Eduardo Bolsonaro – who lives in the US - courting interf",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/16/brazilian-court-convicts-eduardo-bolsonaro-us-help-father-jair",
-      "region": "NA",
-      "country": "Brazil",
-      "category": "geopolitics",
-      "date": "2026-06-16",
-      "time": "21:44",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-06-16-af5d8362",
       "headline": "Fujitsu chair resigns after ‘woman-related inappropriate conduct’",
       "summary": "Japanese technology company at centre of Post Office IT scandal is negotiating settlement with UK government over faulty softwareBusiness live – latest updatesThe chair of Fujitsu, the Japanese technology firm at the centre of the Post Office IT scandal, has resigned after its board became aware of his “woman-related inappropriate conduct”.The company said on Tuesday that Hidenori Furuta had stepped down after two years in the role. Continue read",
@@ -1122,6 +1122,20 @@
       "time": "15:19",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-06-15-d1fa0f5a",
+      "headline": "Bowen: Iran deal ends Trump's war that revealed limit of US dominance",
+      "summary": "The deal to end fighting and re-open the Strait of Hormuz leaves the sides where they were 24 hours before the war - only with thousands now dead.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cdr4x3vg347o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-15",
+      "time": "14:26",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-15-b63364a7",
