@@ -1,22 +1,8 @@
 {
-  "updated": "2026-06-21T10:41:55.546742+00:00",
-  "story_count": 83,
+  "updated": "2026-06-21T12:28:24.659698+00:00",
+  "story_count": 82,
   "source_count": 9,
   "stories": [
-    {
-      "id": "2026-06-21-6fdbd545",
-      "headline": "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
-      "summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "09:02",
-      "conflict_id": null,
-      "score": 57.2
-    },
     {
       "id": "2026-06-21-f0314e73",
       "headline": "The deal with Iran may be imperfect but it is what the American people want",
@@ -32,8 +18,36 @@
       "score": 55.4
     },
     {
-      "id": "2026-06-21-0a0a4d32",
-      "headline": "US-Iran talks to begin in Switzerland as Tehran says it closed Strait of Hormuz",
+      "id": "2026-06-21-4f5cae31",
+      "headline": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
+      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "10:55",
+      "conflict_id": "ukraine-war",
+      "score": 55.0
+    },
+    {
+      "id": "2026-06-21-7f93bc15",
+      "headline": "Ukraine warns Belarus of ‘consequences’ over drone equipment",
+      "summary": "Volodymyr Zelenskyy threatens to remove relay stations in the country used by Russia unless Minsk acts within a week",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/dd2868ef-b9a2-4b6e-ab52-e4d87a9a75d2",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "11:13",
+      "conflict_id": "ukraine-war",
+      "score": 54.4
+    },
+    {
+      "id": "2026-06-21-5f56083e",
+      "headline": "US-Iran talks begin in Switzerland as Tehran says it closed Strait of Hormuz",
       "summary": "The US disputed Iran's claim the waterway is shut, a move Tehran says was a response to Israeli attacks in Lebanon.",
       "source": "BBC News",
       "url": "https://www.bbc.com/news/articles/cwyekkwm1mmo?at_medium=RSS&at_campaign=rss",
@@ -44,6 +58,34 @@
       "time": "04:34",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-06-21-6fdbd545",
+      "headline": "Neither the War Nor Trump’s Deal Terminated the Main Threats in Iran, Analysts Say",
+      "summary": "Neither the war nor the agreement terminated the main threats emanating from Iran, many analysts said.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/21/us/iran-us-peace-deal-nuclear-program-threats.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "09:02",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
+      "id": "2026-06-21-7c23ed4d",
+      "headline": "Ukraine strikes hit oil facilities in Crimea, Russia’s Krasnodar",
+      "summary": "Crimea&#039;s Moscow-installed leader says four people killed in drone attack on the Russian-occupied Black Sea peninsula.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/21/ukraine-strikes-hit-oil-facilities-in-crimea-russias-krasnodar?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "10:30",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-06-21-f9205a3b",
@@ -74,20 +116,6 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-21-57e79898",
-      "headline": "Iran war live: US, Tehran set to hold high-level talks in Switzerland",
-      "summary": "Talks come as Iran says it is closing the Strait of Hormuz over Israel&#039;s deadly attacks on Lebanon.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/6/21/iran-war-live-vance-heads-to-switzerland-israel-kills-16-in-lebanon?traffic_source=rss",
-      "region": "MENA",
-      "country": "Switzerland",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-06-21-cd7db1c7",
       "headline": "Bolivian president declares state of emergency and deploys military to quell anti-government protests",
       "summary": "Bulldozers sent in to clear roadblocks that have stifled the country as farmers and Indigenous groups protest against conservative president Bolivia’s president declared a state of emergency on Saturday and deployed soldiers and bulldozers to raze anti-government roadblocks that have paralysed the country.For more than six weeks, unions, Indigenous groups and coca farmers have marched through cities and blocked roads across the country with rubbl",
@@ -102,32 +130,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-06-21-3fb8c2fe",
-      "headline": "Putin’s war machine sputters in drone age",
-      "summary": "Ukraine’s innovations cut into Russia’s manpower advantage",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b409d72f-ccff-4952-8b71-dfd62d75a1cd",
+      "id": "2026-06-21-7e700aaf",
+      "headline": "US-Iran delegations arrive as talks begin in Switzerland",
+      "summary": "US-Iran delegations arrive as talks begin in Switzerland.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/21/us-iran-delegations-arrive-as-talks-begin-in-switzerland?traffic_source=rss",
       "region": "EU",
-      "country": "Ukraine",
+      "country": "Switzerland",
       "category": "geopolitics",
       "date": "2026-06-21",
-      "time": "04:00",
+      "time": "11:03",
       "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-06-21-42f49997",
-      "headline": "SpaceX handed lowest possible ESG rating by MSCI",
-      "summary": "Triple C score puts Elon Musk’s company on par with Russia after 2022 invasion of Ukraine",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a0dd4ea7-ef3d-4460-a96c-8c6975a053e3",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 34.4
+      "score": 39.4
     },
     {
       "id": "2026-06-21-bd1c32e3",
@@ -158,16 +172,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-21-dd635cc5",
-      "headline": "Starmer on brink of quitting as UK prime minister",
-      "summary": "Move could see Andy Burnham become Britain’s seventh leader in the decade since Brexit",
+      "id": "2026-06-21-850c3a26",
+      "headline": "Rejoining the EU is no panacea",
+      "summary": "Reversing Brexit would sidetrack UK parliament from pursuing more impactful growth reforms",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/ed96e673-8d46-4dec-aebc-d69863b9e801",
+      "url": "https://www.ft.com/content/c5db4c04-0db7-4eec-a671-c022ad4b5025",
       "region": "EU",
-      "country": "Britain",
+      "country": null,
       "category": "politics",
       "date": "2026-06-21",
-      "time": "10:29",
+      "time": "11:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -181,7 +195,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-06-21",
-      "time": "09:00",
+      "time": "11:10",
       "conflict_id": null,
       "score": 25.2
     },
@@ -238,6 +252,20 @@
       "category": "geopolitics",
       "date": "2026-06-21",
       "time": "04:09",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-06-21-b29143fb",
+      "headline": "‘This changes everything’: how Brexit altered Scotland’s political landscape",
+      "summary": "Former party leaders reflect on the turbulence that followed the referendum in which most Scottish voters backed the losing sideThe decision to quit the EU bolstered support for Scottish independence, which a decade after the Brexit referendum is at near record levels, according to Scottish Labour’s former leader Kezia Dugdale.Dugdale said the Brexit vote “creates a frame around fairness” for many in Scotland because, unlike England, Scottish vot",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jun/21/this-changes-everything-how-brexit-altered-scotland-political-landscape",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "11:00",
       "conflict_id": null,
       "score": 24.0
     },
@@ -466,6 +494,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-06-20-94257cee",
+      "headline": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
+      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
+      "source": "BBC News",
+      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "10:19",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-06-20-39e88d1a",
       "headline": "Israel and Hezbollah continue strikes despite ceasefire agreement",
       "summary": "At least 20 people have reportedly been killed by Israeli air strikes as the Israeli military said Hezbollah had fired at Israeli troops in southern Lebanon.",
@@ -494,6 +536,20 @@
       "score": 42.4
     },
     {
+      "id": "2026-06-20-bfdbbfb1",
+      "headline": "US-Iran Delegations Expected in Switzerland",
+      "summary": "Three days after President Trump signed an agreement with Iran, Switzerland is playing host for diplomatic talks with the United States, Iran, Pakistan, and Qatar in attendance. The Associated Press's International Correspondent Philip Crowther joins Bloomberg This Weekend with hosts David Gura and Christina Ruffini to discuss who may be attending this summit and what a recent strikes in Lebanon could mean for any deal. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-20/us-iran-delegations-expected-in-switzerland-video",
+      "region": "MENA",
+      "country": "United States",
+      "category": "politics",
+      "date": "2026-06-20",
+      "time": "12:20",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
       "id": "2026-06-20-a43b705c",
       "headline": "What We Know About the Los Angeles Warehouse Fire",
       "summary": "The fire began in a cold-storage facility in the Boyle Heights neighborhood and was still burning on Saturday, prompting a local emergency declaration.",
@@ -520,48 +576,6 @@
       "time": "15:31",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-06-20-94257cee",
-      "headline": "Moscow oil refinery attack brings Russia's war with Ukraine closer to home",
-      "summary": "There are moments when life in Moscow feels completely normal - Thursday morning wasn't one of them, writes Steve Rosenberg.",
-      "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cp3xqkxp3x5o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "10:19",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-20-92ec115b",
-      "headline": "Zelenskyy returns Polish state medal in escalating dispute with ally",
-      "summary": "Ukrainian president calls on Warsaw to show more respect in row dating back to second world war",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e19012a8-d5ee-472f-a319-12c1a5f64a4a",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-20",
-      "time": "18:33",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-06-20-bfdbbfb1",
-      "headline": "US-Iran Delegations Expected in Switzerland",
-      "summary": "Three days after President Trump signed an agreement with Iran, Switzerland is playing host for diplomatic talks with the United States, Iran, Pakistan, and Qatar in attendance. The Associated Press's International Correspondent Philip Crowther joins Bloomberg This Weekend with hosts David Gura and Christina Ruffini to discuss who may be attending this summit and what a recent strikes in Lebanon could mean for any deal. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-20/us-iran-delegations-expected-in-switzerland-video",
-      "region": "MENA",
-      "country": "United States",
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "12:20",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-06-20-3572b492",
@@ -676,20 +690,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-20-fd012961",
-      "headline": "Germany’s Weirdest Debt Market May No Longer Be Safe Haven for Lenders",
-      "summary": "After storied Austrian motorcycle manufacturer KTM AG presented an insolvency plan to creditors last year, several of them convened a video conference to discuss a counter-proposal. More than 100 parties joined, but none of the usual big corporate lenders were involved. Instead, the group featured a motley crew of backers from tiny German towns, Chinese banks and European pension funds, all with wildly varying knowledge of the case at hand. The c",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-20/germany-s-weirdest-debt-market-may-no-longer-be-safe-haven-for-lenders",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-06-20",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-20-f00e1abd",
       "headline": "3 Hikers Die at Grand Canyon Amid ‘Dangerous’ High Temperatures",
       "summary": "The hikers died at Grand Canyon National Park in separate episodes as temperatures peaked above 100 degrees, the authorities said.",
@@ -732,20 +732,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-20-0898563b",
-      "headline": "Revealed: Brexit voting areas have seen faster growth in foreign workers since EU referendum",
-      "summary": "Guardian investigation also finds same areas experienced relative decline over same periodLeave-voting areas have seen faster relative growth in foreign workers since the Brexit referendum, a Guardian investigation has found.Data analysis suggests that the decade since the Brexit vote may not have matched the expectations of many Leave supporters, showing their local areas have also become relatively more deprived over the same period. Continue r",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jun/20/leave-voting-areas-foreign-workers-decade-since-brexit-referendum",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-20",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-06-19-7469f939",
       "headline": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
       "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
@@ -760,18 +746,18 @@
       "score": 59.0
     },
     {
-      "id": "2026-06-19-9de4a068",
-      "headline": "In Trump's shadow, Vance becomes face of Iran deal",
-      "summary": "His fierce defence of the Iran plan amid mounting criticism comes as speculation intensifies about a possible 2028 presidential run.",
+      "id": "2026-06-19-2cfae6e7",
+      "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cx23jr133lwo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
+      "url": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
       "category": "geopolitics",
       "date": "2026-06-19",
-      "time": "04:12",
+      "time": "19:27",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-06-19-51527677",
@@ -858,16 +844,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-18-ea189e39",
-      "headline": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
-      "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
+      "id": "2026-06-18-769a9619",
+      "headline": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+      "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
       "source": "BBC News",
-      "url": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
+      "url": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-06-18",
-      "time": "14:02",
+      "time": "01:29",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1135,7 +1121,7 @@
       "date": "2026-06-15",
       "time": "14:26",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     },
     {
       "id": "2026-06-15-b63364a7",
