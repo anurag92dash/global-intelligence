@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-23T22:21:31.477925+00:00",
-  "story_count": 87,
-  "source_count": 10,
+  "updated": "2026-06-23T23:33:07.084536+00:00",
+  "story_count": 89,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-06-23-9e80f6ac",
@@ -16,6 +16,20 @@
       "time": "17:12",
       "conflict_id": "ukraine-war",
       "score": 60.0
+    },
+    {
+      "id": "2026-06-23-61dca390",
+      "headline": "Israel’s deliberate targeting of Palestinian children",
+      "summary": "New UN report documents the toll of Israel&#039;s war on Gaza and its occupation of the West Bank on Palestinian children.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/aje-onl-nf_israels-targeting-of-palestinian-children-230626?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-23",
+      "time": "22:50",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-06-23-7db7ded2",
@@ -46,20 +60,6 @@
       "score": 46.4
     },
     {
-      "id": "2026-06-23-af3b3a95",
-      "headline": "Israeli forces set olive trees on fire in occupied West Bank",
-      "summary": "Footage shows the aftermath of Israeli forces setting olive trees on fire in the small Palestinian village of Rummanah.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/23/israeli-forces-set-olive-trees-on-fire-in-occupied-west-bank?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-23",
-      "time": "17:35",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
       "id": "2026-06-23-75c81245",
       "headline": "UN says it will evacuate sailors stranded in Strait of Hormuz, as Rubio warns against tolls",
       "summary": "US Secretary of State Marco Rubio warned Iran that no country can charge fees for ships to travel through the strait.",
@@ -74,32 +74,32 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-23-1b43d5ad",
-      "headline": "US eases travel restrictions on Iran World Cup team",
-      "summary": "Washington lengthens time period that team can arrive on American soil before last group game against Egypt",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/34a2b895-8620-4335-af50-e2e73aee4e39",
+      "id": "2026-06-23-d1c201b6",
+      "headline": "E-commerce giant Alibaba sues US government over defence blacklist",
+      "summary": "The e-commerce giant is suing the US defence department after it was added to a blacklist of firms with ties to the Chinese military.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg0258vpvqo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Washington",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-06-23",
-      "time": "21:19",
+      "time": "23:25",
       "conflict_id": null,
-      "score": 42.4
+      "score": 43.0
     },
     {
-      "id": "2026-06-23-3f3b7fd5",
-      "headline": "U.S. Eases Travel Restrictions on Iran’s World Cup Team",
-      "summary": "The Iranians will be allowed to enter the United States two days, instead of one, before a pivotal game in Seattle on Friday, officials said.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/23/us/iran-world-cup-travel-restrictions.html",
+      "id": "2026-06-23-a7b1961a",
+      "headline": "Alibaba sues Pentagon over inclusion on Chinese military blacklist",
+      "summary": "Ecommerce giant claims US defence department’s ‘arbitrary and capricious’ decision lacked evidence",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/23944164-b81a-4296-8b85-7d3648f1753c",
       "region": "NA",
-      "country": "United States",
+      "country": "Pentagon",
       "category": "geopolitics",
       "date": "2026-06-23",
-      "time": "22:19",
+      "time": "19:16",
       "conflict_id": null,
-      "score": 41.2
+      "score": 42.4
     },
     {
       "id": "2026-06-23-fd58a246",
@@ -116,18 +116,18 @@
       "score": 41.2
     },
     {
-      "id": "2026-06-23-3ab6c7ff",
-      "headline": "Ukraine says key Crimea rail bridge ‘no longer exists’ after drone strikes",
-      "summary": "Ukraine said it struck a major blow to Russia’s grip on the occupied Crimean peninsula, announcing the destruction of a key railway bridge over the North Crimean Canal in a series of strikes. The bridge is the “first one” to be eliminated, Kyiv’s troops said.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/23/ukraine-says-key-crimea-rail-bridge-no-longer-exists-after-drone-strikes",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-06-23-1b40e798",
+      "headline": "Protesters Accused of Antifa Ties Sentenced to Up to 100 Years in ICE Attack",
+      "summary": "The penalties, issued in an attack where a police officer was shot, dwarfed those given to Jan. 6 rioters and appeared to signal that at least some courts will deal aggressively with ICE protesters.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/antifa-ice-protesters-sentencing.html",
+      "region": "NA",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-06-23",
-      "time": "14:23",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
+      "time": "20:01",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-06-23-864e34fc",
@@ -140,6 +140,20 @@
       "category": "geopolitics",
       "date": "2026-06-23",
       "time": "21:00",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-23-eb15b434",
+      "headline": "Alibaba sues US military over labelling it a ‘Chinese military company’",
+      "summary": "E-commerce giant says that claims of affiliation with Chinese military have &#039;no basis in fact or law&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/alibaba-sues-us-military-over-labelling-it-a-chinese-military?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-23",
+      "time": "20:12",
       "conflict_id": null,
       "score": 39.4
     },
@@ -158,20 +172,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-06-23-f65682d2",
-      "headline": "US says Iran can stay for two days before Egypt World Cup game",
-      "summary": "Iran&#039;s team will still need to leave the US shortly after their third group-stage match against Egypt on Friday.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/6/23/us-says-iran-can-stay-for-two-days-before-egypt-world-cup-game?traffic_source=rss",
-      "region": "MENA",
-      "country": "Egypt",
-      "category": "geopolitics",
-      "date": "2026-06-23",
-      "time": "19:45",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-06-23-f8875753",
       "headline": "US Supreme Court OKs ExxonMobil lawsuit over Castro-era property seizure",
       "summary": "The US Supreme Court made it easier for US companies to seek compensation from Cuba&#039;s government for assets seized.",
@@ -186,18 +186,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-06-23-8f2bbf90",
-      "headline": "A decade after Brexit, Britain weighs costs and gains as it searches for a new leader",
-      "summary": "Ten years to the day since Britain voted to leave the EU, the economic reckoning is neither the collapse its opponents feared nor the renaissance its champions promised, and the anniversary arrives with the country once again leaderless, after Sir Keir Starmer's resignation on Monday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/06/23/a-decade-after-brexit-britain-weighs-costs-and-gains-as-it-searches-for-a-new-leader",
-      "region": "EU",
-      "country": "Britain",
-      "category": "politics",
+      "id": "2026-06-23-cbf8b2ea",
+      "headline": "Israeli troops kill two in south Lebanon after lull in fighting, authorities say",
+      "summary": "Israel's military says the two men were Hezbollah operatives, but the Iran-backed group accuses it of a ceasefire violation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c36ykpw0yego?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
       "date": "2026-06-23",
-      "time": "13:51",
+      "time": "16:47",
       "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
     },
     {
       "id": "2026-06-23-47b96980",
@@ -270,6 +270,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-23-5f81154c",
+      "headline": "UAE Oil Exports Surge to 85% of Pre-War Levels, IEA Says",
+      "summary": "Oil exports from the United Arab Emirates in early June recovered to nearly 85% of the country’s pre-Iran war levels &mdash; rebounding even before Washington and Tehran inked an interim peace deal as the Gulf nation drew on pipelines, storage and alternate shipping routes, according to a report from the International Energy Agency.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/uae-oil-exports-surge-to-85-of-pre-war-levels-iea-says",
+      "region": "MENA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-06-23",
+      "time": "22:19",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-06-23-649bef73",
       "headline": "Supreme Court Sides With Exxon in Lawsuit Over Assets Seized by Cuba",
       "summary": "The Trump administration backed Exxon Mobil’s effort to be compensated for oil and gas assets confiscated by the Cuban government in 1960.",
@@ -280,20 +294,6 @@
       "category": "business",
       "date": "2026-06-23",
       "time": "19:28",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-06-23-9e727a32",
-      "headline": "Appeals Court Allows Trump to Resume Expedited Deportations Nationwide",
-      "summary": "In a 2-to-1 vote, a federal appeals court panel ruled that the president can expand the procedure, previously used primarily near the border, to arrests nationally.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/23/us/politics/appeals-court-expedited-deportations.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-23",
-      "time": "19:45",
       "conflict_id": null,
       "score": 33.2
     },
@@ -321,7 +321,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-06-23",
-      "time": "21:51",
+      "time": "22:41",
       "conflict_id": null,
       "score": 32.9
     },
@@ -342,16 +342,30 @@
     {
       "id": "2026-06-23-fabe2cb6",
       "headline": "Australia politics live: Paid parental leave ‘not safe’ with One Nation, Plibersek warns; McKim says Greens want to ‘kill’ NDIS reform bill",
-      "summary": "Social services minister says Pauline Hanson ‘completely unsympathetic’ to financial stress of having a baby. Follow today’s news liveGet our breaking news email, free app or daily news podcastRuston pushes for overhaul to controversial aged care toolOver to her portfolio, the shadow health and aged care minister, Anne Ruston will introduce a private members bill to change the government’s controversial integrated assessment tool.The three things",
+      "summary": "Social services minister says Pauline Hanson ‘completely unsympathetic’ to financial stress of having a baby. Follow today’s news liveGet our breaking news email, free app or daily news podcastRuston pushes for overhaul to controversial aged care toolOver to her portfolio, the shadow health and aged care minister, Anne Ruston, will introduce a private member’s bill to change the government’s controversial integrated assessment tool.The three thin",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/24/australia-politics-live-war-memorial-tax-reform-greens-labor-deal-ndis-review-coalition-question-time-anthony-albanese-angus-taylor-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-06-23",
-      "time": "22:03",
+      "time": "23:17",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-06-23-6efd8ae7",
+      "headline": "Protesters sentenced to decades in US prison over alleged antifa ties",
+      "summary": "Civil liberties advocates have expressed alarm over the case involving a protest outside Prairieland Detention Center.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/23/protesters-sentenced-to-decades-in-us-prison-over-alleged-antifa-ties?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-23",
+      "time": "23:22",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-23-a91f9575",
@@ -382,20 +396,6 @@
       "score": 31.4
     },
     {
-      "id": "2026-06-23-14178ce7",
-      "headline": "US appeals court says Trump can proceed with fast-track deportation efforts",
-      "summary": "A panel of judges has overturned a previous ruling that found measures violated constitutional right to due process.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/23/us-appeals-court-says-trump-can-proceed-with-fast-track-deportation-efforts?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-23",
-      "time": "17:19",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-06-23-6cac9135",
       "headline": "Indonesia hit by fuel shortages, power outages as energy crisis deepens",
       "summary": "",
@@ -420,6 +420,20 @@
       "category": "politics",
       "date": "2026-06-23",
       "time": "16:27",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-06-23-b270a2ba",
+      "headline": "Trump anticipates better relationship with Colombia under new leader",
+      "summary": "Abelardo de la Espriella, who preliminary results suggest is Colombia's next president, had Trump's endorsement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9v278ny9meo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Colombia",
+      "category": "politics",
+      "date": "2026-06-23",
+      "time": "10:27",
       "conflict_id": null,
       "score": 27.0
     },
@@ -522,9 +536,37 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-23-a9f9bd05",
+      "headline": "EU allies join US pact to break reliance on Chinese AI supply chains",
+      "summary": "Jacob Helberg, architect of Pax Silica, tells the FT the American-led group will boost innovation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/681c33a0-dcb4-4a82-9aa0-8a9172f7e5bc",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-06-23",
+      "time": "22:08",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-23-c18f514a",
+      "headline": "Hormuz closure strands almost 1,200 cargo ships with $125bn worth of goods",
+      "summary": "‘Unprecedented’ blockade of the strait raises concerns about the future of global maritime trade, says insurer Allianz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4d3dd2b7-cb6b-410b-8c15-203904f32294",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-23",
+      "time": "23:01",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-06-23-c77fddce",
       "headline": "Asian Stocks Set to Extend AI Chip-Fueled Selloff: Markets Wrap",
-      "summary": "Stocks in Asia were poised to extend Tuesday’s losses after a bruising Wall Street tech-led selloff deepened concerns that the AI-driven equity rally has run too far.",
+      "summary": "Stocks in Asia looked poised to extend Tuesday’s losses after a bruising Wall Street tech-led selloff deepened concerns that the artificial intelligence-driven equity rally may have run too far.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-23/asian-stocks-set-to-extend-ai-chip-fueled-selloff-markets-wrap",
       "region": "NA",
@@ -532,6 +574,20 @@
       "category": "business",
       "date": "2026-06-23",
       "time": "22:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-23-d4c92c63",
+      "headline": "Xi Pressures Takaichi by Throttling Key Mineral Exports to Japan",
+      "summary": "China is choking shipments of some critical minerals to Japan, a slowdown that’s hurting companies and prompting calls for Prime Minister Sanae Takaichi to find a diplomatic off-ramp with Beijing.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-23/xi-pressures-takaichi-by-throttling-key-mineral-exports-to-japan",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "politics",
+      "date": "2026-06-23",
+      "time": "23:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -606,20 +662,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-23-0ec979dd",
-      "headline": "MSCI Maintains Korea’s Emerging Market Status in Latest Review",
-      "summary": "MSCI Inc. kept South Korea in its emerging-market index and refrained from starting a formal review process that could eventually elevate the $5 trillion stock market to developed-market status.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-23/msci-maintains-korea-s-emerging-market-status-in-latest-review",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-06-23",
-      "time": "21:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-23-d83b0775",
       "headline": "AI Boom Sees Investors Shift From Japan’s Value to Growth Stocks",
       "summary": "Japanese equities, long regarded by global investors as a value market, are beginning to attract growth funds, as AI-linked firms power to the top of market-cap rankings, beating out the manufacturers and telecoms giants that dominated for decades.",
@@ -690,34 +732,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-23-a543d6e2",
-      "headline": "Tasmanian devils, swift parrots, black swans: the animals at risk if bird flu takes off in Australia",
-      "summary": "Federal government identifies more than 150 native and unique bird species and 10 mammal species at ‘very high risk’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMore than 150 of Australia’s native and unique bird species have been assessed as being at “very high risk” of extinction or major decline if they catch the deadly H5N1 bird flu strain, with Western Australia’s celebrated",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/24/h5n1-bird-flu-australia-native-bird-mammal-species-at-risk",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-06-23",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-06-23-bf13e577",
-      "headline": "Europe’s heatwave drives electricity prices to new highs as demand soars",
-      "summary": "Great Britain has paid at least six times the normal price for imported power as millions turn on air conditioning and windfarm output sagsThe heatwave has prompted a sharp rise in electricity prices across European markets as millions turn to air conditioners and electric fans to battle record high temperatures, which have also caused a string of power plant outages across the continent.Great Britain imported electricity from Europe at more than",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jun/23/electricity-prices-jump-in-europe-as-demands-soars-in-the-heatwave",
-      "region": "EU",
-      "country": "Britain",
-      "category": "business",
-      "date": "2026-06-23",
-      "time": "18:41",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-06-23-b88f3e58",
       "headline": "Massive fire rips through Indonesia sandal factory",
       "summary": "A massive fire destroyed a sandal factory in Tangerang, Indonesia, after it spread to a gas storage area.",
@@ -782,6 +796,20 @@
       "region": "APJ",
       "country": "Japan",
       "category": "politics",
+      "date": "2026-06-23",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-06-23-c68e5037",
+      "headline": "SoftBank to build AI servers at old Sharp plant starting in fiscal 2027",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-to-build-ai-servers-at-old-sharp-plant-starting-in-fiscal-2027",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
       "date": "2026-06-23",
       "time": "",
       "conflict_id": null,
@@ -914,6 +942,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-06-21-dfe00d96",
+      "headline": "Half of France under red heat alert as alcohol banned at street music festival",
+      "summary": "Temperatures are forecast to peak on Monday, and authorities warn they could match historic highs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgmdw4vn7y2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-06-21",
+      "time": "15:22",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-21-ec9c412a",
       "headline": "The BTS fans losing thousands as scammers cash in on comeback tour ticket war",
       "summary": "As ticket demand outstrips supply by a ratio of 15 to one, desperate fans have become easy targets.",
@@ -940,6 +982,20 @@
       "time": "21:55",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-06-21-6d5d92ee",
+      "headline": "Dutch PM apologises for Moluccan soldiers’ mistreatment after Indonesian independence",
+      "summary": "Rob Jetten acknowledges grief and pain of Moluccan families as crowdfunded monument unveiled in RotterdamThe Dutch prime minister, Rob Jetten, has formally apologised for the “heartless” mistreatment of thousands of Moluccan soldiers who fought for the Dutch colonial army during Indonesia’s struggle for independence.About 12,500 people – men who had served in the Royal Dutch East Indies and their families – came from a group of Indonesian islands",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/21/dutch-pm-apologises-moluccan-soldiers-indonesia-independence",
+      "region": "EU",
+      "country": "Netherlands",
+      "category": "politics",
+      "date": "2026-06-21",
+      "time": "15:18",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-06-20-a2eef201",
@@ -1054,20 +1110,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-19-29e647b1",
-      "headline": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
-      "summary": "The BBC’s Will Grant was amongst the crowds swarming to meet Merlin, a pet duck who went viral for waddling around Mexico City in the Mexican team's jersey.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c17yrzpge4no?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "geopolitics",
-      "date": "2026-06-19",
-      "time": "05:41",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-06-19-dfe733a1",
       "headline": "Ghana conference calls for formal apology for transatlantic slave trade",
       "summary": "Global framework for reparatory justice adopted at event includes demand for compensation and debt reliefMore than money: the logic of slavery reparationsA global framework for reparatory justice has been adopted at a conference in Ghana, as African and Caribbean leaders demanded formal apologies from countries that benefited from the transatlantic slave trade.Heads of state and government and other officials formally approved the strategy on Fri",
@@ -1092,20 +1134,6 @@
       "category": "geopolitics",
       "date": "2026-06-18",
       "time": "20:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-18-769a9619",
-      "headline": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
-      "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-18",
-      "time": "01:29",
       "conflict_id": null,
       "score": 35.0
     },
