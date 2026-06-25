@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-25T22:42:25.747042+00:00",
-  "story_count": 75,
+  "updated": "2026-06-25T23:57:11.167977+00:00",
+  "story_count": 77,
   "source_count": 10,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-06-25",
       "time": "16:05",
       "conflict_id": null,
-      "score": 59.4
+      "score": 58.4
     },
     {
       "id": "2026-06-25-7e0bf41f",
@@ -29,7 +29,7 @@
       "date": "2026-06-25",
       "time": "09:06",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     },
     {
       "id": "2026-06-25-28975c12",
@@ -43,91 +43,7 @@
       "date": "2026-06-25",
       "time": "15:30",
       "conflict_id": null,
-      "score": 58.4
-    },
-    {
-      "id": "2026-06-25-847c0211",
-      "headline": "US Supreme Court clears way for mass deportations of Haitians and Syrians",
-      "summary": "The 6-3 ruling hands Donald Trump a sweeping victory on immigration, stripping legal protections from hundreds of thousands of people the State Department warns would be returning to dangerous countries.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/25/us-supreme-court-clears-way-for-mass-deportations-of-haitians-and-syrians",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-25",
-      "time": "20:03",
-      "conflict_id": null,
-      "score": 53.0
-    },
-    {
-      "id": "2026-06-25-a4b6209a",
-      "headline": "Israeli forces shoot and kill Palestinians in occupied West Bank, Gaza",
-      "summary": "The deaths come amid escalating Israeli military raids and settler attacks across the occupied territories.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/israeli-forces-shoot-and-kill-palestinians-in-occupied-west-bank-gaza?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-25",
-      "time": "16:27",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
-      "id": "2026-06-25-63d3e63a",
-      "headline": "Supreme Court Expands Trump’s Power Over Immigration With TPS and Southern Border Decisions",
-      "summary": "The court handed President Trump victories in his push to rescind deportation protections for hundreds of thousands of people and turn away migrants at the southern border.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-25",
-      "time": "22:10",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
-      "id": "2026-06-25-8a20f456",
-      "headline": "After Trump’s Outburst, Senate Republicans Reject Iran War Powers Resolution",
-      "summary": "In a late-night vote aimed at mollifying the president, Senate Republicans rejected a resolution directing him to end the war against Iran, a day after a bipartisan rebuke.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/24/us/politics/trump-senate-iran.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-06-25",
-      "time": "03:43",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
-      "id": "2026-06-25-df2fd72e",
-      "headline": "Migrants not entitled to apply for asylum while standing on Mexico side of border, Supreme Court rules",
-      "summary": "The 6-3 decision clears the way for the Trump administration to resume allowing federal agents at the border to turn back asylum seekers before they enter.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/25/migrants-not-entitled-apply-asylum-while-standing-mexico-side-border-supreme-court-rules/",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "geopolitics",
-      "date": "2026-06-25",
-      "time": "18:05",
-      "conflict_id": null,
-      "score": 48.9
-    },
-    {
-      "id": "2026-06-25-4030099a",
-      "headline": "US Supreme Court paves way for government to block asylum seekers at border",
-      "summary": "Liberal justices say the ruling &#039;circumvents&#039; US law by allowing agents to prevent asylum seekers from filing a claim.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/25/us-supreme-court-paves-way-for-government-to-block-asylum-seekers-at-border?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-25",
-      "time": "16:15",
-      "conflict_id": null,
-      "score": 48.4
+      "score": 50.4
     },
     {
       "id": "2026-06-25-b0310651",
@@ -142,6 +58,20 @@
       "time": "12:25",
       "conflict_id": "ukraine-war",
       "score": 47.0
+    },
+    {
+      "id": "2026-06-25-847c0211",
+      "headline": "US Supreme Court clears way for mass deportations of Haitians and Syrians",
+      "summary": "The 6-3 ruling hands Donald Trump a sweeping victory on immigration, stripping legal protections from hundreds of thousands of people the State Department warns would be returning to dangerous countries.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/25/us-supreme-court-clears-way-for-mass-deportations-of-haitians-and-syrians",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-25",
+      "time": "20:03",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-06-25-8bacd0fb",
@@ -186,18 +116,32 @@
       "score": 41.2
     },
     {
-      "id": "2026-06-25-0d3cbb6f",
-      "headline": "Supreme Court Allows Trump to Block Asylum Seekers at Border",
-      "summary": "A policy of turning back asylum seekers at the border was rescinded in 2021, but the Trump administration wants the flexibility to reinstate it as a tool for border control.",
+      "id": "2026-06-25-63d3e63a",
+      "headline": "Supreme Court Expands Trump’s Power Over Immigration With TPS and Southern Border Decisions",
+      "summary": "The court handed President Trump victories in his push to rescind deportation protections for hundreds of thousands of people and turn away migrants at the southern border.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-asylum-border.html",
+      "url": "https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-06-25",
-      "time": "17:06",
+      "time": "22:10",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-06-25-df2fd72e",
+      "headline": "Migrants not entitled to apply for asylum while standing on Mexico side of border, Supreme Court rules",
+      "summary": "The 6-3 decision clears the way for the Trump administration to resume allowing federal agents at the border to turn back asylum seekers before they enter.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/25/migrants-not-entitled-apply-asylum-while-standing-mexico-side-border-supreme-court-rules/",
+      "region": "NA",
+      "country": "Mexico",
+      "category": "geopolitics",
+      "date": "2026-06-25",
+      "time": "18:05",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-06-25-393e5c48",
@@ -298,6 +242,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-25-e63518ef",
+      "headline": "China’s Hardware Tech Stocks Look to Earnings to Sustain Rally",
+      "summary": "Chinese hardware technology stocks have been on a tear. The next challenge is showing the earnings to back it up.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/china-s-hardware-tech-stocks-look-to-earnings-to-sustain-rally",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-06-25",
+      "time": "23:30",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-06-25-97b24cae",
       "headline": "Wall Street Embraces the Dollar as Warsh’s Fed Activates Bulls",
       "summary": "The dollar is wrapping up one of its best months in a year as a raft of Wall Street banks see a turnaround of fortunes for the US currency.",
@@ -310,6 +268,20 @@
       "time": "22:05",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-06-25-d88168f0",
+      "headline": "Johnson Says He Will Send Housing Bill to Trump",
+      "summary": "After meeting with the president, the speaker said he would send him a housing bill that Mr. Trump declined to sign this week. There was no word on whether he would sign it.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/25/us/politics/mike-johnson-trump-housing-bill.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-25",
+      "time": "23:30",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-06-25-b9b7b734",
@@ -352,6 +324,20 @@
       "time": "19:31",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-06-25-59b20982",
+      "headline": "UN: Venezuela earthquakes will deepen already severe humanitarian crisis",
+      "summary": "The UN says it is scaling up its response after twin earthquakes devastated Venezuela.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/25/un-venezuela-earthquakes-will-deepen-already-severe-humanitarian-crisis?traffic_source=rss",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-06-25",
+      "time": "23:20",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-25-24ca0f01",
@@ -494,6 +480,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-25-b68c7c80",
+      "headline": "Asia Stocks Set for Choppy Open on Tech Volatility: Markets Wrap",
+      "summary": "Stocks in Asia were set for a mixed start on Friday after a volatile session on Wall Street, where renewed selling in megacap technology shares offset gains fueled by bullish reports from chipmakers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-25",
+      "time": "22:05",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-25-05b8ed4f",
+      "headline": "Apple Supplier Lingyi Set for HK Debut After $1.1 Billion Float",
+      "summary": "Lingyi iTech Guangdong Co. a Chinese maker of electronic devices, is set to begin trading in Hong Kong on Friday after raising HK$8.3 billion ($1.06 billion) in a share sale, part of the city’s busiest month for listings this year.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-supplier-lingyi-set-for-hk-debut-after-1-1b-offering",
+      "region": "APJ",
+      "country": "Hong Kong",
+      "category": "politics",
+      "date": "2026-06-25",
+      "time": "23:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-25-a800d1ac",
       "headline": "Oil Holds Gain as Traders Weigh Hormuz Flows After Ship Attack",
       "summary": "Oil held the bulk of a gain after a cargo ship was attacked in the Strait of Hormuz, renewing concerns about safe passage through the crucial waterway following a recent uptick in transits.",
@@ -518,20 +532,6 @@
       "category": "business",
       "date": "2026-06-25",
       "time": "22:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-25-b68c7c80",
-      "headline": "Asia Stocks Set for Choppy Open on Tech Volatility: Markets Wrap",
-      "summary": "Stocks in Asia were set for a mixed open Friday after a volatile Wall Street session, where renewed selling in megacap technology shares offset gains fueled by resilient US economic data.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/asia-stocks-set-for-choppy-open-on-tech-volatility-markets-wrap",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-25",
-      "time": "22:05",
       "conflict_id": null,
       "score": 26.1
     },
@@ -606,37 +606,23 @@
       "score": 25.8
     },
     {
-      "id": "2026-06-25-88508e5a",
-      "headline": "Venezuelans in South Florida Call Relatives and Organize Aid",
-      "summary": "The large Venezuelan community in the Miami area is “desperate” to reach family members.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/24/us/venezuela-south-florida-earthquake.html",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "business",
-      "date": "2026-06-25",
-      "time": "02:20",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-06-25-23e4224d",
       "headline": "Australia news live: Karl Stefanovic says his podcast is ‘about freedom of speech’ after Nine announces his immediate departure",
-      "summary": "Nine says in a statement it was ‘no longer possible’ for Stefanovic to host Today. Follow today’s news liveGet our breaking news email, free app or daily news podcastAlbanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’The prime minister was asked by the ABC about Karl Stefanovic’s departure from Nine. He had this to say:It’s a matter, of course, for Channel 9, but words do matter, and what people who are very prominent in our public",
+      "summary": "Nine says in a statement it was ‘no longer possible’ for Stefanovic to host Today. Follow today’s news liveLIVE: Australia vs Paraguay – Socceroos World Cup gameGet our breaking news email, free app or daily news podcastAlbanese says Stefanovic saga ‘unfortunate’, but ‘words do matter’The prime minister was asked by the ABC about Karl Stefanovic’s departure from Nine. He had this to say:It’s a matter, of course, for Channel 9, but words do matter",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/26/australia-news-live-pat-conroy-defence-labor-karl-stefanovic-nine-moira-deeming-matthew-guy-liberals-victoria-coalition-tax-reform-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-06-25",
-      "time": "22:26",
+      "time": "23:53",
       "conflict_id": null,
       "score": 24.0
     },
     {
       "id": "2026-06-25-f28dc411",
       "headline": "Unions urge teachers to strike as French school exams go ahead in up to 40C heat",
-      "summary": "Claims health of staff and children at risk as France struggles to adapt heat-trap school buildingsEurope live – latest updatesTeachers in France are risking their own and students’ health in overheated schools as a severe heatwave sets new record temperatures, education unions said, urging staff to strike over “unacceptable working conditions”.Several teaching unions on Thursday issued a joint statement denouncing a “blatant lack of preparation”",
+      "summary": "Claims health of staff and children at risk as France struggles to adapt heat-trap school buildingsTeachers in France are risking their own and students’ health in overheated schools as a severe heatwave sets new record temperatures, education unions said, urging staff to strike over “unacceptable working conditions”.Several teaching unions on Thursday issued a joint statement denouncing a “blatant lack of preparation” by the government, after te",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/25/unions-urge-teachers-strike-french-school-exams-heat",
       "region": "EU",
@@ -676,14 +662,14 @@
       "score": 23.4
     },
     {
-      "id": "2026-06-25-76f89e9b",
-      "headline": "Upscale Japan sake brand looks to boost exports to Taiwan, Hong Kong",
+      "id": "2026-06-25-6f2daab4",
+      "headline": "India's small and mid-cap stocks draw growth-hunting investors",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/food-beverage/upscale-japan-sake-brand-looks-to-boost-exports-to-taiwan-hong-kong",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "geopolitics",
+      "url": "https://asia.nikkei.com/business/markets/equities/india-s-small-and-mid-cap-stocks-draw-growth-hunting-investors",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
       "date": "2026-06-25",
       "time": "",
       "conflict_id": null,
@@ -746,16 +732,16 @@
       "score": 51.0
     },
     {
-      "id": "2026-06-24-458b39b5",
-      "headline": "The 4 GOP senators who broke ranks and voted to block Trump from resuming Iran war",
-      "summary": "The president seethed at Susan Collins, Bill Cassidy, Lisa Murkowski and Rand Paul after the war powers resolution passed, saying: “I will get it done, one way or the other.”",
+      "id": "2026-06-24-3ef9f582",
+      "headline": "White House seeks additional $88 billion from Congress for Iran war, other priorities",
+      "summary": "The request mostly includes money for the Pentagon, with $67 billion going toward replenishing the military’s stocks of munitions and the cost of sending so many forces to the Middle East.",
       "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/24/4-republican-senators-who-voted-war-powers-resolution-breaking-with-trump/",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
+      "url": "https://www.washingtonpost.com/politics/2026/06/24/white-house-asks-congress-88-billion-iran-war/",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
       "date": "2026-06-24",
-      "time": "11:21",
+      "time": "23:32",
       "conflict_id": null,
       "score": 40.9
     },
@@ -771,7 +757,21 @@
       "date": "2026-06-24",
       "time": "21:54",
       "conflict_id": null,
-      "score": 32.9
+      "score": 40.9
+    },
+    {
+      "id": "2026-06-24-458b39b5",
+      "headline": "The 4 GOP senators who broke ranks and voted to block Trump from resuming Iran war",
+      "summary": "The president seethed at Susan Collins, Bill Cassidy, Lisa Murkowski and Rand Paul after the war powers resolution passed, saying: “I will get it done, one way or the other.”",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/24/4-republican-senators-who-voted-war-powers-resolution-breaking-with-trump/",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-24",
+      "time": "11:21",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-06-24-8f5a093a",
@@ -828,6 +828,20 @@
       "time": "21:04",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-06-23-47b96980",
+      "headline": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-23",
+      "time": "14:55",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-06-23-be0d256d",
@@ -981,7 +995,7 @@
       "date": "2026-06-20",
       "time": "21:57",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 47.0
     },
     {
       "id": "2026-06-20-39e88d1a",
@@ -1036,6 +1050,20 @@
       "category": "geopolitics",
       "date": "2026-06-19",
       "time": "05:33",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-06-18-5e9f6b6b",
+      "headline": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-18",
+      "time": "15:53",
       "conflict_id": null,
       "score": 43.0
     },
