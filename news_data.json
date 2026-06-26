@@ -1,21 +1,105 @@
 {
-  "updated": "2026-06-26T18:19:33.168217+00:00",
-  "story_count": 82,
+  "updated": "2026-06-26T20:14:28.342537+00:00",
+  "story_count": 83,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-06-26-aff26ddf",
-      "headline": "Aid groups urge swift action to avert ‘atrocities’ in Sudan’s el-Obeid",
-      "summary": "The city is at risk of an &#039;imminent ground offensive&#039; by the RSF paramilitary and its allies, 38 NGOs warn.",
+      "id": "2026-06-26-2e4f6585",
+      "headline": "Trump blames Iran for ‘foolish’ strike on cargo ship in Strait of Hormuz",
+      "summary": "Fragile US-Iran ceasefire tested as drone strike off Oman draws stern warning from the US president.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/aid-groups-urge-swift-action-to-avert-atrocities-in-sudans-el-obeid?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
+      "url": "https://www.aljazeera.com/news/2026/6/26/trump-blames-iran-for-foolish-strike-on-cargo-ship-in-strait-of-hormuz?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-06-26",
-      "time": "13:32",
-      "conflict_id": "sudan-civil-war",
+      "time": "19:26",
+      "conflict_id": null,
+      "score": 64.4
+    },
+    {
+      "id": "2026-06-26-a2079a9c",
+      "headline": "IRGC denies direct hotline with US, as Trump warns of ceasefire violations in Strait of Hormuz",
+      "summary": "The spokesperson for the Islamic Revolutionary Guard Corps (IRGC) denied claims by American officials regarding the establishment of a direct hotline between Iran and the United States concerning the Strait of Hormuz, calling it a \"sheer lie\".",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/26/irgc-denies-direct-hotline-with-us-as-trump-warns-of-ceasefire-violations-in-strait-of-hor",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "19:49",
+      "conflict_id": null,
+      "score": 62.0
+    },
+    {
+      "id": "2026-06-26-58cda423",
+      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "18:03",
+      "conflict_id": null,
+      "score": 60.0
+    },
+    {
+      "id": "2026-06-26-3c7d92db",
+      "headline": "Trump Says Iran Violated Ceasefire With Hormuz Drone Attack",
+      "summary": "US President Donald Trump accused Iran of violating their ceasefire agreement by firing at cargo ships transiting the Strait of Hormuz, underscoring how unsettled the situation remains in a waterway critical to global energy flows. Rear Admiral Mark Montgomery (Ret.), former-Destroyer Squadron Commander in the United States Navy and Senior Fellow at the Foundation for Defense of Democracies joined Balance of Power to discuss.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/trump-iran-violated-ceasefire-with-hormuz-drone-attack-video",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "18:21",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
+      "id": "2026-06-26-9d600fcf",
+      "headline": "Trump Claims Iran Violated Ceasefire With Hormuz Drone Attack",
+      "summary": "US President Donald Trump said Iran firing at cargo ships transiting the Strait of Hormuz violated their ceasefire agreement. In a social media post Friday, Trump said “at least four” one-way attack drones targeted ships in the waterway. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/trump-claims-iran-violated-ceasefire-with-drone-attack-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "17:30",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
+      "id": "2026-06-26-765f1fc2",
+      "headline": "Israeli attack on car in central Gaza kills three Palestinians",
+      "summary": "Palestinian Interior Ministry says those killed in attack on Maghazi refugee camp were police officers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/israeli-attack-on-car-in-central-gaza-kills-three-palestinians?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "19:49",
+      "conflict_id": "israel-hamas",
       "score": 51.4
+    },
+    {
+      "id": "2026-06-26-e732c143",
+      "headline": "Trump warns of 100% tariff on countries implementing digital services tax",
+      "summary": "US president says levy would supersede any trade deals Washington has with other capitals",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-06-26",
+      "time": "19:37",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-06-26-e52ea3f2",
@@ -30,48 +114,6 @@
       "time": "18:00",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-06-26-3c13a88f",
-      "headline": "Ukraine decimates Russian logistics, bringing chaos to Crimea",
-      "summary": "Kyiv circumvents air defences to target oil supplies, power stations, convoys and bridges, starving Russian front line.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/26/ukraine-decimates-russian-logistics-bringing-chaos-to-crimea?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "12:34",
-      "conflict_id": "ukraine-war",
-      "score": 43.4
-    },
-    {
-      "id": "2026-06-26-58cda423",
-      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Singapore",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "18:03",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-06-26-9d600fcf",
-      "headline": "Trump Claims Iran Violated Ceasefire With Hormuz Drone Attack",
-      "summary": "US President Donald Trump said Iran firing at cargo ships transiting the Strait of Hormuz violated their ceasefire agreement. In a social media post Friday, Trump said “at least four” one-way attack drones targeted ships in the waterway. Tyler Kendall reports on Bloomberg Television. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/trump-claims-iran-violated-ceasefire-with-drone-attack-video",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "17:30",
-      "conflict_id": null,
-      "score": 42.1
     },
     {
       "id": "2026-06-26-44d37de2",
@@ -102,6 +144,48 @@
       "score": 40.0
     },
     {
+      "id": "2026-06-26-9165d365",
+      "headline": "Trump threatens tariffs for countries that levy digital tax on US firms",
+      "summary": "The Republican leader has taken an aggressive stance against countries that weigh taxes or regulations on US tech firms.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/trump-threatens-tariffs-for-countries-that-levy-digital-tax-on-us-firms?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-06-26",
+      "time": "19:38",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-26-612d831e",
+      "headline": "Venezuela updates earthquake toll: 920 dead, 3,360 injured",
+      "summary": "National Assembly president Jorge Rodríguez updated the figure on Friday. The UN reports over 50,000 missing. Spain urges its citizens in Venezuela to contact consular emergency services.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/26/venezuela-updates-earthquake-toll-920-dead-3360-injured",
+      "region": "EU",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-26",
+      "time": "18:58",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-06-26-a35f52fa",
+      "headline": "US President Donald Trump threatens 100% tariffs if Europe implements digital services tax",
+      "summary": "US President Donald Trump threatens to slap a 100% tariff on European countries that impose a digital services tax, adding that existing trade deals would be scrapped.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/26/us-president-donald-trump-threatens-100-tariffs-if-europe-implement-digital-services-tax",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-06-26",
+      "time": "18:21",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-06-26-441e8834",
       "headline": "Watch: South Korea holds first live-fire drill against drone swarms",
       "summary": "South Korea's air force carried out its first live-fire exercise against a simulated swarm drone attack. Military forces used Vulcan air-defense guns, a portable laser and shotguns to intercept all 50 drones during the drill.",
@@ -130,44 +214,30 @@
       "score": 35.0
     },
     {
-      "id": "2026-06-26-84c0dbec",
-      "headline": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "summary": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "12:54",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-26-e732c143",
-      "headline": "Trump warns of 100% tariff on countries implementing digital services tax",
-      "summary": "US president says levy would supersede any trade deals Washington has with other capitals",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5d886d47-c509-44a4-9077-bcd25158b61e",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-06-26",
-      "time": "17:34",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-06-26-9b149af5",
-      "headline": "Brookfield Is in Fight Over Solar Firm Where Cash ‘Evaporated’",
-      "summary": "Joh. Berenberg, Gossler &amp; Co. KG and Brookfield Asset Management Ltd. are battling over the future of GoldenPeaks, an energy company staring at collapse after borrowing $1.5 billion for European solar-power projects.",
+      "id": "2026-06-26-5fb4bd96",
+      "headline": "John Bolton Pleads Guilty to Mishandling Classified Material",
+      "summary": "John Bolton, a former national security adviser to President Donald Trump who became one of his fiercest critics, appeared in court on Friday to plead guilty to unlawfully retaining national defense information.  Robert McWhirter, Constitutional lawyer and a practicing criminal defense and civil rights lawyer in Maricopa County, AZ  and Founder of the Law Office of Robert McWhirter, joined to discuss the case as well as the recent decisions from ",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/brookfield-is-in-fight-over-solar-firm-where-cash-evaporated",
-      "region": "EU",
-      "country": "Europe",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/bolton-pleads-guilty-to-mishandling-classified-material-video",
+      "region": "NA",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-06-26",
-      "time": "16:52",
+      "time": "18:29",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-06-26-48e38fb5",
+      "headline": "Venezuela Quake Crisis Tests Legitimacy of Rodriguez Regime",
+      "summary": "The earthquakes that struck Venezuela Wednesday have become the first major political test for acting President Delcy Rodríguez, with the disaster quickly evolving into a contest over competence. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-26/venezuela-quake-crisis-tests-rodriguez-regime-legitimacy-video",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "18:28",
       "conflict_id": null,
       "score": 34.1
     },
@@ -186,23 +256,23 @@
       "score": 33.2
     },
     {
-      "id": "2026-06-26-b9b7b734",
-      "headline": "John Stockwell, Who Wrote a Tell-All Book About the C.I.A., Dies at 88",
-      "summary": "A former covert operative, he published his resignation letter in The Washington Post and went on to write “In Search of Enemies,” a book the agency sought to suppress.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/25/us/john-stockwell-dead.html",
-      "region": "NA",
-      "country": "Washington",
+      "id": "2026-06-26-c9f6020c",
+      "headline": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes onVenezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "region": "SA",
+      "country": "Venezuela",
       "category": "politics",
       "date": "2026-06-26",
-      "time": "16:59",
+      "time": "17:36",
       "conflict_id": null,
-      "score": 33.2
+      "score": 32.0
     },
     {
       "id": "2026-06-26-1e9a730b",
       "headline": "Carney announces contest to revamp uninhabitable Canadian PM residence",
-      "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty10 Downing Street has two things: mice and a chief mouser. For more than a decade, an officially recognized feline has kept the residence’s rodent infestation to a minimum.Over a similar period, the official residence of Canada’s prime minister has seen an unchecked explosion of rodents. Continue reading...",
+      "summary": "Various issues – including a rodent infestation and mould – have left the historic, sprawling Ottawa estate empty10 Downing Street has two things: mice and a chief mouser. For more than a decade, an officially recognized feline has kept rodent infestation in the British prime minister’s residence to a minimum.Over a similar period, the official residence of Canada’s prime minister has seen an unchecked explosion of rodents. Continue reading...",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jun/26/mark-carney-contest-canada-prime-minister-residence",
       "region": "NA",
@@ -240,6 +310,34 @@
       "time": "17:07",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-06-26-2eddff9c",
+      "headline": "‘We feel like the peasants’: women and low-income families bear brunt of heatwave",
+      "summary": "As temperatures soar across Europe, cities are struggling to adapt, further exacerbating socioeconomic divisions The heatwave afflicting western Europe is the worst ever, with the combination of heat and humidity fuelled by the climate crisis making scores of cities feel unliveable. While for some the adverse impacts amount to disturbed sleep and sticky days in the home office, low-income families are often worse affected by cities’ lack of adequ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/women-low-income-families-bear-brunt-climate-crisis-heatwave",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-06-26-df08d150",
+      "headline": "Ex-Trump adviser Bolton pleads guilty in classified documents case",
+      "summary": "Hawkish national security figure has emerged as critic of President Trump after serving during his first term in office.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/26/ex-trump-adviser-bolton-pleads-guilty-in-classified-documents-case?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-26",
+      "time": "14:30",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-26-bcdf105b",
@@ -410,20 +508,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-26-d64c39d5",
-      "headline": "Stock Valuations Should Worry Investors, Abby Joseph Cohen Says",
-      "summary": "Lofty stock prices may be hiding risks investors should be paying more attention to, especially in the labor market, according to Abby Joseph Cohen, the former Goldman Sachs partner and now Columbia Business School professor.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/stock-valuations-should-worry-investors-abby-joseph-cohen-says",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-26",
-      "time": "17:56",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-26-21dd82dd",
       "headline": "Stocks Slide As Tech Jitters Return | Open Interest 6/26/2026",
       "summary": "Get a jump start on the US trading day with Dani Burger on \"Bloomberg Open Interest.\" Global stocks end the week in the red as tech jitters return, with OpenAI reportedly delaying its IPO into next year. Plus, Robert Friedland on whether geothermal can solve AI’s energy crunch. And Wall Street Week Host David Westin breaks down why automakers fear a USMCA shakeup. (Source: Bloomberg)",
@@ -452,20 +536,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-26-76261203",
-      "headline": "AI Selloff Drives Worst Week for EM Stocks Since March",
-      "summary": "Emerging-market stocks headed for their biggest weekly decline since early March, weighed down by a renewed selloff in technology shares that hammered South Korean equities.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-26/emerging-market-stocks-slide-most-in-three-weeks-on-tech-selloff",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-06-26",
-      "time": "06:40",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-26-cedb79ef",
       "headline": "Outrage as woman jailed for three years after criticising Somali government online",
       "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country.Sadia Moalim Ali, a 27-year-old nursing graduate, was originally charged with insulting government institutions and incitement to commit",
@@ -476,20 +546,6 @@
       "category": "politics",
       "date": "2026-06-26",
       "time": "10:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-06-26-c9f6020c",
-      "headline": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes onVenezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-06-26",
-      "time": "17:36",
       "conflict_id": null,
       "score": 24.0
     },
@@ -548,6 +604,20 @@
       "time": "15:18",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-06-26-d9c0b8ae",
+      "headline": "Shareholders in Japan push back against poor earnings, weak governance",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/equities/shareholders-in-japan-push-back-against-poor-earnings-weak-governance",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-06-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-06-26-424ed930",
@@ -648,18 +718,18 @@
       "score": 21.0
     },
     {
-      "id": "2026-06-26-e26fa026",
-      "headline": "Tashkent International Investment Forum ends with €37.6bn in deals",
-      "summary": "More than 10,000 participants, including delegates from 102 countries, examined market access, transport links, green power, digital exports and the policies needed to turn commitments into operating projects.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/26/tashkent-international-investment-forum-ends-with-376bn-in-deals",
-      "region": "EU",
+      "id": "2026-06-25-24672f86",
+      "headline": "US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz",
+      "summary": "US oil plunged, erasing nearly all its gains made during the war, as vessel traffic through the Strait of Hormuz continued to rise and as investors increasingly expect the market to be oversupplied with Persian Gulf exports rebounding sharply.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/latest-oil-market-news-and-analysis-for-june-26",
+      "region": "NA",
       "country": null,
       "category": "business",
-      "date": "2026-06-26",
-      "time": "13:00",
+      "date": "2026-06-25",
+      "time": "22:05",
       "conflict_id": null,
-      "score": 21.0
+      "score": 50.1
     },
     {
       "id": "2026-06-25-b0310651",
@@ -688,20 +758,6 @@
       "time": "09:06",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-06-25-24672f86",
-      "headline": "US Oil Plunges Below $70 as Ships Keep Crossing Strait of Hormuz",
-      "summary": "US oil plunged, erasing nearly all its gains made during the war, as vessel traffic through the Strait of Hormuz continued to rise and as investors increasingly expect the market to be oversupplied with Persian Gulf exports rebounding sharply.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-25/latest-oil-market-news-and-analysis-for-june-26",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-25",
-      "time": "22:05",
-      "conflict_id": null,
-      "score": 42.1
     },
     {
       "id": "2026-06-25-1b2acd5b",
@@ -816,20 +872,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-06-24-3ef9f582",
-      "headline": "White House seeks additional $88 billion from Congress for Iran war, other priorities",
-      "summary": "The request mostly includes money for the Pentagon, with $67 billion going toward replenishing the military’s stocks of munitions and the cost of sending so many forces to the Middle East.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/06/24/white-house-asks-congress-88-billion-iran-war/",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-06-24",
-      "time": "23:32",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
       "id": "2026-06-24-87aee98e",
       "headline": "Biggest city in Crimea without power after Ukraine strikes",
       "summary": "Sevastopol's Moscow-installed governor warns there will be no electricity in some areas until the evening.",
@@ -897,7 +939,7 @@
       "date": "2026-06-23",
       "time": "21:04",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-06-23-47b96980",
@@ -998,20 +1040,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-22-df320aba",
-      "headline": "Trump-backed political outsider wins Colombia election, initial count shows",
-      "summary": "Abelardo de la Espriella appears to have narrowly defeated his rival Iván Cepeda, who says the preliminary count is \"not yet official or binding\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clye4ky2yzpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "politics",
-      "date": "2026-06-22",
-      "time": "03:31",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-06-22-0b4ead6e",
       "headline": "'I witnessed Maradona's Hand of God' - a goal still talked about 40 years on",
       "summary": "One BBC journalist's first football game had one of the sport's most controversial moments and also one of the most celebrated.",
@@ -1107,7 +1135,7 @@
       "date": "2026-06-19",
       "time": "19:27",
       "conflict_id": null,
-      "score": 67.0
+      "score": 59.0
     },
     {
       "id": "2026-06-19-5bb7b73a",
@@ -1136,20 +1164,6 @@
       "time": "05:33",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-06-19-29e647b1",
-      "headline": "Meet Merlin the Duck: Mexico's World Cup 'ambassador'",
-      "summary": "The BBC’s Will Grant was amongst the crowds swarming to meet Merlin, a pet duck who went viral for waddling around Mexico City in the Mexican team's jersey.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c17yrzpge4no?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "geopolitics",
-      "date": "2026-06-19",
-      "time": "05:41",
-      "conflict_id": null,
-      "score": 35.0
     }
   ]
 }
