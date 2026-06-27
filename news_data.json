@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-27T11:54:26.526876+00:00",
-  "story_count": 84,
-  "source_count": 9,
+  "updated": "2026-06-27T13:02:21.233388+00:00",
+  "story_count": 82,
+  "source_count": 8,
   "stories": [
     {
       "id": "2026-06-27-52a0403a",
@@ -18,6 +18,34 @@
       "score": 67.4
     },
     {
+      "id": "2026-06-27-5b603ac9",
+      "headline": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "10:40",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
+      "id": "2026-06-27-d71e3c2c",
+      "headline": "Three killed as Ukraine and Russia trade attacks overnight",
+      "summary": "Moscow&#039;s attacks are reported to have killed two, while Kyiv&#039;s attacks on Russia killed one.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "11:58",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
+    },
+    {
       "id": "2026-06-27-55a57941",
       "headline": "US, Iran trade strikes: What to know, will it unravel the MoU?",
       "summary": "As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse.",
@@ -29,7 +57,7 @@
       "date": "2026-06-27",
       "time": "10:32",
       "conflict_id": null,
-      "score": 55.4
+      "score": 47.4
     },
     {
       "id": "2026-06-27-283261f4",
@@ -43,35 +71,7 @@
       "date": "2026-06-27",
       "time": "07:20",
       "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-06-27-3533bda0",
-      "headline": "US strikes on Iran test fragile ceasefire",
-      "summary": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "04:13",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-06-27-5b603ac9",
-      "headline": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "10:40",
-      "conflict_id": null,
-      "score": 52.0
+      "score": 47.4
     },
     {
       "id": "2026-06-27-b6ff9ab3",
@@ -88,18 +88,18 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-27-a16be890",
-      "headline": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
-      "summary": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
-      "region": "MENA",
-      "country": "Bahrain",
+      "id": "2026-06-27-3533bda0",
+      "headline": "US strikes on Iran test fragile ceasefire",
+      "summary": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "05:38",
+      "time": "04:13",
       "conflict_id": null,
-      "score": 46.0
+      "score": 47.4
     },
     {
       "id": "2026-06-27-836a6e61",
@@ -116,18 +116,18 @@
       "score": 42.1
     },
     {
-      "id": "2026-06-27-350d452a",
-      "headline": "Kyiv and Moscow trade strikes as Ukraine hits arms factory deep in Russia",
-      "summary": "Ukraine said it used its FP-5 Flamingo cruise missiles overnight to strike Russia's Titan-Barrikady weapons plant, which is thought to be involved in the production of parts for the Oreshnik missile.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/27/kyiv-and-moscow-trade-strikes-as-ukraine-hits-arms-factory-deep-in-russia",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-06-27-e8d88496",
+      "headline": "IAEA chief reports initial exchanges with Iran over nuclear inspections",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/iaea-chief-reports-initial-exchanges-with-iran-over-nuclear-inspections",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "11:36",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
     },
     {
       "id": "2026-06-27-10b654bd",
@@ -172,30 +172,16 @@
       "score": 33.2
     },
     {
-      "id": "2026-06-27-e294421d",
-      "headline": "Europe heatwave live: Germany braced for temperatures ‘well over 40C’; extreme heat warnings for England",
+      "id": "2026-06-27-2b8b3b43",
+      "headline": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, and 700 flights delayed in England",
       "summary": "Forecasters say hottest conditions spreading into central and eastern EuropeAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.The Po River has never fallen this low so early in the year, raising fears of a devastating drought in July in this corner of ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
       "region": "EU",
-      "country": "Germany",
+      "country": "Denmark",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "11:39",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-06-27-23d64f1e",
-      "headline": "Trump threatens 100% tariff on European countries that impose digital tax",
-      "summary": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country  Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies.Writing on Truth Social on Friday, the US president said that “numerous European countries” had been discussing putting a digital services tax on American companies and that “some of these countries are",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "10:20",
+      "time": "12:52",
       "conflict_id": null,
       "score": 32.0
     },
@@ -298,6 +284,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-27-b52b5138",
+      "headline": "Tech Slump Deepens",
+      "summary": "Technology stocks closed out a volatile week sharply lower as investors reassessed the sustainability of the AI trade, with concerns over rising semiconductor costs, memory pricing and capital spending. Bloomberg Intelligence Global Head of Technology Research Mandeep Singh and Bloomberg News Macro Strategist Cameron Crise also explain to hosts of Bloomberg This Weekend David Gura and Christina Ruffini the evolving US restrictions on advanced AI ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/tech-slump-deepens-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "12:18",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-27-875614d5",
+      "headline": "Why Krugman Thinks We Need Chinese Auto Tariffs",
+      "summary": "As the United States, Canada, and Mexico prepare to renegotiate the USMCA trade deal, one industry sits squarely at the center of the debate: automobiles. Companies like Linamar depend on highly integrated supply chains that send components across borders multiple times before a vehicle is completed. Nobel laureate Paul Krugman argues that competition from China demands some trade barriers, while Council on Foreign Relations expert Shannon O’Neil",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/why-krugman-thinks-we-need-chinese-auto-tariffs-video",
+      "region": "NA",
+      "country": "United States",
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "12:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-27-e2711712",
       "headline": "Bangladesh Gets $1 Billion World Bank Fertilizer, Food Loans",
       "summary": "The World Bank approved two loans totaling over $1 billion to help Bangladesh cope with volatility in the global fertilizer market and improve food security.",
@@ -352,6 +366,20 @@
       "time": "06:07",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-06-27-90ffd5d5",
+      "headline": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
+      "summary": "Prime minister Anthony Albanese says too many children still on platforms but he is ‘heartened’ by world-leading lawSocial media bans go global: big tech faces a reckoning after Australia’s crackdownGet our breaking news email, free app or daily news podcastThe federal government will double the penalty for breaches of Australia’s youth social media ban to $99m, arguing tech companies are “not doing enough” to keep children off harmful social med",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/27/australia-under-16-social-media-ban-tech-companies-penalty-double",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "12:30",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-06-27-59f8dadb",
@@ -480,48 +508,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-27-e7bc6317",
-      "headline": "Bangkok governor vote highlights city's struggle to stay competitive",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/bangkok-governor-vote-highlights-city-s-struggle-to-stay-competitive",
-      "region": "APJ",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-26-a2079a9c",
-      "headline": "IRGC denies direct hotline with US, as Trump warns of ceasefire violations in Strait of Hormuz",
-      "summary": "The spokesperson for the Islamic Revolutionary Guard Corps (IRGC) denied claims by American officials regarding the establishment of a direct hotline between Iran and the United States concerning the Strait of Hormuz, calling it a \"sheer lie\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/26/irgc-denies-direct-hotline-with-us-as-trump-warns-of-ceasefire-violations-in-strait-of-hor",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "19:49",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-06-26-58cda423",
-      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Singapore",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "18:03",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-06-26-6da4ad68",
       "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
@@ -548,20 +534,6 @@
       "time": "21:21",
       "conflict_id": null,
       "score": 41.2
-    },
-    {
-      "id": "2026-06-26-612d831e",
-      "headline": "Venezuela updates earthquake toll: 920 dead, 3,360 injured",
-      "summary": "National Assembly president Jorge Rodríguez updated the figure on Friday. The UN reports over 50,000 missing. Spain urges its citizens in Venezuela to contact consular emergency services.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/26/venezuela-updates-earthquake-toll-920-dead-3360-injured",
-      "region": "EU",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-06-26",
-      "time": "18:58",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-06-26-d91ceb34",
@@ -592,6 +564,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-26-58cda423",
+      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "18:03",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-06-26-9e9e9fa9",
       "headline": "Brookfield in Fight Over Solar Firm Where Cash ‘Evaporated’",
       "summary": "Joh. Berenberg, Gossler &amp; Co. KG and Brookfield Asset Management Ltd. are battling over the future of GoldenPeaks, an energy company staring at collapse after borrowing $1.5 billion for European solar-power projects.",
@@ -618,20 +604,6 @@
       "time": "23:22",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-06-26-c9f6020c",
-      "headline": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes onVenezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-06-26",
-      "time": "22:44",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-06-26-1e9a730b",
@@ -702,20 +674,6 @@
       "time": "17:07",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-26-a35f52fa",
-      "headline": "US President Donald Trump threatens 100% tariffs if Europe implements digital services tax",
-      "summary": "US President Donald Trump threatens to slap a 100% tariff on European countries that impose a digital services tax, adding that existing trade deals would be scrapped.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/26/us-president-donald-trump-threatens-100-tariffs-if-europe-implement-digital-services-tax",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-06-26",
-      "time": "18:21",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-06-26-f1d9e2be",
@@ -816,20 +774,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-26-2b2ff620",
-      "headline": "Wall Street Week | USMCA: Can North America’s Trade Deal Survive?",
-      "summary": "This week, a special edition of Wall Street Week on the USMCA trade deal. The renegotiations are testing the future of an auto industry built on decades of cross-border integration. And, American farmers increasingly depend on exports to Canada and Mexico as other overseas markets become more difficult to access. Plus, years of infrastructure investment have created an energy market that crosses borders more easily than political narratives sugge",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-26/wall-street-week-north-american-trade-showdown-video",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-06-26",
-      "time": "23:13",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-26-cedb79ef",
       "headline": "Outrage as woman jailed for three years after criticising Somali government online",
       "summary": "Sentencing of 27-year-old Sadia Moalim Ali condemned by former president and prime ministers as well as rights groupsA rickshaw driver in Somalia has been sentenced to three years in prison for comments she made on social media, in a case that has caught the public’s attention and provoked outrage in the country.Sadia Moalim Ali, a 27-year-old nursing graduate, was originally charged with insulting government institutions and incitement to commit",
@@ -840,6 +784,20 @@
       "category": "politics",
       "date": "2026-06-26",
       "time": "10:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-06-26-c9f6020c",
+      "headline": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes onVenezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-26",
+      "time": "22:44",
       "conflict_id": null,
       "score": 24.0
     },
@@ -996,6 +954,20 @@
       "time": "19:17",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-06-23-47b96980",
+      "headline": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-23",
+      "time": "14:55",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-06-23-e718e7ed",
