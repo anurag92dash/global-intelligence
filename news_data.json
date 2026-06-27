@@ -1,21 +1,21 @@
 {
-  "updated": "2026-06-27T13:02:21.233388+00:00",
-  "story_count": 82,
-  "source_count": 8,
+  "updated": "2026-06-27T14:53:28.689387+00:00",
+  "story_count": 86,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-06-27-52a0403a",
-      "headline": "US launches strikes on Iran after Tehran attacks container ship",
-      "summary": "Washington says ‘unwarranted aggression against commercial shipping’ violated ceasefire between adversaries",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f9a4ca8d-d29c-4a7d-8791-8999d84317ae",
-      "region": "NA",
-      "country": "Washington",
+      "id": "2026-06-27-d71e3c2c",
+      "headline": "Three killed as Ukraine and Russia trade attacks overnight",
+      "summary": "Moscow&#039;s attacks are reported to have killed two, while Kyiv&#039;s attacks on Russia killed one.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "08:06",
-      "conflict_id": null,
-      "score": 67.4
+      "time": "11:58",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
     },
     {
       "id": "2026-06-27-5b603ac9",
@@ -29,21 +29,35 @@
       "date": "2026-06-27",
       "time": "10:40",
       "conflict_id": null,
-      "score": 52.0
+      "score": 51.0
     },
     {
-      "id": "2026-06-27-d71e3c2c",
-      "headline": "Three killed as Ukraine and Russia trade attacks overnight",
-      "summary": "Moscow&#039;s attacks are reported to have killed two, while Kyiv&#039;s attacks on Russia killed one.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
+      "id": "2026-06-27-09426199",
+      "headline": "Venezuela Struggles with Earthquake Rescue Efforts as Death Toll Nears 1,000",
+      "summary": "Bloomberg News Andean Bureau Reporter Andreina Itriago is on Bloomberg This Weekend explaining concerns that the official casualty figures in Venezuela after the earthquake are likely underreported, with many more deaths expected as rescue efforts continue and bodies are recovered. Itriago explains to hosts David Gura and Christina Ruffini that the government’s capacity to conduct search and rescue operations is described as very limited, with mu",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/venezuela-struggles-with-earthquake-rescue-efforts-video",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "13:11",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-06-27-350d452a",
+      "headline": "Kyiv and Moscow trade strikes as Ukraine hits arms factory deep in Russia",
+      "summary": "Ukraine said it used its FP-5 Flamingo cruise missiles overnight to strike Russia's Titan-Barrikady weapons plant, which is thought to be involved in the production of parts for the Oreshnik missile.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/27/kyiv-and-moscow-trade-strikes-as-ukraine-hits-arms-factory-deep-in-russia",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "11:58",
+      "time": "11:36",
       "conflict_id": "ukraine-war",
-      "score": 51.4
+      "score": 49.0
     },
     {
       "id": "2026-06-27-55a57941",
@@ -74,32 +88,18 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-27-b6ff9ab3",
-      "headline": "Iran and US trade blame for attacks, threatening fragile ceasefire",
-      "summary": "Vance warned &#039;violence will be met with violence&#039; while the IRGC says future responses to aggression will be &#039;broader&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
+      "id": "2026-06-27-a16be890",
+      "headline": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
+      "summary": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
+      "region": "MENA",
+      "country": "Bahrain",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "07:00",
+      "time": "05:38",
       "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-06-27-3533bda0",
-      "headline": "US strikes on Iran test fragile ceasefire",
-      "summary": "The US has struck Iran for the first time since the two sides reached a Memorandum of Understanding on June 17.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/us-strikes-on-iran-test-fragile-ceasefire?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "04:13",
-      "conflict_id": null,
-      "score": 47.4
+      "score": 45.0
     },
     {
       "id": "2026-06-27-836a6e61",
@@ -116,18 +116,18 @@
       "score": 42.1
     },
     {
-      "id": "2026-06-27-e8d88496",
-      "headline": "IAEA chief reports initial exchanges with Iran over nuclear inspections",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/iaea-chief-reports-initial-exchanges-with-iran-over-nuclear-inspections",
-      "region": "MENA",
+      "id": "2026-06-27-b6ff9ab3",
+      "headline": "Iran and US trade blame for attacks, threatening fragile ceasefire",
+      "summary": "Vance warned &#039;violence will be met with violence&#039; while the IRGC says future responses to aggression will be &#039;broader&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/iran-and-us-trade-blame-for-attacks-threatening-fragile-ceasefire?traffic_source=rss",
+      "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "",
+      "time": "07:00",
       "conflict_id": null,
-      "score": 38.8
+      "score": 39.4
     },
     {
       "id": "2026-06-27-10b654bd",
@@ -158,6 +158,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-06-27-bc3b8a4a",
+      "headline": "Trump’s power is waning. But is Trumpism here to stay?",
+      "summary": "As a war-damaged president faces midterms, a battle looms for the future of US conservatism that the hard right is well placed to win",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/47163aeb-07e0-4314-9488-13acb28b0f6b",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-06-27-8b0d5425",
+      "headline": "Baltic states urge EU to speed up ban on Russian oil imports",
+      "summary": "Talks about the phaseout stalled after the closure of the Strait of Hormuz sparked concerns of an energy supply crisis",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/573aa813-43c1-4c2c-aa1d-72f05af960ab",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-06-27-9a4be958",
       "headline": "U.S. Begins Investigating Polymarket, a Test of a Key Regulator",
       "summary": "Last year, the Commodity Futures Trading Commission overruled its enforcement attorneys and killed a separate inquiry into whether the Trump-tied company was illegally serving U.S. customers.",
@@ -172,18 +200,32 @@
       "score": 33.2
     },
     {
-      "id": "2026-06-27-2b8b3b43",
-      "headline": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, and 700 flights delayed in England",
+      "id": "2026-06-27-f031c232",
+      "headline": "Europe heatwave live: drought fears in Italy, records broken in Slovakia and Denmark, major roads buckle in Germany",
       "summary": "Forecasters say hottest conditions spreading into central and eastern EuropeAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.The Po River has never fallen this low so early in the year, raising fears of a devastating drought in July in this corner of ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
       "region": "EU",
-      "country": "Denmark",
+      "country": "Germany",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "12:52",
+      "time": "14:35",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-06-27-4c01d63e",
+      "headline": "Venezuela leader jeered as rescue efforts hampered",
+      "summary": "Venezuela’s acting President Delcy Rodriguez has been jeered by residents devastated by the earthquakes.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/venezuela-leader-jeered-as-rescue-efforts-hampered?traffic_source=rss",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "13:43",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-27-bcdf105b",
@@ -242,20 +284,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-27-716c6430",
-      "headline": "German carmakers embark on historic job cuts as Chinese rivals flood market",
-      "summary": "Threat to industrial model of Europe’s largest economy mounts",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b68964c9-f3d0-48e8-8873-8f463834936c",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-06-27-29d28d6c",
       "headline": "Who is ‘El Tigre’, Colombia’s Trumpian new president?",
       "summary": "The firebrand criminal lawyer has won the presidency, vowing to crush drug traffickers like cockroaches",
@@ -284,6 +312,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-27-716c6430",
+      "headline": "German carmakers embark on historic job cuts as Chinese rivals flood market",
+      "summary": "Threat to industrial model of Europe’s largest economy mounts",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b68964c9-f3d0-48e8-8873-8f463834936c",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-27-95e0387f",
+      "headline": "Sen. Armstrong: Permitting Is Key to Lower Energy Costs",
+      "summary": "Senator Alan Armstrong (R-Oklahoma) joins David Gura and Christina Ruffini on Bloomberg This Weekend and says permitting reform&mdash;not additional federal spending&mdash;is the most effective way to lower housing and energy costs, arguing regulatory delays have created infrastructure bottlenecks that drive up prices for consumers. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/sen-armstrong-permitting-is-key-to-lower-energy-costs-video",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "14:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-27-2aa55452",
+      "headline": "America’s Farmers Need USMCA More Than Ever",
+      "summary": "For many American farmers, Canada and Mexico have become indispensable export markets at a time when trade disputes, weak commodity prices, and rising costs are already straining the agricultural economy. Iowa farmer Stu Swanson says many producers are operating on dwindling hope as financial  pressures mount. CoBank CEO Tom Halverson argues that trade deals have helped US  exports to Canada and Mexico grow roughly 600% since NAFTA’s creation. As",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/america-s-farmers-need-usmca-more-than-ever-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "14:03",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-27-b52b5138",
       "headline": "Tech Slump Deepens",
       "summary": "Technology stocks closed out a volatile week sharply lower as investors reassessed the sustainability of the AI trade, with concerns over rising semiconductor costs, memory pricing and capital spending. Bloomberg Intelligence Global Head of Technology Research Mandeep Singh and Bloomberg News Macro Strategist Cameron Crise also explain to hosts of Bloomberg This Weekend David Gura and Christina Ruffini the evolving US restrictions on advanced AI ",
@@ -294,20 +364,6 @@
       "category": "business",
       "date": "2026-06-27",
       "time": "12:18",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-27-875614d5",
-      "headline": "Why Krugman Thinks We Need Chinese Auto Tariffs",
-      "summary": "As the United States, Canada, and Mexico prepare to renegotiate the USMCA trade deal, one industry sits squarely at the center of the debate: automobiles. Companies like Linamar depend on highly integrated supply chains that send components across borders multiple times before a vehicle is completed. Nobel laureate Paul Krugman argues that competition from China demands some trade barriers, while Council on Foreign Relations expert Shannon O’Neil",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-27/why-krugman-thinks-we-need-chinese-auto-tariffs-video",
-      "region": "NA",
-      "country": "United States",
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "12:04",
       "conflict_id": null,
       "score": 26.1
     },
@@ -382,20 +438,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-27-59f8dadb",
-      "headline": "Venice protest planned for US ambassador’s superyacht visit",
-      "summary": "Activists aim to repeat disruption of Jeff Bezos’s wedding when billionaire Tilman Fertitta drops anchorProtesters in Venice are planning to disrupt a visit by the billionaire US ambassador to Italy in his 117-metre superyacht, which they fear he plans to dock in the lagoon city.“We ruined the party for Jeff Bezos’s wedding last year – this year let’s ruin the ambassador’s tour!” said Stella Faye, a 28-year-old researcher and activist, at a meeti",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/27/venice-protest-planned-us-ambassador-superyacht-tour-tilman-fertitta",
-      "region": "EU",
-      "country": "Italy",
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-06-27-eab86a14",
       "headline": "Snow and ice on Swiss glaciers melting at alarming rate amid heatwave, expert says",
       "summary": "Accumulation on Switzerland’s glaciers from last winter expected to all be gone by Monday amid ‘enormous’ melt rates across AlpsEurope heatwave: latest updatesSwiss glaciers are set to lose an enormous amount of ice due to the heatwave battering Europe, according to the head of Glacier Monitoring in Switzerland (Glamos).The snow and ice accumulated last winter by Switzerland’s glaciers is expected to have all melted away by Monday, marking the al",
@@ -424,6 +466,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-06-27-68d91f9c",
+      "headline": "Japan to launch 8 projects in 'digital corridor' spanning Taiwan, India",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/telecommunication/japan-to-launch-8-projects-in-digital-corridor-spanning-taiwan-india",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-06-27-d9c0b8ae",
       "headline": "Shareholders in Japan push back against poor earnings, weak governance",
       "summary": "",
@@ -446,20 +502,6 @@
       "region": "APJ",
       "country": null,
       "category": "business",
-      "date": "2026-06-27",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-27-64d419aa",
-      "headline": "China's critical metal imports soar 60% in push to control global supply",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-critical-metal-imports-soar-60-in-push-to-control-global-supply",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
       "date": "2026-06-27",
       "time": "",
       "conflict_id": null,
@@ -508,6 +550,62 @@
       "score": 22.8
     },
     {
+      "id": "2026-06-27-0a25b525",
+      "headline": "Rome celebrates Vespa's 80th anniversary",
+      "summary": "Thousands of enthusiasts took to Rome’s streets to mark the Vespa’s 80th anniversary, with 160 models on show tracing the brand’s history from 1946 to today.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/06/27/rome-celebrates-vespas-80th-anniversary",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "13:16",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-06-26-a2079a9c",
+      "headline": "IRGC denies direct hotline with US, as Trump warns of ceasefire violations in Strait of Hormuz",
+      "summary": "The spokesperson for the Islamic Revolutionary Guard Corps (IRGC) denied claims by American officials regarding the establishment of a direct hotline between Iran and the United States concerning the Strait of Hormuz, calling it a \"sheer lie\".",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/26/irgc-denies-direct-hotline-with-us-as-trump-warns-of-ceasefire-violations-in-strait-of-hor",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "19:49",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-06-26-612d831e",
+      "headline": "Venezuela updates earthquake toll: 920 dead, 3,360 injured",
+      "summary": "National Assembly president Jorge Rodríguez updated the figure on Friday. The UN reports over 50,000 missing. Spain urges its citizens in Venezuela to contact consular emergency services.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/26/venezuela-updates-earthquake-toll-920-dead-3360-injured",
+      "region": "EU",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-26",
+      "time": "18:58",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-06-26-58cda423",
+      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "18:03",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-06-26-6da4ad68",
       "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
@@ -536,6 +634,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-06-26-c9f6020c",
+      "headline": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
+      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes onVenezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-26",
+      "time": "22:44",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-06-26-d91ceb34",
       "headline": "Christmas market attacker jailed for life for murdering six in Germany",
       "summary": "A nine-year-old and five women were killed when Taleb Al-Abdulmohsen drove into the market in 2024.",
@@ -560,20 +672,6 @@
       "category": "geopolitics",
       "date": "2026-06-26",
       "time": "12:54",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-26-58cda423",
-      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Singapore",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "18:03",
       "conflict_id": null,
       "score": 35.0
     },
@@ -658,20 +756,6 @@
       "category": "geopolitics",
       "date": "2026-06-26",
       "time": "15:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-06-26-d4e838fe",
-      "headline": "UK June heat record broken again, France postpones Pride and Poland warns of wildfires as heatwave grips Europe – as it happened",
-      "summary": "This blog is now closed, you can read more on this story here:UK June heat record broken for third day in a rowFourth child dies in France as brutal heatwave forecast to shift eastOver in the UK, firefighters are still trying to bring a large wildfire in Derbyshire under control.The blaze, which has burned over 500 square metres of moorland and woodland on Tintwistle Moor, near Glossop, broke out on Wednesday evening, with fire crews from Manches",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/live/2026/jun/26/europe-heatwave-extreme-heat-red-alert-weather-uk-england-france-climate-crisis-latest-news-updates",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "17:07",
       "conflict_id": null,
       "score": 32.0
     },
@@ -788,20 +872,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-06-26-c9f6020c",
-      "headline": "Venezuela quake death toll reaches 920 as interim president vows to save ‘as many as possible’",
-      "summary": "Delcy Rodríguez says foreign rescue teams are arriving as anger grows at official response and limited resourcesSurvivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes onVenezuela’s interim president, Delcy Rodríguez, has vowed to fight to save “as many people as possible” as the official death toll from the country’s worst earthquake in more than a century almost doubled, but frustration was growing at the perceived sluggi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jun/26/delcy-rodriguez-interim-president-venezuela-earthquake-death-toll",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-06-26",
-      "time": "22:44",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-06-26-ee6cc8a8",
       "headline": "Survivors tell of ‘brutal and fast’ Venezuela quake as hunt for survivors goes on",
       "summary": "Worst incident of its kind in country for more than 125 years leaves many searching for family members – and pleading for international helpVenezuela death toll doubles as interim president vows to save ‘as many people as possible’Nearly all of Ligia Level’s family lived in a trio of apartment blocks along Hotel Avenue, a seafront sweep of palm-specked resorts and high-rise condos along Venezuela’s Caribbean coast.When a powerful “doublet” of ear",
@@ -897,7 +967,7 @@
       "date": "2026-06-24",
       "time": "17:31",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-06-24-87aee98e",
@@ -1080,20 +1150,6 @@
       "time": "10:13",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-21-4f5cae31",
-      "headline": "Fuel sales halted in occupied Crimea as Ukraine targets oil facilities",
-      "summary": "Fuel had already been rationed due to shortages caused by Kyiv's attacks against supply routes in Russian-occupied territories.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyx2lk9d15o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-21",
-      "time": "10:55",
-      "conflict_id": "ukraine-war",
-      "score": 47.0
     },
     {
       "id": "2026-06-21-ec9c412a",
