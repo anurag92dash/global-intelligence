@@ -1,8 +1,22 @@
 {
-  "updated": "2026-06-27T22:42:53.670734+00:00",
+  "updated": "2026-06-27T23:40:21.276887+00:00",
   "story_count": 90,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-06-27-91af6816",
+      "headline": "US carries out second day of strikes against Iran",
+      "summary": "Military action in response to Iranian attacks on shipping is a further blow to hopes of sustained ceasefire",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "22:45",
+      "conflict_id": null,
+      "score": 58.4
+    },
     {
       "id": "2026-06-27-c66cb5b6",
       "headline": "Why is Crimea critical to the Russia–Ukraine war?",
@@ -30,6 +44,34 @@
       "time": "15:53",
       "conflict_id": "israel-hamas",
       "score": 51.4
+    },
+    {
+      "id": "2026-06-27-5b603ac9",
+      "headline": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "10:40",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-06-27-577e563f",
+      "headline": "US launches second night of strikes on Iran after ship hit by drone",
+      "summary": "The attacks come after an alleged Iranian drone struck another commercial vessel in the Strait of Hormuz on Saturday.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "22:07",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-06-27-2197c827",
@@ -60,18 +102,18 @@
       "score": 45.0
     },
     {
-      "id": "2026-06-27-5b603ac9",
-      "headline": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
+      "id": "2026-06-27-a16be890",
+      "headline": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
+      "summary": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
+      "region": "MENA",
+      "country": "Bahrain",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "10:40",
+      "time": "05:38",
       "conflict_id": null,
-      "score": 43.0
+      "score": 45.0
     },
     {
       "id": "2026-06-27-c17c7e2b",
@@ -158,20 +200,6 @@
       "score": 40.9
     },
     {
-      "id": "2026-06-27-51883377",
-      "headline": "US launches second night of strikes against Iran after ship struck by drone",
-      "summary": "The attacks come after an Iranian drone allegedly struck another commercial vessel in the Strait of Hormuz on Saturday.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/us-launches-second-night-of-strikes-against-iran-after-ship-struck-by-drone?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "22:07",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-06-27-2a07b47a",
       "headline": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
       "summary": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
@@ -198,20 +226,6 @@
       "time": "19:05",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-06-27-a16be890",
-      "headline": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
-      "summary": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "05:38",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-06-27-10b654bd",
@@ -284,30 +298,16 @@
       "score": 34.1
     },
     {
-      "id": "2026-06-27-fa205ccb",
-      "headline": "Michigan Couple Are Charged With Murder After Death of Morbidly Obese Son",
-      "summary": "Seven-year-old Casper O’Brien weighed 255 pounds when he died last year. Prosecutors said he was bedridden and subsisted on little more than snack foods.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/27/us/michgan-parents-charged-murder-obesity.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "22:31",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-06-27-9175c74f",
       "headline": "Trump Picks Lance Schroyer as New ICE Director",
-      "summary": "The president said he was nominating Lance Schroyer, who currently serves as an adviser to Markwayne Mullin, the D.H.S. secretary, to lead the high-profile agency.",
+      "summary": "The president said he was nominating Lance Schroyer, an adviser to Markwayne Mullin, the D.H.S. secretary, to lead the high-profile agency.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/27/us/politics/trump-oklahoma-ice-director.html",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-06-27",
-      "time": "21:20",
+      "time": "23:31",
       "conflict_id": null,
       "score": 33.2
     },
@@ -480,20 +480,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-27-716c6430",
-      "headline": "German carmakers embark on historic job cuts as Chinese rivals flood market",
-      "summary": "Threat to industrial model of Europe’s largest economy mounts",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b68964c9-f3d0-48e8-8873-8f463834936c",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-06-27-a9aeda54",
       "headline": "Argentina plots ‘golden passport’ scheme to pay down debts",
       "summary": "Cash-strapped country to become one of the world’s largest to offer citizenship-by-investment under President Javier Milei",
@@ -608,7 +594,7 @@
     {
       "id": "2026-06-27-90ffd5d5",
       "headline": "Australia to double penalty for social media ban breaches to $99m as tech giants accused of ‘not doing enough’",
-      "summary": "Prime minister Anthony Albanese says too many children still on platforms but he is ‘heartened’ by world-leading lawSocial media bans go global: big tech faces a reckoning after Australia’s crackdownGet our breaking news email, free app or daily news podcastThe federal government will double the penalty for breaches of Australia’s youth social media ban to $99m, arguing tech companies are “not doing enough” to keep children off harmful social med",
+      "summary": "Prime minister Anthony Albanese says too many children still on platforms but he is ‘heartened’ by world-leading lawSocial media bans go global: big tech faces a reckoning after Australia’s crackdownFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal government will double the penalty for breaches of Australia’s youth social media ban to $99m, arguing tech companies are “not",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jun/27/australia-under-16-social-media-ban-tech-companies-penalty-double",
       "region": "APJ",
@@ -758,6 +744,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-06-27-5002f153",
+      "headline": "Vespa celebrates 80 years with a grand parade in Rome",
+      "summary": "Thousands of enthusiasts took to Rome’s streets to mark the Vespa’s 80th anniversary, with 160 models on show tracing the brand’s history from 1946 to today.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/06/27/rome-celebrates-vespas-80th-anniversary",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "13:16",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-06-26-d91ceb34",
