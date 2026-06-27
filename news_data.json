@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T15:56:49.356435+00:00",
+  "updated": "2026-06-27T16:59:24.919556+00:00",
   "story_count": 86,
   "source_count": 9,
   "stories": [
@@ -16,20 +16,6 @@
       "time": "11:58",
       "conflict_id": "ukraine-war",
       "score": 59.4
-    },
-    {
-      "id": "2026-06-27-5b603ac9",
-      "headline": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "10:40",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-06-27-350d452a",
@@ -60,32 +46,32 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-27-283261f4",
-      "headline": "Iran war day 120: Tehran condemns US strikes, says it violates MoU",
-      "summary": "US says it targeted Iranian missile and drone storage locations while IRGC said it hit US military sites in the region.",
+      "id": "2026-06-27-3d8105f1",
+      "headline": "Israeli drone attack kills young girl in Gaza safe zone",
+      "summary": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/iran-war-day-120-tehran-condemns-us-strikes-says-its-violation-of-mou?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
       "region": "MENA",
-      "country": "Tehran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "07:20",
-      "conflict_id": null,
-      "score": 47.4
+      "time": "15:53",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
-      "id": "2026-06-27-a16be890",
-      "headline": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
-      "summary": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
-      "region": "MENA",
-      "country": "Bahrain",
+      "id": "2026-06-27-5b603ac9",
+      "headline": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "05:38",
+      "time": "10:40",
       "conflict_id": null,
-      "score": 45.0
+      "score": 43.0
     },
     {
       "id": "2026-06-27-09426199",
@@ -114,6 +100,20 @@
       "time": "05:02",
       "conflict_id": null,
       "score": 42.1
+    },
+    {
+      "id": "2026-06-27-a16be890",
+      "headline": "Bahrain says it was targeted by Iranian drones after US strikes on Iran",
+      "summary": "Iranian state media reported that strikes hit a telecommunications mast in the Sirik area of southern Iran.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/27/us-launches-strikes-against-iran-following-drone-attack-on-cargo-ship",
+      "region": "MENA",
+      "country": "Bahrain",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "05:38",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-06-27-10b654bd",
@@ -184,6 +184,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-06-27-3dbfd0ea",
+      "headline": "Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy",
+      "summary": "Two of the US military ships used in a blockade meant to pressure Nicolás Maduro have headed back toward Venezuela, this time with rescue teams, equipment and medical aid after devastating twin earthquakes struck the country this week.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "01:22",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-06-27-9a4be958",
@@ -578,34 +592,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-06-26-a2079a9c",
-      "headline": "IRGC denies direct hotline with US, as Trump warns of ceasefire violations in Strait of Hormuz",
-      "summary": "The spokesperson for the Islamic Revolutionary Guard Corps (IRGC) denied claims by American officials regarding the establishment of a direct hotline between Iran and the United States concerning the Strait of Hormuz, calling it a \"sheer lie\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/26/irgc-denies-direct-hotline-with-us-as-trump-warns-of-ceasefire-violations-in-strait-of-hor",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "19:49",
-      "conflict_id": null,
-      "score": 53.0
-    },
-    {
-      "id": "2026-06-26-58cda423",
-      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
-      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Singapore",
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "18:03",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-06-26-6da4ad68",
       "headline": "Rainbow flags await Egypt and Iran at awkward Pride Match",
       "summary": "Iran's coach refuses to discuss pride celebrations in Seattle, where his country face Egypt in a crucial Group G match.",
@@ -658,6 +644,20 @@
       "category": "geopolitics",
       "date": "2026-06-26",
       "time": "12:54",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-26-58cda423",
+      "headline": "Trump accuses Iran of ceasefire breach after Strait of Hormuz attack",
+      "summary": "A Singapore-flagged ship was struck crossing the waterway on Thursday, prompting a large-scale evacuation to be paused.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg54g0ry0vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-06-26",
+      "time": "18:03",
       "conflict_id": null,
       "score": 35.0
     },
