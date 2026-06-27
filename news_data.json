@@ -1,22 +1,8 @@
 {
-  "updated": "2026-06-27T19:42:18.729777+00:00",
-  "story_count": 87,
+  "updated": "2026-06-27T20:41:49.839938+00:00",
+  "story_count": 89,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-06-27-d71e3c2c",
-      "headline": "Three killed as Ukraine and Russia trade attacks overnight",
-      "summary": "Moscow&#039;s attacks are reported to have killed two, while Kyiv&#039;s attacks on Russia killed one.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/three-killed-as-ukraine-and-russia-trade-attacks-overnight?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "11:58",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
-    },
     {
       "id": "2026-06-27-c66cb5b6",
       "headline": "Why is Crimea critical to the Russia–Ukraine war?",
@@ -32,18 +18,32 @@
       "score": 51.4
     },
     {
-      "id": "2026-06-27-350d452a",
-      "headline": "Kyiv and Moscow trade strikes as Ukraine hits arms factory deep in Russia",
-      "summary": "Ukraine said it used its FP-5 Flamingo cruise missiles overnight to strike Russia's Titan-Barrikady weapons plant, which is thought to be involved in the production of parts for the Oreshnik missile.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/27/kyiv-and-moscow-trade-strikes-as-ukraine-hits-arms-factory-deep-in-russia",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-06-27-3f5bd621",
+      "headline": "Brother and sister killed in Israeli attack on Gaza ‘safe zone’",
+      "summary": "Israeli drones struck tents in al-Mawasi, killing two Palestinians and wounding several others.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "11:36",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
+      "time": "15:53",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
+      "id": "2026-06-27-09426199",
+      "headline": "Venezuela Struggles with Earthquake Rescue Efforts as Death Toll Nears 1,000",
+      "summary": "Bloomberg News Andean Bureau Reporter Andreina Itriago is on Bloomberg This Weekend explaining concerns that the official casualty figures in Venezuela after the earthquake are likely underreported, with many more deaths expected as rescue efforts continue and bodies are recovered. Itriago explains to hosts David Gura and Christina Ruffini that the government’s capacity to conduct search and rescue operations is described as very limited, with mu",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/venezuela-struggles-with-earthquake-rescue-efforts-video",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "13:11",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-06-27-2197c827",
@@ -60,30 +60,30 @@
       "score": 47.4
     },
     {
-      "id": "2026-06-27-0d719152",
-      "headline": "Israeli drone attack kills young girl in Gaza ‘safe zone’",
-      "summary": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "15:53",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-06-27-09426199",
-      "headline": "Venezuela Struggles with Earthquake Rescue Efforts as Death Toll Nears 1,000",
-      "summary": "Bloomberg News Andean Bureau Reporter Andreina Itriago is on Bloomberg This Weekend explaining concerns that the official casualty figures in Venezuela after the earthquake are likely underreported, with many more deaths expected as rescue efforts continue and bodies are recovered. Itriago explains to hosts David Gura and Christina Ruffini that the government’s capacity to conduct search and rescue operations is described as very limited, with mu",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-27/venezuela-struggles-with-earthquake-rescue-efforts-video",
-      "region": "SA",
-      "country": "Venezuela",
+      "id": "2026-06-27-73a379e0",
+      "headline": "Serbia’s President Vučić will step down within a few weeks and calls for early elections",
+      "summary": "“I will be president for only a couple of weeks, and then I will resign,” Vučić tells his supporters at a pro-government rally in the capital, Belgrade. Vučić’s second and last mandate expires in mid-2027.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/27/serbias-president-vucic-will-step-down-within-a-few-weeks-and-calls-for-early-elections",
+      "region": "EU",
+      "country": null,
       "category": "politics",
       "date": "2026-06-27",
-      "time": "13:11",
+      "time": "18:26",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-06-27-c17c7e2b",
+      "headline": "Warsh Makes Debut on the Global Stage With the Class of 2008",
+      "summary": "Kevin Warsh and three other veterans of the 2008 global financial crisis will share a stage this week as the danger of renewed turmoil continues to haunt central bankers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/warsh-makes-debut-on-the-global-stage-with-the-class-of-2008",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "20:00",
       "conflict_id": null,
       "score": 42.1
     },
@@ -102,6 +102,34 @@
       "score": 42.1
     },
     {
+      "id": "2026-06-27-350d452a",
+      "headline": "Kyiv and Moscow trade strikes as Ukraine hits arms factory deep in Russia",
+      "summary": "Ukraine said it used its FP-5 Flamingo cruise missiles overnight to strike Russia's Titan-Barrikady weapons plant, which is thought to be involved in the production of parts for the Oreshnik missile.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/27/kyiv-and-moscow-trade-strikes-as-ukraine-hits-arms-factory-deep-in-russia",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "11:36",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
+      "id": "2026-06-27-2a07b47a",
+      "headline": "Serbia’s President Aleksandar Vucic says will resign within ‘weeks’",
+      "summary": "Vucic is under ⁠pressure after months ⁠of antigovernment protests.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/serbias-president-aleksandar-vucic-says-will-resign-within-weeks?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "20:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-06-27-18c8e1b0",
       "headline": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
       "summary": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
@@ -114,20 +142,6 @@
       "time": "18:30",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-06-27-73a379e0",
-      "headline": "Serbia’s President Vučić will step down within a few weeks and calls for early elections",
-      "summary": "“I will be president for only a couple of weeks, and then I will resign,” Vučić tells his supporters at a pro-government rally in the capital, Belgrade. Vučić’s second and last mandate expires in mid-2027.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/06/27/serbias-president-vucic-will-step-down-within-a-few-weeks-and-calls-for-early-elections",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "18:26",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-06-27-10b654bd",
@@ -214,6 +228,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-06-27-3dbfd0ea",
+      "headline": "Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy",
+      "summary": "Two of the US military ships used in a blockade meant to pressure Nicolás Maduro have headed back toward Venezuela, this time with rescue teams, equipment and medical aid after devastating twin earthquakes struck the country this week.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "01:22",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-06-27-824213a9",
       "headline": "White House Releases Images of the Trump ‘Patriot Passport’",
       "summary": "The State Department said it planned to release 40,000 U.S. passports featuring an image of the president to commemorate the United States’ 250th anniversary.",
@@ -268,6 +296,34 @@
       "time": "14:16",
       "conflict_id": null,
       "score": 32.9
+    },
+    {
+      "id": "2026-06-27-7752630b",
+      "headline": "Venezuela earthquakes: death toll rises again to more than 1,400",
+      "summary": "Search for survivors continues with nearly 70,000 people reported unaccounted for by their family membersThe ⁠death toll ⁠in ⁠the twin ​earthquakes that struck ⁠Venezuela earlier ⁠this ​week ‌has ‌risen to ‌1,430, according to one of the country’s top politicians Jorge Rodríguez.Another 3,200 ​people were injured ⁠and 3,100 ​left homeless ​by the ​disaster, ​the National Assembly president added, speaking ​on ​state television. Continue reading..",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/27/venezuela-earthquakes-death-toll-rises-jorge-rodriguez",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "19:52",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-06-27-5b3ced05",
+      "headline": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
+      "summary": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwaveAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.The Po River has never fallen this low so early in the year, raising fears of a devastating drought in Ju",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "15:43",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-06-27-2105952f",
@@ -368,6 +424,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-27-91864297",
+      "headline": "UK’s Bridgepoint nears deal to buy real estate unit in bet on US property",
+      "summary": "London-based buyout group is looking beyond its traditional speciality in corporate buyouts",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/567ba6a4-809f-4e8e-a8f3-03855beb9a48",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-06-27-f742b80f",
       "headline": "Tech Equity Sales Renew AI Debt-Binge Worries",
       "summary": "Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.",
@@ -392,6 +462,20 @@
       "category": "politics",
       "date": "2026-06-27",
       "time": "16:10",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-27-95e0387f",
+      "headline": "Sen. Armstrong: Permitting Is Key to Lower Energy Costs",
+      "summary": "Senator Alan Armstrong (R-Oklahoma) joins David Gura and Christina Ruffini on Bloomberg This Weekend and says permitting reform&mdash;not additional federal spending&mdash;is the most effective way to lower housing and energy costs, arguing regulatory delays have created infrastructure bottlenecks that drive up prices for consumers. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-27/sen-armstrong-permitting-is-key-to-lower-energy-costs-video",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "14:06",
       "conflict_id": null,
       "score": 26.1
     },
@@ -578,20 +662,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-27-5002f153",
-      "headline": "Vespa celebrates 80 years with a grand parade in Rome",
-      "summary": "Thousands of enthusiasts took to Rome’s streets to mark the Vespa’s 80th anniversary, with 160 models on show tracing the brand’s history from 1946 to today.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/06/27/rome-celebrates-vespas-80th-anniversary",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "13:16",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-06-26-7cedbfee",
       "headline": "Israel and Lebanon sign framework agreement after US-brokered talks",
       "summary": "Hezbollah is not party to Friday's agreement, and previous ceasefires between Israel and Lebanon have still seen near-daily cross-border strikes.",
@@ -603,7 +673,7 @@
       "date": "2026-06-26",
       "time": "22:55",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-06-26-6da4ad68",
@@ -644,20 +714,6 @@
       "category": "business",
       "date": "2026-06-26",
       "time": "10:49",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-06-26-84c0dbec",
-      "headline": "US sanctions Rwanda gold refinery accused of smuggling DR Congo's minerals",
-      "summary": "The US alleges Gasabo Gold Refinery smuggled at least 60kg of gold in early 2026.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d268xy90xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-06-26",
-      "time": "12:54",
       "conflict_id": null,
       "score": 35.0
     },
@@ -772,34 +828,6 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-26-6d57a35c",
-      "headline": "Canada eligible to join Eurovision competition",
-      "summary": "Prime Minister Mark Carney raised the idea of Canada joining the song contest in his 2025 budget.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy06yzp4r0eo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-06-26",
-      "time": "13:41",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-06-26-34eee500",
-      "headline": "Reflecting Pool liner cut with sharp knife or razor, National Park Service says",
-      "summary": "Earlier in the week Donald Trump blamed vandals for \"a 300 foot long gash\" in the pool and accused someone of putting fertiliser in the water.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8qxz6qypyo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-06-26",
-      "time": "06:16",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-06-26-734b98ee",
