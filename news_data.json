@@ -1,7 +1,7 @@
 {
-  "updated": "2026-06-27T18:01:43.078759+00:00",
-  "story_count": 86,
-  "source_count": 9,
+  "updated": "2026-06-27T19:42:18.729777+00:00",
+  "story_count": 87,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-06-27-d71e3c2c",
@@ -18,6 +18,20 @@
       "score": 59.4
     },
     {
+      "id": "2026-06-27-c66cb5b6",
+      "headline": "Why is Crimea critical to the Russia–Ukraine war?",
+      "summary": "Ukraine is intensifying attacks on Russian-controlled Crimea as Kyiv tries to pressure Moscow into ending the war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/6/27/why-is-crimea-critical-to-the-russia-ukraine?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "19:22",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
+    },
+    {
       "id": "2026-06-27-350d452a",
       "headline": "Kyiv and Moscow trade strikes as Ukraine hits arms factory deep in Russia",
       "summary": "Ukraine said it used its FP-5 Flamingo cruise missiles overnight to strike Russia's Titan-Barrikady weapons plant, which is thought to be involved in the production of parts for the Oreshnik missile.",
@@ -32,22 +46,22 @@
       "score": 49.0
     },
     {
-      "id": "2026-06-27-55a57941",
-      "headline": "US, Iran trade strikes: What to know, will it unravel the MoU?",
-      "summary": "As the latest confrontations are aimed at control of the Strait of Hormuz, analysts say the deal is at risk of collapse.",
+      "id": "2026-06-27-2197c827",
+      "headline": "Two killed, dozens injured in Israeli strike on displacement tents in Gaza",
+      "summary": "Two killed and dozens injured in Israeli strike on displacement tents in Gaza",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/27/us-iran-trade-strikes-what-to-know-will-it-unravel-the-mou?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/27/two-killed-dozens-injured-in-israeli-strike-on-displacement-tents-in-gaza?traffic_source=rss",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "10:32",
+      "time": "18:50",
       "conflict_id": null,
       "score": 47.4
     },
     {
-      "id": "2026-06-27-3d8105f1",
-      "headline": "Israeli drone attack kills young girl in Gaza safe zone",
+      "id": "2026-06-27-0d719152",
+      "headline": "Israeli drone attack kills young girl in Gaza ‘safe zone’",
       "summary": "Israeli drones struck tents in al-Mawasi, Khan Younis, killing two Palestinians and wounding several others.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/27/israeli-drone-attack-kills-young-girl-in-gaza-safe-zone?traffic_source=rss",
@@ -58,20 +72,6 @@
       "time": "15:53",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-06-27-5b603ac9",
-      "headline": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "10:40",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-06-27-09426199",
@@ -102,6 +102,34 @@
       "score": 42.1
     },
     {
+      "id": "2026-06-27-18c8e1b0",
+      "headline": "Iran urge FIFA to stand up to ‘really terrible’ World Cup treatment by US",
+      "summary": "Iran, who played their three group-stage matches at World Cup 2026, now face a wait to know if they will reach last 32.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/6/27/iran-urge-fifa-to-stand-up-to-really-terrible-world-cup-treatment-by-us?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "18:30",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-06-27-73a379e0",
+      "headline": "Serbia’s President Vučić will step down within a few weeks and calls for early elections",
+      "summary": "“I will be president for only a couple of weeks, and then I will resign,” Vučić tells his supporters at a pro-government rally in the capital, Belgrade. Vučić’s second and last mandate expires in mid-2027.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/06/27/serbias-president-vucic-will-step-down-within-a-few-weeks-and-calls-for-early-elections",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "18:26",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-06-27-10b654bd",
       "headline": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
@@ -112,6 +140,20 @@
       "category": "business",
       "date": "2026-06-27",
       "time": "08:56",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-06-27-5b603ac9",
+      "headline": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "10:40",
       "conflict_id": null,
       "score": 35.0
     },
@@ -172,18 +214,32 @@
       "score": 34.4
     },
     {
-      "id": "2026-06-27-3dbfd0ea",
-      "headline": "Aid Groups Flock to Venezuela In Search-and-Rescue Frenzy",
-      "summary": "Two of the US military ships used in a blockade meant to pressure Nicolás Maduro have headed back toward Venezuela, this time with rescue teams, equipment and medical aid after devastating twin earthquakes struck the country this week.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/aid-groups-flock-to-venezuela-in-search-and-rescue-frenzy",
+      "id": "2026-06-27-824213a9",
+      "headline": "White House Releases Images of the Trump ‘Patriot Passport’",
+      "summary": "The State Department said it planned to release 40,000 U.S. passports featuring an image of the president to commemorate the United States’ 250th anniversary.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/27/us/politics/trump-passport-design-america-250.html",
       "region": "NA",
-      "country": "Venezuela",
-      "category": "geopolitics",
+      "country": "United States",
+      "category": "politics",
       "date": "2026-06-27",
-      "time": "01:22",
+      "time": "19:06",
       "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
+    },
+    {
+      "id": "2026-06-27-06ba276c",
+      "headline": "Dan Sullivan Can Join Dan Sullivan on Alaska Senate Ballot, Judge Says",
+      "summary": "The ruling reversed a decision by the state’s elections office that had found Dan J. Sullivan was ineligible to challenge Dan S. Sullivan, an incumbent senator.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/06/27/us/politics/dan-sullivan-alaska-senate.html",
+      "region": "EU",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "06:07",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-06-27-9a4be958",
@@ -200,18 +256,46 @@
       "score": 33.2
     },
     {
-      "id": "2026-06-27-5b3ced05",
-      "headline": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
-      "summary": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwaveAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.The Po River has never fallen this low so early in the year, raising fears of a devastating drought in Ju",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
+      "id": "2026-06-27-901ba6ba",
+      "headline": "Trump reveals new images of passport with his portrait to mark America’s 250th",
+      "summary": "The State Department said the new document “boldly honors” the president and the nation’s founding. The rendering differed from previous images of the passport in several ways.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/06/27/trump-reveals-new-image-passports-mark-america-250th/",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
       "date": "2026-06-27",
-      "time": "15:43",
+      "time": "14:16",
       "conflict_id": null,
-      "score": 32.0
+      "score": 32.9
+    },
+    {
+      "id": "2026-06-27-2105952f",
+      "headline": "US Senate challenger, incumbent with same name to appear on Alaska ballot",
+      "summary": "Republican Senator Dan Sullivan has sought to have a namesake primary challenger removed, citing midterm confusion.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/us-senate-challenger-incumbent-with-same-name-to-appear-on-alaska-ballot?traffic_source=rss",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "19:05",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-06-27-7aa83498",
+      "headline": "Kenya rights groups say protesters found dumped, tortured after arrests",
+      "summary": "Six found and one missing, NGOs say, after arrests at memorial gatherings for protesters killed in 2024.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/27/kenya-rights-groups-say-protesters-found-dumped-tortured-after-arrests?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-27",
+      "time": "18:46",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-27-4c01d63e",
@@ -226,20 +310,6 @@
       "time": "13:43",
       "conflict_id": null,
       "score": 31.4
-    },
-    {
-      "id": "2026-06-27-bcdf105b",
-      "headline": "Indonesia risks deeper power crisis from coal supply failures",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/indonesia-risks-deeper-power-crisis-from-coal-supply-failures",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
     },
     {
       "id": "2026-06-27-24005ac8",
@@ -270,32 +340,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-06-27-29d28d6c",
-      "headline": "Who is ‘El Tigre’, Colombia’s Trumpian new president?",
-      "summary": "The firebrand criminal lawyer has won the presidency, vowing to crush drug traffickers like cockroaches",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ec1f4ef3-1a8d-41f1-9071-dd8dbbd10e71",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "politics",
+      "id": "2026-06-27-89f0b38f",
+      "headline": "Watch: A race against the clock for Venezuela earthquake rescuers",
+      "summary": "There is a sense that the next few hours will be critical for saving anyone who is still trapped, says the BBC's Dan Johnson reporting from the border of Venezuela and Columbia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cjdgrrvvvjgo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "geopolitics",
       "date": "2026-06-27",
-      "time": "04:00",
+      "time": "18:41",
       "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-06-27-31e1097b",
-      "headline": "New York’s socialist insurgency raises alarm among anxious Democrats",
-      "summary": "Sweeping victories by progressives expose divisions over how party takes on Trump in November’s elections",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/831d18c4-7272-4543-bcfc-d134df238dd7",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.4
+      "score": 27.0
     },
     {
       "id": "2026-06-27-716c6430",
@@ -312,6 +368,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-27-f742b80f",
+      "headline": "Tech Equity Sales Renew AI Debt-Binge Worries",
+      "summary": "Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-27",
+      "time": "19:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-27-8fb4d56a",
       "headline": "Bloomberg This Weekend 6/27/2026",
       "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. UN Ambassador and Fmr. USAID Administrator Samantha Power and Oklahoma Senator Alan Armstrong. (Source: Bloomberg)",
@@ -322,20 +392,6 @@
       "category": "politics",
       "date": "2026-06-27",
       "time": "16:10",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-27-95e0387f",
-      "headline": "Sen. Armstrong: Permitting Is Key to Lower Energy Costs",
-      "summary": "Senator Alan Armstrong (R-Oklahoma) joins David Gura and Christina Ruffini on Bloomberg This Weekend and says permitting reform&mdash;not additional federal spending&mdash;is the most effective way to lower housing and energy costs, arguing regulatory delays have created infrastructure bottlenecks that drive up prices for consumers. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-27/sen-armstrong-permitting-is-key-to-lower-energy-costs-video",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "14:06",
       "conflict_id": null,
       "score": 26.1
     },
@@ -354,20 +410,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-27-b52b5138",
-      "headline": "Tech Slump Deepens",
-      "summary": "Technology stocks closed out a volatile week sharply lower as investors reassessed the sustainability of the AI trade, with concerns over rising semiconductor costs, memory pricing and capital spending. Bloomberg Intelligence Global Head of Technology Research Mandeep Singh and Bloomberg News Macro Strategist Cameron Crise also explain to hosts of Bloomberg This Weekend David Gura and Christina Ruffini the evolving US restrictions on advanced AI ",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-27/tech-slump-deepens-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "12:18",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-27-e2711712",
       "headline": "Bangladesh Gets $1 Billion World Bank Fertilizer, Food Loans",
       "summary": "The World Bank approved two loans totaling over $1 billion to help Bangladesh cope with volatility in the global fertilizer market and improve food security.",
@@ -380,48 +422,6 @@
       "time": "08:38",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-06-27-6cb28bee",
-      "headline": "City of London Braces for Burnham Government’s Chancellor Pick",
-      "summary": "The Mansion House dinner each summer is normally a chance for the City of London to hear what’s on the Chancellor of the Exchequer’s mind. Except this year, nobody’s sure who the chancellor will be.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/city-of-london-braces-for-burnham-government-s-chancellor-pick",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "08:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-27-13afac3d",
-      "headline": "Bolivia Moves to Flexible Exchange-Rate System After 15 Years",
-      "summary": "Bolivia is moving to a flexible exchange-rate system to strengthen macroeconomic stability, its Finance Ministry announced Friday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/bolivia-moves-to-flexible-exchange-rate-system-after-15-years",
-      "region": "SA",
-      "country": "Bolivia",
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "00:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-27-06ba276c",
-      "headline": "Dan Sullivan Can Join Dan Sullivan on Alaska Senate Ballot, Judge Says",
-      "summary": "The ruling reversed a decision by the state’s elections office that had found Dan J. Sullivan was ineligible to challenge Dan S. Sullivan, an incumbent senator.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/27/us/politics/dan-sullivan-alaska-senate.html",
-      "region": "EU",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "06:07",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-06-27-90ffd5d5",
@@ -522,6 +522,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-06-27-64d419aa",
+      "headline": "China's critical metal imports soar 60% in push to control global supply",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/china-s-critical-metal-imports-soar-60-in-push-to-control-global-supply",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-06-27-001316ad",
       "headline": "Thailand's Saha teams with Japan telecom SoftBank on AI-powered services",
       "summary": "",
@@ -606,18 +620,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-26-a7294708",
-      "headline": "‘Pride Match’ Celebration Proves Awkward for Iran-Egypt Game in Seattle",
-      "summary": "Although homosexuality is illegal in both countries, their World Cup game has been designated a “Pride Match” by Seattle’s organizing committee to mark the month celebrating the L.G.B.T.Q. community.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/26/us/iran-egypt-pride-match.html",
-      "region": "MENA",
-      "country": "Egypt",
-      "category": "geopolitics",
+      "id": "2026-06-26-f1d9e2be",
+      "headline": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
+      "summary": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
       "date": "2026-06-26",
-      "time": "21:21",
+      "time": "18:20",
       "conflict_id": null,
-      "score": 41.2
+      "score": 35.0
     },
     {
       "id": "2026-06-26-d91ceb34",
@@ -758,20 +772,6 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-26-f1d9e2be",
-      "headline": "World Cup fans frustrated by 'confusing and expensive' tipping culture in US",
-      "summary": "International fans visiting the US for the World Cup have become frustrated by the culture of having to tip servers, telling the BBC that tipping fatigue has set in.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxgjykx7lo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-26",
-      "time": "18:20",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-06-26-6d57a35c",
@@ -1121,7 +1121,7 @@
       "date": "2026-06-22",
       "time": "15:15",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-06-22-df320aba",
@@ -1192,6 +1192,20 @@
       "time": "21:57",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-06-20-cddb787e",
+      "headline": "Lebanese turtle conservationist Mona Khalil killed by Israeli strike",
+      "summary": "Mona Khalil, who had refused to leave the beach she had spent years protecting, died after several days in hospital, an environmental group said.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwylx1vq18zo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-20",
+      "time": "17:40",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-06-20-39e88d1a",
