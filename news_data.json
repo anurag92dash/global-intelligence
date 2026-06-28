@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T12:49:57.867394+00:00",
-  "story_count": 89,
+  "updated": "2026-06-28T14:29:53.057629+00:00",
+  "story_count": 88,
   "source_count": 10,
   "stories": [
     {
@@ -46,20 +46,6 @@
       "score": 56.4
     },
     {
-      "id": "2026-06-28-6891a459",
-      "headline": "Iran war day 121: Iran attacks Bahrain, Kuwait as US strikes near Hormuz",
-      "summary": "US strikes Iran for a second day near Strait of Hormuz as Bahrain sounds sirens and Kuwait activates air defences.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/iran-war-day-121-iran-attacks-bahrain-kuwait-as-us-strikes-near-hormuz?traffic_source=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-06-28",
-      "time": "06:14",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
       "id": "2026-06-28-3ee4eee0",
       "headline": "US and Iran trade strikes amid claims of ceasefire violations",
       "summary": "The US also carried out strikes on Iran on Friday after a drone attack on the M/V Ever Lovely ship. US aircraft targeted Iranian missile and drone storage locations as well as coastal radar sites, CENTCOM said.",
@@ -74,6 +60,20 @@
       "score": 54.0
     },
     {
+      "id": "2026-06-28-a5615b50",
+      "headline": "Paradise lost: How Israel is making war on West Bank farmers",
+      "summary": "Israel is attacking West Bank agriculture in an attempt to drive Palestinian farmers off their land.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/6/28/paradise-lost-how-israel-is-making-war-on-west-bank-farmers?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-06-28",
+      "time": "13:19",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
       "id": "2026-06-28-44474867",
       "headline": "Iran attacks Kuwait and Bahrain in response to US strikes",
       "summary": "US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.",
@@ -84,20 +84,6 @@
       "category": "geopolitics",
       "date": "2026-06-28",
       "time": "08:39",
-      "conflict_id": null,
-      "score": 48.4
-    },
-    {
-      "id": "2026-06-28-6c56a2b5",
-      "headline": "Gulf countries attacked after US launches second round of strikes on Iran",
-      "summary": "Gulf countries attacked after US launches second round of strikes on Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/gulf-countries-attacked-after-us-launches-second-round-of-strikes-on-iran?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-28",
-      "time": "03:40",
       "conflict_id": null,
       "score": 48.4
     },
@@ -156,6 +142,20 @@
       "time": "05:27",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-06-28-c26e75ae",
+      "headline": "Ukraine says it attacked two Russian oil refineries",
+      "summary": "At least two killed in drone attacks, Russian authorities say, as Ukraine continues to target energy facilities.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/6/28/ukraine-says-it-attacked-two-russian-oil-refineries?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-06-28",
+      "time": "13:36",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-06-28-0cfb44b4",
@@ -228,6 +228,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-06-28-108ece17",
+      "headline": "America seeks its McDonald’s model for missile making",
+      "summary": "Defence groups are developing modular workshops that can mass-produce cheap missiles during wartime",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/06cf309b-ff32-4698-8bc3-232086063b51",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-28",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-06-28-9530ae70",
       "headline": "Mines will hold back Strait of Hormuz shipping for months, CEO warns",
       "summary": "NYK’s Takaya Soga says safe routes are ‘extremely limited’, restricting traffic to half prewar levels",
@@ -240,20 +254,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 34.4
-    },
-    {
-      "id": "2026-06-28-f1f5ae21",
-      "headline": "Aramco Helicopter Crash in Ras Tanura Kills All 14 on Board",
-      "summary": "A helicopter operated by Saudi Aramco crashed Sunday in the Saudi city of Ras Tanura, killing all 14 passengers on board, the state-owned SPA news agency reported.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/aramco-helicopter-crash-in-ras-tanura-kills-all-14-passengers",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-06-28",
-      "time": "12:26",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-06-28-6b22cc4d",
@@ -286,7 +286,7 @@
     {
       "id": "2026-06-28-a5537766",
       "headline": "Burnham’s Rise Revives Talk of War Bonds to Fund the UK Military",
-      "summary": "Britain’s soon-to-be prime minister wants an array of bold new policies to attract voters who have grown tired of a Labour government mired in indecision and political backbiting. One idea that could raise Andy Burnham’s famously thick eyebrows is the issuing of war bonds.",
+      "summary": "Andy Burnham, Britain’s soon-to-be prime minister, wants an array of bold new policies to attract voters who have grown tired of a Labour government mired in indecision and political backbiting. One idea is the issuing of war bonds.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-06-28/burnham-s-rise-revives-talk-of-war-bonds-to-fund-the-uk-military",
       "region": "EU",
@@ -326,8 +326,8 @@
       "score": 32.0
     },
     {
-      "id": "2026-06-28-3b53eee7",
-      "headline": "Temperature records tumble across Europe as heatwave moves east",
+      "id": "2026-06-28-a588a778",
+      "headline": "More European nations brace for 40C-plus conditions as heatwave moves east",
       "summary": "More than 191m people in Europe face temperatures over 35C, with extreme heat warnings from Germany to Hungary‘A sad inevitability’: after decades of climate warnings, why is Europe so unprepared for rising heat?Poland, Czechia and Slovakia are braced for record temperatures of over 40C as a heatwave linked to hundreds of deaths in western Europe spreads east.More than 191 million people in Europe faced temperatures of at least 35C on Sunday, wit",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jun/28/temperature-records-tumble-across-europe-as-heatwave-moves-east",
@@ -338,20 +338,6 @@
       "time": "11:24",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-06-28-f3b55a30",
-      "headline": "Saudi Arabia helicopter crash kills all 14 on board",
-      "summary": "The helicopter belonging to the Saudi Aramco oil company crashed in Ras Tanura, Saudi state media reported.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/6/28/saudi-arabia-helicopter-crash-kills-all-14-on-board?traffic_source=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-06-28",
-      "time": "12:10",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-06-28-3dc8b4ce",
@@ -380,20 +366,6 @@
       "time": "07:12",
       "conflict_id": null,
       "score": 31.4
-    },
-    {
-      "id": "2026-06-28-e59ea8a1",
-      "headline": "Israel formally recognises Armenian World War I 'genocide'",
-      "summary": "\"A historic decision: the Israeli government has unanimously approved Foreign Minister Gideon Saar's proposal to recognise the Armenian genocide,\" the foreign ministry said. The cabinet's decision must still be ratified by parliament.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/28/israels-government-formally-recognises-the-armenian-genocide-committed-during-world-war-i",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-06-28",
-      "time": "12:21",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-06-28-f26b2a1a",
@@ -438,6 +410,62 @@
       "score": 26.4
     },
     {
+      "id": "2026-06-28-f1f5ae21",
+      "headline": "Aramco Helicopter Crash in Ras Tanura Kills All 14 on Board",
+      "summary": "A helicopter operated by Saudi Aramco crashed Sunday in the energy heartland of Ras Tanura, killing all 14 passengers on board.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/aramco-helicopter-crash-in-ras-tanura-kills-all-14-passengers",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-06-28",
+      "time": "12:26",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-28-b7a21d96",
+      "headline": "Can USMCA Survive Trump’s Second Term?",
+      "summary": "As Canada, Mexico, and the United States begin reviewing the USMCA trade pact, former diplomats and trade negotiators say the stakes extend far beyond tariffs. Former Canadian Ambassador Kirsten Hillman, former Mexican Ambassador Gerónimo Gutiérrez, and former US trade counsel Kelly Ann Shaw argue that the agreement now underpins everything from supply chains and agriculture to intellectual property and investment. While disagreements remain over",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-28/can-usmca-survive-trump-s-second-term-video",
+      "region": "NA",
+      "country": "United States",
+      "category": "business",
+      "date": "2026-06-28",
+      "time": "14:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-28-a771679a",
+      "headline": "Leverage That Fueled US Stock Rally Becomes a Growing Concern",
+      "summary": "The leverage that helped fuel the US stock rally is now becoming an increasing source of unease.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/leverage-that-fueled-us-stock-rally-becomes-a-growing-concern",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-28",
+      "time": "14:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-28-d5258a9a",
+      "headline": "Supreme Court Faces High-Stakes Week",
+      "summary": "Bloomberg News Supreme Court reporter Greg Stohr joins Bloomberg This Weekend and says the justices are expected to issue rulings this week in two closely watched cases involving President Donald Trump: his attempt to remove Federal Reserve Governor Lisa Cook and his executive order restricting birthright citizenship. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-28/supreme-court-faces-high-stakes-week-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-06-28",
+      "time": "13:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-06-28-5a7cf1d5",
       "headline": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks",
       "summary": "Investors who want additional exposure to artificial intelligence in Europe are getting creative, searching out companies that enable the technology or stand to benefit from it as the usual suspects get more pricey.",
@@ -480,20 +508,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-28-9ccae93e",
-      "headline": "Rats, Leaks and Broken Elevators: Repair Backlog Plagues Federal Buildings",
-      "summary": "After decades, deferred maintenance totals an estimated $50 billion. But getting repair funds from Congress is a laborious process.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/06/28/us/politics/federal-buildings-repair-backlog.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-06-28",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-06-28-78f48cf9",
       "headline": "Paul Hogan has reportedly called Pauline Hanson a ‘pelican’. Please explain?",
       "summary": "Crocodile Dundee was held up by the One Nation leader as an exemplar of ‘Australian monoculture’. Hoges had other ideasGet our breaking news email, free app or daily news podcastIn one swift rhetorical blow, Crocodile Dundee has disarmed Pauline Hanson’s latest attack on multiculturalism.But his weapon of choice has left some scratching their heads. Continue reading...",
@@ -520,20 +534,6 @@
       "time": "01:03",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-06-28-7c1f78b1",
-      "headline": "Mitsubishi Heavy to invest over $618m in Japan, US gas turbine operations",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/mitsubishi-heavy-to-invest-over-618m-in-japan-us-gas-turbine-operations",
-      "region": "NA",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-06-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
     },
     {
       "id": "2026-06-28-d9c0b8ae",
@@ -590,6 +590,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-06-28-1eb307b8",
+      "headline": "Iraqi political officials arrested on corruption charges in overnight raid",
+      "summary": "Iraqi security forces sealed off all entrances to the capital’s heavily fortified Green Zone early Sunday and carried out raids inside the compound that houses key government institutions and foreign embassies.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/06/28/iraqi-political-officials-arrested-on-corruption-charges-in-overnight-raid",
+      "region": "MENA",
+      "country": "Iraq",
+      "category": "politics",
+      "date": "2026-06-28",
+      "time": "13:59",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-06-27-5b603ac9",
@@ -704,20 +718,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-06-27-5b3ced05",
-      "headline": "Europe heatwave: drought fears in Italy as records tumble around Europe – as it happened",
-      "summary": "Temperature records broken in Germany, Denmark and Slovakia as Europe remains gripped by heatwaveAfter decades of climate warnings, why is Europe so unprepared for rising heat?Seawater is seeping into Italy’s longest river as the waterway starts to run dry in the heatwave, hitting a farming heartland that produces the milk for Parmesan cheese.The Po River has never fallen this low so early in the year, raising fears of a devastating drought in Ju",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jun/27/europe-heatwave-germany-poland-france-uk-temperature-heat-latest-news-updates",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "15:43",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-06-27-8258c1f1",
       "headline": "Why Kim Jong Un never talks about his mother - or her controversial bloodline",
       "summary": "Very few North Koreans know about her, as her origin could threaten the regime’s legitimacy.",
@@ -814,20 +814,6 @@
       "time": "14:03",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-06-27-23d64f1e",
-      "headline": "Trump threatens 100% tariff on European countries that impose digital tax",
-      "summary": "US president says levy would be imposed immediately and supersede pre-existing trade deals with the country  Donald Trump has threatened to place a 100% import tariff on any European country that imposes a tax on digital services from US companies.Writing on Truth Social on Friday, the US president said that “numerous European countries” had been discussing putting a digital services tax on American companies and that “some of these countries are",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jun/27/trump-threatens-tariff-eu-countries-impose-digital-tax",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "10:20",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-06-26-d91ceb34",
