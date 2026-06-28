@@ -1,22 +1,8 @@
 {
-  "updated": "2026-06-28T22:40:46.849912+00:00",
-  "story_count": 90,
+  "updated": "2026-06-28T23:44:38.367338+00:00",
+  "story_count": 92,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-06-28-b731ae4f",
-      "headline": "US and Iran exchange strikes as ceasefire falters",
-      "summary": "Truce under pressure as Tehran counters US attacks by targeting military installations in Bahrain and Kuwait",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5f4cd16c-fa4a-4806-94ce-84df6f51ecc0",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-06-28",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 58.4
-    },
     {
       "id": "2026-06-28-882be062",
       "headline": "Putin admits Ukrainian strikes driving Russian fuel shortages",
@@ -29,21 +15,7 @@
       "date": "2026-06-28",
       "time": "21:52",
       "conflict_id": "ukraine-war",
-      "score": 52.0
-    },
-    {
-      "id": "2026-06-28-b778d677",
-      "headline": "US and Iran exchange strikes and accuse each other of violating ceasefire",
-      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-06-28",
-      "time": "04:54",
-      "conflict_id": null,
-      "score": 51.0
+      "score": 60.0
     },
     {
       "id": "2026-06-28-a5ce22b4",
@@ -62,30 +34,16 @@
     {
       "id": "2026-06-28-369f9f55",
       "headline": "Three Firefighters Die as Wildfires Ravage Utah and Colorado",
-      "summary": "Their bodies were brought by helicopter to a Colorado airport, where their soot-covered comrades drove them to the coroner’s office. Fires are raging in the arid Southwest after a warm winter.",
+      "summary": "Fires are raging in the arid Southwest after a warm winter. Forecasters say the fires may grow rapidly, and parts of Colorado have been ordered to evacuate.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/06/28/us/wildfires-utah-colorado-firefighters-deaths.html",
       "region": "NA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-06-28",
-      "time": "21:40",
+      "time": "23:05",
       "conflict_id": null,
       "score": 49.2
-    },
-    {
-      "id": "2026-06-28-7f2bca92",
-      "headline": "US and Iran trade strikes days after peace agreement",
-      "summary": "Just days after signing a memorandum of understanding, the US and Iran have traded strikes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-28",
-      "time": "18:55",
-      "conflict_id": null,
-      "score": 47.4
     },
     {
       "id": "2026-06-28-5a4e190e",
@@ -130,6 +88,20 @@
       "score": 43.4
     },
     {
+      "id": "2026-06-28-b778d677",
+      "headline": "US and Iran exchange strikes and accuse each other of violating ceasefire",
+      "summary": "Iran says it has launched retaliatory attacks at US infrastructure in Kuwait and Bahrain after the US said it hit multiple targets across Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdxdwkgqgq0o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Bahrain",
+      "category": "geopolitics",
+      "date": "2026-06-28",
+      "time": "04:54",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-06-28-da41d465",
       "headline": "Fmr. Deputy National Security Advisor Warns Trump Rhetoric Risks Iran Talks",
       "summary": "While the Iran ceasefire remains intact despite recent exchanges of fire, Former Deputy National Security Advisor Ben Rhodes warned it could unravel if tit-for-tat strikes escalate or hardliners on either side gain the upper hand. He argued to hosts of Bloomberg This Weekend David Gura and Christina Ruffini that President Donald Trump's public threats and rhetoric risk undermining negotiations by strengthening Iranian hardliners and making it har",
@@ -156,6 +128,20 @@
       "time": "19:06",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-06-28-7f2bca92",
+      "headline": "US and Iran trade strikes days after peace agreement",
+      "summary": "Just days after signing a memorandum of understanding, the US and Iran have traded strikes.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/us-and-iran-trade-strikes-days-after-peace-agreement?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-28",
+      "time": "18:55",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-06-28-8d058d85",
@@ -238,6 +224,20 @@
       "category": "geopolitics",
       "date": "2026-06-28",
       "time": "20:15",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-06-28-a201a938",
+      "headline": "Aramco helicopter crashes at Saudi port",
+      "summary": "At least 14 killed in Ras Tanura incident just hours after US-Iran strikes threaten fragile deal to reopen Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/6be8c3fd-5f1d-4659-afee-43db76a36fd6",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-06-28",
+      "time": "18:09",
       "conflict_id": null,
       "score": 34.4
     },
@@ -396,20 +396,6 @@
       "score": 29.0
     },
     {
-      "id": "2026-06-28-87c0b1e9",
-      "headline": "Apple to fight $500mn patent bill at UK Supreme Court",
-      "summary": "Battle over licensing of mobile connection protocols could shape global rates for other technologies",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-06-28",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-06-28-bd43ace2",
       "headline": "Bond giant Pimco flexes muscles with private placements push",
       "summary": "Firm tries to capitalise on some borrowers’ need to raise cash as boundaries with public markets blur",
@@ -424,18 +410,74 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-28-f428284c",
-      "headline": "Andy Burnham sets out ‘10-year mission’ to raise living standards",
-      "summary": "Prime minister-in-waiting will also pledge to go further on devolution as scrutiny grows over his likely policies",
+      "id": "2026-06-28-87c0b1e9",
+      "headline": "Apple to fight $500mn patent bill at UK Supreme Court",
+      "summary": "Battle over licensing of mobile connection protocols could shape global rates for other technologies",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/bff84ab6-7458-49ba-a21a-25883027a86e",
+      "url": "https://www.ft.com/content/d6a0103a-7fca-4e66-b92f-45f6ff3de059",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-06-28",
-      "time": "21:00",
+      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-06-28-a4127a21",
+      "headline": "Sovereign Funds Pivot Further to Private Assets in Risky Markets",
+      "summary": "The world’s biggest public investors plan to shift more capital into private and less liquid assets amid rising risks to their traditional bond-and-stock portfolios, according to an industry survey.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/sovereign-funds-pivot-further-to-private-assets-in-risky-markets",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-28",
+      "time": "23:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-28-14877edc",
+      "headline": "Wall Street Is Abandoning Bets on a Stronger Euro",
+      "summary": "Wall Street banks are capitulating on bets for a stronger euro, as markets see the US outpacing Europe on interest-rate hikes for the rest of this year.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/euro-s-run-looks-over-as-wall-street-targets-slide-toward-1-10",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-06-28",
+      "time": "23:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-28-237333bb",
+      "headline": "Prabowo Risks Prompt Global Banks to Pull Cash Out of Indonesia",
+      "summary": "The three biggest foreign banks in Indonesia have shipped around $640 million of their earnings out of Southeast Asia’s largest economy since 2024 as they pare exposure amid President Prabowo Subianto’s increasingly state-focused economic policies.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/citi-hsbc-stanchart-send-more-indonesia-profits-home-as-prabowo-demands-rise",
+      "region": "APJ",
+      "country": "Indonesia",
+      "category": "business",
+      "date": "2026-06-28",
+      "time": "23:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-06-28-fcb486ce",
+      "headline": "BlueBay Sees Near-Term Risk in Japan AI Stocks Followed by Rally",
+      "summary": "RBC BlueBay Asset Management remains bullish on Japanese AI-related stocks, expecting the rally to extend into 2027, while trimming near-term risk ahead of a potential slowdown in July and August.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-28/bluebay-sees-near-term-risk-in-japan-ai-stocks-followed-by-rally",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-06-28",
+      "time": "22:00",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-06-28-2ac42705",
@@ -508,20 +550,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-06-28-5a7cf1d5",
-      "headline": "Europe’s Hunt for AI Stocks Leads to Power Suppliers and Banks",
-      "summary": "Investors who want additional exposure to artificial intelligence in Europe are getting creative, searching out companies that enable the technology or stand to benefit from it as the usual suspects get more pricey.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-28/europe-s-hunt-for-ai-stocks-leads-to-power-suppliers-and-banks",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-06-28",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-06-28-ffbe3af7",
       "headline": "Colorado’s Primary for Governor Pivots to Trump and Who Will Fight Him",
       "summary": "The Democratic primary on Tuesday is likely to decide the next governor, and Senator Michael Bennet, once seen as a shoo-in, is in a dogfight with Attorney General Phil Weiser.",
@@ -536,16 +564,30 @@
       "score": 25.2
     },
     {
-      "id": "2026-06-28-c3f4948e",
-      "headline": "Australia politics live: Vanuatu PM in Canberra as hopes rise over treaty; fossil fuel companies accused of marketing to children",
-      "summary": "Jotham Napat’s visit renews expectations that the two countries can sign the Nakamal pact after long negotiations. Follow today’s news liveGet our breaking news email, free app or daily news podcastRoyal commission hearings resume todayThe next round of hearings for the antisemitism royal commission begins today.Regretfully, we’re here until Thursday night with Parliament and the game is at 4am Saturday morning. So I’ll be watching on the TV. And",
+      "id": "2026-06-28-7155823d",
+      "headline": "New Caledonia polls open in first local vote in the French territory since 2019",
+      "summary": "Election will determine balance of power in New Caledonia before fresh negotiations with France on the territory’s statusPolls opened in the French overseas territory of New Caledonia on Sunday for the archipelago’s first provincial elections since 2019, after the vote was delayed as talks stalled over its political future.The election, initially planned for 2024, will determine the balance of power in New Caledonia ahead of fresh negotiations wi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jun/28/new-caledonia-polls-open-in-first-local-vote-in-the-french-territory-since-2019",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-06-28",
+      "time": "02:26",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-06-28-5bb61bbe",
+      "headline": "Australia politics live: Taylor says Coalition ‘lost trust’ of public during Covid pandemic as poll numbers keep falling",
+      "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastRoyal commission hearings resume todayThe next round of hearings for the antisemitism royal commission begins today.Regretfully, we’re here until Thursday night with Parliament and the game is at 4am Saturday morning. So I’ll be watching on the TV. And like I’ve said before, sometimes I’m the minister for sport and it’s important I’m at major events because there’s",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-06-28",
-      "time": "22:17",
+      "time": "23:38",
       "conflict_id": null,
       "score": 24.0
     },
@@ -600,20 +642,6 @@
       "region": "APJ",
       "country": null,
       "category": "politics",
-      "date": "2026-06-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-06-28-7c1f78b1",
-      "headline": "Mitsubishi Heavy to invest over $618m in Japan, US gas turbine operations",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/mitsubishi-heavy-to-invest-over-618m-in-japan-us-gas-turbine-operations",
-      "region": "NA",
-      "country": "Japan",
-      "category": "business",
       "date": "2026-06-28",
       "time": "",
       "conflict_id": null,
@@ -690,20 +718,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-06-27-5b603ac9",
-      "headline": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "10:40",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-06-27-10b654bd",
       "headline": "Venezuela earthquakes kill 920 people as international rescue teams arrive",
       "summary": "Hundreds are still feared trapped under the rubble, as families desperate for news.",
@@ -730,6 +744,20 @@
       "time": "20:00",
       "conflict_id": null,
       "score": 42.1
+    },
+    {
+      "id": "2026-06-27-5b603ac9",
+      "headline": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "10:40",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-06-27-824213a9",
