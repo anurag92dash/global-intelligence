@@ -1,6 +1,6 @@
 {
-  "updated": "2026-06-28T20:21:48.308228+00:00",
-  "story_count": 89,
+  "updated": "2026-06-28T21:33:42.679874+00:00",
+  "story_count": 90,
   "source_count": 10,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-06-28",
       "time": "11:00",
       "conflict_id": null,
-      "score": 59.4
+      "score": 58.4
     },
     {
       "id": "2026-06-28-b778d677",
@@ -29,21 +29,7 @@
       "date": "2026-06-28",
       "time": "04:54",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-06-28-3ee4eee0",
-      "headline": "US and Iran trade strikes amid claims of ceasefire violations",
-      "summary": "The US also carried out strikes on Iran on Friday after a drone attack on the M/V Ever Lovely ship. US aircraft targeted Iranian missile and drone storage locations as well as coastal radar sites, CENTCOM said.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/06/28/us-and-iran-trade-strikes-amid-claims-of-ceasefire-violations",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-06-28",
-      "time": "05:41",
-      "conflict_id": null,
-      "score": 54.0
+      "score": 51.0
     },
     {
       "id": "2026-06-28-a5ce22b4",
@@ -85,7 +71,7 @@
       "date": "2026-06-28",
       "time": "18:55",
       "conflict_id": null,
-      "score": 48.4
+      "score": 47.4
     },
     {
       "id": "2026-06-28-5a4e190e",
@@ -116,8 +102,8 @@
       "score": 46.4
     },
     {
-      "id": "2026-06-28-23fa76f9",
-      "headline": "Israel kills three Palestinians in Gaza as attacks on tents continue",
+      "id": "2026-06-28-559fd1b1",
+      "headline": "Israel kills four Palestinians in Gaza as attacks on tents continue",
       "summary": "Israeli forces restrict Palestinian worshippers at Al-Aqsa Mosque and block the call to prayer at the Ibrahimi Mosque.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/6/28/israel-kills-three-palestinians-in-gaza-as-attacks-on-tents-continue?traffic_source=rss",
@@ -228,6 +214,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-06-28-50187a28",
+      "headline": "Grim legacy of ‘Chavismo’ hinders Venezuela’s earthquake response",
+      "summary": "Socialist regime’s US-backed leader is facing a crisis as anger mounts over inadequate rescue efforts",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ff881e75-92ed-4bcc-beb6-cd833b57fd4c",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-06-28",
+      "time": "20:15",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-06-28-1119c03b",
       "headline": "Bond Heavyweights Target a Market Sweet Spot for New Warsh Era",
       "summary": "Some of the biggest bond managers are zeroing in on one specific area of the market as the best place to ride out the early days of the Kevin Warsh era.",
@@ -326,20 +326,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-06-28-941dbcaf",
-      "headline": "‘Enforcement mode’: Australia must take fight to tech giants to make social media ban stick, experts warn",
-      "summary": "Doubled penalties will have little effect if platforms not held to account for the content they carry, observers sayGet our breaking news email, free app or daily news podcastThe government needs to switch into “enforcement mode” and take on tech giants over its social media ban after doubling fines, experts have warned.The federal government announced on Sunday it would introduce new legislation to double fines to $99m for platforms that breach ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/28/enforcement-mode-australia-must-take-fight-to-tech-giants-to-make-social-media-ban-stick-experts-warn",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-06-28",
-      "time": "05:51",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-06-28-bf923d5b",
       "headline": "Germany, Czechia, Poland and Hungary swelter through hottest days on record",
       "summary": "Heat records of over 40C set as extreme weather spreads east, with more than 191m in Europe enduring 35C or aboveAfter decades of  warnings, why is Europe so unprepared?Germany, Czechia, Poland and Hungary reached record temperatures of more than 40C on Sunday as a heatwave linked to hundreds of deaths in western Europe spread east.More than 191 million people in Europe faced temperatures of at least 35C, with extreme heat warnings across the reg",
@@ -352,6 +338,20 @@
       "time": "19:27",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-06-28-7b9a4251",
+      "headline": "Protesters in Serbia doubt Vucic resignation will bring change",
+      "summary": "Thousands of protesters gathered in Serbia&#039;s Kraljevo, dismissing Aleksandar Vucic&#039;s pledge to resign.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/6/28/protesters-in-serbia-doubt-vucic-resignation-will-bring-change?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-28",
+      "time": "20:29",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-06-28-fd8a34c3",
@@ -438,18 +438,32 @@
       "score": 26.4
     },
     {
-      "id": "2026-06-28-aaf547c3",
-      "headline": "Airlines brace for up to $127bn in extra costs from carbon credit shortage",
-      "summary": "Emirates could have highest expense because of reliance on long-haul flights, MSCI Carbon Markets says",
+      "id": "2026-06-28-f428284c",
+      "headline": "Andy Burnham sets out ‘10-year mission’ to raise living standards",
+      "summary": "Prime minister-in-waiting will also pledge to go further on devolution as scrutiny grows over his likely policies",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/5d43c484-883b-464f-92c5-6555a9f24f5b",
+      "url": "https://www.ft.com/content/bff84ab6-7458-49ba-a21a-25883027a86e",
       "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-06-28",
+      "time": "21:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-06-28-2ac42705",
+      "headline": "Private Credit Quietly Backs the Craze Propping Up US Consumers",
+      "summary": "Private credit companies are increasingly backing the \"buy now, pay later\" craze that's propping up US consumers. This trend is throwing up red flags for credit raters, former regulatory chiefs and others on guard for potential risks. René Ismail explains  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-06-28/private-credit-quietly-backs-the-craze-propping-up-us-consumers",
+      "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-06-28",
-      "time": "20:00",
+      "time": "21:00",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
     },
     {
       "id": "2026-06-28-f7c47f25",
@@ -550,9 +564,23 @@
       "score": 25.2
     },
     {
+      "id": "2026-06-28-c3f4948e",
+      "headline": "Australia politics live: Vanuatu PM in Canberra as hopes rise over treaty; fossil fuel companies accused of marketing to children",
+      "summary": "Jotham Napat’s visit renews expectations that the two countries can sign the Nakamal pact after long negotiations. Follow today’s news liveGet our breaking news email, free app or daily news podcastHanson’s press club speech a ‘reality check’ for Australians, says WattEnvironment minister Murray Watt, says One Nation’s popularity dipping from 31% to 29% is due to Pauline Hanson’s controversial press club address, but concedes the “polls will boun",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/29/australia-politics-live-vanuatu-nakamal-treaty-pacific-china-anthony-albanese-jotham-napat-one-nation-coalition-pauline-hanson-angus-taylor-royal-commission-antisemitism-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-06-28",
+      "time": "21:25",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-06-28-078c3772",
       "headline": "Pauline Hanson’s One Nation withdrew more than $800,000 of election spending claims after AEC inquiries",
-      "summary": "The Australian Electoral Commission is examining if party breached laws in its $6m public funding claim after the last election, documents showGet our breaking news email, free app or daily news podcastThe Australian Electoral Commission questioned Pauline Hanson’s One Nation party over more than $800,000 of claimed electoral expenditure for the last election, Guardian Australia can reveal.Documents obtained under freedom of information laws show",
+      "summary": "The Australian Electoral Commission is examining if party breached laws in its $6m public funding claim after the last election, documents showFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Australian Electoral Commission questioned Pauline Hanson’s One Nation party over more than $800,000 of claimed electoral expenditure for the last election, Guardian Australia can reveal.Doc",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jun/29/one-nation-pauline-hanson-election-funding-withdrawals-aec-ntwnfb",
       "region": "APJ",
@@ -648,20 +676,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-06-28-001316ad",
-      "headline": "Thailand's Saha teams with Japan telecom SoftBank on AI-powered services",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/thailand-s-saha-teams-with-japan-telecom-softbank-on-ai-powered-services",
-      "region": "APJ",
-      "country": "Thailand",
-      "category": "business",
-      "date": "2026-06-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-06-28-1eb307b8",
       "headline": "Iraqi political officials arrested on corruption charges in overnight raid",
       "summary": "Iraqi security forces sealed off all entrances to the capital’s heavily fortified Green Zone early Sunday and carried out raids inside the compound that houses key government institutions and foreign embassies.",
@@ -676,20 +690,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-06-27-5b603ac9",
-      "headline": "US strikes Iran after attack on cargo ship",
-      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-06-27",
-      "time": "10:40",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-06-27-bbff8d09",
       "headline": "Israel strikes southern Lebanon as Hezbollah condemns new deal",
       "summary": "Strikes have killed at least one person, state media say a day after Lebanon and Israel signed a framework agreement.",
@@ -700,6 +700,20 @@
       "category": "geopolitics",
       "date": "2026-06-27",
       "time": "21:35",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-06-27-5b603ac9",
+      "headline": "US strikes Iran after attack on cargo ship",
+      "summary": "Iran accuses the US of violating their deal and says it struck targets linked to American forces in response.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg590wqxwpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-06-27",
+      "time": "10:40",
       "conflict_id": null,
       "score": 43.0
     },
@@ -814,34 +828,6 @@
       "time": "18:41",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-27-f742b80f",
-      "headline": "Tech Equity Sales Renew AI Debt-Binge Worries",
-      "summary": "Tech companies are selling stock like it’s the dot-com boom, and some investors fear that’s a bad sign for bondholders.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-27/tech-equity-sales-renew-ai-debt-binge-worries-credit-weekly",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-06-27",
-      "time": "19:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-06-27-8fb4d56a",
-      "headline": "Bloomberg This Weekend 6/27/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Fmr. UN Ambassador and Fmr. USAID Administrator Samantha Power and Oklahoma Senator Alan Armstrong. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-06-27/bloomberg-this-weekend-6-27-2026-video",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-06-27",
-      "time": "16:10",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-06-26-d91ceb34",
@@ -1108,6 +1094,34 @@
       "time": "20:05",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-06-24-a58c3198",
+      "headline": "Silicon Valley has much to learn from the spreadsheet jockeys it despises",
+      "summary": "Even if financial markets disagree",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/06/24/silicon-valley-has-much-to-learn-from-the-spreadsheet-jockeys-it-despises",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-06-24",
+      "time": "19:17",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
+      "id": "2026-06-23-47b96980",
+      "headline": "Dozens of ships head through Strait of Hormuz after US-Iran deal",
+      "summary": "Traffic in the waterway has risen since the US and Iran signed a deal aimed at ending the war, including 42 ships on Saturday alone.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx23rnzdgl8o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-06-23",
+      "time": "14:55",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-06-23-cbf8b2ea",
