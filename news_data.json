@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-02T18:07:52.654595+00:00",
-  "story_count": 77,
+  "updated": "2026-07-02T19:47:13.111550+00:00",
+  "story_count": 78,
   "source_count": 10,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-07-02",
       "time": "15:04",
       "conflict_id": "ukraine-war",
-      "score": 68.0
+      "score": 60.0
     },
     {
       "id": "2026-07-02-4d03448a",
@@ -29,21 +29,7 @@
       "date": "2026-07-02",
       "time": "14:57",
       "conflict_id": "ukraine-war",
-      "score": 68.0
-    },
-    {
-      "id": "2026-07-02-b30107a7",
-      "headline": "Ukraine calls for air defences as Russia threatens more strikes on Kyiv after overnight attack",
-      "summary": "After an overnight assault that killed at least 20 people in Ukraine, the Kremlin stated it will increase the pace of its attacks to achieve its goals.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/02/ukraine-calls-for-air-defences-as-russia-threatens-more-strikes-on-kyiv-after-overnight-at",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-02",
-      "time": "12:21",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
+      "score": 60.0
     },
     {
       "id": "2026-07-02-2b50c8ce",
@@ -88,8 +74,22 @@
       "score": 52.0
     },
     {
-      "id": "2026-07-02-e1b0659f",
-      "headline": "'Most massive' Russian attack on Kyiv kills at least 22",
+      "id": "2026-07-02-5aedcba3",
+      "headline": "Fears of new massacre in Sudan’s el-Obeid: What do we know?",
+      "summary": "As RSF troops besiege el-Obeid, 500,000 civilians face mass atrocities amid drone strikes and a stalled peace process.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/editorial/2026/7/2/fears-of-new-massacre-in-sudans-el-obeid-what-do-we-know?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-02",
+      "time": "18:59",
+      "conflict_id": "sudan-civil-war",
+      "score": 43.4
+    },
+    {
+      "id": "2026-07-02-7feea651",
+      "headline": "'Most massive' Russian attack on Kyiv kills at least 25",
       "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
@@ -97,7 +97,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-07-02",
-      "time": "17:49",
+      "time": "18:35",
       "conflict_id": null,
       "score": 43.0
     },
@@ -186,6 +186,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-02-d6b9ff13",
+      "headline": "Killers of British couple in South Africa sentenced to life",
+      "summary": "The pair had been collecting rare plants and seeds before their bodies were found days later in a river.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgm49j9692o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-02",
+      "time": "18:43",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-02-ab7ee5c4",
       "headline": "Ryanair warns of 'queue chaos' from new EU border system",
       "summary": "The airline calls on European governments to postpone the EES system until after the summer holiday period.",
@@ -200,18 +214,46 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-02-ff58217d",
-      "headline": "Americans brace for costly July 4 as Trump’s tariffs and Iran war bite",
-      "summary": "Food and gasoline prices elevated as country marks 250th birthday",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/30af48c1-9746-4a75-879b-0e897dd4f78f",
+      "id": "2026-07-02-def2e2e3",
+      "headline": "JPMorgan Loses Battle Over Charlie Javice’s Legal Expenses",
+      "summary": "A Delaware judge said JPMorgan Chase &amp; Co. failed to show that Charlie Javice‘s $74 million in legal fees were clearly excessive, ruling the bank must continue to pay her bills.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-loses-battle-over-charlie-javice-s-legal-expenses",
       "region": "NA",
-      "country": "America",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-02",
-      "time": "04:00",
+      "time": "19:10",
       "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-02-2ecc8553",
+      "headline": "The Doves Have Already Left the Building",
+      "summary": "A hawkish pivot was brewing before Warsh’s ascension.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-07-02/the-doves-have-already-left-the-building",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-02",
+      "time": "18:56",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-02-eb2adc6b",
+      "headline": "Saudi Oil Flows Hit 90% of Pre-War Rate as Ships Exit Hormuz",
+      "summary": "Saudi Arabia’s crude oil exports have surged close to their pre-war levels as the kingdom starts getting its tankers through the Strait of Hormuz again, one of the most emphatic indications yet that Persian Gulf shipments are normalizing in the wake of an interim peace deal between the US and Iran.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/saudi-oil-exports-approach-pre-war-levels-as-hormuz-flows-rise",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-07-02",
+      "time": "12:05",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-02-d039ec72",
@@ -224,20 +266,6 @@
       "category": "geopolitics",
       "date": "2026-07-02",
       "time": "17:10",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-02-b9e5afae",
-      "headline": "JPMorgan Says Saylor’s Strategy Adds New Risk to Bitcoin Market",
-      "summary": "JPMorgan Chase &amp; Co. warns that Michael Saylor’s financing overhaul at Strategy Inc. has shaken up the dynamics of the Bitcoin market by introducing the risk that one of the cryptocurrency’s biggest buyers could also become a seller, adding a new source of uncertainty for investors.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/jpmorgan-says-saylor-s-strategy-adds-new-risk-to-bitcoin-market",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-02",
-      "time": "16:45",
       "conflict_id": null,
       "score": 34.1
     },
@@ -266,20 +294,6 @@
       "category": "geopolitics",
       "date": "2026-07-02",
       "time": "16:29",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-02-fabdf324",
-      "headline": "Young Indonesian couple publicly caned after kissing on TikTok",
-      "summary": "Unmarried man and woman whipped 21 times each because they had violated province’s version of Islamic lawA young couple in Indonesia’s conservative Aceh province have been publicly caned after a Sharia court convicted them of violating Islamic law by kissing during a TikTok livestream.The court ordered the couple, a 22-year-old man and a 25-year-old woman, to be whipped with a rattan cane 21 times each for kissing without being married. At least ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/young-indonesian-couple-publicly-caned-after-kissing-on-tiktok",
-      "region": "MENA",
-      "country": "Indonesia",
-      "category": "geopolitics",
-      "date": "2026-07-02",
-      "time": "09:18",
       "conflict_id": null,
       "score": 32.0
     },
@@ -354,18 +368,18 @@
       "score": 29.0
     },
     {
-      "id": "2026-07-02-74af8abd",
-      "headline": "Damascus explosion caused by bomb, state TV says, as death toll climbs to six",
-      "summary": "The explosion comes a day after the first parliament since the fall of long-time leader Bashar al-Assad began to take shape.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/02/explosion-heard-in-damascus-syrian-state-tv-reports",
+      "id": "2026-07-02-40b5dec0",
+      "headline": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": null,
+      "country": "Syria",
       "category": "politics",
       "date": "2026-07-02",
-      "time": "12:37",
+      "time": "17:56",
       "conflict_id": null,
-      "score": 29.0
+      "score": 27.0
     },
     {
       "id": "2026-07-02-63c72f61",
@@ -447,7 +461,7 @@
       "country": null,
       "category": "business",
       "date": "2026-07-02",
-      "time": "13:12",
+      "time": "18:12",
       "conflict_id": null,
       "score": 26.4
     },
@@ -480,9 +494,23 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-02-14205604",
-      "headline": "Carney to Keep North BC Tanker Ban as Alberta to Unveil Pipeline Proposal",
-      "summary": "Prime Minister Mark Carney announced billions of dollars in federal funding for energy, mining and transportation projects in Canada’s west coast province of British Columbia.",
+      "id": "2026-07-02-c0f5f12c",
+      "headline": "Barclays Pulls Near $1 Billion Debt Deal for Sound Physicians",
+      "summary": "Barclays Plc has withdrawn a near $1 billion financing for Sound Inpatient Physicians Inc. from the debt capital markets, marking one of the few leveraged loan deals to be pulled this year.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/barclays-pulls-near-1-billion-debt-deal-for-sound-physicians",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-02",
+      "time": "19:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-02-ca7129aa",
+      "headline": "Carney Keeps North BC Tanker Ban, Signaling Alberta’s Pipeline Will Go South",
+      "summary": "Prime Minister Mark Carney announced a deal with British Columbia that keeps an oil tanker ban in place for Canada’s north coast, and commits billions of dollars in federal funding for energy, mining and transportation projects.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-02/carney-to-keep-north-bc-tanker-ban-as-alberta-to-unveil-pipeline-proposal",
       "region": "NA",
@@ -490,6 +518,20 @@
       "category": "politics",
       "date": "2026-07-02",
       "time": "17:54",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-02-50897884",
+      "headline": "Ishbia’s Mortgage Takeover Attempt Fails, Ending Monthslong Feud",
+      "summary": "After months of delay and drama, shareholders of mortgage servicer Two Harbors Investment Corp. voted to approve a merger deal with CrossCountry Mortgage Thursday. The preliminary vote was a blow to Mat Ishbia’s UWM Holdings Corp., which was also courting Two Harbors as an antidote to its severe stock slide.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-02/ishbia-s-mortgage-takeover-attempt-fails-ending-monthslong-feud",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-02",
+      "time": "18:58",
       "conflict_id": null,
       "score": 26.1
     },
@@ -508,18 +550,32 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-02-4cbb0f01",
-      "headline": "Germany Should Stop Shutting Off Coal Plants, Grid Operator Says",
-      "summary": "Germany should stop further closures of coal-fed power plants for now to safeguard electricity supplies amid the expansion of renewable generation, grid operator Amprion GmbH urged.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/germany-should-stop-shutting-off-coal-plants-grid-operator-says",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
+      "id": "2026-07-02-73c12202",
+      "headline": "David Hearn, Olympian Canoeist, Is Indicted After Arrest at Trump’s Reflecting Pool",
+      "summary": "David Hearn, a former canoeist, is accused of vandalizing the algae-challenged pool, which President Trump has said he would repair and beautify with fresh sealant. But the algae returned and the paint peeled.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-07-02",
-      "time": "17:25",
+      "time": "19:34",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-02-88e87fac",
+      "headline": "Trump-Linked Firm’s Fees for Organizing Freedom 250 Events Remain Secret",
+      "summary": "Event Strategies, Inc., a longtime vendor to President Trump’s campaigns, is organizing the Great American State Fair and the July 4 celebrations.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/02/us/politics/trump-allies-firm-organizing-250th.html",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-07-02",
+      "time": "18:10",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-07-02-a9480d7c",
@@ -546,34 +602,6 @@
       "category": "politics",
       "date": "2026-07-02",
       "time": "14:20",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-02-4efa1165",
-      "headline": "Republican Senate Candidates Start Their Own Super PACs to Gain Cash Advantage",
-      "summary": "Most of the party’s top candidates are starting their own super PACs instead of relying on a powerful group run by Washington leaders. The move allows them to seize control of their financial destinies.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/02/us/politics/republican-senate-candidates-super-pac.html",
-      "region": "NA",
-      "country": "Washington",
-      "category": "politics",
-      "date": "2026-07-02",
-      "time": "09:01",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-02-59cf1dbd",
-      "headline": "How Trump Made ‘Y.M.C.A.’ His Anthem, Despite the Village People and Victor Willis’s Mixed Feelings",
-      "summary": "On social media, he said the Village People’s lead singer, Victor Willis, was with him “right from the beginning.” But the president has a more complicated history with the group.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/01/us/politics/trump-ymca-anthem-village-people.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-02",
-      "time": "00:30",
       "conflict_id": null,
       "score": 25.2
     },
@@ -662,14 +690,14 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-01-cef9d4dd",
-      "headline": "Oil Continues Slide as Crude Flows Surge Through Persian Gulf",
-      "summary": "Oil deepened its slide below pre-war levels as flows from the Persian Gulf soared, heightening the prospect of a supply surplus.",
+      "id": "2026-07-01-74e3b162",
+      "headline": "Oil Fluctuates as Crude Flows Surge Through Persian Gulf",
+      "summary": "Oil prices steadied near pre-war lows as traders covered some bearish bets ahead of a US holiday weekend.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-01/latest-oil-market-news-and-analysis-for-july-2",
       "region": "NA",
       "country": null,
-      "category": "geopolitics",
+      "category": "business",
       "date": "2026-07-01",
       "time": "22:01",
       "conflict_id": null,
@@ -772,20 +800,6 @@
       "time": "06:10",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-01-9c7d1675",
-      "headline": "Ruling on Trans Athletes Gave the G.O.P. a Win. Most Democrats Looked the Other Way.",
-      "summary": "While Republicans celebrated the ruling, many Democrats stayed quiet on an issue that had proved divisive in the last election.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/01/us/politics/supreme-court-trans-athletes-midterms.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-01",
-      "time": "23:40",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-07-01-3660dba0",
