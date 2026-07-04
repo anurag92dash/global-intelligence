@@ -6,23 +6,23 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "escalating",
+    "status_signal": "stable",
     "last_activity": "2026-07-04",
     "recent_headlines": [
       {
-        "headline": "Russia Said It Captured Key Ukraine Stronghold in Donetsk Region",
+        "headline": "Oil Terminal in Russia’s St. Petersburg Comes Under Attack",
         "source": "Bloomberg",
         "date": "2026-07-04"
-      },
-      {
-        "headline": "As Ukraine War Escalates, Witkoff and Kushner Are Focused on Iran",
-        "source": "New York Times",
-        "date": "2026-07-03"
       },
       {
         "headline": "Monaco bomb suspect is a woman from Ukraine",
         "source": "Financial Times",
         "date": "2026-07-03"
+      },
+      {
+        "headline": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
+        "source": "BBC News",
+        "date": "2026-07-02"
       }
     ],
     "timeline": [
@@ -118,8 +118,13 @@
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
     "status_signal": "stable",
-    "last_activity": "2026-07-02",
+    "last_activity": "2026-07-04",
     "recent_headlines": [
+      {
+        "headline": "Oil Terminal in Russia’s St. Petersburg Comes Under Attack",
+        "source": "Bloomberg",
+        "date": "2026-07-04"
+      },
       {
         "headline": "Watch: BBC at site of deadly Russian attack on Kyiv flats",
         "source": "BBC News",
@@ -127,11 +132,6 @@
       },
       {
         "headline": "US blocks long-term renewal of North American trade deal",
-        "source": "BBC News",
-        "date": "2026-07-01"
-      },
-      {
-        "headline": "Families search for earthquake survivors in one of Venezuela's hardest hit areas",
         "source": "BBC News",
         "date": "2026-07-01"
       }
