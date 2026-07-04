@@ -1,8 +1,36 @@
 {
-  "updated": "2026-07-04T11:48:37.384028+00:00",
-  "story_count": 83,
-  "source_count": 9,
+  "updated": "2026-07-04T12:53:21.471661+00:00",
+  "story_count": 80,
+  "source_count": 8,
   "stories": [
+    {
+      "id": "2026-07-04-cd7ab65c",
+      "headline": "Ukraine hits major oil terminal in Russia's St Petersburg",
+      "summary": "Ukrainian President Volodymyr Zelensky says the target is key infrastructure \"that generates revenue for Russia's war\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8j2vmzxezro?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-04",
+      "time": "12:34",
+      "conflict_id": "ukraine-war",
+      "score": 71.0
+    },
+    {
+      "id": "2026-07-04-b5eb4942",
+      "headline": "Oil Terminal in Russia’s St. Petersburg Comes Under Attack",
+      "summary": "Kyiv’s forces attacked an oil terminal in St. Petersburg, Russia’s second largest city, with drones overnight, local officials said, while Ukraine said a gas production facility was struck by Russia.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-04",
+      "time": "08:07",
+      "conflict_id": "ukraine-war",
+      "score": 62.1
+    },
     {
       "id": "2026-07-04-6ed7de5b",
       "headline": "Ukraine hits oil and military facilities near Russia’s St Petersburg",
@@ -18,20 +46,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-04-b5eb4942",
-      "headline": "Oil Terminal in Russia’s St. Petersburg Comes Under Attack",
-      "summary": "Kyiv’s forces attacked an oil terminal in St. Petersburg, Russia’s second largest city, with drones overnight, local officials said, while Ukraine said a gas production facility was struck by Russia.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/oil-terminal-in-russia-s-st-petersburg-comes-under-drone-attack",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-04",
-      "time": "08:07",
-      "conflict_id": "ukraine-war",
-      "score": 54.1
-    },
-    {
       "id": "2026-07-04-d7807815",
       "headline": "‘The situation is terrible’: aid workers on life in Sudanese city pummelled by drone strikes",
       "summary": "El Obeid becomes key battleground in war between Sudan’s armed forces and their paramilitary enemies, the RSFFatima is losing count of the number of drone attacks on the besieged city of El Obeid in Sudan, but says the attacks this past weekend were the most violent so far.The drones hit schools and fuel stations, killing more than 20 people, including students, she says. “Over the past few months, seeing 40 or 45 drones is the norm. You can lite",
@@ -41,7 +55,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-07-04",
-      "time": "11:28",
+      "time": "12:43",
       "conflict_id": "sudan-civil-war",
       "score": 52.0
     },
@@ -58,20 +72,6 @@
       "time": "04:23",
       "conflict_id": null,
       "score": 50.4
-    },
-    {
-      "id": "2026-07-04-e1846314",
-      "headline": "Ukraine strikes oil infrastructure sites near Saint Petersburg, Zelenskyy says",
-      "summary": "It comes after Moscow launched a massive drone and missile barrage at Kyiv earlier this week, killing at least 30 people and hitting more than 20 sites across the city.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/04/ukraine-strikes-oil-infrastructure-sites-near-saint-petersburg-zelenskyy-says",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-04",
-      "time": "10:59",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
     },
     {
       "id": "2026-07-04-b40bde5c",
@@ -167,7 +167,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-04",
-      "time": "05:38",
+      "time": "11:56",
       "conflict_id": null,
       "score": 41.2
     },
@@ -184,20 +184,6 @@
       "time": "11:09",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-04-fa8c6d79",
-      "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
-      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-07-04",
-      "time": "07:52",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-04-d801ef1c",
@@ -228,6 +214,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-04-8252116e",
+      "headline": "NY Harbor Celebration Echoes Revolutionary Past",
+      "summary": "For the 4th of July, the Hudson River will have both the Naval Review and 'Sail4th 250' to celebrate the day. Retired Naval Vice Admiral Kevin Donegan and Rutgers University-Newark Professor of American Studies Robert Snyder join Bloomberg This Weekend to discuss the historical significance of the Hudson River in American independence. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-04/ny-harbor-celebration-echoes-revolutionary-past-video",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-04",
+      "time": "12:32",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-04-6c869881",
       "headline": "Air Force Detains Officer Who Called for Trump’s Impeachment at Capitol",
       "summary": "Maj. Jason Watson, who was in uniform, was arrested during a protest that followed a news conference on Wednesday.",
@@ -242,32 +242,18 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-04-4fff8278",
-      "headline": "Thousands protest in Germany as far-right AfD party meets",
-      "summary": "Protesters from unions, civil society and left-wing parties aim to disrupt AfD annual conference in Erfurt.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/thousands-protest-in-germany-as-far-right-afd-party-meets?traffic_source=rss",
-      "region": "EU",
-      "country": "Germany",
+      "id": "2026-07-04-fa8c6d79",
+      "headline": "Keiko Fujimori declared winner of Peru's presidential election weeks after vote",
+      "summary": "The daughter of disgraced president Alberto Fujimori is declared winner of tight race nearly a month after voting took place.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr5jpvv06e1o?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Peru",
       "category": "politics",
       "date": "2026-07-04",
-      "time": "11:18",
+      "time": "07:52",
       "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-04-0a4d3889",
-      "headline": "20,000 protest against AfD party conference in Germany",
-      "summary": "Thüringen police described the protest as \"legitimate\" but said an AfD constituency office and police officers had been attacked with paint bombs and fireworks.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/04/20000-protest-against-afd-party-conference-in-germany",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-07-04",
-      "time": "09:03",
-      "conflict_id": null,
-      "score": 29.0
+      "score": 27.0
     },
     {
       "id": "2026-07-04-8d652506",
@@ -296,6 +282,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-04-a629fcd5",
+      "headline": "Celebrating '250' from the USS Intrepid",
+      "summary": "To celebrate America's 250th anniversary Bloomberg This Weekend is broadcasting Live from across New York City. David Gura and Christina Ruffini are on the Hudson River at the Intrepid Museum for the Navy Review and the tall ships parade, 'Sail4th 250', while Lisa Mateo is at Nathan's Famous Hot Dogs in Coney Island, home of the annual 4th of July hot dog eating contest. The team are joined by Bloomberg News White House Correspondent Jeff Mason w",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-04/celebrating-250-from-the-uss-intrepid-video",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-07-04",
+      "time": "12:01",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-04-0d0c51e0",
@@ -354,20 +354,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-04-82258e37",
-      "headline": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
-      "summary": "A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money while sophisticated traders did better.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/04/us/politics/nearly-a-million-investors-lost-a-total-of-3-8-billion-on-trump-crypto-coin.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-07-04",
-      "time": "10:28",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-04-a1100859",
       "headline": "Overseas education project for women and girls axed by UK after two years",
       "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after it was announced.The scheme, Strengthening higher education for female empowerment (SHEFE), which was unveiled with some fanfare two years ago by the o",
@@ -392,6 +378,20 @@
       "category": "business",
       "date": "2026-07-04",
       "time": "10:26",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-04-b120aa34",
+      "headline": "German riot police clash with protesters hoping to block far-right AfD conference",
+      "summary": "Thousands of police deployed to Erfurt in central Germany as AfD holds conference on key Nazi dateRiot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfurt in Germany, where thousands met to block roads and prevent AfD delegates from attending the party’s biennial national conference to elect its leadership.Police reported 20,000 protesters were demonstrating in the eastern city, whe",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-07-04",
+      "time": "12:06",
       "conflict_id": null,
       "score": 24.0
     },
@@ -592,20 +592,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-03-baf13f0a",
-      "headline": "Conservative candidate Keiko Fujimori wins Peru's presidential election in runoff",
-      "summary": "Voters were primarily concerned with increasing levels of crime, especially extortion by violent organized crime gangs, and Fujimori pledged to combat crime with an iron fist.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/03/conservative-candidate-keiko-fujimori-wins-perus-presidential-election-in-runoff",
-      "region": "SA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-07-03",
-      "time": "19:06",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-03-d4dfff15",
       "headline": "Zuma showing South Africa 'middle finger' by meeting Gupta brother - minister",
       "summary": "Former President Zuma's trip to India reignites anger over a decade-old corruption scandal.",
@@ -732,20 +718,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-03-e2f8b8c4",
-      "headline": "European Stocks at Record, Book Fourth Straight Week of Gains",
-      "summary": "European stocks advanced on Friday, closing at a record high and recording a fourth straight week of gains as investors remained optimistic that the Federal Reserve will hold off on rate hikes for now.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-03/european-stocks-are-set-for-a-fourth-straight-week-of-gains",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-03",
-      "time": "07:13",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-03-c1553745",
       "headline": "Cold feet and cooling prices: Australia’s property market is transforming – and first home buyers aren’t biting",
       "summary": "Exclusive: Data shows buyers are not rushing to get into the market, despite lower prices and less competitionGet our breaking news email, free app or daily news podcastFirst home buyers are starting to step back and investor demand is slumping in all areas except new property, as Australia’s housing market enters a downturn.Research shows the market is transforming, nearly two months on from a third consecutive interest rate rise and sweeping ta",
@@ -770,6 +742,20 @@
       "category": "politics",
       "date": "2026-07-03",
       "time": "14:57",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-03-e10f754e",
+      "headline": "Spain’s conservatives and far-right Vox increase ties with Andalucía coalition",
+      "summary": "Deal including ‘national priority’ policy brings prospect closer of countrywide agreement between partiesThe prospect of a national coalition between Spain’s conservative People’s party (PP) and the far-right Vox party has drawn closer still after the two groupings sealed another deal that will allow the PP to continue ruling the southern region of Andalucía.The PP, which has governed the former socialist bastion for the past seven years, lost it",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/03/spain-conservatives-pp-far-right-vox-party-andalucia-coalition-deal",
+      "region": "EU",
+      "country": "Spain",
+      "category": "politics",
+      "date": "2026-07-03",
+      "time": "14:10",
       "conflict_id": null,
       "score": 24.0
     },
@@ -858,20 +844,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-02-72ca2397",
-      "headline": "Canadian boy dies of rabies after waking to find bat on his face",
-      "summary": "Eleven-year-old developed symptoms 19 days after encounter in Ontario in ‘exceedingly rare’ caseDoctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies, in an “exceedingly rare case” that highlights the need for better public awareness.In a report published this week in the Canadian Medical Association Journal, infectious disease physicians confirmed that the 11-ye",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
-      "region": "NA",
-      "country": "Canada",
-      "category": "geopolitics",
-      "date": "2026-07-02",
-      "time": "16:29",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-07-02-fabdf324",
       "headline": "Young Indonesian couple publicly caned after kissing on TikTok",
       "summary": "Unmarried man and woman whipped 21 times each because they had violated province’s version of Islamic lawA young couple in Indonesia’s conservative Aceh province have been publicly caned after a Sharia court convicted them of violating Islamic law by kissing during a TikTok livestream.The court ordered the couple, a 22-year-old man and a 25-year-old woman, to be whipped with a rattan cane 21 times each for kissing without being married. At least ",
@@ -938,20 +910,6 @@
       "category": "politics",
       "date": "2026-07-02",
       "time": "21:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-02-519cb018",
-      "headline": "European Stocks Rally to Cap Best Week Since May: Markets Wrap",
-      "summary": "Stocks rose as the latest round of jitters about the artificial-intelligence trade subsided, with Europe’s benchmark rising to an all-time high. The dollar touched a two-week low while gold extended gains.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-02/stock-market-today-dow-s-p-live-updates",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-02",
-      "time": "22:10",
       "conflict_id": null,
       "score": 26.1
     },
