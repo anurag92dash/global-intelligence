@@ -1,22 +1,8 @@
 {
-  "updated": "2026-07-05T16:39:39.364038+00:00",
-  "story_count": 80,
-  "source_count": 10,
+  "updated": "2026-07-05T17:42:01.213680+00:00",
+  "story_count": 78,
+  "source_count": 9,
   "stories": [
-    {
-      "id": "2026-07-05-3e8cf513",
-      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-05",
-      "time": "15:48",
-      "conflict_id": null,
-      "score": 59.0
-    },
     {
       "id": "2026-07-05-6f96f843",
       "headline": "Ukraine striking Russian energy infrastructure at unprecedented rate",
@@ -32,6 +18,20 @@
       "score": 54.4
     },
     {
+      "id": "2026-07-05-3e8cf513",
+      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-05",
+      "time": "15:48",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-07-05-015c3d7c",
       "headline": "Photo of abused Palestinian detainee causes anguish for two Gaza mothers",
       "summary": "Disturbing image showing restrained detainee adds to agony of two mothers, each of whom is certain he is their son.",
@@ -42,20 +42,6 @@
       "category": "geopolitics",
       "date": "2026-07-05",
       "time": "16:05",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-07-05-f09bbc02",
-      "headline": "Palestinians in Gaza celebrate Morocco’s World Cup victory",
-      "summary": "Palestinians in Gaza celebrate Morocco&#039;s World Cup victory",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-in-gaza-celebrate-moroccos-world-cup-victory?traffic_source=rss",
-      "region": "MENA",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-07-05",
-      "time": "08:25",
       "conflict_id": "israel-hamas",
       "score": 43.4
     },
@@ -86,6 +72,20 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 42.1
+    },
+    {
+      "id": "2026-07-05-73a7ce3e",
+      "headline": "Navy Ends Search for Missing Crew Member After Arabian Sea Helicopter Crash",
+      "summary": "The cause of the crash was still under investigation, but the military said it was not the result of hostile fire. A total of 14 U.S. service members have been killed in the war against Iran.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/05/us/politics/navy-helicopter-crash-arabian-sea.html",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-05",
+      "time": "16:35",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-07-05-7f7a9077",
@@ -139,35 +139,21 @@
       "country": null,
       "category": "politics",
       "date": "2026-07-05",
-      "time": "13:09",
+      "time": "17:30",
       "conflict_id": null,
       "score": 35.0
     },
     {
-      "id": "2026-07-05-d3d0efdb",
-      "headline": "Iran leadership shows unity at ayatollah’s funeral, but successor absent",
-      "summary": "Mojtaba Khamenei does not join other top leaders and sons alongside coffin of slain supreme leader",
+      "id": "2026-07-05-e080d70d",
+      "headline": "Netanyahu government defies Israel’s top court over TV regulation",
+      "summary": "Premier’s cabinet raises fears of a constitutional crisis by formally rejecting ruling by Supreme Court",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/a3dedf8e-f0fa-4646-a18e-5842c7359e3c",
+      "url": "https://www.ft.com/content/20450f5c-757f-440d-a06e-6fa997f74754",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-05",
-      "time": "12:04",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-07-05-875a9573",
-      "headline": "Oil market opens up as retail traders pour in",
-      "summary": "CME Group to launch 10-barrel contract after Iran war triggers rush of bets on crude prices",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b64227fd-3fae-4fea-bb83-4cc463fa09ed",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-07-05",
-      "time": "04:00",
+      "time": "17:12",
       "conflict_id": null,
       "score": 34.4
     },
@@ -209,7 +195,7 @@
       "country": "America",
       "category": "business",
       "date": "2026-07-05",
-      "time": "10:06",
+      "time": "17:16",
       "conflict_id": null,
       "score": 33.2
     },
@@ -256,16 +242,16 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-05-a5a29f47",
-      "headline": "Millions attend funeral prayers for Iran’s Khamenei and family",
-      "summary": "Millions of people have attended funeral prayers in Tehran for Iran&#039;s late Supreme Leader Ayatollah Ali Khamenei.",
+      "id": "2026-07-05-75684254",
+      "headline": "50 Houthi fighters killed in renewed clashes in Yemen",
+      "summary": "Yemeni government officials say the Houthis launched a surprise offensive targeting army barracks in southern Hodeidah.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/millions-attend-funeral-prayers-for-irans-khamenei-and-family?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss",
       "region": "MENA",
-      "country": "Tehran",
+      "country": "Yemen",
       "category": "geopolitics",
       "date": "2026-07-05",
-      "time": "13:48",
+      "time": "16:59",
       "conflict_id": null,
       "score": 31.4
     },
@@ -328,7 +314,7 @@
     {
       "id": "2026-07-05-04244f63",
       "headline": "EasyJet Agrees to Castlelake’s £5.2 Billion Takeover Offer",
-      "summary": "EasyJet Plc has agreed in principle to a fifth takeover offer from Castlelake LP for £6.90 per share in cash, the companies said in a statement on Sunday.",
+      "summary": "EasyJet Plc has agreed in principle to a fifth takeover offer from Castlelake LP for £6.90 per share in cash, the companies said in a statement Sunday.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-05/easyjet-agrees-to-castlelake-s-5-2-billion-takeover-offer",
       "region": "NA",
@@ -336,6 +322,20 @@
       "category": "politics",
       "date": "2026-07-05",
       "time": "16:21",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-05-d17accb1",
+      "headline": "Bloomberg This Weekend 07/05/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by NATO Deputy Supreme Allied Commander Europe UK Air Chief Marshal John Stringer, America 250 Commission Reginald Browne, Journalist & “The Almighty Dollar” Author Brendan Greeley, Politico Reporter & Co-Author of New York Playbook Madison Fernandez a",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-05/bloomberg-this-weekend-07-05-2026-video",
+      "region": "EU",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-07-05",
+      "time": "16:13",
       "conflict_id": null,
       "score": 26.1
     },
@@ -392,6 +392,20 @@
       "category": "business",
       "date": "2026-07-05",
       "time": "13:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-05-019e34dd",
+      "headline": "Parents Weigh New Trump Accounts for Newborns",
+      "summary": "Parents can now begin contributing to newly launched Trump Accounts, which provide a $1,000 government-funded investment for eligible children born between 2025 and 2028. Bloomberg's Sarah Foster joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that financial advisers still generally favor 529 plans for education savings and that questions remain about the new accounts' tax treatment, withdrawal rules and future inves",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-05/parents-weigh-new-trump-accounts-for-newborns-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-05",
+      "time": "12:47",
       "conflict_id": null,
       "score": 26.1
     },
@@ -546,20 +560,6 @@
       "category": "geopolitics",
       "date": "2026-07-05",
       "time": "11:03",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-05-418c38f7",
-      "headline": "Egypt and Morocco fans celebrate World Cup wins by singing for Palestine",
-      "summary": "Egypt and Morocco fans celebrated their World Cup success by singing ‘My Blood is Palestinian’ at a Dallas fan zone.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/egypt-and-morocco-fans-celebrate-world-cup-wins-by-singing-for-palestine?traffic_source=rss",
-      "region": "MENA",
-      "country": "Palestine",
-      "category": "business",
-      "date": "2026-07-05",
-      "time": "07:42",
       "conflict_id": null,
       "score": 23.4
     },
@@ -732,20 +732,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-04-a1100859",
-      "headline": "Overseas education project for women and girls axed by UK after two years",
-      "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after it was announced.The scheme, Strengthening higher education for female empowerment (SHEFE), which was unveiled with some fanfare two years ago by the o",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-04",
-      "time": "08:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-07-04-c514c3be",
       "headline": "UK woman, 21, arrested in Thailand after allegedly stabbing boyfriend to death",
       "summary": "Officers found body of 34-year-old man in luxury rental home in Pattaya area, local media saysA 21-year-old British woman has been arrested in Thailand after allegedly fatally stabbing her boyfriend, according to local media reports.The Bangkok Post reported that on Thursday morning local time, officers found the body of a 34-year-old man, who operated a cannabis farm, in a luxury rental home in the Pattaya area, a beachside region two hours from",
@@ -786,20 +772,6 @@
       "time": "09:56",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-03-37b9eaa6",
-      "headline": "As Trump commands 250th stage, Democrats offer their vision of patriotism",
-      "summary": "Partisanship around the country’s big anniversary has put Democrats in a bind: They want to criticize the president without appearing unpatriotic.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/07/03/trump-headlines-america250-democrats-offer-their-vision-patriotism/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-03",
-      "time": "16:55",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-07-03-196949c0",
