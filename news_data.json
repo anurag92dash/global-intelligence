@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-05T18:42:55.270301+00:00",
+  "updated": "2026-07-05T19:56:06.006961+00:00",
   "story_count": 77,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-05-3e8cf513",
+      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-05",
+      "time": "17:58",
+      "conflict_id": null,
+      "score": 59.0
+    },
     {
       "id": "2026-07-05-6f96f843",
       "headline": "Ukraine striking Russian energy infrastructure at unprecedented rate",
@@ -18,18 +32,18 @@
       "score": 54.4
     },
     {
-      "id": "2026-07-05-3e8cf513",
-      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-05-02341337",
+      "headline": "Palestinians rally outside Al-Shifa hospital, demanding medical evacuation",
+      "summary": "Protest outside Al-Shifa Medical Complex demanding Israel lift travel restrictions on those leaving the Gaza Strip.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/palestinians-rally-outside-al-shifa-hospital-demanding-medical-evacuation?traffic_source=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-05",
-      "time": "17:58",
-      "conflict_id": null,
-      "score": 51.0
+      "time": "18:40",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-07-05-015c3d7c",
@@ -44,20 +58,6 @@
       "time": "16:05",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-07-05-0e90dc66",
-      "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-07-05",
-      "time": "08:24",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-07-05-6b72f49f",
@@ -102,6 +102,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-07-05-3e84ae2b",
+      "headline": "Sons of Iran’s leader Ali Khamenei attend funeral, but Mojtaba is absent",
+      "summary": "Massive crowds gathered in Tehran to mourn Khamenei’s death, with chants calling for revenge against the US and Israel.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/5/sons-of-irans-leader-ali-khamenei-attend-funeral-but-mojtaba-is-absent?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-05",
+      "time": "18:55",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-07-05-ea8e43f4",
       "headline": "Sara Duterte impeachment, NATO summit, Modi visits Indonesia",
       "summary": "",
@@ -144,18 +158,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-05-e080d70d",
-      "headline": "Netanyahu government defies Israel’s top court over TV regulation",
-      "summary": "Premier’s cabinet raises fears of a constitutional crisis by formally rejecting ruling by Supreme Court",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/20450f5c-757f-440d-a06e-6fa997f74754",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-07-05-3d45e93f",
+      "headline": "The Supertanker Tycoon Making Millions on Hormuz Shuttle Runs",
+      "summary": "Just a few weeks into the war, one of the Persian Gulf’s top oil producers quietly began sneaking its crude out of the Strait of Hormuz. Before long, the covert project became so successful that the United Arab Emirates was already approaching its pre-war rate of flows through the waterway by the time the US and Iran signed their interim peace deal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/the-supertanker-tycoon-making-millions-on-hormuz-shuttle-runs",
+      "region": "NA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-05",
-      "time": "17:12",
+      "time": "19:00",
       "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
     },
     {
       "id": "2026-07-05-20c08988",
@@ -184,20 +198,6 @@
       "time": "06:33",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-07-05-239d20dc",
-      "headline": "America Marks Its 250th Birthday With Storms, Sweat and Fire",
-      "summary": "Independence Day celebrations were canceled nationwide and the Brooklyn Bridge briefly caught fire. Yet Americans still found countless ways to celebrate.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-07-05",
-      "time": "17:16",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-07-05-46eb9c61",
@@ -242,20 +242,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-05-75684254",
-      "headline": "50 Houthi fighters killed in renewed clashes in Yemen",
-      "summary": "Yemeni government officials say the Houthis launched a surprise offensive targeting army barracks in southern Hodeidah.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/50-houthi-fighters-killed-in-renewed-clashes-in-yemen?traffic_source=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "geopolitics",
-      "date": "2026-07-05",
-      "time": "16:59",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-07-05-a96a76b8",
       "headline": "Marine Le Pen and Jordan Bardella pledge unity ahead of judicial verdict",
       "summary": "This week, a Paris court will rule on whether Marine Le Pen can run in the 2027 presidential election. Ahead of the verdict, Le Pen and the party’s president Jordan Bardella pledged to work as a duo.",
@@ -268,6 +254,20 @@
       "time": "14:21",
       "conflict_id": null,
       "score": 29.0
+    },
+    {
+      "id": "2026-07-05-2c39b722",
+      "headline": "Djokovic breaks Federer's Wimbledon record to reach quarters",
+      "summary": "Novak Djokovic claims the all-time record for most men's singles match wins at Wimbledon by beating qualifier Roman Safiullin to reach the quarter-finals.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/tennis/articles/cz9llp835jgo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Oman",
+      "category": "business",
+      "date": "2026-07-05",
+      "time": "16:29",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-05-f8e40422",
@@ -494,6 +494,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-05-239d20dc",
+      "headline": "America Marks Its 250th Birthday With Storms, Sweat and Fire",
+      "summary": "Independence Day celebrations were canceled nationwide and the Brooklyn Bridge briefly caught fire. Yet Americans still found countless ways to celebrate.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/05/us/america-250-celebrations.html",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-07-05",
+      "time": "17:16",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-07-05-d180a7d9",
       "headline": "Trump Administration Rolls Back Dozens of Gun Regulations",
       "summary": "Critics say the administration is weakening public safety. Proponents say regulations would be where they were before President Joseph R. Biden took office.",
@@ -546,20 +560,6 @@
       "category": "business",
       "date": "2026-07-05",
       "time": "14:48",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-05-e6a72f53",
-      "headline": "China and Russia to hold annual joint naval drills",
-      "summary": "Exercises from Monday to July 13 off Qingdao to be followed by joint maritime patrols in the Pacific Ocean.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/5/china-and-russia-to-hold-annual-joint-naval-drills?traffic_source=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-05",
-      "time": "11:03",
       "conflict_id": null,
       "score": 23.4
     },
@@ -620,20 +620,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-07-04-6a3b338b",
-      "headline": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
-      "summary": "Pope Leo urges Americans to live up to ideals of Declaration of Independence in first key address to USPope Leo has used his first key address to his home country to praise the US history of ⁠welcoming migrants, urging Americans to live up to the ideals put forward in the ⁠Declaration of Independence.In his latest implicit rebuke to Donald Trump, the first US leader of the Roman Catholic church said the word “America” had become ‌a “byword for fr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-07-04",
-      "time": "11:09",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-07-04-14d6803f",
       "headline": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
       "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
@@ -676,6 +662,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-04-87d0e7d4",
+      "headline": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "summary": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-04",
+      "time": "21:46",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-04-35e96b61",
       "headline": "Watch: Taylor Swift and Travis Kelce wed in NYC - here's how the day unfolded",
       "summary": "The couple tied the knot in a star-studded ceremony officiated by comedian Adam Sandler at Madison Square Garden.",
@@ -704,18 +704,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-04-46503b3b",
-      "headline": "Bloomberg This Weekend 07/04/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Rutgers University Professor Emeritus of American Studies Robert Snyder, Retired Navy Vice Admiral Kevin Donegan, Award-Winning Documentary Filmmaker and Executive Producer & Director “The American Revolution” Ken Burns, The New York Times Wirecutte",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-04/bloomberg-this-weekend-07-04-2026-video",
+      "id": "2026-07-04-6a3b338b",
+      "headline": "Pope praises US history of welcoming migrants in implicit rebuke to Trump",
+      "summary": "Pope Leo urges Americans to live up to ideals of Declaration of Independence in first key address to USPope Leo has used his first key address to his home country to praise the US history of ⁠welcoming migrants, urging Americans to live up to the ideals put forward in the ⁠Declaration of Independence.In his latest implicit rebuke to Donald Trump, the first US leader of the Roman Catholic church said the word “America” had become ‌a “byword for fr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/03/pope-leo-lampedusa-visit-us-250th-anniversary-trump",
       "region": "NA",
       "country": "America",
       "category": "geopolitics",
       "date": "2026-07-04",
-      "time": "18:50",
+      "time": "11:09",
       "conflict_id": null,
-      "score": 34.1
+      "score": 32.0
     },
     {
       "id": "2026-07-04-fa8c6d79",
@@ -798,20 +798,6 @@
       "category": "politics",
       "date": "2026-07-03",
       "time": "15:34",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-03-a8ae9447",
-      "headline": "‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscape",
-      "summary": "Thousands of volunteers are joined by overseas teams in the hope of finding more survivors in the rubble, reports Tom Phillips in Caraballeda.Photography and video by Manu QuinteroWhen twin earthquakes tore through Venezuela’s northern coast last week, Israel Rivas was at home hundreds of miles away in the industrial city of San Félix. As the scale of the catastrophe became clear, the 24-year-old knew he had to react. A mechanic and budding photo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/ng-interactive/2026/jul/03/international-rescuers-venezuela-earthquake-hellscape",
-      "region": "MENA",
-      "country": "Venezuela",
-      "category": "geopolitics",
-      "date": "2026-07-03",
-      "time": "11:08",
       "conflict_id": null,
       "score": 32.0
     },
@@ -910,6 +896,20 @@
       "category": "politics",
       "date": "2026-07-02",
       "time": "11:01",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-07-02-72ca2397",
+      "headline": "Canadian boy dies of rabies after waking to find bat on his face",
+      "summary": "Eleven-year-old developed symptoms 19 days after encounter in Ontario in ‘exceedingly rare’ caseDoctors in Canada say a child who awoke to find a bat resting on his nose and mouth while visiting an Ontario cottage later died of rabies, in an “exceedingly rare case” that highlights the need for better public awareness.In a report published this week in the Canadian Medical Association Journal, infectious disease physicians confirmed that the 11-ye",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/02/canadian-boy-dies-rabies-bat-on-face",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-07-02",
+      "time": "16:29",
       "conflict_id": null,
       "score": 32.0
     },
