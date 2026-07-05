@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-05T05:14:08.912569+00:00",
+  "updated": "2026-07-05T08:16:06.104434+00:00",
   "story_count": 73,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-05-6f96f843",
+      "headline": "Ukraine striking Russian energy infrastructure at unprecedented rate",
+      "summary": "Kyiv’s intensified drone campaign is spurring Russia’s worst fuel crisis in decades",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/13687b48-9e54-44a1-bd4d-600bbc052baf",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-05",
+      "time": "07:09",
+      "conflict_id": "ukraine-war",
+      "score": 54.4
+    },
     {
       "id": "2026-07-05-6b72f49f",
       "headline": "Ebola Crisis Exposes Congo's Fragile Health System",
@@ -18,9 +32,9 @@
       "score": 42.1
     },
     {
-      "id": "2026-07-05-e065dffc",
-      "headline": "Iran war live: Huge crowds mourn Khamenei, Trump vows to hold fire",
-      "summary": "Iran&#039;s late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike in February.",
+      "id": "2026-07-05-bdc70cba",
+      "headline": "Iran war live: Millions mourn Khamenei; Trump hints at Netanyahu meeting",
+      "summary": "Late Supreme Leader Ali Khamenei and members of his family were killed in a US-Israeli air strike on February 28.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/5/iran-war-live-huge-crowds-mourn-khamenei-trump-vows-calm-during-funeral?traffic_source=rss",
       "region": "MENA",
@@ -32,8 +46,36 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-05-aca04aa9",
-      "headline": "US marks its 250th birthday with fireworks, flyovers and extreme weather",
+      "id": "2026-07-05-ea8e43f4",
+      "headline": "Sara Duterte impeachment, NATO summit, Modi visits Indonesia",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/sara-duterte-impeachment-nato-summit-modi-visits-indonesia",
+      "region": "EU",
+      "country": "Indonesia",
+      "category": "politics",
+      "date": "2026-07-05",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
+    },
+    {
+      "id": "2026-07-05-ab202dfd",
+      "headline": "'The American Dream is back,' Trump says during Fourth of July speech",
+      "summary": "\"Our warriors did not fight communism on battlefields across the world only to have that menace rear its ugly head right back here in America,\" Trump told a cheering crowd.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/05/the-american-dream-is-back-trump-says-during-fourth-of-july-speech",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-05",
+      "time": "06:48",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-07-05-0e90dc66",
+      "headline": "US marks 250th birthday with fireworks, flyovers and extreme weather",
       "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
@@ -41,7 +83,7 @@
       "country": "America",
       "category": "geopolitics",
       "date": "2026-07-05",
-      "time": "04:38",
+      "time": "07:44",
       "conflict_id": null,
       "score": 35.0
     },
@@ -60,6 +102,34 @@
       "score": 34.4
     },
     {
+      "id": "2026-07-05-cb4839ac",
+      "headline": "BOK Warns of Risks From Single-Stock Leveraged ETFs: Yonhap",
+      "summary": "The Bank of Korea warned that single-stock leveraged exchange-traded funds tied to Samsung Electronics Co. and SK Hynix Inc. could deepen market concentration, amplify volatility and intensify one-way trading flows, according to a local report.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/bok-warns-of-risks-from-single-stock-leveraged-etfs-yonhap",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-05",
+      "time": "06:33",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-05-7f7a9077",
+      "headline": "In Fourth of July Speech, Trump Celebrates America and Derides Foes",
+      "summary": "A centerpiece address for the nation’s 250th anniversary celebration devoted time to American history, but had all the hallmarks of a Trump rally.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-07-05",
+      "time": "05:02",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-07-05-46eb9c61",
       "headline": "These Runners Celebrate July 4 at the Mount Marathon Race",
       "summary": "The Mount Marathon Race plays a big role in the Independence Day festivities of Seward, Alaska.",
@@ -74,20 +144,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-05-f8e40422",
-      "headline": "Donald Trump defies storms and heatwave to deliver July 4 address",
-      "summary": "President eulogises forebears and eviscerates enemies at Lincoln Memorial on 250th anniversary of independence",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-05",
-      "time": "03:41",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-07-05-ddebbbff",
       "headline": "Returning to pre-Trumpian politics won’t save America",
       "summary": "The opening of the Obama presidential library set off a wave of nostalgia for an era that is not coming back",
@@ -98,6 +154,20 @@
       "category": "politics",
       "date": "2026-07-05",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-05-f8e40422",
+      "headline": "Donald Trump defies storms and heatwave to deliver July 4 address",
+      "summary": "President eulogises forebears and eviscerates enemies at Lincoln Memorial on 250th anniversary of independence",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e197cb3f-0329-4c3f-8f04-3f0b768cdb30",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-05",
+      "time": "03:41",
       "conflict_id": null,
       "score": 26.4
     },
@@ -144,6 +214,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-05-67d43acd",
+      "headline": "OPEC+ Agrees in Principle on 188K B/D Hike, Delegates Say",
+      "summary": "OPEC+ has a preliminary agreement for another modest oil quota increase in August, delegates said, raising the prospect of more supply eventually hitting the market again if a US-Iran peace pact can stick.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/opec-agrees-in-principle-on-188k-b-d-quota-hike-delegates-say",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-07-05",
+      "time": "07:47",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-05-5441a245",
+      "headline": "Modi’s Biofuel Push Comes Under Pressure as Motorists Protest",
+      "summary": "Indian motorists will gather in New Delhi on Sunday, in the first major protest against a flagship biofuel program intended to reduce crude imports and support farm incomes.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-05/modi-s-biofuel-push-comes-under-pressure-as-motorists-protest",
+      "region": "SA",
+      "country": "New Delhi",
+      "category": "politics",
+      "date": "2026-07-05",
+      "time": "05:20",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-05-3d7ba675",
       "headline": "NZ Pledges Trade Talks With Brazil, Europe Within Five Years",
       "summary": "New Zealand’s governing National Party will begin negotiations for seven new trade deals within five years should it win the November election, Trade Minister Todd McClay said.",
@@ -172,18 +270,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-05-7f7a9077",
-      "headline": "In Fourth of July Speech, Trump Celebrates America and Derides Foes",
-      "summary": "A centerpiece address for the nation’s 250th anniversary celebration devoted time to American history, but had all the hallmarks of a Trump rally.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
+      "id": "2026-07-05-418c38f7",
+      "headline": "Egypt and Morocco fans celebrate World Cup wins by singing for Palestine",
+      "summary": "Egypt and Morocco fans celebrated their World Cup success by singing ‘My Blood is Palestinian’ at a Dallas fan zone.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/5/egypt-and-morocco-fans-celebrate-world-cup-wins-by-singing-for-palestine?traffic_source=rss",
+      "region": "MENA",
+      "country": "Palestine",
+      "category": "business",
       "date": "2026-07-05",
-      "time": "05:02",
+      "time": "07:42",
       "conflict_id": null,
-      "score": 25.2
+      "score": 23.4
     },
     {
       "id": "2026-07-05-5d5d753b",
@@ -194,20 +292,6 @@
       "region": "APJ",
       "country": "Taiwan",
       "category": "geopolitics",
-      "date": "2026-07-05",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-05-929c28c5",
-      "headline": "Asian Americans push for wider share of the spotlight as US celebrates 250",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/big-in-asia/asian-americans-push-for-wider-share-of-the-spotlight-as-us-celebrates-250",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
       "date": "2026-07-05",
       "time": "",
       "conflict_id": null,
@@ -240,20 +324,6 @@
       "time": "15:14",
       "conflict_id": "sudan-civil-war",
       "score": 52.0
-    },
-    {
-      "id": "2026-07-04-dcea80dd",
-      "headline": "At least 7 Palestinians killed by Israeli forces over past 48 hours in Gaza",
-      "summary": "A further nine bodies were recovered from under the rubble, according to Gaza&#039;s Ministry of Health.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/4/at-least-7-palestinians-killed-by-israeli-forces-over-past-48-hours-in-gaza?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-04",
-      "time": "16:23",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
     },
     {
       "id": "2026-07-04-e1846314",
@@ -340,20 +410,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-04-daee7482",
-      "headline": "In pictures: Stars and fans celebrate Taylor Swift and Travis Kelce's wedding",
-      "summary": "Celebrities and sports stars were spotted as the A-list couple tied the knot in New York on Friday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vyqgy4r5lo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-04",
-      "time": "08:24",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-04-46503b3b",
       "headline": "Bloomberg This Weekend 07/04/2026",
       "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Rutgers University Professor Emeritus of American Studies Robert Snyder, Retired Navy Vice Admiral Kevin Donegan, Award-Winning Documentary Filmmaker and Executive Producer & Director “The American Revolution” Ken Burns, The New York Times Wirecutte",
@@ -364,20 +420,6 @@
       "category": "geopolitics",
       "date": "2026-07-04",
       "time": "18:50",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-04-8252116e",
-      "headline": "NY Harbor Celebration Echoes Revolutionary Past",
-      "summary": "For the 4th of July, the Hudson River will have both the Naval Review and 'Sail4th 250' to celebrate the day. Retired Naval Vice Admiral Kevin Donegan and Rutgers University-Newark Professor of American Studies Robert Snyder join Bloomberg This Weekend to discuss the historical significance of the Hudson River in American independence. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-04/ny-harbor-celebration-echoes-revolutionary-past-video",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-07-04",
-      "time": "12:32",
       "conflict_id": null,
       "score": 34.1
     },
@@ -394,34 +436,6 @@
       "time": "22:04",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-07-04-eb19486c",
-      "headline": "Doctors’ soaring use of AI scribes prompts Australian government warning over privacy",
-      "summary": "Exclusive: With the technology fast becoming popular in GP surgeries, regulators are monitoring its implementation and potential pitfallsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal health department has raised concerns about the use of AI scribes by doctors as the health regulator considers the need for safeguards around the technology.AI scribe tools record, transcr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/05/doctors-ai-scribes-australia-government-privacy-warning",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-07-04",
-      "time": "20:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-04-b120aa34",
-      "headline": "German riot police clash with protesters hoping to block far-right AfD conference",
-      "summary": "Thousands of police deployed to Erfurt in central Germany as party holds conference on key Nazi dateRiot police have clashed with opponents of the far-right Alternative für Deutschland (AfD) party on the streets of Erfurt in Germany, where thousands met to block roads and prevent AfD delegates from attending the party’s biennial national conference to elect its leadership.Police reported 20,000 protesters were demonstrating in the eastern city, w",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/04/german-riot-police-clash-protesters-block-far-right-afd-conference",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-07-04",
-      "time": "13:17",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-07-04-7b888833",
@@ -452,23 +466,9 @@
       "score": 31.4
     },
     {
-      "id": "2026-07-04-aa2e8abc",
-      "headline": "Police clash with protesters outside AfD meeting",
-      "summary": "German police scuffled with protesters as the far-right Alternative for Germany (AfD) held its national convention",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/4/police-clash-with-protesters-outside-afd-meeting?traffic_source=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-07-04",
-      "time": "17:13",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-07-04-14d6803f",
       "headline": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "summary": "Far-right leader Marine Le Pen is appealing a verdict which found her guilty of misusing EU funds.",
+      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
@@ -490,6 +490,20 @@
       "category": "politics",
       "date": "2026-07-04",
       "time": "07:52",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-04-87d0e7d4",
+      "headline": "Funeral of Iran's former supreme leader 'intensely political moment'",
+      "summary": "Authorities expect up to 20 million people to attend ceremonies across Iran and Iraq over the coming days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c23y22z4ppxo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-04",
+      "time": "21:46",
       "conflict_id": null,
       "score": 27.0
     },
@@ -592,20 +606,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-04-8ff18363",
-      "headline": "Insider Trading Cases End as DOJ Dud With Few Prison Sentences",
-      "summary": "Sitting at home in the south of France, beyond the reach of US law enforcement for the better part of a decade, former Moelis and Co. banker Benjamin Taylor made what seemed like a brave choice. He returned to the US to face an insider trading charge that carried as much as five years behind bars.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-04/insider-trading-cases-end-as-doj-dud-with-few-prison-sentences",
-      "region": "EU",
-      "country": "France",
-      "category": "business",
-      "date": "2026-07-04",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-04-82258e37",
       "headline": "Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin",
       "summary": "A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money while sophisticated traders did better.",
@@ -634,6 +634,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-07-04-a1100859",
+      "headline": "Overseas education project for women and girls axed by UK after two years",
+      "summary": "The programme, aimed at keeping 1m girls in school across Africa, Asia and the Middle East, withdrawn after aid cutsA leading higher education programme, aimed at keeping 1 million girls in school across Africa, Asia and the Middle East, has been axed by the British government just two years after it was announced.The scheme, Strengthening higher education for female empowerment (SHEFE), which was unveiled with some fanfare two years ago by the o",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jul/04/overseas-education-project-for-women-and-girls-axed-by-uk-after-two-years",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-04",
+      "time": "08:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-07-04-c514c3be",
       "headline": "UK woman, 21, arrested in Thailand after allegedly stabbing boyfriend to death",
       "summary": "Officers found body of 34-year-old man in luxury rental home in Pattaya area, local media saysA 21-year-old British woman has been arrested in Thailand after allegedly fatally stabbing her boyfriend, according to local media reports.The Bangkok Post reported that on Thursday morning local time, officers found the body of a 34-year-old man, who operated a cannabis farm, in a luxury rental home in the Pattaya area, a beachside region two hours from",
@@ -644,20 +658,6 @@
       "category": "business",
       "date": "2026-07-04",
       "time": "14:51",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-04-b4a9cbaf",
-      "headline": "Norfolk Island’s unique corals under triple threat from disease, El Niño and now government-approved dredging",
-      "summary": "Exclusive: Most of the island’s corals are likely to be species that have not been formally described by science, researcher saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastScientists fear unique corals that fringe Australia’s remote Norfolk Island could disappear because of a triple threat of disease, El Niño and a federal government plan to dredge a neighbouring shipping chann",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/05/norfolk-islands-unique-corals-under-triple-threat-from-disease-el-nino-and-now-government-approved-dredging",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-07-04",
-      "time": "20:00",
       "conflict_id": null,
       "score": 24.0
     },
