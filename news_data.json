@@ -1,26 +1,26 @@
 {
-  "updated": "2026-07-07T21:48:03.948426+00:00",
-  "story_count": 77,
-  "source_count": 10,
+  "updated": "2026-07-07T22:48:25.546597+00:00",
+  "story_count": 79,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-07-07-989b8d9e",
       "headline": "Trump renews call for US to take over Greenland as he arrives for Nato summit",
-      "summary": "President also threatens to pull all American troops from Europe and rails against Nato stance on Iran war Europe live – latest updatesDonald Trump has revived his bid for the US to acquire Greenland, threatening to pull all American armed forces out of Europe after the continent repeatedly pushed back.Arriving at the Nato summit in Ankara on Tuesday, the US president also suggested his commitment to defending Europe had been tempered by politica",
+      "summary": "President also threatens to pull all American troops from Europe and rails against Nato stance on Iran warDonald Trump has revived his bid for the US to acquire Greenland, threatening to pull all American armed forces out of Europe after the continent repeatedly pushed back.Arriving at the Nato summit in Ankara on Tuesday, the US president also suggested his commitment to defending Europe had been tempered by political decisions by leaders on imm",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/07/trump-renews-call-us-take-over-greenland-nato",
       "region": "EU",
       "country": "America",
       "category": "geopolitics",
       "date": "2026-07-07",
-      "time": "19:02",
+      "time": "21:49",
       "conflict_id": null,
       "score": 65.0
     },
     {
       "id": "2026-07-07-ec405009",
       "headline": "US Strikes Iran and Blocks Oil Sales in New Threats to Ceasefire",
-      "summary": "The US launched fresh airstrikes on Iran and revoked a waiver that allowed it to sell oil globally, further imperiling a peace agreement after a spate of attacks on ships in the Strait of Hormuz.",
+      "summary": "The US launched fresh airstrikes in Iran and revoked a waiver that allowed it to sell oil globally, further imperiling a peace agreement after a series of attacks on ships in the Strait of Hormuz.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-07/us-revokes-waiver-allowing-iran-oil-sales-after-tanker-attacks",
       "region": "NA",
@@ -104,16 +104,30 @@
     {
       "id": "2026-07-07-7c3317c3",
       "headline": "US says strikes launched as explosions heard in southern Iran",
-      "summary": "This is a breaking news story.",
+      "summary": "US strikes in Iran come a day after Qatari, Saudi tankers hit in attacks in Strait of Hormuz.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/7/us-says-strikes-launched-as-explosions-heard-in-southern-iran?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
+      "region": "MENA",
+      "country": "Saudi",
       "category": "geopolitics",
       "date": "2026-07-07",
       "time": "21:21",
       "conflict_id": null,
-      "score": 55.4
+      "score": 56.4
+    },
+    {
+      "id": "2026-07-07-acff7648",
+      "headline": "US launches strikes on Iran after tankers hit in Strait of Hormuz",
+      "summary": "The US Central Command says the strikes are intended to impose \"heavy costs\" on Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwykq59jwpvo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-07",
+      "time": "22:19",
+      "conflict_id": null,
+      "score": 52.0
     },
     {
       "id": "2026-07-07-8b908a4f",
@@ -130,16 +144,30 @@
       "score": 52.0
     },
     {
-      "id": "2026-07-07-bc644957",
-      "headline": "US strikes Iran in response to attacks on tankers",
-      "summary": "Move comes after US Treasury revoked a general licence allowing sales of Islamic republic’s oil in escalation of tensions",
+      "id": "2026-07-07-03f8c738",
+      "headline": "US launches new wave of Iran strikes after attacks on tankers",
+      "summary": "Trump administration also revokes licence allowing Islamic republic’s oil sales, sending crude prices higher",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/c7dac217-4a77-4640-9aa4-17ae7b0d5c0c",
       "region": "NA",
-      "country": "Iran",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-07",
-      "time": "21:28",
+      "time": "22:13",
+      "conflict_id": null,
+      "score": 51.4
+    },
+    {
+      "id": "2026-07-07-6b2f06b0",
+      "headline": "US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz",
+      "summary": "Qatari and Saudi ships among targets near Oman coast",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0a1c6329-2be0-4d7a-b7ab-82f81511bde2",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-07",
+      "time": "20:38",
       "conflict_id": null,
       "score": 51.4
     },
@@ -158,18 +186,32 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-07-6b2f06b0",
-      "headline": "US revokes waiver allowing Iranian oil sales after tanker strikes in Strait of Hormuz",
-      "summary": "Qatari and Saudi ships among targets near Oman coast",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0a1c6329-2be0-4d7a-b7ab-82f81511bde2",
-      "region": "MENA",
-      "country": "Saudi",
+      "id": "2026-07-07-d316ed2a",
+      "headline": "Oil Surges as US Strikes Targets in Iran Following Ship Attacks",
+      "summary": "Oil jumped as the US launched a wave of strikes against Iran in retaliation for a spate of attacks on shipping in the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/latest-oil-market-news-and-analysis-for-july-8",
+      "region": "NA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-07",
-      "time": "20:38",
+      "time": "22:01",
       "conflict_id": null,
-      "score": 50.4
+      "score": 51.1
+    },
+    {
+      "id": "2026-07-07-3a5fa7c5",
+      "headline": "U.S. launches ‘powerful strikes’ against Iran, citing attacks on commercial ships",
+      "summary": "The latest violence followed accusations by Qatar that Iran attacked a tanker ship in the Strait of Hormuz.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/world/2026/07/07/tanker-fire-after-being-struck-strait-hormuz-british-military-says/",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
+      "date": "2026-07-07",
+      "time": "22:23",
+      "conflict_id": null,
+      "score": 49.9
     },
     {
       "id": "2026-07-07-a833b2e8",
@@ -396,18 +438,60 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-07-60e99815",
-      "headline": "Trump signals reversal of Turkey F-35 ban",
-      "summary": "US president strikes friendlier tone with Turkish counterpart than Nato allies",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3994cd63-ff43-4565-af35-3431696a1127",
+      "id": "2026-07-07-6f9a5023",
+      "headline": "Oil Jumps on Iran Attack, Asian Stocks Set to Drop: Markets Wrap",
+      "summary": "Oil surged as the US military said it was carrying out new strikes against Iran. Stocks in Asia were poised to drop for a second day as a selloff in chipmakers rippled across markets.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/oil-jumps-on-iran-attack-asian-stocks-set-to-drop-markets-wrap",
       "region": "NA",
-      "country": "Turkey",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-07-07",
+      "time": "22:10",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-07-9549da15",
+      "headline": "Sumitomo Mitsui Trust Inks $2 Billion Partnership With Morrison",
+      "summary": "Sumitomo Mitsui Trust Bank will take a 15% stake in New Zealand-based infrastructure investor Morrison, as part of a new strategic partnership to provide its Japanese customers access to fresh investment opportunities.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/sumitomo-mitsui-trust-inks-2-billion-partnership-with-morrison",
+      "region": "APJ",
+      "country": "New Zealand",
+      "category": "business",
+      "date": "2026-07-07",
+      "time": "21:58",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-07-ccf44677",
+      "headline": "US Judge Rejects DOJ Subpoena Over 2020 Georgia Election",
+      "summary": "A federal judge rejected an effort by the US Justice Department to obtain information on election workers in Fulton County, Georgia, related to the 2020 vote.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-07/us-judge-rejects-doj-subpoena-related-to-2020-georgia-election",
+      "region": "NA",
+      "country": null,
       "category": "politics",
       "date": "2026-07-07",
-      "time": "15:37",
+      "time": "20:52",
       "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-07-37da6651",
+      "headline": "Maryland Moves Toward Redistricting Ahead of 2028",
+      "summary": "Lawmakers at a special legislative session next month will try to pass an amendment to the state constitution that should ensure new congressional maps survive a legal challenge.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/07/us/politics/maryland-redistricting.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-07-07",
+      "time": "22:20",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-07-07-b839f4e8",
@@ -420,20 +504,6 @@
       "category": "geopolitics",
       "date": "2026-07-07",
       "time": "18:49",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-07-07-bb96f6f5",
-      "headline": "Democrats Clash Over Who Replaces Platner Even Before He Exits",
-      "summary": "Progressives and moderates are gearing up for a fight over an as-yet-undecided process in Maine to name a Senate nominee to replace Graham Platner after a rape accusation. He still wants a say, too.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-replacements-democrats.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-07",
-      "time": "20:23",
       "conflict_id": null,
       "score": 33.2
     },
@@ -478,6 +548,20 @@
       "time": "16:11",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-07-07-890133c8",
+      "headline": "Japan's Sumitomo Mitsui Trust Bank to invest in NZ infrastructure investor",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/japan-s-sumitomo-mitsui-trust-bank-to-invest-in-nz-infrastructure-investor",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-07-07",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-07-07-1264d39e",
@@ -564,20 +648,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-07-441c1e85",
-      "headline": "Tech Rout Deepens as Chipmakers Fall; SpaceX Gets Bullish Calls",
-      "summary": "US technology shares declined on Tuesday after earnings from Samsung Electronics Co. failed to satisfy investors, spurring worries over the durability of this year’s red-hot artificial intelligence trade.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-07/tech-rout-deepens-as-chipmakers-fall-spacex-gets-bullish-calls",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-07",
-      "time": "20:39",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-07-e54f3ca1",
       "headline": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
       "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepetalactone – also has insect-repelling properties but this ",
@@ -588,6 +658,20 @@
       "category": "business",
       "date": "2026-07-07",
       "time": "15:17",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-07-68a602cb",
+      "headline": "Australia news live: major Telstra network outage shuts down Victoria’s regional trains and impacts triple-zero calls",
+      "summary": "Meanwhile leaders from Tonga, Samoa and Papua New Guinea to join Albanese at State of Origin decider. Follow today’s news liveGet our breaking news email, free app or daily news podcastTelstra outage reported to be cause of Victoria train stoppageThere is a long list of cancelled trains on the official V/line site, but the TL/DR is that Victoria’s regional train network has ground to a halt.Due to a radio network fault affecting the network, serv",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/08/anthony-albanese-pacific-diplomacy-state-of-origin-labor-coalition-recession-unemployment-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-07-07",
+      "time": "22:35",
       "conflict_id": null,
       "score": 24.0
     },
@@ -639,20 +723,6 @@
       "summary": "",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/companies/japan-s-mufg-bank-to-tap-ai-satellite-images-for-collateral-appraisals",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-07-07",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-07-890133c8",
-      "headline": "Japan's Sumitomo Mitsui Trust Bank to invest in NZ infrastructure investor",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/business-deals/japan-s-sumitomo-mitsui-trust-bank-to-invest-in-nz-infrastructure-investor",
       "region": "APJ",
       "country": "Japan",
       "category": "business",
@@ -830,20 +900,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-06-ec523093",
-      "headline": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-06",
-      "time": "18:50",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-06-54a94844",
       "headline": "Gold Slumps as Traders Weigh Fed Rate Path After Iran Oil Waiver",
       "summary": "Gold slumped after the US Treasury Department revoked a waiver allowing the sale of Iranian oil, stoking concern that elevated energy prices will prompt the Federal Reserve to raise interest rates.",
@@ -956,20 +1012,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-03-1aea9c44",
-      "headline": "Iran nuclear and military damage revealed after restricted satellite images released",
-      "summary": "Targets hit include ballistic missile infrastructure, nuclear sites, and naval bases.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr5j1qn6deno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-03",
-      "time": "11:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-02-b804478a",
       "headline": "'Two weeks after her death I got a call': Gaza patients face agonising delays for evacuation",
       "summary": "An estimated 300 Palestinians referred for treatment abroad have died since the ceasefire began, according to Gaza's Hamas-run health ministry.",
@@ -1066,20 +1108,6 @@
       "time": "03:53",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-06-30-3b70aa53",
-      "headline": "Donald Trump’s AI regime is opaque, unpredictable—and unsustainable",
-      "summary": "The administration now controls who gets access to the best models",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/06/30/donald-trumps-ai-regime-is-opaque-unpredictable-and-unsustainable",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-06-30",
-      "time": "14:21",
-      "conflict_id": null,
-      "score": 25.8
     }
   ]
 }
