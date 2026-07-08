@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-08T21:55:31.022179+00:00",
-  "story_count": 79,
+  "updated": "2026-07-08T22:53:08.401666+00:00",
+  "story_count": 78,
   "source_count": 10,
   "stories": [
     {
@@ -29,19 +29,19 @@
       "date": "2026-07-08",
       "time": "15:32",
       "conflict_id": "ukraine-war",
-      "score": 70.4
+      "score": 71.4
     },
     {
-      "id": "2026-07-08-5cf4bcf5",
-      "headline": "US says it has launched new strikes on Iran",
-      "summary": "Attacks come after Donald Trump told a Nato summit the ceasefire with Tehran is “over”",
+      "id": "2026-07-08-2ad5ba44",
+      "headline": "US launches second day of strikes against Iran",
+      "summary": "Attacks come hours after Donald Trump told a Nato summit the ceasefire with Tehran is ‘over’",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/f2eba81b-f72e-4866-87c1-944a580ef680",
+      "url": "https://www.ft.com/content/ea2d4977-b1d1-44e4-9645-e6d8cd226439",
       "region": "NA",
       "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-07-08",
-      "time": "20:25",
+      "time": "22:29",
       "conflict_id": null,
       "score": 67.4
     },
@@ -57,7 +57,7 @@
       "date": "2026-07-08",
       "time": "13:37",
       "conflict_id": "ukraine-war",
-      "score": 65.0
+      "score": 66.0
     },
     {
       "id": "2026-07-08-7bdcce34",
@@ -72,20 +72,6 @@
       "time": "19:09",
       "conflict_id": null,
       "score": 62.0
-    },
-    {
-      "id": "2026-07-08-f40c1d21",
-      "headline": "US launches new wave of strikes against Iran after promising to 'hit them hard'",
-      "summary": "Explosions have been reported by Iranian state media in parts of the country's south.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "21:40",
-      "conflict_id": null,
-      "score": 60.0
     },
     {
       "id": "2026-07-08-dae95445",
@@ -200,6 +186,34 @@
       "score": 54.0
     },
     {
+      "id": "2026-07-08-6e1113f5",
+      "headline": "US launches more strikes on Iran with blasts reported in south of country",
+      "summary": "Trump says the attacks are \"retribution for yesterday's bombing of ships by Iran\". Iran earlier promised strong retaliation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "21:40",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
+      "id": "2026-07-08-62e073af",
+      "headline": "Ukraine to get licence to produce Patriot missiles, Trump says",
+      "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "17:18",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
       "id": "2026-07-08-5c9c980b",
       "headline": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
       "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
@@ -212,20 +226,6 @@
       "time": "08:11",
       "conflict_id": null,
       "score": 52.0
-    },
-    {
-      "id": "2026-07-08-7722c603",
-      "headline": "NATO pledges 70 billion euros for Ukraine as Trump praises peace ‘progress’",
-      "summary": "Trump says US will &#039;show&#039; Ukraine how to produce Patriot missile systems during a friendly appearance with Zelenskyy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/8/nato-pledges-70-billion-euros-for-ukraine-as-trump-praises-peace-progress?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "17:24",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
     },
     {
       "id": "2026-07-08-70701f48",
@@ -242,18 +242,32 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-08-62e073af",
-      "headline": "Ukraine to get licence to produce Patriot missiles, Trump says",
-      "summary": "Although the Patriots are highly effective against Russia's ballistic missiles, they also have lengthy production times.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8klree690o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-08-ff748cc2",
+      "headline": "Oil Extends Surge as Fresh US Strikes Against Iran Rattle Market",
+      "summary": "Oil extended a powerful surge as the US struck targets in Iran for a second day, raising risks for energy supplies from the region.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/latest-oil-market-news-and-analysis-for-july-9",
+      "region": "NA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-07-08",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 51.1
+    },
+    {
+      "id": "2026-07-08-12df0eab",
+      "headline": "Trump Says Ukraine Can Make Patriot Missiles",
+      "summary": "American Enterprise Institute Senior Fellow Angela Stent  discusses President Trump's announcement he would allow Ukraine to make its own Patriot Missiles. She says Trump \"sees that Ukraine looks like a winner, that it has cards that the Ukrainians are really fighting back.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-08/trump-says-ukraine-can-make-patriot-missiles",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-08",
-      "time": "17:18",
+      "time": "21:59",
       "conflict_id": null,
-      "score": 51.0
+      "score": 51.1
     },
     {
       "id": "2026-07-08-29586b41",
@@ -433,7 +447,7 @@
       "country": "NATO",
       "category": "politics",
       "date": "2026-07-08",
-      "time": "21:13",
+      "time": "22:10",
       "conflict_id": null,
       "score": 33.2
     },
@@ -447,7 +461,7 @@
       "country": "Australia",
       "category": "geopolitics",
       "date": "2026-07-08",
-      "time": "21:51",
+      "time": "22:39",
       "conflict_id": null,
       "score": 32.0
     },
@@ -494,30 +508,44 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-08-07cabc3d",
-      "headline": "Toyota's Major US Plant Expansion in San Antonio Highlights Strategic Shift",
-      "summary": "Henry Cisneros, former US Department of Housing and Urban Development Secretary and former Mayor of San Antonio, discussed the origins and significance of Toyota's investment in San Antonio. He recounted how Toyota executives chose San Antonio for a new plant after observing the high number of pickup trucks at a Dallas Cowboys game, indicating strong local demand. He speaks with Romaine Bostick & Katie Greifeld on \"The Close.\" (Source: Bloomberg)",
+      "id": "2026-07-08-bfd3b2e1",
+      "headline": "Samsung, SK Hynix and Leveraged ETFs Drive 70% of Korea Trading",
+      "summary": "Retail fervor over leveraged ETFs in South Korea has grown so intense that the products, together with the two chipmaker stocks they track, now make up more than 70% of trading value in the $4.3 trillion market.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-08/former-hud-secretary-on-toyota-s-plant-expansion-video",
-      "region": "NA",
-      "country": null,
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/samsung-sk-hynix-and-leveraged-etfs-drive-70-of-korea-trading",
+      "region": "APJ",
+      "country": "South Korea",
       "category": "business",
       "date": "2026-07-08",
-      "time": "21:50",
+      "time": "22:30",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-07-08-af3c75df",
-      "headline": "Trader Joe's, Lowe's Embrace Mini Mania To Boost Sales",
-      "summary": "Mini mania is sweeping through US retailers as shoppers on a budget love colorful, charming, tiny versions of common products. Bloomberg’s Sunny Kim has more.  (Source: Bloomberg)",
+      "id": "2026-07-08-fe29477f",
+      "headline": "Noteholders to Aston Martin Sign Cooperation Pact Amid Debt Rout",
+      "summary": "A group of creditors to luxury car maker Aston Martin has signed a cooperation pact as earnings pressure weighs on the company’s debt.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-08/trader-joe-s-lowe-s-embrace-mini-mania-to-boost-sales",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/noteholders-to-aston-martin-sign-cooperation-pact-amid-debt-rout",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-08",
-      "time": "21:00",
+      "time": "22:22",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-08-2e53115e",
+      "headline": "Harley-Davidson’s Credit Ratings Get Cut to Junk By S&amp;P",
+      "summary": "S&amp;P Global Ratings cut Harley-Davidson Inc.’s credit grades to junk status on Wednesday, citing the company’s strategy to start selling lower-cost motorcycles to boost revenue.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-08/harley-davidson-s-credit-ratings-get-cut-to-junk-by-s-p",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-08",
+      "time": "22:17",
       "conflict_id": null,
       "score": 26.1
     },
@@ -536,20 +564,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-08-be174547",
-      "headline": "Hyperscaler Debt Is Now a Rates Story",
-      "summary": "When so much supply hits the market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-08/hyperscaler-debt-is-now-a-rates-story",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-08",
-      "time": "20:02",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-08-132cc5db",
       "headline": "Top India Asset Manager Sets Price Range for $1.22 Billion IPO",
       "summary": "SBI Funds Management Ltd.’s biggest investors are seeking to raise as much as 116.9 billion rupees ($1.22 billion) in what’s expected to be India’s first billion-dollar IPO of the year.",
@@ -560,20 +574,6 @@
       "category": "politics",
       "date": "2026-07-08",
       "time": "19:28",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-08-b1ddd519",
-      "headline": "Brazil Energy Firm Origem Is Said to Seek $2.5 Billion Valuation",
-      "summary": "Origem Energia SA, the Brazilian natural gas and oil company, is aiming for an enterprise value of $2 billion to $2.5 billion as it seeks strategic alternatives to raise capital, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-08/brazil-energy-firm-origem-is-said-to-seek-2-5-billion-valuation",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "business",
-      "date": "2026-07-08",
-      "time": "18:12",
       "conflict_id": null,
       "score": 26.1
     },
@@ -697,20 +697,6 @@
       "url": "https://asia.nikkei.com/business/markets/ipo/singapore-hospital-group-makes-market-debut-as-population-ages",
       "region": "APJ",
       "country": "Singapore",
-      "category": "business",
-      "date": "2026-07-08",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-08-ea48629e",
-      "headline": "VinFast rolls out $7,100 EV to tap Vietnam's underpenetrated car market",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/electric-vehicles/vinfast-rolls-out-7-100-ev-to-tap-vietnam-s-underpenetrated-car-market2",
-      "region": "APJ",
-      "country": "Vietnam",
       "category": "business",
       "date": "2026-07-08",
       "time": "",
