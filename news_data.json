@@ -1,22 +1,8 @@
 {
-  "updated": "2026-07-10T21:47:26.501549+00:00",
-  "story_count": 71,
+  "updated": "2026-07-10T22:46:16.353372+00:00",
+  "story_count": 72,
   "source_count": 9,
   "stories": [
-    {
-      "id": "2026-07-10-433437ff",
-      "headline": "Trump Says Iran Ceasefire Over But Talks on Deal to Continue",
-      "summary": "President Donald Trump said the US would continue talks with Iran but considers the ceasefire between the countries to be over.\n“The Islamic Republic of Iran has asked us to continue ‘talks.’ We have agreed to do so, but the United States has stated to them, in no uncertain terms, that the Cease Fire is OVER!,” Trump said Friday on social media. Trita Parsi, Executive Vice President at the Quincy Institute for Responsible Statecraft joined to dis",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/trump-says-iran-ceasefire-over-but-talks-to-continue-video",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "18:46",
-      "conflict_id": null,
-      "score": 59.1
-    },
     {
       "id": "2026-07-10-97f01c55",
       "headline": "Trump says US has agreed to continue talks with Iran",
@@ -29,7 +15,7 @@
       "date": "2026-07-10",
       "time": "16:01",
       "conflict_id": null,
-      "score": 58.4
+      "score": 50.4
     },
     {
       "id": "2026-07-10-3c6a49bb",
@@ -43,21 +29,7 @@
       "date": "2026-07-10",
       "time": "15:16",
       "conflict_id": null,
-      "score": 50.2
-    },
-    {
-      "id": "2026-07-10-df6b486f",
-      "headline": "Trump hints at further Iran negotiations after exchange of fire over Hormuz",
-      "summary": "Iran denies it requested new talks with US as new attacks threaten the full resumption of war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/trump-says-us-has-agreed-to-continue-iran-talks-but-ceasefire-over?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "16:30",
-      "conflict_id": null,
-      "score": 47.4
+      "score": 49.2
     },
     {
       "id": "2026-07-10-d883148b",
@@ -102,20 +74,6 @@
       "score": 42.4
     },
     {
-      "id": "2026-07-10-ef502960",
-      "headline": "Cuba Hit by Second Nationwide Blackout This Week",
-      "summary": "Cuba suffered a nationwide blackout on Friday, the second in less than a week, as the communist-run country grapples with an aging power grid, chronic fuel shortages and US sanctions that have hampered access to fuel and financing.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/cuba-hit-by-second-nationwide-blackout-this-week",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "21:24",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-07-10-c8f4b41b",
       "headline": "SK Hynix Climbs 13% After Record $26.5 Billion US Offering",
       "summary": "SK Hynix Inc. delivered a 13% gain in its debut trading day on a US exchange, after breaking the record for the biggest first-time share sale by a foreign company.",
@@ -156,6 +114,20 @@
       "time": "16:54",
       "conflict_id": "ukraine-war",
       "score": 41.0
+    },
+    {
+      "id": "2026-07-10-8021c981",
+      "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
+      "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-07-10",
+      "time": "05:06",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-07-10-567312d9",
@@ -200,6 +172,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-10-f54b95ec",
+      "headline": "US sends team to Beirut to shore up Israel-Hizbollah ceasefire",
+      "summary": "Lebanese president calls for ‘pressure’ on Israel to start pulling back forces",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c82586af-60ca-476f-9961-f8b6b5e791ff",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "20:36",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-07-10-b7bb384e",
       "headline": "SK Hynix’s US shares jump 13% on Nasdaq debut",
       "summary": "South Korean memory chipmaker’s US-listed stock price rose as high as $177 after pricing at $149",
@@ -212,6 +198,48 @@
       "time": "20:23",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-07-10-eb070ddf",
+      "headline": "SK Hynix Debut Is a Bet That AI Breaks Boom-and-Bust Chip Cycle",
+      "summary": "South Korean memory chipmaker SK Hynix Inc. just pulled off the largest public listing by a foreign company in US market history. Shares soared 13% on their first day of trading.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/sk-hynix-debut-is-a-bet-that-ai-breaks-boom-and-bust-chip-cycle",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-07-10",
+      "time": "21:52",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-10-bb6f5369",
+      "headline": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
+      "summary": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "21:40",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-10-b671712b",
+      "headline": "Insuring Rare and Collectible Cars and Boats: Masters in Business with McKeel Hagerty",
+      "summary": "Barry sits down with with CEO and Chairman of Hagerty, McKeel Hagerty. They discuss how he transformed the the family boat insurance business into a \"sexy\" driver forward business. Barry and McKeel also discuss their love of collectable cars and his love of his first car, a Porsche, that he bought at the age of 13. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/masters-in-business-with-mckeel-hagerty-video",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "21:15",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-10-de460397",
@@ -238,20 +266,6 @@
       "category": "geopolitics",
       "date": "2026-07-10",
       "time": "09:18",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-10-8021c981",
-      "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
-      "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "05:06",
       "conflict_id": null,
       "score": 32.0
     },
@@ -410,6 +424,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-10-206071d5",
+      "headline": "Bloomberg Money 7/10/2026",
+      "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests are: University of Chicago Booth School Professor of Economics and Former Fed Governor Randall Kroszner and NewEdge Wealth CIO Cameron Dawson. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-10/bloomberg-money-7-10-2026-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-10",
+      "time": "22:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-10-f0027b74",
       "headline": "Rhode Island Jail Operator Files Bankruptcy to Cut Bond Debt",
       "summary": "Central Falls Detention Facility Corp., which houses federal detainees including people arrested by the US Immigration and Customs Enforcement agency, filed for bankruptcy saying it cannot afford to keep paying on more than $167 million in bond debt.",
@@ -438,44 +466,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-10-c9ce6802",
-      "headline": "Meta Shares Gain Most Since April 2025 | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Katie Greifeld, Carol Massar and Isabelle Lee. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/meta-shares-gain-most-since-april-2025-closing-bell-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "20:47",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-10-cc51df9d",
-      "headline": "US Stock Futures Slip After Tech Rally, SK Hynix Starts Trading",
-      "summary": "US equities posted gains for a second consecutive week, even as investors digested the record US listing of South Korea’s SK Hynix Inc. and renewed tensions in Iran ahead of second-quarter earnings.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/us-stock-futures-slip-after-tech-rally-sk-hynix-starts-trading",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "11:53",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-10-0b156099",
       "headline": "Graham Platner Files Paperwork to Withdraw From Maine Senate Race",
-      "summary": "The move paved the way for the party to choose a new nominee to challenge Senator Susan Collins in a race both parties see as key to the control of the Senate.",
+      "summary": "The move paved the way for Democrats to choose a new nominee to challenge Senator Susan Collins in a race both parties see as key to the control of the Senate.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/10/us/politics/graham-platner-maine-senate-withdraw.html",
       "region": "EU",
       "country": "Senate",
       "category": "politics",
       "date": "2026-07-10",
-      "time": "20:52",
+      "time": "21:48",
       "conflict_id": null,
       "score": 25.2
     },
@@ -508,6 +508,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-07-10-569d3560",
+      "headline": "Under Lula, Amazon deforestation falls to lowest level in a decade",
+      "summary": "The figures come months before Brazil’s presidential election, with Lula promising to end illegal deforestation by 2030.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-07-10",
+      "time": "22:36",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-07-10-44b44c42",
       "headline": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
       "summary": "The hostages were taken from three separate schools in the southwestern state of Oyo in May.",
@@ -522,18 +536,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-10-408bb16d",
-      "headline": "Ruthless Zverev spoils Fery’s Wimbledon dream to power into final",
-      "summary": "Alexander Zverev will face reigning Wimbledon champion Jannik Sinner or seven-time winner Novak ​Djokovic in the final.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/10/ruthless-zverev-spoils-ferys-wimbledon-dream-to-power-into-final?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
+      "id": "2026-07-10-9d9f9554",
+      "headline": "Marubeni gears up for machine tool growth in India as chips, data centers boom",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/companies/marubeni-gears-up-for-machine-tool-growth-in-india-as-chips-data-centers-boom",
+      "region": "SA",
+      "country": "India",
       "category": "business",
       "date": "2026-07-10",
-      "time": "16:20",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-07-10-de130a12",
@@ -662,20 +676,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-07-08-dad824b5",
-      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "15:30",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-07-08-5c9c980b",
       "headline": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
       "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
@@ -714,6 +714,20 @@
       "category": "geopolitics",
       "date": "2026-07-08",
       "time": "05:05",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-08-dad824b5",
+      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "15:30",
       "conflict_id": null,
       "score": 35.0
     },
@@ -914,20 +928,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-06-419b060e",
-      "headline": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
-      "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in JanuaryCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said.The impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the already dwindling supply of fuel for Cuba’s power pla",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-06",
-      "time": "19:30",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-07-06-4b8911a3",
       "headline": "Canada to buy 12 hi-tech German submarines after bidding war",
       "summary": "TKMS beats South Korean rival to multibillion-dollar contract that will deepen Canada’s Nato tiesCanada has selected a German consortium to build a dozen cutting-edge submarines in one of the country’s largest-ever defence contracts that will further deepen its Nato ties before a crucial summit this week.On Monday the prime minister, Mark Carney, announced the winner of a tightly contested battle for the lucrative government contract to replace i",
@@ -954,6 +954,20 @@
       "time": "18:50",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-06-419b060e",
+      "headline": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+      "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in JanuaryCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said.The impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the already dwindling supply of fuel for Cuba’s power pla",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-06",
+      "time": "19:30",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-07-05-3e8cf513",
