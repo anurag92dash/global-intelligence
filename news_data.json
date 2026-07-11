@@ -1,8 +1,36 @@
 {
-  "updated": "2026-07-11T15:11:27.236351+00:00",
-  "story_count": 72,
-  "source_count": 8,
+  "updated": "2026-07-11T16:07:40.042348+00:00",
+  "story_count": 74,
+  "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-11-70b023f9",
+      "headline": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
+      "summary": "Ukraine woke to fresh destruction on 11 July after Russia launched overnight strikes on Kyiv, leaving at least 10 people injured, including a child, according to Ukrainian officials.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "08:44",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-07-11-2124f920",
+      "headline": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
+      "summary": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "08:53",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
+    },
     {
       "id": "2026-07-11-80f23c8b",
       "headline": "Hormuz Dispute Clouds US Iran Diplomacy",
@@ -18,18 +46,18 @@
       "score": 58.1
     },
     {
-      "id": "2026-07-11-2124f920",
-      "headline": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
-      "summary": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+      "id": "2026-07-11-33976cf5",
+      "headline": "Russian missile strikes on Kyiv injure at least 11",
+      "summary": "According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/11/russian-missile-strikes-on-kyiv-injure-at-least-10",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "08:53",
+      "time": "06:57",
       "conflict_id": "ukraine-war",
-      "score": 51.4
+      "score": 57.0
     },
     {
       "id": "2026-07-11-c0f11013",
@@ -69,7 +97,7 @@
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "14:08",
+      "time": "15:45",
       "conflict_id": null,
       "score": 43.0
     },
@@ -130,6 +158,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-07-11-55ba87e0",
+      "headline": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
+      "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "09:41",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-07-11-424055be",
       "headline": "How a fake presidential council ended up with a budget of almost $1m in Nigeria",
       "summary": "The government says it was set up with a forged letter of appointment but others say there is more to it.",
@@ -156,34 +198,6 @@
       "time": "12:00",
       "conflict_id": null,
       "score": 34.4
-    },
-    {
-      "id": "2026-07-11-8a49a7c6",
-      "headline": "Can the Tax System Keep Up with Trillionaires?",
-      "summary": "Elon Musk has become the world’s first trillionaire following SpaceX’s record-breaking IPO, creating a fortune unlike anything seen in modern history. Nobel Laureate Paul Krugman and Yale economist Natasha Sarin argue the milestone is about far more than one entrepreneur’s wealth&mdash;it reflects how today’s economy rewards ownership of rapidly-appreciating assets, and exposes the limits of a tax system designed more than a century ago. Bloomber",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-11/can-the-tax-system-keep-up-with-trillionaires-video",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "14:03",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-11-cbdd0eb4",
-      "headline": "Hormuz Reopening Faces Costly Hurdles",
-      "summary": "Senior Fellow at the Council on Foreign Relations Clara Gillespie says Gulf energy flows face an uncertain recovery as producers work to clear ships, bring in tankers, restart halted output and repair damage to refineries, LNG facilities and ports. She says the Strait of Hormuz remains unstable, with shipping still below prewar levels and US pressure on Iran complicating efforts to restore safe passage. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-11/hormuz-reopening-faces-costly-hurdles-video",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "13:57",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-07-11-350cb032",
@@ -268,6 +282,48 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-07-11-783627ff",
+      "headline": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
+      "summary": "A spokesperson for OpenAI said in a statement: \"We have no interest in other companies' trade secrets.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/next/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets-heres-what-to-know",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-11",
+      "time": "11:34",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-07-11-e8c797e3",
+      "headline": "Police rescue cashier after 11-hour hostage standoff at Berlin supermarket",
+      "summary": "Staff members who were in the supermarket at the time of the incident were able to leave the building unharmed and are being attended to by emergency services.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/11/police-surround-berlin-supermarket-after-woman-taken-hostage",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-11",
+      "time": "07:25",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-07-11-1cfc230b",
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-11",
+      "time": "15:40",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-11-97928ff8",
@@ -368,20 +424,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-11-0b156099",
-      "headline": "Graham Platner Files Paperwork to Withdraw From Maine Senate Race",
-      "summary": "The move paved the way for Democrats to choose a new nominee to challenge Senator Susan Collins in a race both parties see as key to the control of the Senate.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/graham-platner-maine-senate-withdraw.html",
-      "region": "EU",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-11",
-      "time": "01:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-11-d7bf2222",
       "headline": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
       "summary": "Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.",
@@ -466,6 +508,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-07-11-c6c0abcd",
+      "headline": "Spain fans celebrate World Cup semi-final place after Belgium win",
+      "summary": "Spain celebrated a dramatic 2-1 victory over Belgium on 10 July as fans filled Madrid to cheer La Roja into the FIFA World Cup semi-finals.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/11/spain-fans-celebrate-world-cup-semi-final-place-after-belgium-win",
+      "region": "EU",
+      "country": "Belgium",
+      "category": "business",
+      "date": "2026-07-11",
+      "time": "06:55",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-07-10-af8dc78a",
       "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
       "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
@@ -478,6 +534,20 @@
       "time": "13:40",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-07-10-afc4a821",
+      "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "22:54",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-07-10-dd07be54",
@@ -522,20 +592,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-10-afc4a821",
-      "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "22:54",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-10-c00b5e40",
       "headline": "China lands reusable rocket for first time, state media says",
       "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
@@ -578,34 +634,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-07-10-bb6f5369",
-      "headline": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
-      "summary": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "21:40",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-10-de460397",
-      "headline": "An Aging Assassin Was Caught by ICE. Will the U.S. Deport Him?",
-      "summary": "He helped plot a car bombing in Washington that killed two people in 1976. Fifty years later, old government secrets could decide his fate.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/assassin-caught-by-ice-chile.html",
-      "region": "NA",
-      "country": "Washington",
-      "category": "politics",
-      "date": "2026-07-10",
-      "time": "17:14",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-07-10-7327ae4d",
       "headline": "Fast-spreading wildfire kills at least 12 in southern Spain",
       "summary": "Twenty-three people missing and four Britons thought to be among those who died trying to flee Almería blaze‘I had an incredible escape’: British woman tells of close encounter with wildfireAt least 12 people have been killed and 23 are unaccounted for after one of Spain’s deadliest wildfires broke out in the south-eastern province of Almería as the country endures its second heatwave of the summer.The regional government of Andalucía said the vi",
@@ -618,6 +646,20 @@
       "time": "17:06",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-07-10-dee7de74",
+      "headline": "Georgia left off NATO summit partner list as critics decry isolation",
+      "summary": "The Georgian government is facing accusations of international isolation after not being invited to the NATO summit in Turkey, the first time a key partner has been excluded from the alliance's agenda.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/10/georgia-left-off-nato-summit-partner-list-as-critics-decry-isolation",
+      "region": "EU",
+      "country": "Turkey",
+      "category": "politics",
+      "date": "2026-07-10",
+      "time": "19:36",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-07-10-6da3c465",
@@ -660,20 +702,6 @@
       "time": "22:00",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-07-10-4fc8a88a",
-      "headline": "Why pay a premium fee for a service that isn’t? How the nationwide outage could hurt Telstra",
-      "summary": "The telco has long banked on its reputation as having the most stable, widest mobile telco coverage. That is now badly dentedFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastTelstra has long profited from its reputation of having the largest and most stable mobile telco coverage in Australia, allowing it to charge premium prices.When its main rival, Optus, suffered a series of operat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/11/why-pay-a-premium-fee-for-a-service-that-isnt-how-the-nationwide-outage-could-hurt-telstra",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-07-09-efdc81dd",
@@ -757,6 +785,20 @@
       "date": "2026-07-08",
       "time": "18:05",
       "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-07-08-30d6243a",
+      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "05:05",
+      "conflict_id": null,
       "score": 43.0
     },
     {
@@ -788,16 +830,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-08-30d6243a",
-      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+      "id": "2026-07-08-dad824b5",
+      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-08",
-      "time": "05:05",
+      "time": "15:30",
       "conflict_id": null,
       "score": 35.0
     },
@@ -910,20 +952,6 @@
       "category": "politics",
       "date": "2026-07-07",
       "time": "18:03",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-07-46b58d21",
-      "headline": "Mbappe condemns racist posts from Paraguay senator",
-      "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-07-07",
-      "time": "08:51",
       "conflict_id": null,
       "score": 35.0
     },
