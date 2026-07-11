@@ -1,8 +1,50 @@
 {
-  "updated": "2026-07-11T08:25:12.703766+00:00",
-  "story_count": 78,
+  "updated": "2026-07-11T09:53:35.022038+00:00",
+  "story_count": 76,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-11-33976cf5",
+      "headline": "Russian missile strikes on Kyiv injure at least 11",
+      "summary": "According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/11/russian-missile-strikes-on-kyiv-injure-at-least-10",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "06:57",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-07-11-ad47c703",
+      "headline": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
+      "summary": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "08:04",
+      "conflict_id": null,
+      "score": 63.4
+    },
+    {
+      "id": "2026-07-11-70b023f9",
+      "headline": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
+      "summary": "Ukraine woke to fresh destruction on 11 July after Russia launched overnight strikes on Kyiv, leaving at least 10 people injured, including a child, according to Ukrainian officials.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "08:44",
+      "conflict_id": "ukraine-war",
+      "score": 57.0
+    },
     {
       "id": "2026-07-11-3c6a49bb",
       "headline": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
@@ -18,18 +60,32 @@
       "score": 49.2
     },
     {
-      "id": "2026-07-11-33976cf5",
-      "headline": "Russian missile strikes on Kyiv injure at least 11",
-      "summary": "According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/11/russian-missile-strikes-on-kyiv-injure-at-least-10",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-07-11-8acef59c",
+      "headline": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
+      "summary": "US president says orders given to &#039;decimate and destroy all areas of Iran&#039; if he is assassinated",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "06:57",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-07-11-2ae79f25",
+      "headline": "Trump threatens to 'completely decimate' Iran, a day after agreeing to more talks",
+      "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "09:41",
+      "conflict_id": null,
+      "score": 46.0
     },
     {
       "id": "2026-07-11-878a79a9",
@@ -46,6 +102,20 @@
       "score": 42.4
     },
     {
+      "id": "2026-07-11-4e876a83",
+      "headline": "Russian missile attacks wound 11 in Kyiv",
+      "summary": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "08:53",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-07-11-6c88980e",
       "headline": "Are the US and Iran at war again?",
       "summary": "Iranian leaders say they’ll never surrender and US President Donald Trump says the ceasefire is ‘over&#039;.",
@@ -56,20 +126,6 @@
       "category": "geopolitics",
       "date": "2026-07-11",
       "time": "04:51",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-11-8acef59c",
-      "headline": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-      "summary": "US president says orders given to &#039;decimate and destroy all areas of Iran&#039; if he is assassinated",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "00:00",
       "conflict_id": null,
       "score": 39.4
     },
@@ -100,6 +156,34 @@
       "time": "00:46",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-11-e8cbc7aa",
+      "headline": "Eni’s Descalzi Says Energy Crisis May Worsen in Short Term: Sole",
+      "summary": "The global energy situation could deteriorate further as oil inventories decline and competition for supplies intensifies, Eni SpA’s Chief Executive Officer Claudio Descalzi told Italian daily Il Sole 24 Ore.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/eni-s-descalzi-says-energy-crisis-may-worsen-in-short-term-sole",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-11",
+      "time": "08:45",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-11-651db765",
+      "headline": "Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women",
+      "summary": "The collapse of Graham Platner’s Senate bid in Maine after a rape allegation renewed attention to a movement built by Senator Bernie Sanders that some say is too forgiving of male misconduct.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html",
+      "region": "EU",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-11",
+      "time": "09:02",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-07-11-8a2ffd45",
@@ -228,20 +312,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-11-752f48a5",
-      "headline": "What’s really going on with mental health?",
-      "summary": "Changing terminology risks misleading policymakers and harming those in most need",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/063b7eed-3f13-43d4-8f12-ff6439b825e8",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-11",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-07-11-d0257933",
       "headline": "India, NZ Plan Strategic Partnership Including Maritime Security",
       "summary": "India and New Zealand will elevate their relationship to a “strategic partnership,” as both seek closer trade and security ties.",
@@ -326,18 +396,18 @@
       "score": 21.0
     },
     {
-      "id": "2026-07-10-8021c981",
-      "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
-      "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+      "id": "2026-07-10-97f01c55",
+      "headline": "Trump says US has agreed to continue talks with Iran",
+      "summary": "President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
       "region": "NA",
-      "country": "South Korea",
-      "category": "business",
+      "country": "Tehran",
+      "category": "geopolitics",
       "date": "2026-07-10",
-      "time": "05:06",
+      "time": "23:43",
       "conflict_id": null,
-      "score": 48.0
+      "score": 50.4
     },
     {
       "id": "2026-07-10-afc4a821",
@@ -352,20 +422,6 @@
       "time": "22:54",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-07-10-97f01c55",
-      "headline": "Trump says US has agreed to continue talks with Iran",
-      "summary": "President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "23:43",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-07-10-dd07be54",
@@ -394,6 +450,20 @@
       "time": "16:54",
       "conflict_id": "ukraine-war",
       "score": 41.0
+    },
+    {
+      "id": "2026-07-10-8021c981",
+      "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
+      "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-07-10",
+      "time": "05:06",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-07-10-af8dc78a",
@@ -448,48 +518,6 @@
       "category": "business",
       "date": "2026-07-10",
       "time": "21:52",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-10-bb6f5369",
-      "headline": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
-      "summary": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "21:40",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-10-b671712b",
-      "headline": "Insuring Rare and Collectible Cars and Boats: Masters in Business with McKeel Hagerty",
-      "summary": "Barry sits down with with CEO and Chairman of Hagerty, McKeel Hagerty. They discuss how he transformed the the family boat insurance business into a \"sexy\" driver forward business. Barry and McKeel also discuss their love of collectable cars and his love of his first car, a Porsche, that he bought at the age of 13. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-10/masters-in-business-with-mckeel-hagerty-video",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "21:15",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-10-93778255",
-      "headline": "US Stocks Post Second Week of Gains; SK Hynix Jumps on Debut",
-      "summary": "US equities posted gains for a second consecutive week, even as investors digested the record US listing of South Korea’s SK Hynix Inc. and renewed tensions in Iran ahead of second-quarter earnings.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-10/us-stock-futures-slip-after-tech-rally-sk-hynix-starts-trading",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "11:53",
       "conflict_id": null,
       "score": 34.1
     },
@@ -690,34 +718,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-10-569d3560",
-      "headline": "Under Lula, Amazon deforestation falls to lowest level in a decade",
-      "summary": "The figures come months before Brazil’s presidential election, with Lula promising to end illegal deforestation by 2030.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/under-lula-amazon-deforestation-falls-to-lowest-level-in-a-decade?traffic_source=rss",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-07-10",
-      "time": "22:36",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-10-44b44c42",
-      "headline": "Dozens of abducted schoolchildren and teachers rescued in Nigeria",
-      "summary": "The hostages were taken from three separate schools in the southwestern state of Oyo in May.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/dozens-of-abducted-schoolchildren-and-teachers-rescued-in-nigeria?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "21:01",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-07-09-efdc81dd",
       "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
       "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
@@ -760,20 +760,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-09-c99d96b5",
-      "headline": "What's next for Iran after the funeral of their late supreme leader?",
-      "summary": "The BBC's chief international correspondent looks at how Iran's new leadership will respond to several issues affecting the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c4gym0r7kj1o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-09",
-      "time": "20:16",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-09-ee28119e",
       "headline": "Big fall in oil, gas and cargo ships taking US-backed Hormuz route after new strikes",
       "summary": "Data shows a decline in the number of ships - many carrying oil and gas - going through the waterway after attacks this week.",
@@ -813,7 +799,35 @@
       "date": "2026-07-08",
       "time": "18:05",
       "conflict_id": null,
-      "score": 59.0
+      "score": 68.0
+    },
+    {
+      "id": "2026-07-08-dad824b5",
+      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "15:30",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-07-08-30d6243a",
+      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "05:05",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-07-08-5c9c980b",
@@ -840,34 +854,6 @@
       "category": "politics",
       "date": "2026-07-08",
       "time": "14:41",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-08-30d6243a",
-      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "05:05",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-08-dad824b5",
-      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "15:30",
       "conflict_id": null,
       "score": 35.0
     },
@@ -980,20 +966,6 @@
       "category": "politics",
       "date": "2026-07-07",
       "time": "18:03",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-07-46b58d21",
-      "headline": "Mbappe condemns racist posts from Paraguay senator",
-      "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-07-07",
-      "time": "08:51",
       "conflict_id": null,
       "score": 35.0
     },
