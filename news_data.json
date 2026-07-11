@@ -1,36 +1,8 @@
 {
-  "updated": "2026-07-11T11:40:22.858624+00:00",
-  "story_count": 76,
+  "updated": "2026-07-11T12:37:24.239886+00:00",
+  "story_count": 75,
   "source_count": 9,
   "stories": [
-    {
-      "id": "2026-07-11-33976cf5",
-      "headline": "Russian missile strikes on Kyiv injure at least 11",
-      "summary": "According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/11/russian-missile-strikes-on-kyiv-injure-at-least-10",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "06:57",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
-    },
-    {
-      "id": "2026-07-11-ad47c703",
-      "headline": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
-      "summary": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "08:04",
-      "conflict_id": null,
-      "score": 63.4
-    },
     {
       "id": "2026-07-11-70b023f9",
       "headline": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
@@ -43,35 +15,77 @@
       "date": "2026-07-11",
       "time": "08:44",
       "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-07-11-2124f920",
+      "headline": "Russian missile and drone barrage kills two and wounds 19 in Ukraine",
+      "summary": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "08:53",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
+    },
+    {
+      "id": "2026-07-11-33976cf5",
+      "headline": "Russian missile strikes on Kyiv injure at least 11",
+      "summary": "According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/11/russian-missile-strikes-on-kyiv-injure-at-least-10",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "06:57",
+      "conflict_id": "ukraine-war",
       "score": 57.0
     },
     {
-      "id": "2026-07-11-3c6a49bb",
-      "headline": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
-      "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-07-11-c0f11013",
+      "headline": "China prepares as Typhoon Bavi leaves Taiwan",
+      "summary": "China prepares as Typhoon Bavi leaves Taiwan",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/11/china-prepares-as-typhoon-bavi-leaves-taiwan?traffic_source=rss",
+      "region": "APJ",
+      "country": "Taiwan",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "03:48",
+      "time": "12:17",
       "conflict_id": null,
-      "score": 49.2
+      "score": 47.4
     },
     {
-      "id": "2026-07-11-55ba87e0",
-      "headline": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
-      "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-07-11-c9aa4b94",
+      "headline": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "summary": "Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+      "region": "APJ",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "09:41",
+      "time": "09:32",
       "conflict_id": null,
-      "score": 46.0
+      "score": 47.4
+    },
+    {
+      "id": "2026-07-11-c8ae9b78",
+      "headline": "China braced for second typhoon in a week as Bavi approaches landfall",
+      "summary": "Hundreds of thousands of people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "12:06",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-07-11-878a79a9",
@@ -88,30 +102,30 @@
       "score": 42.4
     },
     {
-      "id": "2026-07-11-c9aa4b94",
-      "headline": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
-      "summary": "Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
-      "region": "APJ",
-      "country": "China",
+      "id": "2026-07-11-3c6a49bb",
+      "headline": "Trump Says Negotiations With Iran Will Continue as U.S. Ramps Up Strikes",
+      "summary": "U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "09:32",
+      "time": "03:48",
       "conflict_id": null,
-      "score": 39.4
+      "score": 41.2
     },
     {
-      "id": "2026-07-11-4e876a83",
-      "headline": "Russian missile attacks wound 11 in Kyiv",
-      "summary": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+      "id": "2026-07-11-9ea90c66",
+      "headline": "Trump trades threats with Iran’s leader as mediators struggle to save talks",
+      "summary": "US president warns the US will decimate Iran amid alleged assassination plots as regional mediators try to save MoU.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
+      "url": "https://www.aljazeera.com/news/2026/7/11/trump-threatens-iran-after-chants-for-his-death-erupted-at-khamenei-funeral?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "08:53",
+      "time": "08:04",
       "conflict_id": null,
       "score": 39.4
     },
@@ -130,18 +144,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-11-694132dd",
-      "headline": "Iran war live: Khamenei says revenge for predecessor’s killing ‘inevitable’",
-      "summary": "US president says orders given to &#039;decimate and destroy all areas of Iran&#039; if he is assassinated",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "id": "2026-07-11-55ba87e0",
+      "headline": "Trump threatens to 'completely decimate' Iran, a day after claiming talks to take place",
+      "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
       "region": "NA",
-      "country": "Iran",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "00:00",
+      "time": "09:41",
       "conflict_id": null,
-      "score": 39.4
+      "score": 37.0
     },
     {
       "id": "2026-07-11-536e5730",
@@ -153,7 +167,7 @@
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "04:56",
+      "time": "11:42",
       "conflict_id": null,
       "score": 35.0
     },
@@ -170,6 +184,20 @@
       "time": "00:46",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-11-fd04abb7",
+      "headline": "Democrats’ strategic misfires laid bare by Platner’s implosion in Maine",
+      "summary": "The party faces a void in its bid to reclaim the Senate after missing warning signs about a flawed candidate",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/76ca7934-189a-4207-89a2-cf060b87f56b",
+      "region": "NA",
+      "country": "Senate",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-07-11-e8cbc7aa",
@@ -266,20 +294,6 @@
       "category": "business",
       "date": "2026-07-11",
       "time": "07:25",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-07-11-46b8dece",
-      "headline": "Japanese school teaches children how to stay safe around wild bears",
-      "summary": "Children at a primary school in central Japan are taking part in a bear awareness programme, learning how to safely coexist with wild bears as sightings remain common in the area.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/11/japanese-school-teaches-children-how-to-stay-safe-around-wild-bears",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "04:20",
       "conflict_id": null,
       "score": 29.0
     },
@@ -438,18 +452,18 @@
       "score": 21.0
     },
     {
-      "id": "2026-07-10-97f01c55",
-      "headline": "Trump says US has agreed to continue talks with Iran",
-      "summary": "President calls on Tehran to declare they will stop any attacks in the Strait of Hormuz",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b04aea1d-cd15-4e4e-ac8e-d39be1f542a9",
-      "region": "NA",
-      "country": "Tehran",
+      "id": "2026-07-10-af8dc78a",
+      "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
+      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Taiwan",
       "category": "geopolitics",
       "date": "2026-07-10",
-      "time": "23:43",
+      "time": "13:40",
       "conflict_id": null,
-      "score": 50.4
+      "score": 51.0
     },
     {
       "id": "2026-07-10-afc4a821",
@@ -462,20 +476,6 @@
       "category": "geopolitics",
       "date": "2026-07-10",
       "time": "22:54",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-10-af8dc78a",
-      "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "13:40",
       "conflict_id": null,
       "score": 43.0
     },
@@ -508,6 +508,20 @@
       "score": 41.0
     },
     {
+      "id": "2026-07-10-007747ae",
+      "headline": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+      "summary": "Eleven reported dead as flooding also brings danger of snakes, while buildings collapse in Mumbai amid heavy rain As the first typhoon to make landfall in China for the 2026 season, Maysak has caused devastating damage in southern and central regions. The Guangxi region received intense downpours of up to 280mm in 12 hours, causing rivers to swell and dam walls to break. By Monday morning, flooding across the city of Nanning and surrounding areas",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "09:18",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-07-10-8021c981",
       "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
       "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
@@ -520,20 +534,6 @@
       "time": "05:06",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-10-c00b5e40",
-      "headline": "China lands reusable rocket for first time, state media says",
-      "summary": "It follows similar landings of reusable rockets by US-owned companies SpaceX and Blue Origin.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2rmmx86pdo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "06:44",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-10-33d8019d",
@@ -564,6 +564,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-07-10-bb6f5369",
+      "headline": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
+      "summary": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "21:40",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-10-de460397",
       "headline": "An Aging Assassin Was Caught by ICE. Will the U.S. Deport Him?",
       "summary": "He helped plot a car bombing in Washington that killed two people in 1976. Fifty years later, old government secrets could decide his fate.",
@@ -576,20 +590,6 @@
       "time": "17:14",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-07-10-007747ae",
-      "headline": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
-      "summary": "Eleven reported dead as flooding also brings danger of snakes, while buildings collapse in Mumbai amid heavy rain As the first typhoon to make landfall in China for the 2026 season, Maysak has caused devastating damage in southern and central regions. The Guangxi region received intense downpours of up to 280mm in 12 hours, causing rivers to swell and dam walls to break. By Monday morning, flooding across the city of Nanning and surrounding areas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "09:18",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-07-10-7327ae4d",
@@ -630,20 +630,6 @@
       "category": "politics",
       "date": "2026-07-10",
       "time": "23:03",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-10-4c0d1c68",
-      "headline": "East Asia braces for destructive typhoon as landslides kill 15 in Philippines",
-      "summary": "Heading for Taiwan and south-eastern China, the 1,000 km-wide Bavi is forecast to be one of the strongest storms in decades.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c04y6wr03gxo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Philippines",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "13:53",
       "conflict_id": null,
       "score": 27.0
     },
@@ -785,21 +771,7 @@
       "date": "2026-07-08",
       "time": "18:05",
       "conflict_id": null,
-      "score": 67.0
-    },
-    {
-      "id": "2026-07-08-dad824b5",
-      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "15:30",
-      "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-07-08-30d6243a",
@@ -844,6 +816,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-08-dad824b5",
+      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
+      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "15:30",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-08-accc9e77",
       "headline": "A mountain of rubbish in Indonesia has been on fire for more than a week",
       "summary": "Environmental activists say the blaze is a symptom of the country's growing waste crisis.",
@@ -882,6 +868,20 @@
       "category": "politics",
       "date": "2026-07-08",
       "time": "10:56",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-08-eafe590b",
+      "headline": "Are Argentina being treated favourably at World Cup?",
+      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Argentina",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "15:37",
       "conflict_id": null,
       "score": 35.0
     },
@@ -956,34 +956,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-07-20293f97",
-      "headline": "Resistance and revenge - Iran wanted to send a message with its farewell to Khamenei",
-      "summary": "Three days of public mourning in Tehran was a political spectacle Iran's leaders wanted the world to see, writes the BBC's international correspondent Lyse Doucet.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07yy3j3nljo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-07",
-      "time": "00:46",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-07-e54f3ca1",
-      "headline": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
-      "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepetalactone – also has insect-repelling properties but this ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/07/catnip-lotion-as-effective-as-deet-at-repelling-mosquitoes-study-finds",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-07",
-      "time": "15:17",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-07-06-792b1194",
       "headline": "Russian attack leaves gaping hole in Kyiv residential building",
       "summary": "The BBC's Sarah Rainsford is at the scene of one of the blasts to hit Ukraine's capital overnight.",
@@ -1022,6 +994,20 @@
       "category": "geopolitics",
       "date": "2026-07-06",
       "time": "18:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-06-7c4ee058",
+      "headline": "Israeli police officer filmed throwing stun grenade into car in West Bank",
+      "summary": "Israel's police force says the officer acted \"not in accordance with procedure\" and that it has opened an investigation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-06",
+      "time": "18:52",
       "conflict_id": null,
       "score": 35.0
     },
