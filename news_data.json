@@ -1,22 +1,8 @@
 {
-  "updated": "2026-07-11T09:53:35.022038+00:00",
-  "story_count": 76,
-  "source_count": 9,
+  "updated": "2026-07-11T10:50:16.376824+00:00",
+  "story_count": 74,
+  "source_count": 8,
   "stories": [
-    {
-      "id": "2026-07-11-33976cf5",
-      "headline": "Russian missile strikes on Kyiv injure at least 11",
-      "summary": "According to the Ukrainian air force, Russia launched six Iskander ballistic missiles, four Kh-59/69 cruise missiles, two Kh-31 anti-radiation missiles, and 121 attack drones at Ukraine overnight.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/11/russian-missile-strikes-on-kyiv-injure-at-least-10",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "06:57",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
-    },
     {
       "id": "2026-07-11-ad47c703",
       "headline": "Trump threatens Iran after chants for his death erupted at Khamenei funeral",
@@ -29,21 +15,7 @@
       "date": "2026-07-11",
       "time": "08:04",
       "conflict_id": null,
-      "score": 63.4
-    },
-    {
-      "id": "2026-07-11-70b023f9",
-      "headline": "War in Ukraine: Kyiv hit by Russian ballistic missiles and drone swarm, 10 injured",
-      "summary": "Ukraine woke to fresh destruction on 11 July after Russia launched overnight strikes on Kyiv, leaving at least 10 people injured, including a child, according to Ukrainian officials.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/11/war-in-ukraine-kyiv-hit-by-russian-ballistic-missiles-and-drone-swarm-10-injured",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "08:44",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
+      "score": 55.4
     },
     {
       "id": "2026-07-11-3c6a49bb",
@@ -60,34 +32,6 @@
       "score": 49.2
     },
     {
-      "id": "2026-07-11-8acef59c",
-      "headline": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
-      "summary": "US president says orders given to &#039;decimate and destroy all areas of Iran&#039; if he is assassinated",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-07-11-2ae79f25",
-      "headline": "Trump threatens to 'completely decimate' Iran, a day after agreeing to more talks",
-      "summary": "\"1,000 missiles are locked and loaded and aimed at the Islamic Republic of Iran,\" Trump wrote on social media.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/11/trump-threatens-to-completely-decimate-iran-a-day-after-agreeing-to-more-talks",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "09:41",
-      "conflict_id": null,
-      "score": 46.0
-    },
-    {
       "id": "2026-07-11-878a79a9",
       "headline": "Europe’s slow electrification is a ‘major mistake’, warns IEA chief",
       "summary": "Fatih Birol says EU should have moved faster to achieve energy independence after 2022 gas crisis",
@@ -102,16 +46,16 @@
       "score": 42.4
     },
     {
-      "id": "2026-07-11-4e876a83",
-      "headline": "Russian missile attacks wound 11 in Kyiv",
-      "summary": "In the latest salvo in one of the war&#039;s deadliest months, Russia hits Kyiv with ballistic missiles and 121 drones.",
+      "id": "2026-07-11-c9aa4b94",
+      "headline": "Hundreds of thousands evacuated as Typhoon Bavi barrels towards China",
+      "summary": "Super Typhoon Bavi has been downgraded but is still dangerous, meteorologists say.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/russian-missile-attacks-wound-11-in-kyiv?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
+      "url": "https://www.aljazeera.com/news/2026/7/11/hundreds-of-thousands-evacuated-as-typhoon-bavi-barrels-towards-china?traffic_source=rss",
+      "region": "APJ",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "08:53",
+      "time": "09:32",
       "conflict_id": null,
       "score": 39.4
     },
@@ -126,6 +70,20 @@
       "category": "geopolitics",
       "date": "2026-07-11",
       "time": "04:51",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-07-11-8acef59c",
+      "headline": "Iran war live: Trump threatens to ‘decimate’ Iran if it tries to kill him",
+      "summary": "US president says orders given to &#039;decimate and destroy all areas of Iran&#039; if he is assassinated",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/11/iran-war-live-us-demands-iran-publicly-state-strait-of-hormuz-open-for-all?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-11",
+      "time": "00:00",
       "conflict_id": null,
       "score": 39.4
     },
@@ -228,34 +186,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-11-e8c797e3",
-      "headline": "Police rescue cashier after 11-hour hostage standoff at Berlin supermarket",
-      "summary": "Staff members who were in the supermarket at the time of the incident were able to leave the building unharmed and are being attended to by emergency services.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/11/police-surround-berlin-supermarket-after-woman-taken-hostage",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-11",
-      "time": "07:25",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-07-11-46b8dece",
-      "headline": "Japanese school teaches children how to stay safe around wild bears",
-      "summary": "Children at a primary school in central Japan are taking part in a bear awareness programme, learning how to safely coexist with wild bears as sightings remain common in the area.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/11/japanese-school-teaches-children-how-to-stay-safe-around-wild-bears",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "04:20",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-11-b8a84ca9",
       "headline": "New dinosaur species as long as cricket pitch discovered in Thailand",
       "summary": "The plant-eating dinosaur, named Uragasaurus kalasinensis, is thought to have lived about 150 million years ago.",
@@ -312,6 +242,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-11-752f48a5",
+      "headline": "What’s really going on with mental health?",
+      "summary": "Changing terminology risks misleading policymakers and harming those in most need",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/063b7eed-3f13-43d4-8f12-ff6439b825e8",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-11",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-07-11-d0257933",
       "headline": "India, NZ Plan Strategic Partnership Including Maritime Security",
       "summary": "India and New Zealand will elevate their relationship to a “strategic partnership,” as both seek closer trade and security ties.",
@@ -324,6 +268,20 @@
       "time": "01:03",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-07-11-d7bf2222",
+      "headline": "Land sold for Kushner-backed Albania resort suspected of forged deeds",
+      "summary": "Albanian prosecutors probe forged deeds tied to Kushner resort land as protests over the project intensify.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/11/land-sold-for-kushner-backed-albania-resort-suspected-of-forged-deeds?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-11",
+      "time": "10:14",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-11-204b0113",
@@ -382,18 +340,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-11-c6c0abcd",
-      "headline": "Spain fans celebrate World Cup semi-final place after Belgium win",
-      "summary": "Spain celebrated a dramatic 2-1 victory over Belgium on 10 July as fans filled Madrid to cheer La Roja into the FIFA World Cup semi-finals.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/11/spain-fans-celebrate-world-cup-semi-final-place-after-belgium-win",
-      "region": "EU",
-      "country": "Belgium",
-      "category": "business",
-      "date": "2026-07-11",
-      "time": "06:55",
+      "id": "2026-07-10-af8dc78a",
+      "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
+      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "13:40",
       "conflict_id": null,
-      "score": 21.0
+      "score": 43.0
     },
     {
       "id": "2026-07-10-97f01c55",
@@ -407,21 +365,7 @@
       "date": "2026-07-10",
       "time": "23:43",
       "conflict_id": null,
-      "score": 50.4
-    },
-    {
-      "id": "2026-07-10-afc4a821",
-      "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
-      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "22:54",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 42.4
     },
     {
       "id": "2026-07-10-dd07be54",
@@ -438,20 +382,6 @@
       "score": 41.2
     },
     {
-      "id": "2026-07-10-eb8fc37d",
-      "headline": "Ukrainian drone strikes hit southern Russian refineries and Azov port, officials say",
-      "summary": "Kyiv says the strikes are fair retribution for Russia's more than four-year barrages on Ukraine and that it is a bid to force Russia to the negotiating table.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/10/ukrainian-drone-strikes-hit-southern-russian-refineries-and-azov-port-officials-say",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "16:54",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
-    },
-    {
       "id": "2026-07-10-8021c981",
       "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
       "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
@@ -466,16 +396,16 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-10-af8dc78a",
-      "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
+      "id": "2026-07-10-afc4a821",
+      "headline": "Apple sues OpenAI, its employees claiming theft of trade secrets",
+      "summary": "Apple said in a Friday lawsuit that OpenAI’s nascent hardware business is “rotten to its core.”",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Taiwan",
+      "url": "https://www.bbc.co.uk/news/articles/cy8w379e091o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-10",
-      "time": "13:40",
+      "time": "22:54",
       "conflict_id": null,
       "score": 35.0
     },
@@ -522,6 +452,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-07-10-bb6f5369",
+      "headline": "Nuclear Energy Services Firm Holtec Joins Sector’s IPO Rush",
+      "summary": "Holtec Nuclear Corp. filed for a US initial public offering, becoming the latest in the sector to try to capitalize on data centers’ growing power demands.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-10/nuclear-energy-services-firm-holtec-joins-sector-s-ipo-rush",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "21:40",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-10-de460397",
       "headline": "An Aging Assassin Was Caught by ICE. Will the U.S. Deport Him?",
       "summary": "He helped plot a car bombing in Washington that killed two people in 1976. Fifty years later, old government secrets could decide his fate.",
@@ -562,48 +506,6 @@
       "time": "17:06",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-07-10-4fe7bb6a",
-      "headline": "Cuba suffers second island-wide blackout in a week amid Trump fuel blockade",
-      "summary": "US President Donald Trump has placed the Caribbean island under a de facto oil blockade, straining its power grid.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/10/cuba-suffers-second-island-wide-blackout-in-a-week-amid-trump-fuel-blockade?traffic_source=rss",
-      "region": "NA",
-      "country": "Caribbean",
-      "category": "politics",
-      "date": "2026-07-10",
-      "time": "23:18",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-10-da1de870",
-      "headline": "Apple files lawsuit accusing ChatGPT maker OpenAI of stealing trade secrets",
-      "summary": "The complaint alleges a coordinated effort by two former Apple employees and OpenAI to steal confidential information.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/10/apple-files-lawsuit-accusing-chatgpt-maker-openai-of-stealing-trade-secrets?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "23:00",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-10-dee7de74",
-      "headline": "Georgia left off NATO summit partner list as critics decry isolation",
-      "summary": "The Georgian government is facing accusations of international isolation after not being invited to the NATO summit in Turkey, the first time a key partner has been excluded from the alliance's agenda.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/10/georgia-left-off-nato-summit-partner-list-as-critics-decry-isolation",
-      "region": "EU",
-      "country": "Turkey",
-      "category": "politics",
-      "date": "2026-07-10",
-      "time": "19:36",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-07-10-6da3c465",
@@ -799,7 +701,7 @@
       "date": "2026-07-08",
       "time": "18:05",
       "conflict_id": null,
-      "score": 68.0
+      "score": 67.0
     },
     {
       "id": "2026-07-08-dad824b5",
@@ -812,20 +714,6 @@
       "category": "geopolitics",
       "date": "2026-07-08",
       "time": "15:30",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-08-30d6243a",
-      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "05:05",
       "conflict_id": null,
       "score": 43.0
     },
@@ -854,6 +742,20 @@
       "category": "politics",
       "date": "2026-07-08",
       "time": "14:41",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-08-30d6243a",
+      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "05:05",
       "conflict_id": null,
       "score": 35.0
     },
@@ -914,6 +816,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-08-d05e87d1",
+      "headline": "Microsoft’s gaming strategy has misfired badly",
+      "summary": "A supply-chain crisis for Xbox couldn’t have come at a worse time",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/07/08/microsofts-gaming-strategy-has-misfired-badly",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "19:48",
+      "conflict_id": null,
+      "score": 33.8
+    },
+    {
+      "id": "2026-07-08-1dcd44a4",
+      "headline": "Nato chief tells BBC that Trump comments are like 'family argument'",
+      "summary": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-08",
+      "time": "20:58",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-08-4296f1ec",
       "headline": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
       "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
@@ -970,6 +900,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-07-46b58d21",
+      "headline": "Mbappe condemns racist posts from Paraguay senator",
+      "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-07-07",
+      "time": "08:51",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-07-e54f3ca1",
       "headline": "Catnip lotion as effective as Deet at repelling mosquitoes, study finds",
       "summary": "Researchers testing a cheap, homegrown oil in Uganda found what cats knew all along – it worked as well as the artificial chemical used globally A homegrown catnip lotion has proven “just as effective as Deet” as a mosquito repellant in trials carried out in Uganda.Catnip, or Nepeta cataria, is a common herb from the mint family. The chemical in the plant that causes feline euphoria – nepetalactone – also has insect-repelling properties but this ",
@@ -1012,20 +956,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-06-419b060e",
-      "headline": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
-      "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in JanuaryCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said.The impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the already dwindling supply of fuel for Cuba’s power pla",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-06",
-      "time": "19:30",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-07-06-ec523093",
       "headline": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
       "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
@@ -1038,6 +968,48 @@
       "time": "18:50",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-06-7c4ee058",
+      "headline": "Israeli police officer filmed throwing stun grenade into car in West Bank",
+      "summary": "Israel's police force says the officer acted \"not in accordance with procedure\" and that it has opened an investigation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-06",
+      "time": "18:52",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-06-ac5a57bc",
+      "headline": "Beware the top-heavy economy",
+      "summary": "Supersize capital flows are reshaping business—and building risk",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/07/06/beware-the-top-heavy-economy",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-06",
+      "time": "18:22",
+      "conflict_id": null,
+      "score": 33.8
+    },
+    {
+      "id": "2026-07-06-419b060e",
+      "headline": "‘Living like this is agony’: Cuba suffers third nationwide blackout in six months",
+      "summary": "Impoverished island was already struggling to keep the lights on before the US imposed a blockade in JanuaryCuba on Monday suffered its third nationwide power outage since the start of the year, the state electricity company said.The impoverished island was already struggling to keep the lights on before the US president, Donald Trump, imposed an oil blockade in January, which has depleted the already dwindling supply of fuel for Cuba’s power pla",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/06/cuba-suffers-third-nationwide-blackout-in-six-months",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-06",
+      "time": "19:30",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-07-05-3e8cf513",
