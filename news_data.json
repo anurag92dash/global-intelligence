@@ -1,8 +1,36 @@
 {
-  "updated": "2026-07-12T06:23:33.367669+00:00",
-  "story_count": 77,
+  "updated": "2026-07-12T08:34:32.336663+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-12-968fb708",
+      "headline": "US Senator Lindsey Graham dies after 'brief and sudden illness'",
+      "summary": "Graham, a prominent Republican voice on foreign policy, had recently returned from Ukraine, where he met with Ukrainian President Volodymyr Zelenskyy in Kyiv.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "07:33",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-07-12-91a0f88a",
+      "headline": "Iran war live: Tehran attacks Jordan, Gulf states after US bombardment",
+      "summary": "Fears grow of further US-Iran escalation after largest tit-for-tat attacks yet during the ceasefire.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/12/iran-war-live-irgc-declares-strait-of-hormuz-closed-over-us-interference?traffic_source=rss",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 55.4
+    },
     {
       "id": "2026-07-12-0c3dc83e",
       "headline": "US launches fresh strikes as Iran closes Strait of Hormuz",
@@ -13,23 +41,65 @@
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "04:39",
+      "time": "06:49",
       "conflict_id": null,
       "score": 52.0
     },
     {
-      "id": "2026-07-12-6e467164",
-      "headline": "US launches more strikes after Tehran declares Strait of Hormuz closed",
-      "summary": "Iran hits commercial ship transiting the waterway, with Centcom saying crew member is missing from vessel",
+      "id": "2026-07-12-31837468",
+      "headline": "US launches fresh strikes after Tehran declares Strait of Hormuz closed",
+      "summary": "Iran hits commercial ship transiting the waterway and targets in Kuwait, Bahrain and Qatar",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
       "region": "MENA",
-      "country": "Tehran",
+      "country": "Bahrain",
       "category": "geopolitics",
       "date": "2026-07-12",
       "time": "04:17",
       "conflict_id": null,
       "score": 51.4
+    },
+    {
+      "id": "2026-07-12-78768399",
+      "headline": "US, Iran Trade Wave of Attacks as Tehran Says Hormuz Closed",
+      "summary": "US forces struck Iran for a third time in a week, prompting retaliatory attacks from Tehran as it declared the Strait of Hormuz would be closed “until further notice.”",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-iran-trade-wave-of-attacks-as-tehran-says-hormuz-closed",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "08:06",
+      "conflict_id": null,
+      "score": 51.1
+    },
+    {
+      "id": "2026-07-12-054ca9da",
+      "headline": "Senator Lindsey Graham, Republican of South Carolina, Dies at 71",
+      "summary": "Mr. Graham died of a “brief and sudden” illness on Saturday evening, his office said. He served in the Senate for more than two decades.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
+      "region": "EU",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "07:57",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
+      "id": "2026-07-12-7e518a65",
+      "headline": "Lindsey Graham, longtime senator from South Carolina, dies at 71",
+      "summary": "Graham, first elected to the House in 1994 and the Senate in 2002, was running for reelection this year. He died of a “brief and sudden illness,” his office said.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
+      "region": "EU",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "08:25",
+      "conflict_id": null,
+      "score": 48.9
     },
     {
       "id": "2026-07-12-e17c1d71",
@@ -58,6 +128,20 @@
       "time": "04:59",
       "conflict_id": null,
       "score": 48.4
+    },
+    {
+      "id": "2026-07-12-c4c65df4",
+      "headline": "Lindsey Graham, one of Israel’s strongest US Senate allies, dies",
+      "summary": "The US Republican senator died of a sudden illness, his office said. He was 71.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "06:27",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-07-12-e0c58f41",
@@ -102,6 +186,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-07-12-5a30d990",
+      "headline": "US CENTCOM completes third round of strikes on Iran",
+      "summary": "US CENTCOM completes third round of strikes on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "07:58",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-07-12-d8678e4c",
       "headline": "England fans revel in World Cup win over Norway",
       "summary": "Fans celebrated at a London watch party after England&#039;s 2-1 extra-time win over Norway in the World Cup quarter-finals.",
@@ -114,6 +212,20 @@
       "time": "03:34",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-07-12-4f19c79e",
+      "headline": "China evacuates nearly two million people as powerful typhoon makes landfall",
+      "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "07:39",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-07-12-902b9d18",
@@ -144,6 +256,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-07-12-1eb81cbb",
+      "headline": "First patients enrolled in record-breaking Ebola treatment trial in DRC",
+      "summary": "Two drugs are being trialled in the Ituri region in a programme set up just six weeks after the outbreak was declared, with hopes it will reduce mortality ratesThere is no approved drug to help the medical teams scrabbling to save lives in the Ebola outbreak in the Democratic Republic of the Congo – but there are hopes that could change within months as the first patients are enrolled in a treatment trial.It is a record pace to set up and start t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jul/12/record-breaking-ebola-treatment-trial-drc",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "08:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-07-12-87d5b0d5",
       "headline": "Victorian crossbench MP warns voting system overhaul must be backed by broader reform – as it happened",
       "summary": "This blog is now closed.Get our breaking news email, free app or daily news podcastVictorian Animal Justice party MP Georgie Purcell says abolishing the state’s group voting ticket system without any other changes would see the balance of power handed to One Nation.The Age reported yesterday that the Allan government is planning to introduce legislation, when parliament returns from the winter break, to reform the state’s unusual voting system.Cr",
@@ -156,6 +282,34 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-07-12-92fdd096",
+      "headline": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
+      "summary": "The Father Emir oversaw the meteoric rise of the small gas-rich nation.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "06:01",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-12-5b834906",
+      "headline": "World AI Conference, South Korea monetary policy, China economic data",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/world-ai-conference-south-korea-monetary-policy-china-economic-data",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-07-12-29a11997",
@@ -172,32 +326,18 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-12-88bffc10",
-      "headline": "China steps up maritime push against Philippines, Japan, with eye on Taiwan",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/taiwan-tensions/china-steps-up-maritime-push-against-philippines-japan-with-eye-on-taiwan",
-      "region": "APJ",
-      "country": "Philippines",
-      "category": "geopolitics",
+      "id": "2026-07-12-ce2b3576",
+      "headline": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "politics",
       "date": "2026-07-12",
-      "time": "",
+      "time": "06:43",
       "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-07-12-f4c1f41b",
-      "headline": "China's second typhoon in a week makes landfall",
-      "summary": "Nearly two million people are evacuated from eastern Zhejiang province, with the city of Wenzhou close to the path of the storm.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdxd3wkp2rzo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "01:22",
-      "conflict_id": null,
-      "score": 27.0
+      "score": 29.0
     },
     {
       "id": "2026-07-12-086ea405",
@@ -242,20 +382,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-12-fac39f74",
-      "headline": "Lindsey Graham, longtime South Carolina senator, dies at 71",
-      "summary": "The staunch ally of President Donald Trump died after a sudden illness, his office said.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "06:17",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
       "id": "2026-07-12-13b7a41f",
       "headline": "Wallabies’ pop-gun revival under Joe Schmidt blown apart as France unload heavy artillery | Daniel Gallan",
       "summary": "Plucky defeats decorated with patches of excellence will not cut it for Australia with a home World Cup now looming largeThe camera found Joe Schmidt shortly after France had completed a 22-point swing. Australia’s coach had seen a 21-12 half-time lead obliterated in 16 brutal minutes. Schmidt, one of rugby’s sharpest minds, looked short of answers. The trouble was that the questions confronting him had obvious answers but almost impossible solut",
@@ -268,20 +394,6 @@
       "time": "00:20",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-07-12-92fdd096",
-      "headline": "Sheikh Hamad bin Khalifa Al Thani, architect of modern Qatar",
-      "summary": "The Father Emir oversaw the meteoric rise of the small gas-rich nation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/sheikh-hamad-bin-khalifa-al-thani-architect-of-modern-qatar?traffic_source=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "06:01",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-07-12-a5660349",
@@ -424,20 +536,6 @@
       "score": 37.0
     },
     {
-      "id": "2026-07-11-1cfc230b",
-      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
-      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-11",
-      "time": "16:11",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-11-92297d00",
       "headline": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
@@ -448,20 +546,6 @@
       "category": "geopolitics",
       "date": "2026-07-11",
       "time": "21:56",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-11-1677c102",
-      "headline": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
-      "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "18:00",
       "conflict_id": null,
       "score": 35.0
     },
@@ -536,20 +620,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-11-a795aaae",
-      "headline": "Trump administration subpoenas New York Times reporters over coverage",
-      "summary": "Press freedom advocates and members of Congress have condemned the subpoenas as an attempt to &#039;threaten and intimidate&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/11/trump-administration-subpoenas-new-york-times-reporters-over-coverage?traffic_source=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-07-11",
-      "time": "18:46",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-07-11-783627ff",
       "headline": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
       "summary": "A spokesperson for OpenAI said in a statement: \"We have no interest in other companies' trade secrets.\"",
@@ -576,6 +646,20 @@
       "time": "07:25",
       "conflict_id": null,
       "score": 29.0
+    },
+    {
+      "id": "2026-07-11-1cfc230b",
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-11",
+      "time": "16:11",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-11-97928ff8",
@@ -616,20 +700,6 @@
       "category": "politics",
       "date": "2026-07-11",
       "time": "04:47",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-11-0ebda633",
-      "headline": "At Canada's biggest rodeo, the starting gun is fired in the fight over Alberta separation",
-      "summary": "Canadian unity takes centre stage at the Calgary Stampede as fears of a Brexit-style upset looms over the October vote on Alberta's future.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3eykgln5eeo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-07-11",
-      "time": "00:00",
       "conflict_id": null,
       "score": 27.0
     },
@@ -676,6 +746,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-11-43b54d39",
+      "headline": "Kazakh Tycoon Turlov’s Freedom Raises $300 Million for Expansion",
+      "summary": "Kazakhstan billionaire Timur Turlov’s Freedom Holding Corp. raised $300 million in a share sale to help fund its ongoing international expansion.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-11/kazakh-tycoon-turlov-s-freedom-raises-300-million-for-expansion",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-11",
+      "time": "02:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-11-3f8e6e57",
       "headline": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
       "summary": "Anthony Albanese will deliver a landmark speech on AI this week as MPs are torn between attracting datacentre investment and protecting the rights of creativesFollow our Australia news live blog for latest updatesWhen Anna Funder stood before a pack of journalists at Parliament House this month, she presented herself not just as a writer but also a “victim of crime”.The Stasiland author was using the analogy to illustrate how technology companies",
@@ -690,32 +774,32 @@
       "score": 24.0
     },
     {
-      "id": "2026-07-11-bffd145b",
-      "headline": "Elon Musk’s family foundation took Tommy Robinson to Russia, says Musk’s father",
-      "summary": "Errol Musk says far-right activist is ‘a fine young man’ and held meetings with Russian business figuresElon Musk’s family foundation took Tommy Robinson to Russia, according to the billionaire X owner’s father, who was with the British far-right activist in Moscow as he encouraged anti-migration protests in Britain.Robinson – whose real name is Stephen Yaxley-Lennon – appeared last month in Moscow, from where he issued calls for supporters to ta",
+      "id": "2026-07-10-007747ae",
+      "headline": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
+      "summary": "Eleven reported dead as flooding also brings danger of snakes, while buildings collapse in Mumbai amid heavy rain As the first typhoon to make landfall in China for the 2026 season, Maysak has caused devastating damage in southern and central regions. The Guangxi region received intense downpours of up to 280mm in 12 hours, causing rivers to swell and dam walls to break. By Monday morning, flooding across the city of Nanning and surrounding areas",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/jul/11/elon-musk-family-foundation-took-tommy-robinson-to-russia-says-musks-father",
-      "region": "EU",
-      "country": "Britain",
-      "category": "politics",
-      "date": "2026-07-11",
-      "time": "16:04",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-10-dd07be54",
-      "headline": "Strait of Hormuz Will Soon Be Declared Open to All Traffic, U.S. Officials Say",
-      "summary": "The officials said that Iranian negotiators blamed the recent ship attacks on rogue military units.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/10/us/politics/strait-hormuz-safe-passage.html",
-      "region": "MENA",
-      "country": "Iran",
+      "url": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
+      "region": "APJ",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-07-10",
-      "time": "22:32",
+      "time": "09:18",
       "conflict_id": null,
-      "score": 50.2
+      "score": 40.0
+    },
+    {
+      "id": "2026-07-10-8021c981",
+      "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
+      "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-07-10",
+      "time": "05:06",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-07-10-af8dc78a",
@@ -729,7 +813,7 @@
       "date": "2026-07-10",
       "time": "13:40",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-07-10-33d8019d",
@@ -744,34 +828,6 @@
       "time": "23:56",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-07-10-007747ae",
-      "headline": "Weather tracker: Typhoon leaves people stranded on rooftops in China",
-      "summary": "Eleven reported dead as flooding also brings danger of snakes, while buildings collapse in Mumbai amid heavy rain As the first typhoon to make landfall in China for the 2026 season, Maysak has caused devastating damage in southern and central regions. The Guangxi region received intense downpours of up to 280mm in 12 hours, causing rivers to swell and dam walls to break. By Monday morning, flooding across the city of Nanning and surrounding areas",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/weather-tracker-typhoon-leaves-people-stranded-on-rooftops-in-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "09:18",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-10-8021c981",
-      "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
-      "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/10/south-korea-chip-maker-sk-hynix-rides-ai-boom-raising-265bn-in-huge-us-listing",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-07-10",
-      "time": "05:06",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-07-10-6da3c465",
@@ -869,7 +925,7 @@
       "date": "2026-07-08",
       "time": "18:05",
       "conflict_id": null,
-      "score": 68.0
+      "score": 67.0
     },
     {
       "id": "2026-07-08-5c9c980b",
@@ -970,20 +1026,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-08-4296f1ec",
-      "headline": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-08",
-      "time": "03:22",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-08-dfab9fcc",
       "headline": "Cubans protest after third nationwide power cut this year",
       "summary": "While Cuban officials said that power had been mostly restored, those still left in the dark vented their anger.",
@@ -1064,20 +1106,6 @@
       "category": "geopolitics",
       "date": "2026-07-06",
       "time": "17:44",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-05-3e8cf513",
-      "headline": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-05",
-      "time": "17:58",
       "conflict_id": null,
       "score": 43.0
     }
