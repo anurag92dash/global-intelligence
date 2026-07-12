@@ -1,21 +1,49 @@
 {
-  "updated": "2026-07-12T22:22:36.741146+00:00",
-  "story_count": 81,
-  "source_count": 8,
+  "updated": "2026-07-12T23:12:50.660779+00:00",
+  "story_count": 86,
+  "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-12-968fb708",
+      "headline": "US Senator Lindsey Graham dies after 'brief and sudden illness'",
+      "summary": "Graham, a prominent Republican voice on foreign policy, had recently returned from Ukraine, where he met with Ukrainian President Volodymyr Zelenskyy in Kyiv.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "07:33",
+      "conflict_id": "ukraine-war",
+      "score": 66.0
+    },
     {
       "id": "2026-07-12-bfefadb1",
       "headline": "US launches another round of strikes on Iran as ceasefire teeters",
-      "summary": "Trump administration insists that the Strait of Hormuz remains open after Tehran declared it closed",
+      "summary": "Fighting escalates as Trump insists the Strait of Hormuz remains open while Tehran says it is closed",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d",
       "region": "NA",
       "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "21:51",
+      "time": "22:52",
       "conflict_id": null,
       "score": 59.4
+    },
+    {
+      "id": "2026-07-12-1d8b59b8",
+      "headline": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "summary": "US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "21:12",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-07-12-f8f2c735",
@@ -60,6 +88,20 @@
       "score": 52.0
     },
     {
+      "id": "2026-07-12-75f09eb0",
+      "headline": "Oil prices jump as US and Iran step up tit-for-tat strikes",
+      "summary": "Traders fear escalating hostilities could further restrict the flow of crude through the Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a3075fc2-74bd-4908-ab02-bbac79c32ee6",
+      "region": "NA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "22:41",
+      "conflict_id": null,
+      "score": 51.4
+    },
+    {
       "id": "2026-07-12-b95cb452",
       "headline": "US Says It Began Launching More Strikes Against Iran at 5pm ET",
       "summary": "US Central Command forces began launching more strikes against Iran at 5 p.m. ET today, to continue degrading their ability to attack civilian mariners and commercial ships freely transiting the Strait of Hormuz, according to a post on X.",
@@ -74,6 +116,34 @@
       "score": 51.1
     },
     {
+      "id": "2026-07-12-10183abf",
+      "headline": "Fresh Strikes Threaten US Iran Talks",
+      "summary": "Bloomberg's Abeer Abu Omar and ABC News' Shannon Kingston say renewed attacks in and around the Strait of Hormuz have undermined fragile diplomatic efforts, with Gulf allies pressing to revive negotiations as shipping and regional security remain under threat. They say technical talks continue to face resistance from hardline factions in Iran, while Sen. Lindsey Graham's death leaves a significant void for US foreign policy and bipartisan support",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-12/fresh-strikes-threaten-us-iran-talks-video",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "13:40",
+      "conflict_id": null,
+      "score": 51.1
+    },
+    {
+      "id": "2026-07-12-d5f47290",
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "16:35",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-07-12-a6ada354",
       "headline": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
       "summary": "He consistently pushed for the use of U.S. military power overseas. The Washington, D.C., medical examiner said he died of an aortic dissection, a tear in the body’s main artery.",
@@ -86,20 +156,6 @@
       "time": "22:14",
       "conflict_id": null,
       "score": 50.2
-    },
-    {
-      "id": "2026-07-12-10183abf",
-      "headline": "Fresh Strikes Threaten US Iran Talks",
-      "summary": "Bloomberg's Abeer Abu Omar and ABC News' Shannon Kingston say renewed attacks in and around the Strait of Hormuz have undermined fragile diplomatic efforts, with Gulf allies pressing to revive negotiations as shipping and regional security remain under threat. They say technical talks continue to face resistance from hardline factions in Iran, while Sen. Lindsey Graham's death leaves a significant void for US foreign policy and bipartisan support",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-12/fresh-strikes-threaten-us-iran-talks-video",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "13:40",
-      "conflict_id": null,
-      "score": 50.1
     },
     {
       "id": "2026-07-12-5a5d3333",
@@ -158,20 +214,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-07-12-1d8b59b8",
-      "headline": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
-      "summary": "US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "21:12",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-07-12-b2841647",
       "headline": "Zelenskyy dismisses Ukraine’s PM in cabinet shake-up",
       "summary": "Yulia Svyrydenko to exit as president announces sweeping government changes less than a year since last reshuffle",
@@ -184,6 +226,20 @@
       "time": "14:14",
       "conflict_id": "ukraine-war",
       "score": 46.4
+    },
+    {
+      "id": "2026-07-12-7e1ab941",
+      "headline": "Lindsey Graham tributes from Israel and Ukraine point to complicated, often bloody legacy",
+      "summary": "Republican senator, who died Saturday, had a global reach few could rival and was vital in shaping Trump’s worldviewIt was revealing that one of the first tributes to Lindsey Graham, a US senator who died on Saturday aged 71, came from Itamar Ben-Gvir, Israel’s national security minister, a far-right provocateur who recently caused widespread anger by sharing footage of himself taunting bound activists who had been trying to sail to Gaza with aid",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/12/lindsey-graham-israel-ukraine-foreign-policy-legacy",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "22:36",
+      "conflict_id": "israel-hamas",
+      "score": 44.0
     },
     {
       "id": "2026-07-12-2a0269d6",
@@ -200,18 +256,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-12-d5f47290",
-      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-12-0393acbe",
+      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
+      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
       "region": "MENA",
       "country": "Qatar",
-      "category": "geopolitics",
+      "category": "business",
       "date": "2026-07-12",
-      "time": "16:35",
+      "time": "15:37",
       "conflict_id": null,
-      "score": 43.0
+      "score": 42.4
     },
     {
       "id": "2026-07-12-9905bfba",
@@ -226,6 +282,20 @@
       "time": "17:31",
       "conflict_id": null,
       "score": 42.1
+    },
+    {
+      "id": "2026-07-12-48fa60a7",
+      "headline": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
+      "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "22:07",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-07-12-1994b77d",
@@ -256,6 +326,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-07-12-ce2b3576",
+      "headline": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "06:43",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-07-12-4f19c79e",
       "headline": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
@@ -270,30 +354,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-12-0393acbe",
-      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
-      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "15:37",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
       "id": "2026-07-12-ad4ae004",
       "headline": "Tim Scott and Other South Carolina Leaders Mourn Lindsey Graham",
-      "summary": "The senator had sometimes struggled to maintain support from his party’s most right-wing voters. But leaders paid tribute to his wit and stalwart support of South Carolina.",
+      "summary": "The senator had sometimes struggled to maintain support from his party’s most right-wing voters. But leaders and supporters paid tribute to his wit and stalwart support of South Carolina.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/12/us/south-carolina-lindsey-graham-reaction.html",
       "region": "EU",
       "country": "NATO",
       "category": "politics",
       "date": "2026-07-12",
-      "time": "13:48",
+      "time": "22:36",
       "conflict_id": null,
       "score": 33.2
     },
@@ -308,20 +378,6 @@
       "category": "politics",
       "date": "2026-07-12",
       "time": "20:46",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-07-12-48fa60a7",
-      "headline": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
-      "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "22:07",
       "conflict_id": null,
       "score": 33.2
     },
@@ -354,9 +410,23 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-12-1acbf574",
+      "headline": "News live: Leeser accuses ‘spineless’ university vice-chancellors of failures on antisemitism; Dfat checking if Australians caught in Bangkok fire",
+      "summary": "Higher education chiefs, academics and students to give evidence at latest block of hearings at royal commission on antisemitism and social cohesion. Follow today’s news liveGet our breaking news email, free app or daily news podcastThe Department of Foreign Affairs and Trade (Dfat) is investigating if any Australians were affected by a deadly fire at a pub in Bangkok overnight. At least 27 people were killed in the blaze and dozens more injured.",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "22:40",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-07-12-08e34036",
       "headline": "Australian universities will be required to adopt definitions of antisemitism and Islamophobia",
-      "summary": "Higher education chiefs, academics and students to give evidence this week at royal commission Australian universities will be required to adopt definitions on antisemitism, Islamophobia and racism towards Aboriginal and Torres Strait Islander people from next year, under a legally enforceable standard designed to stamp out discrimination on campuses.Details of the anti-racism standard will be published on Monday as university bosses, students an",
+      "summary": "Higher education chiefs, academics and students to give evidence this week at royal commissionFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralian universities will be required to adopt definitions on antisemitism, Islamophobia and racism towards Aboriginal and Torres Strait Islander people from next year, under a legally enforceable standard designed to stamp out discriminati",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jul/12/new-anti-racism-standard-will-force-australian-universities-to-use-definitions-of-antisemitism-and-islamophobia-ntwnfb",
       "region": "APJ",
@@ -378,6 +448,20 @@
       "category": "geopolitics",
       "date": "2026-07-12",
       "time": "21:50",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-12-d3bb4676",
+      "headline": "Israel to hold national elections on October 27, parliament says",
+      "summary": "Netanyahu, Israel&#039;s longest-serving prime minister, has confirmed that he will run for office again.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "21:26",
       "conflict_id": null,
       "score": 31.4
     },
@@ -422,6 +506,34 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-07-12-5eec5aa9",
+      "headline": "Israel to hold elections on 27 October in what is seen as referendum on Netanyahu leadership",
+      "summary": "Israel will hold national elections on 27 October, the last date allowed by law to hold national elections. The Knesset is set to end its current term on 17 July.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "18:59",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-07-12-9c6cdb71",
+      "headline": "Argentina fans erupt as Messi's men reach World Cup semifinal",
+      "summary": "Argentina fans celebrate in Buenos Aires after a dramatic 3-1 extra-time win over ten-man Switzerland sends the defending champions into the World Cup semifinals.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/12/argentina-fans-erupt-as-messis-men-reach-world-cup-semifinal",
+      "region": "EU",
+      "country": "Switzerland",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "10:02",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-07-12-c96c7aa4",
@@ -536,36 +648,8 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-12-8163825b",
-      "headline": "World Cup Bets on Prediction Markets May Get Tax Edge Over Gambling",
-      "summary": "Americans using prediction markets to bet on the World Cup may face a lighter tax burden than peers wagering through sportsbooks thanks to tax breaks aimed at investments.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/world-cup-betting-tax-rules-differ-for-prediction-markets-sportsbooks",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-12-6f77a6e8",
-      "headline": "Australia news live: auction clearances nudge up after weeks under 50%; state farewell for Richard Scolyer",
-      "summary": "Almost 55% of homes at auction were sold, weekend figures show. Follow today’s news liveGet our breaking news email, free app or daily news podcastShadow education minister labels university leaders ‘weak and spineless’ over antisemitismJulian Leeser, the shadow minister for education, said the time for universities “mucking around” on definitions of antisemitism were over.Universities are the place where the next generation of leaders goes to be",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "22:08",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-12-7f2c641c",
-      "headline": "Australia to ditch paper arrrival cards for incoming travellers",
+      "id": "2026-07-12-335d39cb",
+      "headline": "Australia to ditch paper arrival cards for incoming travellers",
       "summary": "Digital customs declaration to be phased in at all international airports and seaports after successful Qantas trialFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe days of filling out paper arrival cards are to end for millions of travellers arriving in Australia on international flights.The Albanese government has announced it will roll out digital passenger cards to all Austra",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jul/13/australia-travel-declaration-digital-to-replace-paper-customs-passenger-card-incoming-travellers",
@@ -590,20 +674,6 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-07-12-d3bb4676",
-      "headline": "Israel to hold national elections on October 27, parliament says",
-      "summary": "Netanyahu, Israel&#039;s longest-serving prime minister, has confirmed that he will run for office again.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "21:26",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-07-12-305ddd0d",
@@ -716,6 +786,34 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-07-12-a98b1e90",
+      "headline": "Jude Bellingham double sends jubilant England into World Cup semis",
+      "summary": "England beat Norway 2-1 in extra time on 12 July 2026 to reach the World Cup semifinals. Fans celebrated in London after a Jude Bellingham double sent the Three Lions through to face Argentina.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/12/jude-bellingham-double-sends-jubilant-england-into-world-cup-semis",
+      "region": "EU",
+      "country": "Argentina",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "10:11",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-12-f9d4df5a",
+      "headline": "England quarter-final win leaves Norwegian adopting British Airways logo",
+      "summary": "Norway’s low-cost carrier lost its cheeky wager with British Airways after the quarter-final loss, but celebrated England’s win with a new flash sale on Norwegian and England destinations",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/07/12/england-quarter-final-win-leaves-norwegian-adopting-british-airways-logo",
+      "region": "EU",
+      "country": "Norway",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "09:26",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-07-11-92297d00",
@@ -956,6 +1054,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-07-08-eafe590b",
+      "headline": "Are Argentina being treated favourably at World Cup?",
+      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Argentina",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "15:37",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-07-08-58daad92",
       "headline": "Trump takes aim at 'wasted cause' Spain and revives Greenland claim at Nato summit",
       "summary": "The US president lashes out at fellow Nato member Spain, repeating an earlier threat to cut off trade relations.",
@@ -1012,34 +1124,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-08-eafe590b",
-      "headline": "Are Argentina being treated favourably at World Cup?",
-      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Argentina",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "15:37",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-08-4296f1ec",
-      "headline": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
-      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-08",
-      "time": "03:22",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-08-dfab9fcc",
       "headline": "Cubans protest after third nationwide power cut this year",
       "summary": "While Cuban officials said that power had been mostly restored, those still left in the dark vented their anger.",
@@ -1078,20 +1162,6 @@
       "category": "politics",
       "date": "2026-07-07",
       "time": "18:03",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-07-46b58d21",
-      "headline": "Mbappe condemns racist posts from Paraguay senator",
-      "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-07-07",
-      "time": "08:51",
       "conflict_id": null,
       "score": 35.0
     },
