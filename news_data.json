@@ -1,35 +1,21 @@
 {
-  "updated": "2026-07-12T14:44:51.619026+00:00",
-  "story_count": 81,
-  "source_count": 10,
+  "updated": "2026-07-12T15:40:56.456909+00:00",
+  "story_count": 76,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-07-12-968fb708",
-      "headline": "US Senator Lindsey Graham dies after 'brief and sudden illness'",
-      "summary": "Graham, a prominent Republican voice on foreign policy, had recently returned from Ukraine, where he met with Ukrainian President Volodymyr Zelenskyy in Kyiv.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "07:33",
-      "conflict_id": "ukraine-war",
-      "score": 66.0
-    },
-    {
-      "id": "2026-07-12-b0e59617",
-      "headline": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
-      "summary": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
+      "id": "2026-07-12-ad4719d4",
+      "headline": "Israeli forces kill five Palestinians in latest attacks on Gaza",
+      "summary": "Since a US-brokered ceasefire in October, Israeli attacks have killed at least 1,098 Palestinians in Gaza.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israeli-forces-kill-five-palestinians-in-latest-attacks-on-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "13:28",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
+      "time": "15:16",
+      "conflict_id": "israel-hamas",
+      "score": 67.4
     },
     {
       "id": "2026-07-12-b2841647",
@@ -46,16 +32,16 @@
       "score": 54.4
     },
     {
-      "id": "2026-07-12-0c3dc83e",
-      "headline": "US launches fresh strikes as Iran closes Strait of Hormuz",
-      "summary": "The strikes follow an attack on a Cyprus -flagged vessel travelling through the critical waterway.",
+      "id": "2026-07-12-f8f2c735",
+      "headline": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "summary": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "06:49",
+      "time": "15:35",
       "conflict_id": null,
       "score": 52.0
     },
@@ -69,9 +55,23 @@
       "country": "America",
       "category": "politics",
       "date": "2026-07-12",
-      "time": "14:18",
+      "time": "15:34",
       "conflict_id": null,
       "score": 52.0
+    },
+    {
+      "id": "2026-07-12-b0e59617",
+      "headline": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
+      "summary": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "13:28",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
     },
     {
       "id": "2026-07-12-cf21d641",
@@ -102,60 +102,60 @@
       "score": 51.1
     },
     {
-      "id": "2026-07-12-beda98e7",
-      "headline": "World Leaders Remember Senator Lindsey Graham",
-      "summary": "Mr. Graham’s sudden death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy for two decades.",
+      "id": "2026-07-12-48fa60a7",
+      "headline": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
+      "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
       "region": "EU",
       "country": "NATO",
       "category": "politics",
       "date": "2026-07-12",
-      "time": "13:12",
+      "time": "15:27",
       "conflict_id": null,
       "score": 50.2
     },
     {
-      "id": "2026-07-12-2f81b27a",
-      "headline": "Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies From ‘Sudden Illness’",
-      "summary": "He died from “a brief and sudden illness” on Saturday evening, his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.",
+      "id": "2026-07-12-a6ada354",
+      "headline": "Lindsey Graham, Republican Senator and Trump Ally, Dies From ‘Sudden Illness’",
+      "summary": "He died from “a brief and sudden illness,” his office said. Over more than two decades in the Senate, he consistently pushed for the use of U.S. military power overseas.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html",
       "region": "NA",
       "country": "Senate",
       "category": "politics",
       "date": "2026-07-12",
-      "time": "14:39",
+      "time": "15:32",
       "conflict_id": null,
       "score": 50.2
     },
     {
-      "id": "2026-07-12-7e518a65",
-      "headline": "Lindsey Graham, longtime senator from South Carolina, dies at 71",
-      "summary": "Graham, a staunch Trump ally and key GOP foreign policy voice, was running for reelection this year. He died of a “brief and sudden illness,” his office said.",
+      "id": "2026-07-12-0ad00d13",
+      "headline": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family",
+      "summary": "Graham died hours after returning from a trip to Ukraine. Trump said he spoke with the senator Saturday evening and that “could’ve been his last call.”",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
       "region": "EU",
-      "country": "Trump",
-      "category": "politics",
+      "country": "Ukraine",
+      "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "13:53",
+      "time": "15:38",
       "conflict_id": null,
       "score": 49.9
     },
     {
-      "id": "2026-07-12-ad4ae004",
-      "headline": "Tim Scott and Other South Carolina Leaders Mourn Lindsey Graham",
-      "summary": "The senator had sometimes struggled to maintain support from his party’s most right-wing voters. But leaders paid tribute to his wit and stalwart support of South Carolina.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/12/us/south-carolina-lindsey-graham-reaction.html",
+      "id": "2026-07-12-d1fdc793",
+      "headline": "What made US Republican Senator Lindsey Graham a controversial figure",
+      "summary": "Graham was known for his hawkish views on US defence and foreign policies.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/what-made-us-republican-senator-lindsey-graham-a-controversial-figure?traffic_source=rss",
       "region": "EU",
       "country": "NATO",
       "category": "politics",
       "date": "2026-07-12",
-      "time": "13:48",
+      "time": "15:03",
       "conflict_id": null,
-      "score": 49.2
+      "score": 48.4
     },
     {
       "id": "2026-07-12-ec7204a5",
@@ -214,18 +214,18 @@
       "score": 48.4
     },
     {
-      "id": "2026-07-12-333f46fc",
-      "headline": "Lindsey Graham, one of Israel’s strongest US Senate allies, dies at 71",
-      "summary": "The US Republican senator died of a sudden illness, his office said. He was 71.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/us-senator-lindsey-graham-passes-away?traffic_source=rss",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
+      "id": "2026-07-12-a78ef6d0",
+      "headline": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
+      "summary": "Pair airlifted to hospital in two-hour rescue operation after Guardia Civil searched area for survivorsA British couple have been found badly burned and semi-conscious in a Spanish ravine amid deadly wildfires that have swept through the country’s Almería province, according to local media reports.The couple were on holiday in the region and were thought to be out hiking when they were caught up in the wildfire, which has so far killed 12 people ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "06:27",
+      "time": "14:26",
       "conflict_id": null,
-      "score": 48.4
+      "score": 48.0
     },
     {
       "id": "2026-07-12-2a0269d6",
@@ -242,20 +242,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-12-0393acbe",
-      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
-      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "13:46",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
       "id": "2026-07-12-902b9d18",
       "headline": "Typhoon Bavi Weakens as Heavy Rain Spreads Across China",
       "summary": "China’s National Meteorological Center said Typhoon Bavi weakened to a severe tropical storm on Sunday morning after making landfall in Zhejiang.",
@@ -270,6 +256,34 @@
       "score": 42.1
     },
     {
+      "id": "2026-07-12-ad4ae004",
+      "headline": "Tim Scott and Other South Carolina Leaders Mourn Lindsey Graham",
+      "summary": "The senator had sometimes struggled to maintain support from his party’s most right-wing voters. But leaders paid tribute to his wit and stalwart support of South Carolina.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/us/south-carolina-lindsey-graham-reaction.html",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "13:48",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-07-12-dc3829a6",
+      "headline": "Lindsey Graham Was Facing Re-election in November. What Happens Now?",
+      "summary": "South Carolina law suggests his death triggers an Aug. 11 special Republican primary election, and the state’s governor can appoint a replacement to serve out the rest of his term, through early January.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "12:54",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-07-12-1994b77d",
       "headline": "Toronto shooting: two dead and four injured at Salsa on St Clair street festival",
       "summary": "Police say two people exchanged gunfire in shooting that mayor called an ‘irresponsible act of violence’ in festival attended by familiesA shooting near a Toronto street festival killed two men and wounded four other people on Saturday evening, police said, adding that what initially prompted an active-shooter warning was an exchange of gunfire between two people targeting each other.Toronto police deputy chief Frank Barredo said investigators re",
@@ -280,20 +294,6 @@
       "category": "geopolitics",
       "date": "2026-07-12",
       "time": "04:00",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-07-12-a78ef6d0",
-      "headline": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
-      "summary": "Pair airlifted to hospital in two-hour rescue operation after Guardia Civil searched area for survivorsA British couple have been found badly burned and semi-conscious in a Spanish ravine amid deadly wildfires that have swept through the country’s Almería province, according to local media reports.The couple were on holiday in the region and were thought to be out hiking when they were caught up in the wildfire, which has so far claimed the lives",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/12/uk-couple-burned-semi-conscious-almeria-spanish-wildfires",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "14:26",
       "conflict_id": null,
       "score": 40.0
     },
@@ -312,48 +312,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-12-cc4fa1f9",
-      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
-      "summary": "After Sheikh Hamad&#039;s death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "09:40",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-12-ce2b3576",
-      "headline": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "summary": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "06:43",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-07-12-e0c58f41",
-      "headline": "Iran launches major missile attacks across the Gulf",
-      "summary": "Euronews journalists in Qatar report two waves of Iranian attacks and large explosions above Doha, air defence also responding to Iranian attacks in UAE, Bahrain, Kuwait and others, hours after the US conducted new airstrikes in Iran in response to a ship being hit by Iran in the Strait of Hormuz.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "04:42",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-07-12-4f19c79e",
       "headline": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
@@ -368,18 +326,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-12-5109ae2f",
-      "headline": "Maine Democrats Will Replace Graham Platner. Here’s What to Know.",
-      "summary": "Mr. Platner’s withdrawal from a marquee Senate race, under pressure from his party, has set in motion an unusual competition to become the new nominee.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/maine-senate-nomination-democrats-convention.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
+      "id": "2026-07-12-0393acbe",
+      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
+      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "business",
       "date": "2026-07-12",
-      "time": "02:19",
+      "time": "13:46",
       "conflict_id": null,
-      "score": 33.2
+      "score": 34.4
     },
     {
       "id": "2026-07-12-1eb81cbb",
@@ -410,6 +368,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-12-cc4fa1f9",
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
+      "summary": "After Sheikh Hamad&#039;s death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "09:40",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-12-5b834906",
       "headline": "World AI Conference, South Korea monetary policy, China economic data",
       "summary": "",
@@ -438,20 +410,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-12-9c6cdb71",
-      "headline": "Argentina fans erupt as Messi's men reach World Cup semifinal",
-      "summary": "Argentina fans celebrate in Buenos Aires after a dramatic 3-1 extra-time win over ten-man Switzerland sends the defending champions into the World Cup semifinals.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/12/argentina-fans-erupt-as-messis-men-reach-world-cup-semifinal",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "10:02",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-12-086ea405",
       "headline": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
@@ -478,6 +436,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-12-9024ffd5",
+      "headline": "Big Banks Set Up Strong Earnings Week",
+      "summary": "Bloomberg Intelligence analyst Herman Chan says major US banks are poised to report strong earnings, driven by trading, investment banking and resilient lending, with investors focused on consumer health, credit quality, net interest margins and AI-related financing activity. Investopedia editor Caleb Silver says Netflix is expanding beyond streaming into advertising and short-form content as investors look for signs the company can sustain growt",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-12/big-banks-set-up-strong-earnings-week-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "15:28",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-12-8046e439",
@@ -522,30 +494,44 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-12-13b7a41f",
-      "headline": "Wallabies’ pop-gun revival under Joe Schmidt blown apart as France unload heavy artillery | Daniel Gallan",
-      "summary": "Plucky defeats decorated with patches of excellence will not cut it for Australia with a home World Cup now looming largeThe camera found Joe Schmidt shortly after France had completed a 22-point swing. Australia’s coach had seen a 21-12 half-time lead obliterated in 16 brutal minutes. Schmidt, one of rugby’s sharpest minds, looked short of answers. The trouble was that the questions confronting him had obvious answers but almost impossible solut",
+      "id": "2026-07-12-7f2c641c",
+      "headline": "Australia to ditch paper arrrival cards for incoming travellers",
+      "summary": "Digital customs declaration to be phased in at all international airports and seaports after successful Qantas trialGet our breaking news email, free app or daily news podcastThe days of filling out paper arrival cards are to end for millions of travellers arriving in Australia on international flights.The Albanese government has announced it will roll out digital passenger cards to all Australian international airports and seaports after a “succ",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/sport/blog/2026/jul/12/wallabies-australia-france-rugby-joe-schmidt-gap",
-      "region": "EU",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/13/australia-travel-declaration-digital-to-replace-paper-customs-passenger-card-incoming-travellers",
+      "region": "APJ",
       "country": "Australia",
-      "category": "business",
+      "category": "politics",
       "date": "2026-07-12",
-      "time": "00:20",
+      "time": "15:00",
       "conflict_id": null,
       "score": 24.0
     },
     {
-      "id": "2026-07-12-d8d52d95",
-      "headline": "Friends turned foes: The split reshaping Senegal",
-      "summary": "Ousmane Sonko reveals what ended his political partnership with the president, sparking a constitutional standoff.",
+      "id": "2026-07-12-1638bdc9",
+      "headline": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
+      "summary": "Data shows the rightwing party faces an obstacle in the form of urban seats – and the effect of preference flows is harder to predictGet our breaking news email, free app or daily news podcastOne Nation’s spectacular rise from a distant 6% of the vote in the last election to first or second in some recent polls has upended Australian politics. It has also made it a lot harder to predict what exactly will happen at the next election.Traditionally,",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-12-4a09a9e5",
+      "headline": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
+      "summary": "FIFA President Gianni Infantino considering a proposal to add a further 16 nations ahead of the World Cup in four years.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/7/12/friends-turned-foes-the-split-reshaping-senegal?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
       "region": "MENA",
       "country": null,
       "category": "politics",
       "date": "2026-07-12",
-      "time": "13:51",
+      "time": "14:47",
       "conflict_id": null,
       "score": 23.4
     },
@@ -604,34 +590,6 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
-    },
-    {
-      "id": "2026-07-12-a98b1e90",
-      "headline": "Jude Bellingham double sends jubilant England into World Cup semis",
-      "summary": "England beat Norway 2-1 in extra time on 12 July 2026 to reach the World Cup semifinals. Fans celebrated in London after a Jude Bellingham double sent the Three Lions through to face Argentina.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/12/jude-bellingham-double-sends-jubilant-england-into-world-cup-semis",
-      "region": "EU",
-      "country": "Argentina",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "10:11",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-07-12-f9d4df5a",
-      "headline": "England quarter-final win leaves Norwegian adopting British Airways logo",
-      "summary": "Norway’s low-cost carrier lost its cheeky wager with British Airways after the quarter-final loss, but celebrated England’s win with a new flash sale on Norwegian and England destinations",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/07/12/england-quarter-final-win-leaves-norwegian-adopting-british-airways-logo",
-      "region": "EU",
-      "country": "Norway",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "09:26",
-      "conflict_id": null,
-      "score": 21.0
     },
     {
       "id": "2026-07-11-80f23c8b",
@@ -746,20 +704,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-11-783627ff",
-      "headline": "Apple sues OpenAI over alleged theft of trade secrets - here's what to know",
-      "summary": "A spokesperson for OpenAI said in a statement: \"We have no interest in other companies' trade secrets.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/next/2026/07/11/apple-sues-openai-over-alleged-theft-of-trade-secrets-heres-what-to-know",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-11",
-      "time": "11:34",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-11-1cfc230b",
       "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
       "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
@@ -816,20 +760,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-11-a24b2f7e",
-      "headline": "Stocks Priced for ‘Sunshine and Rainbows’ Now Face Earnings Test",
-      "summary": "Wall Street is anticipating a near-record earnings season, but for investors a key question remains: Will it be enough to keep stock market bulls running?",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-11/stocks-priced-for-sunshine-and-rainbows-now-face-earnings-test",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-11",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-11-8e8a0853",
       "headline": "Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case",
       "summary": "Judge Timothy J. Kelly, a federal judge in Washington, noted that he had little choice but to accept the Trump administration’s move to end the case.",
@@ -842,20 +772,6 @@
       "time": "15:06",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-07-11-3f8e6e57",
-      "headline": "AI companies want to water down Australia’s copyright laws. Artists are outraged, Labor is split",
-      "summary": "Anthony Albanese will deliver a landmark speech on AI this week as MPs are torn between attracting datacentre investment and protecting the rights of creativesFollow our Australia news live blog for latest updatesWhen Anna Funder stood before a pack of journalists at Parliament House this month, she presented herself not just as a writer but also a “victim of crime”.The Stasiland author was using the analogy to illustrate how technology companies",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/jul/12/ai-australia-will-labor-water-down-copyright-laws-datacentres",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-07-11",
-      "time": "20:00",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-07-10-af8dc78a",
@@ -900,6 +816,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-10-6da3c465",
+      "headline": "Meet the crypto billionaires building a world where money buys you a vote",
+      "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-10",
+      "time": "23:03",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-09-efdc81dd",
       "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
       "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
@@ -911,7 +841,7 @@
       "date": "2026-07-09",
       "time": "21:04",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-07-09-9c4768d5",
@@ -984,18 +914,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-08-eafe590b",
-      "headline": "Are Argentina being treated favourably at World Cup?",
-      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
+      "id": "2026-07-08-1dcd44a4",
+      "headline": "Nato chief tells BBC that Trump comments are like 'family argument'",
+      "summary": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Argentina",
-      "category": "geopolitics",
+      "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-07-08",
-      "time": "15:37",
+      "time": "20:58",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-07-08-58daad92",
@@ -1008,20 +938,6 @@
       "category": "politics",
       "date": "2026-07-08",
       "time": "14:41",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-08-30d6243a",
-      "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
-      "summary": "Even in Moscow, authorities are unable to guarantee fuel supplies, but will economic pressure lead to talks or escalation?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7xk8j0j2do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "05:05",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1120,6 +1036,20 @@
       "category": "geopolitics",
       "date": "2026-07-06",
       "time": "18:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-06-7c4ee058",
+      "headline": "Israeli police officer filmed throwing stun grenade into car in West Bank",
+      "summary": "Israel's police force says the officer acted \"not in accordance with procedure\" and that it has opened an investigation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-06",
+      "time": "18:52",
       "conflict_id": null,
       "score": 35.0
     },
