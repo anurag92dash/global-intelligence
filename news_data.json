@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-12T15:40:56.456909+00:00",
-  "story_count": 76,
-  "source_count": 9,
+  "updated": "2026-07-12T16:32:14.855943+00:00",
+  "story_count": 81,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-07-12-ad4719d4",
@@ -16,6 +16,48 @@
       "time": "15:16",
       "conflict_id": "israel-hamas",
       "score": 67.4
+    },
+    {
+      "id": "2026-07-12-968fb708",
+      "headline": "US Senator Lindsey Graham dies after 'brief and sudden illness'",
+      "summary": "Graham, a prominent Republican voice on foreign policy, had recently returned from Ukraine, where he met with Ukrainian President Volodymyr Zelenskyy in Kyiv.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "07:33",
+      "conflict_id": "ukraine-war",
+      "score": 66.0
+    },
+    {
+      "id": "2026-07-12-b0e59617",
+      "headline": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
+      "summary": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "13:28",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
+    },
+    {
+      "id": "2026-07-12-d5f47290",
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "16:07",
+      "conflict_id": null,
+      "score": 59.0
     },
     {
       "id": "2026-07-12-b2841647",
@@ -34,14 +76,14 @@
     {
       "id": "2026-07-12-f8f2c735",
       "headline": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "The strikes follow an attack on a Cyprus-flagged vessel travelling through the critical waterway.",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "15:35",
+      "time": "15:58",
       "conflict_id": null,
       "score": 52.0
     },
@@ -60,20 +102,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-07-12-b0e59617",
-      "headline": "Ukraine’s Zelenskyy announces cabinet reshuffle, replaces PM Svyrydenko",
-      "summary": "Yulia Svyrydenko to step down amid government shake-up aimed at prioritising foreign policy and security goals.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/ukraines-zelenskyy-announces-cabinet-reshuffle-replaces-pm-svyrydenko?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "13:28",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
       "id": "2026-07-12-cf21d641",
       "headline": "US and Iran exchange fresh strikes in battle over Strait of Hormuz",
       "summary": "Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’",
@@ -88,18 +116,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-12-10183abf",
-      "headline": "Fresh Strikes Threaten US Iran Talks",
-      "summary": "Bloomberg's Abeer Abu Omar and ABC News' Shannon Kingston say renewed attacks in and around the Strait of Hormuz have undermined fragile diplomatic efforts, with Gulf allies pressing to revive negotiations as shipping and regional security remain under threat. They say technical talks continue to face resistance from hardline factions in Iran, while Sen. Lindsey Graham's death leaves a significant void for US foreign policy and bipartisan support",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-12/fresh-strikes-threaten-us-iran-talks-video",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
+      "id": "2026-07-12-0393acbe",
+      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
+      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "business",
       "date": "2026-07-12",
-      "time": "13:40",
+      "time": "15:37",
       "conflict_id": null,
-      "score": 51.1
+      "score": 50.4
     },
     {
       "id": "2026-07-12-48fa60a7",
@@ -128,6 +156,20 @@
       "time": "15:32",
       "conflict_id": null,
       "score": 50.2
+    },
+    {
+      "id": "2026-07-12-10183abf",
+      "headline": "Fresh Strikes Threaten US Iran Talks",
+      "summary": "Bloomberg's Abeer Abu Omar and ABC News' Shannon Kingston say renewed attacks in and around the Strait of Hormuz have undermined fragile diplomatic efforts, with Gulf allies pressing to revive negotiations as shipping and regional security remain under threat. They say technical talks continue to face resistance from hardline factions in Iran, while Sen. Lindsey Graham's death leaves a significant void for US foreign policy and bipartisan support",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-12/fresh-strikes-threaten-us-iran-talks-video",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "13:40",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-07-12-0ad00d13",
@@ -186,34 +228,6 @@
       "score": 48.4
     },
     {
-      "id": "2026-07-12-5a30d990",
-      "headline": "US CENTCOM completes third round of strikes on Iran",
-      "summary": "US CENTCOM completes third round of strikes on Iran",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/us-centcom-completes-third-round-of-strikes-on-iran?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "07:58",
-      "conflict_id": null,
-      "score": 48.4
-    },
-    {
-      "id": "2026-07-12-1e7794a1",
-      "headline": "Missiles and drones fired at Gulf states after night of US strikes on Iran",
-      "summary": "Three people injured by falling shrapnel in Qatar as attacks also reported in UAE, Kuwait, Bahrain, Oman and Jordan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/missiles-and-drones-fired-at-gulf-states-after-night-of-us-strikes-on-iran?traffic_source=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "07:53",
-      "conflict_id": null,
-      "score": 48.4
-    },
-    {
       "id": "2026-07-12-a78ef6d0",
       "headline": "UK couple found burned and semi-conscious in Almería amid Spanish wildfires",
       "summary": "Pair airlifted to hospital in two-hour rescue operation after Guardia Civil searched area for survivorsA British couple have been found badly burned and semi-conscious in a Spanish ravine amid deadly wildfires that have swept through the country’s Almería province, according to local media reports.The couple were on holiday in the region and were thought to be out hiking when they were caught up in the wildfire, which has so far killed 12 people ",
@@ -226,6 +240,34 @@
       "time": "14:26",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-07-12-cc4fa1f9",
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
+      "summary": "After Sheikh Hamad&#039;s death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "09:40",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-07-12-ce2b3576",
+      "headline": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "06:43",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-07-12-2a0269d6",
@@ -279,7 +321,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-07-12",
-      "time": "12:54",
+      "time": "16:13",
       "conflict_id": null,
       "score": 41.2
     },
@@ -312,6 +354,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-07-12-e0c58f41",
+      "headline": "Iran launches major missile attacks across the Gulf",
+      "summary": "Euronews journalists in Qatar report two waves of Iranian attacks and large explosions above Doha, air defence also responding to Iranian attacks in UAE, Bahrain, Kuwait and others, hours after the US conducted new airstrikes in Iran in response to a ship being hit by Iran in the Strait of Hormuz.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/12/iran-launches-attacks-on-qatar-uae-bahrain-kuwait-following-us-strikes",
+      "region": "MENA",
+      "country": "Bahrain",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "04:42",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-07-12-4f19c79e",
       "headline": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
@@ -324,20 +380,6 @@
       "time": "07:39",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-12-0393acbe",
-      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
-      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "13:46",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-07-12-1eb81cbb",
@@ -368,20 +410,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-12-cc4fa1f9",
-      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies: Reactions",
-      "summary": "After Sheikh Hamad&#039;s death, global leaders offer condolences, praise his legacy and Qatar’s growth.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/12/former-emir-of-qatar-sheikh-hamad-bin-khalifa-al-thani-dies-reactions?traffic_source=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "09:40",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-07-12-5b834906",
       "headline": "World AI Conference, South Korea monetary policy, China economic data",
       "summary": "",
@@ -410,6 +438,34 @@
       "score": 30.8
     },
     {
+      "id": "2026-07-12-4a031267",
+      "headline": "Superpower US still too young to take path toward decline",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/comment/superpower-us-still-too-young-to-take-path-toward-decline",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
+      "id": "2026-07-12-9c6cdb71",
+      "headline": "Argentina fans erupt as Messi's men reach World Cup semifinal",
+      "summary": "Argentina fans celebrate in Buenos Aires after a dramatic 3-1 extra-time win over ten-man Switzerland sends the defending champions into the World Cup semifinals.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/12/argentina-fans-erupt-as-messis-men-reach-world-cup-semifinal",
+      "region": "EU",
+      "country": "Switzerland",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "10:02",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-07-12-086ea405",
       "headline": "How Aldi is taking on US supermarkets with its $4 almond butter",
       "summary": "The German supermarket's $9bn US push targets urban hubs like Manhattan. Can its discount model match Walmart?",
@@ -436,6 +492,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-12-9c364095",
+      "headline": "Oil Market Prices In Hormuz Resilience",
+      "summary": "Bloomberg Intelligence senior commodities strategist Mike McGlone says oil markets are largely accepting US assurances that the Strait of Hormuz remains open, with expanding Western Hemisphere supply and alternative export routes limiting the long-term impact of Gulf disruptions on crude prices. He says gasoline and diesel prices remain elevated because refining margins have widened, but expects crude oil prices to trend lower over time as global",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-12/oil-market-prices-in-hormuz-resilience-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "16:08",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-12-9024ffd5",
@@ -522,9 +592,23 @@
       "score": 24.0
     },
     {
+      "id": "2026-07-12-5a0386b0",
+      "headline": "Syrian parliament convenes for first time following al-Assad’s overthrow",
+      "summary": "President Ahmed Al-Sharaa stresses that improving the economy and strengthening public services are key priorities.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/syrian-parliament-convenes-for-first-time-following-al-assads-overthrow?traffic_source=rss",
+      "region": "MENA",
+      "country": "Syria",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "15:38",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-07-12-4a09a9e5",
       "headline": "FIFA, Infantino, to examine 64-team World Cup for 2030 tournament",
-      "summary": "FIFA President Gianni Infantino considering a proposal to add a further 16 nations ahead of the World Cup in four years.",
+      "summary": "FIFA President Gianni Infantino considering a proposal to add another 16 nations ahead of the World Cup in four years.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/7/12/fifa-infantino-to-examine-64-team-world-cup-for-2030-tournament?traffic_source=rss",
       "region": "MENA",
@@ -592,18 +676,32 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-11-80f23c8b",
-      "headline": "Hormuz Dispute Clouds US Iran Diplomacy",
-      "summary": "Bloomberg News Middle East reporter Dan Williams says negotiations between the US and Iran remain focused on securing freedom of navigation through the Strait of Hormuz, even as President Donald Trump's escalating rhetoric underscores the fragile state of the ceasefire. Williams says Iran's leadership remains opaque, questioned claims that recent attacks on commercial shipping reflected a command failure, and warned that Tehran could emerge with ",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-11/hormuz-dispute-clouds-us-iran-diplomacy-video",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-11",
-      "time": "13:57",
+      "id": "2026-07-12-a98b1e90",
+      "headline": "Jude Bellingham double sends jubilant England into World Cup semis",
+      "summary": "England beat Norway 2-1 in extra time on 12 July 2026 to reach the World Cup semifinals. Fans celebrated in London after a Jude Bellingham double sent the Three Lions through to face Argentina.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/12/jude-bellingham-double-sends-jubilant-england-into-world-cup-semis",
+      "region": "EU",
+      "country": "Argentina",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "10:11",
       "conflict_id": null,
-      "score": 67.1
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-12-f9d4df5a",
+      "headline": "England quarter-final win leaves Norwegian adopting British Airways logo",
+      "summary": "Norway’s low-cost carrier lost its cheeky wager with British Airways after the quarter-final loss, but celebrated England’s win with a new flash sale on Norwegian and England destinations",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/07/12/england-quarter-final-win-leaves-norwegian-adopting-british-airways-logo",
+      "region": "EU",
+      "country": "Norway",
+      "category": "business",
+      "date": "2026-07-12",
+      "time": "09:26",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-07-11-04b8e05b",
@@ -760,20 +858,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-11-8e8a0853",
-      "headline": "Trump-Appointed Judge Reluctantly Grants Dismissal of Proud Boys Case",
-      "summary": "Judge Timothy J. Kelly, a federal judge in Washington, noted that he had little choice but to accept the Trump administration’s move to end the case.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/11/us/politics/judge-proud-boys-sedition-dismissal.html",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-07-11",
-      "time": "15:06",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-10-af8dc78a",
       "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
       "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
@@ -816,20 +900,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-10-6da3c465",
-      "headline": "Meet the crypto billionaires building a world where money buys you a vote",
-      "summary": "They think democracy has run its course - so they're setting up their own nations instead.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly8eqyj8e2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-10",
-      "time": "23:03",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-09-efdc81dd",
       "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
       "summary": "Aid worker Mohammed al-Wahidi had become a prominent humanitarian figure during the Israel-Hamas war.",
@@ -856,6 +926,20 @@
       "time": "22:41",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-09-f569a502",
+      "headline": "Venomous snakes escape breeding farms in southern China during flooding",
+      "summary": "Local media in Hengzhou report king ratsnakes and cobras among hundreds in flood waters caused by typhoon MaysakHundreds of snakes, including cobras, have escaped from flooded breeding farms in southern China as severe storms continue to batter parts of the country.State media reported that a snake farm in Hengzhou, in Guangxi Zhuang autonomous region, was hit by flood waters after days of heavy rainfall caused by typhoon Maysak, prompting warnin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/09/snakes-cobras-escape-breeding-farms-southern-china-flooding",
+      "region": "NA",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-09",
+      "time": "08:08",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-07-09-ee28119e",
@@ -897,7 +981,7 @@
       "date": "2026-07-08",
       "time": "08:11",
       "conflict_id": null,
-      "score": 52.0
+      "score": 51.0
     },
     {
       "id": "2026-07-08-772750b2",
@@ -910,6 +994,20 @@
       "category": "politics",
       "date": "2026-07-08",
       "time": "18:05",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-08-eafe590b",
+      "headline": "Are Argentina being treated favourably at World Cup?",
+      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Argentina",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "15:37",
       "conflict_id": null,
       "score": 43.0
     },
@@ -1024,34 +1122,6 @@
       "time": "17:44",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-07-06-ec523093",
-      "headline": "Huge crowds fill Tehran streets for Khamenei's funeral procession",
-      "summary": "Many people were waving Iranian flags and red banners symbolising vengeance for the former supreme leader's war death.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdejj44kl70o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-06",
-      "time": "18:50",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-06-7c4ee058",
-      "headline": "Israeli police officer filmed throwing stun grenade into car in West Bank",
-      "summary": "Israel's police force says the officer acted \"not in accordance with procedure\" and that it has opened an investigation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1eyyyl8ye0o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-06",
-      "time": "18:52",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-05-3e8cf513",
