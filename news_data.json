@@ -1,35 +1,21 @@
 {
-  "updated": "2026-07-12T21:29:22.464960+00:00",
-  "story_count": 84,
-  "source_count": 10,
+  "updated": "2026-07-12T22:22:36.741146+00:00",
+  "story_count": 81,
+  "source_count": 8,
   "stories": [
     {
-      "id": "2026-07-12-968fb708",
-      "headline": "US Senator Lindsey Graham dies after 'brief and sudden illness'",
-      "summary": "Graham, a prominent Republican voice on foreign policy, had recently returned from Ukraine, where he met with Ukrainian President Volodymyr Zelenskyy in Kyiv.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/12/us-senator-lindsey-graham-dies-after-brief-and-sudden-illness",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "07:33",
-      "conflict_id": "ukraine-war",
-      "score": 66.0
-    },
-    {
-      "id": "2026-07-12-1d8b59b8",
-      "headline": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
-      "summary": "US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "id": "2026-07-12-bfefadb1",
+      "headline": "US launches another round of strikes on Iran as ceasefire teeters",
+      "summary": "Trump administration insists that the Strait of Hormuz remains open after Tehran declared it closed",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c5beec47-ba53-412e-910e-6b9ab2f3238d",
       "region": "NA",
-      "country": "Washington",
+      "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "21:12",
+      "time": "21:51",
       "conflict_id": null,
-      "score": 56.4
+      "score": 59.4
     },
     {
       "id": "2026-07-12-f8f2c735",
@@ -41,7 +27,7 @@
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "16:46",
+      "time": "22:17",
       "conflict_id": null,
       "score": 52.0
     },
@@ -55,7 +41,7 @@
       "country": "America",
       "category": "politics",
       "date": "2026-07-12",
-      "time": "17:40",
+      "time": "22:08",
       "conflict_id": null,
       "score": 52.0
     },
@@ -74,60 +60,18 @@
       "score": 52.0
     },
     {
-      "id": "2026-07-12-ecbdd826",
-      "headline": "US launches new strikes on Iran in battle over Strait of Hormuz",
-      "summary": "Trump claims waterway is open while Tehran says it will remain closed until ‘further notice’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6b6c23e9-f24e-4c3e-bb1a-e5cb6860008d",
+      "id": "2026-07-12-b95cb452",
+      "headline": "US Says It Began Launching More Strikes Against Iran at 5pm ET",
+      "summary": "US Central Command forces began launching more strikes against Iran at 5 p.m. ET today, to continue degrading their ability to attack civilian mariners and commercial ships freely transiting the Strait of Hormuz, according to a post on X.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-12/us-says-it-began-launching-more-strikes-against-iran-at-5pm-et",
       "region": "NA",
-      "country": "Tehran",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "17:12",
+      "time": "21:22",
       "conflict_id": null,
-      "score": 51.4
-    },
-    {
-      "id": "2026-07-12-d5f47290",
-      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "16:35",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-12-5a5d3333",
-      "headline": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
-      "summary": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "16:43",
-      "conflict_id": null,
-      "score": 50.2
-    },
-    {
-      "id": "2026-07-12-45029151",
-      "headline": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
-      "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "17:02",
-      "conflict_id": null,
-      "score": 50.2
+      "score": 51.1
     },
     {
       "id": "2026-07-12-a6ada354",
@@ -139,7 +83,7 @@
       "country": "Washington",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "21:22",
+      "time": "22:14",
       "conflict_id": null,
       "score": 50.2
     },
@@ -158,27 +102,27 @@
       "score": 50.1
     },
     {
-      "id": "2026-07-12-0ad00d13",
-      "headline": "Lindsey Graham dies after ‘sudden illness’; Trump says senator was like family",
-      "summary": "Graham died hours after returning from a trip to Ukraine. Trump said he spoke with the senator Saturday evening and that “could’ve been his last call.”",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/07/12/lindsey-graham-longtime-south-carolina-senator-dies-71/",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-07-12-5a5d3333",
+      "headline": "How Trump Failed to Secure the Strait of Hormuz in His Iran Deal",
+      "summary": "President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "18:31",
+      "time": "16:43",
       "conflict_id": null,
-      "score": 49.9
+      "score": 49.2
     },
     {
-      "id": "2026-07-12-48fa60a7",
-      "headline": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
-      "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
+      "id": "2026-07-12-45029151",
+      "headline": "Trump Recalls Last Conversation With Lindsey Graham Before His Death",
+      "summary": "In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html",
       "region": "EU",
-      "country": "NATO",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-07-12",
       "time": "17:02",
@@ -214,6 +158,20 @@
       "score": 48.0
     },
     {
+      "id": "2026-07-12-1d8b59b8",
+      "headline": "Lindsey Graham, hardline backer of US-Israeli wars, dies aged 71",
+      "summary": "US senator Lindsey Graham, a key ally of Israel and one of Washington’s most prominent foreign policy hawks, has died.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/lindsey-graham-hardline-backer-of-us-israeli-wars-dies-aged-71?traffic_source=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "21:12",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-07-12-b2841647",
       "headline": "Zelenskyy dismisses Ukraine’s PM in cabinet shake-up",
       "summary": "Yulia Svyrydenko to exit as president announces sweeping government changes less than a year since last reshuffle",
@@ -242,18 +200,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-12-0393acbe",
-      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
-      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
+      "id": "2026-07-12-d5f47290",
+      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
+      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Qatar",
-      "category": "business",
+      "category": "geopolitics",
       "date": "2026-07-12",
-      "time": "15:37",
+      "time": "16:35",
       "conflict_id": null,
-      "score": 42.4
+      "score": 43.0
     },
     {
       "id": "2026-07-12-9905bfba",
@@ -268,20 +226,6 @@
       "time": "17:31",
       "conflict_id": null,
       "score": 42.1
-    },
-    {
-      "id": "2026-07-12-dc3829a6",
-      "headline": "Lindsey Graham Was Facing Re-election in November. What Happens Now?",
-      "summary": "South Carolina law suggests his death triggers an Aug. 11 special Republican primary election, and the state’s governor can appoint a replacement to serve out the rest of his term, through early January.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "20:46",
-      "conflict_id": null,
-      "score": 41.2
     },
     {
       "id": "2026-07-12-1994b77d",
@@ -312,20 +256,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-12-ce2b3576",
-      "headline": "Former Qatar ruler Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "summary": "Sheikh Hamad was known for having helped bring about huge economic, social, and cultural change in Qatar during his reign and helping establish the nation as a global player in diplomacy and investment.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/12/former-qatar-ruler-sheikh-hamad-bin-khalifa-al-thani-dies-aged-74",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "06:43",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-07-12-4f19c79e",
       "headline": "China evacuates nearly two million people as powerful typhoon makes landfall",
       "summary": "Schools, work and outdoor activities have been suspended in Zhejiang province and many transport services cancelled.",
@@ -340,32 +270,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-12-2d49f3d2",
-      "headline": "Hormuz Route Open Despite Iran Declaration, Maritime Group Says",
-      "summary": "The Strait of Hormuz’s southern route remained open to shipping on Sunday despite Iran declaring the waterway closed as tit-for-tat attacks between the US and Tehran escalated, a maritime advisory group said.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/hormuz-route-open-despite-iran-declaration-maritime-group-says",
+      "id": "2026-07-12-0393acbe",
+      "headline": "Qatar’s Sheikh Hamad bin Khalifa al-Thani dies aged 74",
+      "summary": "Former ruler was known for modernising gas-rich Gulf state and pursuing regional dialogue rather than confrontation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/99d08a69-6c14-46fd-bf91-2ac517f7a475",
       "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
+      "country": "Qatar",
+      "category": "business",
       "date": "2026-07-12",
-      "time": "10:02",
+      "time": "15:37",
       "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-12-902b9d18",
-      "headline": "Typhoon Bavi Weakens as Heavy Rain Spreads Across China",
-      "summary": "China’s National Meteorological Center said Typhoon Bavi weakened to a severe tropical storm on Sunday morning after making landfall in Zhejiang.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/typhoon-bavi-weakens-as-heavy-rain-spreads-across-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "01:59",
-      "conflict_id": null,
-      "score": 34.1
+      "score": 34.4
     },
     {
       "id": "2026-07-12-ad4ae004",
@@ -378,6 +294,34 @@
       "category": "politics",
       "date": "2026-07-12",
       "time": "13:48",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-07-12-dc3829a6",
+      "headline": "Lindsey Graham Was Facing Re-election in November. What Happens Now?",
+      "summary": "South Carolina law suggests his death triggers an Aug. 11 special Republican primary election, and the state’s governor can appoint a replacement to serve out the rest of his term, through early January.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "20:46",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-07-12-48fa60a7",
+      "headline": "Leaders From Home and Abroad Remember Senator Lindsey Graham",
+      "summary": "Mr. Graham’s unexpected death on Saturday prompted a wave of tributes for an outsize and often divisive figure in U.S. foreign policy.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-world-react.html",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "22:07",
       "conflict_id": null,
       "score": 33.2
     },
@@ -424,6 +368,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-12-8ba6ea33",
+      "headline": "Israel releases video of huge detonations in Lebanon",
+      "summary": "The Israeli military has released video showing huge explosions and detonations in villages in southern Lebanon.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/israel-releases-video-of-huge-detonations-in-lebanon?traffic_source=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "21:50",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-12-b0f5f8e0",
       "headline": "Iran says almost a dozen ‘enemy projectiles’ targeted Qeshm Island",
       "summary": "New explosions have been heard in Bandar Abbas and Qeshm Island.",
@@ -464,20 +422,6 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
-    },
-    {
-      "id": "2026-07-12-9c6cdb71",
-      "headline": "Argentina fans erupt as Messi's men reach World Cup semifinal",
-      "summary": "Argentina fans celebrate in Buenos Aires after a dramatic 3-1 extra-time win over ten-man Switzerland sends the defending champions into the World Cup semifinals.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/12/argentina-fans-erupt-as-messis-men-reach-world-cup-semifinal",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "10:02",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-07-12-c96c7aa4",
@@ -606,23 +550,23 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-12-825915b6",
-      "headline": "Korea’s World-Beating Stocks Are Now Trading Cheaper Than Ever",
-      "summary": "South Korea’s blistering stock rally has left investors facing an unlikely backdrop: equities trading at record-low valuations.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-12/korea-s-world-beating-stocks-are-now-trading-cheaper-than-ever",
+      "id": "2026-07-12-6f77a6e8",
+      "headline": "Australia news live: auction clearances nudge up after weeks under 50%; state farewell for Richard Scolyer",
+      "summary": "Almost 55% of homes at auction were sold, weekend figures show. Follow today’s news liveGet our breaking news email, free app or daily news podcastShadow education minister labels university leaders ‘weak and spineless’ over antisemitismJulian Leeser, the shadow minister for education, said the time for universities “mucking around” on definitions of antisemitism were over.Universities are the place where the next generation of leaders goes to be",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/13/australia-news-live-auction-clearances-property-market-richard-scolyer-state-memorial-royal-commission-antisemitism-university-albanese-labor-coalition-ntwnfb",
       "region": "APJ",
-      "country": "South Korea",
-      "category": "business",
+      "country": "Australia",
+      "category": "politics",
       "date": "2026-07-12",
-      "time": "00:00",
+      "time": "22:08",
       "conflict_id": null,
-      "score": 26.1
+      "score": 24.0
     },
     {
       "id": "2026-07-12-7f2c641c",
       "headline": "Australia to ditch paper arrrival cards for incoming travellers",
-      "summary": "Digital customs declaration to be phased in at all international airports and seaports after successful Qantas trialGet our breaking news email, free app or daily news podcastThe days of filling out paper arrival cards are to end for millions of travellers arriving in Australia on international flights.The Albanese government has announced it will roll out digital passenger cards to all Australian international airports and seaports after a “succ",
+      "summary": "Digital customs declaration to be phased in at all international airports and seaports after successful Qantas trialFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe days of filling out paper arrival cards are to end for millions of travellers arriving in Australia on international flights.The Albanese government has announced it will roll out digital passenger cards to all Austra",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jul/13/australia-travel-declaration-digital-to-replace-paper-customs-passenger-card-incoming-travellers",
       "region": "APJ",
@@ -636,7 +580,7 @@
     {
       "id": "2026-07-12-1638bdc9",
       "headline": "One Nation’s rise puts the next election in ‘unknown territory’ – but does Pauline Hanson really have a path to government?",
-      "summary": "Data shows the rightwing party faces an obstacle in the form of urban seats – and the effect of preference flows is harder to predictGet our breaking news email, free app or daily news podcastOne Nation’s spectacular rise from a distant 6% of the vote in the last election to first or second in some recent polls has upended Australian politics. It has also made it a lot harder to predict what exactly will happen at the next election.Traditionally,",
+      "summary": "Data shows the rightwing party faces an obstacle in the form of urban seats – and the effect of preference flows is harder to predictFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastOne Nation’s spectacular rise from a distant 6% of the vote in the last election to first or second in some recent polls has upended Australian politics. It has also made it a lot harder to predict what e",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/news/2026/jul/13/one-nation-rise-next-election-pauline-hanson-path-to-government",
       "region": "APJ",
@@ -646,6 +590,34 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-07-12-d3bb4676",
+      "headline": "Israel to hold national elections on October 27, parliament says",
+      "summary": "Netanyahu, Israel&#039;s longest-serving prime minister, has confirmed that he will run for office again.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/12/israel-to-hold-national-elections-on-october-27-parliament-says?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "21:26",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-07-12-305ddd0d",
+      "headline": "Protest on London’s Tower Bridge demands release of Dr Hussam Abu Safia",
+      "summary": "Pro-Palestine activists unfurled a giant Palestinian flag and a banner on London&#039;s Tower Bridge.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/12/protest-on-londons-tower-bridge-demands-release-of-dr-hussam-abu-safia?traffic_source=rss",
+      "region": "MENA",
+      "country": "Palestine",
+      "category": "politics",
+      "date": "2026-07-12",
+      "time": "21:21",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-12-d8d52d95",
@@ -746,48 +718,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-12-5eec5aa9",
-      "headline": "Israel to hold elections on 27 October in what is seen as referendum on Netanyahu leadership",
-      "summary": "Israel will hold national elections on 27 October, the last date allowed by law to hold national elections. The Knesset is set to end its current term on 17 July.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/12/israel-to-hold-elections-on-27-october-in-what-is-seen-as-referendum-on-netanyahu-leadersh",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-07-12",
-      "time": "18:59",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-07-12-a98b1e90",
-      "headline": "Jude Bellingham double sends jubilant England into World Cup semis",
-      "summary": "England beat Norway 2-1 in extra time on 12 July 2026 to reach the World Cup semifinals. Fans celebrated in London after a Jude Bellingham double sent the Three Lions through to face Argentina.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/12/jude-bellingham-double-sends-jubilant-england-into-world-cup-semis",
-      "region": "EU",
-      "country": "Argentina",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "10:11",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-07-12-f9d4df5a",
-      "headline": "England quarter-final win leaves Norwegian adopting British Airways logo",
-      "summary": "Norway’s low-cost carrier lost its cheeky wager with British Airways after the quarter-final loss, but celebrated England’s win with a new flash sale on Norwegian and England destinations",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/07/12/england-quarter-final-win-leaves-norwegian-adopting-british-airways-logo",
-      "region": "EU",
-      "country": "Norway",
-      "category": "business",
-      "date": "2026-07-12",
-      "time": "09:26",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-07-11-92297d00",
       "headline": "Polish PM pledges memorial to victims of WW2 'genocide by Ukrainian nationalists'",
       "summary": "Warsaw and Kyiv have for decades been at loggerheads over the killings of many thousands of civilians during World War Two.",
@@ -802,18 +732,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-11-cbdd0eb4",
-      "headline": "Hormuz Reopening Faces Costly Hurdles",
-      "summary": "Senior Fellow at the Council on Foreign Relations Clara Gillispie says Gulf energy flows face an uncertain recovery as producers work to clear ships, bring in tankers, restart halted output and repair damage to refineries, LNG facilities and ports. She says the Strait of Hormuz remains unstable, with shipping still below prewar levels and US pressure on Iran complicating efforts to restore safe passage. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-11/hormuz-reopening-faces-costly-hurdles-video",
+      "id": "2026-07-11-1677c102",
+      "headline": "US Democrat Ro Khanna says he was detained by armed Israeli settlers",
+      "summary": "Khanna, 49, was visiting the occupied West Bank when he was held for 90 minutes, he says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qyk9jwq9no?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Iran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-11",
-      "time": "13:57",
+      "time": "18:00",
       "conflict_id": null,
-      "score": 34.1
+      "score": 35.0
     },
     {
       "id": "2026-07-11-405117ff",
@@ -828,6 +758,20 @@
       "time": "17:23",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-07-11-1cfc230b",
+      "headline": "Trump administration subpoenas New York Times journalists over Air Force One reporting",
+      "summary": "The reporters received the legal summons after they reported on alleged security issues with the president's new plane, which was gifted by Qatar.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpd3g8q51g7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-11",
+      "time": "16:11",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-11-b8a84ca9",
@@ -872,20 +816,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-10-af8dc78a",
-      "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
-      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "13:40",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-10-8021c981",
       "headline": "South Korea chip maker SK hynix rides AI boom raising $26.5bn in huge US listing",
       "summary": "SK hynix, a supplier of advanced memory chips, has seen profits skyrocket thanks to the global race to build AI datacentresSouth Korean chip maker SK hynix set pricing for its mega US listing on Friday, aiming to raise $26.5bn as it takes advantage of the AI boom in what will be one of the world’s biggest ever stock sales.The Asian semiconductor giant plans to issue the equivalent of about 18m shares on Wall Street’s tech-heavy Nasdaq index later",
@@ -910,6 +840,34 @@
       "category": "politics",
       "date": "2026-07-10",
       "time": "23:03",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-10-af8dc78a",
+      "headline": "Watch: Typhoon Bavi forecast to bring heavy rains and floods to Taiwan, Japan and China",
+      "summary": "See how the powerful storm is expected to move across east Asia on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0myengg8nzo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "13:40",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-10-8259b3e6",
+      "headline": "Factory fire kills at least 28 in China's 'shoe capital'",
+      "summary": "Footage shows huge flames rising from a building and thick, black smoke rising into the sky.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vz51v2pjo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-10",
+      "time": "01:12",
       "conflict_id": null,
       "score": 27.0
     },
@@ -981,7 +939,7 @@
       "date": "2026-07-08",
       "time": "08:11",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-07-08-772750b2",
@@ -995,35 +953,7 @@
       "date": "2026-07-08",
       "time": "18:05",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-08-eafe590b",
-      "headline": "Are Argentina being treated favourably at World Cup?",
-      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Argentina",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "15:37",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-08-1dcd44a4",
-      "headline": "Nato chief tells BBC that Trump comments are like 'family argument'",
-      "summary": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-08",
-      "time": "20:58",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 51.0
     },
     {
       "id": "2026-07-08-58daad92",
@@ -1054,20 +984,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-08-dad824b5",
-      "headline": "Bowen: For all his bluster, Trump has no better option than talks with Iran",
-      "summary": "The negotiating process is fragile and recent US strikes show how hard it will be to reach agreement, writes BBC's International Editor Jeremy Bowen.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8we3j14ndo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-08",
-      "time": "15:30",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-08-accc9e77",
       "headline": "A mountain of rubbish in Indonesia has been on fire for more than a week",
       "summary": "Environmental activists say the blaze is a symptom of the country's growing waste crisis.",
@@ -1094,6 +1010,34 @@
       "time": "05:44",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-08-eafe590b",
+      "headline": "Are Argentina being treated favourably at World Cup?",
+      "summary": "Egypt have alleged bias in favour of Argentina and favouritism towards their star player, Lionel Messi. Is this fair?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cx2wkwd7e6go?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Argentina",
+      "category": "geopolitics",
+      "date": "2026-07-08",
+      "time": "15:37",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-08-4296f1ec",
+      "headline": "Will Le Pen rise again? French nationalist leader defiant after court's ruling",
+      "summary": "Within hours of a court of appeal confirming a guilty verdict, Marine Le Pen had already launched her presidential campaign.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgdlprp1r3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-08",
+      "time": "03:22",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-08-dfab9fcc",
@@ -1134,6 +1078,20 @@
       "category": "politics",
       "date": "2026-07-07",
       "time": "18:03",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-07-46b58d21",
+      "headline": "Mbappe condemns racist posts from Paraguay senator",
+      "summary": "France forward Kylian Mbappe condemns a Paraguayan senator as \"despicable\" and unworthy of her position after she made a number of racist remarks mocking his origin and education.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckg557wxrzro?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-07-07",
+      "time": "08:51",
       "conflict_id": null,
       "score": 35.0
     },
