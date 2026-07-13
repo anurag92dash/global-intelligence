@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-13T22:06:06.931228+00:00",
+  "updated": "2026-07-13T23:09:08.994633+00:00",
   "story_count": 75,
   "source_count": 10,
   "stories": [
@@ -41,7 +41,7 @@
       "country": "Washington",
       "category": "geopolitics",
       "date": "2026-07-13",
-      "time": "21:33",
+      "time": "22:27",
       "conflict_id": null,
       "score": 59.4
     },
@@ -102,6 +102,20 @@
       "score": 53.0
     },
     {
+      "id": "2026-07-13-ff9835b9",
+      "headline": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
+      "summary": "The US military later said it had started the third consecutive night of strikes on Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-13",
+      "time": "22:47",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
       "id": "2026-07-13-faf3b6ab",
       "headline": "Lindsey Graham's sister chosen as replacement after senator's death",
       "summary": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
@@ -144,8 +158,8 @@
       "score": 52.0
     },
     {
-      "id": "2026-07-13-d27a8f44",
-      "headline": "Trump Restarts Iran Blockade as US Plans 20% Hormuz Charge",
+      "id": "2026-07-13-550e8c24",
+      "headline": "US Hits Iran With Strikes, Blockade as Trump Plans Hormuz Charge",
       "summary": "President Donald Trump reinstated the US blockade of Iranian ships transiting the Strait of Hormuz and demanded a 20% reimbursement on all other cargo shipped through the waterway.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-13/trump-says-us-will-be-reimbursed-20-rate-for-hormuz-traffic",
@@ -158,23 +172,9 @@
       "score": 51.1
     },
     {
-      "id": "2026-07-13-ff9835b9",
-      "headline": "Trump reinstates Iran port blockade and vows 20% charge on cargo passing through Hormuz",
-      "summary": "The US president also says Washington will impose a 20% charge on all cargo shipped through the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-07-13",
-      "time": "21:46",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-07-13-c907255b",
       "headline": "Lindsey Graham’s sister picked to serve the rest of his Senate term",
-      "summary": "South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January after her brother died suddenly amid a campaign for a fifth term.",
+      "summary": "South Carolina Gov. Henry McMaster (R) announced his selection of Darline Graham Nordone to serve into January. She is expected to be sworn in Tuesday.",
       "source": "Washington Post",
       "url": "https://www.washingtonpost.com/politics/2026/07/13/trump-recommends-lindsey-grahams-sister-serve-rest-his-senate-term/",
       "region": "NA",
@@ -186,13 +186,55 @@
       "score": 49.9
     },
     {
+      "id": "2026-07-13-5695928c",
+      "headline": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
+      "summary": "Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-13",
+      "time": "20:48",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
+      "id": "2026-07-13-42980a34",
+      "headline": "Lindsey Graham’s Sister Darline Nordone Was His Family",
+      "summary": "After the senator and his sister, Darline, lost their parents, he guided her through the teenage years and into college. He called her success the highlight of his life.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/13/us/lindsey-graham-sister-darline-nordone.html",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-13",
+      "time": "14:01",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
+      "id": "2026-07-13-bae57239",
+      "headline": "Backed by Trump, Lindsey Graham’s sister Darline will replace him in Senate",
+      "summary": "South Carolina governor chooses Darline Graham Nordone to serve the rest of the late US senator&#039;s term until early 2027.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/backed-by-trump-lindsey-grahams-sister-darline-will-replace-him-in-senate?traffic_source=rss",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-13",
+      "time": "22:33",
+      "conflict_id": null,
+      "score": 48.4
+    },
+    {
       "id": "2026-07-13-25410008",
       "headline": "US, Iran exchange attacks around Strait of Hormuz",
-      "summary": "This is a breaking news story.",
+      "summary": "Washington and Tehran both claim to be in control of the Strait of Hormuz as fighting escalates.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/13/missile-strikes-and-attacks-on-ships-reported-around-strait-of-hormuz?traffic_source=rss",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Washington",
       "category": "geopolitics",
       "date": "2026-07-13",
       "time": "21:19",
@@ -270,6 +312,20 @@
       "score": 45.0
     },
     {
+      "id": "2026-07-13-0e88456e",
+      "headline": "Kyiv attacked after Ukraine launches coalition to tackle Russia missiles",
+      "summary": "Russia has escalated attacks in recent weeks, taking advantage of Ukraine’s critical shortage of air defences.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/13/ukraine-and-allies-launch-coalition-to-tackle-russias-ballistic-missiles?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-13",
+      "time": "20:41",
+      "conflict_id": "ukraine-war",
+      "score": 43.4
+    },
+    {
       "id": "2026-07-13-c3484d60",
       "headline": "Lindsey Graham’s Death Transforms the Race for His Democratic Challenger",
       "summary": "Annie Andrews, a pediatrician, has offered condolences to those who loved Mr. Graham while considering the political fallout from his death. Republicans are scrambling to arrange a new primary election.",
@@ -279,51 +335,23 @@
       "country": null,
       "category": "politics",
       "date": "2026-07-13",
-      "time": "21:13",
+      "time": "22:11",
       "conflict_id": null,
       "score": 41.2
     },
     {
-      "id": "2026-07-13-5695928c",
-      "headline": "Lindsey Graham’s Sister Appointed to Finish His Senate Term After Trump’s Backing",
-      "summary": "Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.",
+      "id": "2026-07-13-b5909ae0",
+      "headline": "How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player",
+      "summary": "He initially called Donald Trump a “kook” who was “unfit for office,” only to join the new president’s Mar-a-Lago circle. “I’m still in the game,” Mr. Graham once explained of his much-analyzed turnabout.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html",
       "region": "NA",
-      "country": "Senate",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-07-13",
-      "time": "20:48",
+      "time": "16:48",
       "conflict_id": null,
       "score": 41.2
-    },
-    {
-      "id": "2026-07-13-42980a34",
-      "headline": "Lindsey Graham’s Sister Darline Nordone Was His Family",
-      "summary": "After the senator and his sister, Darline, lost their parents, he guided her through the teenage years and into college. He called her success the highlight of his life.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/13/us/lindsey-graham-sister-darline-nordone.html",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-07-13",
-      "time": "14:01",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-07-13-a8798945",
-      "headline": "Weather tracker: Unusually warm rivers affect French nuclear power plants",
-      "summary": "High temperatures and below average rainfall put pressure on waterways used to cool reactorsAbove average temperatures combined with below average rainfall across much of western and central Europe during June and the first half of July have placed increasing pressure on rivers, ecosystems and energy infrastructure. Persistent high pressure brought prolonged sunshine, suppressed rainfall and enhanced evaporation, causing river levels to fall and ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/13/weather-tracker-unusually-warm-rivers-affect-french-nuclear-power-plants",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-07-13",
-      "time": "10:53",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-07-13-d84f8311",
@@ -391,7 +419,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-13",
-      "time": "19:55",
+      "time": "22:31",
       "conflict_id": null,
       "score": 34.4
     },
@@ -424,32 +452,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-07-13-b5909ae0",
-      "headline": "How Lindsey Graham’s Journey From Trump Critic to Ally Made Him a Power Player",
-      "summary": "He initially called Donald Trump a “kook” who was “unfit for office,” only to join the new president’s Mar-a-Lago circle. “I’m still in the game,” Mr. Graham once explained of his much-analyzed turnabout.",
+      "id": "2026-07-13-6f6b596c",
+      "headline": "Trump’s Cease-Fire Effectively Collapses as He Vows to Restart Blockade and Tolls",
+      "summary": "After several days of strikes, the president notified Congress that fighting had begun again and announced shipping fees that his administration previously deemed illegal.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/13/us/politics/lindsey-graham-death-donald-trump.html",
+      "url": "https://www.nytimes.com/2026/07/13/us/politics/trump-iran-ceasefire.html",
       "region": "NA",
-      "country": "Trump",
+      "country": "Congress",
       "category": "politics",
       "date": "2026-07-13",
-      "time": "16:48",
+      "time": "22:20",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-07-13-fc20cdae",
-      "headline": "Australia news live: NT police still seek answers over 25 year-old murder of British backpacker Peter Falconio",
-      "summary": "Bradley John Murdoch was convicted of 28-year-old’s murder but remains were never foundGet our breaking news email, free app or daily news podcastMinister says government waiting to see ‘what happens’ amid Trump’s threat for 20% strait of Hormuz tariffKristy McBain, the federal minister for emergency management, said the government is waiting to see “what happens” amid US president Donald Trump’s demand for a 20% tariff on all cargoes shipped thr",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/14/australia-news-live-nt-police-peter-falconio-anthony-albanese-ai-artificial-intelligence-copyright-antisemitism-royal-commission-bondi-universities-ntwnfb",
-      "region": "NA",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-07-13",
-      "time": "21:51",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-07-13-8c46f72f",
@@ -928,6 +942,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-08-772750b2",
+      "headline": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
+      "summary": "Speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that happens will be over quickly\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "politics",
+      "date": "2026-07-08",
+      "time": "18:05",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-07-08-5c9c980b",
       "headline": "US and Iran trade strikes after tankers hit in Strait of Hormuz",
       "summary": "The US military says it hit missile sites and command centres while Iran says it attacked US bases.",
@@ -940,20 +968,6 @@
       "time": "08:11",
       "conflict_id": null,
       "score": 52.0
-    },
-    {
-      "id": "2026-07-08-772750b2",
-      "headline": "Trump threatens more strikes on Iran as Tehran warns of 'fearless' response",
-      "summary": "Speaking at a Nato summit, the president says the US will \"probably\" strike Iran again but added that \"anything that happens will be over quickly\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "politics",
-      "date": "2026-07-08",
-      "time": "18:05",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-07-08-58daad92",
@@ -996,20 +1010,6 @@
       "time": "15:37",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-08-1dcd44a4",
-      "headline": "Nato chief tells BBC that Trump comments are like 'family argument'",
-      "summary": "Mark Rutte says Nato is stronger than ever, and that he is 100% convinced of the US president's commitment to the alliance.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98205r7dylo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-08",
-      "time": "20:58",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-08-dfab9fcc",
