@@ -6,7 +6,7 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-07-13",
     "recent_headlines": [
       {
@@ -18,6 +18,11 @@
         "headline": "‘Coalition of the willing’ to build shared European anti-ballistic programme",
         "source": "The Guardian",
         "date": "2026-07-13"
+      },
+      {
+        "headline": "Russian fuel shortages bite – but will Putin change tack in Ukraine war?",
+        "source": "BBC News",
+        "date": "2026-07-08"
       }
     ],
     "timeline": [
@@ -58,11 +63,6 @@
         "headline": "Palestinians mourn Gaza World Cup screenings organiser killed in Israeli strike",
         "source": "BBC News",
         "date": "2026-07-09"
-      },
-      {
-        "headline": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "source": "BBC News",
-        "date": "2026-07-07"
       }
     ],
     "timeline": [
@@ -131,11 +131,6 @@
     "last_activity": "2026-07-14",
     "recent_headlines": [
       {
-        "headline": "US military targeted in Iran war phone-tracking campaign",
-        "source": "Financial Times",
-        "date": "2026-07-14"
-      },
-      {
         "headline": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
         "source": "BBC News",
         "date": "2026-07-14"
@@ -143,6 +138,11 @@
       {
         "headline": "Trump Says Fighting With Iran Has Resumed as He Orders Blockade and Tolls",
         "source": "New York Times",
+        "date": "2026-07-14"
+      },
+      {
+        "headline": "JPMorgan reports record profits on blockbuster trading haul",
+        "source": "Financial Times",
         "date": "2026-07-14"
       }
     ],
@@ -169,17 +169,17 @@
     "auto_status": false,
     "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
     "status_signal": "stable",
-    "last_activity": "2026-07-13",
+    "last_activity": "2026-07-14",
     "recent_headlines": [
+      {
+        "headline": "EU bans gold imports from Sudan to curb money financing the war",
+        "source": "BBC News",
+        "date": "2026-07-14"
+      },
       {
         "headline": "Sudan's paramilitary RSF chief sentenced to death over war crimes",
         "source": "BBC News",
         "date": "2026-07-13"
-      },
-      {
-        "headline": "Lawyer says detained Gaza doctor was severely beaten in Israeli jail",
-        "source": "BBC News",
-        "date": "2026-07-07"
       }
     ],
     "timeline": [
