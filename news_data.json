@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-14T15:52:30.247700+00:00",
-  "story_count": 80,
-  "source_count": 10,
+  "updated": "2026-07-14T16:58:11.213988+00:00",
+  "story_count": 75,
+  "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-14-ffaab3b8",
+      "headline": "Israeli strike on police post in north Gaza kills seven, officials say",
+      "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-14",
+      "time": "13:46",
+      "conflict_id": "israel-hamas",
+      "score": 63.0
+    },
     {
       "id": "2026-07-14-b3a5cb11",
       "headline": "Iran lawmakers present Hormuz management bill as US war heats up",
@@ -16,20 +30,6 @@
       "time": "13:30",
       "conflict_id": null,
       "score": 56.4
-    },
-    {
-      "id": "2026-07-14-ffaab3b8",
-      "headline": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "summary": "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-14",
-      "time": "13:46",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
     },
     {
       "id": "2026-07-14-5f22425e",
@@ -69,7 +69,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-14",
-      "time": "15:41",
+      "time": "16:20",
       "conflict_id": null,
       "score": 51.4
     },
@@ -100,6 +100,20 @@
       "time": "11:56",
       "conflict_id": "ukraine-war",
       "score": 41.0
+    },
+    {
+      "id": "2026-07-14-61dc4247",
+      "headline": "Israeli attack on north Gaza police station kills eight",
+      "summary": "Gaza&#039;s interior ministry denounces &#039;horrific massacre&#039; that killed station chief, other police personnel and a civilian.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/14/israeli-attack-on-north-gaza-police-station-kills-eight?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-14",
+      "time": "16:02",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-07-14-54ba9ad1",
@@ -172,20 +186,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-14-3ab2e7fe",
-      "headline": "Yemen's Houthis launch missiles at Saudi Arabia after strikes on Sanaa airport",
-      "summary": "The Iran-backed Houthis blame Saudi Arabia for the attack in Yemen's capital and say they targeted Abha airport in response.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp9ldle3d3xo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-07-14",
-      "time": "10:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-14-dd680e19",
       "headline": "EU bans gold imports from Sudan to curb money financing the war",
       "summary": "The ban also restricts exports of mercury and cyanide to Sudan, chemicals widely used in gold mining.",
@@ -212,20 +212,6 @@
       "time": "04:50",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-14-905c3577",
-      "headline": "Why Stellar Bank Earnings Aren't Enough",
-      "summary": "Baird Senior Research Analyst David George joined Bloomberg Open Interest to explain why stellar bank earnings aren't translating into stock gains. He says investors are facing a \"buy the rumor, sell the news\" moment as expectations reached extreme levels, while emphasizing that banks are far safer than before the financial crisis and that the US consumer remains resilient despite broader economic concerns. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-14/why-stellar-bank-earnings-aren-t-enough-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "14:50",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-07-14-0a1327be",
@@ -298,8 +284,8 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-14-9b3ac1f4",
-      "headline": "France deploys 70,000 security personnel across country for Bastille Day, World Cup semifinal events – Europe live",
+      "id": "2026-07-14-21f283b1",
+      "headline": "France deploys 70,000 security personnel across country for Bastille Day, World Cup semifinal events – as it happened",
       "summary": "‘No unruly behaviour will be tolerated’ after the match, according to France’s interior ministerHere is the first big moment of the day as the Garde républicaine plays the French national anthem, “La Marseillaise”.Macron is not singing, but Lecornu behind him – very much is. Continue reading...",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/14/france-bastille-day-emmanuel-macron-volodymyr-zelenskyy-germany-brussels-eu-albania-moldova-montenegro-latest-news-updates",
@@ -326,6 +312,20 @@
       "score": 29.0
     },
     {
+      "id": "2026-07-14-b48d2bb5",
+      "headline": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
+      "summary": "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-14",
+      "time": "16:55",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-14-8782fb5a",
       "headline": "Singapore court orders Bloomberg to pay $356,000 to ministers in defamation case",
       "summary": "The ministers claimed the piece, which cited their luxury bungalow deals, had tarnished their reputation.",
@@ -340,116 +340,32 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-14-46102f8b",
-      "headline": "RIP the US state department",
-      "summary": "America’s diplomats used to have global sway. Now they are besieged by their own president",
+      "id": "2026-07-14-b97b5e27",
+      "headline": "Wall Street banks smash records on stock trading boom",
+      "summary": "Earnings at JPMorgan, Goldman Sachs, Citigroup and BofA benefit from AI frenzy and SpaceX IPO",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/ae268a4e-5134-4d34-ba5e-a908cc74c52d",
+      "url": "https://www.ft.com/content/137efc01-087f-4b1d-b2a4-e18ea61197f2",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-14",
+      "time": "16:23",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-14-1801920f",
+      "headline": "Democrats are not in great shape",
+      "summary": "A fractious opposition is doing everything it can to spurn an open goal",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/bd5f3950-3c80-41af-852e-fe736da603ac",
       "region": "NA",
-      "country": "America",
+      "country": null,
       "category": "politics",
       "date": "2026-07-14",
-      "time": "04:00",
+      "time": "10:55",
       "conflict_id": null,
       "score": 26.4
-    },
-    {
-      "id": "2026-07-14-41c4f632",
-      "headline": "Wall Street banks post blockbuster profits as equities trading booms",
-      "summary": "JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "09:29",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-14-75db2e2a",
-      "headline": "Honduras Launches Bond Buyback, Looks to Sell New Global Debt",
-      "summary": "Honduras is looking to buy back bonds and tap global markets for the first time since 2024, joining this year’s borrowing spree in emerging markets.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/honduras-launches-bond-buyback-looks-to-sell-new-global-debt",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "15:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-14-e8768c83",
-      "headline": "Thomson Reuters to Sell Stake in Legal, Tax Business to KKR",
-      "summary": "Thomson Reuters Corp. agreed to sell a 51% stake in its legal and tax publishing business to investment firm KKR &amp; Co. in a $500 million deal.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/thomson-reuters-to-sell-stake-in-legal-tax-business-to-kkr",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "15:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-14-f8dbd34a",
-      "headline": "Polymarket Partners With Crypto Firm During World Cup",
-      "summary": "Crypto brokerage Blockchain.com Group Holdings Inc. has partnered with Polymarket to offer prediction markets to its users in time for the World Cup semifinals.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/polymarket-partners-with-crypto-firm-during-world-cup-semifinals",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-14-30217008",
-      "headline": "SK Hynix Early ADR Options Trading Leans to Short-Term Contracts",
-      "summary": "Options on SK Hynix Inc.’s American Depository Receipts began trading on US options exchanges Tuesday, giving traders in the world’s largest derivatives market easier access to the volatile South Korean memory chipmaker.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/sk-hynix-early-adr-options-trading-leans-to-short-term-contracts",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "14:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-14-d40d38da",
-      "headline": "Treasuries Rally as Cool CPI Data Cuts July Fed Hike Bets to 20%",
-      "summary": "US Treasuries rallied and traders pulled back from bets on near-term Federal Reserve interest-rate hikes after consumer prices data came in lower than forecast.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-14/treasuries-rally-as-cool-cpi-data-cuts-july-fed-hike-bets-to-20",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "12:47",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-14-3658d245",
-      "headline": "US CPI Falls for the First Time Since 2020",
-      "summary": "The US consumer price index fell 0.4% in June, dragged down by the biggest decline in gasoline prices since 2022, taking some pressure off the Federal Reserve to raise interest rates. Tiffany Wilding, economist at Pimco, examines the data on “Bloomberg Surveillance.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-14/us-cpi-falls-for-the-first-time-since-2020-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-14",
-      "time": "13:40",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-07-14-2f2c3c84",
@@ -466,6 +382,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-07-14-853a2971",
+      "headline": "‘I Am Frustrated’: Emails Show Blanche’s Role in Trump’s Retribution Campaign",
+      "summary": "The cooperation of Todd Blanche will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-07-14",
+      "time": "13:50",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-07-14-318e87fb",
       "headline": "Bangkok bar fire: death toll reaches 30 as police say negligence is ‘primary theory’",
       "summary": "Bar owner offers ‘deepest apologies’ as police investigate whether exits were either blocked or hard to accessThe Bangkok pub that became the scene of the city’s deadliest blaze in 17 years has said it will cooperate with an investigation into alleged negligence, as the death toll rose to 30.The local district office said on Tuesday that three more people had died after the devastating fire that broke out in the early hours of Monday. An initial ",
@@ -476,6 +406,20 @@
       "category": "business",
       "date": "2026-07-14",
       "time": "12:56",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-14-7817816d",
+      "headline": "China’s monthly car ‌exports top 1m for first time as overall trade soars",
+      "summary": "Country risks new tariffs from US and EU as it looks likely to match or beat last year’s record surplus of $1tnBusiness live – latest updatesChina’s monthly car ‌exports topped 1m for the first time in June as overall overseas shipments from the world’s second biggest economy rose 27%.Official Chinese customs data showed that a stronger-than-expected trade performance kept China on track to match or beat last year’s record trade surplus of $1tn (",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/jul/14/china-car-exports-june-trade-us-eu-trump-tariffs",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-07-14",
+      "time": "10:32",
       "conflict_id": null,
       "score": 24.0
     },
@@ -676,6 +620,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-07-14-870d0ec1",
+      "headline": "ECB selects 36 payment providers for digital euro pilot as the project moves ahead",
+      "summary": "The European Central Bank (ECB) has selected 36 payment service providers to help test the digital euro in a year-long pilot from 2027, marking the latest milestone in the EU's effort to create a digital form of central bank money while reducing reliance on foreign payment networks.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/07/14/ecb-selects-36-payment-providers-for-digital-euro-pilot-as-the-project-moves-ahead",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-07-14",
+      "time": "13:52",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-07-13-faf3b6ab",
       "headline": "Lindsey Graham's sister chosen as replacement after senator's death",
       "summary": "The South Carolina governor chose the senator's little sister to serve out the rest of his term after Graham's death on Saturday.",
@@ -802,20 +760,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-13-11a7b3a4",
-      "headline": "Oil Pares Gains as Trump Backs Off 20% Fee for Hormuz Shipments",
-      "summary": "Oil swung as US President Donald Trump backed away from his plan to demand payment for cargo moving through the Strait of Hormuz.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/latest-oil-market-news-and-analysis-for-july-14",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-13",
-      "time": "22:01",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-07-13-e1245555",
       "headline": "Volkswagen planning to cut up to 100,000 jobs globally",
       "summary": "The group, which includes Porsche and Audi, has faced a steep fall in profits and tough competition from China.",
@@ -856,20 +800,6 @@
       "time": "20:15",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-13-7d043880",
-      "headline": "India Asks State Banks to Step Up Foreign Currency Deposits",
-      "summary": "India has asked state-owned banks to intensify efforts to garner foreign currency deposits from the 35-million-strong diaspora, as the country seeks to boost its external buffers and shore up the flagging rupee.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-13/india-pushes-state-banks-to-step-up-foreign-currency-deposits",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-07-13",
-      "time": "13:58",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-07-13-ada5546b",
