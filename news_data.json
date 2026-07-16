@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-16T19:32:03.440024+00:00",
+  "updated": "2026-07-16T20:31:54.437861+00:00",
   "story_count": 80,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-07-16-31eba1be",
@@ -69,7 +69,7 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-16",
-      "time": "13:04",
+      "time": "19:50",
       "conflict_id": "ukraine-war",
       "score": 63.0
     },
@@ -116,18 +116,32 @@
       "score": 47.4
     },
     {
-      "id": "2026-07-16-997321bf",
-      "headline": "Russian strikes threaten Ukraine’s Black Sea grain trade",
-      "summary": "Wheat prices have surged as heavy attacks disrupt shipments",
+      "id": "2026-07-16-acb0fd61",
+      "headline": "Trump teleprompter operator faces scrutiny over prediction market bets",
+      "summary": "Aide allegedly used advanced knowledge of president’s speeches to profit on ‘mention markets’ wagers",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
+      "url": "https://www.ft.com/content/7c315b15-1575-4a1b-aead-4d997a449940?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-07-16",
-      "time": "15:53",
+      "time": "16:54",
       "conflict_id": null,
       "score": 42.4
+    },
+    {
+      "id": "2026-07-16-2d366f6b",
+      "headline": "White House teleprompter operator placed on leave after betting on Trump speeches",
+      "summary": "A White House teleprompter operator has been placed on unpaid leave after his online prediction market activity, which showed he was placing wagers related to President Donald Trump’s public remarks, was flagged to federal regulators.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/16/white-house-teleprompter-operator-placed-leave-after-betting-trump-speeches/",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-07-16",
+      "time": "20:25",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-07-16-2fb52b4c",
@@ -200,6 +214,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-07-16-63fa2986",
+      "headline": "Trump teleprompter operator suspended for alleged prediction market bets on speeches",
+      "summary": "US media had reported that Gabriel Perez, who has been operating Trump’s teleprompter since 2016, used his inside knowledge to win more than $100,000 (€85,900) betting on what the president would say in big speeches.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/16/trump-teleprompter-operator-suspended-for-alleged-prediction-market-bets-on-speeches",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-16",
+      "time": "19:51",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-07-16-47852052",
       "headline": "Iran targets military bases as US launches wave of strikes",
       "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
@@ -256,6 +284,48 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-16-997321bf",
+      "headline": "Russian strikes threaten Ukraine’s Black Sea grain trade",
+      "summary": "Wheat prices have surged as heavy attacks disrupt shipments",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5c64e7a5-fe26-4f14-8d77-1d0f1d8a30d3?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "15:53",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-07-16-5146defb",
+      "headline": "Sweetgreen Shares Slide to Three-Month Low on Cyclosporiasis Outbreak Fears",
+      "summary": "Sweetgreen Inc. has lost more than a quarter of its market value in just four days as investors dump the stock due to fears about outbreak of cyclosporiasis — an intestinal infection caused by parasites in raw produce and water that has sickened thousands across the US.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/sweetgreen-plunges-as-parasite-outbreak-tied-to-produce-spreads",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-16",
+      "time": "20:11",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-16-aef21f7b",
+      "headline": "SpaceX Post-Listing Collapse Threatens IPO Market’s AI Euphoria",
+      "summary": "SpaceX’s fall from its post-listing peak to below its IPO price in just a month poured cold water on the market for newly public companies, dragging a key gauge of this year’s debuts down with it.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/spacex-post-listing-collapse-threatens-ipo-market-s-ai-euphoria",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-16",
+      "time": "19:22",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-16-54b65fce",
       "headline": "Oil Traders Crowd Into Cheap TACO Hedge as Iran War Amps Up",
       "summary": "An unusual options trade is becoming a favored hedge against the risks of sudden U-turns in US President Donald Trump’s stance on Iran, a dynamic that has repeatedly whipsawed markets in recent months.",
@@ -266,34 +336,6 @@
       "category": "business",
       "date": "2026-07-16",
       "time": "16:40",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-16-e64f7c4c",
-      "headline": "Turning Oil to Fuel Has Never Been More Profitable as Refining Margins Surge",
-      "summary": "Profit margins for US refiners making gasoline and diesel from crude oil are shattering records, as fuel supply disruptions driven by war lift prices for refined products.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/turning-oil-to-fuel-has-never-been-more-profitable-as-refining-margins-surge",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "16:33",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-16-6949ff8f",
-      "headline": "European Stocks Post Small Gains After a Day of Volatile Trading",
-      "summary": "European stocks recouped the day’s declines to end modestly higher, with investors monitoring renewed geopolitical risks. ABB Ltd. fell 5.9% after a deal to buy British industrial components maker Rotork Plc.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/european-stocks-edge-lower-in-busy-day-for-earnings-and-deals",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "07:17",
       "conflict_id": null,
       "score": 34.1
     },
@@ -480,6 +522,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-16-379b2af8",
+      "headline": "'A true miracle of destiny' - Messi and Lamine Yamal's incredible first meeting",
+      "summary": "BBC Sport explores a bond between two world-class footballers from different generations who appear bound by destiny",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9w0j104rvgo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-16",
+      "time": "12:52",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-16-16a32d7c",
       "headline": "A wealth tax in America? Not if Silicon Valley’s billionaires have their way",
       "summary": "An effort to tackle inequality in America’s most progressive state is pitting populist anger against super-rich power",
@@ -490,20 +546,6 @@
       "category": "politics",
       "date": "2026-07-16",
       "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-16-acb0fd61",
-      "headline": "Trump teleprompter operator faces scrutiny over prediction market bets",
-      "summary": "Aide allegedly used advanced knowledge of president’s speeches to profit on ‘mention markets’ wagers",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7c315b15-1575-4a1b-aead-4d997a449940?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-16",
-      "time": "16:54",
       "conflict_id": null,
       "score": 26.4
     },
@@ -520,20 +562,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
-    },
-    {
-      "id": "2026-07-16-9fb0690c",
-      "headline": "A Sports-Betting ETF Is Like Old-School Stockpicking",
-      "summary": "Proposed prediction market ETFs risk missing the point",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-16/a-sports-betting-etf-is-like-old-school-stockpicking",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "19:20",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-07-16-ad8fec15",
@@ -578,20 +606,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-16-eac752b6",
-      "headline": "Ladbrokes Owner Entain to Cut 2% of Staff as UK Taxes Hit",
-      "summary": "Entain Plc will cut 500 jobs, or about 2% of its global workforce, as the gambling industry grapples with higher UK taxes, tighter regulation and growing competition from prediction markets.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/ladbrokes-owner-entain-to-cut-2-of-workforce-as-uk-taxes-bite",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "15:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-16-0a0459a3",
       "headline": "How to sell a kettle",
       "summary": "Brand positioning reaches boiling point",
@@ -606,30 +620,16 @@
       "score": 25.8
     },
     {
-      "id": "2026-07-16-6872288c",
-      "headline": "Settlement Reached in Ugly Fight Over Elections in Maricopa County",
-      "summary": "A Trump ally will receive funding for a new information technology system while retaining control of voter registration and early voting.",
+      "id": "2026-07-16-cef087cc",
+      "headline": "How Todd Blanche Made the Justice Dept. Less Independent",
+      "summary": "Our Justice Department reporter Devlin Barrett describes how Todd Blanche, President Trump’s former personal lawyer and current nominee for attorney general, has helped Mr. Trump gain more control over the Justice Department.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/16/us/elections/maricopa-county-elections-settlement.html",
+      "url": "https://www.nytimes.com/video/us/politics/100000011024954/how-todd-blanche-made-the-justice-dept-less-independent.html",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-16",
-      "time": "19:11",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-16-82a5b5c1",
-      "headline": "Trump Is Expected to Revisit Election Fraud Claims in Speech: What to Know.",
-      "summary": "Repeated investigations and audits have debunked claims by the president and his allies of widespread fraud or manipulation in 2020 or other elections.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/16/us/politics/us-election-interference-security.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-16",
-      "time": "16:20",
+      "time": "19:48",
       "conflict_id": null,
       "score": 25.2
     },
@@ -674,6 +674,20 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-07-16-db1bbbe1",
+      "headline": "Iraq says $19M found in hideouts linked to ex-oil minister",
+      "summary": "Iraqi authorities say they seized the equivalent of $19 million in cash and several kilograms of gold jewelry",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/16/iraq-says-19m-found-in-hideouts-linked-to-ex-oil-minister?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iraq",
+      "category": "politics",
+      "date": "2026-07-16",
+      "time": "19:19",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-16-f3013ef5",
@@ -774,34 +788,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-16-93de609e",
-      "headline": "India's services exports growth highlights limits of manufacturing push",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/india-s-services-exports-growth-highlights-limits-of-manufacturing-push",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-16-25a6ec1a",
-      "headline": "Salzburg celebrates Mozart's 270th birth anniversary by displaying 300 gold-coloured statues",
-      "summary": "To mark Mozart's 270th birth anniversary, German artist Ottmar Hörl has partnered with the Mozarteum Foundation to create 300 small statuettes of the composer with his dog. The open-air exhibition is on display in the Austrian city of Salzburg, the renowned composer's hometown.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/16/salzburg-celebrates-mozarts-270th-birth-anniversary-by-displaying-300-gold-coloured-statue",
-      "region": "EU",
-      "country": "Austria",
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "15:49",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-07-15-c45f0757",
       "headline": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
       "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
@@ -814,6 +800,20 @@
       "time": "21:21",
       "conflict_id": "ukraine-war",
       "score": 63.0
+    },
+    {
+      "id": "2026-07-15-d82e5acd",
+      "headline": "A Cold War bunker gets a luxury makeover as 'doomsday' condos",
+      "summary": "A former Canadian government nuclear bomb shelter in rural Nova Scotia may soon be home to the country’s first large-scale luxury survival shelter.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn4d3lpjkggo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-15",
+      "time": "23:35",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-07-15-e8e6fb18",
@@ -942,8 +942,8 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-15-e6a1a582",
-      "headline": "Chipmaker Rout Hits Stocks on AI Spending Worries: Markets Wrap",
+      "id": "2026-07-15-2787190e",
+      "headline": "Chip Stocks Get Hit as AI Spending Anxiety Builds: Markets Wrap",
       "summary": "A selloff in chipmakers dragged down stocks amid concerns over whether massive artificial-intelligence investments will justify lofty valuations, with a resurgence in geopolitical risks also weighing on sentiment.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-15/stock-market-today-dow-s-p-live-updates",
