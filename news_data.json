@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-17T19:55:18.853008+00:00",
-  "story_count": 82,
-  "source_count": 8,
+  "updated": "2026-07-17T20:40:35.543949+00:00",
+  "story_count": 83,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-07-17-37db21e3",
@@ -46,9 +46,9 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-17-9481609f",
-      "headline": "Ten killed in attacks in Russia and Ukraine as protests continue in Kyiv",
-      "summary": "Thousands rally in the Ukrainian capital to protest the ouster of Defence Minister Mykhailo Fedorov.",
+      "id": "2026-07-17-9c94d5eb",
+      "headline": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
+      "summary": "Thousands rally in the Ukrainian capital and other cities to protest the ousting of Defence Minister Mykhailo Fedorov.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
       "region": "EU",
@@ -144,16 +144,30 @@
       "score": 38.8
     },
     {
-      "id": "2026-07-17-3cd6335b",
-      "headline": "China hits out at British Steel nationalisation",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "China",
+      "id": "2026-07-17-41a60425",
+      "headline": "Apple surpasses Nvidia as world's most valuable company",
+      "summary": "Apple, which does not develop its own large language models, has gone from being seen as a laggard in the AI race to being rewarded by investors for its cautious approach and strong iPhone sales.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/07/17/apple-briefly-surpasses-nvidia-as-worlds-most-valuable-company",
+      "region": "NA",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-17",
-      "time": "16:44",
+      "time": "19:02",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-07-17-08be70b0",
+      "headline": "One anti-war critic fined, another held as Russia clamps down on opponents",
+      "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "20:00",
       "conflict_id": null,
       "score": 35.0
     },
@@ -172,6 +186,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-17-3cd6335b",
+      "headline": "China hits out at British Steel nationalisation",
+      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "16:44",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-17-11a96a93",
       "headline": "German politician faces calls to resign over surrogacy child",
       "summary": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
@@ -186,6 +214,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-17-bf881e16",
+      "headline": "US chip stocks notch up worst week in more than a year",
+      "summary": "High-flying semiconductor shares fall as ‘momentum trades’ backfire",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "20:22",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-07-17-0b77f5dd",
+      "headline": "Argentina Oil-Boom Province to Pitch First US Bond Since 2017",
+      "summary": "Argentina’s Neuquen province will pitch foreign investors in New York on its first new international bond in nearly a decade as the local government reaps the rewards of a shale oil boom, according to two people with direct knowledge of the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/argentina-oil-boom-province-to-pitch-first-us-bond-since-2017",
+      "region": "EU",
+      "country": "Argentina",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "19:56",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-17-99afd75c",
       "headline": "In One of Houston’s Oldest Latino Barrios, Mourning After ICE Shooting Mixed With Fear and Anger",
       "summary": "After a federal agent killed Lorenzo Salgado Araujo, the grief and anger in Magnolia Park has been less visible, but no less intense.",
@@ -196,6 +252,20 @@
       "category": "business",
       "date": "2026-07-17",
       "time": "14:33",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-07-17-91103808",
+      "headline": "Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference",
+      "summary": "Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "08:12",
       "conflict_id": null,
       "score": 33.2
     },
@@ -242,6 +312,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-17-6af9783b",
+      "headline": "At least two dead as heavy rains, floods strike central Texas",
+      "summary": "Officials in the southern state have seen new warning systems tested by the floods, after last year&#039;s deadly rainfall.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/7/17/at-least-two-dead-as-heavy-rains-floods-strike-central-texas?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "20:09",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-17-d5363d8e",
       "headline": "Will the Canadian wildfire smoke affect Spain vs Argentina World Cup final?",
       "summary": "World Cup organisers are monitoring the situation &#039;closely&#039;, with US and FIFA presidents meeting on Friday.",
@@ -284,6 +368,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-07-17-e1b2c208",
+      "headline": "Apple regains top spot as world’s most valuable company",
+      "summary": "Apple regained world’s top spot with $4.88 trillion valuation, overtaking Nvidia which saw a 3.5% market value drop.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "16:47",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-17-d360a01a",
       "headline": "Eight killed, at least 34 missing after landslide in China’s Chongqing",
       "summary": "Landslide has buried homes and forced more than 1,100 people to evacuate.",
@@ -294,34 +392,6 @@
       "category": "geopolitics",
       "date": "2026-07-17",
       "time": "16:37",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-17-1b271d2b",
-      "headline": "UN urges probe into deaths in Pakistani-administered Kashmir unrest",
-      "summary": "Kashmir clashes have killed 31 since June, leading UN rights chief Volker Turk to appeal for calm.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/un-urges-probe-into-deaths-in-pakistani-administered-kashmir-unrest?traffic_source=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "13:16",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-17-03f592fd",
-      "headline": "Satellite images show damage inside Iran’s Bushehr nuclear power plant",
-      "summary": "Satellite images reveal strikes between July 7 and 12 on Iran’s largest nuclear power plant.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/satellite-images-show-damage-inside-irans-bushehr-nuclear-power-plant?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "13:10",
       "conflict_id": null,
       "score": 31.4
     },
@@ -348,20 +418,6 @@
       "region": "MENA",
       "country": "Iran",
       "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-07-17-3f2e3ac4",
-      "headline": "Nvidia, Big Tech stocks tumble as Chinese AI model stokes competitive fears",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
       "date": "2026-07-17",
       "time": "",
       "conflict_id": null,
@@ -419,7 +475,21 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-17",
-      "time": "16:23",
+      "time": "20:24",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-17-aa588ff2",
+      "headline": "SpaceX and the myth of independent Wall St research",
+      "summary": "Buy recommendations from IPO banks underscore the limits of post-dotcom reforms",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ce345155-d897-4f49-b7c8-13680e3b5434",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "17:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -438,34 +508,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-17-5a0595be",
-      "headline": "The perils of relying on PE ratios",
-      "summary": "Global gyrations in stock prices and earnings favour other markets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/478fe638-84d5-4eab-a2c5-5b43ec106bdf?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-17-5a1e0e59",
-      "headline": "US chip stocks head for worst week in more than a year",
-      "summary": "High-flying semiconductor shares fall as ‘momentum trades’ backfire",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "16:18",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-07-17-e56bc08e",
       "headline": "Apple targets dozens of OpenAI employees with legal letters",
       "summary": "iPhone maker steps up aggressive tactics in trade secrets dispute with AI lab",
@@ -480,16 +522,30 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-17-9fb5e60d",
-      "headline": "US Stocks Decline as Traders Fear Another ‘DeepSeek Moment’",
-      "summary": "US stocks fell on Friday as semiconductor names dipped following the reveal of an artificial-intelligence model from a Chinese startup.",
+      "id": "2026-07-17-ba68cb47",
+      "headline": "Chips Stocks Sink Into Bear Market as 105% AI Rally Fizzles",
+      "summary": "A closely watched index of semiconductor stocks fell into a bear market, unwinding a chunk of the blistering memory-led rally that saw the gauge more than double in just three months.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-stock-index-futures-slide-as-jitters-grow-on-chip-selloff",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-17",
-      "time": "08:13",
+      "time": "13:38",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-17-343b862f",
+      "headline": "Martin Shkreli Is Back, Shorting Stocks and Taking On Everyone",
+      "summary": "Martin Shkreli wants to make one thing clear to anyone who’s willing to listen: He’s back and he still doesn’t care how many people he ticks off along the way.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/martin-shkreli-is-back-shorting-stocks-and-taking-on-everyone",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "20:15",
       "conflict_id": null,
       "score": 26.1
     },
@@ -550,44 +606,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-17-45b0d198",
-      "headline": "US Gasoline Prices Are Heading to $4 a Gallon Again",
-      "summary": "It’s the middle of summer driving season, when Americans typically embark on road trips and burn through millions of barrels of gasoline each day. They’ll be paying more for every fill up.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/us-gasoline-prices-are-heading-to-4-a-gallon-again",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "15:42",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-17-f5fbf3a7",
       "headline": "Trump’s Homeland Security Chief Threatens Election Officials With Prison Time",
       "summary": "Markwayne Mullin reiterated the president’s false claims about voting security while escalating the administration’s legally questionable attempts to control state elections.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-threatens-election-officials-prison-time.html",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-17",
       "time": "19:34",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-17-74b4f598",
-      "headline": "Mullin Vows to Keep Up Immigration Arrests Even After ICE Shootings",
-      "summary": "The homeland security secretary made clear that he would seek to deliver on President Trump’s push for mass deportations.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/mullin-ice-shootings-arrests.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "18:16",
       "conflict_id": null,
       "score": 25.2
     },
@@ -618,20 +646,6 @@
       "time": "14:00",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-07-17-e1b2c208",
-      "headline": "Apple regains top spot as world’s most valuable company",
-      "summary": "Apple regained world’s top spot with $4.88 trillion valuation, overtaking Nvidia which saw a 3.5% market value drop.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/17/apple-regains-top-spot-as-worlds-most-valuable-company?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "16:47",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-07-17-cdee9e0d",
@@ -669,6 +683,20 @@
       "url": "https://asia.nikkei.com/spotlight/iran-tensions/iran-war/global-release-of-oil-reserves-averted-asian-economic-slowdown-japan-finds",
       "region": "APJ",
       "country": "Japan",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-07-17-3f2e3ac4",
+      "headline": "Nvidia, Big Tech stocks tumble as Chinese AI model stokes competitive fears",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears",
+      "region": "APJ",
+      "country": null,
       "category": "business",
       "date": "2026-07-17",
       "time": "",
@@ -746,6 +774,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-07-17-2244c2f2",
+      "headline": "Macron and Merz agree to deepen defence ties and push for tougher stance on China",
+      "summary": "German Chancellor Friedrich Merz welcomed French President Emmanuel Macron to the Noervenich air base near Cologne on Friday for the 26th Franco-German ministerial council.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/17/france-and-germany-deepen-defence-ties-and-push-for-tougher-stance-on-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "18:02",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-17-92f9c7c4",
+      "headline": "Xi hails 'new level' in ties as China and Kazakhstan sign €11.4bn in deals",
+      "summary": "Xi Jinping and Kassym-Jomart Tokayev signed more than 70 commercial agreements on the sidelines of the World AI Conference in Shanghai, including Central Asia's first battery plant with CATL and a new Caspian port terminal.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "14:14",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-07-16-31eba1be",
       "headline": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
       "summary": "President says he had to choose ‘one side or the other’ after breakdown of relations between ministry and military leadersUkraine’s president, Volodymyr Zelenskyy, has defended his decision to dismiss the country’s popular defence minister, Mykhailo Fedorov, and confirmed reports that relations had broken down between the ministry and the country’s top army leadership.Speaking at a press conference in Kyiv with the British prime minister, Keir St",
@@ -786,20 +842,6 @@
       "time": "19:50",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-07-16-f882959e",
-      "headline": "'Moment of joy' as Uganda discharges last Ebola patient",
-      "summary": "The good news from Uganda comes as the WHO chief warns the virus in DR Congo is spreading fast.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "17:15",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-16-47852052",
@@ -886,9 +928,9 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-16-0a744ffb",
-      "headline": "Chip Stocks Fall to Bear-Market Brink in AI Unwind: Markets Wrap",
-      "summary": "A selloff in chipmakers gathered pace, sending the group that has led this year’s stock rally to the edge of a bear market on worries that the artificial-intelligence spending spree is becoming harder to justify.",
+      "id": "2026-07-16-89fa99f0",
+      "headline": "Chip Stocks Slide Into Bear Market in AI Unwind: Markets Wrap",
+      "summary": "A selloff in chipmakers gathered pace, driving the high-profile group of stocks to a bear market on worries that the artificial-intelligence spending spree is becoming harder to justify.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -912,20 +954,6 @@
       "time": "12:53",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-07-16-9014a5a2",
-      "headline": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
-      "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Office figures show.The department’s annual report includes a long-awaited breakdown of how the reduction in the aid budget will affect individual countries for the next three years. Continue r",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "15:20",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-07-16-6bbf5381",
@@ -953,7 +981,7 @@
       "date": "2026-07-15",
       "time": "21:21",
       "conflict_id": "ukraine-war",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-07-15-e8e6fb18",
@@ -1094,20 +1122,6 @@
       "time": "00:29",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-07-13-e03b78c4",
-      "headline": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-07-13",
-      "time": "11:36",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-13-ada5546b",
