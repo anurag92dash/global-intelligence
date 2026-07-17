@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-17T10:27:39.293150+00:00",
-  "story_count": 78,
+  "updated": "2026-07-17T11:49:27.617166+00:00",
+  "story_count": 81,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-17-55403b18",
+      "headline": "Has Ukraine’s Zelenskyy created a rival by sacking his defence minister?",
+      "summary": "Rallies in support of sacked Defence Minister Mykhailo Fedorov have exposed a political challenge for Zelenskyy.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/has-ukraines-zelenskyy-created-a-rival-by-sacking-his-defence-minister?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "10:07",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
+    },
     {
       "id": "2026-07-17-f33bd797",
       "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
@@ -13,7 +27,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-17",
-      "time": "09:12",
+      "time": "11:37",
       "conflict_id": null,
       "score": 52.0
     },
@@ -46,20 +60,6 @@
       "score": 45.0
     },
     {
-      "id": "2026-07-17-dc748252",
-      "headline": "US launches new strikes as Iran says civilian infrastructure hit",
-      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "10:14",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-07-17-3cd6335b",
       "headline": "China hits out at British Steel nationalisation",
       "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
@@ -69,7 +69,7 @@
       "country": "China",
       "category": "geopolitics",
       "date": "2026-07-17",
-      "time": "08:25",
+      "time": "11:07",
       "conflict_id": null,
       "score": 43.0
     },
@@ -90,7 +90,7 @@
     {
       "id": "2026-07-17-c434f837",
       "headline": "China ‘strongly dissatisfied’ with nationalisation of British Steel",
-      "summary": "Move dealt ‘severe blow to Chinese companies’ confidence in investing in the UK’, says Ministry of CommerceChina’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this week, 15 months after the UK government stepped in to prevent the closure of its steelworks in Scunthorpe and the loss of 4,000 jobs.On Thursday, British Steel was brought under public ownership to protect “the future of steel produc",
+      "summary": "Move dealt ‘severe blow to Chinese companies’ confidence in investing in the UK’, says Ministry of CommerceChina’s government has said it is “strongly dissatisfied” with the decision to nationalise British Steel this week, 15 months after the UK government intervened to prevent the closure of its steelworks in Scunthorpe and the loss of 4,000 jobs.On Thursday, British Steel was brought under public ownership to protect “the future of steel produc",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/jul/17/british-steel-nationalisation-china-strongly-dissatisfied",
       "region": "EU",
@@ -144,34 +144,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-17-a824512d",
-      "headline": "Iranian sources say US strikes hit civilian infrastructure",
-      "summary": "Iranian social media accounts, and local sources allege that US strikes caused casualties and hit infrastructure.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/aje-onl-nf_iranian-sources-say-us-strikes-hit-infrastructure-160726?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "02:35",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-17-680f732f",
-      "headline": "IEA chief warns Strait of Hormuz crisis threatens global energy security",
-      "summary": "Fatih Birol says &#039;oil security is still a critical issue&#039; and world should be &#039;worried&#039; if situation does not improve.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/iea-chief-warns-strait-of-hormuz-crisis-threatens-global-energy-security?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "02:25",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-07-17-a6f5366e",
       "headline": "Trump accuses China of massive US election data breach",
       "summary": "",
@@ -186,6 +158,20 @@
       "score": 38.8
     },
     {
+      "id": "2026-07-17-dc748252",
+      "headline": "US launches new strikes as Iran says civilian infrastructure hit",
+      "summary": "Tehran says the US strikes hit bridges, while the US boards a ship in the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151gdjwd10o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "10:57",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-17-3f74acdd",
       "headline": "Global tech stocks fall as AI trade goes into reverse",
       "summary": "Index of US semiconductor stocks on track for its worst week since last year’s ‘liberation day’ rout",
@@ -195,7 +181,7 @@
       "country": null,
       "category": "business",
       "date": "2026-07-17",
-      "time": "09:29",
+      "time": "11:08",
       "conflict_id": null,
       "score": 34.4
     },
@@ -284,6 +270,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-17-b52ad01b",
+      "headline": "Knesset dissolves: How will Israel vote in October’s general election?",
+      "summary": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "10:10",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-17-920645f2",
       "headline": "China’s Xi says AI ‘should not be a solo performance by a single country’",
       "summary": "The Chinese leader called for more international cooperation in developing the technology at a conference in Shanghai.",
@@ -340,6 +340,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-07-17-668cdb5c",
+      "headline": "Merz hosts Macron in Cologne for key defence talks one month after FCAS initiative collapse",
+      "summary": "Macron and Merz are holding the critical talks in a symbolic setting where President Charles de Gaulle and Chancellor Konrad Adenauer previously met and agreed on establishing friendly Franco-German ties.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/17/merz-hosts-macron-in-cologne-for-key-defence-talks-one-month-after-fcas-initiative-collaps",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "11:45",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-07-17-74a99f8d",
       "headline": "Philippines condemns monkey video on Chinese media as racist",
       "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
@@ -382,6 +396,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-17-7af95e04",
+      "headline": "I’m suddenly not loving my UK shares like I used to",
+      "summary": "Global gyrations in stock prices and earnings favour other markets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/478fe638-84d5-4eab-a2c5-5b43ec106bdf?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-07-17-22499f4e",
       "headline": "‘A casino for investors’: leverage brings huge swings to world’s best-performing market",
       "summary": "South Korean regulators fear single-stock leveraged ETFs are fuelling volatility",
@@ -394,6 +422,76 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-17-9d0fbd59",
+      "headline": "Lula’s Panda-Bond Push Tests China’s Appeal for Brazil’s Firms",
+      "summary": "Brazil has big ambitions for its plan to enter China’s onshore bond market — if only corporate Brazil follows along.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/lula-s-panda-bond-push-tests-china-s-appeal-for-brazil-s-firms",
+      "region": "APJ",
+      "country": "Brazil",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "11:26",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-17-4405b5ee",
+      "headline": "Amundi Says Oil, Gas Crucial to EU’s Clean-Energy Transition",
+      "summary": "Amundi SA wants the European Union to free asset managers to add oil and gas exposures to a new fund category intended to support the transition to a lower-carbon economy.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/amundi-wants-oil-gas-in-eu-s-new-energy-transition-fund-class",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "08:32",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-17-08e67f9d",
+      "headline": "Hyperscalers Are Dragging Down Bond Gauges Across Global Markets",
+      "summary": "The bonds sold by hyperscalers to fuel their artificial intelligence ambitions have become a drag on investor portfolios from London to Tokyo.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/hyperscalers-are-dragging-down-bond-gauges-across-global-markets",
+      "region": "APJ",
+      "country": "Tokyo",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "11:05",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-17-2e4ae019",
+      "headline": "Wheat Fluctuates as Traders Weigh Black Sea Risks, US Exports",
+      "summary": "Wheat fluctuated after hitting a two-year high in the previous session as traders weighed Black Sea supply risks against weak US export data.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/wheat-eases-as-traders-lock-in-gains-assess-black-sea-threats",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "04:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-17-f783c371",
+      "headline": "UBS AM’s Zhao Sours on Treasuries as US Growth Beats Europe",
+      "summary": "UBS Asset Management’s Kevin Zhao is planning to short Treasuries in a bet that the robust US economy will erode the haven appeal of owning government debt.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/ubs-am-s-zhao-sours-on-treasuries-as-us-growth-outpaces-europe",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "08:27",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-17-039b2c07",
@@ -438,34 +536,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-17-e8974bcb",
-      "headline": "MSCI EM Index Heads for Correction as Chip Selloff Jolts Markets",
-      "summary": "Emerging-market equities slumped, with a key gauge headed for a technical correction as mounting concerns over stretched AI valuations triggered a selloff in chip stocks across Asia.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "03:54",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-17-4405b5ee",
-      "headline": "Amundi Says Oil, Gas Crucial to EU’s Clean-Energy Transition",
-      "summary": "Amundi SA wants the European Union to free asset managers to add oil and gas exposures to a new fund category intended to support the transition to a lower-carbon economy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/amundi-wants-oil-gas-in-eu-s-new-energy-transition-fund-class",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "08:32",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-17-c6b542bd",
       "headline": "Zepto Is Said to Face Sharply Lower Valuation for India IPO",
       "summary": "Indian fast-delivery company Zepto Ltd. is seeking a valuation in an initial public offering sharply below its $7 billion peak as concerns over cash burn temper optimism around the industry and raise questions about the firm’s path to profitability.",
@@ -476,48 +546,6 @@
       "category": "politics",
       "date": "2026-07-17",
       "time": "08:29",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-17-fb5a1873",
-      "headline": "UBS AM’s Zhao Sours on Treasuries as US Growth Outpaces Europe",
-      "summary": "UBS Asset Management’s Kevin Zhao is planning to short Treasuries in a bet that the robust US economy will erode the haven appeal of owning government debt.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/ubs-am-s-zhao-sours-on-treasuries-as-us-growth-outpaces-europe",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "08:27",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-17-bb312154",
-      "headline": "Chip Stock Rout Deepens as TSMC Selloff Drives Taiwan Correction",
-      "summary": "Taiwan stocks fell into a technical correction, amid broad losses in Asia’s chip sector as Taiwan Semiconductor Manufacturing Co.’s results stoked worries over heavy spending and a weaker outlook for profitability.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/chip-stock-selloff-deepens-in-asia-as-tsmc-fails-to-impress",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "03:51",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-17-41588cd1",
-      "headline": "UBS, Deutsche Bank Raise Stoxx 600 Targets as European Stocks Rally",
-      "summary": "Accelerating earnings growth and confidence the rally can withstand the latest geopolitical jitters means strategists are increasingly optimistic about European stocks, a Bloomberg survey shows.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/ubs-deutsche-bank-turn-more-bullish-on-stoxx-600-taking-stock",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "06:33",
       "conflict_id": null,
       "score": 26.1
     },
@@ -550,18 +578,32 @@
       "score": 24.0
     },
     {
-      "id": "2026-07-17-85c088df",
-      "headline": "Moira Deeming disendorsed as Victorian Liberal party candidate for upcoming state election",
-      "summary": "The party’s state executive decided MP’s fate after she withdrew her legal action against the party earlier this weekGet our breaking news email, free app or daily news podcastVictorian Liberal MP Moira Deeming has been disendorsed ahead of the upcoming state election, despite dropping an eleventh-hour legal challenge against her own party.The state party called a meeting for Friday afternoon where they voted to remove the MP as a candidate for t",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/moira-deeming-victorian-liberal-party-disendorsement-decision-ntwnfb",
-      "region": "EU",
-      "country": null,
+      "id": "2026-07-17-4f9ff566",
+      "headline": "Japan passes legislation banning violation of national flag",
+      "summary": "Critics claim latest element of PM Takaichi&#039;s conservative drive threatens free speech, invites political abuse.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/japan-passes-legislation-banning-violation-of-national-flag?traffic_source=rss",
+      "region": "APJ",
+      "country": "Japan",
       "category": "politics",
       "date": "2026-07-17",
-      "time": "08:16",
+      "time": "10:56",
       "conflict_id": null,
-      "score": 24.0
+      "score": 23.4
+    },
+    {
+      "id": "2026-07-17-07e94596",
+      "headline": "As Chinese economy slows, experts say there will be ‘problems for Beijing’",
+      "summary": "While the &#039;export engine is running very hot&#039;, jobs are lagging, squeezing spending in China.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/17/as-chinese-economy-slows-experts-say-there-will-be-problems-for-beijing?traffic_source=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "10:06",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-17-998a3705",
@@ -578,18 +620,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-17-000a6fd1",
-      "headline": "North Korean leader Kim Jong Un meets with top Chinese official",
-      "summary": "The meeting comes after Xi visited Kim, promising closer diplomatic, law enforcement and military cooperation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/north-korean-leader-kim-jong-un-meets-with-top-chinese-official?traffic_source=rss",
+      "id": "2026-07-17-a5d01b13",
+      "headline": "Xi dabbles in 'AI diplomacy' at Shanghai forum with Thai, Cambodian PMs",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/xi-dabbles-in-ai-diplomacy-at-shanghai-forum-with-thai-cambodian-pms",
       "region": "APJ",
-      "country": "North Korea",
-      "category": "geopolitics",
+      "country": null,
+      "category": "politics",
       "date": "2026-07-17",
-      "time": "01:49",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-07-17-08f2a855",
@@ -600,20 +642,6 @@
       "region": "APJ",
       "country": "Japan",
       "category": "business",
-      "date": "2026-07-17",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-17-a5d01b13",
-      "headline": "Xi dabbles in 'AI diplomacy' at Shanghai forum with Thai, Cambodian PMs",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/xi-dabbles-in-ai-diplomacy-at-shanghai-forum-with-thai-cambodian-pms",
-      "region": "APJ",
-      "country": null,
-      "category": "politics",
       "date": "2026-07-17",
       "time": "",
       "conflict_id": null,
@@ -648,18 +676,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-16-e36d5b3d",
-      "headline": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
-      "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-07-17-400bccb4",
+      "headline": "Bangladesh to build 108-km fence along Myanmar border",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/bangladesh-to-build-108-km-fence-along-myanmar-border2",
+      "region": "APJ",
+      "country": "Bangladesh",
       "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "19:50",
-      "conflict_id": "ukraine-war",
-      "score": 63.0
+      "date": "2026-07-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-16-31eba1be",
@@ -673,7 +701,21 @@
       "date": "2026-07-16",
       "time": "18:25",
       "conflict_id": "ukraine-war",
-      "score": 60.0
+      "score": 68.0
+    },
+    {
+      "id": "2026-07-16-e36d5b3d",
+      "headline": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
+      "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myl1erj8o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "19:50",
+      "conflict_id": "ukraine-war",
+      "score": 63.0
     },
     {
       "id": "2026-07-16-74fb8247",
@@ -704,20 +746,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-07-16-ea16d981",
-      "headline": "Iran war live: US kills 8 people in sixth consecutive night of attacks",
-      "summary": "Eight killed and 20 others injured in strikes across southern Iran as blasts reported at railways, airports and bridges.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/16/iran-war-live-us-carries-out-strikes-on-civilian-infrastructure-in-south?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "23:58",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-07-16-47852052",
       "headline": "Iran targets military bases as US launches wave of strikes",
       "summary": "Explosions were heard across Iran overnight, shortly after neighbouring Gulf states began to report attacks.",
@@ -746,6 +774,48 @@
       "score": 40.0
     },
     {
+      "id": "2026-07-16-dc971894",
+      "headline": "Outrage at sacking of Ukraine’s defence minister overshadows Starmer’s final visit as PM – as it happened",
+      "summary": "This blog is now closed. Read the rest of our Europe coverage herein MadridMeanwhile, the EU’s top court has ruled that a controversial Spanish law that offered an amnesty to those who planned and participated in the failed and illegal push for Catalan independence does not violate the bloc’s rules. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/16/europe-ukraine-russia-zelenskyy-starmer-macron-merz-latest-news-updates",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "15:06",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-07-16-f882959e",
+      "headline": "'Moment of joy' as Uganda discharges last Ebola patient",
+      "summary": "The good news from Uganda comes as the WHO chief warns the virus in DR Congo is spreading fast.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2myxjv172o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "17:15",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-16-aab43dc7",
+      "headline": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "12:09",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-16-3b93ac8e",
       "headline": "Republican Rifts Deepen Over $95 Billion Budget Plan for Iran War and SAVE Act",
       "summary": "A House panel approved the measure. But Republicans are divided over its size, cost and policy provisions, and many are concerned about the timing before the midterm elections.",
@@ -770,20 +840,6 @@
       "category": "geopolitics",
       "date": "2026-07-16",
       "time": "04:30",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-16-c6b0b864",
-      "headline": "How global heating supercharged floods in West Africa, displacing thousands",
-      "summary": "Adaptation to frightening new normal and reducing emissions further and faster is critical, scientists warnDozens of people drowned, hundreds had to be rescued and thousands were displaced when floods struck the coasts of west Africa last month.Now scientists have concluded that the rains that caused the floods were supercharged by climate breakdown. Global heating, they say, turned what should have been a routine weather event into a climate cat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "00:01",
       "conflict_id": null,
       "score": 32.0
     },
@@ -858,9 +914,9 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-16-51caff27",
-      "headline": "Nasdaq Futures Tumble 1.8% as Chip Rout Deepens: Markets Wrap",
-      "summary": "Nasdaq 100 futures tumbled 1.8% as the global selloff in chipmakers gathered pace, with traders rushing to exit positions in stocks that had fueled this year’s rally but whose valuations grew increasingly rich.",
+      "id": "2026-07-16-fb3a19bc",
+      "headline": "Nasdaq Futures Tumble 1.6% as Chip Rout Deepens: Markets Wrap",
+      "summary": "Nasdaq 100 futures tumbled 1.6% as the global selloff in chipmakers gathered pace, with traders rushing to exit positions in stocks that had fueled this year’s rally but whose valuations grew increasingly rich.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-16/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -1040,20 +1096,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-13-e03b78c4",
-      "headline": "German court convicts Iraqi couple of enslaving Yazidi girls",
-      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-07-13",
-      "time": "11:36",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-13-ada5546b",
       "headline": "How high can Red Bull fly?",
       "summary": "The world’s most formidable marketing machine faces growing threats",
@@ -1093,7 +1135,7 @@
       "date": "2026-07-10",
       "time": "04:18",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     }
   ]
 }
