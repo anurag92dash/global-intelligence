@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-17T15:50:48.690531+00:00",
-  "story_count": 78,
-  "source_count": 9,
+  "updated": "2026-07-17T16:55:33.877602+00:00",
+  "story_count": 82,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-17-37db21e3",
+      "headline": "Israeli attacks on Gaza kill 14, including mourners attending funeral",
+      "summary": "Twenty people also injured in strike on funeral procession for Palestinian killed by Israel earlier in the day.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/israeli-attacks-on-gaza-kill-14-including-mourners-attending-funeral?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "16:21",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
     {
       "id": "2026-07-17-f33bd797",
       "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
@@ -130,6 +144,20 @@
       "score": 43.4
     },
     {
+      "id": "2026-07-17-91103808",
+      "headline": "Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference",
+      "summary": "Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "08:12",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-07-17-53d74469",
       "headline": "Cyclist Rohan Dennis pleads guilty to driving with suspended licence after crash that killed wife",
       "summary": "Adelaide-based Olympian was banned from driving for five years over Melissa Hoskins’ 2023 deathFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFormer professional cyclist Rohan Dennis faces a jail sentence after admitting he drove while disqualified over the events leading up to the death of his Olympian wife, Melissa Hoskins.A judge had previously warned the former Olympian he woul",
@@ -158,18 +186,32 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-17-3cd6335b",
-      "headline": "China hits out at British Steel nationalisation",
-      "summary": "The UK government said taking the firm into public hands would safeguard \"a vital national capability\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjd4kvxpd3do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "China",
+      "id": "2026-07-17-5ac31c13",
+      "headline": "China rejects Trump's election interference accusations as 'groundless'",
+      "summary": "At a daily briefing in Beijing, a spokesperson called on the US to stop making what it described as 'groundless accusations' against China.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/17/china-rejects-trumps-election-interference-accusations-as-groundless",
+      "region": "NA",
+      "country": "Beijing",
       "category": "geopolitics",
       "date": "2026-07-17",
-      "time": "11:07",
+      "time": "15:23",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
+    },
+    {
+      "id": "2026-07-17-10160c1e",
+      "headline": "A crisis of his own: Zelenskyy’s wartime reshuffle backfires and leads to protests",
+      "summary": "Dismissal of the reformist defence minister ignites protests, pushing Zelenskyy to rethink his wartime strategy and even yield to pressure from civil society and the armed forces, while his office urges patience.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/17/a-crisis-of-his-own-zelenskyys-wartime-reshuffle-backfires-and-leads-to-protests",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "12:17",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-07-17-11a96a93",
@@ -186,20 +228,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-17-4fcbb279",
-      "headline": "Wall Street tech stocks slide as AI trade goes into reverse",
-      "summary": "Index of US semiconductor stocks on track for worst week since last year’s ‘liberation day’ rout",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "15:18",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
       "id": "2026-07-17-abf1a63f",
       "headline": "Burnham promises to be ‘pro-business’ as he is crowned Labour leader",
       "summary": "Incoming prime minister says he will ‘set a direction that is distinctively Labour’",
@@ -214,20 +242,6 @@
       "score": 34.4
     },
     {
-      "id": "2026-07-17-ba68cb47",
-      "headline": "Chips Stocks Sink Into Bear Market as 105% AI Rally Fizzles",
-      "summary": "A closely-watched index of semiconductor stocks is set to fall into a bear market, unwinding a chunk of the blistering memory-led rally that saw the gauge more than double in just three months.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "13:38",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-07-17-d6c56b4b",
       "headline": "Trump Brings Full Weight of Government to Bolster False Election Claims",
       "summary": "Intelligence agencies provided the White House with a trove of declassified documents that President Trump cited on Thursday as evidence of election vulnerabilities.",
@@ -237,7 +251,7 @@
       "country": "White House",
       "category": "politics",
       "date": "2026-07-17",
-      "time": "15:21",
+      "time": "16:00",
       "conflict_id": null,
       "score": 33.2
     },
@@ -265,21 +279,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-17",
-      "time": "09:06",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-07-17-91103808",
-      "headline": "Takeaways From Trump’s Speech Claiming Election Vulnerabilities and China Interference",
-      "summary": "Documents released by the Trump administration to support the president’s claims did not back up his most aggressive statements.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/trump-speech-elections-takeaways.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "08:12",
+      "time": "16:07",
       "conflict_id": null,
       "score": 33.2
     },
@@ -310,6 +310,20 @@
       "time": "01:03",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-07-17-4292a050",
+      "headline": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
+      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at the facility, which has sparked huge oppositio",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "12:17",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-07-17-5ea2a451",
@@ -354,18 +368,32 @@
       "score": 31.4
     },
     {
-      "id": "2026-07-17-b52ad01b",
-      "headline": "Knesset dissolves: How will Israel vote in October’s general election?",
-      "summary": "Knesset dissolves after first full term since 1988, with Israel heading towards crucial elections on October 27, 2026.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/knesset-dissolves-how-will-israel-vote-in-octobers-general-election?traffic_source=rss",
+      "id": "2026-07-17-eae9995a",
+      "headline": "US-Iran war highlights vulnerability of Mideast undersea cables",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/telecommunication/us-iran-war-highlights-vulnerability-of-mideast-undersea-cables",
       "region": "MENA",
-      "country": "Israel",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-17",
-      "time": "10:10",
+      "time": "",
       "conflict_id": null,
-      "score": 31.4
+      "score": 30.8
+    },
+    {
+      "id": "2026-07-17-3f2e3ac4",
+      "headline": "Nvidia, Big Tech stocks tumble as Chinese AI model stokes competitive fears",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/equities/nvidia-big-tech-stocks-tumble-as-chinese-ai-model-stokes-competitive-fears",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-07-17-2fee8711",
@@ -410,20 +438,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-17-e56bc08e",
-      "headline": "Apple targets dozens of OpenAI employees with legal letters",
-      "summary": "iPhone maker steps up aggressive tactics in trade secrets dispute with AI lab",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-07-17-5a0595be",
       "headline": "The perils of relying on PE ratios",
       "summary": "Global gyrations in stock prices and earnings favour other markets",
@@ -438,6 +452,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-17-5a1e0e59",
+      "headline": "US chip stocks head for worst week in more than a year",
+      "summary": "High-flying semiconductor shares fall as ‘momentum trades’ backfire",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/79a15abd-5892-4f1c-b038-b09a1ceecabb?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "16:18",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-07-17-22499f4e",
       "headline": "‘A casino for investors’: leverage brings huge swings to world’s best-performing market",
       "summary": "South Korean regulators fear single-stock leveraged ETFs are fuelling volatility",
@@ -448,6 +476,20 @@
       "category": "business",
       "date": "2026-07-17",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-17-e56bc08e",
+      "headline": "Apple targets dozens of OpenAI employees with legal letters",
+      "summary": "iPhone maker steps up aggressive tactics in trade secrets dispute with AI lab",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "10:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -476,6 +518,20 @@
       "category": "business",
       "date": "2026-07-17",
       "time": "15:42",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-17-ba68cb47",
+      "headline": "Chips Stocks Sink Into Bear Market as 105% AI Rally Fizzles",
+      "summary": "A closely-watched index of semiconductor stocks is set to fall into a bear market, unwinding a chunk of the blistering memory-led rally that saw the gauge more than double in just three months.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "13:38",
       "conflict_id": null,
       "score": 26.1
     },
@@ -550,6 +606,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-07-17-e133a7a5",
+      "headline": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
+      "summary": "Proposal would water down emissions trading system to make EU more competitive – despite extreme heatwavesEurope’s most effective method of cutting dangerous planet-heating gases risks being weakened after the European Commission proposed an overhaul of its flagship carbon market, critics have said.In a long-awaited review of the European Union Emissions Trading System (ETS), the European Commission proposed giving companies a less demanding and ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "16:01",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-07-17-cdee9e0d",
       "headline": "Plainclothes ICE agents manhandle man during arrest attempt",
       "summary": "Plainclothes ICE agents manhandle man during arrest attempt at the Las Vegas airport on July 13, 2026.",
@@ -576,6 +646,20 @@
       "time": "10:56",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-07-17-5e9b14a8",
+      "headline": "Australia shale gas project to start in September, eyeing Japan exports",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/australia-shale-gas-project-to-start-in-september-eyeing-japan-exports",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-17-84b86d00",
@@ -634,18 +718,46 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-17-f3013ef5",
-      "headline": "SoftBank, Sony, Honda spearhead work on Japan AI with Nvidia chips",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/softbank-sony-honda-spearhead-work-on-japan-ai-with-nvidia-chips",
+      "id": "2026-07-17-92f9c7c4",
+      "headline": "Xi hails 'new level' in ties as China and Kazakhstan sign €11.4bn in deals",
+      "summary": "Xi Jinping and Kassym-Jomart Tokayev signed more than 70 commercial agreements on the sidelines of the World AI Conference in Shanghai, including Central Asia's first battery plant with CATL and a new Caspian port terminal.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
       "region": "APJ",
-      "country": "Japan",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "14:14",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-17-5f3fdeae",
+      "headline": "BlackRock tops $15tn: Where does the world's largest asset manager put it all?",
+      "summary": "BlackRock has become the first asset manager to oversee more than $15 trillion (€13tn), nearly three times the nominal annual output of Germany, the EU’s largest economy. Here is how the money is spread.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/07/17/blackrock-tops-15tn-where-does-the-worlds-largest-asset-manager-put-it-all",
+      "region": "EU",
+      "country": "Germany",
       "category": "business",
       "date": "2026-07-17",
-      "time": "",
+      "time": "14:11",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-17-5ef572d3",
+      "headline": "China rescuers race to find trapped people after landslide",
+      "summary": "China launched a large-scale rescue operation after a landslide struck Pengshui County in Chongqing municipality on 17 July, burying part of a residential area and trapping an unknown number of people.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/07/17/china-rescuers-race-to-find-trapped-people-after-landslide",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-07-16-31eba1be",
@@ -688,20 +800,6 @@
       "time": "19:50",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-07-16-bca9a826",
-      "headline": "Former boss of Italian motorways sentenced to 12 years over Genoa bridge tragedy",
-      "summary": "Giovanni Castellucci among 32 people convicted over the 2018 Morandi Bridge collapse, which killed 43Thirty-two people, including the former chief executive of Italy’s motorway operator, have been convicted over the 2018 collapse of a Genoa bridge in which 43 people died.In a hushed courtroom on Thursday in the north-western Italian city, Giovanni Castellucci, a former boss of Autostrade per l’Italia, was sentenced to 12 years in prison, the high",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/16/genoa-bridge-tragedy-former-italian-motorways-boss-sentenced-12-years",
-      "region": "EU",
-      "country": "Italy",
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "16:25",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-07-16-f882959e",
@@ -883,7 +981,7 @@
       "date": "2026-07-15",
       "time": "21:21",
       "conflict_id": "ukraine-war",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-07-15-e8e6fb18",
@@ -898,20 +996,6 @@
       "time": "11:44",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-15-589dcb0a",
-      "headline": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
-      "summary": "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operationsMexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immigration and Customs Enforcement (ICE) custody or during raids, the Mexican government said Tuesday.The request follows the death of Mexican immigrant Lorenzo Salgado Araujo, who was shot and killed by an ICE agent i",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "politics",
-      "date": "2026-07-15",
-      "time": "20:58",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-07-15-6d48ca70",
@@ -1040,20 +1124,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-13-6abca246",
-      "headline": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "summary": "Within hours of the latest US attacks, Iran said it had struck US military assets in Kuwait, Jordan, Bahrain and Oman.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-07-13",
-      "time": "15:16",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-13-ada5546b",
       "headline": "How high can Red Bull fly?",
       "summary": "The world’s most formidable marketing machine faces growing threats",
@@ -1078,20 +1148,6 @@
       "category": "geopolitics",
       "date": "2026-07-12",
       "time": "16:35",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-10-31a0576e",
-      "headline": "US and Iran trade attacks as Khamenei is buried",
-      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "04:18",
       "conflict_id": null,
       "score": 35.0
     }
