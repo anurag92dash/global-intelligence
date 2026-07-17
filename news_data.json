@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-17T20:40:35.543949+00:00",
-  "story_count": 83,
-  "source_count": 9,
+  "updated": "2026-07-17T21:29:06.759288+00:00",
+  "story_count": 82,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-07-17-37db21e3",
@@ -46,20 +46,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-17-9c94d5eb",
-      "headline": "Ten killed in Russia-Ukraine as protests continue over Kyiv defence revamp",
-      "summary": "Thousands rally in the Ukrainian capital and other cities to protest the ousting of Defence Minister Mykhailo Fedorov.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/ukraine-suffers-port-attacks-as-protests-persist-over-defence-shake-up?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "15:19",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
       "id": "2026-07-17-f33bd797",
       "headline": "Trump alleges China meddled in 2020 election and questions voting security ahead of midterms",
       "summary": "China said Trump's claims were fabricated and US Democrats said he was paving the way to undermine November's elections.",
@@ -74,18 +60,32 @@
       "score": 51.0
     },
     {
-      "id": "2026-07-17-2d55a1bb",
-      "headline": "‘They took our toilet’: How a settlement has squeezed a Palestinian village",
-      "summary": "An illegal Israeli outpost set up next to Umm al-Khair in West Bank, immediately separating villagers from their land.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/17/they-took-toilet-settlement-squeezed-palestinian-village?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-07-17-8421c761",
+      "headline": "Trump threatens Canada with tariffs over ‘invasion’ of wildfire smoke",
+      "summary": "President to call PM Mark Carney over ‘filthy, polluted’ air wafting over US cities",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/fa4e24db-9324-47e2-8512-a581ca9c1aba?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "20:56",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-07-17-aa493dfe",
+      "headline": "Trump threatens to tariff Canada over wildfire smoke choking northern US cities",
+      "summary": "Canadian leader Mark Carney says both the US and Canada have an equal responsibility to fight climate change, which experts say are worsening wildfire conditions.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwyq93j34lgo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Canada",
       "category": "business",
       "date": "2026-07-17",
-      "time": "15:40",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "time": "21:14",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-07-17-55746ac5",
@@ -102,6 +102,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-07-17-d83310fb",
+      "headline": "Trump wants to impose tariffs on Canada in retaliation for wildfire smoke",
+      "summary": "The White House did not respond to questions about what legal mechanism he would use to impose the tariffs or how the administration would calculate the rate of the levies.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/17/trump-wants-impose-tariffs-canada-retaliation-wildfire-smoke/",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "21:03",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
       "id": "2026-07-17-53d74469",
       "headline": "Cyclist Rohan Dennis pleads guilty to driving with suspended licence after crash that killed wife",
       "summary": "Adelaide-based Olympian was banned from driving for five years over Melissa Hoskins’ 2023 deathFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFormer professional cyclist Rohan Dennis faces a jail sentence after admitting he drove while disqualified over the events leading up to the death of his Olympian wife, Melissa Hoskins.A judge had previously warned the former Olympian he woul",
@@ -114,20 +128,6 @@
       "time": "03:59",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-17-1eefa989",
-      "headline": "Burnham confirmed as leader of UK’s governing Labour Party, headed for PM",
-      "summary": "Andy Burnham set to become UK prime minister but faces challenges including the cost of living crisis and two wars.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/17/burnham-confirmed-as-leader-of-uks-governing-labour-party-headed-for-pm?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "13:51",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-07-17-a6f5366e",
@@ -174,7 +174,7 @@
     {
       "id": "2026-07-17-d1b94e46",
       "headline": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "summary": "The US Tsunami Warning Center issued a warning and has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico.",
+      "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
@@ -182,6 +182,20 @@
       "category": "geopolitics",
       "date": "2026-07-17",
       "time": "18:12",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-17-3e137466",
+      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "17:01",
       "conflict_id": null,
       "score": 35.0
     },
@@ -196,6 +210,20 @@
       "category": "geopolitics",
       "date": "2026-07-17",
       "time": "16:44",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-17-74a99f8d",
+      "headline": "Philippines condemns monkey video on Chinese media as racist",
+      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Philippines",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "02:37",
       "conflict_id": null,
       "score": 35.0
     },
@@ -312,6 +340,34 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-17-0de11e97",
+      "headline": "Suspected Somali pirates seize tanker near Yemen amid wave of hijackings",
+      "summary": "The seizure of the Astana is the latest in a rapidly growing wave of piracy sweeping the Gulf of Aden.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/suspected-somali-pirates-seize-tanker-near-yemen-amid-wave-of-hijackings?traffic_source=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "20:57",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-17-7e5f2d42",
+      "headline": "Top IRS lawyer to resign post amid disagreements with Trump administration",
+      "summary": "Reports indicate a controversial settlement deal and disputes over tax audits may have prompted Ken Kies to step down.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/17/top-irs-lawyer-to-resign-post-amid-disagreements-with-trump-administration?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "20:50",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-17-6af9783b",
       "headline": "At least two dead as heavy rains, floods strike central Texas",
       "summary": "Officials in the southern state have seen new warning systems tested by the floods, after last year&#039;s deadly rainfall.",
@@ -396,6 +452,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-07-17-c3744ca8",
+      "headline": "Philippines denounces AI video from China state media as racist",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/international-relations/philippines-denounces-ai-video-from-china-state-media-as-racist",
+      "region": "APJ",
+      "country": "Philippines",
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
       "id": "2026-07-17-603f47b6",
       "headline": "After KFC shortage warning, Japan frozen food supplier reboots from cyberattack",
       "summary": "",
@@ -422,34 +492,6 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
-    },
-    {
-      "id": "2026-07-17-3e137466",
-      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "17:01",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-17-74a99f8d",
-      "headline": "Philippines condemns monkey video on Chinese media as racist",
-      "summary": "The AI video on China Daily showed a monkey in Philippine garments singing its claims to the South China Sea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj632307934o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Philippines",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "02:37",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-17-99f99ccd",
@@ -522,37 +564,9 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-17-ba68cb47",
-      "headline": "Chips Stocks Sink Into Bear Market as 105% AI Rally Fizzles",
-      "summary": "A closely watched index of semiconductor stocks fell into a bear market, unwinding a chunk of the blistering memory-led rally that saw the gauge more than double in just three months.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/chips-stocks-tumble-into-bear-market-as-105-ai-rally-fizzles",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "13:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-17-343b862f",
-      "headline": "Martin Shkreli Is Back, Shorting Stocks and Taking On Everyone",
-      "summary": "Martin Shkreli wants to make one thing clear to anyone who’s willing to listen: He’s back and he still doesn’t care how many people he ticks off along the way.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/martin-shkreli-is-back-shorting-stocks-and-taking-on-everyone",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "20:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-17-b3635bdb",
       "headline": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
-      "summary": "Emerging-market stocks slumped, with a key gauge headed for a technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
+      "summary": "Emerging-market stocks slumped, with a key gauge sliding into technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
       "region": "NA",
@@ -564,16 +578,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-17-f038de5f",
-      "headline": "San Antonio to Borrow $944 Million for Major Airport Expansion",
-      "summary": "San Antonio, one of the fastest-growing US metro areas, is tapping the bond market for almost $1 billion as part of an ambitious program to expand and improve its airport.",
+      "id": "2026-07-17-be99728b",
+      "headline": "AI Upheaval Crushes Retail Traders Crowding Into Leveraged Funds",
+      "summary": "A surprise breakthrough from Chinese startup Moonshot rippled through global markets Friday, sending AI and semiconductor stocks sharply lower and reviving memories of last year’s so-called DeepSeek moment. It was the latest reminder that markets are being reshaped at extraordinary speed and that assumptions about tomorrow’s winners can change almost overnight.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/san-antonio-to-borrow-944-million-for-major-airport-expansion",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/ai-upheaval-crushes-retail-traders-crowding-into-leveraged-funds",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-17",
-      "time": "17:21",
+      "time": "20:36",
       "conflict_id": null,
       "score": 26.1
     },
@@ -592,30 +606,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-17-8346aba7",
-      "headline": "Foundever Strikes Deal With Creditors to Cut Debt Load",
-      "summary": "Troubled business services giant Foundever Group has reached an agreement with a group of creditors to reduce its multi-billion dollar debt load, with the company’s controlling shareholder injecting fresh funds and installing new management.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/foundever-strikes-deal-with-creditors-to-slash-debt-load",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "14:57",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-17-f5fbf3a7",
-      "headline": "Trump’s Homeland Security Chief Threatens Election Officials With Prison Time",
-      "summary": "Markwayne Mullin reiterated the president’s false claims about voting security while escalating the administration’s legally questionable attempts to control state elections.",
+      "id": "2026-07-17-2d04cffb",
+      "headline": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
+      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/markwayne-mullin-election-officials-threats-trump.html",
+      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-17",
-      "time": "19:34",
+      "time": "21:13",
       "conflict_id": null,
       "score": 25.2
     },
@@ -646,20 +646,6 @@
       "time": "14:00",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-07-17-cdee9e0d",
-      "headline": "Plainclothes ICE agents manhandle man during arrest attempt",
-      "summary": "Plainclothes ICE agents manhandle man during arrest attempt at the Las Vegas airport on July 13, 2026.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/17/plainclothes-ice-agents-manhandle-man-during-arrest-attempt?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "15:21",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-07-17-992a5f81",
@@ -788,20 +774,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-07-17-92f9c7c4",
-      "headline": "Xi hails 'new level' in ties as China and Kazakhstan sign €11.4bn in deals",
-      "summary": "Xi Jinping and Kassym-Jomart Tokayev signed more than 70 commercial agreements on the sidelines of the World AI Conference in Shanghai, including Central Asia's first battery plant with CATL and a new Caspian port terminal.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/17/xi-hails-new-level-in-ties-as-china-and-kazakhstan-sign-114bn-in-deals",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "14:14",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-07-16-31eba1be",
       "headline": "Political crisis and protests in Ukraine as Zelenskyy defends sacking defence minister",
       "summary": "President says he had to choose ‘one side or the other’ after breakdown of relations between ministry and military leadersUkraine’s president, Volodymyr Zelenskyy, has defended his decision to dismiss the country’s popular defence minister, Mykhailo Fedorov, and confirmed reports that relations had broken down between the ministry and the country’s top army leadership.Speaking at a press conference in Kyiv with the British prime minister, Keir St",
@@ -870,6 +842,20 @@
       "time": "04:06",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-16-7495f3ba",
+      "headline": "CoreLogic Wraps Up $5.25 Billion Debt Deal With Hefty Yields",
+      "summary": "CoreLogic Inc. raised $5.25 billion from a debt sale after amending the terms and offering some of the year’s highest yields in response to lukewarm investor demand.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-16/corelogic-in-talks-to-sweeten-terms-on-struggling-debt-sale",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "21:32",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-16-df2d1700",
@@ -1124,6 +1110,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-13-e03b78c4",
+      "headline": "German court convicts Iraqi couple of enslaving Yazidi girls",
+      "summary": "The pair, named only as Twana H.S. and Asia R. A., left Germany for Iraq in 2015 and became members of the Islamic State group.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg53rp4e2j4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-07-13",
+      "time": "11:36",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-13-ada5546b",
       "headline": "How high can Red Bull fly?",
       "summary": "The world’s most formidable marketing machine faces growing threats",
@@ -1148,20 +1148,6 @@
       "category": "geopolitics",
       "date": "2026-07-12",
       "time": "16:35",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-10-31a0576e",
-      "headline": "US and Iran trade attacks as Khamenei is buried",
-      "summary": "Centcom says it hit 90 Iranian targets in the latest round of strikes, with the Iranian health ministry saying 14 people were killed since Tuesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz75zjj5wp8o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-10",
-      "time": "04:18",
       "conflict_id": null,
       "score": 35.0
     }
