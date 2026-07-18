@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-18T20:09:38.492112+00:00",
+  "updated": "2026-07-18T21:01:56.045418+00:00",
   "story_count": 78,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-18-57f4acd2",
+      "headline": "US military says two service members killed in Iranian strike in Jordan",
+      "summary": "US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "18:04",
+      "conflict_id": null,
+      "score": 63.4
+    },
     {
       "id": "2026-07-18-35733015",
       "headline": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
@@ -18,18 +32,46 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-18-57f4acd2",
-      "headline": "US military says two service members killed in Iranian strike in Jordan",
-      "summary": "US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
+      "id": "2026-07-18-e6dcc935",
+      "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Jordan",
       "category": "geopolitics",
       "date": "2026-07-18",
-      "time": "18:04",
+      "time": "20:33",
       "conflict_id": null,
-      "score": 55.4
+      "score": 59.0
+    },
+    {
+      "id": "2026-07-18-71e89d30",
+      "headline": "Two US servicemen killed in Iranian strikes on Jordan",
+      "summary": "Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "18:10",
+      "conflict_id": null,
+      "score": 58.4
+    },
+    {
+      "id": "2026-07-18-cc2df839",
+      "headline": "Two US troops killed in Jordan by Iranian attacks, US military says",
+      "summary": "The two servicemen were killed Friday as the US and partner forces defended against Iranian ballistic missile and drone attacks, according to a statement from the US military.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "18:06",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-07-18-e6052c0d",
@@ -44,34 +86,6 @@
       "time": "14:26",
       "conflict_id": "ukraine-war",
       "score": 52.0
-    },
-    {
-      "id": "2026-07-18-e6dcc935",
-      "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "19:38",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-18-71e89d30",
-      "headline": "Two US servicemen killed in Iranian strikes on Jordan",
-      "summary": "Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "18:10",
-      "conflict_id": null,
-      "score": 50.4
     },
     {
       "id": "2026-07-18-bcf45de9",
@@ -116,6 +130,20 @@
       "score": 46.1
     },
     {
+      "id": "2026-07-18-975a2088",
+      "headline": "Palestinian teenage footballer dies a week after Israeli settler attack",
+      "summary": "A week after he was shot in his West Bank village, Fadi al-Nassan&#039;s death comes amid a surge in settler violence.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "20:24",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
       "id": "2026-07-18-85fea2f3",
       "headline": "Russian online retail warehouses hit by deadly Ukrainian strikes",
       "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
@@ -128,20 +156,6 @@
       "time": "13:06",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-07-18-0acd5688",
-      "headline": "Surrogacy controversy sparks resignation of Merz’s parliamentary leader",
-      "summary": "CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/784a7d34-e005-4266-8bd4-82f26298b3e4?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "15:29",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-07-18-3986a796",
@@ -168,20 +182,6 @@
       "category": "geopolitics",
       "date": "2026-07-18",
       "time": "13:14",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-07-18-d9c7a22d",
-      "headline": "Germany’s CDU parliamentary leader resigns after using surrogacy to become parent",
-      "summary": "Jens Spahn had criticised ‘rented wombs’ and his party is strongly opposed to surrogacy, which is banned in GermanyA senior German politician and ally of the chancellor, Friedrich Merz, has resigned as parliamentary group leader of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to become parents, a practice he has criticised in the past and his party is vehemently opposed to.Surrogacy is banned in Germany, a p",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "15:09",
       "conflict_id": null,
       "score": 40.0
     },
@@ -228,6 +228,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-18-645619d6",
+      "headline": "US strikes hit Iran for seventh consecutive night",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Kuwait",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "17:44",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-18-58e5f810",
       "headline": "Zelenskyy considers sacking commander-in-chief as protests swell",
       "summary": "Crisis engulfs military after Ukrainian president dismissed his popular defence minister",
@@ -256,18 +270,46 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-18-38dbc6d8",
-      "headline": "Israeli attacks on residential areas in Gaza kill eight",
-      "summary": "Attacks hit neighbourhoods in Gaza City far beyond the line Israeli forces are meant to hold under the ceasefire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-07-18-14a7f5ba",
+      "headline": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on SundayWarnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty about where the heavy wildfire smoke swirling from the Canadian province of Ontario and the US state of Minnesota will head next.Some parts of the US mid-Atlantic and north-east regions will continue to endure poor ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "region": "NA",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-18",
-      "time": "18:45",
+      "time": "14:13",
       "conflict_id": null,
-      "score": 31.4
+      "score": 32.0
+    },
+    {
+      "id": "2026-07-18-e477acff",
+      "headline": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
+      "summary": "Australia risks ‘shipping’ intellectual capability overseas if educational rigour not restored, experts warnGet our breaking news email, free app or daily news podcastAn academic at the Australian National University has accused it of a “hysterical” response to students using AI to cheat, as tertiary institutions rush to shore up the credibility of assessments.But a colleague warned Australia is in danger of “shipping our national intellectual ca",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-07-18-d9c7a22d",
+      "headline": "Germany’s CDU parliamentary leader resigns after using surrogacy to become parent",
+      "summary": "Jens Spahn had criticised ‘rented wombs’ and his party is strongly opposed to surrogacy, which is banned in GermanyA senior German politician and ally of the chancellor, Friedrich Merz, has resigned as parliamentary group leader of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to become parents, a practice he has criticised in the past and his party is vehemently opposed to.Surrogacy is banned in Germany, a p",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "15:09",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-07-18-bc3b5497",
@@ -310,6 +352,34 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-07-18-6a445297",
+      "headline": "CDU's Jens Spahn resigns amid growing scrutiny over surrogate baby",
+      "summary": "Following Spahn's resignation, German Chancellor Friedrich Merz described the move as \"the right one\" and \"unavoidable.\" \"Credibility is the highest asset in politics,\" the chancellor added.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/18/cdus-jens-spahn-resigns-amid-growing-scrutiny-over-surrogate-baby",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "13:19",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-07-18-b5ce805b",
+      "headline": "UK by-election: Nigel Farage faces 'record' number of rivals",
+      "summary": "A fresh by-election has been called in the UK constituency of Clacton, after Nigel Farage, the leader of the right-wing Reform UK party, resigned his seat to seek re-election. Farage had won the seat in 2024, securing 46% of the vote share.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/18/uk-by-election-nigel-farage-faces-record-number-of-rivals",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "12:52",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-07-18-2f89b319",
@@ -364,6 +434,20 @@
       "category": "business",
       "date": "2026-07-18",
       "time": "11:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-18-511627be",
+      "headline": "Asia AI bets power record equities run for Wall Street banks",
+      "summary": "Investments in semiconductors fuel growth in regional revenues for US banks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-18",
+      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -475,7 +559,7 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-07-18",
-      "time": "19:25",
+      "time": "20:57",
       "conflict_id": null,
       "score": 25.2
     },
@@ -536,6 +620,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-07-18-17b27ee2",
+      "headline": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
+      "summary": "The Trump administration has lost or abandoned hundreds of criminal cases against protesters and immigrants, a Times investigation found.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "19:49",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-07-18-47bc3546",
       "headline": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel",
       "summary": "The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.",
@@ -546,20 +644,6 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "03:33",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-18-166fe32c",
-      "headline": "Sara Rodriguez, Lieutenant Governor, Quits Wisconsin Governor’s Race",
-      "summary": "One establishment candidate dropped out and another rejoined the race amid worries from some moderate Democrats that a democratic socialist might win the primary.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/sara-rodriguez-wisconsin-governor-drop-out.html",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-18",
-      "time": "01:17",
       "conflict_id": null,
       "score": 25.2
     },
@@ -576,20 +660,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-07-18-30e1f8af",
-      "headline": "China's share of global wind turbine market reaches nearly 80%",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
     },
     {
       "id": "2026-07-18-3f2e3ac4",
@@ -802,20 +872,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-17-b3635bdb",
-      "headline": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
-      "summary": "Emerging-market stocks slumped, with a key gauge sliding into technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "03:54",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-17-988132a0",
       "headline": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
       "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake.Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are believed to have escaped from breeding facilities int",
@@ -872,48 +928,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-16-9ff08a9c",
-      "headline": "Gold Trims Weekly Drop on Dip-Buying Despite Rate Hike Odds",
-      "summary": "Gold trimmed its weekly loss as some investors bought on dips after the precious metal broke below a key price level, even as escalating war tensions kept interest rate hike bets alive.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/gold-heads-for-weekly-fall-as-hormuz-strikes-raise-fed-hike-bets",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-16-df2d1700",
-      "headline": "Moroccan intelligence insider reveals widespread use of Pegasus hacking software",
-      "summary": "Whistleblower suggests internal security services deployed spyware from 2017 against key domestic and foreign targetsA former member of Morocco’s domestic intelligence service has helped to provide an unprecedented insight into how the north African state used hacking software – including Pegasus spyware – to target journalists, human rights defenders, French politicians and Spanish cabinet ministers and police officers.Pegasus, which is manufact",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/news/2026/jul/16/morocco-intelligence-insider-reveals-widespread-use-hacking-software-pegasus",
-      "region": "MENA",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "04:30",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-16-aed687b3",
-      "headline": "Volunteer firefighter suspected of starting devastating France forest fire",
-      "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-07-16",
-      "time": "12:44",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-16-07490ff4",
       "headline": "As heatwaves strike, Europeans turn to Chinese air-conditioners",
       "summary": "Chinese brands are meeting surging air-conditioner demand in Europe, a region with typically low ownership rates.",
@@ -956,6 +970,20 @@
       "score": 25.8
     },
     {
+      "id": "2026-07-16-9014a5a2",
+      "headline": "UK aid cuts ‘reduce bilateral support to some African countries by 90%’",
+      "summary": "Critics say Foreign Office figures send ‘global message about the role the country wants to play on international stage’Labour’s foreign aid cuts mean reductions of as much as 90% in the bilateral support the UK will give to some African countries, Foreign Office figures show.The department’s annual report includes a long-awaited breakdown of how the reduction in the aid budget will affect individual countries for the next three years. Continue r",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/jul/16/uk-aid-cuts-bilateral-support-african-countries",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-16",
+      "time": "15:20",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-07-15-c45f0757",
       "headline": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
       "summary": "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea.",
@@ -982,20 +1010,6 @@
       "time": "11:44",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-15-6d48ca70",
-      "headline": "French MPs approve assisted dying law with strict rules after years of argument",
-      "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-15",
-      "time": "17:29",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-15-13d2a5a1",
@@ -1080,20 +1094,6 @@
       "time": "18:24",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-07-12-d5f47290",
-      "headline": "Former Emir of Qatar Sheikh Hamad bin Khalifa Al Thani dies aged 74",
-      "summary": "He took power in 1996 after staging a bloodless coup against his father, and went on to transform Qatar into the gas-rich power it is today.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cql1qdq14xro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "16:35",
-      "conflict_id": null,
-      "score": 35.0
     }
   ]
 }
