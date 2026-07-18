@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-18T19:20:28.240053+00:00",
-  "story_count": 79,
-  "source_count": 10,
+  "updated": "2026-07-18T20:09:38.492112+00:00",
+  "story_count": 78,
+  "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-18-35733015",
+      "headline": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
+      "summary": "Palestinians who have endured Israel&#039;s genocidal war are still being targeted.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "19:55",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
     {
       "id": "2026-07-18-57f4acd2",
       "headline": "US military says two service members killed in Iranian strike in Jordan",
@@ -15,49 +29,7 @@
       "date": "2026-07-18",
       "time": "18:04",
       "conflict_id": null,
-      "score": 63.4
-    },
-    {
-      "id": "2026-07-18-e6dcc935",
-      "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "summary": "The announcement comes after Jordan said it intercepted 10 Iranian missiles fired into its airspace overnight into Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "19:14",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-07-18-71e89d30",
-      "headline": "Two US servicemen killed in Iranian strikes on Jordan",
-      "summary": "Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "18:10",
-      "conflict_id": null,
-      "score": 58.4
-    },
-    {
-      "id": "2026-07-18-cc2df839",
-      "headline": "Two US troops killed in Jordan by Iranian attacks, US military says",
-      "summary": "The two servicemen were killed Friday as the US and partner forces defended against Iranian ballistic missile and drone attacks, according to a statement from the US military.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "18:06",
-      "conflict_id": null,
-      "score": 53.0
+      "score": 55.4
     },
     {
       "id": "2026-07-18-e6052c0d",
@@ -72,6 +44,34 @@
       "time": "14:26",
       "conflict_id": "ukraine-war",
       "score": 52.0
+    },
+    {
+      "id": "2026-07-18-e6dcc935",
+      "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
+      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "19:38",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-07-18-71e89d30",
+      "headline": "Two US servicemen killed in Iranian strikes on Jordan",
+      "summary": "Battle for control of the Strait of Hormuz escalates as Tehran hits Saudi Arabia for the first time in months",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "18:10",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-07-18-bcf45de9",
@@ -130,6 +130,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-18-0acd5688",
+      "headline": "Surrogacy controversy sparks resignation of Merz’s parliamentary leader",
+      "summary": "CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/784a7d34-e005-4266-8bd4-82f26298b3e4?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "15:29",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-07-18-3986a796",
+      "headline": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstormsSaturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfires giving way to severe thunderstorms that have already triggered a flash flood warning as torrential rain pounds parts of the region.After a brief break on Friday, smoke from the wildfires moved back into New York",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "19:11",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-07-18-3bfcb90c",
       "headline": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
       "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growingWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, again, whether the island’s antiquated electricity system may soon become unrecoverable.The 777-mile Caribbean island of 9.5 million people has been sweltering under a six-month-long oil blockade",
@@ -140,6 +168,20 @@
       "category": "geopolitics",
       "date": "2026-07-18",
       "time": "13:14",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-07-18-d9c7a22d",
+      "headline": "Germany’s CDU parliamentary leader resigns after using surrogacy to become parent",
+      "summary": "Jens Spahn had criticised ‘rented wombs’ and his party is strongly opposed to surrogacy, which is banned in GermanyA senior German politician and ally of the chancellor, Friedrich Merz, has resigned as parliamentary group leader of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to become parents, a practice he has criticised in the past and his party is vehemently opposed to.Surrogacy is banned in Germany, a p",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "15:09",
       "conflict_id": null,
       "score": 40.0
     },
@@ -186,20 +228,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-18-645619d6",
-      "headline": "US strikes hit Iran for seventh consecutive night",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Kuwait",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "17:44",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-18-58e5f810",
       "headline": "Zelenskyy considers sacking commander-in-chief as protests swell",
       "summary": "Crisis engulfs military after Ukrainian president dismissed his popular defence minister",
@@ -210,20 +238,6 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "10:10",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-07-18-0acd5688",
-      "headline": "Surrogacy controversy sparks resignation of Merz’s parliamentary leader",
-      "summary": "CDU rightwinger Jens Spahn steps down after revealing he used a surrogate mother in the US to become a father",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/784a7d34-e005-4266-8bd4-82f26298b3e4?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "15:29",
       "conflict_id": null,
       "score": 34.4
     },
@@ -242,32 +256,18 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-18-14a7f5ba",
-      "headline": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-      "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on SundayWarnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty about where the heavy wildfire smoke swirling from the Canadian province of Ontario and the US state of Minnesota will head next.Some parts of the US mid-Atlantic and north-east regions will continue to endure poor ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
-      "region": "NA",
-      "country": null,
+      "id": "2026-07-18-38dbc6d8",
+      "headline": "Israeli attacks on residential areas in Gaza kill eight",
+      "summary": "Attacks hit neighbourhoods in Gaza City far beyond the line Israeli forces are meant to hold under the ceasefire.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/18/israeli-attacks-on-residential-areas-in-gaza-kill-eight?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-18",
-      "time": "14:13",
+      "time": "18:45",
       "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-18-22ba71da",
-      "headline": "Germany’s CDU party chair resigns after using surrogacy to become parent",
-      "summary": "Jens Spahn had criticised ‘rented wombs’ and his party is strongly opposed to surrogacy, which is banned in GermanyA senior German politician and ally of the chancellor, Friedrich Merz, has resigned as chair of the Christian Democrat (CDU) party after he and his husband used a surrogate mother to become parents, a practice he has criticised in the past and his party is vehemently opposed to.Surrogacy is banned in Germany, a policy Jens Spahn refu",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/18/germany-cdu-party-chair-resigns-surrogacy-jens-spahn",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "15:09",
-      "conflict_id": null,
-      "score": 32.0
+      "score": 31.4
     },
     {
       "id": "2026-07-18-bc3b5497",
@@ -312,34 +312,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-18-6a445297",
-      "headline": "CDU's Jens Spahn resigns amid growing scrutiny over surrogate baby",
-      "summary": "Following Spahn's resignation, German Chancellor Friedrich Merz described the move as \"the right one\" and \"unavoidable.\" \"Credibility is the highest asset in politics,\" the chancellor added.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/18/cdus-jens-spahn-resigns-amid-growing-scrutiny-over-surrogate-baby",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "13:19",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-07-18-b5ce805b",
-      "headline": "UK by-election: Nigel Farage faces 'record' number of rivals",
-      "summary": "A fresh by-election has been called in the UK constituency of Clacton, after Nigel Farage, the leader of the right-wing Reform UK party, resigned his seat to seek re-election. Farage had won the seat in 2024, securing 46% of the vote share.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/18/uk-by-election-nigel-farage-faces-record-number-of-rivals",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "12:52",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-18-2f89b319",
       "headline": "Hungary's president agrees to stand down after parliament backs removal",
       "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
@@ -349,7 +321,7 @@
       "country": "Hungary",
       "category": "politics",
       "date": "2026-07-18",
-      "time": "17:33",
+      "time": "19:34",
       "conflict_id": null,
       "score": 27.0
     },
@@ -494,6 +466,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-18-f28db12a",
+      "headline": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
+      "summary": "The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "19:25",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-07-18-b6879c29",
       "headline": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
       "summary": "President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.",
@@ -550,20 +536,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-18-17b27ee2",
-      "headline": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
-      "summary": "The Trump administration has lost or abandoned hundreds of criminal cases against protesters and immigrants, a Times investigation found.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "13:33",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-18-47bc3546",
       "headline": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel",
       "summary": "The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.",
@@ -604,20 +576,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-07-18-4019e847",
-      "headline": "India’s salt workers: The human cost of the world’s most popular seasoning",
-      "summary": "101 East investigates the supply chain behind India’s booming salt industry.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/101-east/2026/7/18/indias-salt-workers-the-human-cost-of-the-worlds-most-popular-seasoning?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-07-18",
-      "time": "11:30",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-07-18-30e1f8af",
@@ -718,6 +676,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-17-d83310fb",
+      "headline": "Trump wants to impose tariffs on Canada in retaliation for wildfire smoke",
+      "summary": "The White House did not respond to questions about what legal mechanism he would use to impose the tariffs or how the administration would calculate the rate of the levies.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/17/trump-wants-impose-tariffs-canada-retaliation-wildfire-smoke/",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "22:23",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
       "id": "2026-07-17-d1b94e46",
       "headline": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
       "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
@@ -744,20 +716,6 @@
       "time": "02:37",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-17-d83310fb",
-      "headline": "Trump wants to impose tariffs on Canada in retaliation for wildfire smoke",
-      "summary": "The White House did not respond to questions about what legal mechanism he would use to impose the tariffs or how the administration would calculate the rate of the levies.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/07/17/trump-wants-impose-tariffs-canada-retaliation-wildfire-smoke/",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "22:23",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-07-17-4292a050",
@@ -942,6 +900,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-16-aed687b3",
+      "headline": "Volunteer firefighter suspected of starting devastating France forest fire",
+      "summary": "President Macron said there would be no leniency for arsonists, as France - along with much of Europe - deals with a series of unusual heatwaves.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce97zd8yx1xo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-07-16",
+      "time": "12:44",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-16-07490ff4",
       "headline": "As heatwaves strike, Europeans turn to Chinese air-conditioners",
       "summary": "Chinese brands are meeting surging air-conditioner demand in Europe, a region with typically low ownership rates.",
@@ -1010,6 +982,20 @@
       "time": "11:44",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-15-6d48ca70",
+      "headline": "French MPs approve assisted dying law with strict rules after years of argument",
+      "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-15",
+      "time": "17:29",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-15-13d2a5a1",
