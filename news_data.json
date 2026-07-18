@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-18T09:05:12.378834+00:00",
-  "story_count": 81,
+  "updated": "2026-07-18T10:36:59.834561+00:00",
+  "story_count": 80,
   "source_count": 10,
   "stories": [
     {
@@ -46,6 +46,20 @@
       "score": 47.4
     },
     {
+      "id": "2026-07-18-5fde9376",
+      "headline": "German army looks to Ukraine for battlefield lessons",
+      "summary": "Land forces chief says Kyiv’s military expertise is proving invaluable as Bundeswehr rebuilds and US support wanes",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "09:00",
+      "conflict_id": "ukraine-war",
+      "score": 46.4
+    },
+    {
       "id": "2026-07-18-60eabcb4",
       "headline": "Israel’s ‘Crimson Thread’ military barrier is strangling the West Bank",
       "summary": "A new military barrier in the West Bank&#039;s Jordan Valley is cutting off Palestinian communities from their land.",
@@ -58,6 +72,20 @@
       "time": "05:15",
       "conflict_id": "israel-hamas",
       "score": 43.4
+    },
+    {
+      "id": "2026-07-18-58e5f810",
+      "headline": "Zelenskyy considers sacking commander-in-chief as protests swell",
+      "summary": "Crisis engulfs military after Ukrainian president dismissed his popular defence minister",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "10:10",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-07-18-bcdea9c9",
@@ -126,20 +154,6 @@
       "category": "geopolitics",
       "date": "2026-07-18",
       "time": "00:33",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-18-e8a9c4ce",
-      "headline": "UK by-election sees record 34 candidates as Farage seeks return",
-      "summary": "The Reform UK leader seeks to regain his seat after resigning amid gifts controversy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/uk-by-election-sees-record-34-candidates-as-farage-seeks-return?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "00:23",
       "conflict_id": null,
       "score": 31.4
     },
@@ -242,6 +256,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-18-20edfa3d",
+      "headline": "ICICI Bank First-Quarter Profit Beats Estimates as Loans Surge",
+      "summary": "ICICI Bank Ltd. posted better-than-expected results as India’s second-largest private-sector lender benefited from healthy loan growth across retail and corporate segments.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-18/icici-bank-first-quarter-profit-beats-estimates-as-loans-surge",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-07-18",
+      "time": "10:02",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-18-f5924aa2",
       "headline": "China Seeks Stable, Transparent Mineral Rules From Indonesia",
       "summary": "China said it hopes Indonesia can provide a stable and transparent policy environment for its mineral sector, as the two countries deepen economic ties.",
@@ -312,16 +340,44 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-18-5708005f",
-      "headline": "How Trump Is Using Federal Agencies to Target Elections",
-      "summary": "Nick Corasaniti, a Politics reporter, explains how the Trump administration is deploying federal agencies to investigate and reshape electoral processes under state jurisdiction.",
+      "id": "2026-07-18-40e8e23d",
+      "headline": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
+      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/video/us/elections/100000011037521/how-trump-is-using-federal-agencies-to-target-elections.html",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "09:02",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-18-3aec1c4d",
+      "headline": "How Criminal Cases Against ICE Protesters Are Crumbling",
+      "summary": "Our investigative reporter Danny Hakim describes how the government has lost or abandoned hundreds of criminal cases against protesters and immigrants.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/video/us/100000010977388/how-criminal-cases-against-ice-protesters-are-crumbling.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-18-17b27ee2",
+      "headline": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
+      "summary": "The Trump administration has lost or abandoned hundreds of criminal cases against protesters and immigrants, a Times investigation found.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-18",
-      "time": "01:05",
+      "time": "09:00",
       "conflict_id": null,
       "score": 25.2
     },
@@ -480,20 +536,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-17-f8bb71df",
-      "headline": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
-      "summary": "Distillery owner could face only three months in jail over alleged poisoning of Australian teenagersGet our breaking news email, free app or daily news podcastThe Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning.It comes as a distillery owner in Laos was charged after a mass methanol poisoning incident killed six foreign nationals,",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "21:36",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-07-17-cd67bc68",
       "headline": "One anti-war critic fined, another held as Russia clamps down on dissent",
       "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
@@ -550,20 +592,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-17-99f99ccd",
-      "headline": "Australia 'deeply frustrated' over Laos methanol poisoning charges",
-      "summary": "Media reports say Laos will press charges of up to one year in jail  against those allegedly responsible.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5d4z343wlo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "02:56",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-17-11a96a93",
       "headline": "German politician faces calls to resign over surrogacy child",
       "summary": "Surrogacy is banned in Germany, a policy firmly backed by Jens Spahn's Christian Democrat party, and several years ago by Spahn, too.",
@@ -576,20 +604,6 @@
       "time": "15:08",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-17-99afd75c",
-      "headline": "In One of Houston’s Oldest Latino Barrios, Mourning After ICE Shooting Mixed With Fear and Anger",
-      "summary": "After a federal agent killed Lorenzo Salgado Araujo, the grief and anger in Magnolia Park has been less visible, but no less intense.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/magnolia-park-houston-mourning-ice-shooting.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "14:33",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-07-17-d83310fb",
@@ -616,6 +630,20 @@
       "category": "politics",
       "date": "2026-07-17",
       "time": "12:17",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-07-17-f8bb71df",
+      "headline": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
+      "summary": "Distillery owner could face only three months in jail over alleged poisoning of Australian teenagersGet our breaking news email, free app or daily news podcastThe Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning.It comes as a distillery owner in Laos was charged after a mass methanol poisoning incident killed six foreign nationals,",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/17/distillery-owner-could-face-only-three-months-in-jail-over-alleged-poisoning-australian-teenagers",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "21:36",
       "conflict_id": null,
       "score": 32.0
     },
@@ -667,7 +695,7 @@
       "summary": "Researchers have found that people with Laron syndrome have a lower incidence of cancer than the wider population.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
+      "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-07-17",
@@ -704,6 +732,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-17-b3635bdb",
+      "headline": "‘Sea of Red’ Hits Emerging Stocks as AI Concerns Jolts Markets",
+      "summary": "Emerging-market stocks slumped, with a key gauge sliding into technical correction on mounting concerns the outlook for artificial intelligence no longer justifies the industry’s elevated valuations.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-17/em-stocks-headed-for-weekly-loss-on-tech-selloff-rising-crude",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "03:54",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-17-9a62b1fa",
       "headline": "Billionaires Prepare $87 Million Ad Campaign to Block California Wealth Tax",
       "summary": "A coalition backed by the Google co-founder Sergey Brin and wealthy tech investors is trying to neutralize a proposed one-time tax on the state’s richest residents.",
@@ -718,34 +760,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-17-ef22e103",
-      "headline": "Trump Endorses Graham for Senate, Scrambling South Carolina Primary",
-      "summary": "Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "21:50",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-17-2d04cffb",
-      "headline": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "21:29",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-17-988132a0",
       "headline": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
       "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake.Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are believed to have escaped from breeding facilities int",
@@ -756,20 +770,6 @@
       "category": "business",
       "date": "2026-07-17",
       "time": "14:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-17-e133a7a5",
-      "headline": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
-      "summary": "European Commission proposal to overhaul emissions trading system would give companies less demanding pathway to reductionsEurope’s most effective method of cutting dangerous planet-heating gases risks being weakened after the European Commission proposed an overhaul of its flagship carbon market, critics have said.In a long-awaited review of the European Union emissions trading system (ETS), the European Commission proposed giving companies a le",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "16:01",
       "conflict_id": null,
       "score": 24.0
     },
@@ -799,7 +799,7 @@
       "date": "2026-07-16",
       "time": "18:25",
       "conflict_id": "ukraine-war",
-      "score": 60.0
+      "score": 68.0
     },
     {
       "id": "2026-07-16-74fb8247",
@@ -856,20 +856,6 @@
       "time": "12:09",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-16-7495f3ba",
-      "headline": "CoreLogic Wraps Up $5.25 Billion Debt Deal With Hefty Yields",
-      "summary": "CoreLogic Inc. raised $5.25 billion from a debt sale after amending the terms and offering some of the year’s highest yields in response to lukewarm investor demand.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-16/corelogic-in-talks-to-sweeten-terms-on-struggling-debt-sale",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "21:32",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-07-16-df2d1700",
