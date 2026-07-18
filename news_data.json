@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-18T12:33:59.173684+00:00",
-  "story_count": 80,
-  "source_count": 9,
+  "updated": "2026-07-18T14:04:47.518858+00:00",
+  "story_count": 81,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-18-7fd94b02",
+      "headline": "A seventh night of US strikes cuts water to villages in Iran’s south",
+      "summary": "The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "04:47",
+      "conflict_id": null,
+      "score": 47.4
+    },
     {
       "id": "2026-07-18-5fde9376",
       "headline": "German army looks to Ukraine for battlefield lessons",
@@ -46,6 +60,34 @@
       "score": 43.4
     },
     {
+      "id": "2026-07-18-85fea2f3",
+      "headline": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "13:06",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-18-645619d6",
+      "headline": "US strikes hit Iran for seventh consecutive night",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Kuwait",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "11:48",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-07-18-58e5f810",
       "headline": "Zelenskyy considers sacking commander-in-chief as protests swell",
       "summary": "Crisis engulfs military after Ukrainian president dismissed his popular defence minister",
@@ -58,6 +100,20 @@
       "time": "10:10",
       "conflict_id": null,
       "score": 42.4
+    },
+    {
+      "id": "2026-07-18-3bfcb90c",
+      "headline": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
+      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growingWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, again, whether the island’s antiquated electricity system may soon become unrecoverable.The 777-mile Caribbean island of 9.5 million people has been sweltering under a six-month-long oil blockade",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+      "region": "NA",
+      "country": "Caribbean",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "13:14",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-07-18-016e9708",
@@ -74,46 +130,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-18-7fd94b02",
-      "headline": "A seventh night of US strikes cuts water to villages in Iran’s south",
-      "summary": "The US has bombed bridges and energy infrastructure in the seventh straight night of attacks on Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/a-seventh-night-of-us-strikes-cuts-water-to-villages-in-irans-south?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "04:47",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-18-85fea2f3",
-      "headline": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "11:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-18-645619d6",
-      "headline": "US strikes hit Iran for seventh consecutive night",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-18-bcdea9c9",
+      "headline": "US forces strike Iran for seventh consecutive night",
+      "summary": "Iran's Fars state news agency reported that Iranian forces had responded by attacking US allies and bases in the region, including the Ali Al Salem airbase in Kuwait.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/18/us-forces-strike-iran-for-seventh-consecutive-night",
       "region": "MENA",
       "country": "Kuwait",
       "category": "geopolitics",
       "date": "2026-07-18",
-      "time": "11:48",
+      "time": "05:49",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
     },
     {
       "id": "2026-07-18-58bbcfc8",
@@ -144,30 +172,16 @@
       "score": 34.4
     },
     {
-      "id": "2026-07-18-c6562a8f",
-      "headline": "Russia Bill Broadens Sanctions but Could Fuel Fears Over the Dollar",
-      "summary": "The Trump administration has recently sought to scale back sanctions as adversaries develop workarounds that some believe could erode the U.S. dollar’s supremacy.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/russia-bill-sanctions-trump.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "09:01",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-07-18-6821ccbd",
-      "headline": "Iranian official says the policy of negotiating during war is over",
-      "summary": "Mohsen Rezaee has warned that if the US continues bombing Iran, Tehran will escalate its response into full-scale war.",
+      "id": "2026-07-18-6ed52b9d",
+      "headline": "Venice protesters rally against US ambassador’s superyacht tour",
+      "summary": "Protesters clashed with police in Venice outside US Ambassador Tilman Fertitta’s superyacht.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/iranian-official-says-the-policy-of-negotiating-during-war-is-over?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/18/venice-protesters-rally-against-us-ambassadors-superyacht-tour?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
       "date": "2026-07-18",
-      "time": "02:09",
+      "time": "03:37",
       "conflict_id": null,
       "score": 31.4
     },
@@ -198,6 +212,34 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-07-18-6a445297",
+      "headline": "CDU's Jens Spahn resigns amid growing scrutiny over surrogate baby",
+      "summary": "Following Spahn's resignation, German Chancellor Friedrich Merz described the move as \"the right one\" and \"unavoidable.\" \"Credibility is the highest asset in politics,\" the chancellor added.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/18/cdus-jens-spahn-resigns-amid-growing-scrutiny-over-surrogate-baby",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "13:19",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-07-18-b5ce805b",
+      "headline": "UK by-election: Nigel Farage faces 'record' number of rivals",
+      "summary": "A fresh by-election has been called in the UK constituency of Clacton, after Nigel Farage, the leader of the right-wing Reform UK party, resigned his seat to seek re-election. Farage had won the seat in 2024, securing 46% of the vote share.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/18/uk-by-election-nigel-farage-faces-record-number-of-rivals",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "12:52",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-07-18-4eb298bd",
@@ -340,6 +382,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-18-ac0d3f72",
+      "headline": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
+      "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "12:32",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-07-18-40e8e23d",
       "headline": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
       "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
@@ -377,21 +433,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-18",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-18-5708005f",
-      "headline": "How Trump Is Using Federal Agencies to Target Elections",
-      "summary": "Nick Corasaniti, a Politics reporter, explains how the Trump administration is deploying federal agencies to investigate and reshape electoral processes under state jurisdiction.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/video/us/elections/100000011037521/how-trump-is-using-federal-agencies-to-target-elections.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "01:05",
+      "time": "13:33",
       "conflict_id": null,
       "score": 25.2
     },
@@ -676,6 +718,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-17-4d668ae3",
+      "headline": "'Make America Read Again': Venice protesters greet US ambassador with protest signs",
+      "summary": "US Ambassador to Italy arrived in Venice aboard the 117-meter luxury yacht Boardwalk, which features two helipads, two swimming pools, and a fully equipped spa and gym.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/17/make-america-read-again-venice-protesters-greet-us-ambassador-with-protest-signs",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "19:51",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-07-17-3e137466",
       "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
@@ -746,48 +802,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-17-9a62b1fa",
-      "headline": "Billionaires Prepare $87 Million Ad Campaign to Block California Wealth Tax",
-      "summary": "A coalition backed by the Google co-founder Sergey Brin and wealthy tech investors is trying to neutralize a proposed one-time tax on the state’s richest residents.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/california-billionaire-tax-opponents-ad-campaign.html",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "22:02",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-17-ef22e103",
-      "headline": "Trump Endorses Graham for Senate, Scrambling South Carolina Primary",
-      "summary": "Senator Darline Graham had been seen as a caretaker for her brother’s seat after his sudden death. Now she has the president’s nod in what was shaping up to be a crowded fight to succeed Lindsey Graham.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-endorses-darline-graham-senate.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "21:50",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-17-2d04cffb",
-      "headline": "Trump Pursues a Deeper Bond With China’s Leader, Despite Hostile Speech",
-      "summary": "Chinese officials appear to think that President Trump’s accusations that China interfered in the 2020 U.S. elections were driven by domestic politics, not foreign policy.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/trump-speech-china-xi.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "21:29",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-17-988132a0",
       "headline": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
       "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake.Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are believed to have escaped from breeding facilities int",
@@ -800,6 +814,20 @@
       "time": "14:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-07-17-2244c2f2",
+      "headline": "Macron and Merz agree to deepen defence ties and push for tougher stance on China",
+      "summary": "German Chancellor Friedrich Merz welcomed French President Emmanuel Macron to the Noervenich air base near Cologne on Friday for the 26th Franco-German ministerial council.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/17/france-and-germany-deepen-defence-ties-and-push-for-tougher-stance-on-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "18:02",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-07-16-31eba1be",
@@ -968,20 +996,6 @@
       "time": "11:44",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-15-6d48ca70",
-      "headline": "French MPs approve assisted dying law with strict rules after years of argument",
-      "summary": "The bill would allow assisted dying for terminally ill adults who meet strict criteria.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg7g2z4pv3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-15",
-      "time": "17:29",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-15-13d2a5a1",
