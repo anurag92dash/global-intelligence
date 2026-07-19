@@ -1,21 +1,35 @@
 {
-  "updated": "2026-07-19T08:38:44.144529+00:00",
-  "story_count": 80,
+  "updated": "2026-07-19T10:11:56.707392+00:00",
+  "story_count": 77,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-07-19-33269e81",
-      "headline": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
-      "summary": "US forces attack Iran for the eighth consecutive night as Iran says MoU &#039;suspended&#039;.",
+      "id": "2026-07-19-7dcccec3",
+      "headline": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "summary": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
+      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-19",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 64.4
+      "time": "07:28",
+      "conflict_id": "ukraine-war",
+      "score": 67.4
+    },
+    {
+      "id": "2026-07-19-376f3fca",
+      "headline": "Russia launches major ballistic missile attack on Kyiv",
+      "summary": "One death is reported in what President Zelensky calls \"one of the most massive ballistic attacks\" on Ukraine's capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "09:54",
+      "conflict_id": "ukraine-war",
+      "score": 63.0
     },
     {
       "id": "2026-07-19-cc0bc410",
@@ -32,22 +46,8 @@
       "score": 60.0
     },
     {
-      "id": "2026-07-19-58a3af5e",
-      "headline": "Dozens of Russian missiles pound Kyiv in major attack",
-      "summary": "At least one death with authorities reporting fires and damage to offices and homes, while Ukraine’s forces earlier hit logistics warehouses in RussiaRussia has carried out one of its biggest ever ballistic missile attacks on Kyiv, launching a five-hour raid that left at least one person dead and seven injured, with fires and damage across the city.Ukrainian officials said the capital was hit with about 40 Iskander-M and hypersonic Zircon missile",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "05:49",
-      "conflict_id": "ukraine-war",
-      "score": 60.0
-    },
-    {
-      "id": "2026-07-19-f1d44522",
-      "headline": "US strikes Iran after two American troops are killed in Jordan",
+      "id": "2026-07-19-78d71fcf",
+      "headline": "US strikes Iran after two American troops killed in Jordan",
       "summary": "Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
@@ -55,7 +55,7 @@
       "country": "America",
       "category": "geopolitics",
       "date": "2026-07-19",
-      "time": "04:39",
+      "time": "09:13",
       "conflict_id": null,
       "score": 59.4
     },
@@ -74,18 +74,46 @@
       "score": 59.1
     },
     {
-      "id": "2026-07-19-7dcccec3",
-      "headline": "Russia launches largest ballistic missile attack on Kyiv since start of war",
-      "summary": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+      "id": "2026-07-19-a17f1f18",
+      "headline": "US launches new Iran strikes after two soldiers killed: What’s the latest?",
+      "summary": "US strikes target Iran&#039;s IRGC after two of its soldiers were killed in Jordan, as Tehran attacks Kuwait and Bahrain.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-new-iran-strikes-after-two-soldiers-killed-whats-the-latest?traffic_source=rss",
+      "region": "MENA",
+      "country": "Bahrain",
       "category": "geopolitics",
       "date": "2026-07-19",
-      "time": "07:28",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
+      "time": "08:49",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-07-19-a5e4b730",
+      "headline": "Russia pounds Kyiv for five hours in one of biggest ever ballistic missile attacks",
+      "summary": "At least one person killed after dozens of missiles arrive in less than an hour and three-storey building catches fireRussia has carried out one of its biggest-ever ballistic missile attacks on Kyiv, launching a five-hour raid that left at least one person dead and seven injured, with fires and damage across the city.Ukrainian officials said the capital was hit with about 40 Iskander-M and hypersonic Zircon missiles. Residents heard an air raid s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "08:35",
+      "conflict_id": null,
+      "score": 56.0
+    },
+    {
+      "id": "2026-07-19-94fca3d8",
+      "headline": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
+      "summary": "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "08:46",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-07-19-1e133f43",
@@ -116,34 +144,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-19-af4f2795",
-      "headline": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
-      "summary": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "04:36",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-19-7b4ef933",
-      "headline": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
-      "summary": "Sirik and Hajiabad areas in Iran&#039;s Hormozgan province targeted as US says revenge for killing of two soldiers.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "04:16",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-07-19-35428358",
       "headline": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
       "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
@@ -154,6 +154,20 @@
       "category": "politics",
       "date": "2026-07-19",
       "time": "07:47",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-19-25d0b848",
+      "headline": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "01:47",
       "conflict_id": null,
       "score": 35.0
     },
@@ -282,6 +296,48 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-07-19-5d237177",
+      "headline": "Trump Blasts ‘Sanctuary’ States, but Many Still Aid Deportations",
+      "summary": "A New York Times review of 18 states targeted by the Trump administration for their “sanctuary” policies found that all cooperate significantly with immigration authorities in cases involving violent crimes.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/sanctuary-states-deportation-aid.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-07-19",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-19-d994f256",
+      "headline": "Trump Gutted Civil Rights Agency, Stifling U.S. Scrutiny of Workplace Bias",
+      "summary": "A little-known federal office spent decades investigating potential discrimination by government contractors — until it was stopped by the Trump administration.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/trump-gutted-civil-rights-agency-stifling-us-scrutiny-of-workplace-bias.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-19",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-19-e00677e7",
+      "headline": "Failed Immigration Cases Leave Chicago Prosecutor’s Office Reeling",
+      "summary": "Prosecutors have fled the U.S. attorney’s office in Chicago, angry about the cases they’ve been told to bring against protesters and immigrants.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/19/us/immigration-chicago-prosecutors.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-19",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-07-19-b46dd88f",
@@ -449,7 +505,7 @@
       "date": "2026-07-18",
       "time": "17:44",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-07-18-e3700b3f",
@@ -482,7 +538,7 @@
     {
       "id": "2026-07-18-3bfcb90c",
       "headline": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growingWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, again, whether the island’s antiquated electricity system may soon become unrecoverable.The 777-mile Caribbean island of 9.5 million people has been sweltering under a six-month-long oil blockade",
+      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growingWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, again, whether the island’s antiquated electricity system may soon become unrecoverable.The 777-mile long Caribbean island of 9.5 million people has been sweltering under a six-month-long oil blo",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
       "region": "NA",
@@ -492,20 +548,6 @@
       "time": "13:14",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-18-862657e7",
-      "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-18-2f89b319",
@@ -518,20 +560,6 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "19:34",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-18-85fea2f3",
-      "headline": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "13:06",
       "conflict_id": null,
       "score": 35.0
     },
@@ -718,62 +746,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-18-f5924aa2",
-      "headline": "China Seeks Stable, Transparent Mineral Rules From Indonesia",
-      "summary": "China said it hopes Indonesia can provide a stable and transparent policy environment for its mineral sector, as the two countries deepen economic ties.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-seeks-stable-transparent-mineral-rules-from-indonesia",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "04:04",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-18-f28db12a",
-      "headline": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
-      "summary": "The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "20:57",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-18-b6879c29",
-      "headline": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
-      "summary": "President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "17:08",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-18-47bc3546",
-      "headline": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel",
-      "summary": "The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/17/us/politics/aipac-donor-portal-democrats.html",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "03:33",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-18-18b7bef5",
       "headline": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
       "summary": "Hand-painted works are often wildly unfaithful to the movies they portray – reinterpretations that sometimes resulted in threats, insults and even physical attacks from viewers who felt dupedSitting on his porch in Teshie near Accra, Heavy J dipped a brush into red oil paint and dabbed it carefully on to his canvas – a flour sack – adding blood to a knife being wielded by a man. Higher on the canvas, he had started on an outline of a skull.Heavy ",
@@ -788,20 +760,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-07-18-ee79eb95",
-      "headline": "Kylian Mbappe breaks all-time World Cup scoring record with 22nd goal",
-      "summary": "Mbappe is back on track to defend his Golden Boot title, which he and Messi have traded between themselves throughout the tournament.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/18/kylian-mbappe-breaks-all-time-world-cup-scoring-record-with-22nd-goal?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-18",
-      "time": "23:20",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-07-17-d83310fb",
       "headline": "Trump wants to impose tariffs on Canada in retaliation for wildfire smoke",
       "summary": "The White House did not respond to questions about what legal mechanism he would use to impose the tariffs or how the administration would calculate the rate of the levies.",
@@ -814,20 +772,6 @@
       "time": "22:23",
       "conflict_id": null,
       "score": 40.9
-    },
-    {
-      "id": "2026-07-17-d1b94e46",
-      "headline": "Magnitude 7.3 earthquake quake strikes off Mexico coast",
-      "summary": "The US Tsunami Warning Center has recorded waves 0.3m (1.1 feet) high in Puerto Madero and Chiapas in Mexico after the quake.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyjv3815yxo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "geopolitics",
-      "date": "2026-07-17",
-      "time": "18:12",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-17-74a99f8d",
@@ -886,6 +830,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-17-dad1bfce",
+      "headline": "How these twins' rare growth disorder could provide the key to preventing cancer",
+      "summary": "Researchers have found that people with Laron syndrome have a lower incidence of cancer than the wider population.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "23:24",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-17-3e137466",
       "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
@@ -900,20 +858,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-17-dad1bfce",
-      "headline": "How these twins' rare growth disorder could provide the key to preventing cancer",
-      "summary": "Researchers have found that people with Laron syndrome have a lower incidence of cancer than the wider population.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "23:24",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-17-988132a0",
       "headline": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
       "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake.Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are believed to have escaped from breeding facilities int",
@@ -924,20 +868,6 @@
       "category": "business",
       "date": "2026-07-17",
       "time": "14:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-17-e133a7a5",
-      "headline": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
-      "summary": "European Commission proposal to overhaul emissions trading system would give companies less demanding pathway to reductionsEurope’s most effective method of cutting dangerous planet-heating gases risks being weakened after the European Commission proposed an overhaul of its flagship carbon market, critics have said.In a long-awaited review of the European Union emissions trading system (ETS), the European Commission proposed giving companies a le",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "16:01",
       "conflict_id": null,
       "score": 24.0
     },
@@ -982,6 +912,20 @@
       "time": "16:36",
       "conflict_id": "ukraine-war",
       "score": 47.0
+    },
+    {
+      "id": "2026-07-16-aab43dc7",
+      "headline": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "12:09",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-07-16-07490ff4",
@@ -1037,7 +981,7 @@
       "date": "2026-07-15",
       "time": "21:58",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-07-15-13d2a5a1",
@@ -1082,6 +1026,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-07-14-68c9e310",
+      "headline": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
+      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-14",
+      "time": "04:50",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-07-13-7570adfb",
       "headline": "British couple return to village at heart of deadly Spanish wildfire",
       "summary": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
@@ -1092,20 +1050,6 @@
       "category": "geopolitics",
       "date": "2026-07-13",
       "time": "00:29",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-13-6abca246",
-      "headline": "US and Iran trade fire as tensions rise over Strait of Hormuz",
-      "summary": "Within hours of the latest US attacks, Iran said it had struck US military assets in Kuwait, Jordan, Bahrain and Oman.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-07-13",
-      "time": "15:16",
       "conflict_id": null,
       "score": 43.0
     },
@@ -1122,6 +1066,20 @@
       "time": "18:24",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-07-12-f8f2c735",
+      "headline": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
+      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-12",
+      "time": "22:17",
+      "conflict_id": null,
+      "score": 43.0
     }
   ]
 }
