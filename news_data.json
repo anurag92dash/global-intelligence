@@ -1,8 +1,36 @@
 {
-  "updated": "2026-07-19T06:19:31.267981+00:00",
-  "story_count": 79,
+  "updated": "2026-07-19T08:38:44.144529+00:00",
+  "story_count": 80,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-19-33269e81",
+      "headline": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
+      "summary": "US forces attack Iran for the eighth consecutive night as Iran says MoU &#039;suspended&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 64.4
+    },
+    {
+      "id": "2026-07-19-cc0bc410",
+      "headline": "US and Iran exchange strikes after two US soldiers killed in Jordan",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "05:10",
+      "conflict_id": null,
+      "score": 60.0
+    },
     {
       "id": "2026-07-19-58a3af5e",
       "headline": "Dozens of Russian missiles pound Kyiv in major attack",
@@ -32,32 +60,46 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-19-33269e81",
-      "headline": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
-      "summary": "US forces attack Iran for the eighth consecutive night as Iran says MoU &#039;suspended&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
+      "id": "2026-07-19-3c908475",
+      "headline": "US, Iran Trade More Attacks After Two Troops Killed in Jordan",
+      "summary": "The US and Iran engaged in another wave of tit-for-tat attacks, signaling no let-up after strikes by the Islamic Republic killed two American service members in Jordan on Friday.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
       "region": "NA",
-      "country": "Trump",
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-07-19",
-      "time": "00:00",
+      "time": "06:58",
       "conflict_id": null,
-      "score": 55.4
+      "score": 59.1
     },
     {
-      "id": "2026-07-19-c04930f0",
-      "headline": "US and Iran exchange strikes after two US deaths in Jordan attack",
-      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Jordan",
+      "id": "2026-07-19-7dcccec3",
+      "headline": "Russia launches largest ballistic missile attack on Kyiv since start of war",
+      "summary": "Ukraine is particularly vulnerable to ballistic missile attacks due to a shortage of Patriot air defence munitions.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/russia-launches-largest-ballistic-missile-attack-on-kyiv-since-start-of-war?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-19",
-      "time": "05:10",
-      "conflict_id": null,
-      "score": 43.0
+      "time": "07:28",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
+    },
+    {
+      "id": "2026-07-19-1e133f43",
+      "headline": "The number one health issue in Palestine is the Israeli occupation",
+      "summary": "In both Gaza and the West Bank, Israeli policies are devastating Palestinian health with deadly consequences.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/19/the-number-one-health-issue-in-palestine-is-the-israeli-occupation?traffic_source=rss",
+      "region": "MENA",
+      "country": "Palestine",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "07:15",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-07-19-71b722dc",
@@ -74,16 +116,16 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-19-6bfbb89a",
-      "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
-      "summary": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
+      "id": "2026-07-19-af4f2795",
+      "headline": "Moment Iranian missiles hit airbase in Jordan killing US soldiers",
+      "summary": "A video captures the moment an Iranian missile struck Jordan’s Muwaffaq Salti Airbase, killing two US service members.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/moment-iranian-missiles-hit-airbase-in-jordan-killing-us-soldiers?traffic_source=rss",
       "region": "MENA",
-      "country": null,
+      "country": "Jordan",
       "category": "geopolitics",
       "date": "2026-07-19",
-      "time": "04:32",
+      "time": "04:36",
       "conflict_id": null,
       "score": 39.4
     },
@@ -102,16 +144,16 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-19-25d0b848",
-      "headline": "New EU border system tripling time at passport control, airport boss says",
-      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "id": "2026-07-19-35428358",
+      "headline": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
       "date": "2026-07-19",
-      "time": "01:47",
+      "time": "07:47",
       "conflict_id": null,
       "score": 35.0
     },
@@ -256,6 +298,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-07-19-24e6680c",
+      "headline": "ASEAN ministers meeting, Indonesia rates decision, South Korea GDP",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/asean-ministers-meeting-indonesia-rates-decision-south-korea-gdp",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-07-19",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-07-19-bd03074d",
       "headline": "China's role as 'swing importer' cushions oil market spike",
       "summary": "",
@@ -354,36 +410,8 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-19-5e9b14a8",
-      "headline": "Australia shale gas project to start in September, eyeing Japan exports",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/australia-shale-gas-project-to-start-in-september-eyeing-japan-exports",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-07-19",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-18-35733015",
-      "headline": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
-      "summary": "Palestinians who have endured Israel&#039;s genocidal war are still being targeted.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/18/why-has-the-ceasefire-in-gaza-failed-to-stop-israels-attacks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "19:55",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
-      "id": "2026-07-18-cc2df839",
-      "headline": "Two US troops killed in Jordan by Iranian attacks, US military says",
+      "id": "2026-07-18-e353c54a",
+      "headline": "US says it struck Iranian forces linked to Jordan attack as Kuwait reports fresh attacks",
       "summary": "The two servicemen were killed Friday as the US and partner forces defended against Iranian ballistic missile and drone attacks, according to a statement from the US military.",
       "source": "Euronews",
       "url": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
@@ -393,7 +421,7 @@
       "date": "2026-07-18",
       "time": "18:06",
       "conflict_id": null,
-      "score": 53.0
+      "score": 54.0
     },
     {
       "id": "2026-07-18-e6052c0d",
@@ -438,20 +466,6 @@
       "score": 46.1
     },
     {
-      "id": "2026-07-18-975a2088",
-      "headline": "Palestinian teenage footballer dies a week after Israeli settler attack",
-      "summary": "A week after he was shot in his West Bank village, Fadi al-Nassan&#039;s death comes amid a surge in settler violence.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/palestinian-teenage-footballer-dies-a-week-after-israeli-settler-attack?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "20:24",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
       "id": "2026-07-18-3986a796",
       "headline": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
       "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstormsSaturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfires giving way to severe thunderstorms that have already triggered a flash flood warning as torrential rain pounds parts of the region.After a brief break on Friday, smoke from the wildfires moved back into New York",
@@ -494,20 +508,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-18-85fea2f3",
-      "headline": "Russian online retail warehouses hit by deadly Ukrainian strikes",
-      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "13:06",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-18-2f89b319",
       "headline": "Hungary's president agrees to stand down after parliament backs removal",
       "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
@@ -518,6 +518,20 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "19:34",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-18-85fea2f3",
+      "headline": "Russian online retail warehouses hit by deadly Ukrainian strikes",
+      "summary": "Drones targeted Wildberries facilities near Moscow and in Tambov. Ukraine's leader called them \"major logistics facilities\" supplying \"sanctioned components\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyxlm877p2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "13:06",
       "conflict_id": null,
       "score": 35.0
     },
@@ -560,20 +574,6 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "23:37",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-18-e477acff",
-      "headline": "ANU accused of ‘hysterical’ response to students using AI to cheat as unis scramble to ‘secure’ assessments",
-      "summary": "Australia risks ‘shipping’ intellectual capability overseas if educational rigour not restored, experts warnFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAn academic at the Australian National University has accused it of a “hysterical” response to students using AI to cheat, as tertiary institutions rush to shore up the credibility of assessments.But a colleague warned Australia ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/18/anu-accused-of-hysterical-response-to-students-using-ai-to-as-unis-scramble-to-secure-assessments",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "20:00",
       "conflict_id": null,
       "score": 32.0
     },
@@ -644,6 +644,20 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "01:35",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-18-165fa45e",
+      "headline": "The classroom moment that bonds finalists De la Fuente & Scaloni forever",
+      "summary": "Spain manager Luis de la Fuente and Argentina boss Lionel Scaloni will go head-to-head in the World Cup final on Sunday - and the two men know each other well.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c98v13rgyrmo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Argentina",
+      "category": "business",
+      "date": "2026-07-18",
+      "time": "13:00",
       "conflict_id": null,
       "score": 27.0
     },
@@ -746,34 +760,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-18-ac0d3f72",
-      "headline": "The Evolution of Presidential Travel: Horse Carriages to Air Force One",
-      "summary": "From horse-drawn presidential coaches to Air Force One, presidents have used various modes of transportation to project an image of America for nearly 250 years.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/trump-air-force-one-travel.html",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "12:32",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-18-40e8e23d",
-      "headline": "Without Platner, Maine Democrats Scramble to Keep Grassroots Energy Alive",
-      "summary": "Graham Platner’s campaign for Senate imploded last week. The activists who backed him are seeking a candidate to carry his populist message in the race against Republican Susan Collins.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/us/politics/platner-voters-maine-senate.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "09:02",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-18-47bc3546",
       "headline": "AIPAC Closes Donor Portal to Democrats Who Voted to End Aid to Israel",
       "summary": "The pro-Israel lobbying group appeared to be punishing Democrats it had endorsed for re-election after they voted in favor of an amendment that would have cut off U.S. aid to Israel.",
@@ -872,6 +858,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-17-6583b030",
+      "headline": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
+      "summary": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in JulyLuis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence ended last week, has been given permission to travel to the US, according to his official Facebook page.Otero Alcántara, designated a prisoner of conscience by Amnesty International, was sentenced to five years in p",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-17",
+      "time": "22:28",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-07-17-f8bb71df",
       "headline": "Australia updates travel advice for Laos as charges announced over mass methanol poisoning",
       "summary": "Distillery owner could face only three months in jail over alleged poisoning of Australian teenagersGet our breaking news email, free app or daily news podcastThe Australian government has increased its travel alert level for Laos, advising travellers to “exercise a high degree of caution” due to the risk of methanol poisoning.It comes as a distillery owner in Laos was charged after a mass methanol poisoning incident killed six foreign nationals,",
@@ -886,20 +886,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-17-dad1bfce",
-      "headline": "How these twins' rare growth disorder could provide the key to preventing cancer",
-      "summary": "Researchers have found that people with Laron syndrome have a lower incidence of cancer than the wider population.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "23:24",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-17-3e137466",
       "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
       "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
@@ -910,6 +896,20 @@
       "category": "business",
       "date": "2026-07-17",
       "time": "17:01",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-17-dad1bfce",
+      "headline": "How these twins' rare growth disorder could provide the key to preventing cancer",
+      "summary": "Researchers have found that people with Laron syndrome have a lower incidence of cancer than the wider population.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnlmek8reo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "23:24",
       "conflict_id": null,
       "score": 27.0
     },
@@ -928,6 +928,34 @@
       "score": 24.0
     },
     {
+      "id": "2026-07-17-e133a7a5",
+      "headline": "Europe’s most effective tool to cut greenhouse gas emissions ‘risks being weakened’",
+      "summary": "European Commission proposal to overhaul emissions trading system would give companies less demanding pathway to reductionsEurope’s most effective method of cutting dangerous planet-heating gases risks being weakened after the European Commission proposed an overhaul of its flagship carbon market, critics have said.In a long-awaited review of the European Union emissions trading system (ETS), the European Commission proposed giving companies a le",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/jul/17/europe-emissions-trading-system-greenhouse-gas-risks-weakened",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "16:01",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-16-4b3c3d8a",
+      "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "04:06",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-07-16-e36d5b3d",
       "headline": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
       "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
@@ -942,20 +970,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-07-16-4b3c3d8a",
-      "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "04:06",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-07-16-74fb8247",
       "headline": "Zelensky's removal of popular defence minister sparks protests in Ukraine",
       "summary": "A rift between Fedorov and Commander-in-Chief Oleksandr Syrskyi was apparently at the heart of Zelensky's decision.",
@@ -968,20 +982,6 @@
       "time": "16:36",
       "conflict_id": "ukraine-war",
       "score": 47.0
-    },
-    {
-      "id": "2026-07-16-aab43dc7",
-      "headline": "US strikes oil tanker with missiles as it enforces new Iran blockade",
-      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "12:09",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-16-07490ff4",
@@ -1092,6 +1092,20 @@
       "category": "geopolitics",
       "date": "2026-07-13",
       "time": "00:29",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-13-6abca246",
+      "headline": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+      "summary": "Within hours of the latest US attacks, Iran said it had struck US military assets in Kuwait, Jordan, Bahrain and Oman.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Bahrain",
+      "category": "geopolitics",
+      "date": "2026-07-13",
+      "time": "15:16",
       "conflict_id": null,
       "score": 43.0
     },
