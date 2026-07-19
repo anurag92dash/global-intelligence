@@ -1,35 +1,105 @@
 {
-  "updated": "2026-07-19T03:47:39.275567+00:00",
-  "story_count": 81,
+  "updated": "2026-07-19T06:19:31.267981+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-07-19-e3eabed4",
-      "headline": "Iran war live: US launches new strikes; Trump mourns killed soldiers",
-      "summary": "US president says death of soldiers in Jordan a &#039;sad thing&#039; as US forces attack Iran for the eighth consecutive night.",
+      "id": "2026-07-19-58a3af5e",
+      "headline": "Dozens of Russian missiles pound Kyiv in major attack",
+      "summary": "At least one death with authorities reporting fires and damage to offices and homes, while Ukraine’s forces earlier hit logistics warehouses in RussiaRussia has carried out one of its biggest ever ballistic missile attacks on Kyiv, launching a five-hour raid that left at least one person dead and seven injured, with fires and damage across the city.Ukrainian officials said the capital was hit with about 40 Iskander-M and hypersonic Zircon missile",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/19/dozens-of-russian-missiles-pound-kyiv-ukraine-in-major-attack",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "05:49",
+      "conflict_id": "ukraine-war",
+      "score": 60.0
+    },
+    {
+      "id": "2026-07-19-f1d44522",
+      "headline": "US strikes Iran after two American troops are killed in Jordan",
+      "summary": "Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "04:39",
+      "conflict_id": null,
+      "score": 59.4
+    },
+    {
+      "id": "2026-07-19-33269e81",
+      "headline": "Iran war live: US bombs Iran; Trump says soldiers killed ‘a sad thing’",
+      "summary": "US forces attack Iran for the eighth consecutive night as Iran says MoU &#039;suspended&#039;.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/7/19/iran-war-live-us-launches-new-strikes-trump-mourns-killed-soldiers?traffic_source=rss",
       "region": "NA",
-      "country": "Jordan",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-19",
       "time": "00:00",
       "conflict_id": null,
-      "score": 64.4
+      "score": 55.4
     },
     {
-      "id": "2026-07-19-e6dcc935",
-      "headline": "Two US troops killed and one missing after Iranian attack in Jordan",
-      "summary": "Iran and the US have traded strikes as hostilities re-escalated this week, with Tehran targeting US military facilities across the Gulf region.",
+      "id": "2026-07-19-c04930f0",
+      "headline": "US and Iran exchange strikes after two US deaths in Jordan attack",
+      "summary": "US forces target Iranian sites for the eighth night in a row, while Iran says it fired drones at the US military in Kuwait.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn8nynv8ze8o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Jordan",
       "category": "geopolitics",
       "date": "2026-07-19",
-      "time": "00:18",
+      "time": "05:10",
       "conflict_id": null,
-      "score": 59.0
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-19-71b722dc",
+      "headline": "US bombs Iran for eighth-straight night",
+      "summary": "The US has launched a new wave of strikes on Iran after two American soldiers were killed by Iranian strikes in Jordan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/us-bombs-iran-for-eighth-straight-night?traffic_source=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "05:08",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-07-19-6bfbb89a",
+      "headline": "At least one killed as Russian ballistic missiles hit Kyiv",
+      "summary": "Russian missiles struck Kyiv and the surrounding region early on Sunday, killing at least one person and injuring nine.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/19/at-least-one-killed-as-russian-ballistic-missiles-hit-kyiv?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "04:32",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-07-19-7b4ef933",
+      "headline": "US hits Iran for eighth consecutive night, Iran returns fire on Gulf bases",
+      "summary": "Sirik and Hajiabad areas in Iran&#039;s Hormozgan province targeted as US says revenge for killing of two soldiers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/us-launches-eighth-consecutive-night-of-attacks-on-iran?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "04:16",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-07-19-25d0b848",
@@ -102,8 +172,36 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-19-04b4ea6d",
-      "headline": "South Korea to Ease FX Rules for Foreigners to Trade Won Easier",
+      "id": "2026-07-19-88a16aad",
+      "headline": "Chinese leaders zero in on need for stimulus for economy",
+      "summary": "Policymakers expected to prioritise spurring high-tech rather than ‘big bang’ for consumption, analysts say",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9cf9b393-3ac7-4cfc-9dd1-4fc23831e6a0?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-19",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-19-211ae8bc",
+      "headline": "Singapore weighs hedge fund tax cuts to rival Hong Kong",
+      "summary": "City-state frets over portfolio managers relocating to Chinese territory",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d3221c90-c2a4-4bdd-8e0d-6e069bf0ca25?syn-25a6b1a6=1",
+      "region": "APJ",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-19-50c0bece",
+      "headline": "South Korea Details Plan for Foreigners to Trade Won Easier",
       "summary": "South Korea laid out a detailed plan to make the won freely tradable among foreigners, its boldest step yet to liberalize the forex market and bring the currency closer to full convertibility.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-19/south-korea-to-ease-fx-rules-for-foreigners-to-trade-won-easier",
@@ -112,6 +210,20 @@
       "category": "business",
       "date": "2026-07-19",
       "time": "03:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-19-b8176ef9",
+      "headline": "India’s Private Lenders Bet on Corporate Loan Revival for Growth",
+      "summary": "India’s top private banks are betting on a sustained pick up in lending after reporting healthy numbers in the first quarter of the fiscal year, as more companies shift away from pricier bond market borrowings to cheaper loans.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/india-s-private-lenders-bet-on-corporate-loan-revival-for-growth",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-07-19",
+      "time": "05:01",
       "conflict_id": null,
       "score": 26.1
     },
@@ -130,11 +242,53 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-19-b46dd88f",
+      "headline": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
+      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-19",
+      "time": "04:10",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-19-bd03074d",
+      "headline": "China's role as 'swing importer' cushions oil market spike",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/china-s-role-as-swing-importer-cushions-oil-market-spike",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-07-19",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-07-19-6eb938ae",
       "headline": "Japan seeks stronger deterrence after China submarine missile launch",
       "summary": "",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/politics/defense/japan-seeks-stronger-deterrence-after-china-submarine-missile-launch",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-07-19-30e1f8af",
+      "headline": "China's share of global wind turbine market reaches nearly 80%",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
       "region": "APJ",
       "country": "China",
       "category": "geopolitics",
@@ -214,34 +368,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-19-a5d01b13",
-      "headline": "Xi dabbles in 'AI diplomacy' at Shanghai forum with Thai, Cambodian PMs",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/xi-dabbles-in-ai-diplomacy-at-shanghai-forum-with-thai-cambodian-pms",
-      "region": "APJ",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-19",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-18-57f4acd2",
-      "headline": "US military says two service members killed in Iranian strike in Jordan",
-      "summary": "US and Iran have stepped up attacks in the last week, prompting alarm about return to full-scale war across the region.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/us-military-says-two-service-members-killed-in-iranian-strike-in-jordan?traffic_source=rss",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "18:04",
-      "conflict_id": null,
-      "score": 63.4
-    },
-    {
       "id": "2026-07-18-35733015",
       "headline": "Why has the ‘ceasefire’ in Gaza failed to stop Israel’s attacks?",
       "summary": "Palestinians who have endured Israel&#039;s genocidal war are still being targeted.",
@@ -253,20 +379,6 @@
       "date": "2026-07-18",
       "time": "19:55",
       "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
-      "id": "2026-07-18-f1d44522",
-      "headline": "US strikes Iran after two American troops are killed in Jordan",
-      "summary": "Battle for control of Strait of Hormuz escalates after Tehran launches attack on Gulf states",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e8e8adc5-7c56-45a8-99fc-bb5acfda263e?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "22:54",
-      "conflict_id": null,
       "score": 59.4
     },
     {
@@ -310,20 +422,6 @@
       "time": "17:44",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-07-18-5fde9376",
-      "headline": "German army looks to Ukraine for battlefield lessons",
-      "summary": "Land forces chief says Kyiv’s military expertise is proving invaluable as Bundeswehr rebuilds and US support wanes",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/205c4f2c-53fc-4e30-90a7-4bf3eeb0fdeb?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "09:00",
-      "conflict_id": "ukraine-war",
-      "score": 46.4
     },
     {
       "id": "2026-07-18-e3700b3f",
@@ -380,20 +478,6 @@
       "time": "13:14",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-18-704a4d58",
-      "headline": "Iran supreme leader warns of ‘unforgettable lessons’ if US attacks continue",
-      "summary": "Mojtaba Khamenei says Trump&#039;s signature is &#039;worthless&#039; and that &#039;bullying&#039; is a core element of US foreign policy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/18/iran-supreme-leader-warns-of-unforgettable-lessons-if-us-attacks-continue?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "18:55",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-07-18-862657e7",
@@ -466,20 +550,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-18-58e5f810",
-      "headline": "Zelenskyy considers sacking commander-in-chief as protests swell",
-      "summary": "Crisis engulfs military after Ukrainian president dismissed his popular defence minister",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/1b34caa6-d909-4df8-a90f-b928f2199261?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "10:10",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
       "id": "2026-07-18-b5cdecfe",
       "headline": "Conservatives around world at war against ‘leftwing globalists’, Bridget McKenzie tells CPAC London event",
       "summary": "Nationals senator echoes comments by Pauline Hanson as Labor criticises One Nation leader’s divisive stanceFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe National party’s Senate leader, Bridget McKenzie, has used an appearance at a conference of the populist right in London to declare that conservatives are “in a war” against mass immigration, “leftwing globalists” and “woke” i",
@@ -550,6 +620,20 @@
       "score": 29.0
     },
     {
+      "id": "2026-07-18-b5ce805b",
+      "headline": "UK by-election: Nigel Farage faces 'record' number of rivals",
+      "summary": "A fresh by-election has been called in the UK constituency of Clacton, after Nigel Farage, the leader of the right-wing Reform UK party, resigned his seat to seek re-election. Farage had won the seat in 2024, securing 46% of the vote share.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/18/uk-by-election-nigel-farage-faces-record-number-of-rivals",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "12:52",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-07-18-4eb298bd",
       "headline": "He made history in Congress - then the Supreme Court changed its mind",
       "summary": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
@@ -562,48 +646,6 @@
       "time": "01:35",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-18-163c63bc",
-      "headline": "Martin Wolf: the next crash — why this time might not be different",
-      "summary": "Stock markets are not only ignoring the obvious threats, but seem imbued with extreme optimism",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/de2978b0-481c-4af5-9e77-9e34650fb20f?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-18",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-18-63acef06",
-      "headline": "Traders are increasingly betting against SpaceX just weeks after IPO",
-      "summary": "Shares of Elon Musk’s rockets and AI company have slipped below their listing price for the first time",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2b96703d-440b-46db-8d86-9fff9ecc59d5?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-18",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-18-511627be",
-      "headline": "Asia AI bets power record equities run for Wall Street banks",
-      "summary": "Investments in semiconductors fuel growth in regional revenues for US banks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/2dc8d54c-89b7-4e57-bd43-084d9edf01a4?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-18",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-07-18-97905d76",
@@ -676,34 +718,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-18-8603be4d",
-      "headline": "China Urges Better Cooperation With Kyrgyzstan on Green Minerals",
-      "summary": "China urged stronger cooperation with Kyrgyzstan across the green minerals industrial chain, while calling for the protection of the rights and interests of Chinese companies in the country, according to a statement from the Ministry of Commerce on Saturday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-urges-better-cooperation-with-kyrgyzstan-on-green-minerals",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "05:06",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-18-9af6b926",
-      "headline": "China Solar Cell Exports Extend Decline in June",
-      "summary": "China’s solar cell exports fell for a second month in June, an indication that overseas demand is weakening after a surge in shipments earlier in the year.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-18/china-solar-cell-exports-extend-decline-in-june",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "04:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-18-f28db12a",
       "headline": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
       "summary": "The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.",
@@ -756,34 +770,6 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "09:02",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-18-3aec1c4d",
-      "headline": "How Criminal Cases Against ICE Protesters Are Crumbling",
-      "summary": "Our investigative reporter Danny Hakim describes how the government has lost or abandoned hundreds of criminal cases against protesters and immigrants.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/video/us/100000010977388/how-criminal-cases-against-ice-protesters-are-crumbling.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-18-17b27ee2",
-      "headline": "They Were Charged With Assaulting ICE Agents. The Cases Are Crumbling.",
-      "summary": "The Trump administration has lost or abandoned hundreds of criminal cases against protesters and immigrants, a Times investigation found.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/18/us/ice-assaults-protesters.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "19:49",
       "conflict_id": null,
       "score": 25.2
     },
@@ -942,20 +928,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-07-16-4b3c3d8a",
-      "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "04:06",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
       "id": "2026-07-16-e36d5b3d",
       "headline": "Starmer pledges 'unwavering support' for Ukraine on final visit as PM",
       "summary": "The outgoing prime minister assures President Zelensky of the UK's continued support in its war with Russia.",
@@ -968,6 +940,20 @@
       "time": "19:50",
       "conflict_id": "ukraine-war",
       "score": 55.0
+    },
+    {
+      "id": "2026-07-16-4b3c3d8a",
+      "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
+      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "04:06",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-07-16-74fb8247",
@@ -995,7 +981,7 @@
       "date": "2026-07-16",
       "time": "12:09",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-07-16-07490ff4",
@@ -1122,20 +1108,6 @@
       "time": "18:24",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-07-12-f8f2c735",
-      "headline": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "22:17",
-      "conflict_id": null,
-      "score": 43.0
     }
   ]
 }
