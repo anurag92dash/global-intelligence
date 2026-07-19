@@ -1,36 +1,8 @@
 {
-  "updated": "2026-07-19T17:38:29.914932+00:00",
+  "updated": "2026-07-19T18:34:30.839307+00:00",
   "story_count": 79,
-  "source_count": 10,
+  "source_count": 9,
   "stories": [
-    {
-      "id": "2026-07-19-7bba6e67",
-      "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
-      "summary": "Five people are killed and at least 35 injured as Ukraine's two largest cities are targeted, as Kyiv continues its own assault on Russian infrastructure.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "11:28",
-      "conflict_id": "ukraine-war",
-      "score": 71.0
-    },
-    {
-      "id": "2026-07-19-d0cdaa7d",
-      "headline": "At least six killed as Russia launches overnight missile and drone attack on Ukraine",
-      "summary": "Russia launched 41 missiles and 125 drones at Ukraine overnight, a day after Kyiv sent drones across the border into Russia.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/19/at-least-one-killed-as-russia-launches-overnight-missile-and-drone-attack-on-kyiv",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "10:14",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
-    },
     {
       "id": "2026-07-19-d6a905df",
       "headline": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
@@ -44,20 +16,6 @@
       "time": "08:35",
       "conflict_id": "ukraine-war",
       "score": 52.0
-    },
-    {
-      "id": "2026-07-19-f35f2fa4",
-      "headline": "Gaza cheers for Spain as World Cup final anticipation mounts",
-      "summary": "Football fans in Gaza express support for Spain in showdown with Argentina, citing Spanish solidarity with Palestinians.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/19/gaza-cheers-for-spain-as-world-cup-final-anticipation-mounts?traffic_source=rss",
-      "region": "EU",
-      "country": "Argentina",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "10:09",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
     },
     {
       "id": "2026-07-19-2c71b290",
@@ -88,6 +46,48 @@
       "score": 39.4
     },
     {
+      "id": "2026-07-19-571bffeb",
+      "headline": "Why is China protesting about the nationalisation of British Steel?",
+      "summary": "The UK move to take over British Steel fuels a brewing dispute with China amid political leadership change in London.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/19/why-is-a-chinese-company-protesting-over-uk-nationalising-a-steel-plant?traffic_source=rss",
+      "region": "EU",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "14:12",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-07-19-7bba6e67",
+      "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "summary": "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "18:25",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-19-25d0b848",
+      "headline": "New EU border system tripling time at passport control, airport boss says",
+      "summary": "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "01:47",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-19-bff7aebe",
       "headline": "Why the World Cup half-time show may be a taste of things to come",
       "summary": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
@@ -100,6 +100,34 @@
       "time": "01:11",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-19-d19b6670",
+      "headline": "US-Iran Attacks Escalate as Strikes Kill Two American Troops",
+      "summary": "The US and Iran engaged in a quickening series of tit-for-tat attacks, causing fresh chaos in the Middle East over the weekend after strikes by the Islamic Republic killed two American service members in Jordan.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/us-iran-trade-more-attacks-after-two-troops-killed-in-jordan",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "06:58",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-19-5c7d3ea5",
+      "headline": "Voters are struggling to keep up with Iran war’s twists and turns",
+      "summary": "Americans have grown frustrated with President Donald Trump over his handling of the war. Here’s what several said about how they’re processing the constant changes.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/19/what-voters-are-making-iran-war-dragging/",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-07-19-49ce148d",
@@ -298,16 +326,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-19-e69c71c4",
-      "headline": "In Maine, Bellows Ends Senate Bid, as Jackson Builds Momentum",
-      "summary": "The Maine secretary of state ended her run in a crowded race to replace Graham Platner as the Democratic Senate nominee.",
+      "id": "2026-07-19-ddf0953e",
+      "headline": "In Maine Senate Race, Jackson Sprints Ahead of Pack, as Bellows Drops Out",
+      "summary": "Troy Jackson, a progressive, solidified his edge over his rivals in an abbreviated nominating contest to replace Graham Platner. Shenna Bellows, another candidate, bowed out.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellow-jackson-platner-democrats.html",
       "region": "NA",
       "country": "Senate",
       "category": "politics",
       "date": "2026-07-19",
-      "time": "16:13",
+      "time": "18:31",
       "conflict_id": null,
       "score": 25.2
     },
@@ -508,20 +536,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-18-ba526eec",
-      "headline": "US launches new wave of strikes on Iran as Israel vows 'powerful' response to Tehran",
-      "summary": "Iran says the latest US strikes killed at least 50 people and wounded 517. Washington said the attacks were retaliation for a strike on a US base in Jordan that killed two US service members, left one missing and injured four others.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
-      "region": "MENA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "18:06",
-      "conflict_id": null,
-      "score": 54.0
-    },
-    {
       "id": "2026-07-18-3986a796",
       "headline": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
       "summary": "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstormsSaturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfires giving way to severe thunderstorms that have already triggered a flash flood warning as torrential rain pounds parts of the region.After a brief break on Friday, smoke from the wildfires moved back into New York",
@@ -592,18 +606,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-18-645619d6",
-      "headline": "US strikes hit Iran for seventh consecutive night",
-      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Kuwait",
+      "id": "2026-07-18-14a7f5ba",
+      "headline": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "summary": "Rain could alleviate conditions in mid-Atlantic and north-east, with World Cup final expected to go ahead on SundayWarnings of dangerous conditions are expected to remain in place on Saturday across swathes of the US, amid uncertainty about where the heavy wildfire smoke swirling from the Canadian province of Ontario and the US state of Minnesota will head next.Some parts of the US mid-Atlantic and north-east regions will continue to endure poor ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
+      "region": "NA",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-18",
-      "time": "17:44",
+      "time": "14:13",
       "conflict_id": null,
-      "score": 35.0
+      "score": 32.0
     },
     {
       "id": "2026-07-18-fbf07b52",
@@ -632,6 +646,20 @@
       "time": "15:09",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-07-18-645619d6",
+      "headline": "US strikes hit Iran for seventh consecutive night",
+      "summary": "Iran has retaliated against US allies in the region, with Kuwait reporting that a power and water plant had been hit.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy748n8zx8ro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Kuwait",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "17:44",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-18-165fa45e",
@@ -869,20 +897,6 @@
       "date": "2026-07-16",
       "time": "04:06",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-16-aab43dc7",
-      "headline": "US strikes oil tanker with missiles as it enforces new Iran blockade",
-      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "12:09",
-      "conflict_id": null,
       "score": 35.0
     },
     {
@@ -952,6 +966,20 @@
       "category": "politics",
       "date": "2026-07-15",
       "time": "17:29",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-15-fc7e1d2b",
+      "headline": "Briton's Iran jail sentence extended by two years, family says",
+      "summary": "Relatives of Craig Foreman say his punishment is being extended for talking to the media from jail.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gygp4pk31o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-15",
+      "time": "08:33",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1026,20 +1054,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-14-68c9e310",
-      "headline": "UAE condemns Iran's 'brazen' attack on tankers as US launches fresh strikes",
-      "summary": "The third consecutive night of US strikes on Iran came as Trump announced a 20% charge as part of a new blockade on the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8d2vn38dy1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-14",
-      "time": "04:50",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-13-7570adfb",
       "headline": "British couple return to village at heart of deadly Spanish wildfire",
       "summary": "At least 13 people, including five believed to be Britons, were killed by Thursday's wildfire in Spain's Almeria province.",
@@ -1080,20 +1094,6 @@
       "time": "18:24",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-07-12-f8f2c735",
-      "headline": "US insists Strait of Hormuz is open as it exchanges strikes with Iran",
-      "summary": "Iranian forces earlier said the Strait was closed and launched wide-ranging attacks at US allies and bases in the region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9gkpp0dkeo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-12",
-      "time": "22:17",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-12-d5f47290",
