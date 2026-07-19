@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-19T16:32:08.502640+00:00",
-  "story_count": 77,
+  "updated": "2026-07-19T17:38:29.914932+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
     {
@@ -18,8 +18,8 @@
       "score": 71.0
     },
     {
-      "id": "2026-07-19-e9b95045",
-      "headline": "At least one killed as Russia launches overnight missile and drone attack on Kyiv",
+      "id": "2026-07-19-d0cdaa7d",
+      "headline": "At least six killed as Russia launches overnight missile and drone attack on Ukraine",
       "summary": "Russia launched 41 missiles and 125 drones at Ukraine overnight, a day after Kyiv sent drones across the border into Russia.",
       "source": "Euronews",
       "url": "http://www.euronews.com/my-europe/2026/07/19/at-least-one-killed-as-russia-launches-overnight-missile-and-drone-attack-on-kyiv",
@@ -29,7 +29,7 @@
       "date": "2026-07-19",
       "time": "10:14",
       "conflict_id": "ukraine-war",
-      "score": 65.0
+      "score": 57.0
     },
     {
       "id": "2026-07-19-d6a905df",
@@ -43,21 +43,7 @@
       "date": "2026-07-19",
       "time": "08:35",
       "conflict_id": "ukraine-war",
-      "score": 60.0
-    },
-    {
-      "id": "2026-07-19-2c71b290",
-      "headline": "US and Iran trade fire after two US soldiers killed in Jordan",
-      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "15:35",
-      "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-07-19-f35f2fa4",
@@ -71,7 +57,21 @@
       "date": "2026-07-19",
       "time": "10:09",
       "conflict_id": "israel-hamas",
-      "score": 43.4
+      "score": 51.4
+    },
+    {
+      "id": "2026-07-19-2c71b290",
+      "headline": "US and Iran trade fire after two US soldiers killed in Jordan",
+      "summary": "Kuwait says an electricity and water plant is on fire after the second such attack in two days. Iran says US strikes hit an under-construction nuclear power plant.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgk417jp83po?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "17:22",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-07-19-7c49ed76",
@@ -88,18 +88,32 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-19-35428358",
-      "headline": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
-      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
+      "id": "2026-07-19-bff7aebe",
+      "headline": "Why the World Cup half-time show may be a taste of things to come",
+      "summary": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
+      "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
       "country": null,
-      "category": "politics",
+      "category": "business",
       "date": "2026-07-19",
-      "time": "07:47",
+      "time": "01:11",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-19-49ce148d",
+      "headline": "Iraqi-born singer Emmanuel Kelly among World Cup half-time show headliners",
+      "summary": "Abandoned as a baby and brought up by nuns in Baghdad, Kelly will be preforming alongside global megastars.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/19/iraqi-born-singer-emmanuel-kelly-among-world-cup-half-time-show-headliners?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iraq",
+      "category": "business",
+      "date": "2026-07-19",
+      "time": "17:24",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-07-19-f9e68175",
@@ -144,16 +158,16 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-19-bff7aebe",
-      "headline": "Why the World Cup half-time show may be a taste of things to come",
-      "summary": "The 2026 World Cup's spectacle is creating debate about the place of music in sport - and how it could infiltrate other tournaments.",
+      "id": "2026-07-19-35428358",
+      "headline": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
+      "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwyr498vqqpo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
+      "url": "https://www.bbc.co.uk/news/articles/cx2k77p2r1xo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-07-19",
-      "time": "01:11",
+      "time": "07:47",
       "conflict_id": null,
       "score": 27.0
     },
@@ -254,6 +268,20 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-07-19-44800011",
+      "headline": "China’s new generation of tycoons is its most enigmatic yet",
+      "summary": "Their companies are conquering the world—and they hate talking to the press",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/07/19/chinas-new-generation-of-tycoons-is-its-most-enigmatic-yet",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-19",
+      "time": "16:46",
+      "conflict_id": null,
+      "score": 25.8
     },
     {
       "id": "2026-07-19-6c4794a6",
@@ -480,8 +508,8 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-18-ccd8ba39",
-      "headline": "US launches new wave of strikes on Iran as Israel vows \"powerful\" response to Tehran",
+      "id": "2026-07-18-ba526eec",
+      "headline": "US launches new wave of strikes on Iran as Israel vows 'powerful' response to Tehran",
       "summary": "Iran says the latest US strikes killed at least 50 people and wounded 517. Washington said the attacks were retaliation for a strike on a US base in Jordan that killed two US service members, left one missing and injured four others.",
       "source": "Euronews",
       "url": "http://www.euronews.com/2026/07/18/two-us-troops-killed-in-jordan-by-iranian-attacks-us-military-says",
@@ -606,20 +634,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-18-4eb298bd",
-      "headline": "He made history in Congress - then the Supreme Court changed its mind",
-      "summary": "Residents say they're afraid that if Shomari Figures loses his seat, their federal-funding could disappear with him.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn949jvjxplo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-07-18",
-      "time": "01:35",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-18-165fa45e",
       "headline": "The classroom moment that bonds finalists De la Fuente & Scaloni forever",
       "summary": "Spain manager Luis de la Fuente and Argentina boss Lionel Scaloni will go head-to-head in the World Cup final on Sunday - and the two men know each other well.",
@@ -632,6 +646,34 @@
       "time": "13:00",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-07-18-f28db12a",
+      "headline": "Cindy Burbank, Nebraska’s Democratic Senate Nominee, Files to Withdraw From Race",
+      "summary": "The move by Cindy Burbank could clear a path for Dan Osborn, an independent candidate backed by her party’s leadership. But Republicans have cried foul, and her effort could face obstacles.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/us/politics/nebraska-senate-race-democrat-withdraw.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "20:57",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-18-b6879c29",
+      "headline": "Mike Lindell Not Registered to Vote in Minnesota, Where He is Running for Governor",
+      "summary": "President Trump endorsed Mike Lindell, a leader of the election denial movement, for Minnesota governor this week.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/18/us/mike-lindell-mypillow-minnsota-governor-election.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-18",
+      "time": "17:08",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-07-18-18b7bef5",
@@ -728,20 +770,6 @@
       "category": "politics",
       "date": "2026-07-17",
       "time": "12:17",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-17-6583b030",
-      "headline": "Cuban dissident artist Luis Manuel Otero Alcántara cleared to travel to US",
-      "summary": "Whereabouts of artist imprisoned after 2021 protests had been unknown following end of his prison term in JulyLuis Manuel Otero Alcántara, a prominent Cuban dissident artist whose whereabouts remained unknown after his prison sentence ended last week, has been given permission to travel to the US, according to his official Facebook page.Otero Alcántara, designated a prisoner of conscience by Amnesty International, was sentenced to five years in p",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/17/cuban-dissident-artist-luis-manuel-otero-alcantara-cleared-to-travel-to-us",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "22:28",
       "conflict_id": null,
       "score": 32.0
     },
