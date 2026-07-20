@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-20T04:48:33.658207+00:00",
-  "story_count": 83,
-  "source_count": 9,
+  "updated": "2026-07-20T07:49:11.487556+00:00",
+  "story_count": 86,
+  "source_count": 8,
   "stories": [
     {
       "id": "2026-07-20-12d05e68",
@@ -15,7 +15,7 @@
       "date": "2026-07-20",
       "time": "02:23",
       "conflict_id": "israel-hamas",
-      "score": 67.4
+      "score": 68.4
     },
     {
       "id": "2026-07-20-d66d29a4",
@@ -32,11 +32,25 @@
       "score": 64.4
     },
     {
+      "id": "2026-07-20-ee3ff6ab",
+      "headline": "Trump says US strikes hit Iran in 'honour' of American soldiers killed",
+      "summary": "Iran responded with attacks in Syria and Jordan, as two ships reportedly exploded in the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly52xzjd3qo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-20",
+      "time": "06:31",
+      "conflict_id": null,
+      "score": 60.0
+    },
+    {
       "id": "2026-07-20-b85ba5b3",
       "headline": "Spain outplay Messi’s Argentina to reach World Cup summit",
       "summary": "Tournament’s best team wins one-sided final 1-0 and claims clutch of individual prizes",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16",
+      "url": "https://www.ft.com/content/9f8b8f8d-cc2e-45a3-b4fb-3f57fb415c16?syn-25a6b1a6=1",
       "region": "EU",
       "country": "Argentina",
       "category": "politics",
@@ -46,18 +60,18 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-20-4b4affb3",
-      "headline": "US, Congo Ebola Travel Restrictions May Hamper Humanitarian Aid Response",
-      "summary": "New US and Congolese travel restrictions aimed at keeping Ebola from spreading across borders are drawing warnings from aid organizations and medical experts who say the measures could undermine efforts to control the world’s fastest-growing outbreak of the virus.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/us-congo-ebola-travel-restrictions-may-hamper-humanitarian-aid-response",
+      "id": "2026-07-20-545baff8",
+      "headline": "Trump: Latest strikes on Iran ‘in honour’ of killed US military personnel",
+      "summary": "US President Donald Trump said the latest strikes on Iran were carried out &#039;in honour&#039; of killed US military personnel.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/aje-onl-nf_trump-latest-strikes-on-iran-in-honour-200726?traffic_source=rss",
       "region": "NA",
-      "country": null,
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-20",
-      "time": "01:30",
+      "time": "04:52",
       "conflict_id": null,
-      "score": 50.1
+      "score": 56.4
     },
     {
       "id": "2026-07-20-655a4253",
@@ -71,33 +85,61 @@
       "date": "2026-07-20",
       "time": "02:09",
       "conflict_id": null,
-      "score": 47.4
+      "score": 56.4
     },
     {
-      "id": "2026-07-20-09865d32",
-      "headline": "US bombs Iran for ninth consecutive night as Hormuz tensions escalate",
-      "summary": "Iranian media report blasts in cities in the far north and far south, including Tabriz and Chabahar.",
+      "id": "2026-07-20-baed2e97",
+      "headline": "US hits Iran for ninth night as Khamenei calls ceasefire 'worthless'",
+      "summary": "US Central Command said it targeted military command centres, air defence systems and missile sites overnight, as Iran's ayatollah called Trump's signature on the interim deal \"worthless and invalid\" and a negotiator said Tehran was suspending its commitments.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-20",
+      "time": "04:04",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-07-20-60021e2b",
+      "headline": "US releases footage of ninth consecutive night of strikes on Iran",
+      "summary": "The US military carried out its ninth consecutive night of strikes on Iran.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/20/us-bombs-iran-for-ninth-consecutive-night-as-hormuz-tensions-escalate?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/20/us-releases-footage-of-ninth-consecutive-night-of-strikes-on-iran?traffic_source=rss",
       "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-20",
-      "time": "01:48",
+      "time": "04:38",
       "conflict_id": null,
-      "score": 47.4
+      "score": 48.4
     },
     {
-      "id": "2026-07-20-82b9fa6b",
-      "headline": "Iran launches retaliatory attacks after US completes ninth night of strikes",
-      "summary": "Intensifying fighting between the United States and Iran has largely halted traffic through the Strait of Hormuz, driving the price of Brent crude to $90 a barrel.",
+      "id": "2026-07-20-136e3c43",
+      "headline": "Spain fans celebrate World Cup victory",
+      "summary": "Spain fans celebrate their World Cup final victory over Argentina in Times Square, New York, waving flags, chanting and lifting a replica trophy.",
       "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/20/iran-launches-retaliatory-attacks-after-us-completes-ninth-night-of-strikes",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
+      "url": "http://www.euronews.com/video/2026/07/20/spain-fans-celebrate-world-cup-victory",
+      "region": "EU",
+      "country": "Argentina",
+      "category": "business",
       "date": "2026-07-20",
-      "time": "04:04",
+      "time": "07:01",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
+      "id": "2026-07-20-04aedc70",
+      "headline": "Europe Today: Spain crowned World Cup champions as US strikes in Iran continue",
+      "summary": "Spain have been crowned World Cup champions for the second time in their history after defeating Argentina 1-0 in extra time last night. Meanwhile, the US has continued to strike Iran for the ninth consecutive night and Andy Burnham is set to become the UK’s new prime minister today.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/20/europe-today-spain-crowned-world-cup-champions-as-us-strikes-in-iran-continue",
+      "region": "EU",
+      "country": "Argentina",
+      "category": "politics",
+      "date": "2026-07-20",
+      "time": "06:00",
       "conflict_id": null,
       "score": 46.0
     },
@@ -114,6 +156,34 @@
       "time": "02:11",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-07-20-775f6497",
+      "headline": "Donald Trump photobombing La Roja goes viral following Spain's World Cup victory",
+      "summary": "Donald Trump has been trending online following the World Cup final, as he seemingly refused to leave the stage after presenting Spain with the trophy. The US president had endorsed Argentina for the win, leading many to affirm that the \"Trump curse\" is still alive.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/07/20/donald-trump-photobombing-la-roja-goes-viral-following-spains-world-cup-victory",
+      "region": "NA",
+      "country": "Argentina",
+      "category": "politics",
+      "date": "2026-07-20",
+      "time": "06:35",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-07-20-e3328b46",
+      "headline": "FTSE 100 Live: Bonds and Stocks Fall as Oil Prices Rise Back to $90",
+      "summary": "",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-07-20/ftse-100-live-updates-burnham-uk-house-prices-pound-bonds-brent-oil-prices-iran-trump-news-what-s-moving-uk-markets-right-now-markets-today",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-20",
+      "time": "05:45",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-20-ae5913fc",
@@ -144,6 +214,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-07-20-5cd69411",
+      "headline": "What’s next as Andy Burnham takes over as UK’s next prime minister?",
+      "summary": "Andy Burnham will become UK prime minister. Here&#039;s how the transition of power will unfold.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/andy-burnham-to-become-uks-pm-on-monday-what-happens-next?traffic_source=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-20",
+      "time": "03:20",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-20-62caa14b",
       "headline": "Food delivery rider wins China's top literary prize",
       "summary": "Wang Jibing is among blue-collar Chinese workers gaining wider attention for their literary works.",
@@ -158,34 +242,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-20-471984cd",
-      "headline": "India's cockroach protesters set to march to parliament",
-      "summary": "The Cockroach Janta Party has organised the march to demand reforms in India's education system.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0l58lw089no?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-20",
-      "time": "03:43",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-20-167faf9f",
-      "headline": "Burnham must remember the first rule of government",
-      "summary": "The biggest mistake of all would be to imagine the country enjoys a free fiscal lunch. In fact, it only has hard choices",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8e01440b-1a90-4ab2-a67e-fba7deee1ac8?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-20",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-07-20-a477e24a",
       "headline": "Morgan Stanley becomes Wall Street’s top bank for AI debt deals",
       "summary": "Big Tech-backed financing has cut borrowing costs but deepened industry’s AI exposure",
@@ -198,6 +254,62 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-20-7d350d10",
+      "headline": "China’s ‘national team’ buys shares worth $9bn to prop up market",
+      "summary": "State-owned funds announce stock purchases after sharp AI tech sell-off last week",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e6e3acd7-81a2-471c-9be1-a7f7558d639b?syn-25a6b1a6=1",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-07-20",
+      "time": "06:54",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-20-02ff13f3",
+      "headline": "Tungsten Miner’s Stock Jumps as Billionaire Forrest Buys Stake",
+      "summary": "EQ Resources Ltd. shares surged after mining billionaire Andrew Forrest agreed to acquire a 16.8% stake in the Sydney-listed tungsten producer from Oaktree Capital Management LP.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/tungsten-miner-s-stock-jumps-as-billionaire-forrest-buys-stake",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-20",
+      "time": "01:36",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-20-8c0442b3",
+      "headline": "Rising Demand for Hedges Hints at Volatility Ahead: Taking Stock",
+      "summary": "The momentum trade carried along by the equity rally is faltering, while optimistic earnings expectations are under intense scrutiny, two of the signs pointing to a volatile summer.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/rising-demand-for-hedges-hints-at-volatility-ahead-taking-stock",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-20",
+      "time": "06:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-20-a4997021",
+      "headline": "China Solar Stocks Rise After Beijing Issues Consumption Tax",
+      "summary": "Shares of most Chinese solar and major battery makers rose on Monday after Beijing unveiled a consumption tax on solar cells and lithium batteries, raising hopes it will hasten industry consolidation, particularly in the oversupplied solar sector.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/china-solar-stocks-rise-after-beijing-issues-consumption-tax",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-07-20",
+      "time": "04:47",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-20-9d1f922b",
@@ -228,20 +340,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-20-02ff13f3",
-      "headline": "Tungsten Miner’s Stock Jumps as Billionaire Forrest Buys Stake",
-      "summary": "EQ Resources Ltd. shares surged after mining billionaire Andrew Forrest agreed to acquire a 16.8% stake in the Sydney-listed tungsten producer from Oaktree Capital Management LP.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/tungsten-miner-s-stock-jumps-as-billionaire-forrest-buys-stake",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-20",
-      "time": "01:36",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-20-47346f4e",
       "headline": "Innolight Gauges Interest for $8 Billion Hong Kong Listing",
       "summary": "China’s Zhongji Innolight Co. is starting to gauge investor demand for its Hong Kong listing, according to terms of the deal seen by Bloomberg News, bringing it a step closer to what may be the city’s largest first-time share sale in seven years.",
@@ -252,76 +350,6 @@
       "category": "geopolitics",
       "date": "2026-07-20",
       "time": "02:16",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-20-854213f7",
-      "headline": "India Private Banks See Corporate Loans Rise as Bond Yields Climb",
-      "summary": "Managements sounded fairly confident that credit demand will hold up.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-20/india-private-banks-see-corporate-loans-rise-as-bond-yields-climb",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-07-20",
-      "time": "02:44",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-20-3bf4ac88",
-      "headline": "Chinese Traders Unwind Leveraged Bets at Fastest Pace Since 2016",
-      "summary": "Chinese stock traders unwound leveraged positions at the fastest pace since the 2015–2016 market crash on Friday, as fears that the AI-driven rally had become overstretched triggered a global equities rout.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/chinese-traders-unwind-leveraged-bets-at-fastest-pace-since-2016",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-20",
-      "time": "02:17",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-20-81f62260",
-      "headline": "INR/USD: HSBC Offers Indian Diaspora 19x Leverage on FCNR(B) Deposits",
-      "summary": "When Moumita Shome landed in Dubai from Australia last month, the calls from bankers started almost immediately.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/inr-usd-hsbc-offers-indian-diaspora-19x-leverage-on-fcnr-b-deposits",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-07-20",
-      "time": "01:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-20-84b5f954",
-      "headline": "Venezuela’s Official Death Toll From Twin Quakes Rises to 5,208",
-      "summary": "Venezuela’s official death toll from the twin earthquakes that struck the country on June 24 rose to 5,208, according to the latest figures released on Sunday by National Assembly President Jorge Rodríguez.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/venezuela-s-official-death-toll-from-twin-quakes-rises-to-5-208",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-07-20",
-      "time": "00:59",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-20-fe244a20",
-      "headline": "IDR/USD: Rupiah May Recover on Rate Hike, Stronger Fiscals, Analysts Say",
-      "summary": "The Indonesian rupiah is poised for a period of stability, with analysts expecting the central bank to continue supporting Asia’s worst-performing currency and foreign funds to step up purchases of the nation’s high-yielding bonds.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-20/idr-usd-rupiah-may-recover-on-rate-hike-stronger-fiscals-analysts-say",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "business",
-      "date": "2026-07-20",
-      "time": "00:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -354,18 +382,46 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-20-b46dd88f",
-      "headline": "In Maine, Troy Jackson Gains Momentum in Bid to Replace Platner",
-      "summary": "Troy Jackson, a progressive former State Senate president, showed signs of significant strength, as half the state’s counties picked delegates to a convention where they will choose Graham Platner’s replacement.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/19/us/politics/maine-democrats-senate-jackson.html",
-      "region": "NA",
-      "country": "Senate",
+      "id": "2026-07-20-3ac50b0b",
+      "headline": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
+      "summary": "Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has foundFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMost refugees and asylum seekers held in Nauru’s detention centres say they cannot afford to buy enough food or access clean drinking water, despite the Australian government spending the equivalen",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
+      "region": "APJ",
+      "country": "Australia",
       "category": "politics",
       "date": "2026-07-20",
-      "time": "01:41",
+      "time": "04:43",
       "conflict_id": null,
-      "score": 25.2
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-20-eeee42b9",
+      "headline": "Australia news live: Derryn Hinch remembered as ‘journalistic James Bond’; Australian woman who allegedly joined Islamic State granted bail",
+      "summary": "Follow today’s news liveGet our breaking news email, free app or daily news podcastThe use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and privacy.As the Albanese government grapples with the rapid growth in the use of artificial intelligence and a boom in datacentre construction, senior ministers ha",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jul/20/australia-news-live-anthony-albanese-pauline-hanson-labor-one-nation-angus-taylor-coalition-antisemitism-royal-commission-ntwnfb",
+      "region": "MENA",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-07-20",
+      "time": "07:36",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-07-20-08af0e5d",
+      "headline": "Taxpayers could pay millions to abuse survivors if Christian Brothers goes bankrupt, court documents reveal",
+      "summary": "Catholic order with a record of child abuse could be subject to hundreds of redress claims worth up to $65mFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralian taxpayers could be forced to cover up to $65m in payouts to hundreds of abuse victims when a failing arm of the Catholic church disappears, new court documents reveal.Last month, the Christian Brothers, a Catholic order",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/20/christian-brothers-australia-abuse-survivors-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-07-20",
+      "time": "07:19",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-07-20-f7b03396",
@@ -377,9 +433,23 @@
       "country": "Australia",
       "category": "politics",
       "date": "2026-07-20",
-      "time": "03:12",
+      "time": "06:59",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-07-20-d01b3e0c",
+      "headline": "Protests continue in Houston over ICE killing of Lorenzo Salgado Araujo",
+      "summary": "Hundreds of demonstrators in Texas city demand justice in fatal shooting of 52-year-old Mexican man.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/20/protests-in-houston-continue-after-ice-killing-of-lorenzo-salgado-araujo?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-20",
+      "time": "05:01",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-20-0993f9ff",
@@ -394,6 +464,34 @@
       "time": "02:39",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-07-20-ccb498d3",
+      "headline": "Honda extends its agreement with China's GAC through 2038",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-deals/honda-extends-its-agreement-with-china-s-gac-through-2038",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-20",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-07-20-b3847cef",
+      "headline": "State-owned Hongqi's ultra-luxury sedan beats Rolls-Royce in China",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/state-owned-hongqi-s-ultra-luxury-sedan-beats-rolls-royce-in-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-20",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-20-82490378",
@@ -438,25 +536,39 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-20-6eb938ae",
-      "headline": "Japan seeks stronger deterrence after China submarine missile launch",
+      "id": "2026-07-20-24e6680c",
+      "headline": "ASEAN ministers meeting, Indonesia rates decision, South Korea GDP",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/defense/japan-seeks-stronger-deterrence-after-china-submarine-missile-launch",
+      "url": "https://asia.nikkei.com/spotlight/your-week-in-asia/asean-ministers-meeting-indonesia-rates-decision-south-korea-gdp",
       "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
+      "country": "South Korea",
+      "category": "business",
       "date": "2026-07-20",
       "time": "",
       "conflict_id": null,
       "score": 22.8
     },
     {
-      "id": "2026-07-20-30e1f8af",
-      "headline": "China's share of global wind turbine market reaches nearly 80%",
+      "id": "2026-07-20-bd03074d",
+      "headline": "China's role as 'swing importer' cushions oil market spike",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/china-s-share-of-global-wind-turbine-market-reaches-nearly-80",
+      "url": "https://asia.nikkei.com/business/energy/china-s-role-as-swing-importer-cushions-oil-market-spike",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-07-20",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-07-20-6eb938ae",
+      "headline": "Japan seeks stronger deterrence after China submarine missile launch",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/defense/japan-seeks-stronger-deterrence-after-china-submarine-missile-launch",
       "region": "APJ",
       "country": "China",
       "category": "geopolitics",
@@ -478,20 +590,6 @@
       "time": "06:58",
       "conflict_id": null,
       "score": 59.1
-    },
-    {
-      "id": "2026-07-19-d0cdaa7d",
-      "headline": "At least six killed as Russia launches overnight missile and drone attack on Ukraine",
-      "summary": "Russia launched 41 missiles and 125 drones at Ukraine overnight, a day after Kyiv sent drones across the border into Russia.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/19/at-least-one-killed-as-russia-launches-overnight-missile-and-drone-attack-on-kyiv",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "10:14",
-      "conflict_id": "ukraine-war",
-      "score": 57.0
     },
     {
       "id": "2026-07-19-d6a905df",
@@ -518,6 +616,20 @@
       "category": "geopolitics",
       "date": "2026-07-19",
       "time": "19:45",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-07-19-eb77e874",
+      "headline": "Moment fans in Madrid celebrate World Cup win",
+      "summary": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Spain",
+      "category": "business",
+      "date": "2026-07-19",
+      "time": "23:48",
       "conflict_id": null,
       "score": 51.0
     },
@@ -561,21 +673,7 @@
       "date": "2026-07-19",
       "time": "18:25",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-19-bde69beb",
-      "headline": "Rodri reveals the secret behind Spain's run to the World Cup final",
-      "summary": "Spain's captain says La Roja owe their success to the bond between coach De la Fuente and the squad, and warns Argentina are 'the team to beat', 'much more than Messi'.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/19/rodri-reveals-the-secret-behind-spains-run-to-the-world-cup-final",
-      "region": "EU",
-      "country": "Argentina",
-      "category": "geopolitics",
-      "date": "2026-07-19",
-      "time": "17:28",
-      "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
     },
     {
       "id": "2026-07-19-25d0b848",
@@ -606,20 +704,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-19-8e3025c4",
-      "headline": "German Chancellor Merz hints at possible cabinet reshuffle after top CDU figure resigns",
-      "summary": "German Chancellor Friedrich Merz has hinted he could reshuffle his government after Jens Spahn resigned as parliamentary leader, adding to pressure on the ruling conservatives ahead of key regional elections.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/19/german-chancellor-merz-hints-at-possible-cabinet-reshuffle-after-top-cdu-figure-resigns",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-19",
-      "time": "19:11",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-19-35428358",
       "headline": "Cuban dissident Luis Manuel Otero Alcántara goes into exile in US",
       "summary": "He was arrested in 2021 during Cuba's largest anti-government protests in decades and spent five years ⁠in prison.",
@@ -634,9 +718,23 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-19-be87596e",
+      "headline": "Chipmaker Selloff Stalls; Brent Crude Hits $90: Markets Wrap",
+      "summary": "A selloff in chipmakers paused at the start of a week in which Big Tech earnings will be key to whether stocks remain volatile or regain momentum. Brent topped $90 a barrel for the first time in more than a month.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/oil-climbs-as-middle-east-conflict-escalates-markets-wrap",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-19",
+      "time": "22:10",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-19-2d327db8",
       "headline": "Latest Oil Market News and Analysis for July 20",
-      "summary": "Brent crude jumped after the US and Iran escalated hostilities, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on a key oil facility in Kuwait over the weekend.",
+      "summary": "Oil jumped after the US and Iran escalated hostilities, including the targeting of vessels attempting to transit the Strait of Hormuz and an attack on an oil facility in Kuwait over the weekend.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-19/latest-oil-market-news-and-analysis-for-july-20",
       "region": "MENA",
@@ -648,30 +746,30 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-19-a9364b86",
-      "headline": "Korea President’s Stock Dream Bumps Into Leveraged ETF Backlash",
-      "summary": "South Korea’s most closely watched stock-market innovation is morphing into a headache for President Lee Jae Myung.",
+      "id": "2026-07-19-726e1f78",
+      "headline": "South Korea Details Plan to Make Won Freely Tradable Abroad",
+      "summary": "South Korea laid out a detailed plan to make the won freely tradable among foreigners, its boldest step yet to liberalize the foreign-exchange market.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/korea-president-s-stock-dream-bumps-into-leveraged-etf-backlash",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/south-korea-to-ease-fx-rules-for-foreigners-to-trade-won-easier",
       "region": "APJ",
       "country": "South Korea",
       "category": "business",
       "date": "2026-07-19",
-      "time": "21:00",
+      "time": "03:00",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-07-19-8882344d",
-      "headline": "Aussie’s Slide Versus Kiwi to Slow on Rate Gap, Strategists Say",
-      "summary": "The Australian dollar’s steep selloff against its New Zealand counterpart is set to slow, with analysts saying Australia’s higher interest rates and a key technical support will cushion the currency.",
+      "id": "2026-07-19-703280d0",
+      "headline": "Safest Carry in Emerging Markets Is in Latin American Currencies",
+      "summary": "Emerging-market currency volatility has dropped to the lowest since the start of year and that’s re-energizing carry trades, particularly those involving Latin America that are seen to offer the juiciest returns.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-19/aussie-s-slide-versus-kiwi-to-slow-on-rate-gap-strategists-say",
-      "region": "APJ",
-      "country": "New Zealand",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-19/safest-carry-in-emerging-markets-is-in-latin-american-currencies",
+      "region": "NA",
+      "country": "Latin America",
       "category": "business",
       "date": "2026-07-19",
-      "time": "19:00",
+      "time": "12:30",
       "conflict_id": null,
       "score": 26.1
     },
@@ -732,34 +830,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-19-cc637fbd",
-      "headline": "Australia’s life dissatisfaction levels double as ‘wellbeing poverty’ reaches new highs",
-      "summary": "ABS data shows one in 10 people are not satisfied with life – but community cohesion and trust lift happiness scoresFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastNearly 2.2 million Australians 15 years and older are living below the wellbeing poverty line, with the share of people reporting very low life satisfaction doubling over the past decade.In 2025, 9.7%, or about one in 10 ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/20/australias-life-dissatisfaction-levels-double-as-wellbeing-poverty-reaches-new-highs",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-07-19",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-19-510b7b41",
-      "headline": "Government use of automated AI decision-making to be curbed under new Australian rules",
-      "summary": "New national plan is accompanied by Labor push for digital duty of care legislationFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe use of AI in automated decision-making by government departments and agencies will be subject to tough rules under a new national plan, expected to extend to consumer protections, workplace safety and privacy.As the Albanese government grapples with ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/19/national-ai-plan-labor-anthony-albanese-andrew-charlton",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-07-19",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-07-19-c87c5798",
       "headline": "When is the next FIFA World Cup? 2030 hosts, dates and format",
       "summary": "The 2030 tournament will span six countries and three continents as FIFA celebrates the World Cup&#039;s centenary.",
@@ -788,20 +858,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-07-18-3bfcb90c",
-      "headline": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "summary": "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growingWhen Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, again, whether the island’s antiquated electricity system may soon become unrecoverable.The 777-mile long Caribbean island of 9.5 million people has been sweltering under a six-month-long oil blo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
-      "region": "NA",
-      "country": "Caribbean",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "13:14",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-07-18-2f89b319",
       "headline": "Hungary's president agrees to stand down after parliament backs removal",
       "summary": "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term.",
@@ -826,6 +882,20 @@
       "category": "politics",
       "date": "2026-07-18",
       "time": "15:23",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-18-862657e7",
+      "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "23:59",
       "conflict_id": null,
       "score": 35.0
     },
@@ -872,6 +942,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-17-cd67bc68",
+      "headline": "One anti-war critic fined, another held as Russia clamps down on dissent",
+      "summary": "While Boris Nadezhdin is barred from running for parliament, blogger Ilya Remeslo is remanded in custody.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0n3y6ewn4o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-17",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-17-4292a050",
       "headline": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at the facility, which has sparked huge oppositio",
@@ -883,7 +967,7 @@
       "date": "2026-07-17",
       "time": "12:17",
       "conflict_id": null,
-      "score": 40.0
+      "score": 32.0
     },
     {
       "id": "2026-07-17-f8bb71df",
@@ -942,20 +1026,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-17-6a69defe",
-      "headline": "GLP-1 Opportunity to Lift Domestic Business at Indian Pharma Firms",
-      "summary": "A new and growing market for weight-loss drugs in India is expected to be a bright spot for pharmaceutical firms like Cipla Ltd. and Dr Reddy’s Laboratories Ltd., while they face headwinds in the US market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-17/hdfc-bank-icici-bank-eye-fx-deposits-for-margin-boost",
-      "region": "EU",
-      "country": "India",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "02:05",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-17-988132a0",
       "headline": "Biodiversity fears as human-bred hybrid fish integrate into Philippines lake",
       "summary": "Escaped flowerhorn cichlids are causing concern for native species and about parasites capable of infecting humansEscaped ornamental aquarium fish have integrated into a local ecosystem in the Philippines, but scientists say they may be threatening the native biodiversity of the lake.Flowerhorn cichlids – human-bred hybrid fish prized for their bright-gold colour and prominent head humps – are believed to have escaped from breeding facilities int",
@@ -981,7 +1051,7 @@
       "date": "2026-07-16",
       "time": "04:06",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
     },
     {
       "id": "2026-07-16-e36d5b3d",
@@ -1009,7 +1079,7 @@
       "date": "2026-07-16",
       "time": "12:09",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-07-16-74fb8247",
@@ -1038,34 +1108,6 @@
       "time": "22:01",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-16-0a0459a3",
-      "headline": "How to sell a kettle",
-      "summary": "Brand positioning reaches boiling point",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/07/16/how-to-sell-a-kettle",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "12:53",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
-      "id": "2026-07-15-0429bced",
-      "headline": "Argentina fans celebrate World Cup win over England",
-      "summary": "Argentina fans at home and in the US celebrate their progression to the World Cup final.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c235lvr13vpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Argentina",
-      "category": "business",
-      "date": "2026-07-15",
-      "time": "21:58",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-07-15-fc7e1d2b",
@@ -1124,18 +1166,18 @@
       "score": 55.0
     },
     {
-      "id": "2026-07-14-46aee9d5",
-      "headline": "Strait of Hormuz 'faultline' exposes weakness of the US-Iran deal",
-      "summary": "Control of the waterway has become a key point of contention between the US and Iran, as a ceasefire deal falters.",
+      "id": "2026-07-13-0dc4ef91",
+      "headline": "US releases footage of strikes on Iran",
+      "summary": "US Central Command says it attacked military targets in Iran and at sea.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0ydn033yo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/videos/c8628y50508o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
-      "date": "2026-07-14",
-      "time": "19:13",
+      "date": "2026-07-13",
+      "time": "07:07",
       "conflict_id": null,
-      "score": 35.0
+      "score": 52.0
     },
     {
       "id": "2026-07-13-7570adfb",
