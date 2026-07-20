@@ -6,9 +6,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
-    "last_activity": "2026-07-19",
+    "status_signal": "escalating",
+    "last_activity": "2026-07-20",
     "recent_headlines": [
+      {
+        "headline": "Ukraine fires 400 drones at Moscow as Russia steps up ballistic missile attacks",
+        "source": "Euronews",
+        "date": "2026-07-20"
+      },
       {
         "headline": "Russia pounds Kyiv for five hours in one of its biggest ballistic missile attacks",
         "source": "The Guardian",
@@ -18,11 +23,6 @@
         "headline": "Russia launches major ballistic missile attack on Ukrainian cities",
         "source": "BBC News",
         "date": "2026-07-19"
-      },
-      {
-        "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
-        "source": "BBC News",
-        "date": "2026-07-18"
       }
     ],
     "timeline": [
@@ -52,13 +52,8 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-07-20",
+    "last_activity": "2026-07-14",
     "recent_headlines": [
-      {
-        "headline": "Palestinians celebrate Spain’s World Cup victory",
-        "source": "Al Jazeera",
-        "date": "2026-07-20"
-      },
       {
         "headline": "Israeli strike on police post in north Gaza kills seven, officials say",
         "source": "BBC News",
@@ -134,11 +129,6 @@
         "headline": "US strikes oil tanker with missiles as it enforces new Iran blockade",
         "source": "BBC News",
         "date": "2026-07-16"
-      },
-      {
-        "headline": "Crackdown on 'objectionable' books in Indian-administered Kashmir sparks row",
-        "source": "BBC News",
-        "date": "2026-07-15"
       }
     ],
     "timeline": [
