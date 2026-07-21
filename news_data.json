@@ -1,36 +1,8 @@
 {
-  "updated": "2026-07-21T17:42:12.302250+00:00",
-  "story_count": 82,
+  "updated": "2026-07-21T18:53:16.812629+00:00",
+  "story_count": 84,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-07-21-52d98c60",
-      "headline": "Israeli strikes in Gaza kill 12, including family of six, medics say",
-      "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-21",
-      "time": "15:54",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
-    },
-    {
-      "id": "2026-07-21-96fcc9bf",
-      "headline": "US to hit Canada with 50% tariffs on wide range of goods",
-      "summary": "Washington accuses neighbour of engaging in unfair practices in move that could reignite trade war",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0b507e93-877f-4cf7-904b-639eb390c4bf?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-07-21",
-      "time": "00:16",
-      "conflict_id": null,
-      "score": 50.4
-    },
     {
       "id": "2026-07-21-f4f07dbe",
       "headline": "Russian warship carries out rare live-fire exercise 45 miles off UK coast",
@@ -46,60 +18,18 @@
       "score": 48.0
     },
     {
-      "id": "2026-07-21-8480c429",
-      "headline": "Protests in Italy after death of Moroccan man under police restraint",
-      "summary": "Teargas and water cannon used on protesters after Abderrahim ⁠Fakir died pleading for help from policePolice have clashed with demonstrators during a protest in the Italian city of Bologna after a Moroccan-born man died pleading for help under police restraint.Human rights campaigners and Italy’s opposition parties have demanded urgent answers over the death on Sunday of Abderrahim ⁠Fakir, 42, who had lived in Italy since he was five years old an",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/21/protests-italy-bologna-abderrahim-fakir-police",
-      "region": "EU",
-      "country": "Italy",
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "10:09",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-07-21-621fbf11",
-      "headline": "‘There is ‌no safe place’: Israeli attack kills family of six in Gaza",
-      "summary": "Israeli forces launch regular attacks on Gaza despite a US-backed &#039;ceasefire&#039; agreed in October.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/there-is-no-safe-place-israeli-attack-kills-family-of-six-in-gaza?traffic_source=rss",
+      "id": "2026-07-21-52d98c60",
+      "headline": "Israeli strikes in Gaza kill 12, including family of six, medics say",
+      "summary": "Firas al-Masri, his wife and their four children died in one attack, which the Israeli military says targeted a Hamas operative.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv0pdj18go?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-21",
-      "time": "13:26",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-07-21-a1c1c6c5",
-      "headline": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
-      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-07-21",
-      "time": "17:33",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-21-5e78fd7d",
-      "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "12:48",
-      "conflict_id": null,
-      "score": 43.0
+      "time": "15:54",
+      "conflict_id": "israel-hamas",
+      "score": 47.0
     },
     {
       "id": "2026-07-21-f467759e",
@@ -111,9 +41,23 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-07-21",
-      "time": "15:40",
+      "time": "18:39",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-07-21-66be6139",
+      "headline": "Trump vows to attack Iranian nuclear facility as Middle East war escalates",
+      "summary": "Goldman Sachs warns oil could jump to $120 per barrel if Strait of Hormuz remains ‘disrupted’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/90facd68-4df7-40c2-9383-e989a02fbe51?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-21",
+      "time": "17:36",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-07-21-9cd4c82c",
@@ -139,7 +83,7 @@
       "country": "Pentagon",
       "category": "geopolitics",
       "date": "2026-07-21",
-      "time": "16:31",
+      "time": "18:12",
       "conflict_id": null,
       "score": 41.2
     },
@@ -172,34 +116,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-21-41ddefde",
-      "headline": "ASEAN diplomats voice ‘serious concern’ over Iran war and energy crisis",
-      "summary": "Southeast Asian countries are highly affected by oil supply shortages caused by Iran war and Strait of Hormuz closure.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/asean-diplomats-voice-serious-concern-over-iran-war-and-energy-crisis?traffic_source=rss",
-      "region": "NA",
-      "country": "ASEAN",
-      "category": "geopolitics",
-      "date": "2026-07-21",
-      "time": "13:43",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-21-d8e74487",
-      "headline": "Trump’s new 50 percent Canada tariffs: What products are affected and why?",
-      "summary": "US leader imposes new sweeping tariffs on Canada, straining already tense ties with its second-largest trading partner.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/21/trumps-new-50-percent-canada-tariffs-what-products-are-affected-and-why?traffic_source=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-07-21",
-      "time": "13:25",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-07-21-5eb185f2",
       "headline": "Fabricated AI animal videos are distorting how we see wildlife, researchers warn",
       "summary": "AI-generated animal footage is racking up millions of views online, but researchers warn it is also distorting public understanding of wildlife behaviour and could be undermining support for conservation.",
@@ -210,20 +126,6 @@
       "category": "geopolitics",
       "date": "2026-07-21",
       "time": "12:26",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-07-21-def9c160",
-      "headline": "Anger mounts in Italy after Moroccan man dies under police restraint while pleading for help",
-      "summary": "The incident has been likened to George Floyd's murder in the United States six years ago, and also prompted comparisons with tactics used by the US's Immigration and Customs Enforcement (ICE) under President Donald Trump.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/21/anger-mounts-in-italy-after-moroccan-man-dies-under-police-restraint-while-pleading-for-he",
-      "region": "NA",
-      "country": "United States",
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "11:25",
       "conflict_id": null,
       "score": 37.0
     },
@@ -242,30 +144,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-21-c4a4d7a6",
-      "headline": "Trump prepares fresh tariff barrage with 10% levies set to expire",
-      "summary": "US president to renew trade war after Supreme Court threw out reciprocal duties",
+      "id": "2026-07-21-b8d9e1dc",
+      "headline": "Saudi tankers reverse course after Houthi threats",
+      "summary": "At least four vessels make U-turns after warnings from Yemeni rebels, as fresh threat emerges to Red Sea shipping",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/c31cdab6-b2cf-4754-9c84-73c3c848bcb3?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-07-21",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-07-21-68fc4b50",
-      "headline": "Canada isn’t listening to American whining in the wine wars",
-      "summary": "Donald Trump’s tariffs have taught us an important lesson in the value of retaliation",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/23a211e3-3db7-47ac-b185-06f506d44aed",
-      "region": "NA",
-      "country": "America",
+      "url": "https://www.ft.com/content/6e28eae4-cd7b-48e8-ae5e-d555de88f428",
+      "region": "MENA",
+      "country": "Saudi",
       "category": "geopolitics",
       "date": "2026-07-21",
-      "time": "04:00",
+      "time": "17:33",
       "conflict_id": null,
       "score": 34.4
     },
@@ -296,6 +184,20 @@
       "time": "17:15",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-07-21-33136125",
+      "headline": "Subprime Auto Dealer Goes From Covid-Era Rockstar to Near Demise",
+      "summary": "America’s Car-Mart Inc. thrived during a ’90s slump, the 2008 financial crisis and the upheaval of Covid-19 by doing one thing well: selling and financing older, high-mileage used cars for cash-strapped, deeply-subprime buyers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/subprime-auto-dealer-goes-from-covid-era-rockstar-to-near-demise",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-21",
+      "time": "17:33",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-21-e205872d",
@@ -410,20 +312,6 @@
       "score": 31.4
     },
     {
-      "id": "2026-07-21-2997fffe",
-      "headline": "Clashes between police and people protesting Italy arrest death",
-      "summary": "Clashes between police and people protesting Italy arrest death",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/21/clashes-between-police-and-people-protesting-italy-arrest-death?traffic_source=rss",
-      "region": "EU",
-      "country": "Italy",
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "13:36",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-07-21-17f87150",
       "headline": "ASEAN makes little headway in resolving Myanmar crisis",
       "summary": "",
@@ -452,6 +340,48 @@
       "score": 30.8
     },
     {
+      "id": "2026-07-21-7b26d6e2",
+      "headline": "Emergency farm law adopted: conditional return of two pesticides",
+      "summary": "The law confirms that, by way of exemption, permission may be granted to use two controversial pesticides: acetamiprid, harmful to pollinators, and flupyradifurone, likely to be sold as treated seeds.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/21/emergency-farm-law-adopted-conditional-return-of-two-pesticides",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-21",
+      "time": "18:39",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-07-21-a1c1c6c5",
+      "headline": "Carney looking at 'all options' as Trump announces 50% tariffs on Canada",
+      "summary": "The duties mark a major escalation in trade tensions between the North American neighbours.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg4dzq3x3e1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-07-21",
+      "time": "17:33",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-21-5e78fd7d",
+      "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-21",
+      "time": "12:48",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-21-2cf24eca",
       "headline": "Row escalates in Ukraine over army chief's future",
       "summary": "Protesters are demanding Oleksandr Syrskyi be removed and former defence minister Mykhailo Fedorov reinstated by Friday.",
@@ -461,7 +391,7 @@
       "country": "Ukraine",
       "category": "politics",
       "date": "2026-07-21",
-      "time": "12:33",
+      "time": "18:49",
       "conflict_id": null,
       "score": 27.0
     },
@@ -494,6 +424,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-21-f49b022a",
+      "headline": "At least 27 dead and 83 missing after passenger ferry capsizes off Guyana",
+      "summary": "An investigation into the tragedy has been launched, the island's prime minister says, adding he hopes more will be found alive.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-21",
+      "time": "02:07",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-21-9d6375e1",
       "headline": "Why are thousands protesting for education reform in India?",
       "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
@@ -506,6 +450,20 @@
       "time": "10:01",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-07-21-32675d9f",
+      "headline": "Treasury Flags Concern Over ‘Potentially Abusive’ Tax Trades",
+      "summary": "The US Treasury Department has expressed concern over a number of high-profile tax strategies touted by Wall Street that it says may be “too good to be true.”",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/treasury-flags-concern-over-potentially-abusive-tax-strategies",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-21",
+      "time": "17:29",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-21-033a2352",
@@ -550,6 +508,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-21-ec0df4ef",
+      "headline": "SpaceX’s Great Unlocking Begins With $116 Billion Share Release",
+      "summary": "SpaceX has set the stage for one of the largest share unlocks in capital markets history, with as much as $116 billion worth of stock becoming eligible for sale for the first time next month.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-21/spacex-s-great-unlocking-begins-with-116-billion-share-release",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-21",
+      "time": "14:55",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-21-91bcf8cd",
       "headline": "India’s Refiners Come to the Rescue of Russia’s Oil Exporters",
       "summary": "Deliveries of Russian crude oil to India so far this month&nbsp;remain near June’s record&nbsp;",
@@ -564,18 +536,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-21-c046cc70",
-      "headline": "Pakistan Appoints Banks for its Bond and Sukuk Programs",
-      "summary": "Pakistan’s finance ministry has appointed banks for its global bond and sukuk programs, according to a statement.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-21/pakistan-appoints-banks-for-its-bond-and-sukuk-programs",
-      "region": "EU",
-      "country": "Pakistan",
-      "category": "business",
+      "id": "2026-07-21-1f03ba2f",
+      "headline": "Roger Rogoff Files Suit Challenging Trump’s Power to Fire Him",
+      "summary": "In the first lawsuit of its kind, Roger Rogoff argues that the Trump administration cannot fire him as U.S. attorney without first winning Senate approval for another candidate.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/21/us/roger-rogoff-doj-lawsuit.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
       "date": "2026-07-21",
-      "time": "14:44",
+      "time": "18:38",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-07-21-f179a746",
@@ -601,7 +573,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-21",
-      "time": "16:56",
+      "time": "18:28",
       "conflict_id": null,
       "score": 25.2
     },
@@ -620,6 +592,34 @@
       "score": 25.2
     },
     {
+      "id": "2026-07-21-d5a4661f",
+      "headline": "The Houthis may soon discover the limits of Saudi strategic patience",
+      "summary": "Saudi Arabia has so far ignored provocations to preserve regional stability. But it may soon be pushed into action.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/7/21/the-houthis-may-soon-discover-the-limits-of-saudi-strategic-patience?traffic_source=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-07-21",
+      "time": "17:57",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-07-21-2b3c596f",
+      "headline": "Liverpool FC in talks to sell minority stake to Mittal-backed consortium",
+      "summary": "The consortium is led by British-Indian investor Amit Bhatia, the son-in-law of Indian steel billionaire Lakshmi Mittal.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/21/liverpool-fc-in-talks-to-sell-minority-stake-to-mittal-backed-consortium?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-21",
+      "time": "17:55",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-07-21-0bf1c544",
       "headline": "FIFA ‘destroying football’ for the World Cup, says Spanish football chief",
       "summary": "In a scathing interview, La Liga President Javier Tebas says FIFA chief Gianni Infantino’s time is &#039;over&#039;.",
@@ -634,8 +634,8 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-21-d4a34396",
-      "headline": "Saudi condemns Houthi blockade: How will the rest of the world be impacted?",
+      "id": "2026-07-21-bcbba8cf",
+      "headline": "Saudi Arabia slams Houthi blockade: How will rest of the world be impacted?",
       "summary": "Saudi Arabia has condemned the Houthi naval blockade that could impact oil flow to importers of Saudi oil.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/21/saudi-condemns-houthi-blockade-how-will-the-rest-of-the-world-be-impacted?traffic_source=rss",
@@ -874,7 +874,7 @@
     {
       "id": "2026-07-20-05c36a31",
       "headline": "Stocks Climb as Rebound in Chipmakers Gathers Pace: Markets Wrap",
-      "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks amid rally in chipmakers on bets the artificial-intelligence trade that’s powered the bull market has more room to run.",
+      "summary": "Wall Street staged a comeback as dip buyers emerged, lifting stocks amid a rally in chipmakers on bets the artificial-intelligence trade that’s powered the bull market has more room to run.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-20/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -912,6 +912,20 @@
       "time": "16:21",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-07-20-4148c27f",
+      "headline": "Faced With Piles of New Paperwork, People Are Losing Food Stamps",
+      "summary": "Arizona’s Supplemental Nutrition Assistance Program rolls have plummeted, offering a possible preview of national trends as states try to avoid new federal penalties.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/20/us/politics/snap-food-stamps-arizona.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-20",
+      "time": "19:22",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-07-20-bc8254e1",
@@ -998,20 +1012,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-17-3e137466",
-      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
-      "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "business",
-      "date": "2026-07-17",
-      "time": "17:01",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-17-4292a050",
       "headline": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
       "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at the facility, which has sparked huge oppositio",
@@ -1038,6 +1038,20 @@
       "time": "21:36",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-07-17-3e137466",
+      "headline": "Second tanker in three months hijacked off Yemen by suspected Somali pirates",
+      "summary": "There have also been several unsuccessful attacks in a region where piracy appears to be making a comeback.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c7vg6dml34vo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "business",
+      "date": "2026-07-17",
+      "time": "17:01",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-07-17-74a99f8d",
@@ -1110,6 +1124,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-16-0a0459a3",
+      "headline": "How to sell a kettle",
+      "summary": "Brand positioning reaches boiling point",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/07/16/how-to-sell-a-kettle",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-16",
+      "time": "12:53",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
       "id": "2026-07-15-2ac57c28",
       "headline": "More people around the world now favour China over the US, Pew study suggests",
       "summary": "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates.",
@@ -1135,7 +1163,7 @@
       "date": "2026-07-14",
       "time": "17:13",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 55.0
     },
     {
       "id": "2026-07-14-46aee9d5",
