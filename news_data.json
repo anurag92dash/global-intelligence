@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-22T16:11:17.728040+00:00",
-  "story_count": 86,
+  "updated": "2026-07-22T17:39:31.366467+00:00",
+  "story_count": 82,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-22-81613aa4",
+      "headline": "Trump threatens to destroy Iranian bridges and power plants",
+      "summary": "US president’s warning marks latest attempts to assert American control over Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "14:23",
+      "conflict_id": null,
+      "score": 59.4
+    },
     {
       "id": "2026-07-22-a11ea3ca",
       "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
@@ -30,6 +44,20 @@
       "time": "15:36",
       "conflict_id": null,
       "score": 54.0
+    },
+    {
+      "id": "2026-07-22-ab09c045",
+      "headline": "Hamas’s new leader calls for permanent Gaza ceasefire",
+      "summary": "In his first speech since being elected Hamas political chief, Khalil al-Hayya called for a permanent ceasefire in Gaza.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/hamass-new-leader-calls-for-permanent-gaza-ceasefire?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "17:02",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-07-22-53075b91",
@@ -60,18 +88,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-22-c47677ae",
-      "headline": "‘Creeping death’: Israel weaponises ‘Yellow Line’ to annex Gaza",
-      "summary": "Analysts and locals say the move mirrors what happened after the 1967 war with Israel&#039;s occupation of the West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/creeping-death-israel-weaponises-yellow-line-to-annex-gaza?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-07-22-0f78137a",
+      "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
+      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "11:52",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
+      "time": "10:15",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-07-22-f5a827a9",
@@ -88,20 +116,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-07-22-2ee1befb",
-      "headline": "Trump threatens tit-for-tat strikes on Iranian infrastructure",
-      "summary": "US president’s warning marks latest attempts to assert American control over the Strait of Hormuz",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/755c218f-40db-4a8a-8e0b-acd2ccee3d3d?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "14:23",
-      "conflict_id": null,
-      "score": 50.4
-    },
-    {
       "id": "2026-07-22-e503745b",
       "headline": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
       "summary": "Iranian official says Tehran would retaliate by targeting &#039;energy facilities in which the United States has interests&#039;.",
@@ -114,6 +128,20 @@
       "time": "15:24",
       "conflict_id": null,
       "score": 48.4
+    },
+    {
+      "id": "2026-07-22-b9c26a58",
+      "headline": "War on Iran: Hegseth wants $70B more to keep fighting",
+      "summary": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "15:52",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-07-22-e361e6cd",
@@ -172,32 +200,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-22-0f78137a",
-      "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
+      "id": "2026-07-22-a5a5fbee",
+      "headline": "Mamdani backs off on pledge to arrest Netanyahu citing lack of authority",
+      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "10:15",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-22-22f52089",
-      "headline": "Trump Administration to Announce Deal That Could Let Saudis Enrich Nuclear Fuel",
-      "summary": "U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html",
-      "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "15:36",
+      "time": "16:29",
       "conflict_id": null,
-      "score": 41.2
+      "score": 43.0
     },
     {
       "id": "2026-07-22-b579be7e",
@@ -242,8 +256,8 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-22-7a5348aa",
-      "headline": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – Europe live",
+      "id": "2026-07-22-df87bd33",
+      "headline": "New Ukraine army chief vows to step up counteroffensive as EU bids to finalise fresh Russia sanctions – as it happened",
       "summary": "Brussels talks between senior diplomats now underway in attempt to sign off 21st package of sanctions, after previous failed attempts The Venice Biennale said it would challenge a European Union decision to withdraw a €2 ⁠million grant in response to the return of Russia to its 2026 edition, despite continuing aggression on Ukraine, Reuters reported.The Italian government sharply criticised the move, while the European Commission warned it ​would",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/22/ukraine-war-russia-sanctions-europe-eu-latest-news-updates",
@@ -270,16 +284,16 @@
       "score": 37.0
     },
     {
-      "id": "2026-07-22-32034c53",
-      "headline": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
-      "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
+      "id": "2026-07-22-9d818a61",
+      "headline": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
+      "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
+      "country": "Hong Kong",
+      "category": "business",
       "date": "2026-07-22",
-      "time": "15:19",
+      "time": "14:14",
       "conflict_id": null,
       "score": 35.0
     },
@@ -298,16 +312,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-22-9d818a61",
-      "headline": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
-      "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
+      "id": "2026-07-22-32034c53",
+      "headline": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
+      "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz97gdjgezno?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c93483k0lp1o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Hong Kong",
-      "category": "business",
+      "country": "Ukraine",
+      "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "14:14",
+      "time": "15:19",
       "conflict_id": null,
       "score": 35.0
     },
@@ -349,21 +363,21 @@
       "country": "Europe",
       "category": "business",
       "date": "2026-07-22",
-      "time": "11:41",
+      "time": "16:03",
       "conflict_id": null,
       "score": 34.4
     },
     {
-      "id": "2026-07-22-c30229cd",
-      "headline": "Wall Street Won’t Give Up on Saylor’s Strategy, Sees 170% Upside",
-      "summary": "Michael Saylor’s Strategy Inc. is confronting a collapse of confidence almost everywhere — except among Wall Street analysts.",
+      "id": "2026-07-22-382082da",
+      "headline": "Warsh Leaves Bond Traders in the Dark on Next Week’s Rate Move",
+      "summary": "The Kevin Warsh Fed is already putting its stamp on financial markets: Just days before the central bank’s next meeting, traders are still split on whether it’s going to raise interest rates or not.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-won-t-give-up-on-saylor-s-strategy-sees-170-upside",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/warsh-leaves-bond-traders-in-the-dark-on-next-week-s-rate-move",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-22",
-      "time": "16:01",
+      "time": "17:27",
       "conflict_id": null,
       "score": 34.1
     },
@@ -382,6 +396,48 @@
       "score": 34.1
     },
     {
+      "id": "2026-07-22-c690a8ef",
+      "headline": "QatarEnergy Prepares to Extend LNG Force Majeure Into October",
+      "summary": "QatarEnergy is preparing to further extend force majeure on liquefied natural gas shipments through mid-October, according to people with knowledge of the matter, in a move that would prolong the supply shock that has disrupted the global gas market amid war in the Middle East.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/qatarenergy-prepares-to-extend-lng-force-majeure-into-october",
+      "region": "EU",
+      "country": "Qatar",
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "17:09",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-22-8397d022",
+      "headline": "Japan May Move to Managing Yields, Not Yen, Deutsche Bank Says",
+      "summary": "Japan may have to shift its focus from supporting the yen toward controlling government bond yields if it is to achieve its ambitious economic growth plans, according to Deutsche Bank AG.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/japan-may-move-to-managing-yields-not-yen-deutsche-bank-says",
+      "region": "EU",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "16:26",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-22-c30229cd",
+      "headline": "Wall Street Won’t Give Up on Saylor’s Strategy, Sees 170% Upside",
+      "summary": "Michael Saylor’s Strategy Inc. is confronting a collapse of confidence almost everywhere — except among Wall Street analysts.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-won-t-give-up-on-saylor-s-strategy-sees-170-upside",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "16:01",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-22-de7ea4f3",
       "headline": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
       "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
@@ -391,7 +447,7 @@
       "country": "Washington",
       "category": "politics",
       "date": "2026-07-22",
-      "time": "15:10",
+      "time": "16:23",
       "conflict_id": null,
       "score": 33.2
     },
@@ -508,6 +564,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-22-a2f542a5",
+      "headline": "How a billionaire’s dream for a Florida railway went south",
+      "summary": "Brightline East, the brainchild of Wes Edens, is mired in complex debt negotiations",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/39aa5a81-f9bd-4e11-b108-b655734155c4?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-07-22-b5ef9814",
       "headline": "Burnham can be the failure that Britain needs",
       "summary": "Big government must be tested to destruction for serious reform to finally happen",
@@ -536,22 +606,22 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-22-94534ab2",
-      "headline": "Private capital misses out as IPO and deal boom lifts Wall Street banks",
-      "summary": "Reversal marks dramatic shift from recent years when sector was seen as more resilient to changes in financial markets",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a1a12a62-1a86-44dc-9078-edfcc606e9a6?syn-25a6b1a6=1",
-      "region": "EU",
+      "id": "2026-07-22-f272d843",
+      "headline": "Alphabet Earnings Need to Show Cloud Growth as AI Spending Soars",
+      "summary": "With AI spending skyrocketing, investors are looking for Alphabet Inc.’s earnings to show strong growth in its cloud-computing business, which would demonstrate a clear return on the company’s investments.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/alphabet-earnings-need-to-show-cloud-growth-as-ai-spending-soars",
+      "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-22",
-      "time": "04:00",
+      "time": "08:44",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
     },
     {
-      "id": "2026-07-22-ecd96b67",
-      "headline": "Aston Martin Raises £550 Million New Debt From HPS to Boost Cash",
+      "id": "2026-07-22-d0f21464",
+      "headline": "Aston Martin Raises £550 Million Debt From HPS to Boost Cash",
       "summary": "Aston Martin Lagonda Global Holdings Plc has struck a deal for £550 million ($736 million) of fresh funds with BlackRock Inc.-owned HPS Investment Partners to bolster its liquidity.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-22/aston-martin-raises-550-million-new-debt-from-hps-to-boost-cash",
@@ -560,6 +630,34 @@
       "category": "business",
       "date": "2026-07-22",
       "time": "15:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-22-49500683",
+      "headline": "Prologis Wins Segro Backing for £14 Billion Takeover",
+      "summary": "Prologis Inc. is set to acquire the UK’s largest landlord Segro Plc after securing the recommendation of its board for an improved £14 billion ($18.7 billion) cash and share offer for the company.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/prologis-makes-14-billion-best-and-final-offer-for-uk-s-segro",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "09:27",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-22-2fced49c",
+      "headline": "BofA Equities Traders Say Buy Momentum Stocks, Eyeing 5% Gain",
+      "summary": "Bank of America Corp.’s trading desk is urging clients to buy US momentum stocks, betting that the group has reached an attractive price level after a bout of profit taking.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/bofa-equities-traders-say-buy-momentum-stocks-eyeing-5-gain",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "16:20",
       "conflict_id": null,
       "score": 26.1
     },
@@ -592,102 +690,46 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-22-9d8701cf",
-      "headline": "Stumbling Stock Rally Looks to Earnings for Second Half Boost",
-      "summary": "Investors who spent weeks watching US stocks go nowhere are pinning their hopes for a breakout on a key pillar of the four-year bull run: corporate earnings.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/stumbling-stock-rally-looks-to-earnings-for-second-half-boost",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "10:10",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-7cb311b1",
-      "headline": "Zambia’s World-Beating 36% Local Bond Rally to Extend After Polls, Citi Says",
-      "summary": "The world-beating rally in Zambia’s bonds is likely to extend if President Hakainde Hichilema decisively wins next month’s elections, according to Citigroup Inc.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/zambia-s-world-beating-36-local-bond-rally-to-extend-after-polls-citi-says",
-      "region": "SA",
-      "country": "Chile",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "14:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-005bf059",
-      "headline": "Galaxy Digital Seeks $3.5 Billion of Debt for Texas Data Center",
-      "summary": "Galaxy Digital Inc. is planning to raise about $3.5 billion from a debut junk-bond sale to fund a data center tied to CoreWeave Inc., extending AI financing’s push into the riskier corners of the US credit market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/coreweave-backed-data-center-plans-3-5-billion-junk-bond-sale",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "14:06",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-ed8defa4",
-      "headline": "GE Vernova Falls as Outlook Collides With ‘Too High’ AI Hopes",
-      "summary": "GE Vernova Inc.’s shares slid after a higher revenue outlook failed to impress investors, a sign that it’s getting harder for companies that sell equipment to data centers to meet the market’s sky-high hopes.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/ge-vernova-falls-as-outlook-collides-with-too-high-ai-hopes",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "14:05",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-f5097bcc",
-      "headline": "Government Overhauls Teen Pregnancy Program to Focus on Marriage and Starting Families",
-      "summary": "The administration canceled federal grants to organizations across the country, accusing them of encouraging premarital sex. New criteria say programs should stress abstinence.",
+      "id": "2026-07-22-f5a1be33",
+      "headline": "House Republicans Have Tied the Defense Policy Bill to Trump’s SAVE Act",
+      "summary": "House Republicans have tied their entire legislative agenda to President Trump’s voting restriction measure, as he has demanded.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/teen-pregnancy-prevention-trump.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-22-e532da3d",
-      "headline": "Arizona Elections: 6 Takeaways From the Trump-Dominated Primaries",
-      "summary": "Republicans nominated a former N.F.L. kicker in a top House battleground, a Trump loyalist for governor and an election denier for the state’s top election post.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/arizona-primary-takeaways.html",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-gop-defense-bill-trump-voter-id.html",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-22",
-      "time": "09:17",
+      "time": "17:15",
       "conflict_id": null,
       "score": 25.2
     },
     {
-      "id": "2026-07-22-39e81819",
-      "headline": "​Andy Burnham’s ​domestic ​revolution ​could ​unobtrusively pull Britain ​closer to Europe",
-      "summary": "The new PM talks less about the continent than his predecessor, but his agenda is more closely aligned with the EU’s• Don’t get This Is Europe delivered to your inbox? Sign up hereEurope’s leaders queued up this week to welcome Andy Burnham as Britain’s seventh prime minister since the Brexit vote – all expressing the hope that his tenure would continue the thaw in EU-UK relations initiated by his predecessor, Keir Starmer.Ursula von der Leyen, t",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/22/andy-burnhams-domestic-revolution-could-unobtrusively-pull-britain-closer-to-europe",
-      "region": "EU",
-      "country": "Britain",
+      "id": "2026-07-22-90c04152",
+      "headline": "South Carolina and Nevada Fight to Kick Off Democrats’ 2028 Presidential Calendar",
+      "summary": "The calendar order could be hugely important to the 2028 presidential primary race. Democratic insiders will try to sketch out a schedule this week, and rival states are sniping at one another.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/south-carolina-nevada-democrats-2028-presidential-calendar.html",
+      "region": "NA",
+      "country": null,
       "category": "politics",
       "date": "2026-07-22",
-      "time": "14:40",
+      "time": "16:28",
       "conflict_id": null,
-      "score": 24.0
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-22-2f03d9d9",
+      "headline": "‘Justice for Lorenzo’ protests disrupt Houston council meeting",
+      "summary": "Protesters shouted ‘Justice for Lorenzo’ at a Houston, Texas, city council meeting on Tuesday after an ICE shooting.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/justice-for-lorenzo-protests-disrupt-houston-council-meeting?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "16:34",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-22-3c498ba4",
@@ -714,34 +756,6 @@
       "category": "business",
       "date": "2026-07-22",
       "time": "12:36",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-22-bf607eee",
-      "headline": "India protest: How Modi’s refusal to sack education minister fits a pattern",
-      "summary": "Protesters want Dharmendra Pradhan to be sacked over serial exam leaks. But that&#039;s not how Modi works.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/india-protest-how-modis-refusal-to-sack-education-minister-fits-a-pattern?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "12:09",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-22-a88c76d4",
-      "headline": "Syrian people must not be failed again",
-      "summary": "Stabilising Syria means stabilising its economy. It urgently needs international support and a safer investment climate.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/22/syrian-people-must-not-be-failed-again?traffic_source=rss",
-      "region": "MENA",
-      "country": "Syria",
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "11:23",
       "conflict_id": null,
       "score": 23.4
     },
@@ -830,34 +844,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-22-f23a6cea",
-      "headline": "Nippon Steel acquisition of U.S. Steel changes little for Nucor, says COO",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/companies/nippon-steel-acquisition-of-u.s.-steel-changes-little-for-nucor-says-coo",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-22-c5e52b3f",
-      "headline": "What are the ‘catastrophic’ pesticides that led France’s environment minister to try and quit?",
-      "summary": "Acetamiprid and flupyradifurone have been proven to harm bees and could be a risk to children’s developing brains.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/22/what-are-the-catastrophic-pesticides-that-led-frances-environment-minister-to-quit",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "14:17",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-07-21-4632a170",
       "headline": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
       "summary": "Defense Secretary Pete Hegseth is requesting as much as $70 billion in emergency military spending after nearly five months of war.",
@@ -869,7 +855,7 @@
       "date": "2026-07-21",
       "time": "21:30",
       "conflict_id": null,
-      "score": 49.2
+      "score": 57.2
     },
     {
       "id": "2026-07-21-52d98c60",
@@ -914,8 +900,8 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-21-bf6b0187",
-      "headline": "Stocks Waver Before Alphabet’s Results; Oil Jumps: Markets Wrap",
+      "id": "2026-07-21-76bd4e9a",
+      "headline": "Stocks Churn Before Big-Tech Earnings as Oil Jumps: Markets Wrap",
       "summary": "Wall Street investors bracing for the start of the megacap earnings season sent stocks wavering while worries about an escalation of the Iran war boosted oil prices.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
@@ -940,20 +926,6 @@
       "time": "15:10",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-07-21-b988b478",
-      "headline": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
-      "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Tokyo",
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "22:26",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-21-af5826a7",
@@ -984,18 +956,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-21-35579e12",
-      "headline": "Moody’s Lifts Argentina Debt Rating in Fresh Boost to Milei",
-      "summary": "Argentina’s dollar bonds rose after Moody’s Ratings lifted the country’s credit score, giving the nation its third sovereign upgrade in less than three months in a fresh boost to President Javier Milei.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-21/moody-s-lifts-argentina-credit-rating-in-fresh-in-boost-to-milei",
-      "region": "SA",
-      "country": "Argentina",
+      "id": "2026-07-21-b988b478",
+      "headline": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
+      "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgwp513jpvo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Tokyo",
       "category": "politics",
       "date": "2026-07-21",
-      "time": "20:53",
+      "time": "22:26",
       "conflict_id": null,
-      "score": 26.1
+      "score": 27.0
     },
     {
       "id": "2026-07-21-30b4ef84",
@@ -1040,20 +1012,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-20-b0f56111",
-      "headline": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
-      "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Spain",
-      "category": "business",
-      "date": "2026-07-20",
-      "time": "13:13",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-20-301231f4",
       "headline": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
       "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for education reforms.",
@@ -1064,6 +1022,20 @@
       "category": "politics",
       "date": "2026-07-20",
       "time": "08:41",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-20-b0f56111",
+      "headline": "Lamine Yamal celebrates World Cup win with little brother who charmed fans",
+      "summary": "The three-year-old brother of Yamal has been hailed one of Spain's World Cup breakout stars by fans",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89nvnklkpdo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Spain",
+      "category": "business",
+      "date": "2026-07-20",
+      "time": "13:13",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1166,34 +1138,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-16-4b3c3d8a",
-      "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
-      "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9323zgq6wvo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-16",
-      "time": "04:06",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-16-07490ff4",
-      "headline": "As heatwaves strike, Europeans turn to Chinese air-conditioners",
-      "summary": "Chinese brands are meeting surging air-conditioner demand in Europe, a region with typically low ownership rates.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86262j7j75o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-16",
-      "time": "22:01",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-15-6d5a1bb9",
       "headline": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
       "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
@@ -1205,7 +1149,7 @@
       "date": "2026-07-15",
       "time": "09:06",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     }
   ]
 }
