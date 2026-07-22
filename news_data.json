@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-22T20:59:34.435939+00:00",
+  "updated": "2026-07-22T22:02:30.725994+00:00",
   "story_count": 84,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-07-22-320ad9e2",
+      "headline": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "21:31",
+      "conflict_id": null,
+      "score": 59.0
+    },
     {
       "id": "2026-07-22-81613aa4",
       "headline": "Trump threatens to destroy Iranian bridges and power plants",
@@ -15,7 +29,49 @@
       "date": "2026-07-22",
       "time": "19:57",
       "conflict_id": null,
-      "score": 59.4
+      "score": 58.4
+    },
+    {
+      "id": "2026-07-22-36ee7206",
+      "headline": "U.S. Signs Deal to Help Saudis Obtain Nuclear Power",
+      "summary": "The accord is intended to further bind the United States with the Saudi government as the war with Iran strains the relationship.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/22/us/trump-saudi-nuclear-deal.html",
+      "region": "MENA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "21:42",
+      "conflict_id": null,
+      "score": 57.2
+    },
+    {
+      "id": "2026-07-22-bc08a0ac",
+      "headline": "US and Saudi Arabia announce nuclear cooperation deal",
+      "summary": "Trump administration says &#039;historic&#039; agreement will &#039;reinforce global nonproliferation standards&#039; and create jobs in US.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/us-and-saudi-arabia-announce-nuclear-cooperation-deal?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "21:30",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-07-22-1f0faa29",
+      "headline": "Iran warns of regional turmoil if US threats and attacks do not stop",
+      "summary": "Tehran&#039;s chief negotiator says if Iran&#039;s &#039;security is not ensured, no infrastructure will be safe&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "21:41",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-07-22-21e73987",
@@ -29,7 +85,21 @@
       "date": "2026-07-22",
       "time": "15:36",
       "conflict_id": null,
-      "score": 54.0
+      "score": 53.0
+    },
+    {
+      "id": "2026-07-22-e361e6cd",
+      "headline": "Iran warns Bulgaria over US aircraft deployment as US military 'stands ready to counter threats'",
+      "summary": "The warning follows a Bulgarian government proposal to temporarily deploy up to eight US aerial refuelling aircraft at Bezmer Air Base in the country’s southeast.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/22/iran-warns-bulgaria-over-us-aircraft-deployment-as-us-military-stands-ready-to-counter-thr",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "11:31",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-07-22-e0fec3b9",
@@ -74,60 +144,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-22-53075b91",
-      "headline": "Zelenskyy sacks Syrskii: How many generals have Ukraine, Russia fired?",
-      "summary": "Several Ukrainian and Russian generals have been sacked from their militaries over the course of the war in Ukraine.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/zelenskyy-sacks-syrskii-how-many-generals-have-ukraine-russia-fired?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "14:10",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
-      "id": "2026-07-22-0f78137a",
-      "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
-      "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrv0p37k8jo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-22-46615108",
+      "headline": "US and Saudi Arabia agree landmark nuclear energy pact",
+      "summary": "Washington says deal would pave the way for ‘decades-long, multibillion-dollar partnership’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2707aeb6-dba0-4640-877b-4839d268c820?syn-25a6b1a6=1",
       "region": "NA",
-      "country": "Trump",
+      "country": "Washington",
       "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "18:57",
+      "time": "21:02",
       "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-22-f5a827a9",
-      "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "02:15",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-22-e503745b",
-      "headline": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
-      "summary": "Iranian official says Tehran would respond to US attacks by sparking power outages in countries hosting US troops.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
-      "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "15:24",
-      "conflict_id": null,
-      "score": 48.4
+      "score": 50.4
     },
     {
       "id": "2026-07-22-b96344c1",
@@ -140,20 +168,6 @@
       "category": "geopolitics",
       "date": "2026-07-22",
       "time": "20:06",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-07-22-b9c26a58",
-      "headline": "War on Iran: Hegseth wants $70B more to keep fighting",
-      "summary": "Iran activated air defence systems across Tehran on the 11th night of US strikes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/war-on-iran-hegseth-wants-70b-more-to-keep-fighting?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "15:52",
       "conflict_id": null,
       "score": 47.4
     },
@@ -172,18 +186,18 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-22-ca099352",
-      "headline": "US to announce deal allowing Saudi Arabia a nuclear programme",
-      "summary": "The agreement would fulfil a long-held Saudi ambition but could attract concern in Israel and from some US lawmakers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-22-d3fefd90",
+      "headline": "Wounded Gaza journalists call for urgent medical evacuation",
+      "summary": "Wounded and chronically ill Palestinian journalists held a protest calling for urgent medical evacuation from Gaza.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/wounded-gaza-journalists-call-for-urgent-medical-evacuation?traffic_source=rss",
       "region": "MENA",
-      "country": "Israel",
+      "country": "Gaza",
       "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "20:05",
-      "conflict_id": null,
-      "score": 43.0
+      "time": "21:36",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-07-22-b579be7e",
@@ -202,7 +216,7 @@
     {
       "id": "2026-07-22-502cbd6e",
       "headline": "AusAlert test will blast emergency warning siren over most phones in Australia on Monday. Here’s what to know",
-      "summary": "National emergency test alert will be sent to all mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phonesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVirtually every phone in the country will blare an emergency siren at 2pm AEST on Monday 27 July, as part of the first Australia-wide test of a new national warning system called AusAlert.Mos",
+      "summary": "National emergency test alert will be sent to all mobile devices on 27 July, with domestic violence advocates advising how to turn off safe phonesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastVirtually every phone in the country will blare an emergency siren at 2pm AEST on Monday 27 July as part of the first Australia-wide test of a new national warning system called AusAlert.Most",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/jul/22/ausalert-test-sound-national-alert-emergency-warning-system-date",
       "region": "APJ",
@@ -336,20 +350,6 @@
       "category": "business",
       "date": "2026-07-22",
       "time": "16:03",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-07-22-9837ed9e",
-      "headline": "The US has collected about $13bn of Venezuela’s oil money. Where is it?",
-      "summary": "Washington has given diverging accounts of where the earthquake-shattered country’s funds are going",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0e562e03-106e-4729-83d7-675c27eb8c4d?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "04:00",
       "conflict_id": null,
       "score": 34.4
     },
@@ -531,7 +531,7 @@
       "country": null,
       "category": "business",
       "date": "2026-07-22",
-      "time": "20:38",
+      "time": "21:29",
       "conflict_id": null,
       "score": 26.4
     },
@@ -564,16 +564,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-22-d2d161e5",
-      "headline": "Southwest Beats Estimates on Strong Demand, Premium Spending",
-      "summary": "Southwest Airlines Co. provided an outlook for the full year that exceeded Wall Street’s projections, citing robust travel demand and spending on the carrier’s premium products, even as operating revenue and passenger revenue for the second quarter missed analysts’ estimates.",
+      "id": "2026-07-22-2f59dfac",
+      "headline": "Vitamin Well Raises $2.2 Billion From Cross-Currency Loan Deal",
+      "summary": "Vitamin Well AB raised about $2.2 billion through a cross-currency loan offering to fund its acquisition of protein-bar maker EMPWR Nutrition Group.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/southwest-beats-estimates-on-strong-demand-premium-spending",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/vitamin-well-raises-2-2-billion-from-cross-currency-loan-deal",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-22",
-      "time": "20:24",
+      "time": "21:04",
       "conflict_id": null,
       "score": 26.1
     },
@@ -620,6 +620,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-22-71e09501",
+      "headline": "Galaxy Digital Seeks $3.5 Billion Debt for Texas Data Center",
+      "summary": "Galaxy Digital Inc. is planning to raise about $3.5 billion from a debut junk-bond sale to fund a data center tied to CoreWeave Inc., extending AI borrowing’s push into the riskier corners of the US credit market.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/coreweave-backed-data-center-plans-3-5-billion-junk-bond-sale",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "14:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-22-302b5c60",
       "headline": "Paulson-Backed NovaGold Strikes Deal for Full Ownership of Alaska Mine",
       "summary": "NovaGold Resources Inc., a company backed by hedge-fund billionaire John Paulson, struck a deal to obtain full ownership of the Donlin Gold project in Alaska in a move to control one of the largest undeveloped gold mines.",
@@ -648,30 +662,30 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-22-f5a1be33",
-      "headline": "House Republicans Have Tied the Defense Policy Bill to Trump’s SAVE Act",
-      "summary": "House Republicans have tied their entire legislative agenda to President Trump’s voting restriction measure, as he has demanded.",
+      "id": "2026-07-22-6dcd4778",
+      "headline": "House Republicans Pass Stock Trading Bill Tied to SAVE Act and Voter ID Measure",
+      "summary": "The measure has drawn bipartisan backing amid a public outcry against the practice, but Democrats opposed it after Republicans added a voter ID requirement.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-gop-defense-bill-trump-voter-id.html",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-bill-stock-trades-congress.html",
       "region": "NA",
-      "country": "Trump",
+      "country": null,
       "category": "politics",
       "date": "2026-07-22",
-      "time": "17:15",
+      "time": "21:50",
       "conflict_id": null,
       "score": 25.2
     },
     {
       "id": "2026-07-22-07ca5122",
       "headline": "Australia news live: China hits back at Penny Wong’s comments; Victorian teachers due to begin strike",
-      "summary": "China’s foreign ministry says ‘relevant countries’ should ‘stop stirring up tension’. Follow liveGet our breaking news email, free app or daily news podcastMore on that response from China to Penny Wong’s comments at Asean:They came in a press conference held by foreign ministry spokesperson Lin Jian. According to the official translated transcript, he was asked about Wong’s comments that China’s missile test in the Pacific was destabilising, and",
+      "summary": "China’s foreign ministry says ‘relevant countries’ should ‘stop stirring up tension’. Follow liveGet our breaking news email, free app or daily news podcastSelf-reported domestic violence incidents declining in New South Wales but deaths and hospitalisations fail to fallNew data shows self-reported domestic violence incidents in New South Wales have declined, but the number of women and children murdered or hospitalised in domestic and family vio",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "20:43",
+      "time": "21:42",
       "conflict_id": null,
       "score": 24.0
     },
@@ -688,6 +702,20 @@
       "time": "14:40",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-07-22-03c4006b",
+      "headline": "India’s Rahul Gandhi speaks out after release",
+      "summary": "Indian opposition leader Rahul Gandhi has spoken out publicly for the first time since he was arrested during protests.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "20:59",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-22-392b1d02",
@@ -732,18 +760,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-22-3c498ba4",
-      "headline": "Why Traore has opened a new front with Burkina Faso’s Muslim community",
-      "summary": "New legislation and arrests are driving a rift between Burkina Faso&#039;s military government and Muslim scholars.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/why-traore-has-opened-a-new-front-with-burkina-fasos-muslim-community?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
+      "id": "2026-07-22-6142effd",
+      "headline": "Anduril, other drone makers eye Japanese tech in global expansion",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/aerospace-defense-industries/anduril-other-drone-makers-eye-japanese-tech-in-global-expansion",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "14:53",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-07-22-77ed0577",
@@ -782,20 +810,6 @@
       "region": "APJ",
       "country": null,
       "category": "business",
-      "date": "2026-07-22",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-22-6743a04d",
-      "headline": "Philippines protests South China Sea AI video to China's Wang Yi",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/south-china-sea/philippines-protests-south-china-sea-ai-video-to-china-s-wang-yi",
-      "region": "APJ",
-      "country": "Philippines",
-      "category": "geopolitics",
       "date": "2026-07-22",
       "time": "",
       "conflict_id": null,
@@ -855,21 +869,7 @@
       "date": "2026-07-21",
       "time": "16:10",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-07-21-4632a170",
-      "headline": "Hegseth Estimates Iran War Has Cost $37.5 Billion",
-      "summary": "Defense Secretary Pete Hegseth is requesting as much as $70 billion in emergency military spending after nearly five months of war.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/21/us/politics/iran-war-cost-estimate.html",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-21",
-      "time": "21:30",
-      "conflict_id": null,
-      "score": 57.2
+      "score": 60.0
     },
     {
       "id": "2026-07-21-52d98c60",
@@ -896,6 +896,20 @@
       "category": "geopolitics",
       "date": "2026-07-21",
       "time": "18:39",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-21-4807157a",
+      "headline": "Russian warship asked to 'clarify its intentions' off British coast",
+      "summary": "The BBC has received exclusive audio of the confrontation between a French aircraft and the Russian warship.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cz64lyn42dgo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-21",
+      "time": "19:18",
       "conflict_id": null,
       "score": 35.0
     },
@@ -942,9 +956,9 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-21-8f536c62",
-      "headline": "Stocks Rise Late as Megacap Earnings Kick Off: Markets Wrap",
-      "summary": "Wall Street investors sent stocks higher in late hours as traders sifted through results from megacaps for clues on whether their massive artificial-intelligence investments are paying off.",
+      "id": "2026-07-21-01246206",
+      "headline": "Stocks Churn Late as Big-Tech Earnings Kick Off: Markets Wrap",
+      "summary": "Wall Street traders sent stocks wavering in late hours as they sifted through results from megacaps for clues on whether their massive artificial-intelligence investments are paying off.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-21/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -956,8 +970,8 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-21-652090ae",
-      "headline": "Yen Rebounds From Four-Decade Low as BOJ May Hike Rates Faster",
+      "id": "2026-07-21-d19f6b98",
+      "headline": "Yen Rebound Ebbs After Brief Rally on Outlook for BOJ Rate Hikes",
       "summary": "The yen slid beyond 163 per dollar for the first time since 1986 before recovering some ground in choppy trading on the prospect of faster interest-rate hikes from the Bank of Japan.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-21/yen-slides-past-163-mark-to-fresh-four-decade-low-against-dollar",
@@ -1149,7 +1163,7 @@
       "date": "2026-07-16",
       "time": "04:06",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-07-16-07490ff4",
@@ -1164,20 +1178,6 @@
       "time": "22:01",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-15-6d5a1bb9",
-      "headline": "Trump threatens to bomb bridges and power plants unless Iran resumes talks",
-      "summary": "Trump's comments aired as the two countries exchanged fire for the fourth day in a row and the US resumed blockading Iranian ports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0608wy8pro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-15",
-      "time": "09:06",
-      "conflict_id": null,
-      "score": 51.0
     }
   ]
 }
