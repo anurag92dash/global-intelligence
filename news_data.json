@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-22T18:45:02.565270+00:00",
-  "story_count": 83,
+  "updated": "2026-07-22T19:57:52.738874+00:00",
+  "story_count": 84,
   "source_count": 9,
   "stories": [
     {
@@ -18,20 +18,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-22-a11ea3ca",
-      "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
-      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "05:37",
-      "conflict_id": "ukraine-war",
-      "score": 55.0
-    },
-    {
       "id": "2026-07-22-21e73987",
       "headline": "Trump threatens to bomb Tehran back for every Iranian attack in Hormuz",
       "summary": "The US president said Washington would destroy one piece of civilian infrastructure — including sites near Tehran — each time Iran fires on a ship in the Strait of Hormuz, as the war entered its 11th consecutive day of US strikes.",
@@ -44,6 +30,34 @@
       "time": "15:36",
       "conflict_id": null,
       "score": 54.0
+    },
+    {
+      "id": "2026-07-22-e0fec3b9",
+      "headline": "Zelenskyy under growing pressure to reinstate sacked defence minister",
+      "summary": "Campaigners in Ukraine pledge to continue nationwide protests until Mykhailo Fedorov gets his job back Volodymyr Zelenskyy was under growing pressure to reinstate his sacked defence minister on Wednesday, after campaigners said they would continue indefinite nationwide protests until Mykhailo Fedorov got his job back.On Tuesday, Zelenskyy bowed to public demands by firing Ukraine’s commander-in-chief Oleksandr Syrskyi. He appointed Mykhailo Drapa",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/22/volodymyr-zelenskyy-pressure-reinstate-sacked-defence-minister-mykhailo-fedorov",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "18:31",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
+    },
+    {
+      "id": "2026-07-22-cdcedb7c",
+      "headline": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
+      "summary": "The newly appointed leader says Hamas would work to help the people of Gaza and achieve a united Palestinian state.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "18:43",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-07-22-ab09c045",
@@ -74,20 +88,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-22-48fe1ee3",
-      "headline": "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
-      "summary": "Zelenskyy replaces Ukraine’s commander-in-chief after days of protests",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/zelenskyy-replaces-ukraines-commander-in-chief-after-days-of-protests?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "12:57",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
       "id": "2026-07-22-0f78137a",
       "headline": "Trump threatens to target Iran's bridges and power plants if Hormuz attacks persist",
       "summary": "Donald Trump says the US will respond any time Iranian forces shoot at a ship in the Strait of Hormuz.",
@@ -97,7 +97,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "10:15",
+      "time": "18:57",
       "conflict_id": null,
       "score": 51.0
     },
@@ -118,11 +118,11 @@
     {
       "id": "2026-07-22-e503745b",
       "headline": "Trump threatens to bomb Iranian bridges, power plants over ship attacks",
-      "summary": "Iranian official says Tehran would retaliate by targeting &#039;energy facilities in which the United States has interests&#039;.",
+      "summary": "Iranian official says Tehran would respond to US attacks by sparking power outages in countries hosting US troops.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/22/trump-threatens-to-bomb-iranian-bridges-power-plants-over-ship-attacks?traffic_source=rss",
       "region": "NA",
-      "country": "United States",
+      "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-07-22",
       "time": "15:24",
@@ -142,6 +142,20 @@
       "time": "15:52",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-07-22-a11ea3ca",
+      "headline": "Zelensky sacks Ukraine's top army commander after days of protests",
+      "summary": "Oleksandr Syrskyi is dismissed after backlash over the removal of popular Defence Minister Mykhailo Fedorov.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cyvl35z3917o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "05:37",
+      "conflict_id": "ukraine-war",
+      "score": 47.0
     },
     {
       "id": "2026-07-22-e361e6cd",
@@ -298,6 +312,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-22-46f15c67",
+      "headline": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "08:02",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-22-32034c53",
       "headline": "Who is Mykhailo Drapatyi, Ukraine's new commander-in-chief?",
       "summary": "Drapatyi becomes Ukraine's third commander-in-chief since Russia's full-scale invasion in February 2022.",
@@ -424,20 +452,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-07-22-c30229cd",
-      "headline": "Wall Street Won’t Give Up on Saylor’s Strategy, Sees 170% Upside",
-      "summary": "Michael Saylor’s Strategy Inc. is confronting a collapse of confidence almost everywhere — except among Wall Street analysts.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-won-t-give-up-on-saylor-s-strategy-sees-170-upside",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "16:01",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-07-22-de7ea4f3",
       "headline": "Rubio and Chinese Diplomat Make Plans for Trump and Xi’s Washington Summit",
       "summary": "Secretary of State Marco Rubio spent much of a meeting with China’s foreign minister discussing the summit, but did not bring up President Trump’s claims of election interference by China.",
@@ -494,6 +508,48 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-22-9b5034fd",
+      "headline": "Water cannon deployed at India education system protests",
+      "summary": "Indian police deployed water cannons in Raipur at student protests demanding the resignation of the education minister.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "18:57",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-22-72a17376",
+      "headline": "Death toll from blast at Indian hydroelectric project rises to 20 people",
+      "summary": "Rescuers say flooding and toxic gas in the collapsed tunnel make it unlikely any remaining trapped workers survived.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "18:40",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-22-2bcacc6e",
+      "headline": "EU gives conditional green light to Paramount's Warner Bros. Discovery deal",
+      "summary": "Paramount's bid still faces hurdles across the Atlantic after a federal judge in California ordered the companies to temporarily pause their merger this week.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/07/22/eu-gives-conditional-green-light-to-paramounts-warner-bros-discovery-deal",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "19:44",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-07-22-f29d8645",
       "headline": "Hungary's prosecutor resigns under pressure in political win for Magyar",
       "summary": "Hungary's Prosecutor General, Gábor Bálint Nagy, has resigned amid mounting political pressure as Prime Minister Péter Magyar seeks to replace Orbán-era officials. The move follows allegations of political bias by lawyers for detained Ukrainian cash couriers in a cross-border cash seizure case.",
@@ -522,20 +578,6 @@
       "score": 29.0
     },
     {
-      "id": "2026-07-22-46f15c67",
-      "headline": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-      "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "08:02",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-22-9d6375e1",
       "headline": "Why are thousands protesting for education reform in India?",
       "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
@@ -546,20 +588,6 @@
       "category": "politics",
       "date": "2026-07-22",
       "time": "11:30",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-22-f818a261",
-      "headline": "Michelin-starred restaurateur faces jail for using ants as dessert garnish",
-      "summary": "Officials say the restaurant in South Korea used some 49,000 ants in various dishes over four years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62qw1qk95eo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "03:32",
       "conflict_id": null,
       "score": 27.0
     },
@@ -604,6 +632,20 @@
       "time": "14:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-22-71e09501",
+      "headline": "Galaxy Digital Seeks $3.5 Billion Debt for Texas Data Center",
+      "summary": "Galaxy Digital Inc. is planning to raise about $3.5 billion from a debut junk-bond sale to fund a data center tied to CoreWeave Inc., extending AI borrowing’s push into the riskier corners of the US credit market.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-22/coreweave-backed-data-center-plans-3-5-billion-junk-bond-sale",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "14:06",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-22-302b5c60",
@@ -672,20 +714,6 @@
       "category": "politics",
       "date": "2026-07-22",
       "time": "09:27",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-2f4e4b09",
-      "headline": "The AI Export Boom That Wasn’t",
-      "summary": "Thailand’s tech exports are booming but so is its trade deficit.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-22/the-ai-export-boom-that-wasn-t",
-      "region": "APJ",
-      "country": "Thailand",
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "15:37",
       "conflict_id": null,
       "score": 26.1
     },
@@ -900,20 +928,6 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-21-da8b009d",
-      "headline": "US launches fresh strikes on Iran, as Trump warns of retaliation for deaths of soldiers",
-      "summary": "Iran says it has hit two ships in the Strait of Hormuz as well as targets in Bahrain and Jordan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx25wg2x26do?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Bahrain",
-      "category": "geopolitics",
-      "date": "2026-07-21",
-      "time": "16:10",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-07-21-f467759e",
       "headline": "Russian warship carried out firing exercise off Plymouth coast",
       "summary": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
@@ -998,20 +1012,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-21-30b4ef84",
-      "headline": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets their energy and nutrient needs, and it will tak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-07-20-efb93bec",
       "headline": "Hamas names Khalil al-Hayya as new overall leader",
       "summary": "The Palestinian armed group's Qatar-based chief negotiator replaces Yahya Sinwar, who was killed by Israeli forces in Gaza in 2024.",
@@ -1023,7 +1023,7 @@
       "date": "2026-07-20",
       "time": "14:02",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-07-20-480621fe",
@@ -1094,6 +1094,20 @@
       "time": "23:48",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-07-18-862657e7",
+      "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
+      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-18",
+      "time": "23:59",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-07-17-4292a050",
