@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-23T11:18:02.891166+00:00",
-  "story_count": 85,
+  "updated": "2026-07-23T12:52:54.806867+00:00",
+  "story_count": 83,
   "source_count": 8,
   "stories": [
+    {
+      "id": "2026-07-23-caeb1f22",
+      "headline": "Zelenskyy warns Russia could step up Black Sea attacks and hints at more US talks – Europe live",
+      "summary": "Ukrainian leader says his country’s grain corridor could be targeted as he hosts Ireland’s Micheál Martin on visit on KyivEU foreign policy chief Kaja Kallas has offered a bit more detail on the new package of sanctions, saying they are “the largest round in four years,” and will “hit Putin where it hurts most.”In a statement, she said:“We have agreed on the 21st sanctions package against Russia. It delivers sweeping measures targeting Moscow’s f",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/23/eu-sanctions-russia-ukraine-marcio-rubio-sergei-lavrov-kallas-google-latest-news-updates",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "12:35",
+      "conflict_id": "ukraine-war",
+      "score": 60.0
+    },
     {
       "id": "2026-07-23-320ad9e2",
       "headline": "US signs landmark nuclear deal with Saudi Arabia",
@@ -15,21 +29,7 @@
       "date": "2026-07-23",
       "time": "09:17",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-07-23-0e5c32e8",
-      "headline": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
-      "summary": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
-      "region": "MENA",
-      "country": "Riyadh",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "05:31",
-      "conflict_id": null,
-      "score": 55.4
+      "score": 51.0
     },
     {
       "id": "2026-07-23-a50df8ac",
@@ -46,8 +46,8 @@
       "score": 51.0
     },
     {
-      "id": "2026-07-23-86770d53",
-      "headline": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – business live",
+      "id": "2026-07-23-dae38bcb",
+      "headline": "Oil prices near $100 a barrel after US attacks Iran and Houthis hit tankers in Red Sea – as it happened",
       "summary": "Live, rolling coverage of business, economics and financial markets as traders fear attacks from Yemen and Iran creating ‘two-chokepoint problem’The Houthi attacks off the coast of Yemen targeted Saudi Arabian tankers, but two Chinese vessels carrying Saudi oil appear to be trying to exit the Bab el-Mandeb strait, Reuters reports.From Reuters:Two Chinese supertankers carrying a combined 4 million barrels of Saudi Arabian oil are exiting the Red S",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/live/2026/jul/23/andy-burnham-business-rates-pubs-clubs-live-music-vape-shops-european-central-bank-ecb-interest-rates-latest-news-updates",
@@ -55,7 +55,7 @@
       "country": "Saudi",
       "category": "business",
       "date": "2026-07-23",
-      "time": "10:42",
+      "time": "11:27",
       "conflict_id": null,
       "score": 49.0
     },
@@ -74,18 +74,60 @@
       "score": 43.4
     },
     {
-      "id": "2026-07-23-a2dbb20d",
-      "headline": "Israel building earthen barrier in Gaza to entrench division of the enclave",
-      "summary": "The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
-      "region": "MENA",
+      "id": "2026-07-23-897440d5",
+      "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "summary": "Past US presidents insisted that Saudi Arabia normalise relations with Israel in exchange for nuclear technology.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-23",
-      "time": "05:15",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "time": "11:13",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-23-208dee2e",
+      "headline": "Oil jumps to $99 after Houthis attack two Saudi Arabian tankers",
+      "summary": "Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "12:27",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-07-23-71bfb25e",
+      "headline": "How the Pentagon Withholds Iran War Details",
+      "summary": "Our Pentagon correspondent Helene Cooper explains how a lack of transparency reflects a tension between the Pentagon’s claims of operational security and the American public’s right to know what the military is doing in Iran.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/video/us/100000011042608/how-the-pentagon-withholds-iran-war-details.html",
+      "region": "NA",
+      "country": "Pentagon",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "11:23",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-07-23-d129c77d",
+      "headline": "Two Russian men jailed in Angola for terrorism and spying",
+      "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last yearTwo Russian men have been found guilty by an Angolan court of terrorism and spying, after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. They had denied the charges, cla",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "12:08",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-07-23-c0a6b24e",
@@ -158,23 +200,9 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-23-91691cc7",
-      "headline": "US oil refineries run at breakneck speeds as wars choke fuel supplies",
-      "summary": "High utilisation rates create risks of outages at a time when fuel prices are already up sharply",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-07-23-21f9e4c9",
-      "headline": "Asian Oil Buyers in Talks With Saudis to Reroute Red Sea Flows",
-      "summary": "At least two Asian crude oil buyers are in talks with Saudi Aramco to potentially reroute flows around Africa after Houthi attacks on tankers in the Red Sea, according to traders familiar with the matter.",
+      "id": "2026-07-23-644ffe99",
+      "headline": "Asian Oil Buyers in Talks to Reroute Saudi Red Sea Flows",
+      "summary": "Some Asian crude oil buyers are in talks with Saudi Aramco to potentially reroute flows around Africa after Houthi attacks on tankers in the Red Sea, according to traders familiar with the matter.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/asian-oil-buyers-in-talks-with-saudis-to-reroute-red-sea-flows",
       "region": "MENA",
@@ -184,6 +212,20 @@
       "time": "09:22",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-07-23-852ef551",
+      "headline": "Man Fatally Shot by Police in Wisconsin’s Capital, Stirring Protests",
+      "summary": "The officer who fired was injured with a knife while attempting an arrest, the Madison police chief said. Footage of the shooting circulated widely online.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/23/us/madison-wisconsin-police-shooting-protests.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "12:40",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-07-23-39b94886",
@@ -223,7 +265,7 @@
       "country": "India",
       "category": "politics",
       "date": "2026-07-23",
-      "time": "06:37",
+      "time": "12:51",
       "conflict_id": null,
       "score": 27.0
     },
@@ -270,8 +312,8 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-23-b7b4e0cf",
-      "headline": "Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline",
+      "id": "2026-07-23-31121fac",
+      "headline": "Houthi attacks threaten Saudi Arabia’s oil lifeline",
       "summary": "Asian refiners may wait an extra month for crude as tankers abandon the route through Bab al-Mandab",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1",
@@ -310,6 +352,104 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-23-94141858",
+      "headline": "ECB holds interest rates at 2.25%",
+      "summary": "Central bank pauses despite renewed surge in oil prices",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e28b3259-ddc9-43dc-8c3f-fca85edf7e84?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "12:35",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-23-3110cc46",
+      "headline": "Cellnex Studies Strategic Options After Share Price Slump",
+      "summary": "Cellnex Telecom SA is evaluating strategic options, according to people familiar with the matter, as the wireless tower operator looks at ways to grapple with its debt load and weak share price.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/cellnex-studies-strategic-options-after-share-price-slump",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "12:07",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-cda386ee",
+      "headline": "India Seeks to Expand Investment Options for Portfolio Managers",
+      "summary": "India’s markets regulator has proposed allowing portfolio managers to invest clients’ money in overseas securities and IPO-bound firms, as well as take unhedged equity derivatives positions, as part of a broader easing of rules for the industry.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/india-seeks-to-expand-investment-options-for-portfolio-managers",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "12:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-8b82f561",
+      "headline": "US Stock Futures Drop as Traders Focus on AI Spending, Oil Jumps",
+      "summary": "US stock futures retreated as worries over artificial-intelligence spending weighed on sentiment while oil prices closed in on $100 a barrel. Traders braced for more key earnings from Intel Corp., due later in the afternoon.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/us-stock-futures-drop-as-traders-focus-on-ai-spending-oil-jumps",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "12:09",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-91a19986",
+      "headline": "GCM Grosvenor Raises $1.2 Billion for Credit Secondaries Push",
+      "summary": "GCM Grosvenor has raised $1.2 billion for its first dedicated fund strategy targeting credit secondaries.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/gcm-grosvenor-raises-1-2-billion-for-credit-secondaries-push",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "12:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-afa5498b",
+      "headline": "Alphabet’s Century Bond Has Now Lost a 10th of Its Face Value",
+      "summary": "A 100-year bond that Alphabet Inc. issued earlier this year in the sterling market as it gorged on debt around the world has dropped below 90 pence on the pound for the first time.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/alphabet-s-century-bond-has-now-lost-a-10th-of-its-face-value",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "11:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-8ef233ed",
+      "headline": "JPMorgan Quants Say Strongest Earnings Upgrades Are in Europe",
+      "summary": "Europe now leads the world as the region with the sharpest upgrades to corporate earnings estimates from analysts, according to JPMorgan Chase &amp; Co.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/jpmorgan-quants-say-strongest-earnings-upgrades-are-in-europe",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "11:21",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-23-d6e12cfb",
@@ -354,62 +494,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-23-5deaa903",
-      "headline": "Hedge Funds’ Favorite US Bond Trade Is Sputtering",
-      "summary": "Hedge funds’ most popular trade in the US bond market is showing signs of maxing out.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/hedge-funds-favorite-us-bond-trade-is-sputtering",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "10:10",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-23-e449fc17",
-      "headline": "Victoria Plc Wins Support for Debt Deal After HSBC U-Turn",
-      "summary": "Troubled UK carpetmaker Victoria Plc secured enough bondholder support for a consensual debt restructuring after HSBC Holdings Plc backed the plan at the last minute, averting a costlier, more time-consuming court process.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/victoria-wins-bondholder-support-for-debt-deal-after-hsbc-u-turn",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "09:06",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-23-85f840ab",
-      "headline": "Indonesian Stocks Briefly Near Bull Market as Sentiment Steadies",
-      "summary": "A brief rally in Indonesian stocks pushed the benchmark index to the cusp of a bull market, as investors rotated into laggards and concerns over the country’s fiscal health eased.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/indonesian-stocks-set-for-bull-market-as-sentiment-improves",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "02:55",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-23-936998ec",
-      "headline": "PHP/USD: Marcos Confident Central Bank to Act on Weak Peso, Official Says",
-      "summary": "Philippine President Ferdinand Marcos Jr. is confident that the central bank will act decisively on the peso, which weakened to the record low, according to the president’s press officer.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/php-usd-marcos-confident-central-bank-to-act-on-weak-peso-official-says",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "08:29",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-23-de77cad5",
       "headline": "How Trump Is Getting Richer as President",
       "summary": "Since he came back to office, President Trump has made huge amounts of money from cryptocurrency and foreign investments, posing the question of whether he is using his power as president to enrich himself. Andrea Fuller, a Times data journalist, explains.",
@@ -419,7 +503,7 @@
       "country": "Trump",
       "category": "business",
       "date": "2026-07-23",
-      "time": "09:02",
+      "time": "11:24",
       "conflict_id": null,
       "score": 25.2
     },
@@ -434,6 +518,20 @@
       "category": "politics",
       "date": "2026-07-23",
       "time": "02:08",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-23-c1491369",
+      "headline": "Massachusetts House Passes Bill That Would Loosen Late-Term Abortion Rules",
+      "summary": "The bill would leave it to physicians to decide if an abortion is necessary after 24 weeks of pregnancy. Current law allows such abortions only under certain circumstances.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "12:10",
       "conflict_id": null,
       "score": 25.2
     },
@@ -454,7 +552,7 @@
     {
       "id": "2026-07-23-28081979",
       "headline": "EU fines Google €890m for competition breaches over search and apps",
-      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and app store services.The European Commission, the EU’s executive arm, said Google had broken the Digital Markets Act by giving priority to its own services such as shopping and hotel deals in search results over those of its rivals",
+      "summary": "Firm told to treat third-party services that appear in its results in ‘fair and non-discriminatory manner’Google has been fined a total of €890m (£760m) by the EU for breaches of online competition laws by its search and app store services.The European Commission, the EU’s executive arm, said Google had broken the Digital Markets Act by giving priority to its own services, such as shopping and hotel deals, in search results over those of its riva",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
       "region": "EU",
@@ -480,44 +578,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-07-23-436016bf",
-      "headline": "Indian police accused of using pellet guns in crackdown on India’s protests",
-      "summary": "Videos emerge showing police using pellet guns on protesters India’s student protest movement.",
+      "id": "2026-07-23-ccdf9295",
+      "headline": "Iraq PM heads to Iran: Can Baghdad redefine its relationship with Tehran?",
+      "summary": "Iraqi Prime Minister Ali al-Zaid is visiting Tehran after a high-profile meeting with US President Donald Trump.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-police-accused-of-using-pellet-guns-in-crackdown-on-indias-protests?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-23",
-      "time": "05:25",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-23-f1e54128",
-      "headline": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
-      "summary": "The incident was witnessed by the daughter of Ahmed Nejib Chebbi, another prominent political prisoner.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
+      "url": "https://www.aljazeera.com/economy/2026/7/23/iraq-pm-heads-to-iran-can-baghdad-redefine-its-relationship-with-tehran?traffic_source=rss",
       "region": "MENA",
-      "country": "Tunisia",
+      "country": "Tehran",
       "category": "politics",
       "date": "2026-07-23",
-      "time": "03:53",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-23-ba7eb159",
-      "headline": "Calls for Moroccan rapper’s release outside a Casablanca court",
-      "summary": "Protesters gathered outside a court in Casablanca, Morocco to demand the release of Moroccan rapper Mehdi El Youbi.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/calls-for-moroccan-rappers-release-outside-a-casablanca-court?traffic_source=rss",
-      "region": "MENA",
-      "country": "Morocco",
-      "category": "politics",
-      "date": "2026-07-23",
-      "time": "03:42",
+      "time": "11:53",
       "conflict_id": null,
       "score": 23.4
     },
@@ -634,20 +704,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-22-f57ec7f9",
-      "headline": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
-      "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "23:05",
-      "conflict_id": null,
-      "score": 57.2
-    },
-    {
       "id": "2026-07-22-36ee7206",
       "headline": "U.S. Signs Deal to Help Saudis Obtain Nuclear Power",
       "summary": "The accord is intended to further bind the United States with the Saudi government as the war with Iran strains the relationship.",
@@ -660,6 +716,20 @@
       "time": "23:46",
       "conflict_id": null,
       "score": 57.2
+    },
+    {
+      "id": "2026-07-22-f57ec7f9",
+      "headline": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
+      "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "23:05",
+      "conflict_id": null,
+      "score": 49.2
     },
     {
       "id": "2026-07-22-a11ea3ca",
@@ -704,20 +774,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-22-71bfb25e",
-      "headline": "How the Pentagon Withholds Iran War Details",
-      "summary": "Our Pentagon correspondent Helene Cooper explains how a lack of transparency reflects a tension between the Pentagon’s claims of operational security and the American public’s right to know what the military is doing in Iran.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/video/us/100000011042608/how-the-pentagon-withholds-iran-war-details.html",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "23:01",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
       "id": "2026-07-22-cfb2eb6c",
       "headline": "Speaking for Fallen Soldiers, Trump Says They Supported the Iran War",
       "summary": "President Trump attended a dignified transfer for the soldiers as Americans were growing increasingly critical of the war.",
@@ -732,18 +788,18 @@
       "score": 41.2
     },
     {
-      "id": "2026-07-22-d2e88b33",
-      "headline": "James Woolsey, Embattled C.I.A. Director Under Clinton, Dies at 84",
-      "summary": "He arrived in Washington a conservative Democrat and drifted rightward, supporting the 2003 invasion of Iraq and Donald J. Trump’s 2016 presidential bid.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/james-woolsey-dead.html",
-      "region": "NA",
-      "country": "Washington",
+      "id": "2026-07-22-f45a430b",
+      "headline": "Mamdani says New York doesn’t have authority to arrest Netanyahu, urges feds to act",
+      "summary": "The mayor had said the city might enforce a warrant against the Israeli leader, drawing Democratic criticism. On Tuesday, he urged the U.S. government to do so.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-22",
-      "time": "17:32",
+      "time": "15:27",
       "conflict_id": null,
-      "score": 41.2
+      "score": 40.9
     },
     {
       "id": "2026-07-22-b579be7e",
@@ -770,6 +826,20 @@
       "category": "business",
       "date": "2026-07-22",
       "time": "14:14",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-22-446c128a",
+      "headline": "Two Russians handed down jail terms for terrorism and spying in Angola",
+      "summary": "The two, a political consultant and a translator, denied allegations of fomenting protests last year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c935qpz64xpo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "16:34",
       "conflict_id": null,
       "score": 35.0
     },
@@ -858,20 +928,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-22-31e50b56",
-      "headline": "A year after deadly jet crash at Bangladesh school, families demand answers",
-      "summary": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Bangladesh",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "22:04",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-22-f4087e91",
       "headline": "Indian police cracked down on 'cockroach' protesters. They went home and made memes about it",
       "summary": "For 'cockroach' protesters, reels and memes became a way of documenting fear, making sense of violence and refusing to let it have the last word.",
@@ -882,6 +938,20 @@
       "category": "politics",
       "date": "2026-07-22",
       "time": "22:13",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-22-31e50b56",
+      "headline": "A year after deadly jet crash at Bangladesh school, families demand answers",
+      "summary": "This week marks one year since a military jet struck a school in Dhaka, killing 36, most of them children.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j7jgg1z1o?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Bangladesh",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "22:04",
       "conflict_id": null,
       "score": 27.0
     },
@@ -900,9 +970,9 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-22-f44109ee",
-      "headline": "Stocks Fall on AI Jitters and as Oil Pushes Higher: Markets Wrap",
-      "summary": "Stocks fell as unease over ever-higher artificial intelligence spending outweighed an otherwise strong earnings report from Alphabet Inc., while rising crude prices pushed bond yields higher.",
+      "id": "2026-07-22-272ea565",
+      "headline": "Stocks Fall on AI Jitters as Oil Lifts Bond Yields: Markets Wrap",
+      "summary": "Stocks fell as Alphabet Inc.’s earnings triggered fresh unease over ever-higher artificial intelligence spending, while rising oil prices drove bond yields higher.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -912,20 +982,6 @@
       "time": "22:12",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-07-22-c1491369",
-      "headline": "Massachusetts House Passes Bill That Would Loosen Late-Term Abortion Rules",
-      "summary": "The bill would leave it to physicians to decide if an abortion is necessary after 24 weeks of pregnancy. Current law allows such abortions only under certain circumstances.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/massachusetts-late-term-abortion-rules.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "23:56",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-07-22-6561cbc4",
@@ -938,20 +994,6 @@
       "category": "politics",
       "date": "2026-07-22",
       "time": "22:30",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-22-6dcd4778",
-      "headline": "House Republicans Pass Stock Trading Bill Tied to SAVE Act and Voter ID Measure",
-      "summary": "The measure has drawn bipartisan backing amid a public outcry against the practice, but Democrats opposed it after Republicans added a voter ID requirement.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/house-bill-stock-trades-congress.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "21:50",
       "conflict_id": null,
       "score": 25.2
     },
@@ -998,6 +1040,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-21-5e78fd7d",
+      "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
+      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-21",
+      "time": "12:48",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-21-f467759e",
       "headline": "Russian warship carried out firing exercise off Plymouth coast",
       "summary": "The Neustrashimy's live-fire exercise took place in international waters and lasted for 30 minutes.",
@@ -1010,48 +1066,6 @@
       "time": "18:39",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-21-4807157a",
-      "headline": "Russian warship asked to 'clarify its intentions' off British coast",
-      "summary": "The BBC has received exclusive audio of the confrontation between a French aircraft and the Russian warship.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cz64lyn42dgo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-21",
-      "time": "19:18",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-21-af5826a7",
-      "headline": "Watch Texas police officer pull man from burning car",
-      "summary": "Bodycam and dashcam footage shows a police officer rescue a man seconds before his car was engulfed in flames in Texas.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/clyej920j5po?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-21",
-      "time": "13:01",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-21-5e78fd7d",
-      "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "12:48",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-21-b988b478",
@@ -1110,20 +1124,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-20-b7c28df2",
-      "headline": "Why are Ukraine's military recruiters facing violence in their own country?",
-      "summary": "The latest National Police Service report recorded more than 600 assaults on recruitment officers to date and warned that the aggression has become “increasingly threatening”.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c0kmjy02rxko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-20",
-      "time": "08:21",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-20-301231f4",
       "headline": "From hundreds to thousands: How India's 'cockroach' protest movement has grown",
       "summary": "BBC's Azadeh Moshiri reports as thousands attempt to march to India's parliament in support of the Cockroach Janta Party's demand for education reforms.",
@@ -1150,34 +1150,6 @@
       "time": "23:48",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-18-862657e7",
-      "headline": "Russians turn to cash, putting more strain on slowing wartime economy",
-      "summary": "Russians have been hit by mobile internet shutdowns and more businesses are seeking to dodge tax after more than four years of war with Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cglj255jk8ko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-18",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-17-4292a050",
-      "headline": "Seven Americans quarantining at Kenya Ebola facility after US travel ban, says aid group",
-      "summary": "Aid workers are first known people to quarantine at facility, which sparked huge opposition in Kenya Seven American aid workers who had been in Congo to fight the Ebola outbreak are quarantining at a new isolation facility in ⁠Kenya after the US government introduced travel ⁠restrictions, the head of a US charity ​employing them told Reuters.The aid workers are the first known people to quarantine at the facility, which has sparked huge oppositio",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/17/ebola-us-aid-workers-kenya",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-07-17",
-      "time": "12:17",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-07-17-dad1bfce",
