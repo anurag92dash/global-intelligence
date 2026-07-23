@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-23T03:42:10.933433+00:00",
-  "story_count": 90,
+  "updated": "2026-07-23T06:17:29.443008+00:00",
+  "story_count": 88,
   "source_count": 9,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-07-23",
       "time": "00:00",
       "conflict_id": null,
-      "score": 63.4
+      "score": 64.4
     },
     {
       "id": "2026-07-23-320ad9e2",
@@ -32,18 +32,18 @@
       "score": 60.0
     },
     {
-      "id": "2026-07-23-c4829f0f",
-      "headline": "US and Japan clash over meltdown liability in $40bn nuclear power deal",
-      "summary": "Project is part of Tokyo’s commitment to invest $550bn in return for lower tariffs",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4b9d0e1a-c423-4b14-a7fe-d4988e24c7c0?syn-25a6b1a6=1",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-07-23-0e5c32e8",
+      "headline": "Saudi Arabia and US agree to landmark nuclear deal for civilian purposes",
+      "summary": "The US and Saudi Arabia have agreed to a civilian nuclear deal allowing Riyadh to build nuclear reactors.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/saudi-arabia-and-us-agree-to-landmark-nuclear-deal-for-civilian-purposes?traffic_source=rss",
+      "region": "MENA",
+      "country": "Riyadh",
       "category": "geopolitics",
       "date": "2026-07-23",
-      "time": "01:37",
+      "time": "05:31",
       "conflict_id": null,
-      "score": 59.4
+      "score": 56.4
     },
     {
       "id": "2026-07-23-9d5bc56d",
@@ -69,9 +69,37 @@
       "country": "Saudi",
       "category": "geopolitics",
       "date": "2026-07-23",
-      "time": "03:16",
+      "time": "03:48",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
+    },
+    {
+      "id": "2026-07-23-95e4abc7",
+      "headline": "Iran-backed Houthis attack two Saudi Arabian oil tankers",
+      "summary": "Brent prices rise after Yemeni rebels say they hit the Encelia and the Layla",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 51.4
+    },
+    {
+      "id": "2026-07-23-a2dbb20d",
+      "headline": "Israel building earthen barrier in Gaza to entrench division of the enclave",
+      "summary": "The construction of the barrier has fuelled Palestinian fears that most of Gaza will never be relinquished by Israel.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/israel-building-earthen-barrier-in-gaza-to-entrench-division-of-the-enclave?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "05:15",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-07-23-97166c9e",
@@ -88,18 +116,60 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-23-755d65b5",
-      "headline": "Macquarie names banking head to succeed Wikramanayake as CEO",
-      "summary": "Greg Ward appointed to lead Australian investing giant",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/6df8a0ef-447f-43de-81a0-48db79498d93?syn-25a6b1a6=1",
-      "region": "APJ",
-      "country": "Australia",
+      "id": "2026-07-23-c10ecdda",
+      "headline": "Europe Today: Latvian PM Andris Kulbergs speaks exclusively to Euronews as Rubio meets Lavrov",
+      "summary": "Andris Kulbergs became Latvia's Prime Minister in May after the previous coalition government collapsed over its handling of stray drones. He speaks exclusively to Euronews as US Secretary of State, Marco Rubio, meets today Russian Foreign Minister Sergey Lavrov to discuss ending the war in Ukraine.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/23/europe-today-latvian-pm-andris-kulbergs-speaks-exclusively-to-euronews-as-rubio-meets-lavr",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-23",
-      "time": "00:11",
+      "time": "06:00",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-07-23-59880684",
+      "headline": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "06:15",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-23-91691cc7",
+      "headline": "US oil refineries run at breakneck speeds as wars choke fuel supplies",
+      "summary": "High utilisation rates create risks of outages at a time when fuel prices are already up sharply",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ecf9967d-de7f-405f-b746-f09a26f3a86a?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "04:00",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-07-23-74d5d1fc",
+      "headline": "China Curbs Loan Structure Widely Used by Distressed Developers",
+      "summary": "China is restricting real estate companies from using a popular offshore loan structure that has helped some of them weather the country’s property crisis, according to people familiar with the matter, adding to recent moves to strengthen oversight of overseas borrowing.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-curbs-loan-structure-used-distressed-developers",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "05:32",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-23-39b94886",
@@ -130,23 +200,121 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-23-5b3115f7",
-      "headline": "Tesla’s profits plunge as Musk’s carmaker uses discounts to boost sales",
-      "summary": "Capital expenditures more than doubled as company accelerates pivot to AI and robots",
+      "id": "2026-07-23-41433409",
+      "headline": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+      "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "05:46",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-23-0b8becae",
+      "headline": "Japan awakes",
+      "summary": "Why 1 per cent interest rates could shake everything up after a generation of deflation",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/dc5e629b-562c-41e3-8b89-350af6960adc?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
+      "url": "https://www.ft.com/content/397c04d8-db0f-4902-9ea0-269584f43697?syn-25a6b1a6=1",
+      "region": "APJ",
+      "country": "Japan",
       "category": "business",
       "date": "2026-07-23",
-      "time": "00:16",
+      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
     },
     {
-      "id": "2026-07-23-63475b38",
-      "headline": "Indonesian Stocks Set for Bull Market as Sentiment Improves",
-      "summary": "Indonesian stocks rallied, putting the benchmark on track to enter a bull market after an affirmed sovereign rating boosted sentiment and a sustained tech optimism fueled a regional rebound.",
+      "id": "2026-07-23-41b5dae1",
+      "headline": "Trump Media fast feed for president’s posts sparks Wall Street backlash",
+      "summary": "New venture has raised questions as financial firms decipher risk of paying for advanced access to market-moving feed",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/019ce313-00c5-4d7d-a26c-acd7250de84a?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-23-8c183f63",
+      "headline": "Hong Kong, Malaysia Collaborate to Broaden Cross-Market Access",
+      "summary": "Hong Kong and Malaysia will work together to expand access to capital and deepen cross-border participation in both markets as they look to attract more international investment.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/hong-kong-malaysia-collaborate-broaden-cross-market-access",
+      "region": "APJ",
+      "country": "Hong Kong",
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "05:33",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-de8c5e9f",
+      "headline": "Roche’s Second-Quarter Sales Held Back by Blockbuster Eye Drug",
+      "summary": "Roche Holding’s results showed a slower-than-expected recovery for eye blockbuster Vabysmo as investors look to a key new drug to power growth ahead.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/roche-second-quarter-sales-blockbuster-eye-drug",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "05:26",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-b1eed24a",
+      "headline": "China Bond Rally Shows Weak Economic Sentiment Before Politburo",
+      "summary": "China’s sovereign bonds are rallying once again as economic weakness, sliding stocks and expectations for greater monetary policy support revive demand for fixed-income assets.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-bond-rally-shows-weak-economic-sentiment-before-politburo",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "05:23",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-9e8c079c",
+      "headline": "India’s Top Asset Manager Said to Plan $200 Million Tech Fund",
+      "summary": "SBI Funds Management is planning its first technology-focused fund for private firms, people familiar with the matter said, as India’s largest asset manager follows rivals in bulking up in the fast-growing alternative investment fund industry.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/india-s-top-asset-manager-said-to-plan-200-million-tech-fund",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "05:07",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-f30532c9",
+      "headline": "BNP Paribas Stock Traders Ride Wall Street Rally With 43% Gain",
+      "summary": "BNP Paribas SA reported better-than-expected revenue and profit for the second quarter as its stock traders blew past analysts’ estimates.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/bnp-paribas-stock-traders-ride-wall-street-rally-with-43-gain",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-23",
+      "time": "05:02",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-9ff6c018",
+      "headline": "Indonesian Stocks Rise 20% From Low in June, Set for Bull Market",
+      "summary": "A rally in Indonesian stocks put the benchmark index on track for a bull market, helped by an investor rotation into laggards and an easing of concerns about the country’s fiscal health.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-23/indonesian-stocks-set-for-bull-market-as-sentiment-improves",
       "region": "APJ",
@@ -154,6 +322,34 @@
       "category": "business",
       "date": "2026-07-23",
       "time": "02:55",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-ed5cfeff",
+      "headline": "China’s Semight Is Said to Mull Hong Kong Listing After 2,200% Stock Rise",
+      "summary": "Semight Instruments Co. is considering a second listing in Hong Kong, people familiar with the matter said, after shares of the Chinese maker of test instruments for semiconductors surged roughly 2,200% since their debut in April.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-s-semight-is-said-to-mull-hong-kong-listing-after-2-200-stock-rise",
+      "region": "APJ",
+      "country": "Hong Kong",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "03:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-23-973d535f",
+      "headline": "China Solar Lobby Says Fewer Installs Mark Sustainable Shift",
+      "summary": "China’s solar lobby said the industry is on a more sustainable track, after a policy shift drove a 66% decline in installations in the first half of 2026.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-23/china-s-solar-plunge-is-return-to-rationalization-lobby-says",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "02:45",
       "conflict_id": null,
       "score": 26.1
     },
@@ -186,48 +382,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-23-993b507f",
-      "headline": "India Silver Imports Slump as New Licensing Disrupts Shipments",
-      "summary": "Silver imports into India have slowed sharply as a new licensing regime disrupted shipments, pushing local premiums to a multi-month high.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/india-silver-imports-slump-as-new-licensing-disrupts-shipments",
-      "region": "SA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "01:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-23-27ebacac",
-      "headline": "Aditya Birla Fund Manager Bets on Earnings Growth to Lift Stocks",
-      "summary": "Aditya Birla Sun Life Asset Management Co., one of India’s largest money managers, is betting on a recovery in corporate earnings to drive gains in the nation’s equity market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/aditya-birla-fund-manager-bets-on-earnings-growth-to-lift-stocks",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "01:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-23-61e42ae6",
-      "headline": "Yen’s Slump in Trade-Weighted Gauge Shows Its Broad-Based Drop",
-      "summary": "While the yen’s plunge to a four-decade low against the dollar has dominated headlines, a broader gauge of the currency’s strength is sending an equally worrying signal for Japan.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-23/yen-s-slump-in-trade-weighted-gauge-shows-its-broad-based-drop",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "00:39",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-23-bdd075df",
       "headline": "Republican Lawmaker Urges Charges Against Jack Smith",
       "summary": "The criminal referral could provide a catalyst for a prosecution of Mr. Smith, who as special counsel became a top target of the president’s retribution campaign.",
@@ -242,32 +396,60 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-23-813b5b9c",
-      "headline": "Australia news live: Husic says Labor must show ‘it’s got steel in the spine’ on gas export tax after PM resists policy change",
-      "summary": "Follow liveGet our breaking news email, free app or daily news podcastSelf-reported domestic violence incidents declining in NSW but deaths and hospitalisations fail to fallNew data shows self-reported domestic violence incidents in New South Wales have declined, but the number of women and children murdered or hospitalised in domestic and family violence incidents over the past eight years has not significantly budged.The decline in self-reporte",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/23/australia-news-live-china-penny-wong-asean-labor-conference-anthony-albanese-one-nation-pauline-hanson-ntwnfb",
+      "id": "2026-07-23-436016bf",
+      "headline": "Indian police accused of using pellet guns in crackdown on India’s protests",
+      "summary": "Videos emerge showing police using pellet guns on protesters India’s student protest movement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/indian-police-accused-of-using-pellet-guns-in-crackdown-on-indias-protests?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "05:25",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-07-23-f1e54128",
+      "headline": "Jailed opposition leader Ghannouchi faints in Tunisian prison due to heat",
+      "summary": "The incident was witnessed by the daughter of Ahmed Nejib Chebbi, another prominent political prisoner.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/23/jailed-opposition-leader-ghannouchi-faints-in-tunisian-prison-due-to-heat?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tunisia",
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "03:53",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-07-23-ba7eb159",
+      "headline": "Calls for Moroccan rapper’s release outside a Casablanca court",
+      "summary": "Protesters gathered outside a court in Casablanca, Morocco to demand the release of Moroccan rapper Mehdi El Youbi.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/23/calls-for-moroccan-rappers-release-outside-a-casablanca-court?traffic_source=rss",
+      "region": "MENA",
+      "country": "Morocco",
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "03:42",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-07-23-fc6af1a5",
+      "headline": "Australian tungsten miner gets billionaire backing as prices soar",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/commodities/australian-tungsten-miner-gets-billionaire-backing-as-prices-soar",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-07-23",
-      "time": "03:28",
+      "time": "",
       "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-23-11c420a4",
-      "headline": "US tariffs ‘strengthen’ Lula against Bolsonaro’s son in upcoming elections",
-      "summary": "With Lula polling ahead and tariffs squeezing Brazil&#039;s economy, the Bolsonaro family&#039;s Washington strategy is faltering.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/23/us-tariffs-strengthen-lula-against-bolsonaros-son-in-upcoming-elections?traffic_source=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-07-23",
-      "time": "01:20",
-      "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-07-23-0f66a72d",
@@ -312,18 +494,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-23-6fe8e3a0",
-      "headline": "Cathay Pacific flags first-half profit surge despite Mideast turmoil",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/transportation/cathay-pacific-flags-first-half-profit-surge-despite-mideast-turmoil",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
+      "id": "2026-07-23-50fefdfe",
+      "headline": "Cost of pay gap in the EU: Women earn €3,900 less than men a year",
+      "summary": "Women working in the EU lose €358 billion a year due to the gender pay gap, amounting to almost €3,900 per person, as several European countries missed the bloc's Pay Transparency Directive deadline.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/07/23/cost-of-pay-gap-in-the-eu-women-earn-3900-less-than-men-a-year",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
       "date": "2026-07-23",
-      "time": "",
+      "time": "05:00",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
       "id": "2026-07-22-46615108",
@@ -337,7 +519,21 @@
       "date": "2026-07-22",
       "time": "22:37",
       "conflict_id": null,
-      "score": 66.4
+      "score": 67.4
+    },
+    {
+      "id": "2026-07-22-f57ec7f9",
+      "headline": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
+      "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "23:05",
+      "conflict_id": null,
+      "score": 66.2
     },
     {
       "id": "2026-07-22-36ee7206",
@@ -354,32 +550,18 @@
       "score": 66.2
     },
     {
-      "id": "2026-07-22-f57ec7f9",
-      "headline": "With Saudi Deal, Trump Loosens Nuclear Standards for One Close Ally",
-      "summary": "Nuclear experts say it throws fuel on the smoldering fire of atomic proliferation, creating a destabilizing situation that could raise the risk of nuclear war.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-saudi-nuclear-standards.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "23:05",
-      "conflict_id": null,
-      "score": 65.2
-    },
-    {
       "id": "2026-07-22-270fbb13",
       "headline": "US launches new strikes as Iran warns of regional turmoil",
-      "summary": "Tehran&#039;s chief negotiator says if Iran&#039;s &#039;security is not ensured, no infrastructure will be safe&#039;.",
+      "summary": "Iran says two people killed and 11 wounded in a US missile attack on a major border crossing between Iran and Iraq.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/22/iran-warns-of-regional-turmoil-if-us-threats-and-attacks-do-not?traffic_source=rss",
       "region": "MENA",
-      "country": "Tehran",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-22",
       "time": "21:41",
       "conflict_id": null,
-      "score": 56.4
+      "score": 64.4
     },
     {
       "id": "2026-07-22-bc08a0ac",
@@ -396,20 +578,6 @@
       "score": 56.4
     },
     {
-      "id": "2026-07-22-e361e6cd",
-      "headline": "Iran warns Bulgaria over US aircraft deployment as US military 'stands ready to counter threats'",
-      "summary": "The warning follows a Bulgarian government proposal to temporarily deploy up to eight US aerial refuelling aircraft at Bezmer Air Base in the country’s southeast.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/22/iran-warns-bulgaria-over-us-aircraft-deployment-as-us-military-stands-ready-to-counter-thr",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "11:31",
-      "conflict_id": null,
-      "score": 53.0
-    },
-    {
       "id": "2026-07-22-e0fec3b9",
       "headline": "Zelenskyy under growing pressure to reinstate sacked defence minister",
       "summary": "Campaigners in Ukraine pledge to continue nationwide protests until Mykhailo Fedorov gets his job back Volodymyr Zelenskyy was under growing pressure to reinstate his sacked defence minister on Wednesday, after campaigners said they would continue indefinite nationwide protests until Mykhailo Fedorov got his job back.On Tuesday, Zelenskyy bowed to public demands by firing Ukraine’s commander-in-chief Oleksandr Syrskyi. He appointed Mykhailo Drapa",
@@ -422,20 +590,6 @@
       "time": "18:31",
       "conflict_id": "ukraine-war",
       "score": 52.0
-    },
-    {
-      "id": "2026-07-22-cdcedb7c",
-      "headline": "Key takeaways from Khalil al-Hayya’s first speech as Hamas leader",
-      "summary": "The newly appointed leader says Hamas would work to help the people of Gaza and achieve a united Palestinian state.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/key-takeaways-from-khalil-al-hayyas-first-speech-as-hamas-leader?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "18:43",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
     },
     {
       "id": "2026-07-22-f5a827a9",
@@ -522,34 +676,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-22-b91bcb71",
-      "headline": "Drones hit Wildberries warehouses in Russia for second week running",
-      "summary": "Fires broke out at Wildberries warehouse sites in Krasnodar and Stavropol after overnight drone attacks, injuring 15 people and forcing both facilities to suspend operations.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/22/russia-reports-fresh-drone-strikes-on-wildberries-logistics-hubs",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "12:56",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-07-22-59880684",
-      "headline": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
-      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "23:06",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-22-9d818a61",
       "headline": "British woman jailed for blackmail after accusing banker of rape in Hong Kong",
       "summary": "Isabel Rose was convicted of trying to extort £100,000 from the UK banker and perverting the course of justice.",
@@ -564,6 +690,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-22-7a1aa405",
+      "headline": "Google burning through cash with spiralling AI costs",
+      "summary": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "23:02",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-22-46f15c67",
       "headline": "India's Modi government under growing pressure as 'cockroach' protests intensify",
       "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
@@ -574,20 +714,6 @@
       "category": "politics",
       "date": "2026-07-22",
       "time": "08:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-22-92603886",
-      "headline": "Ukrainian drones hit Russian online giant retailer Wildberries for second time",
-      "summary": "Logistics hubs belonging to Wildberries in the Krasnodar and Stavropol regions were struck overnight.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c36de9n4pxpo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "14:52",
       "conflict_id": null,
       "score": 35.0
     },
@@ -618,6 +744,20 @@
       "time": "03:14",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-22-0246112a",
+      "headline": "Google burns through $6bn in cash as AI spending climbs again",
+      "summary": "Search giant says it will commit up to $205bn to AI investments in 2026",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-22",
+      "time": "22:39",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-07-22-c1491369",
@@ -662,34 +802,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-22-9b5034fd",
-      "headline": "Water cannon deployed at India education system protests",
-      "summary": "Indian police deployed water cannons in Raipur at student protests demanding the resignation of the education minister.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/water-cannon-deployed-at-india-education-system-protests?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "18:57",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-22-72a17376",
-      "headline": "Death toll from blast at Indian hydroelectric project rises to 20 people",
-      "summary": "Rescuers say flooding and toxic gas in the collapsed tunnel make it unlikely any remaining trapped workers survived.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/death-toll-from-blast-at-indian-hydroelectric-project-rises-to-20-people?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "18:40",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-07-22-2bcacc6e",
       "headline": "EU gives conditional green light to Paramount's Warner Bros. Discovery deal",
       "summary": "Paramount's bid still faces hurdles across the Atlantic after a federal judge in California ordered the companies to temporarily pause their merger this week.",
@@ -716,34 +828,6 @@
       "time": "14:45",
       "conflict_id": null,
       "score": 29.0
-    },
-    {
-      "id": "2026-07-22-1eb12273",
-      "headline": "French environment minister convinced to stay on after announcing resignation",
-      "summary": "Barbut had resigned earlier on Wednesday and criticized the government in a LinkedIn post, saying it had reneged on promises over an agricultural bill to reintroduce certain pesticides.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/22/french-environment-minister-convinced-to-stay-on-after-announcing-resignation",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "12:42",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-07-22-41433409",
-      "headline": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
-      "summary": "The killing of a dog and her puppies in Guangdong has sparked outrage inside and outside the country.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7wd3x420o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "22:03",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-22-31e50b56",
@@ -802,51 +886,9 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-22-0246112a",
-      "headline": "Google burns through $6bn in cash as AI spending climbs again",
-      "summary": "Search giant says it will commit up to $205bn to AI investments in 2026",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b02f972c-c764-4006-9377-42563d9d5530?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "22:39",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-22-b676be66",
-      "headline": "How long can China defy history and logic with its imbalances?",
-      "summary": "The country is demanding far too much of a world fixated on cheap consumer goods",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/af84b774-74c1-4ace-a328-e54c8f840fde",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "23:01",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-22-3a93269d",
-      "headline": "Mercedes risks US sales ban under Senate China bill",
-      "summary": "Commerce panel approves legislation barring companies with significant Chinese ownership from US market",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b7e572e2-ac26-4842-82ee-1c355ac7c848?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "20:34",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-07-22-daf68674",
       "headline": "Asian Shares Rise on Chipmakers, Brent Tops $96: Markets Wrap",
-      "summary": "Asian shares advanced as regional chipmakers climbed on expectations they will benefit from the billions of dollars flowing into the artificial intelligence buildout. Oil extended its recent rally.",
+      "summary": "Asian shares rose as regional chipmakers climbed on expectations they will benefit from billions of dollars flowing into the artificial intelligence buildout. Oil extended its recent rally.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -858,60 +900,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-22-d97459bb",
-      "headline": "JPY/USD: Why Is Japan Yen So Weak? Can Government Intervention Help Currency?",
-      "summary": "The yen’s weakness has become a growing issue for Japan’s policymakers, given its role in driving up import prices and household living costs.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/jpy-usd-why-is-japan-yen-so-weak-can-government-intervention-help-currency",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-07-22-6561cbc4",
+      "headline": "Trump’s Plan for Science: More Money for A.I., Less for Universities",
+      "summary": "Michael Kratsios, President Trump’s science adviser, proposed overhauling how the government funds research. Democrats said Mr. Trump’s actions had weakened science.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/22/us/politics/trump-research-funding-artificial-intelligence.html",
+      "region": "NA",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-07-22",
-      "time": "07:02",
+      "time": "22:30",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-2ff454b9",
-      "headline": "Nasdaq to Kick Off Tiny Companies Faster After SEC Approves Rule",
-      "summary": "Nasdaq Inc. will change its rules to make it easier to kick off flailing businesses as regulators zero in on wild market swings and allegations of manipulation that have plagued trading in so-called microcap stocks.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/nasdaq-to-kick-off-tiny-companies-faster-after-sec-approves-rule",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "23:53",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-164709da",
-      "headline": "Hong Kong’s Offshore Yuan Market Evolves Into Global Funding Hub",
-      "summary": "A record pile of yuan in Hong Kong is making its way to corporate loans while driving a surge in capital market activity, signaling that China’s drive to internationalize its currency is advancing.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/hong-kong-s-offshore-yuan-market-evolves-into-global-funding-hub",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "23:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-22-e552a0e6",
-      "headline": "Wall Street Banks Trading Parts of $35 Billion AI Chip Deal",
-      "summary": "Wall Street banks have started buying and selling an initial piece of a $35 billion financing package for Broadcom Inc. and Anthropic PBC’s AI infrastructure expansion, with the biggest private credit deal ever now being offered to a wider pool of investors.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/wall-street-banks-trading-parts-of-35-billion-ai-chip-deal",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "22:04",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-07-22-da3eae58",
@@ -956,51 +956,9 @@
       "score": 24.0
     },
     {
-      "id": "2026-07-22-03c4006b",
-      "headline": "India’s Rahul Gandhi speaks out after release",
-      "summary": "Indian opposition leader Rahul Gandhi has spoken out publicly for the first time since he was arrested during protests.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/22/indias-rahul-gandhi-speaks-out-after-release?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "20:59",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-22-98d9bb19",
-      "headline": "US regulators to weigh controversial peptides backed by RFK Jr",
-      "summary": "FDA has questioned the evidence as demand surges for the compounds promoted for sleep, muscle growth, and anti-ageing.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/us-regulators-to-weigh-controversial-peptides-backed-by-rfk-jr?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-22",
-      "time": "20:39",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-22-392b1d02",
-      "headline": "UN rights chief condemns Nicaragua’s decision to abolish elections",
-      "summary": "UN rights chief condemns worsening repression in Nicaragua, urging the restoration of freedoms and the rule of law.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/22/un-rights-chief-condemns-nicaraguas-decision-to-abolish-elections?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "20:07",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-07-22-58c380ca",
       "headline": "Germany's Europe minister on EU budget: 'Options are limited'",
-      "summary": "For senior German politician Gunther Krichbaum (CDU), Minister of State for Europe at the Foreign Office, the EU must now rethink and break new ground, both on enlargement and on the budget.",
+      "summary": "For leading German politician Gunther Krichbaum (CDU), Minister of State for Europe, it is time for the EU to rethink and seek new paths, on enlargement and the budget alike.",
       "source": "Euronews",
       "url": "http://www.euronews.com/my-europe/2026/07/22/germanys-europe-minister-on-eu-budget-options-are-limited",
       "region": "EU",
@@ -1023,7 +981,7 @@
       "date": "2026-07-21",
       "time": "16:10",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-07-21-52d98c60",
@@ -1050,6 +1008,20 @@
       "category": "geopolitics",
       "date": "2026-07-21",
       "time": "18:39",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-21-4807157a",
+      "headline": "Russian warship asked to 'clarify its intentions' off British coast",
+      "summary": "The BBC has received exclusive audio of the confrontation between a French aircraft and the Russian warship.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cz64lyn42dgo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-21",
+      "time": "19:18",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1121,7 +1093,7 @@
       "date": "2026-07-20",
       "time": "14:02",
       "conflict_id": "israel-hamas",
-      "score": 71.0
+      "score": 63.0
     },
     {
       "id": "2026-07-20-480621fe",
@@ -1164,20 +1136,6 @@
       "time": "08:41",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-20-3ac50b0b",
-      "headline": "Australia spent more than $9m for each asylum seeker held on Nauru last year – so why can’t they afford to buy food?",
-      "summary": "Many of the more than 100 people awaiting processing on the tiny Pacific island are skipping meals to make ends meet, a new survey has foundFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastMost refugees and asylum seekers held in Nauru’s detention centres say they cannot afford to buy enough food or access clean drinking water, despite the Australian government spending the equivalen",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/20/nauru-asylum-seeker-living-conditions-food-allowance-offshore-processing",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-07-20",
-      "time": "04:43",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-07-19-eb77e874",
@@ -1250,6 +1208,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-16-aab43dc7",
+      "headline": "US strikes oil tanker with missiles as it enforces new Iran blockade",
+      "summary": "The US military targeted an unladen oil tanker which it said was heading for the key Iranian oil terminal on Kharg island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqwkegqk0o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-16",
+      "time": "12:09",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-07-16-4b3c3d8a",
       "headline": "US launches fresh strikes on Iran as Trump warns Tehran it 'better behave'",
       "summary": "US President Donald Trump says he is yet to decide whether or not he will \"finish off\" Iran.",
@@ -1261,7 +1233,7 @@
       "date": "2026-07-16",
       "time": "04:06",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     }
   ]
 }
