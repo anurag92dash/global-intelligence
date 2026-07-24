@@ -1,11 +1,11 @@
 {
-  "updated": "2026-07-24T12:42:37.606153+00:00",
+  "updated": "2026-07-24T14:24:02.215592+00:00",
   "story_count": 90,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-07-24-b1c3fbbe",
-      "headline": "Four Palestinians and one Israeli killed in West Bank shooting",
+      "id": "2026-07-24-e92a1b05",
+      "headline": "Four Palestinians and two Israelis killed in West Bank shooting",
       "summary": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
@@ -13,9 +13,37 @@
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "12:06",
+      "time": "13:21",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
+    },
+    {
+      "id": "2026-07-24-d6778e86",
+      "headline": "Ukraine opens probe into defence event after deadly Russian strike",
+      "summary": "Rare daytime missile attack on Kyiv killed at least 10 people on Friday",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/07e6299e-816a-4d0f-a4be-a572723f9e52?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-24",
+      "time": "12:52",
+      "conflict_id": "ukraine-war",
+      "score": 62.4
+    },
+    {
+      "id": "2026-07-24-fe9b5596",
+      "headline": "Five killed in occupied West Bank after Israeli settlers attack",
+      "summary": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-24",
+      "time": "13:19",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
     },
     {
       "id": "2026-07-24-63b02cb6",
@@ -46,18 +74,18 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-24-6b9ae306",
-      "headline": "‘Collapsed’: Roadblocks, internet blackout leave Pakistani Kashmir in limbo",
-      "summary": "Residents describe mounting hardship, as internet restrictions and road closures stretch into second month before polls.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/24/collapsed-roadblocks-internet-blackout-leave-pakistani-kashmir-in-limbo?traffic_source=rss",
-      "region": "SA",
-      "country": "Pakistan",
+      "id": "2026-07-24-0c0348ed",
+      "headline": "Ukraine strikes on Russia’s ‘Amazon’ warehouses bring war closer to ordinary people",
+      "summary": "Kyiv’s attacks on Wildberries destroy billions of dollars worth of goods made, sold and bought by everyday RussiansStanding in front of a vast warehouse engulfed in flames outside Moscow, Tatyana Mikhailova watched as her entire stock of 4,000 fur coats, bought months in advance for the winter season, burned.“It’s not just a warehouse that’s burning,” Mikhailova said in a video she shared on Instagram. “It’s the time you’ve invested, the immense ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/24/ukraine-warehouse-strikes-wildberries-war-closer-ordinary-russians",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "06:01",
-      "conflict_id": "india-pakistan",
-      "score": 51.4
+      "time": "12:30",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
     },
     {
       "id": "2026-07-24-f0e1704e",
@@ -102,18 +130,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-24-c51b0a37",
-      "headline": "US hits 60 trading partners with new duties as Trump rebuilds tariff wall",
-      "summary": "Washington moves to reimpose 10 per cent duties after previous blanket levies were struck down by Supreme Court",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/078269b4-5518-4289-b90a-dd722fd7e703?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
+      "id": "2026-07-24-8c6d9dac",
+      "headline": "Ten killed in Russian attack near Kyiv",
+      "summary": "A rescue operation is under way following a deadly Russian missile strike just outside of the Ukrainian capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "12:30",
+      "time": "13:15",
       "conflict_id": null,
-      "score": 42.4
+      "score": 43.0
     },
     {
       "id": "2026-07-24-be66ba8d",
@@ -128,6 +156,20 @@
       "time": "00:04",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-07-24-13b7ae7c",
+      "headline": "Netanyahu orders 'firm' military action after deadly West Bank clash",
+      "summary": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "13:06",
+      "conflict_id": "israel-hamas",
+      "score": 41.0
     },
     {
       "id": "2026-07-24-6cd6e177",
@@ -158,20 +200,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-24-8e3bf67e",
-      "headline": "Major fire after Ukrainian strike on St Petersburg warehouse",
-      "summary": "A major fire broke out at a Wildberries e-commerce warehouse in St Petersburg after a Ukrainian drone attack.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/major-fire-after-ukrainian-strike-on-st-petersburg-warehouse?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "08:42",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-07-24-780b3374",
       "headline": "India’s ‘Cockroach’ leaders hold talks with gov’t as protests continue",
       "summary": "Cockroach Janta Party protesters have stressed their demonstrations will continue until their demands have been met.",
@@ -196,20 +224,6 @@
       "category": "geopolitics",
       "date": "2026-07-24",
       "time": "11:24",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-07-24-c6b598f4",
-      "headline": "Ukrainian drone strike ignites major blaze at Saint Petersburg warehouses",
-      "summary": "A Ukrainian drone strike sparked a major fire at a Wildberries warehouse near Saint Petersburg early on Thursday 24 July, sending thick smoke across the city and temporarily disrupting flights at Pulkovo Airport, according to Russian authorities.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/24/ukrainian-drone-strike-ignites-major-blaze-at-saint-petersburg-warehouses",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "08:55",
       "conflict_id": null,
       "score": 37.0
     },
@@ -256,16 +270,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-24-7aca1c93",
-      "headline": "Donald Trump hits Australian exports to US with new higher trade tariff over claims of ‘forced labour’",
-      "summary": "Australia’s trade minister, Don Farrell, says tariff regime is unjustified and inconsistent with free trade agreement with USFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastDonald Trump has hit Australian exports with new trade tariffs, claiming the country is not doing enough to combat forced labour, but the Albanese government has demanded he remove them immediately.The United Sta",
+      "id": "2026-07-24-3080826b",
+      "headline": "Poland’s main rightwing opposition splits after loyalty pledge ultimatum",
+      "summary": "Former prime minister Mateusz Morawiecki and allies say they were forced out over factional disagreements Poland’s main opposition Law and Justice (PiS) party has split, after former prime minister Mateusz Morawiecki and his allies said they were forced out over factional disagreements on policy direction ahead of next year’s parliamentary election.Speaking at a press conference, the party’s longtime leader, Jarosław Kaczyński, said dozens of mem",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/24/donald-trump-hits-australian-exports-to-us-with-new-higher-trade-tariff-over-claims-of-forced-labour",
-      "region": "NA",
-      "country": "United States",
-      "category": "business",
+      "url": "https://www.theguardian.com/world/2026/jul/24/poland-rightwing-opposition-splits-loyalty-pledge-ultimatum-mateusz-morawiecki",
+      "region": "EU",
+      "country": "Poland",
+      "category": "politics",
       "date": "2026-07-24",
-      "time": "07:04",
+      "time": "13:50",
       "conflict_id": null,
       "score": 32.0
     },
@@ -326,30 +340,16 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-24-a1f982b5",
-      "headline": "Trump rebuilds tariff wall with new rates on 60 countries",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/trump-rebuilds-tariff-wall-with-new-rates-on-60-countries",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-07-24-a6ded0eb",
-      "headline": "German Chancellor Friedrich Merz announces cabinet overhaul",
-      "summary": "Nina Warken is set to succeed Thorsten Frei (CDU) as head of the chancellery. Carsten Linnemann, who had been serving as the general secretary of Merz's CDU party, is then to take over Warken's role as health minister.",
+      "id": "2026-07-24-248ddfe7",
+      "headline": "Poland's opposition PiS splits ahead of crucial 2027 elections",
+      "summary": "PiS leader Jarosław Kaczyński announced that more than 30 MPs had left the party following a bitter power struggle with former Prime Minister Mateusz Morawiecki. It marks the biggest split in Poland's main opposition party in more than two decades.",
       "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/24/german-chancellor-friedrich-merz-announces-cabinet-overhaul",
+      "url": "http://www.euronews.com/my-europe/2026/07/24/polands-opposition-pis-splits-ahead-of-crucial-2027-elections",
       "region": "EU",
-      "country": null,
+      "country": "Poland",
       "category": "politics",
       "date": "2026-07-24",
-      "time": "09:20",
+      "time": "13:28",
       "conflict_id": null,
       "score": 29.0
     },
@@ -368,6 +368,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-24-ad3afaef",
+      "headline": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
+      "summary": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w2xnxe1qo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-24",
+      "time": "12:55",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-24-121db7a3",
       "headline": "What tariffs has Trump introduced and why?",
       "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
@@ -382,6 +396,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-24-63b215b1",
+      "headline": "Europe wins and Brazil loses in Trump tariff overhaul",
+      "summary": "Some countries are relatively better off but the reprieve may only be temporary",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/2ba28daf-2ceb-44bb-9330-7ec070fb2a80?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "12:38",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-07-24-4d1a38bd",
       "headline": "BP nears deal to sell solar business Lightsource to Kuwait-backed group",
       "summary": "Qualitas Energy and investment arm of sovereign wealth fund in advanced talks to purchase renewables business",
@@ -394,6 +422,62 @@
       "time": "12:32",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-24-6e619f28",
+      "headline": "Momentum Crash Hits YOLO Traders’ Returns by Most in Four Years",
+      "summary": "A rapid selloff in the high-flying momentum trade is wrecking the strategy’s staunchest bulls: Retail traders.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/momentum-crash-hits-yolo-traders-returns-by-most-in-four-years",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "12:20",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-24-7eb26a34",
+      "headline": "S&P 500 Steadies as Big Tech Selloff Eases, Oil Dips Below $100",
+      "summary": "The S&amp;P 500 Index was little changed Friday, steadying from the deepest one-day drop in a month, as Brent crude prices fell below $100 a barrel and the scale of the selloff in Big Tech shares eased up. Major indexes are still headed for weekly losses.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "12:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-24-54fc8760",
+      "headline": "Travelers Draws Wave of Bears as Stock Eyes Best Year Since 2000",
+      "summary": "The best year for Travelers Companies Inc. shares in more than 25 years has unleashed a bevy of downgrades as Wall Street bets that the stock’s gains have peaked.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/travelers-draws-wave-of-bears-as-stock-eyes-best-year-since-2000",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "11:10",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-24-917920ef",
+      "headline": "Gilts Caught Between Twin Risks From Burnham Debut and Oil Shock",
+      "summary": "Britain’s bond traders have spent Andy Burnham’s first week in office trying to price two different forces: the spending ambitions of his new government and the impact of oil prices hovering near $100 a barrel.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/gilts-caught-between-twin-risks-from-burnham-debut-and-oil-shock",
+      "region": "EU",
+      "country": "Britain",
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "12:44",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-24-5f5ef0cc",
@@ -438,32 +522,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-24-f8e7c4e5",
-      "headline": "Euronext Mulls Setting Up a Private Market to Rival the UK’s",
-      "summary": "Euronext NV is considering creating a market for private securities, potentially ramping up competition with the London Stock Exchange Group Plc as bourses seek to offer investors access to fast-growing private companies.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/euronext-mulls-setting-up-a-private-market-to-rival-the-uk-s",
-      "region": "EU",
+      "id": "2026-07-24-aa85ecb2",
+      "headline": "Teen Charged in Georgia School Shooting Changes Plea to Guilty",
+      "summary": "Colt Gray, 16, had been scheduled to go on trial in October. His change of plea took place at a hearing that pivoted immediately to sentencing.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/24/us/colt-gray-apalachee-high-school-shooting-guilty-plea.html",
+      "region": "NA",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-07-24",
-      "time": "09:55",
+      "time": "13:55",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-24-9d9ea966",
-      "headline": "BofA’s Raedler Says Investors Are Ignoring Stock-Market Risks",
-      "summary": "Stock markets are pricing in a scenario where everything goes right, leaving investors uncompensated for mounting risks, according to Sebastian Raedler, head of European equity strategy at Bank of America Corp.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/bofa-s-raedler-says-investors-are-ignoring-stock-market-risks",
-      "region": "EU",
-      "country": "America",
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "09:51",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-07-24-24443413",
@@ -522,9 +592,9 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-24-815cf05c",
-      "headline": "Gangs taking villages on Brazil-Peru border ‘hostage’, say Indigenous leaders",
-      "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western Amazon ForestIndigenous leaders on the Brazil-Peru border say their communities are being “taken hostage” by organised crime groups who are running rampant across the region, destroying Amazon Forest, building roads and trafficking drugs.Earlier this month, masked men armed with semi-automatic weapons entered homes in Apiwtxa, a village in the Kampa do Rio ",
+      "id": "2026-07-24-b572a46c",
+      "headline": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
+      "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western AmazonIndigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are running rampant across the region, destroying rainforest, building roads and trafficking drugs.Earlier this month, masked men armed with semi-automatic weapons entered homes in Apiwtxa, a village in the Kampa do R",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/environment/2026/jul/24/gangs-taking-villages-on-brazil-peru-border-hostage-say-indigenous-leaders",
       "region": "SA",
@@ -576,6 +646,34 @@
       "time": "08:26",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-07-24-4371fd62",
+      "headline": "Myanmar military clashes with rebels drop by half from peak",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/myanmar-military-clashes-with-rebels-drop-by-half-from-peak",
+      "region": "APJ",
+      "country": "Myanmar",
+      "category": "geopolitics",
+      "date": "2026-07-24",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-07-24-90165a8f",
+      "headline": "South Korea confronts 'growth without jobs' as chip profits surge",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/south-korea-confronts-growth-without-jobs-as-chip-profits-surge",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-24-7bdfa71a",
@@ -676,44 +774,16 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-24-bb7f6b38",
-      "headline": "Intel posts fastest revenue growth in 15 years on rising CPU demand",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/intel-posts-fastest-revenue-growth-in-15-years-on-rising-cpu-demand",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-07-24-2ba5fc9a",
-      "headline": "Are employers hiring for today's labour market or the one they already know?",
-      "summary": "Applications per role have roughly doubled since 2022, yet business leaders are telling me they can't find the talent they need. Something isn't adding up.",
+      "id": "2026-07-24-3ee37236",
+      "headline": "Armoured fighters storm Denmark’s Spøttrup Castle for IMCF world championship",
+      "summary": "Nearly 600 armoured fighters from 30 countries have gathered at Denmark's Spøttrup Castle for the International Medieval Combat Federation (IMCF) World Championship, turning one of Scandinavia's best-preserved medieval fortresses into an arena for full-contact historical combat.",
       "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/07/24/are-employers-hiring-for-todays-labour-market-or-the-one-they-already-know",
+      "url": "http://www.euronews.com/video/2026/07/24/armoured-fighters-storm-denmarks-spottrup-castle-for-imcf-world-championship",
       "region": "EU",
-      "country": null,
+      "country": "Denmark",
       "category": "business",
       "date": "2026-07-24",
-      "time": "11:36",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-07-24-babfdc31",
-      "headline": "Uzbek economy grows 8.5% as services and investment expand",
-      "summary": "Official figures presented at a presidential review showed investment reaching €24.6 billion and exports €12.7 billion in the first half of 2026, as Moody's upgraded Uzbekistan's sovereign credit rating and Fitch shifted its outlook to positive.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/24/uzbek-economy-grows-85-as-services-and-investment-expand",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "11:09",
+      "time": "12:46",
       "conflict_id": null,
       "score": 21.0
     },
@@ -774,20 +844,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-23-22909f07",
-      "headline": "CJP protest: The youth movement India's Modi didn't see coming",
-      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years  - why?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-23",
-      "time": "23:41",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-23-897440d5",
       "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
       "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
@@ -798,20 +854,6 @@
       "category": "geopolitics",
       "date": "2026-07-23",
       "time": "12:58",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-23-8df02454",
-      "headline": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
-      "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "04:49",
       "conflict_id": null,
       "score": 35.0
     },
@@ -830,6 +872,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-23-22909f07",
+      "headline": "CJP protest: The youth movement India's Modi didn't see coming",
+      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years  - why?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "23:41",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-23-e9dffe40",
       "headline": "What is the mosquito-borne disease Sri Lanka is using drones to fight?",
       "summary": "Dengue has killed 56 people and infected more than 77,000 in the South Asian nation this year.",
@@ -842,20 +898,6 @@
       "time": "06:24",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-23-414070c9",
-      "headline": "House Rebukes Trump on Iran in War Powers Vote as Senate Blocks Debate",
-      "summary": "For the second time, a few House Republicans joined Democrats to back a measure calling on the president to seek authorization for the war.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/23/us/politics/house-iran-war-powers-vote-trump.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-23",
-      "time": "18:17",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-07-23-39b94886",
@@ -1068,20 +1110,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-22-a7fa8bb5",
-      "headline": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
-      "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "21:33",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-22-f5a827a9",
       "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
@@ -1152,20 +1180,6 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-21-5e78fd7d",
-      "headline": "Dozens hurt in Bologna protests after man dies while being restrained by police",
-      "summary": "Thousands of people took to the streets demanding justice for a Moroccan-born man who died on Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c86nwgw148xo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "12:48",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-21-b988b478",
       "headline": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
       "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
@@ -1178,20 +1192,6 @@
       "time": "22:26",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-21-30b4ef84",
-      "headline": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets their energy and nutrient needs, and it will tak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-07-20-3be96178",
