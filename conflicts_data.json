@@ -10,11 +10,6 @@
     "last_activity": "2026-07-24",
     "recent_headlines": [
       {
-        "headline": "Ukraine opens probe into defence event after deadly Russian strike",
-        "source": "Financial Times",
-        "date": "2026-07-24"
-      },
-      {
         "headline": "At least 21 killed as Ukraine and Russia continue to trade attacks",
         "source": "Al Jazeera",
         "date": "2026-07-24"
@@ -23,6 +18,11 @@
         "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
         "source": "BBC News",
         "date": "2026-07-24"
+      },
+      {
+        "headline": "Ukraine's ousted defence minister insists on being reinstated",
+        "source": "BBC News",
+        "date": "2026-07-23"
       }
     ],
     "timeline": [
@@ -51,7 +51,7 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-07-24",
     "recent_headlines": [
       {
@@ -65,8 +65,8 @@
         "date": "2026-07-24"
       },
       {
-        "headline": "Israel launches clampdown after deadly clash in occupied West Bank",
-        "source": "Al Jazeera",
+        "headline": "Israel prepares ‘major’ West Bank operation after violent clash",
+        "source": "Financial Times",
         "date": "2026-07-24"
       }
     ],
@@ -137,6 +137,11 @@
       },
       {
         "headline": "Blocked by censors, China's animal lovers take fight against abuse offline and overseas",
+        "source": "BBC News",
+        "date": "2026-07-23"
+      },
+      {
+        "headline": "Nicaragua's legislature debates barring opposition from elections",
         "source": "BBC News",
         "date": "2026-07-23"
       }
