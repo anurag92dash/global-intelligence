@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-24T14:24:02.215592+00:00",
-  "story_count": 90,
+  "updated": "2026-07-24T15:50:07.154118+00:00",
+  "story_count": 87,
   "source_count": 10,
   "stories": [
     {
@@ -13,9 +13,9 @@
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "13:21",
+      "time": "15:36",
       "conflict_id": "israel-hamas",
-      "score": 71.0
+      "score": 63.0
     },
     {
       "id": "2026-07-24-d6778e86",
@@ -34,7 +34,7 @@
     {
       "id": "2026-07-24-fe9b5596",
       "headline": "Five killed in occupied West Bank after Israeli settlers attack",
-      "summary": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Till",
+      "summary": "Four Palestinians and one Israeli were killed in a shooting in the occupied West Bank village of Tal",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/video/newsfeed/2026/7/24/five-killed-in-occupied-west-bank-after-israeli-settlers-attack?traffic_source=rss",
       "region": "MENA",
@@ -46,23 +46,9 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-24-63b02cb6",
-      "headline": "At least 11 killed in Ukraine as Moscow and Kyiv continue to trade attacks",
-      "summary": "Six people also killed in Ukrainian attack on Russia’s Kirov, and Wildberries warehouses hit again.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "11:45",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
-    },
-    {
-      "id": "2026-07-24-8fe84deb",
-      "headline": "Four Palestinians killed as Israeli settlers raid occupied West Bank town",
-      "summary": "One Israeli was also killed near town of Tal in Nablus, according to Israel&#039;s Magen David Adom rescue services.",
+      "id": "2026-07-24-bee51e97",
+      "headline": "Israel launches clampdown after deadly clash in occupied West Bank",
+      "summary": "Israeli clampdown follows a clash between settlers and Palestinians which killed at least six people.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/7/24/four-palestinians-killed-as-israeli-settlers-raid-occupied-west-bank-town?traffic_source=rss",
       "region": "MENA",
@@ -74,18 +60,32 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-24-0c0348ed",
-      "headline": "Ukraine strikes on Russia’s ‘Amazon’ warehouses bring war closer to ordinary people",
-      "summary": "Kyiv’s attacks on Wildberries destroy billions of dollars worth of goods made, sold and bought by everyday RussiansStanding in front of a vast warehouse engulfed in flames outside Moscow, Tatyana Mikhailova watched as her entire stock of 4,000 fur coats, bought months in advance for the winter season, burned.“It’s not just a warehouse that’s burning,” Mikhailova said in a video she shared on Instagram. “It’s the time you’ve invested, the immense ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/24/ukraine-warehouse-strikes-wildberries-war-closer-ordinary-russians",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-07-24-80d2a1b8",
+      "headline": "Trump’s Saudi Deal Spurs Watchdog Interest in Nuclear Settlement",
+      "summary": "Donald Trump’s plans for a nuclear deal with Saudi Arabia are bringing tensions between US and South Korean reactor developers to the fore, surfacing details of a clash over market access that has garnered interest from regulators.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/trump-s-saudi-deal-spurs-watchdog-interest-in-nuclear-settlement",
+      "region": "NA",
+      "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "12:30",
-      "conflict_id": "ukraine-war",
-      "score": 52.0
+      "time": "15:04",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-07-24-13b7ae7c",
+      "headline": "Netanyahu orders 'firm' military action after deadly West Bank clash",
+      "summary": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "13:06",
+      "conflict_id": "israel-hamas",
+      "score": 49.0
     },
     {
       "id": "2026-07-24-f0e1704e",
@@ -130,20 +130,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-24-8c6d9dac",
-      "headline": "Ten killed in Russian attack near Kyiv",
-      "summary": "A rescue operation is under way following a deadly Russian missile strike just outside of the Ukrainian capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "13:15",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-07-24-be66ba8d",
       "headline": "A Fallen Soldier’s Angst, Love and Longing to Return Home From the Iran War",
       "summary": "Sgt. Michael Emmanuel Swinton was killed in recent days, one of 18 U.S. soldiers who have lost their lives since the beginning of the war in Iran.",
@@ -158,18 +144,32 @@
       "score": 41.2
     },
     {
-      "id": "2026-07-24-13b7ae7c",
-      "headline": "Netanyahu orders 'firm' military action after deadly West Bank clash",
-      "summary": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
-      "region": "EU",
-      "country": null,
+      "id": "2026-07-24-12d3148b",
+      "headline": "Australian households face prospect of interest rate hike and petrol prices rising above $2 a litre",
+      "summary": "Economists’ warning comes as escalating Middle East crisis pushes global crude oil back above $US100 a barrelGet our breaking news email, free app or daily news podcastAustralian households face the prospect of a Reserve Bank interest rate hike and petrol prices above $2 a litre over the coming weeks, economists warn, as the escalating Middle East crisis pushes global crude back above $US100 a barrel.Financial markets now see an even chance the R",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/25/australian-households-prospect-interest-rate-hike-petrol-prices-rising",
+      "region": "APJ",
+      "country": "Australia",
       "category": "business",
       "date": "2026-07-24",
-      "time": "13:06",
-      "conflict_id": "israel-hamas",
-      "score": 41.0
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-07-24-f37e29ff",
+      "headline": "At least 21 killed as Ukraine and Russia continue to trade attacks",
+      "summary": "Strikes target Ukrainian defence industry event, Russia’s Kirov, and more Wildberries warehouses.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/24/at-least-11-killed-in-ukraine-as-moscow-and-kyiv-continue-to-trade-attacks?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-24",
+      "time": "11:45",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-07-24-6cd6e177",
@@ -237,21 +237,35 @@
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "09:20",
+      "time": "15:22",
       "conflict_id": null,
       "score": 35.0
     },
     {
-      "id": "2026-07-24-b2a51f26",
-      "headline": "Watch: Wildfires rage across France and Spain",
-      "summary": "French authorities order evacuations in tourist hot spot, as Spain's government declares national emergency.",
+      "id": "2026-07-24-5788d3f7",
+      "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-24",
+      "time": "15:12",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-24-1a8f4fae",
+      "headline": "Watch: Wildfires rage across Spain and France",
+      "summary": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": "France",
       "category": "politics",
       "date": "2026-07-24",
-      "time": "10:02",
+      "time": "15:13",
       "conflict_id": null,
       "score": 35.0
     },
@@ -368,6 +382,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-24-bb832374",
+      "headline": "Nigeria's president approves largest military expansion in recent times",
+      "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-24",
+      "time": "15:22",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-07-24-ad3afaef",
       "headline": "Tanzanian lecturer arrested over anti-government protests charged with terrorism",
       "summary": "He is among more than 130 people detained over planned protests calling for democratic reforms.",
@@ -410,18 +438,46 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-24-4d1a38bd",
-      "headline": "BP nears deal to sell solar business Lightsource to Kuwait-backed group",
-      "summary": "Qualitas Energy and investment arm of sovereign wealth fund in advanced talks to purchase renewables business",
+      "id": "2026-07-24-97a729d3",
+      "headline": "Carmakers are the rare example of tariffs as the least bad option",
+      "summary": "Protectionism is rarely cost-free but the profitability of US auto groups shows why the allure of tariffs persists",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/b49cffde-6610-4b20-b1fa-da1cdbca9d5c?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Kuwait",
+      "url": "https://www.ft.com/content/a39adcc1-44fb-40e0-92b9-30d769f8e4ca?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
       "category": "business",
       "date": "2026-07-24",
-      "time": "12:32",
+      "time": "13:57",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-07-24-2a92a9f5",
+      "headline": "BlackRock Kicks Off $12.3 Billion Bond Sale for Meta Data Center",
+      "summary": "BlackRock Inc. began marketing $12.3 billion of high-grade bonds to fund a Meta Platforms Inc. data center project as investors grapple with concerns about excessive AI infrastructure spending.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/blackrock-kicks-off-12-3-billion-bond-sale-for-meta-data-center",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "13:09",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-24-cf246a31",
+      "headline": "Colombia Rations LNG on SPEC Port Shutdown; Business, Schools Urged to Go Remote",
+      "summary": "Colombia’s government is urging schools and businesses to operate remotely for several days starting next week as the nation braces for natural gas rationing during planned maintenance of its sole import terminal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/colombia-rations-lng-on-spec-port-shutdown-business-schools-urged-to-go-remote",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "14:52",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-24-6e619f28",
@@ -434,34 +490,6 @@
       "category": "business",
       "date": "2026-07-24",
       "time": "12:20",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-24-7eb26a34",
-      "headline": "S&P 500 Steadies as Big Tech Selloff Eases, Oil Dips Below $100",
-      "summary": "The S&amp;P 500 Index was little changed Friday, steadying from the deepest one-day drop in a month, as Brent crude prices fell below $100 a barrel and the scale of the selloff in Big Tech shares eased up. Major indexes are still headed for weekly losses.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "12:39",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-24-54fc8760",
-      "headline": "Travelers Draws Wave of Bears as Stock Eyes Best Year Since 2000",
-      "summary": "The best year for Travelers Companies Inc. shares in more than 25 years has unleashed a bevy of downgrades as Wall Street bets that the stock’s gains have peaked.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/travelers-draws-wave-of-bears-as-stock-eyes-best-year-since-2000",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "11:10",
       "conflict_id": null,
       "score": 26.1
     },
@@ -480,48 +508,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-24-5f5ef0cc",
-      "headline": "Oil Keeps Flowing From Red Sea as Hormuz Bypass Stays Open",
-      "summary": "Millions of barrels of Saudi Arabian crude are still being shipped from the nation’s Red Sea coast to the global market, despite threats and attacks by Yemen’s Houthi militants against the kingdom’s shipping that have the potential to further destabilize the global oil trade.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/tanker-exits-red-sea-dark-as-another-china-ship-heads-to-strait",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "06:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-24-1621e62c",
-      "headline": "Oil Tankers Run The Houthi Gauntlet to Keep Saudi Exports Flowing",
-      "summary": "Attacks on ships by the Yemeni rebels have slowed but not stopped Red Sea oil shipments",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-24/oil-tankers-run-the-houthi-gauntlet-to-keep-saudi-exports-flowing",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "11:45",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-24-eb6b8331",
-      "headline": "Dangote Targets $100 Billion Empire With Oil and Fertilizers",
-      "summary": "Aliko Dangote is betting that Africa’s largest refinery, the continent’s biggest cement producer and his fertilizer businesses will expand his empire fivefold to $100 billion by the end of the decade.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/dangote-targets-100-billion-empire-with-oil-and-fertilizers",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-24",
-      "time": "11:19",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-24-aa85ecb2",
       "headline": "Teen Charged in Georgia School Shooting Changes Plea to Guilty",
       "summary": "Colt Gray, 16, had been scheduled to go on trial in October. His change of plea took place at a hearing that pivoted immediately to sentencing.",
@@ -531,7 +517,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-07-24",
-      "time": "13:55",
+      "time": "14:55",
       "conflict_id": null,
       "score": 25.2
     },
@@ -592,6 +578,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-07-24-10219dfb",
+      "headline": "Kagan Says Supreme Court Has Stood Up to Trump in Key Cases",
+      "summary": "At an annual meeting of judges and lawyers, the liberal justice defended her conservative colleagues from criticism that they have rubber-stamped President Trump’s agenda.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/23/us/politics/elena-kagan-supreme-court-trump.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-24",
+      "time": "15:38",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-07-24-b572a46c",
       "headline": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
       "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western AmazonIndigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are running rampant across the region, destroying rainforest, building roads and trafficking drugs.Earlier this month, masked men armed with semi-automatic weapons entered homes in Apiwtxa, a village in the Kampa do R",
@@ -602,20 +602,6 @@
       "category": "geopolitics",
       "date": "2026-07-24",
       "time": "11:49",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-24-42d08052",
-      "headline": "Adelaide airport pulls ads from conservation groups but keeps gas and mining ads during ALP conference",
-      "summary": "Digital billboards from environmental groups, targeting Labor MPs attending national conference, cancelled with airport stating they are ‘too political’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastConservation groups have questioned why their advertisements targeting Labor politicians were pulled by Adelaide airport for breaking rules on political advertising while others promoti",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/24/adelaide-airport-cancels-environment-ads-keeps-gas-mining-advertisements",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-07-24",
-      "time": "04:36",
       "conflict_id": null,
       "score": 24.0
     },
@@ -760,20 +746,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-24-8ae74efc",
-      "headline": "Japanese satellite operator seeks Southeast Asia demand on China tensions",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/japanese-satellite-operator-seeks-southeast-asia-demand-on-china-tensions2",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-07-24-3ee37236",
       "headline": "Armoured fighters storm Denmark’s Spøttrup Castle for IMCF world championship",
       "summary": "Nearly 600 armoured fighters from 30 countries have gathered at Denmark's Spøttrup Castle for the International Medieval Combat Federation (IMCF) World Championship, turning one of Scandinavia's best-preserved medieval fortresses into an arena for full-contact historical combat.",
@@ -816,6 +788,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-23-897440d5",
+      "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
+      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "12:58",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-23-320ad9e2",
+      "headline": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "09:17",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-07-23-e1e7aba9",
       "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
       "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
@@ -844,30 +844,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-23-897440d5",
-      "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
+      "id": "2026-07-23-8df02454",
+      "headline": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Israel",
+      "url": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-23",
-      "time": "12:58",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-23-320ad9e2",
-      "headline": "US signs landmark nuclear deal with Saudi Arabia",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "09:17",
+      "time": "04:49",
       "conflict_id": null,
       "score": 35.0
     },
@@ -912,20 +898,6 @@
       "time": "02:13",
       "conflict_id": null,
       "score": 32.9
-    },
-    {
-      "id": "2026-07-23-4d6a18ca",
-      "headline": "Nicaragua's legislature debates barring opposition from elections",
-      "summary": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-23",
-      "time": "15:54",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-07-23-41433409",
@@ -1012,20 +984,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-22-9c599944",
-      "headline": "Mamdani backs off pledge to arrest Netanyahu citing lack of authority",
-      "summary": "The New York City mayor instead called on US authorities to act on International Criminal Court's arrest warrant against the Israeli prime minister.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c204p64pqzno?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "17:54",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-07-22-bfc7e6a2",
       "headline": "Watch: What we know about the US-Saudi nuclear deal",
       "summary": "The BBC's Sarah Smith explains the implications of the landmark cooperation agreement between both countries.",
@@ -1068,20 +1026,6 @@
       "score": 40.9
     },
     {
-      "id": "2026-07-22-f45a430b",
-      "headline": "Mamdani says New York doesn’t have authority to arrest Netanyahu, urges feds to act",
-      "summary": "The mayor had said the city might enforce a warrant against the Israeli leader, drawing Democratic criticism. On Tuesday, he urged the U.S. government to do so.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/07/22/mamdani-says-us-authorities-should-arrest-netanyahu-architect-horrific-genocide/",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "15:27",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
       "id": "2026-07-22-b579be7e",
       "headline": "Australia to warn China it won’t be bullied by ‘provocative‘ actions as it builds military and nuclear arsenal",
       "summary": "Foreign minister Penny Wong will deliver speech criticising China’s recent launch of a nuclear-capable submarine-launched missileGet our breaking news email, free app or daily news podcastPenny Wong will warn China that Australia and other neighbouring nations will not be bullied by its “provocative” actions, after its involvement in another “destabilising and dangerous” incident this week.The foreign affairs minister – who will deliver the addre",
@@ -1106,6 +1050,20 @@
       "category": "geopolitics",
       "date": "2026-07-22",
       "time": "15:19",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-22-a7fa8bb5",
+      "headline": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
+      "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "21:33",
       "conflict_id": null,
       "score": 35.0
     },
