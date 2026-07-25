@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-25T18:34:37.044469+00:00",
-  "story_count": 77,
-  "source_count": 10,
+  "updated": "2026-07-25T19:51:04.812155+00:00",
+  "story_count": 74,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-07-25-9cb8dc11",
@@ -30,20 +30,6 @@
       "time": "09:10",
       "conflict_id": "israel-hamas",
       "score": 59.4
-    },
-    {
-      "id": "2026-07-25-3a84faa4",
-      "headline": "India’s ‘Cockroach’ youth call off protests after education minister quits",
-      "summary": "Youth protesters agree to end agitation after Dharmendra Pradhan resigns over a series of exam paper leaks.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/indias-education-minister-resigns-after-weeks-of-cockroach-protests?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "08:54",
-      "conflict_id": null,
-      "score": 56.4
     },
     {
       "id": "2026-07-25-84de69e6",
@@ -116,48 +102,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-07-25-130ec624",
-      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "13:51",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-25-de50538f",
-      "headline": "India's 'cockroach' protest called off after education minister quits",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "17:44",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-25-078aae35",
-      "headline": "Protesters celebrate resignation of India's education minister",
-      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "13:44",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-07-25-d9bb18a6",
       "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
       "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
@@ -170,20 +114,6 @@
       "time": "02:29",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-07-25-c28e01d3",
-      "headline": "Trump attacks journalists at awkward White House press dinner",
-      "summary": "Many of the president’s jokes met stony silence at rescheduled event",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "03:54",
-      "conflict_id": null,
-      "score": 50.4
     },
     {
       "id": "2026-07-25-e8a417ae",
@@ -200,18 +130,60 @@
       "score": 48.0
     },
     {
-      "id": "2026-07-25-eb5d15b9",
-      "headline": "Trump returns to White House Correspondents' Dinner after April shooting",
-      "summary": "The president appeared to be in good spirits throughout the evening and joked about a third term in office.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting",
+      "id": "2026-07-25-130ec624",
+      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "White House",
+      "category": "business",
+      "date": "2026-07-25",
+      "time": "13:51",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-25-de50538f",
+      "headline": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
       "category": "politics",
       "date": "2026-07-25",
-      "time": "08:39",
+      "time": "17:44",
       "conflict_id": null,
-      "score": 45.0
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-25-078aae35",
+      "headline": "Protesters celebrate resignation of India's education minister",
+      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-25",
+      "time": "13:44",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-25-41427aa6",
+      "headline": "Military Families Express Outrage After Pentagon Lowers Number of U.S. Troop Deaths in Iran War",
+      "summary": "The change in the number to 14 from 18 this week has prompted scrutiny over the Defense Department’s accounting and reporting practices.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html",
+      "region": "NA",
+      "country": "Pentagon",
+      "category": "geopolitics",
+      "date": "2026-07-25",
+      "time": "18:34",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-07-25-c7f73d1c",
@@ -226,6 +198,20 @@
       "time": "16:47",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-07-25-eb5d15b9",
+      "headline": "Trump returns to White House Correspondents' Dinner after April shooting",
+      "summary": "The president appeared to be in good spirits throughout the evening and joked about a third term in office.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-07-25",
+      "time": "08:39",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-07-25-daa7f0eb",
@@ -298,20 +284,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-25-bfe7933f",
-      "headline": "India Flags Attack on LPG Tanker in Iran Waters, Says Crew Safe",
-      "summary": "India’s embassy in Tehran said it is in close contact with authorities after a liquefied petroleum gas tanker, with 28 Indian crew members onboard, came under attack in Iranian territorial waters on Friday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/india-flags-attack-on-lpg-tanker-in-iran-waters-says-crew-safe",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "03:31",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-07-25-646c6ef0",
       "headline": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
       "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
@@ -354,6 +326,34 @@
       "score": 32.9
     },
     {
+      "id": "2026-07-25-b53a5740",
+      "headline": "Ebola deaths in DRC surge past 1,300 as virus ‘spreading like a wildfire’",
+      "summary": "The outbreak is spreading at the fastest rate ever recorded and threatens to become the worst in history.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/ebola-deaths-in-drc-surge-past-1300-as-virus-spreading-like-a-wildfire?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-25",
+      "time": "18:28",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-25-bd2771de",
+      "headline": "How Netanyahu gov’t media reforms risk deepening Israeli press bias",
+      "summary": "Critics decry Israel&#039;s sweeping media reforms, warning of further risks to press freedom and election integrity.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/how-netanyahu-govt-media-reforms-risk-deepening-israeli-press-bias?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-25",
+      "time": "18:14",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-25-911b5809",
       "headline": "Investors increase bets on Federal Reserve rate rise after oil price surge",
       "summary": "Sharp increase in energy prices means next week’s US central bank meeting is ‘live’, investors say",
@@ -382,76 +382,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-25-7a69096e",
-      "headline": "The ‘Trump Trade’ Is Turning Into a Loser in the Stock Market",
-      "summary": "When Donald Trump was elected to a second term as president, amateur and professional traders alike rushed to identify which stocks would benefit from his aggressive economic policies.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/the-trump-trade-is-turning-into-a-loser-in-the-stock-market",
-      "region": "EU",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-25-fb9979d7",
-      "headline": "Austin’s Mayor Tackles Housing Affordability, and Canada Faces New Tariffs",
-      "summary": "Former trade negotiator says don’t underestimate Canada’s ire",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-25/austin-s-mayor-tackles-housing-affordability-and-canada-faces-new-tariffs",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-25-c3f6b515",
-      "headline": "Big Tech Debt Flood Is Taking Over Risk In Market: Credit Weekly",
-      "summary": "Big Tech’s insatiable appetite for AI investment is unleashing a relentless wave of bond sales — and having a bigger impact on the US corporate bond market than might be obvious.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/big-tech-debt-flood-is-taking-over-risk-in-market-credit-weekly",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-25-5bf38e0f",
-      "headline": "Japan’s Seven & i Abandons Investment Talks With Poland’s Zabka",
-      "summary": "Japan’s Seven &amp; i Holdings Co. has ended talks over a potential investment in Zabka Group SA, Poland’s largest convenience store operator, even as it continues to look for expansion opportunities beyond its home market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/seven-i-abandons-investment-talks-with-poland-s-zabka-group",
-      "region": "EU",
-      "country": "Poland",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "01:24",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-25-2a01fd8c",
-      "headline": "Europe’s Stock Market Rally Is the Most Concentrated in Years",
-      "summary": "The European equity market has long been seen as immune to shocks driven by only a handful of stocks. A narrow rally in 2026 has completely flipped that script.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/europe-s-stock-market-rally-is-the-most-concentrated-in-years",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "07:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-25-e1f4914e",
       "headline": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
       "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.",
@@ -461,7 +391,21 @@
       "country": "NATO",
       "category": "politics",
       "date": "2026-07-25",
-      "time": "17:08",
+      "time": "19:03",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-25-26dc460f",
+      "headline": "Utah, Known for Big Families, Leads the U.S. in Dropping Birthrates",
+      "summary": "Forget tradwives. When it comes to plummeting fertility rates, Utah is leading the country.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/utah-birth-rate-fertility-decline.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-25",
+      "time": "12:24",
       "conflict_id": null,
       "score": 25.2
     },
@@ -648,18 +592,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-24-9473589e",
-      "headline": "Nasdaq 100 Tumbles as Oil Spike, AI Jitters Hit Tech Stocks",
-      "summary": "The Nasdaq 100 Index tumbled Friday, capping its first back-to-back weekly loss since late March as it was dragged down by the oil-price spike and a selloff in the tech stocks that once surged on the back of the AI investment boom.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-24/s-p-500-futures-steady-as-big-tech-rebounds-oil-dips-below-100",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "id": "2026-07-24-e3a3bd03",
+      "headline": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "summary": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
       "date": "2026-07-24",
-      "time": "12:39",
+      "time": "16:12",
       "conflict_id": null,
-      "score": 34.1
+      "score": 35.0
     },
     {
       "id": "2026-07-24-cf7cd02c",
@@ -674,6 +618,20 @@
       "time": "20:19",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-07-24-403b5c7f",
+      "headline": "Trump swings back toward diplomacy in escalating war with Iran",
+      "summary": "After threatening a “massive attack,” the president said his envoys were talking with Tehran but left open the possibility of a sharp military escalation.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/24/trump-swings-back-toward-diplomacy-escalating-iran-war/",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-24",
+      "time": "22:35",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-07-24-ccb02b59",
@@ -760,6 +718,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-24-6139de50",
+      "headline": "US tech groups cut 140,000 jobs despite AI spending boom",
+      "summary": "Investment spree is reshaping Silicon Valley while wider US jobs market holds steady",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/96a33881-27fd-42cf-8cff-4cbc87fc835f?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-07-24-b572a46c",
       "headline": "Masked men invading and taking Amazon communities ‘hostage’ in organised crime surge, say local leaders",
       "summary": "Delegation sent to Brasília after gunmen from organised crime group enter homes in western AmazonIndigenous leaders on the Brazilian-Peruvian border have said their communities are being “taken hostage” by organised crime groups who are running rampant across the region, destroying rainforest, building roads and trafficking drugs.Earlier this month, masked men armed with semi-automatic weapons entered homes in Apiwtxa, a village in the Kampa do R",
@@ -786,20 +758,6 @@
       "time": "17:37",
       "conflict_id": "ukraine-war",
       "score": 47.0
-    },
-    {
-      "id": "2026-07-23-fe79304a",
-      "headline": "Oil prices hit $100 for the first time since May",
-      "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "15:31",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-07-23-e1e7aba9",
@@ -844,6 +802,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-07-23-fe79304a",
+      "headline": "Oil prices hit $100 for the first time since May",
+      "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "15:31",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-23-320ad9e2",
       "headline": "US signs landmark nuclear deal with Saudi Arabia",
       "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
@@ -854,20 +826,6 @@
       "category": "geopolitics",
       "date": "2026-07-23",
       "time": "09:17",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-23-6951a144",
-      "headline": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "16:50",
       "conflict_id": null,
       "score": 35.0
     },
@@ -914,20 +872,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-22-46f15c67",
-      "headline": "India's Modi government under growing pressure as 'cockroach' protests intensify",
-      "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "08:02",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-07-22-f5a827a9",
       "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
@@ -938,6 +882,20 @@
       "category": "geopolitics",
       "date": "2026-07-22",
       "time": "02:15",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-07-22-46f15c67",
+      "headline": "India's Modi government under growing pressure as 'cockroach' protests intensify",
+      "summary": "The CJP got a boost on Tuesday when the opposition Congress party demonstrated outside the PM's house.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8p88lyjdo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-07-22",
+      "time": "08:02",
       "conflict_id": null,
       "score": 43.0
     },
