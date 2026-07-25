@@ -1,8 +1,36 @@
 {
-  "updated": "2026-07-25T04:23:26.145241+00:00",
+  "updated": "2026-07-25T06:34:56.675248+00:00",
   "story_count": 80,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-25-9cb8dc11",
+      "headline": "Zelenskyy warns of 'massive' Russian attack within 48 hours",
+      "summary": "On Friday, Ukrainian authorities said Russian missile strikes on the Kyiv region killed at least 10 people and injured around 100 more.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/25/zelenskyy-warns-of-massive-russian-attack-within-48-hours",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-25",
+      "time": "05:51",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-07-25-75f40a28",
+      "headline": "Funerals held for four Palestinians killed in deadly West Bank shooting",
+      "summary": "Overnight funerals were held for four Palestinians killed near Nablus.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/funerals-held-for-four-palestinians-killed-in-deadly-west-bank-shooting?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-25",
+      "time": "04:29",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
     {
       "id": "2026-07-25-74e74ad4",
       "headline": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
@@ -16,6 +44,34 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 56.4
+    },
+    {
+      "id": "2026-07-25-130ec624",
+      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-07-25",
+      "time": "05:12",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-07-25-c28e01d3",
+      "headline": "Trump attacks journalists at awkward White House press dinner",
+      "summary": "Many of the president’s jokes met stony silence at rescheduled event",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-07-25",
+      "time": "03:54",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-07-25-d9bb18a6",
@@ -32,6 +88,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-25-f768aeec",
+      "headline": "‘The show must go on’: Trump returns to rescheduled White House press gala",
+      "summary": "US president makes jokes, mocks opponents at correspondents&#039; dinner that was halted by a shooting in April.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-07-25",
+      "time": "02:59",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-07-25-daa7f0eb",
+      "headline": "Tunisia marks Saied's emergency measures anniversary amid deadly power crisis",
+      "summary": "Between 150 and 200 people are reported dead after more than a week of blackouts during an exceptional heatwave, as Tunisia marks five years since President Kais Saied suspended parliament and concentrated power in the presidency. The authorities have not confirmed the death toll.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/25/tunisia-marks-saieds-emergency-measures-anniversary-amid-deadly-power-crisis",
+      "region": "MENA",
+      "country": "Tunisia",
+      "category": "politics",
+      "date": "2026-07-25",
+      "time": "05:30",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-07-25-5788d3f7",
       "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
@@ -42,20 +126,6 @@
       "category": "geopolitics",
       "date": "2026-07-25",
       "time": "00:06",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-25-d7322b34",
-      "headline": "Trump pokes fun at press during White House Correspondents' Dinner",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "04:17",
       "conflict_id": null,
       "score": 35.0
     },
@@ -88,6 +158,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-07-25-c7f73d1c",
+      "headline": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
+      "summary": "President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/25/us/politics/is-this-supposed-to-be-fun-trump-hurls-insults-at-correspondents-dinner.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-25",
+      "time": "04:25",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-07-25-c3629894",
       "headline": "Trump Switched to Old Air Force One at NATO Summit After Credible Iranian Threat",
       "summary": "The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.",
@@ -102,20 +186,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-25-f768aeec",
-      "headline": "‘The show must go on’: Trump returns to rescheduled White House press gala",
-      "summary": "US president makes jokes, mocks opponents at correspondents&#039; dinner that was halted by a shooting in April.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/25/the-show-must-go-on-trump-returns-to-rescheduled-white-house-press-gala?traffic_source=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "02:59",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-07-25-3136803e",
       "headline": "Asian economies question basis for Trump's 'forced labor' tariffs",
       "summary": "",
@@ -128,20 +198,6 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
-    },
-    {
-      "id": "2026-07-25-7b3180f7",
-      "headline": "Trump turns media dinner into cringe-inducing roast of his enemies",
-      "summary": "Many of the president’s jokes were met with stony silence at a rescheduled White House Correspondents’ Dinner",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ec1e3131-525e-4577-b981-e9b763928e9b?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "03:54",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-07-25-f28ebc07",
@@ -170,6 +226,20 @@
       "time": "00:31",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-07-25-5e098d8d",
+      "headline": "China's cleaning robots mop up 70% of global share through innovation",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/business-trends/china-s-cleaning-robots-mop-up-70-of-global-share-through-innovation",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-25",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-25-74612d1a",
@@ -267,35 +337,7 @@
       "date": "2026-07-24",
       "time": "22:49",
       "conflict_id": "israel-hamas",
-      "score": 55.0
-    },
-    {
-      "id": "2026-07-24-fbafc0be",
-      "headline": "Trump vows to investigate EU over fining of US tech companies",
-      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-24",
-      "time": "20:23",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-07-24-482c1551",
-      "headline": "Paramount agrees extensive delay in Warner Bros deal after states’ lawsuit",
-      "summary": "Media groups freeze merger until as late as June 2027 as court weighs objections to tie-up",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/95cad892-7933-441a-bc82-c39b1a225835?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "21:26",
-      "conflict_id": null,
-      "score": 50.4
+      "score": 63.0
     },
     {
       "id": "2026-07-24-967719ac",
@@ -326,34 +368,6 @@
       "score": 49.2
     },
     {
-      "id": "2026-07-24-7aca1c93",
-      "headline": "Donald Trump hits Australian exports to US with new higher trade tariff over claims of ‘forced labour’",
-      "summary": "Australia’s trade minister, Don Farrell, says tariff regime is unjustified and inconsistent with free trade agreement with USFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastDonald Trump has hit Australian exports with new trade tariffs, claiming the country is not doing enough to combat forced labour, but the Albanese government has demanded he remove them immediately.The United Sta",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/24/donald-trump-hits-australian-exports-to-us-with-new-higher-trade-tariff-over-claims-of-forced-labour",
-      "region": "NA",
-      "country": "United States",
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "07:04",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-07-24-91b54250",
-      "headline": "Paramount agrees to pause Warner Bros deal while court case plays out",
-      "summary": "The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "21:27",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-07-24-e27c4739",
       "headline": "Wildfires trigger mass evacuations across France and Spain",
       "summary": "French forces have joined operations near Bordeaux after blazes forced 110,000 to flee the south-west. In Spain, military units are leading efforts under a national emergency as merged fires near Madrid and Ávila displaced or confined 60,000 people.",
@@ -368,18 +382,18 @@
       "score": 45.0
     },
     {
-      "id": "2026-07-24-85a5436a",
-      "headline": "US launches trade probe into EU over big tech fines",
-      "summary": "President Donald Trump announced a trade probe into the EU, accusing the bloc of unfairly targeting U.S. tech giants, a day after Google was hit with a €890 million antitrust fine.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/24/eu-seeks-dialogue-with-us-as-tensions-rise-after-google-fine",
+      "id": "2026-07-24-fbafc0be",
+      "headline": "Trump vows to investigate EU over fining of US tech companies",
+      "summary": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-24",
-      "time": "13:03",
+      "time": "20:23",
       "conflict_id": null,
-      "score": 45.0
+      "score": 43.0
     },
     {
       "id": "2026-07-24-0cd8b310",
@@ -410,6 +424,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-24-f6e66b37",
+      "headline": "Trump threatens new EU tariffs in retaliation for fines on US tech groups",
+      "summary": "President says Washington will launch new probe into the bloc that could sharpen trade tensions",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9b819dfc-8248-4aa5-b670-3a14d05f252e?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-07-24",
+      "time": "18:21",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
       "id": "2026-07-24-84c9894a",
       "headline": "Trump and Zelenskyy to meet in Washington next week",
       "summary": "Kyiv did not immediately confirm whether President Volodymyr Zelenskyy will meet President Donald Trump in Washington next week or attend the funeral of Senator Lindsey Graham",
@@ -421,20 +449,6 @@
       "date": "2026-07-24",
       "time": "18:19",
       "conflict_id": "ukraine-war",
-      "score": 41.0
-    },
-    {
-      "id": "2026-07-24-13b7ae7c",
-      "headline": "Netanyahu orders 'firm' military action after deadly West Bank clash",
-      "summary": "Netanyahu said he had ordered the IDF to \"accelerate the legalisation of existing farms and the establishment of new ones\" after the incident around the village of Tell.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/24/netanyahu-orders-firm-military-action-after-deadly-west-bank-clash",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "13:06",
-      "conflict_id": "israel-hamas",
       "score": 41.0
     },
     {
@@ -480,16 +494,16 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-24-6d132684",
-      "headline": "US small businesses challenge Trump’s new forced labour tariffs",
-      "summary": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
+      "id": "2026-07-24-91b54250",
+      "headline": "Paramount agrees to pause Warner Bros deal while court case plays out",
+      "summary": "The delay, filed in court on Friday, can cost Paramount $1.7bn in fees if the deal is not closed by next June.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/paramount-agrees-to-pause-warner-bros-deal-while-court-case-plays-out?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "20:49",
+      "time": "21:27",
       "conflict_id": null,
       "score": 39.4
     },
@@ -508,16 +522,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-24-efed094b",
-      "headline": "US and Iran trade more strikes in Gulf as fears of escalation mount",
-      "summary": "It comes as Iran condemned the US plan to use frozen Iranian assets to pay for war damages.",
+      "id": "2026-07-24-e9f562c9",
+      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
+      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c05ql5llj4do?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
+      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-24",
-      "time": "18:13",
+      "time": "23:11",
       "conflict_id": null,
       "score": 35.0
     },
@@ -534,34 +548,6 @@
       "time": "11:53",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-24-e9f562c9",
-      "headline": "Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-      "summary": "Hugging Face said the hack was done at superhuman speed by an AI with little or no human guidance.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "23:11",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-24-85b094fc",
-      "headline": "ICC ousts chief prosecutor Karim Khan after misconduct probe",
-      "summary": "Member nations vote to remove him after allegations of sexual misconduct, which he has denied",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/b99f3302-1c83-4acb-b8e4-28a880c1339a?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-24",
-      "time": "21:59",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-07-24-9473589e",
@@ -620,18 +606,18 @@
       "score": 32.9
     },
     {
-      "id": "2026-07-24-070bfa20",
-      "headline": "ICC chief prosecutor removed from post over sexual misconduct allegations",
-      "summary": "By a large majority, the International Criminal Court’s (ICC) 125 member states voted to remove Chief Prosecutor Karim Khan over sexual misconduct allegations, which he has consistently denied. The decision marks the first time an ICC chief prosecutor has ever been removed from office",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/24/icc-chief-prosecutor-removed-from-post-over-sexual-misconduct-allegations",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
+      "id": "2026-07-24-6d132684",
+      "headline": "US small businesses challenge Trump’s new forced labour tariffs",
+      "summary": "In lawsuit on Friday, two small businesses said latest round of tariffs on 60 countries needs to be legally justified.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/7/24/us-small-businesses-challenge-trumps-new-forced-labor-tariffs?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
       "date": "2026-07-24",
-      "time": "19:12",
+      "time": "20:49",
       "conflict_id": null,
-      "score": 29.0
+      "score": 31.4
     },
     {
       "id": "2026-07-24-0b1dabf6",
@@ -644,6 +630,20 @@
       "category": "business",
       "date": "2026-07-24",
       "time": "12:40",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-24-bb832374",
+      "headline": "Nigeria's president approves largest military expansion in recent times",
+      "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-24",
+      "time": "15:22",
       "conflict_id": null,
       "score": 27.0
     },
@@ -704,6 +704,34 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-24-d1b7806b",
+      "headline": "India's 'cockroach' protesters hold talks with government as stalemate continues",
+      "summary": "The meeting came hours after activist Sonam Wangchuk announced he was ending his 26-day hunger strike.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx4x04yqzo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-24",
+      "time": "10:31",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-24-17f942ab",
+      "headline": "Vitol Paid Out $5.9 Billion to Traders as Profit Halved in 2025",
+      "summary": "Commodity trading giant Vitol Group paid out $5.9 billion to its executives and senior staff through share buybacks last year, even as its profits more than halved to $4.2 billion.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-24/vitol-paid-out-5-9-billion-to-traders-as-profit-halved-in-2025",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-24",
+      "time": "20:54",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-24-cf246a31",
       "headline": "Colombia Rations LNG on SPEC Port Shutdown; Business, Schools Urged to Go Remote",
       "summary": "Colombia’s government is urging schools and businesses to operate remotely for several days starting next week as the nation braces for natural gas rationing during planned maintenance of its sole import terminal.",
@@ -746,34 +774,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-24-e5bce20f",
-      "headline": "Who is Afrah al-Zouba, Yemen’s first female foreign minister?",
-      "summary": "In a historic first, Afrah al-Zouba was appointed Yemeni foreign minister on July 23.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/24/who-is-afrah-al-zouba-yemens-first-female-foreign-minister?traffic_source=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "politics",
-      "date": "2026-07-24",
-      "time": "20:18",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-07-24-3ee37236",
-      "headline": "Armoured fighters storm Denmark’s Spøttrup Castle for IMCF world championship",
-      "summary": "Nearly 600 armoured fighters from 30 countries have gathered at Denmark's Spøttrup Castle for the International Medieval Combat Federation (IMCF) World Championship, turning one of Scandinavia's best-preserved medieval fortresses into an arena for full-contact historical combat.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/24/armoured-fighters-storm-denmarks-spottrup-castle-for-imcf-world-championship",
-      "region": "EU",
-      "country": "Denmark",
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "12:46",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-07-23-e3cb0fe4",
       "headline": "Ukraine's ousted defence minister insists on being reinstated",
       "summary": "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues.",
@@ -802,20 +802,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-23-897440d5",
-      "headline": "Trump's nuclear deal with Saudis jettisons longstanding US demands",
-      "summary": "Signing a nuclear pact in the Middle East is a bold move that has drawn criticism in the US and in Israel.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz05lx0xpero?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "12:58",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-23-8df02454",
       "headline": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
       "summary": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
@@ -840,6 +826,20 @@
       "category": "geopolitics",
       "date": "2026-07-23",
       "time": "07:54",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-23-e1e7aba9",
+      "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "17:58",
       "conflict_id": null,
       "score": 35.0
     },
@@ -942,20 +942,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-22-a7fa8bb5",
-      "headline": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
-      "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "21:33",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-07-22-f5a827a9",
       "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
@@ -968,6 +954,20 @@
       "time": "02:15",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-07-22-a7fa8bb5",
+      "headline": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
+      "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "21:33",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-07-22-b579be7e",
