@@ -1,19 +1,19 @@
 {
-  "updated": "2026-07-26T20:42:29.387458+00:00",
-  "story_count": 74,
+  "updated": "2026-07-26T21:37:14.047782+00:00",
+  "story_count": 73,
   "source_count": 10,
   "stories": [
     {
       "id": "2026-07-26-4e72cd76",
       "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
-      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-26",
-      "time": "10:26",
+      "time": "21:23",
       "conflict_id": "israel-hamas",
       "score": 55.0
     },
@@ -30,6 +30,20 @@
       "time": "15:00",
       "conflict_id": "israel-hamas",
       "score": 52.0
+    },
+    {
+      "id": "2026-07-26-f64dfa20",
+      "headline": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
+      "summary": "Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "19:33",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-07-26-7aefa317",
@@ -60,46 +74,46 @@
       "score": 49.0
     },
     {
-      "id": "2026-07-26-26273b27",
-      "headline": "Romania summons Russian envoy as it shoots down third intruding drone",
-      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "id": "2026-07-26-f43d85a2",
+      "headline": "PM pledges continued support for Ukraine ahead of Zelensky visit",
+      "summary": "The Ukrainian president will be Andy Burnham's first international visitor since taking office.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Romania",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-07-26",
-      "time": "18:17",
-      "conflict_id": null,
-      "score": 47.4
+      "time": "21:30",
+      "conflict_id": "ukraine-war",
+      "score": 47.0
     },
     {
-      "id": "2026-07-26-20f6655c",
-      "headline": "Israeli air strike on a vehicle in Gaza kills two Hamas security officials",
-      "summary": "The head of internal security for Hamas in central Gaza was among the dead.",
+      "id": "2026-07-26-6ae20dd3",
+      "headline": "Burnham to meet Zelenskyy at UK naval base in show of ‘unwavering’ support",
+      "summary": "Ukrainian president will be first overseas visitor for new British prime ministerVolodymyr Zelenskyy will become Andy Burnham’s first overseas visitor as prime minister, in a visit that Burnham said underlined Britain’s “unwavering” backing for Ukraine.Less than two weeks after Keir Starmer travelled to Kyiv for the final foreign visit of his prime ministership, the Ukrainian president will on Monday join Burnham at a naval base where Ukrainian f",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/26/andy-burnham-to-meet-volodymyr-zelenskyy-uk-ukraine",
+      "region": "EU",
+      "country": "Britain",
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "21:30",
+      "conflict_id": "ukraine-war",
+      "score": 44.0
+    },
+    {
+      "id": "2026-07-26-99e45e49",
+      "headline": "Palestinians hope international peace force can rebuild Gaza",
+      "summary": "Palestinians in Gaza cautiously welcome Israel’s approval for an international stabilisation force to enter the strip.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/26/israeli-air-strike-on-a-vehicle-in-gaza-kills-two-hamas-security-officials?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/palestinians-hope-international-peace-force-can-rebuild-gaza?traffic_source=rss",
       "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-26",
-      "time": "13:51",
+      "time": "21:01",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-07-26-f64dfa20",
-      "headline": "US pauses Iran strikes as Oman pursues Hormuz transit deal",
-      "summary": "Neither side launches attacks for second consecutive night as mediators seek to avert return to full-blown war",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ffdeacf0-91b8-48fd-9ff8-d8d134ef5f11?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-26",
-      "time": "19:33",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-07-26-1e9a7aae",
@@ -172,20 +186,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-26-f2c96452",
-      "headline": "Romania summons Russia’s ambassador after downing third drone since Friday",
-      "summary": "F-16 fighter jet intercepted drone in Romanian airspace over Black Sea, defence minister saysRomania has said it is summoning Russia’s ambassador after the Nato member’s military shot down a third drone in as many days.Romania has experienced frequent drone incursions since Russia launched its 2022 invasion of Ukraine, but had not shot down any until Friday. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/26/romania-summons-russia-ambassador-third-drone-shot-down",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-07-26",
-      "time": "14:44",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-07-26-9daa1a1c",
       "headline": "Israeli settlers burn two mosques in occupied West Bank",
       "summary": "Israeli settlers set fire to two mosques in separate attacks across the occupied West Bank, causing significant damage.",
@@ -200,6 +200,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-07-26-26273b27",
+      "headline": "Romania summons Russian envoy as it shoots down third intruding drone",
+      "summary": "The ongoing violations of Romanian airspace raise concerns over impact on NATO states of Russia-Ukraine war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/romania-summons-russian-envoy-as-it-shoots-down-third-intruding-drone?traffic_source=rss",
+      "region": "EU",
+      "country": "Romania",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "18:17",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-07-26-b4c865fd",
       "headline": "Who is India’s new education minister Pralhad Joshi?",
       "summary": "Joshi has been a member of the cabinet since 2019 and is seen as close to powerful PM Modi.",
@@ -210,20 +224,6 @@
       "category": "politics",
       "date": "2026-07-26",
       "time": "16:18",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-26-b03e2e77",
-      "headline": "Israel and the cost paradox of the Iran war",
-      "summary": "Israel instigated the war on Iran and yet it has borne few of its costs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/7/26/israel-and-the-cost-paradox-of-the-iran-war?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-26",
-      "time": "14:04",
       "conflict_id": null,
       "score": 39.4
     },
@@ -272,7 +272,7 @@
     {
       "id": "2026-07-26-f4272a0f",
       "headline": "What we know so far about the Berlin Pride ramming attack",
-      "summary": "German Chancellor Friedrich Merz condemned the incident as a \"heinous\" attack after a suspect rammed a car into a crowd.",
+      "summary": "German Chancellor Friedrich Merz condemns the attack as \"heinous\" after a suspect drove a car into a crowd near the Tiergarten park.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cevmdxz4872o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
@@ -310,34 +310,6 @@
       "time": "09:01",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-07-26-8845cd3a",
-      "headline": "Australia news live: new Sydney Harbour pool slated to open in summer; AusAlert warning test to blare siren across phones nationally",
-      "summary": "New tidal baths on banks of Callan Park in Lilyfield expected to attract thousands to Parramatta River’s southern banks. Follow the day’s newsSydney’s latest harbour swimming pool, on the banks of Callan Park in Lilyfield, will open for swimmers this summer, the state government says, with construction now under way.The new tidal baths on the Iron Cove foreshore, along the popular Bay Run and close to sports fields like Leichhardt Oval and King G",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/jul/27/ausalert-emergency-warning-test-antisemitism-royal-commission-nsw-icac-inquiry-politics-anthony-albanese-labor-angus-taylor-coalition-victoria-jacinta-allan-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-07-26",
-      "time": "20:29",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-26-71130c35",
-      "headline": "Tunisia grapples with five years of crisis since Saied’s power grab",
-      "summary": "Tunisians protest five years of President Kais Saied&#039;s rule amid economic crisis and political arrests.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/26/tunisia-grapples-with-five-years-of-crisis-since-saieds-power-grab?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tunisia",
-      "category": "politics",
-      "date": "2026-07-26",
-      "time": "14:39",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-07-26-1ee751cc",
@@ -478,6 +450,20 @@
       "time": "16:19",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-07-26-fb5060bc",
+      "headline": "BOJ early rate rise bets increase as yen reaches multidecade low",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/trading-asia/boj-early-rate-rise-bets-increase-as-yen-reaches-multidecade-low",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-26",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-26-19b66976",
@@ -732,30 +718,30 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-24-0b1dabf6",
-      "headline": "US hits dozens of countries with new wave of tariffs",
-      "summary": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "id": "2026-07-24-e3a3bd03",
+      "headline": "India cockroach protests: Videos show officers firing 'pellet guns'",
+      "summary": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
       "date": "2026-07-24",
-      "time": "12:40",
+      "time": "16:12",
       "conflict_id": null,
       "score": 27.0
     },
     {
-      "id": "2026-07-24-bb832374",
-      "headline": "Nigeria's president approves largest military expansion in recent times",
-      "summary": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
+      "id": "2026-07-24-ee40751e",
+      "headline": "Watch: Another day, more Trump tariffs - but are they working?",
+      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
       "date": "2026-07-24",
-      "time": "15:22",
+      "time": "10:21",
       "conflict_id": null,
       "score": 27.0
     },
@@ -770,20 +756,6 @@
       "category": "business",
       "date": "2026-07-24",
       "time": "08:28",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-24-e3a3bd03",
-      "headline": "India cockroach protests: Videos show officers firing 'pellet guns'",
-      "summary": "Thousands of people have taken to the streets in Delhi as part of the cockroach protests, calling for educational reforms.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cgje5l292g2o?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-24",
-      "time": "16:12",
       "conflict_id": null,
       "score": 27.0
     },
@@ -858,6 +830,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-23-6951a144",
+      "headline": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "16:50",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-07-23-017bea3a",
       "headline": "Man fatally wounded in knife attack in German bank",
       "summary": "A 20-year-old man is arrested after a knife attack at a bank in Bavaria that left a man fatally wounded.",
@@ -911,7 +897,7 @@
       "date": "2026-07-22",
       "time": "02:15",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-07-22-b579be7e",
