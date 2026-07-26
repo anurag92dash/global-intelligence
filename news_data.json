@@ -1,25 +1,39 @@
 {
-  "updated": "2026-07-26T07:16:02.339152+00:00",
+  "updated": "2026-07-26T09:27:47.668719+00:00",
   "story_count": 78,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-07-26-6d4fb6f7",
-      "headline": "More than 300,000 flee wildfires in France and Spain",
-      "summary": "Spain's PM warns of \"complex hours\" ahead as authorities in France say they are far from bringing blazes burning near Bordeaux under control.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le0d53y2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
+      "id": "2026-07-26-a5fc4a55",
+      "headline": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
+      "summary": "Incursions and arrests ongoing as terrified Palestinian residents brace for military and settler attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/israel-raids-west-bank-live-dozens-of-palestinians-detained-during-assault?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-26",
-      "time": "00:54",
-      "conflict_id": null,
-      "score": 59.0
+      "time": "07:55",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
-      "id": "2026-07-26-984fb113",
-      "headline": "More than 220,000 now evacuated in Gironde as wildfires continue to spread",
+      "id": "2026-07-26-7aefa317",
+      "headline": "Trump Is Pushing Nuclear Energy, Including Saudi Deal. His Family and Supporters Could Benefit.",
+      "summary": "In some cases, no direct line can be drawn from the president’s domestic nuclear agenda to his family or close allies. But they have overlapping business ties that could position them for gains.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-nuclear-energy-agenda-saudi-deal.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "09:02",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
+      "id": "2026-07-26-0f9a45ca",
+      "headline": "More than 320,000 now evacuated in France and Spain as wildfires continue to spread",
       "summary": "Around 1,400 firefighters, 1,500 military personnel, and 1,700 security forces have been deployed to tackle the wildfires in southwestern France, with aerial firefighting resources also providing support.",
       "source": "Euronews",
       "url": "http://www.euronews.com/my-europe/2026/07/26/more-than-220000-now-evacuated-in-gironde-as-wildfires-continue-to-spread",
@@ -30,6 +44,34 @@
       "time": "06:57",
       "conflict_id": null,
       "score": 46.0
+    },
+    {
+      "id": "2026-07-26-158d9dac",
+      "headline": "Israeli settlers set fire to mosque in occupied West Bank",
+      "summary": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "07:12",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
+      "id": "2026-07-26-1e9a7aae",
+      "headline": "Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer",
+      "summary": "A president who thought there were no limits to his power has discovered several, leaving him more frustrated and erratic.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 41.2
     },
     {
       "id": "2026-07-26-312f1f7d",
@@ -46,6 +88,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-07-26-d205c68a",
+      "headline": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+      "summary": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainAs my colleagues note in this story, scientists say climate breakdown is triggering more frequent and more extreme weather events, evaporating soils and waterways, fuelling wildfires and leading to thousands of excess deaths. Europe is heating at about t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-07-26",
+      "time": "08:50",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-07-26-5d180768",
       "headline": "House of Hope: New film follows a Waldorf-inspired school in the West Bank",
       "summary": "Documentary follows children under occupation and the couple who run a holistic primary school as Israel&#039;s war persists.",
@@ -56,20 +112,6 @@
       "category": "geopolitics",
       "date": "2026-07-26",
       "time": "05:29",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-26-e477a3dd",
-      "headline": "US military disables tanker accused of breaking the Iran blockade",
-      "summary": "The US military has released footage it says shows forces boarding one tanker.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/us-military-disables-tanker-accused-of-breaking-the-iran-blockade?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-26",
-      "time": "04:33",
       "conflict_id": null,
       "score": 39.4
     },
@@ -88,32 +130,60 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-26-7fa4638f",
-      "headline": "Iran war live: Tehran slams Ukraine attack; West Bank unrest continues",
-      "summary": "Tehran says the Ukranian attack killed at least one sailor and wounded another.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/26/iran-war-live-tehran-summons-ukraine-diplomats-over-caspian-sea-attack?traffic_source=rss",
+      "id": "2026-07-26-80822a67",
+      "headline": "Maga’s creepy baby obsession won’t solve the fertility crisis",
+      "summary": "But neither will pretending that it’s merely an economic issue",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1",
       "region": "EU",
-      "country": "Ukraine",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-26",
-      "time": "00:00",
+      "time": "04:00",
       "conflict_id": null,
-      "score": 39.4
+      "score": 34.4
     },
     {
-      "id": "2026-07-26-142a14ba",
-      "headline": "Chickenpox sweeps Gaza camps as thousands of cases emerge in two weeks",
-      "summary": "Doctors say the real scale of the outbreak is likely far larger, as overcrowding makes isolation impossible, and families of six or more share tents of a few square metres. Thousands of children born during the war could not complete their vaccination, leaving the most vulnerable without protection.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/26/chickenpox-sweeps-gaza-camps-as-thousands-of-cases-emerge-in-two-weeks",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
+      "id": "2026-07-26-198a1001",
+      "headline": "Democrats Reset the Maine Senate Race. Now Comes the Tricky Part.",
+      "summary": "Troy Jackson is replacing Graham Platner, but Republicans are seeking to tie them together as a remade race kicks off with high stakes.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/jackson-collins-platner-senate-maine.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
       "date": "2026-07-26",
-      "time": "05:00",
+      "time": "09:01",
       "conflict_id": null,
-      "score": 37.0
+      "score": 33.2
+    },
+    {
+      "id": "2026-07-26-d53a43d3",
+      "headline": "The Cockroach Effect: Modi vs India’s Gen Z",
+      "summary": "Protests by India&#039;s Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "09:08",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-26-77fb92c6",
+      "headline": "Thousands rally against Tunisia’s president five years after power grab",
+      "summary": "Thousands marched in Tunisia’s capital to demand the resignation of President Kais Saied.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/thousands-rally-against-tunisias-president-five-years-after-power-grab?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tunisia",
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "08:55",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-07-26-98174fc7",
@@ -170,6 +240,20 @@
       "time": "00:34",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-07-26-7dcd80b7",
+      "headline": "Senate candidate Josh Turek handcycles the Iowa campaign trail",
+      "summary": "State Representative Josh Turek, the Democrat running to flip Iowa’s open Senate seat, cycled with his hands at an Iowa biking event that took place between two cities nearly 60 miles apart.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/26/us/politics/turek-iowa-senate-democrat.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-07-26-1821af3d",
@@ -284,20 +368,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-25-d9bb18a6",
-      "headline": "More than 220,000 evacuated in France and Spain due to wildfires",
-      "summary": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "02:29",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
       "id": "2026-07-25-e6d31cbe",
       "headline": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
       "summary": "Tit-for-tat attacks risk expanding the regional war in the Middle East",
@@ -310,20 +380,6 @@
       "time": "13:02",
       "conflict_id": null,
       "score": 58.4
-    },
-    {
-      "id": "2026-07-25-84de69e6",
-      "headline": "More than 250,000 people flee wildfires in France and Spain",
-      "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "16:23",
-      "conflict_id": null,
-      "score": 57.0
     },
     {
       "id": "2026-07-25-c2e57a4f",
@@ -340,20 +396,6 @@
       "score": 54.0
     },
     {
-      "id": "2026-07-25-8b5fb5df",
-      "headline": "Israeli forces target Gaza’s Al-Aqsa hospital",
-      "summary": "At least one person was killed and several injured when Israeli drones hit a group of Palestinians near Al-Aqsa hospital",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/israeli-forces-target-gazas-al-aqsa-hospital?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "22:07",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
       "id": "2026-07-25-41427aa6",
       "headline": "Military Families Express Outrage After Pentagon Lowers Number of U.S. Troop Deaths in Iran War",
       "summary": "The change in the number to 14 from 18 this week has prompted scrutiny over the Defense Department’s accounting and reporting practices.",
@@ -368,46 +410,18 @@
       "score": 49.2
     },
     {
-      "id": "2026-07-25-e8a417ae",
-      "headline": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
-      "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prime minister, Sébastien Lecornu, has requested the armed forces to deploy an Airbus A400M military transport aircraft earlier than originally planned to help tackle the major wildfires in Gironde, according to Le Monde.The French newspaper reported the ai",
+      "id": "2026-07-25-84de69e6",
+      "headline": "More than 250,000 people flee wildfires in France and Spain",
+      "summary": "Hundreds of firefighters battle blazes as strong winds drive fires towards Bordeaux and smoke prompts health warnings in Madrid Unrestrained wildfires in Spain and France have forced more than 250,000 people to flee, authorities from both countries have said, as they struggle to contain the blazes.About 70,000 people were evacuated from central Spain, while 197,000 people fled in France, including tens of thousands from the wine region city of Bo",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "url": "https://www.theguardian.com/world/2026/jul/25/wildfires-force-250000-people-to-evacuate-in-france-and-spain",
       "region": "EU",
       "country": "France",
-      "category": "politics",
+      "category": "geopolitics",
       "date": "2026-07-25",
-      "time": "17:07",
+      "time": "16:23",
       "conflict_id": null,
-      "score": 49.0
-    },
-    {
-      "id": "2026-07-25-4091d9a0",
-      "headline": "How India’s ‘Cockroach’ protesters shook the Modi government",
-      "summary": "India’s Education Minister has resigned after 36 days of continuous protests by Cockroach Janta Party-led people.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/25/how-indias-cockroach-protesters-shook-the-modi-government?traffic_source=rss",
-      "region": "NA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "20:57",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-07-25-130ec624",
-      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "13:51",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 48.0
     },
     {
       "id": "2026-07-25-078aae35",
@@ -424,32 +438,46 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-25-c7f73d1c",
-      "headline": "At Correspondents’ Dinner, a Rambling Trump Hurls Insults",
-      "summary": "President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/trump-white-house-correspondents-dinner-speech.html",
+      "id": "2026-07-25-8c15f1e0",
+      "headline": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle",
+      "summary": "Troy Jackson won his party's nomination by commandeering the progressive movement that fueled Graham Platner's rise. He will face off against GOP Sen. Susan Collins in November.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/25/democrats-pick-new-senate-candidate-maine-aftermath-platner-debacle/",
       "region": "NA",
-      "country": "Trump",
+      "country": "Senate",
       "category": "politics",
       "date": "2026-07-25",
-      "time": "16:47",
+      "time": "16:59",
       "conflict_id": null,
-      "score": 41.2
+      "score": 40.9
     },
     {
-      "id": "2026-07-25-eb5d15b9",
-      "headline": "Trump returns to White House Correspondents' Dinner after April shooting",
-      "summary": "The president appeared to be in good spirits throughout the evening and joked about a third term in office.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting",
-      "region": "NA",
-      "country": "White House",
+      "id": "2026-07-25-e8a417ae",
+      "headline": "France and Spain race to control wildfires as more than 250,000 evacuated – as it happened",
+      "summary": "Meanwhile, in the UK, a blaze in the Cairngorms national park has been described as ‘very serious’ by Scotland’s first ministerTell us: have you been affected by wildfires in Europe?The French prime minister, Sébastien Lecornu, has requested the armed forces to deploy an Airbus A400M military transport aircraft earlier than originally planned to help tackle the major wildfires in Gironde, according to Le Monde.The French newspaper reported the ai",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/jul/25/france-spain-wildfires-latest-news-updates-madrid-cap-ferret-bordeaux-gironde",
+      "region": "EU",
+      "country": "France",
       "category": "politics",
       "date": "2026-07-25",
-      "time": "08:39",
+      "time": "17:07",
       "conflict_id": null,
-      "score": 37.0
+      "score": 40.0
+    },
+    {
+      "id": "2026-07-25-130ec624",
+      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-07-25",
+      "time": "13:51",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-07-25-de50538f",
@@ -462,20 +490,6 @@
       "category": "politics",
       "date": "2026-07-25",
       "time": "17:44",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-25-85779633",
-      "headline": "Iran-backed Houthis claim missile attack on Saudi Arabia",
-      "summary": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "06:34",
       "conflict_id": null,
       "score": 35.0
     },
@@ -494,20 +508,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-25-1b888eba",
-      "headline": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
-      "summary": "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "02:23",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-25-646c6ef0",
       "headline": "Troy Jackson Picked to Replace Platner as Democratic Nominee in Maine Senate Race",
       "summary": "Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.",
@@ -522,18 +522,18 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-25-8c15f1e0",
-      "headline": "Democrats pick new Senate candidate in Maine in aftermath of Platner debacle",
-      "summary": "Troy Jackson won his party's nomination by commandeering the progressive movement that fueled Graham Platner's rise. He will face off against GOP Sen. Susan Collins in November.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/07/25/democrats-pick-new-senate-candidate-maine-aftermath-platner-debacle/",
+      "id": "2026-07-25-eb5d15b9",
+      "headline": "Trump returns to White House Correspondents' Dinner after April shooting",
+      "summary": "The president appeared to be in good spirits throughout the evening and joked about a third term in office.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting",
       "region": "NA",
-      "country": "Senate",
+      "country": "White House",
       "category": "politics",
       "date": "2026-07-25",
-      "time": "16:59",
+      "time": "08:39",
       "conflict_id": null,
-      "score": 32.9
+      "score": 29.0
     },
     {
       "id": "2026-07-25-22909f07",
@@ -606,20 +606,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-25-5bf38e0f",
-      "headline": "Japan’s Seven & i Abandons Investment Talks With Poland’s Zabka",
-      "summary": "Japan’s Seven &amp; i Holdings Co. has ended talks over a potential investment in Zabka Group SA, Poland’s largest convenience store operator, even as it continues to look for expansion opportunities beyond its home market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-25/seven-i-abandons-investment-talks-with-poland-s-zabka-group",
-      "region": "EU",
-      "country": "Poland",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "01:24",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-25-e1f4914e",
       "headline": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
       "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.",
@@ -673,7 +659,7 @@
       "date": "2026-07-24",
       "time": "22:49",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-07-24-1a8f4fae",
@@ -687,7 +673,21 @@
       "date": "2026-07-24",
       "time": "15:13",
       "conflict_id": null,
-      "score": 51.0
+      "score": 60.0
+    },
+    {
+      "id": "2026-07-24-403b5c7f",
+      "headline": "Trump swings back toward diplomacy in escalating war with Iran",
+      "summary": "After threatening a “massive attack,” the president said his envoys were talking with Tehran but left open the possibility of a sharp military escalation.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/24/trump-swings-back-toward-diplomacy-escalating-iran-war/",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-07-24",
+      "time": "22:35",
+      "conflict_id": null,
+      "score": 48.9
     },
     {
       "id": "2026-07-24-0cd8b310",
@@ -702,34 +702,6 @@
       "time": "16:08",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-07-24-967719ac",
-      "headline": "Trump’s Threatened New Front in Iran War Could Strain U.S. Forces",
-      "summary": "President Trump has said he would expand the war if the Iran-backed Houthi militants launched additional attacks.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/24/us/politics/trump-new-front-iran-war.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "21:26",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-07-24-403b5c7f",
-      "headline": "Trump swings back toward diplomacy in escalating war with Iran",
-      "summary": "After threatening a “massive attack,” the president said his envoys were talking with Tehran but left open the possibility of a sharp military escalation.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/07/24/trump-swings-back-toward-diplomacy-escalating-iran-war/",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-07-24",
-      "time": "22:35",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-07-24-12d3148b",
@@ -900,6 +872,48 @@
       "score": 47.0
     },
     {
+      "id": "2026-07-23-e1e7aba9",
+      "headline": "Saudis must recognise Israel for nuclear deal, says Trump",
+      "summary": "The US president says the landmark agreement to help Saudis develop nuclear energy is dependent on it joining the Abraham Accords.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwye71yq8wwo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "17:58",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-23-320ad9e2",
+      "headline": "US signs landmark nuclear deal with Saudi Arabia",
+      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "09:17",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-23-59880684",
+      "headline": "Russia's businesses under strain from Ukraine's attacks on Wildberries",
+      "summary": "Ukrainian drones have hit several retail warehouses belonging to Russia's biggest online retailer Wildberries in a matter of days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvg9n2y61w6o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "06:15",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-23-017bea3a",
       "headline": "Man fatally wounded in knife attack in German bank",
       "summary": "A 20-year-old man is arrested after a knife attack at a bank in Bavaria that left a man fatally wounded.",
@@ -928,20 +942,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-23-9d6375e1",
-      "headline": "Why are thousands protesting for education reform in India?",
-      "summary": "Thousands of mostly young people tried to march on India's parliament to demand changes to how the education system is run.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cedj9j911p8o?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-23",
-      "time": "10:19",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-22-f5a827a9",
       "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
       "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
@@ -953,7 +953,7 @@
       "date": "2026-07-22",
       "time": "02:15",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-07-22-46f15c67",
@@ -1026,6 +1026,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-07-21-4807157a",
+      "headline": "Russian warship asked to 'clarify its intentions' off British coast",
+      "summary": "The BBC has received exclusive audio of the confrontation between a French aircraft and the Russian warship.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cz64lyn42dgo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-21",
+      "time": "19:18",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-21-b988b478",
       "headline": "Tokyo urges men to wear shorts to work, but women say it's 'leg hair harassment'",
       "summary": "The Tokyo Metropolitan Government wants workers to ditch the suit and tie for t-shirts, trainers - and shorts.",
@@ -1065,7 +1079,7 @@
       "date": "2026-07-20",
       "time": "08:41",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-07-20-c1122cc6",
@@ -1080,20 +1094,6 @@
       "time": "16:21",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-07-19-eb77e874",
-      "headline": "Moment fans in Madrid celebrate World Cup win",
-      "summary": "Thousands of spectators watched Spain's victory in central Madrid on late Sunday night.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cgr701xrg14o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Spain",
-      "category": "business",
-      "date": "2026-07-19",
-      "time": "23:48",
-      "conflict_id": null,
-      "score": 27.0
     }
   ]
 }
