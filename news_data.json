@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-26T09:27:47.668719+00:00",
-  "story_count": 78,
+  "updated": "2026-07-26T10:57:07.994172+00:00",
+  "story_count": 77,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-26-4e72cd76",
+      "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
+      "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tell, which left four Palestinians and two Israelis dead.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjrv77gl4deo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "10:26",
+      "conflict_id": "israel-hamas",
+      "score": 63.0
+    },
     {
       "id": "2026-07-26-a5fc4a55",
       "headline": "Israel raids West Bank live: Dozens of Palestinians detained during assault",
@@ -14,6 +28,20 @@
       "category": "geopolitics",
       "date": "2026-07-26",
       "time": "07:55",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
+    {
+      "id": "2026-07-26-158d9dac",
+      "headline": "Israeli settlers set fire to mosque in occupied West Bank",
+      "summary": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "07:12",
       "conflict_id": "israel-hamas",
       "score": 51.4
     },
@@ -32,32 +60,32 @@
       "score": 49.2
     },
     {
+      "id": "2026-07-26-f35d4352",
+      "headline": "Who is India’s new education minister?",
+      "summary": "India’s government has picked Pralhad Joshi as the new education minister after weeks of protests over exam scandals.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/who-is-indias-new-education-minister?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "10:33",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-07-26-0f9a45ca",
       "headline": "More than 320,000 now evacuated in France and Spain as wildfires continue to spread",
-      "summary": "Around 1,400 firefighters, 1,500 military personnel, and 1,700 security forces have been deployed to tackle the wildfires in southwestern France, with aerial firefighting resources also providing support.",
+      "summary": "According to French Interior Minister Laurent Nuñez, around 2,500 firefighters, including a Swiss team, have been deployed to tackle fires in southwestern France.",
       "source": "Euronews",
       "url": "http://www.euronews.com/my-europe/2026/07/26/more-than-220000-now-evacuated-in-gironde-as-wildfires-continue-to-spread",
       "region": "EU",
       "country": "France",
-      "category": "geopolitics",
+      "category": "politics",
       "date": "2026-07-26",
       "time": "06:57",
       "conflict_id": null,
       "score": 46.0
-    },
-    {
-      "id": "2026-07-26-158d9dac",
-      "headline": "Israeli settlers set fire to mosque in occupied West Bank",
-      "summary": "Israeli settlers set fire to Al-Rahma Mosque in Qusra, near Nablus, as Israeli forces arrested dozens of Palestinians",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/israeli-settlers-set-fire-to-mosque-in-occupied-west-bank?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-26",
-      "time": "07:12",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
     },
     {
       "id": "2026-07-26-1e9a7aae",
@@ -88,8 +116,8 @@
       "score": 41.2
     },
     {
-      "id": "2026-07-26-d205c68a",
-      "headline": "Europe wildfires: more than 300,000 flee homes and holiday accommodation in France and Spain as fires rage",
+      "id": "2026-07-26-288fe93e",
+      "headline": "Europe wildfires: ‘Difficult hours lie ahead’ in battle to contain fires, says Pedro Sanchez as more than 300,000 flee homes in France and Spain",
       "summary": "Fires displace people on massive scale and trigger one of the largest peacetime civilian evacuation operations ever carried out in FranceMore than 250,000 people flee wildfires in France and SpainAs my colleagues note in this story, scientists say climate breakdown is triggering more frequent and more extreme weather events, evaporating soils and waterways, fuelling wildfires and leading to thousands of excess deaths. Europe is heating at about t",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/jul/26/europe-wildfires-spain-france-bordeaux-madrid-evacuations",
@@ -97,9 +125,37 @@
       "country": "France",
       "category": "business",
       "date": "2026-07-26",
-      "time": "08:50",
+      "time": "10:29",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-07-26-200b2cd1",
+      "headline": "After Strait of Hormuz and Red Sea, has Iran war now reached Caspian Sea?",
+      "summary": "Iran condemns what it calls a &#039;hostile and criminal&#039; Ukrainian attack on commercial vessel. How will it affect the war?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/26/after-strait-of-hormuz-and-red-sea-has-iran-war-now-reached-caspian-sea?traffic_source=rss",
+      "region": "EU",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "10:45",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-07-26-d53a43d3",
+      "headline": "The Cockroach Effect: Modi vs India’s Gen Z",
+      "summary": "Protests by India&#039;s Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "09:08",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-07-26-5d180768",
@@ -116,30 +172,30 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-26-34422f93",
-      "headline": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
-      "summary": "Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-07-26",
-      "time": "00:49",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-26-80822a67",
-      "headline": "Maga’s creepy baby obsession won’t solve the fertility crisis",
-      "summary": "But neither will pretending that it’s merely an economic issue",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ad635fef-8785-47be-b264-e74582413ed6?syn-25a6b1a6=1",
+      "id": "2026-07-26-b1003e96",
+      "headline": "Italy petrol tops €2.6: opposition and groups sound alarm, govt weighs variable fuel duty",
+      "summary": "Fuel costs are back in the spotlight: in Milan and on motorways prices exceed €2.60 a litre. Opposition parties and associations warn of hikes hitting families and firms, while the Meloni government drafts measures to stem the crisis.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/07/26/italy-petrol-tops-26-opposition-and-groups-sound-alarm-govt-weighs-variable-fuel-duty",
       "region": "EU",
-      "country": null,
+      "country": "Italy",
       "category": "geopolitics",
       "date": "2026-07-26",
-      "time": "04:00",
+      "time": "09:49",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-07-26-2c73dee4",
+      "headline": "India’s Gen Z protesters puncture Modi’s aura of invincibility",
+      "summary": "Long-serving premier the target of demonstrators’ anger",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/71bbe9fd-e1cb-4e28-8edb-f319032139c4?syn-25a6b1a6=1",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "10:43",
       "conflict_id": null,
       "score": 34.4
     },
@@ -156,20 +212,6 @@
       "time": "09:01",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-07-26-d53a43d3",
-      "headline": "The Cockroach Effect: Modi vs India’s Gen Z",
-      "summary": "Protests by India&#039;s Cockroach Janta Party suggest the young generation is becoming harder to intimidate and to silence.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-listening-post/2026/7/26/the-cockroach-effect-modi-vs-indias-gen-z?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-26",
-      "time": "09:08",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-07-26-77fb92c6",
@@ -196,6 +238,20 @@
       "category": "politics",
       "date": "2026-07-26",
       "time": "04:14",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-26-34422f93",
+      "headline": "Yemen’s Houthis target Saudi oil facilities along the Red Sea",
+      "summary": "Yemen&#039;s Houthis say they have targeted oil facilities in Saudi Arabia owned by Aramco.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/26/yemens-houthis-target-saudi-oil-facilities-along-the-red-sea?traffic_source=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-07-26",
+      "time": "00:49",
       "conflict_id": null,
       "score": 31.4
     },
@@ -228,6 +284,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-26-69722f90",
+      "headline": "‘Divide and conquer’: China exploits EU divisions over trade",
+      "summary": "Individual member states and companies vulnerable to coercion from Beijing, say analysts",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ccf8b73f-c798-46d8-a00b-47df2a6c6859?syn-25a6b1a6=1",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-07-26",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-07-26-8300bd4b",
       "headline": "Australian Prime Minister Albanese to Press Trump on New Tariffs",
       "summary": "Australian Prime Minister Anthony Albanese said he will appeal directly to President Donald Trump over new tariffs announced by Washington, describing the levies as unjustified.",
@@ -251,7 +321,21 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-07-26",
-      "time": "09:01",
+      "time": "09:54",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-26-f05b4b70",
+      "headline": "A 2-Year-Old’s Drowning and a Fight Over the Line Between Life and Death",
+      "summary": "A Texas family sued to stop a hospital from testing whether their child was brain-dead. Opposition to the test has been gaining support from anti-abortion activists.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/26/us/near-drowning-texas-brain-dead.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-26",
+      "time": "09:00",
       "conflict_id": null,
       "score": 25.2
     },
@@ -368,20 +452,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-25-e6d31cbe",
-      "headline": "Saudi Arabia strikes Houthis after Iran-backed rebels target energy sites",
-      "summary": "Tit-for-tat attacks risk expanding the regional war in the Middle East",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/14ee6049-87bf-4aac-b684-c9937374fdcc?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "13:02",
-      "conflict_id": null,
-      "score": 58.4
-    },
-    {
       "id": "2026-07-25-c2e57a4f",
       "headline": "India's 'Cockroach' movement ends protests after education minister resigns",
       "summary": "Dharmendra Pradhan announced his resignation in a post on X, handing a major victory to the youth movement that spearheaded nationwide demonstrations, sit-ins and hunger strikes.",
@@ -394,6 +464,20 @@
       "time": "15:39",
       "conflict_id": null,
       "score": 54.0
+    },
+    {
+      "id": "2026-07-25-078aae35",
+      "headline": "Protesters celebrate resignation of India's education minister",
+      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-25",
+      "time": "13:44",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-07-25-41427aa6",
@@ -424,16 +508,16 @@
       "score": 48.0
     },
     {
-      "id": "2026-07-25-078aae35",
-      "headline": "Protesters celebrate resignation of India's education minister",
-      "summary": "The youth-led Cockroach Janta Party (CJP) has called off its protest, hours after the resignation of India's education minister",
+      "id": "2026-07-25-de50538f",
+      "headline": "India's 'cockroach' protest called off after education minister quits",
+      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cly949k3g1do?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
       "region": "SA",
       "country": "India",
       "category": "politics",
       "date": "2026-07-25",
-      "time": "13:44",
+      "time": "17:44",
       "conflict_id": null,
       "score": 43.0
     },
@@ -466,34 +550,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-07-25-130ec624",
-      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
-      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "13:51",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-07-25-de50538f",
-      "headline": "India's 'cockroach' protest called off after education minister quits",
-      "summary": "The CJP protest has been the most visible expression of public anger against PM Narendra Modi's government in recent years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx828gj5xko?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "17:44",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-25-5788d3f7",
       "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
       "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
@@ -522,30 +578,16 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-25-eb5d15b9",
-      "headline": "Trump returns to White House Correspondents' Dinner after April shooting",
-      "summary": "The president appeared to be in good spirits throughout the evening and joked about a third term in office.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/25/trump-returns-to-white-house-correspondents-dinner-after-april-shooting",
+      "id": "2026-07-25-130ec624",
+      "headline": "Trump takes swipes at press during White House Correspondents' Dinner",
+      "summary": "The event celebrated press freedom after the first dinner was cancelled by a shooting in April.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd7le4ylev2o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "White House",
-      "category": "politics",
+      "category": "business",
       "date": "2026-07-25",
-      "time": "08:39",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-07-25-22909f07",
-      "headline": "CJP protest: The youth movement India's Modi didn't see coming",
-      "summary": "The CJP protest began with exam paper leaks. It became India's biggest student movement in years  - why?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c07rgpxe51no?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "13:26",
+      "time": "13:51",
       "conflict_id": null,
       "score": 27.0
     },
@@ -606,20 +648,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-25-e1f4914e",
-      "headline": "After Democratic Shake-Up, Susan Collins Holds Enormous Cash Edge in Maine",
-      "summary": "Republicans are pouring huge sums behind the Maine senator through a web of billionaire-funded super PACs. Troy Jackson, picked as the new Democratic nominee, has a lot of catching up to do.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/25/us/politics/collins-jackson-maine-senate-fundraising.html",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-07-25",
-      "time": "19:03",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-25-26dc460f",
       "headline": "Utah, Known for Big Families, Leads the U.S. in Dropping Birthrates",
       "summary": "Forget tradwives. When it comes to plummeting fertility rates, Utah is leading the country.",
@@ -632,20 +660,6 @@
       "time": "12:24",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-07-25-0bd5c596",
-      "headline": "What’s behind the Israeli crackdown in the occupied West Bank?",
-      "summary": "Israeli forces intensify West Bank raids as settlers escalate attacks and settlement expansion accelerates.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/inside-story/2026/7/25/whats-behind-the-israeli-crackdown-in-the-occupied-west-bank?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "business",
-      "date": "2026-07-25",
-      "time": "23:30",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-07-24-e92a1b05",
@@ -788,20 +802,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-24-ee40751e",
-      "headline": "Watch: Another day, more Trump tariffs - but are they working?",
-      "summary": "The BBC's Samira Hussain explains how President Trump's tariffs affect US economy, who pays the price, and whether they're working.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c5yw2xgnv2jo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-07-24",
-      "time": "10:21",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-24-121db7a3",
       "headline": "What tariffs has Trump introduced and why?",
       "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
@@ -810,20 +810,6 @@
       "region": "NA",
       "country": "Trump",
       "category": "business",
-      "date": "2026-07-24",
-      "time": "08:28",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-24-9553b42f",
-      "headline": "Why have thousands taken to the streets? India's 'cockroach' protest explained",
-      "summary": "India is seeing one of its biggest protests in recent years. But why did it start? And why is the mascot a cockroach? Here's what you need to know.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c3307vgneveo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
       "date": "2026-07-24",
       "time": "08:28",
       "conflict_id": null,
@@ -842,20 +828,6 @@
       "time": "11:49",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-07-23-6951a144",
-      "headline": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
-      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "16:50",
-      "conflict_id": null,
-      "score": 51.0
     },
     {
       "id": "2026-07-23-e3cb0fe4",
@@ -896,6 +868,20 @@
       "category": "geopolitics",
       "date": "2026-07-23",
       "time": "09:17",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-23-6951a144",
+      "headline": "Yemen's Houthis attack Saudi tanker as US launches more Iran strikes",
+      "summary": "The Iran-backed group, which previously announced a \"maritime embargo\" against Saudi Arabia, also claims to have hit another vessel.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpw9xzx9r4ko?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-23",
+      "time": "16:50",
       "conflict_id": null,
       "score": 43.0
     },
@@ -953,7 +939,7 @@
       "date": "2026-07-22",
       "time": "02:15",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-07-22-46f15c67",
