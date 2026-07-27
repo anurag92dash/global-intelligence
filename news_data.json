@@ -1,25 +1,53 @@
 {
-  "updated": "2026-07-27T18:10:24.732086+00:00",
+  "updated": "2026-07-27T19:49:50.256688+00:00",
   "story_count": 84,
   "source_count": 9,
   "stories": [
     {
-      "id": "2026-07-27-7dc160c1",
-      "headline": "Students and staff work to bring Islamic University of Gaza back to life",
-      "summary": "The university is looking to continue educating Palestinians amid Israel&#039;s genocidal war on Gaza.",
+      "id": "2026-07-27-933ab58f",
+      "headline": "New UK PM Burnham assures Zelenskyy of continuing Ukraine support",
+      "summary": "Burnham is the fifth British prime minister to deal with President Zelenskyy since the war on Ukraine started in 2022.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/27/students-staff-work-to-bring-the-islamic-university-of-gaza-back-to-life?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
+      "url": "https://www.aljazeera.com/news/2026/7/27/new-uk-pm-burnham-assures-zelenskyy-of-continuing-ukraine-support?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
       "date": "2026-07-27",
-      "time": "12:26",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
+      "time": "17:41",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
     },
     {
-      "id": "2026-07-27-9380cbdf",
-      "headline": "Oil tumbles as Iran and US pause strikes over Strait of Hormuz",
+      "id": "2026-07-27-20c7dee2",
+      "headline": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
+      "summary": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-07-27",
+      "time": "15:58",
+      "conflict_id": "ukraine-war",
+      "score": 55.0
+    },
+    {
+      "id": "2026-07-27-973c4f69",
+      "headline": "More than 600 US military service members injured since Iran War began in February",
+      "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-27",
+      "time": "13:31",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-07-27-528f9987",
+      "headline": "Oil price tumbles as Iran and US pause strikes over Strait of Hormuz",
       "summary": "Brent 6% lower after two weeks of escalating violence had pushed crude to more than $100 a barrel",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/403625cc-8371-43ee-997a-f6908a97f52e?syn-25a6b1a6=1",
@@ -46,32 +74,18 @@
       "score": 49.2
     },
     {
-      "id": "2026-07-27-20c7dee2",
-      "headline": "Zelensky visit sends clear message of support for Ukraine, Burnham says",
-      "summary": "The Ukrainian president became the new prime minister's first international visitor since taking office.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8me5vyjg2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-07-27",
-      "time": "15:58",
-      "conflict_id": "ukraine-war",
-      "score": 47.0
-    },
-    {
-      "id": "2026-07-27-973c4f69",
-      "headline": "More than 600 US military service members injured since Iran War began in February",
-      "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-27-5f2c12d8",
+      "headline": "Are the US and Iran heading towards a forever war?",
+      "summary": "Marc Lamont Hill speaks with sociologist Ali Kadivar on what history shows about the risk of a US forever war in Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/upfront/2026/7/27/are-the-us-and-iran-heading-towards-a-forever-war?traffic_source=rss",
       "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-27",
-      "time": "13:31",
+      "time": "18:40",
       "conflict_id": null,
-      "score": 43.0
+      "score": 47.4
     },
     {
       "id": "2026-07-27-787357df",
@@ -100,6 +114,20 @@
       "time": "08:14",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-07-27-050f3e34",
+      "headline": "France and Spain brace for more extreme heat as wildfires rage",
+      "summary": "French President Emmanuel Macron warns ‘weeks ahead will be hard’ on visit to firefighting centre in the Gironde region",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/45867580-65a2-4a7d-ba4c-8143e86f4e36?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-07-27",
+      "time": "18:43",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-07-27-043d2d28",
@@ -172,6 +200,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-07-27-7a4c38f4",
+      "headline": "Wildfire now nine miles away from French city of Bordeaux, mayor warns",
+      "summary": "Thomas Cazenave says they are preparing if further evacuations are issued, as the mayor of a nearby town called the situation \"catastrophic\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg34128nvpo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-27",
+      "time": "17:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-07-27-a34d5b5a",
       "headline": "Ukraine dismisses Iranian threats as Caspian Sea strike directly links wars",
       "summary": "Iran has reacted with fury to the assault on the vessel, with Tehran's foreign minister saying it \"cannot go unanswered\".",
@@ -214,20 +256,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-27-f48e84e2",
-      "headline": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-27",
-      "time": "05:59",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-27-20712e3b",
       "headline": "Crisis-Level Swings Become New Normal in 2026 Stock Market",
       "summary": "Forget the VIX at 19. The stock market is swinging around in ways that are beyond what’s seen as normal in bull markets.",
@@ -242,16 +270,58 @@
       "score": 34.1
     },
     {
-      "id": "2026-07-27-a9f37cb7",
-      "headline": "Mapping Israeli settler violence in the West Bank",
-      "summary": "Israeli settlers have set fire to a mosque in the West Bank village of Qusra, and continued violent attacks.",
+      "id": "2026-07-27-6775ea47",
+      "headline": "France and Spain race to contain huge wildfires before fresh heatwave begins",
+      "summary": "Coming days are ‘absolutely critical’ for firefighters before temperatures rise again this week, officials sayFirefighters in France and Spain are racing to bring huge wildfires under control before another heatwave this week that will complicate efforts to tame the flames.Spain’s interior minister, Fernando Grande-Marlaska, said Monday and Tuesday were “absolutely crucial days” before temperatures rise again from Wednesday. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/27/france-and-spain-race-to-contain-huge-wildfires-before-fresh-heatwave-begins",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-07-27",
+      "time": "16:36",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-07-27-7d930eb0",
+      "headline": "Pakistan-administered Kashmir opens polls in violence-wracked vote",
+      "summary": "First of three rounds of voting held after weeks of protests during which dozens of people were killed.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/27/mapping-israeli-settler-violence-in-the-west-bank?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/7/27/pakistan-administered-kashmir-opens-polls-in-violence-wracked-vote?traffic_source=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "politics",
+      "date": "2026-07-27",
+      "time": "18:53",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-27-3d342560",
+      "headline": "Saudi Arabia defends against drone strikes from ‘Iran-backed’ groups",
+      "summary": "Drones launched at Saudi, Jordan and Iraq suggest Iran, or linked groups, may be testing US as it mulls new strategy.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/27/saudi-arabia-defends-against-drone-strikes-from-iran-backed-groups?traffic_source=rss",
       "region": "MENA",
-      "country": "Israel",
+      "country": "Jordan",
       "category": "geopolitics",
       "date": "2026-07-27",
-      "time": "15:27",
+      "time": "17:58",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-07-27-a542604d",
+      "headline": "War on Iran: Phase II: Day 16",
+      "summary": "The US-Iran war has slowed, with both sides giving diplomacy a chance through regional mediators.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/27/war-on-iran-phase-ii-day-16?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-27",
+      "time": "17:57",
       "conflict_id": null,
       "score": 31.4
     },
@@ -354,6 +424,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-27-19320daa",
+      "headline": "Treasuries Rise as Elevated Yields Attract Buyers Before Fed",
+      "summary": "US Treasuries rose as the US paused strikes on Iran and oil prices fell, with an auction of the shortest-dated notes attracting buyers ahead of this week’s Federal Reserve meeting.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus",
+      "region": "NA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-07-27",
+      "time": "12:56",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-27-88323077",
+      "headline": "Azimut Fund Manager Bets on Japanese Bonds as Yields Surge",
+      "summary": "Japanese government bonds offer investors one of the best opportunities in global fixed income despite being viewed as high risk, according to an Azimut Group fund manager.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/azimut-fund-manager-bets-on-japanese-bonds-as-yields-surge",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "politics",
+      "date": "2026-07-27",
+      "time": "19:18",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-27-eb3b4377",
+      "headline": "US Stocks Erase Gains as Chipmakers Extend Losses to Third Day",
+      "summary": "US stocks fell on Monday, erasing an early morning rally as chipmakers weakened, putting the Philadelphia Semiconductor Index on pace for its third consecutive session of declines.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/us-stocks-catch-a-bid-as-oil-tumbles-with-iran-conflict-pause",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-27",
+      "time": "11:12",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-27-971873f8",
       "headline": "Carlyle’s Bansal Says Bonds Shed Role as Stocks’ Shock Absorber",
       "summary": "Carlyle Group Inc.’s asset-backed finance chief said traditional fixed income is losing its reliability as a portfolio shock absorber because those investments are becoming increasingly correlated with stocks.",
@@ -364,20 +476,6 @@
       "category": "business",
       "date": "2026-07-27",
       "time": "17:28",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-27-e388531d",
-      "headline": "Treasuries Rise as Recent Yield Surge Attracts Buyers Before Fed",
-      "summary": "US Treasuries rose as the US paused strikes on Iran and oil prices fell, with an auction of the shortest-dated notes attracting buyers ahead of this week’s Federal Reserve meeting.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/treasury-yields-follow-oil-lower-with-fed-and-supply-in-focus",
-      "region": "NA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-07-27",
-      "time": "12:56",
       "conflict_id": null,
       "score": 26.1
     },
@@ -424,20 +522,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-27-a60d2c31",
-      "headline": "Oil Startup Backed by Ex-Goldman Commodity Chief Currie to IPO",
-      "summary": "Jeff Currie, the former Goldman Sachs Group Inc. commodities chief whose calls made him one of Wall Street’s best-known energy market strategists, is preparing to raise £50 million ($67 million) in a London stock market listing to build an oil producer in the Gulf of Mexico.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/oil-startup-backed-by-ex-goldman-commodity-chief-currie-to-ipo",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "business",
-      "date": "2026-07-27",
-      "time": "16:29",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-27-f0d2d651",
       "headline": "Venezuela Creditor Group Expands Ahead of Debt Restructuring",
       "summary": "A group of Venezuela bondholders is adding new members as it positions for long-awaited debt talks over what could be the biggest sovereign restructuring in more than a decade.",
@@ -452,32 +536,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-27-9e3dd782",
-      "headline": "Chile Selling 3.1 Billion Euros in Bonds After Debt Limit Raised",
-      "summary": "Chile is selling 3.1 billion euros ($3.5 billion) of bonds in its second international debt sale of the year, just a few weeks after Congress raised the limit on sovereign bond issuance in 2026.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/chile-taps-international-bond-markets-after-debt-limit-increase",
-      "region": "EU",
-      "country": "Congress",
+      "id": "2026-07-27-04959d00",
+      "headline": "Case to Be Dropped Against Labor Leader David Huerta in L.A. Immigration Raid",
+      "summary": "The arrest of David Huerta last summer helped spark a wave of protests against the Trump administration’s immigration crackdown.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html",
+      "region": "NA",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-07-27",
-      "time": "12:59",
+      "time": "19:08",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-27-2603a653",
-      "headline": "Satellite Shots of Smoke at Saudi Oil Sites Keep Traders on Edge",
-      "summary": "Oil traders pored over satellite images that showed smoke appearing at several Saudi oil facilities over the past 48 hours, but the data offered few clues as to whether the kingdom’s energy production had been impacted by recent attacks from Iran-backed militias.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/satellite-shots-of-smoke-at-saudi-oil-sites-keep-traders-on-edge",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-07-27",
-      "time": "15:57",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-07-27-b75d17d7",
@@ -508,20 +578,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-27-b6f1439f",
-      "headline": "Can a Progressive Win in a Purple State? Abdul El-Sayed Wants to Find Out.",
-      "summary": "Michigan’s Aug. 4 primary is a critical front in the fight between Democrats’ progressive and moderate flanks and a preview of the 2028 presidential primary.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/el-sayed-michigan-senate.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-27",
-      "time": "09:05",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-27-dd07d86e",
       "headline": "Mayo beat 75-year-old ‘curse’ to become Gaelic football champions",
       "summary": "Team to return for euphoric homecoming after winning all-Ireland men’s final against Kerry, ending decades of defeatsThe hex is broken, dispelled, banished, and a story that bewitched Ireland for decades has ended in fairytale: Mayo are all-Ireland champions.Seventy-five years after a supposed curse condemned its Gaelic men’s football team to endless defeat, the county prevailed and uncorked a wave of emotion that engulfed even its rivals. Contin",
@@ -548,6 +604,20 @@
       "time": "15:27",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-07-27-ccc32317",
+      "headline": "Japan securities dealers to disclose more corporate bond trades",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/bonds/japan-securities-dealers-to-disclose-more-corporate-bond-trades",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-07-27",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-27-e633741f",
@@ -732,20 +802,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-07-27-15dd3af8",
-      "headline": "Waste pickers work at Indonesia's largest landfill",
-      "summary": "Waste pickers at Indonesia's Bantargebang landfill fear for their livelihoods as the government tightens open dumping rules and reforms waste management.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/07/27/waste-pickers-work-at-indonesias-largest-landfill",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "politics",
-      "date": "2026-07-27",
-      "time": "10:13",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-07-26-4e72cd76",
       "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
@@ -788,23 +844,9 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-26-89871958",
-      "headline": "S&P 500 Falls as Chipmaker Rout Outweighs Oil Drop: Markets Wrap",
-      "summary": "A selloff in chipmakers sent stocks falling, overshadowing a decline in oil prices, as pressure keeps building for the biggest spenders on artificial intelligence to justify their investments.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-26",
-      "time": "22:09",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-26-7a1b2b8b",
       "headline": "Latest Oil Market News and Analysis for July 27",
-      "summary": "⁠⁠Oil sank as the US paused almost two weeks of daily strikes against Iran and tankers sailed to load at a recently disrupted Kazakh export terminal, easing supply pressures in a market squeezed on multiple fronts.",
+      "summary": "⁠⁠Oil sank by the most in over three months as the US paused daily strikes against Iran and tankers sailed to load at a recently disrupted Kazakh export terminal, easing supply pressures in a market squeezed on multiple fronts.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-26/latest-oil-market-news-and-analysis-for-july-27",
       "region": "NA",
@@ -816,18 +858,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-25-5788d3f7",
-      "headline": "Ten killed in Russian attack on drone exhibition near Kyiv",
-      "summary": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
+      "id": "2026-07-26-c0a165b8",
+      "headline": "Stocks Waver as Chipmaker Rout Offsets Oil Decline: Markets Wrap",
+      "summary": "A selloff in chipmakers sent stocks wavering, offsetting a decline in oil prices, as pressure keeps building for the biggest spenders on artificial intelligence to justify their investments.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-26/oil-tumbles-as-us-and-iran-pause-military-strikes-markets-wrap",
+      "region": "NA",
       "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-25",
-      "time": "00:06",
+      "category": "business",
+      "date": "2026-07-26",
+      "time": "22:09",
       "conflict_id": null,
-      "score": 35.0
+      "score": 26.1
     },
     {
       "id": "2026-07-25-de50538f",
@@ -970,20 +1012,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-07-23-320ad9e2",
-      "headline": "US signs landmark nuclear deal with Saudi Arabia",
-      "summary": "The US Department of Energy says the \"peaceful\" co-operation agreement will give US firms \"great access\" to the Saudi nuclear energy programme.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj03r59z73po?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "09:17",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-07-23-fe79304a",
       "headline": "Oil prices hit $100 for the first time since May",
       "summary": "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate.",
@@ -1079,7 +1107,7 @@
       "date": "2026-07-22",
       "time": "02:15",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-07-22-b579be7e",
@@ -1094,20 +1122,6 @@
       "time": "11:40",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-22-a7fa8bb5",
-      "headline": "EU clears $110bn Paramount and Warner Bros merger, but it remains on hold in US",
-      "summary": "The European Commission gave its green light, but it came with conditions attached for Paramount.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2kyyeyeklo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "21:33",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-22-46f15c67",
@@ -1150,20 +1164,6 @@
       "time": "22:26",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-21-30b4ef84",
-      "headline": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets their energy and nutrient needs, and it will tak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-07-20-c1122cc6",
