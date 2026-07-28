@@ -1,7 +1,7 @@
 {
-  "updated": "2026-07-28T18:05:38.690426+00:00",
-  "story_count": 83,
-  "source_count": 8,
+  "updated": "2026-07-28T19:49:00.708675+00:00",
+  "story_count": 84,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-07-28-012e2ea5",
@@ -13,9 +13,23 @@
       "country": "White House",
       "category": "geopolitics",
       "date": "2026-07-28",
-      "time": "16:45",
+      "time": "19:17",
       "conflict_id": "ukraine-war",
-      "score": 62.4
+      "score": 70.4
+    },
+    {
+      "id": "2026-07-28-52edb918",
+      "headline": "Zelenskyy meets Trump at White House as Ukraine seeks more US support",
+      "summary": "Since returning to power early last year, Trump has halted direct US arms deliveries to Kyiv in favour of a programme allowing European countries to buy weapons for Ukraine.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/28/zelenskyy-meets-trump-at-white-house-as-ukraine-seeks-more-us-support",
+      "region": "EU",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "15:55",
+      "conflict_id": "ukraine-war",
+      "score": 66.0
     },
     {
       "id": "2026-07-28-c78cbcf4",
@@ -32,20 +46,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-28-5cbd565c",
-      "headline": "‘We’re here to stay’: West Bank Palestinians defy Israeli attacks",
-      "summary": "Settlers burned homes and a mosque in at-Tuwani. Residents say it is part of a campaign to push them off their land.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/7/28/were-here-to-stay-west-bank-palestinians-defy-israeli-attacks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "12:32",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
       "id": "2026-07-28-a9704fc9",
       "headline": "How Iran adapted its missile war with Trump",
       "summary": "Recent fighting has provided conditions for Tehran’s forces to launch more precision strikes across Gulf and Jordan",
@@ -57,21 +57,35 @@
       "date": "2026-07-28",
       "time": "04:00",
       "conflict_id": null,
-      "score": 58.4
+      "score": 59.4
     },
     {
-      "id": "2026-07-28-132a17ab",
-      "headline": "Why has Iran’s economy not collapsed under US war pressure?",
-      "summary": "Millions in sanctions-hit country keep absorbing economic shockwaves, with analysts saying trend looks set to continue.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/7/28/why-has-irans-economy-not-collapsed-under-us-war-pressure?traffic_source=rss",
+      "id": "2026-07-28-e41f327b",
+      "headline": "Trump and Netanyahu hold first face-to-face talks since their 'disagreement' on the Iran war",
+      "summary": "The meeting was the eighth between Trump and Netanyahu since the US president returned to office in early 2025 and came ahead of elections in Israel and US midterms later this year.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/28/trump-and-netanyahu-hold-first-face-to-face-talks-since-their-disagreement-on-the-iran-war",
       "region": "NA",
-      "country": "Iran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-28",
-      "time": "12:30",
+      "time": "18:12",
       "conflict_id": null,
-      "score": 55.4
+      "score": 54.0
+    },
+    {
+      "id": "2026-07-28-bc839ebe",
+      "headline": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
+      "summary": "Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/no-freedom-at-all-israeli-closures-leave-west-bank-patients-trapped?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "18:24",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-07-28-f3d89ba9",
@@ -102,6 +116,20 @@
       "score": 48.0
     },
     {
+      "id": "2026-07-28-62141a6f",
+      "headline": "Trump says ‘good chance’ of progress in Iran talks. What we know",
+      "summary": "Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "13:06",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-07-28-efdb5a60",
       "headline": "Zelensky to press Trump on air defences while in Washington",
       "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
@@ -114,34 +142,6 @@
       "time": "10:41",
       "conflict_id": "ukraine-war",
       "score": 47.0
-    },
-    {
-      "id": "2026-07-28-b0840d02",
-      "headline": "Why Netanyahu's visit with Trump at the White House is high-stakes",
-      "summary": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "08:39",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-28-a73f56ba",
-      "headline": "US walks out of UN Security Council meeting during France's remarks",
-      "summary": "The row sparked after the US joined North Korea and Russia in voting against extending the term of the UN high commissioner for human rights.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87nj3w9gxjo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "North Korea",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "09:32",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-28-0afc871b",
@@ -172,30 +172,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-28-ac4196b2",
-      "headline": "Chip stocks tumble as AI sell-off deepens",
-      "summary": "Nasdaq 100 briefly falls into correction territory ahead of raft of Big Tech earnings",
+      "id": "2026-07-28-d4eda05d",
+      "headline": "Ebay pays couple $56mn for its role in cockroach harassment campaign",
+      "summary": "Couple received threatening deliveries including funeral wreath after criticising ecommerce retailer in blog",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "16:40",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-07-28-730aad8d",
-      "headline": "LA Dodgers-owner’s insurer acknowledges loans to ‘Dodger Tickets’",
-      "summary": "Delaware Life reclassifies loans as level 1 related-party investments after labelling them unaffiliated for years",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0f1e293c-f58c-4849-b576-00b9e4a53d97?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/1ed4aee0-cbb4-4c98-a2aa-34971ded2583",
       "region": "EU",
       "country": null,
       "category": "geopolitics",
       "date": "2026-07-28",
-      "time": "14:47",
+      "time": "17:24",
       "conflict_id": null,
       "score": 34.4
     },
@@ -298,6 +284,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-28-72ea48ae",
+      "headline": "Uganda declares end to Ebola outbreak",
+      "summary": "Health minister urges people in the country &#039;to remain alert&#039; and continue observing public health measures.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/uganda-declares-end-to-ebola-outbreak?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "18:02",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-28-7b694a93",
       "headline": "Trump expresses frustration with Netanyahu before White House meeting",
       "summary": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
@@ -326,18 +326,18 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-28-97e35177",
-      "headline": "Collaborate with Chinese EV makers or suffer, Thai auto firm CEO warns",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/asean-money/collaborate-with-chinese-ev-makers-or-suffer-thai-auto-firm-ceo-warns",
-      "region": "APJ",
-      "country": null,
-      "category": "geopolitics",
+      "id": "2026-07-28-4e378311",
+      "headline": "Spanish PM Sánchez calls out climate denial after devastating week of wildfires",
+      "summary": "Sánchez said climate denial makes Spain more vulnerable as the opposition accused the government of mishandling the initial emergency response.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/28/spanish-pm-sanchez-calls-out-climate-denial-after-devastating-week-of-wildfires",
+      "region": "EU",
+      "country": "Spain",
+      "category": "politics",
       "date": "2026-07-28",
-      "time": "",
+      "time": "16:14",
       "conflict_id": null,
-      "score": 30.8
+      "score": 29.0
     },
     {
       "id": "2026-07-28-58e7abbe",
@@ -352,6 +352,20 @@
       "time": "15:36",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-07-28-ac4196b2",
+      "headline": "Chip stocks tumble as AI sell-off deepens",
+      "summary": "Nasdaq 100 briefly falls into correction territory ahead of raft of Big Tech earnings",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "16:40",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-07-28-3adae832",
@@ -382,18 +396,32 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-28-9f21f757",
-      "headline": "Hedge funds reap big profits from Wall Street index shake-ups",
-      "summary": "Betting on which companies’ stock will be added or dropped has made a lucrative comeback this year",
+      "id": "2026-07-28-2a490e81",
+      "headline": "Wachtell co-chair who grilled Musk departs for rival Gibson Dunn",
+      "summary": "Bill Savitt leaves the corporate law powerhouse alongside five other partners",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/fcf3faaa-1184-4d0a-b47f-54bd035449bb?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/65731780-37da-4e4f-b5f4-eeaed28bcea2?syn-25a6b1a6=1",
       "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "19:21",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-28-7d197baa",
+      "headline": "PE Firm Unloads Mental Health Chain Into Muni Bond Market",
+      "summary": "A Connecticut-based private equity firm plans to sell a chain of mental health centers and sober-living homes through a deal financed by municipal bonds.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/private-equity-firm-unloads-mental-health-chain-into-muni-market",
+      "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-28",
-      "time": "04:00",
+      "time": "16:12",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
     },
     {
       "id": "2026-07-28-6ae9a0d6",
@@ -438,34 +466,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-28-241cae20",
-      "headline": "US-Based Cybersecurity Firm AlgoSec Is Said to Mull London IPO",
-      "summary": "AlgoSec, a US-based cybersecurity company, is considering a potential initial public offering on the London Stock Exchange, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/us-based-cybersecurity-firm-algosec-is-said-to-mull-london-ipo",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "16:52",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-28-fb58061b",
-      "headline": "Chip Rout Sinks Emerging-Market Stocks; Currencies Trade Mixed",
-      "summary": "A selloff in semiconductor stocks pressured Asian bourses and pushed the emerging-market benchmark to the lowest in more than three months, while currencies were mixed on the eve of the Federal Reserve’s decision.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/chips-drag-emerging-stocks-to-april-low-oil-shields-currencies",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "08:14",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-28-2d316650",
       "headline": "You’ll Know When to Worry About the Strategic Petroleum Reserve",
       "summary": "How low can it go?",
@@ -480,18 +480,32 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-28-456b71c3",
-      "headline": "EU Stocking Up on Brazil Chicken as Ban on Meat Trade Looms",
-      "summary": "World’s top chicken exporter Brazil has seen a surge in shipments to the European Union ahead of a September deadline that could result in a halt in meat trade with the bloc.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/eu-stocking-up-on-brazil-chicken-as-ban-on-meat-trade-looms",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
+      "id": "2026-07-28-2a4e73c8",
+      "headline": "Trump Loved Graham, Not So Much His Beloved Senate",
+      "summary": "The South Carolinian relished serving as a “bridge” between the institution he revered and the president, but now that bridge is gone.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/trump-graham-senate.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
       "date": "2026-07-28",
-      "time": "15:26",
+      "time": "18:26",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-28-83f9191d",
+      "headline": "Darline Graham Mourns Her Brother as She Seeks His Seat",
+      "summary": "Senator Darline Graham, who was appointed to serve out Lindsey Graham’s term after his unexpected death, appeared somber and stoic.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/darline-graham-sister-lindsey.html",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "18:13",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-07-28-033eca6a",
@@ -564,48 +578,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-28-a20a3c94",
-      "headline": "Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame",
-      "summary": "Private entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "14:09",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-28-329d089c",
-      "headline": "6 Takeaways From Michigan’s Senate Debate Between Abdul El-Sayed and Haley Stevens",
-      "summary": "At the final debate before next week’s Democratic primary for Senate, Dr. Abdul El-Sayed and Representative Haley Stevens showcased their wildly different ideological stances and political styles.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/abdul-el-sayed-haley-stevens-michigan-senate-debate-takeaways.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "02:43",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-28-d50b5328",
-      "headline": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
-      "summary": "Commission promised by new premier would be an ‘important signal’ for voters that the government was acting on alleged corruptionGet our breaking news email, free app or daily news podcastVictorian voters heading to the polls will probably get a taste of the evidence heard by a royal commission – including how taxpayer funds were used on Big Build projects – but it could actually help Labor’s standing, an integrity expert says.William Partlett, a",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-07-28-114094de",
       "headline": "Banks charged mortgage holders $55m in extra interest after offset account errors, Asic finds",
       "summary": "Australian banks ‘not getting the basics right’, regulator says after review of more than 200,000 home loansGet our breaking news email, free app or daily news podcastAsic has accused banks of “not getting the basics right”, after the regulator found faulty mortgage offset accounts meant borrowers were being overcharged tens of millions of dollars in extra interest payments.In a new report, the Australian Securities and Investment Commission show",
@@ -618,6 +590,20 @@
       "time": "14:01",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-07-28-844288b2",
+      "headline": "Malaysian foreign minister calls for review of UNHCR’s presence",
+      "summary": "The UN refugee agency is under pressure to impose stricter controls amid rising local backlash against Rohingya.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/malaysian-foreign-minister-calls-for-review-of-unhcrs-presence?traffic_source=rss",
+      "region": "APJ",
+      "country": "Malaysia",
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "18:25",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-28-7e0cf4a0",
@@ -760,6 +746,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-07-28-6518770c",
+      "headline": "EU wildfire strategy falls short as southern Europe faces another devastating fire season",
+      "summary": "The European Commission’s wildfire strategy, presented in March, has fallen short as Spain and France face large-scale evacuations and thousands of hectares have already burned. Meanwhile, EU countries have stalled progress on key forest-management rules.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/07/28/eu-wildfire-strategy-falls-short-as-southern-europe-faces-another-devastating-fire-season",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "15:27",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-28-fb2bda98",
+      "headline": "French wildfires threaten defence sites and hit regional economy",
+      "summary": "The fires have forced evacuations and protective measures at strategically important aerospace and defence sites, while preventing thousands of businesses from operating normally.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/07/28/french-wildfires-threaten-defence-sites-and-hit-regional-economy",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "14:27",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-07-27-7c4ac7c2",
       "headline": "Trump says Iran war talks taking place during lull in strikes",
       "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
@@ -771,7 +785,7 @@
       "date": "2026-07-27",
       "time": "21:10",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
     },
     {
       "id": "2026-07-27-d8a00620",
@@ -785,7 +799,7 @@
       "date": "2026-07-27",
       "time": "21:06",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-07-27-973c4f69",
@@ -799,7 +813,7 @@
       "date": "2026-07-27",
       "time": "13:31",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-07-27-f48e84e2",
@@ -872,20 +886,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-27-c722c93c",
-      "headline": "Stocks Climb as Oil Decline Outweighs Chip Selloff: Markets Wrap",
-      "summary": "A rotation that has seen investors bail from high-profile chipmakers in favor of more economically sensitive industries picked up speed, with stocks rising on strong earnings and a drop in oil prices.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-27",
-      "time": "22:08",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-07-27-61061fac",
       "headline": "A Japanese town wrestles with identity after protests over its first mosque",
       "summary": "As Japan increasingly relies on foreign workers, it is also grappling with how to integrate new cultures and religions.",
@@ -956,6 +956,34 @@
       "score": 27.0
     },
     {
+      "id": "2026-07-27-f7c66f48",
+      "headline": "S&P 500 Rises as Oil Drop Outweighs Chip Selloff: Markets Wrap",
+      "summary": "A rotation that has seen investors bail from high-profile chipmakers in favor of more economically sensitive industries picked up speed, with stocks rising on strong earnings and a drop in oil prices.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-27",
+      "time": "22:08",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-27-cc607ba7",
+      "headline": "AI Bond Binge Enters New Era of Weak Demand and Sky-High Prices",
+      "summary": "For months, Big Tech has flooded debt markets with mega bonds that were initially snatched up by investors keen to get exposure to the artificial intelligence boom. As demand wanes and bubble concerns mount, those deals are becoming harder and costlier to get over the line.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-27/blackrock-raises-12-5-billion-of-debt-for-meta-data-center",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-27",
+      "time": "21:47",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-26-4e72cd76",
       "headline": "Israeli settlers set fire to mosques, cars and farm land in West Bank, Palestinians say",
       "summary": "The latest attacks come two days after a clash between settlers and Palestinians near the village of Tal, which left four Palestinians and two Israelis dead.",
@@ -1023,7 +1051,7 @@
       "date": "2026-07-24",
       "time": "22:49",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 55.0
     },
     {
       "id": "2026-07-24-1a8f4fae",
@@ -1150,20 +1178,6 @@
       "time": "15:54",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-21-30b4ef84",
-      "headline": "Healthy diet too expensive for one in three people globally, UN report finds",
-      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets their energy and nutrient needs, and it will tak",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-21",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 24.0
     }
   ]
 }
