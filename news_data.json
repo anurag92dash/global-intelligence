@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-28T19:49:00.708675+00:00",
-  "story_count": 84,
+  "updated": "2026-07-28T20:55:00.352489+00:00",
+  "story_count": 86,
   "source_count": 9,
   "stories": [
     {
@@ -48,7 +48,7 @@
     {
       "id": "2026-07-28-a9704fc9",
       "headline": "How Iran adapted its missile war with Trump",
-      "summary": "Recent fighting has provided conditions for Tehran’s forces to launch more precision strikes across Gulf and Jordan",
+      "summary": "Recent fighting has provided conditions for Tehran’s forces to launch more precision strikes across the Gulf and Jordan",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/82acf078-9214-4eb6-a162-15f584a5e3ca?syn-25a6b1a6=1",
       "region": "MENA",
@@ -57,7 +57,7 @@
       "date": "2026-07-28",
       "time": "04:00",
       "conflict_id": null,
-      "score": 59.4
+      "score": 58.4
     },
     {
       "id": "2026-07-28-e41f327b",
@@ -74,6 +74,20 @@
       "score": 54.0
     },
     {
+      "id": "2026-07-28-15affa5b",
+      "headline": "Kyiv warns Iran against escalation after Ukraine’s Caspian Sea attack",
+      "summary": "Kyiv claims its Caspian Sea strike targeted Russian warships, denying intent to harm civilian vessels or individuals.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/kyiv-warns-iran-against-escalation-after-ukraines-caspian-sea-attack?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "20:29",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
+    },
+    {
       "id": "2026-07-28-bc839ebe",
       "headline": "‘No freedom at all’: Israeli closures leave West Bank patients trapped",
       "summary": "Palestinians face hours-long waits at Israeli military checkpoints, forcing women to give birth outside hospitals.",
@@ -86,20 +100,6 @@
       "time": "18:24",
       "conflict_id": "israel-hamas",
       "score": 51.4
-    },
-    {
-      "id": "2026-07-28-f3d89ba9",
-      "headline": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
-      "summary": "Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "09:29",
-      "conflict_id": null,
-      "score": 50.2
     },
     {
       "id": "2026-07-28-4c75e362",
@@ -116,20 +116,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-07-28-62141a6f",
-      "headline": "Trump says ‘good chance’ of progress in Iran talks. What we know",
-      "summary": "Negotiators are trying to break the deadlock over transit fees and management of the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/trump-says-good-chance-of-progress-in-iran-talks-what-we-know?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "13:06",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-07-28-efdb5a60",
       "headline": "Zelensky to press Trump on air defences while in Washington",
       "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
@@ -142,6 +128,20 @@
       "time": "10:41",
       "conflict_id": "ukraine-war",
       "score": 47.0
+    },
+    {
+      "id": "2026-07-28-29592987",
+      "headline": "Whitney Warns of Economic Reckoning This Year, Sees Fed on Hold",
+      "summary": "Meredith Whitney, the former bank analyst who rose to fame for a 2007 report ahead of the global financial crisis, warned that a US “reckoning” is coming in the fourth quarter as one-time economic boosts from the World Cup and residual fiscal spending fade.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/whitney-warns-of-economic-reckoning-this-year-sees-fed-on-hold",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "19:32",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-07-28-0afc871b",
@@ -186,6 +186,34 @@
       "score": 34.4
     },
     {
+      "id": "2026-07-28-4a4f48b5",
+      "headline": "Insurers Rally as Stocks Shift from AI Loser to Safe Haven",
+      "summary": "US insurance-related stocks rallied Tuesday, pushing an industry gauge to close at a record, as artificial intelligence concerns drove traders toward defensive parts of the market.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/us-insurers-rally-as-stocks-shift-from-ai-loser-to-safe-haven",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "15:46",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-28-782f3821",
+      "headline": "Citadel Securities’ Fed Rate Hike Call Adds to Market Angst",
+      "summary": "On the eve of the Federal Reserve’s policy decision, bond traders are on edge. While most expect policymakers to leave interest rates unchanged, prominent voices across Wall Street are putting their weight behind a hike in just the second meeting run by new Chairman Kevin Warsh.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/citadel-securities-fed-rate-hike-call-adds-to-market-angst",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "19:44",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-28-f30adffc",
       "headline": "TD Warns Dollar Set to Drop as Market Misprices Fed Rate Risk",
       "summary": "The US dollar will weaken if the Federal Reserve leaves interest rates unchanged this week, according to TD Securities.",
@@ -210,20 +238,6 @@
       "category": "business",
       "date": "2026-07-28",
       "time": "13:20",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-28-835d3129",
-      "headline": "US Insurers Rally as Stocks Shift from AI Loser to Safe Haven",
-      "summary": "US insurance-related stocks rallied Tuesday, pushing an industry gauge to a record, as artificial intelligence concerns drove traders toward defensive parts of the market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/us-insurers-rally-as-stocks-shift-from-ai-loser-to-safe-haven",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "15:46",
       "conflict_id": null,
       "score": 34.1
     },
@@ -284,6 +298,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-28-251d338a",
+      "headline": "Keiko Fujimori sworn in as Peru president after narrow election win",
+      "summary": "Fujimori takes office promising an iron-fisted crackdown on crime, as critics fear a return to her father&#039;s tactics.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/keiko-fujimori-sworn-in-as-peru-president-after-narrow-election-win?traffic_source=rss",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "20:14",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-28-72ea48ae",
       "headline": "Uganda declares end to Ebola outbreak",
       "summary": "Health minister urges people in the country &#039;to remain alert&#039; and continue observing public health measures.",
@@ -294,20 +322,6 @@
       "category": "politics",
       "date": "2026-07-28",
       "time": "18:02",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-28-7b694a93",
-      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
-      "summary": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "15:21",
       "conflict_id": null,
       "score": 31.4
     },
@@ -326,6 +340,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-07-28-e50c4f9c",
+      "headline": "Keiko Fujimori takes office as Peru's president, vowing to end decade of instability",
+      "summary": "The Popular Force leader becomes Peru's first female president, returning Fujimorism to power after 26 years. She is due to deliver her inaugural address and unveil her cabinet. King Felipe VI attended the ceremony in Lima.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/28/keiko-fujimori-takes-office-as-perus-president-vowing-to-end-decade-of-instability",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "19:57",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-07-28-4e378311",
       "headline": "Spanish PM Sánchez calls out climate denial after devastating week of wildfires",
       "summary": "Sánchez said climate denial makes Spain more vulnerable as the opposition accused the government of mishandling the initial emergency response.",
@@ -340,14 +368,14 @@
       "score": 29.0
     },
     {
-      "id": "2026-07-28-58e7abbe",
-      "headline": "Uefa reacts with fury to Infantino World Cup plan",
-      "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
+      "id": "2026-07-28-4d792381",
+      "headline": "Uefa and PM criticise Infantino World Cup plan",
+      "summary": "Uefa and Prime Minister Andy Burnham criticise proposals from Fifa to seek private investment in its competitions, including the World Cup.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/sport/football/articles/c8xng9894z0o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "Europe",
-      "category": "business",
+      "country": null,
+      "category": "politics",
       "date": "2026-07-28",
       "time": "15:36",
       "conflict_id": null,
@@ -356,14 +384,14 @@
     {
       "id": "2026-07-28-ac4196b2",
       "headline": "Chip stocks tumble as AI sell-off deepens",
-      "summary": "Nasdaq 100 briefly falls into correction territory ahead of raft of Big Tech earnings",
+      "summary": "Nasdaq 100 briefly falls into correction territory ahead of Big Tech earnings",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/f8c03b5b-e194-4236-82c3-389b6f5dd7ae?syn-25a6b1a6=1",
       "region": "EU",
       "country": null,
       "category": "business",
       "date": "2026-07-28",
-      "time": "16:40",
+      "time": "20:15",
       "conflict_id": null,
       "score": 26.4
     },
@@ -410,6 +438,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-28-d430cad8",
+      "headline": "Emerging Currencies Traded Mixed Amid Oil Plunge, Fed Bets",
+      "summary": "Emerging-market currencies traded mixed on Tuesday as oil plunged on optimism over US-Iran talks and traders adjusted positions ahead of the Federal Reserve rate decision.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/chips-drag-emerging-stocks-to-april-low-oil-shields-currencies",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "08:14",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-28-ae09a971",
+      "headline": "Equal-Weight S&P 500 Hits Record; Broad Gains Outweigh Chip Rout",
+      "summary": "The S&amp;P 500 Index climbed on Tuesday as oil prices continued to slide. Broad gains pushed an equal-weight version of the index to an all-time high even as chipmakers sold off.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/s-p-500-futures-muted-as-semiconductors-drop-earnings-roll-in",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "11:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-28-7d197baa",
       "headline": "PE Firm Unloads Mental Health Chain Into Muni Bond Market",
       "summary": "A Connecticut-based private equity firm plans to sell a chain of mental health centers and sober-living homes through a deal financed by municipal bonds.",
@@ -452,32 +508,46 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-28-024bef36",
-      "headline": "S&P 500 Rises as Oil Slides, Broad Gains Overshadow Chips Rout",
-      "summary": "The S&amp;P 500 Index climbed on Tuesday as oil prices continued to slide. Three times as many stocks gained versus those that declined, while an equal-weight version of the index hit an all-time high even as chipmakers sold off.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/s-p-500-futures-muted-as-semiconductors-drop-earnings-roll-in",
+      "id": "2026-07-28-7e2743d3",
+      "headline": "Who Wins (and Who Loses) in the Democrats’ New 2028 Primary Calendar?",
+      "summary": "Democratic Party officials have approved a new calendar that puts South Carolina at the head of the line. Black and Latino voters will gain new clout.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/democrats-2028-primary-calendar.html",
       "region": "NA",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-07-28",
-      "time": "11:19",
+      "time": "20:36",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
-      "id": "2026-07-28-2d316650",
-      "headline": "You’ll Know When to Worry About the Strategic Petroleum Reserve",
-      "summary": "How low can it go?",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-28/you-ll-know-when-to-worry-about-the-strategic-petroleum-reserve",
+      "id": "2026-07-28-0977323f",
+      "headline": "Graham and Netanyahu Worked Together to Denounce International Criminal Court",
+      "summary": "Senator Lindsey Graham helped to coordinate a group of lawmakers to rebuke the I.C.C., which was investigating Prime Minister Benjamin Netanyahu of Israel.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/graham-netanyahu-documentary-icc.html",
       "region": "EU",
-      "country": null,
-      "category": "business",
+      "country": "Israel",
+      "category": "politics",
       "date": "2026-07-28",
-      "time": "16:00",
+      "time": "20:08",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
+    },
+    {
+      "id": "2026-07-28-91d68888",
+      "headline": "Obama to Headline Democratic Redistricting Fund-Raiser",
+      "summary": "After exhausting their gerrymandering options in 2026, the party is hoping to redraw more congressional maps ahead of the next election cycle.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/28/us/politics/obama-fund-raiser-marthas-vineyard-redistricting.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "20:05",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-07-28-2a4e73c8",
@@ -490,20 +560,6 @@
       "category": "politics",
       "date": "2026-07-28",
       "time": "18:26",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-28-83f9191d",
-      "headline": "Darline Graham Mourns Her Brother as She Seeks His Seat",
-      "summary": "Senator Darline Graham, who was appointed to serve out Lindsey Graham’s term after his unexpected death, appeared somber and stoic.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/darline-graham-sister-lindsey.html",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "18:13",
       "conflict_id": null,
       "score": 25.2
     },
@@ -522,20 +578,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-28-71645b01",
-      "headline": "Here Is the Schedule for Lindsey Graham’s Services and Funeral",
-      "summary": "The senator is being remembered on Tuesday in Washington and on Wednesday in South Carolina.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/lindsey-graham-funeral-schedule.html",
-      "region": "EU",
-      "country": "Washington",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "17:02",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-28-f1ecf1eb",
       "headline": "AFSCME Leader Lee Saunders to Retire as Unions Face New Opposition",
       "summary": "Lee Saunders has led the country’s top union for local public workers at a time of growing public support and official opposition.",
@@ -546,20 +588,6 @@
       "category": "politics",
       "date": "2026-07-28",
       "time": "14:59",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-28-011999ca",
-      "headline": "Senate Democrats Press Blanche on Times Subpoenas",
-      "summary": "Days before a committee vote on Todd Blanche’s nomination to be attorney general, Democrats demanded answers about the since-withdrawn subpoenas.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-democrats-todd-blanche-subpoenas.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "09:03",
       "conflict_id": null,
       "score": 25.2
     },
@@ -618,6 +646,34 @@
       "time": "17:36",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-07-28-b25a1d63",
+      "headline": "China, Russia exercises highlight holes in Japan's Pacific defenses",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/defense/china-russia-exercises-highlight-holes-in-japan-s-pacific-defenses",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-07-28-b478e043",
+      "headline": "Japan's new investment rules open the gate to offshore wind partnerships",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/opinion/japan-s-new-investment-rules-open-the-gate-to-offshore-wind-partnerships",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-28-4fe6908c",
@@ -732,20 +788,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-28-16536543",
-      "headline": "For Philippine women in Taiwan's tech factories, motherhood is 'impossible'",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/society/for-philippine-women-in-taiwan-s-tech-factories-motherhood-is-impossible",
-      "region": "APJ",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-07-28-6518770c",
       "headline": "EU wildfire strategy falls short as southern Europe faces another devastating fire season",
       "summary": "The European Commission’s wildfire strategy, presented in March, has fallen short as Spain and France face large-scale evacuations and thousands of hectares have already burned. Meanwhile, EU countries have stalled progress on key forest-management rules.",
@@ -774,18 +816,46 @@
       "score": 21.0
     },
     {
-      "id": "2026-07-27-7c4ac7c2",
-      "headline": "Trump says Iran war talks taking place during lull in strikes",
-      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
+      "id": "2026-07-28-9a417bb9",
+      "headline": "Zinedine Zidane fulfils 'dream' as he takes charge of France",
+      "summary": "After the announcement, Zidane greeted a large gathering of fans outside the federation headquarters and they cheered loudly when he arrived.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/28/zinedine-zidane-fulfils-dream-as-he-takes-charge-of-france",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "13:02",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-28-79b54a69",
+      "headline": "Watermarks on the Silk Road: Following Uzbekistan's rivers, waterfalls and ancient reservoirs",
+      "summary": "Mountain rivers, hidden waterfalls and centuries-old reservoirs show how water has shaped settlement, trade and tourism across Uzbekistan, offering visitors a different perspective on the country.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/07/28/watermarks-on-the-silk-road-following-uzbekistans-rivers-waterfalls-and-ancient-reservoirs",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-07-27-973c4f69",
+      "headline": "More than 600 US military service members injured since Iran War began in February",
+      "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Trump",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-07-27",
-      "time": "21:10",
+      "time": "13:31",
       "conflict_id": null,
-      "score": 60.0
+      "score": 59.0
     },
     {
       "id": "2026-07-27-d8a00620",
@@ -802,32 +872,18 @@
       "score": 51.0
     },
     {
-      "id": "2026-07-27-973c4f69",
-      "headline": "More than 600 US military service members injured since Iran War began in February",
-      "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
+      "id": "2026-07-27-7c4ac7c2",
+      "headline": "Trump says Iran war talks taking place during lull in strikes",
+      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Iran",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-27",
-      "time": "13:31",
+      "time": "21:10",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-07-27-f48e84e2",
-      "headline": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
-      "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-07-27",
-      "time": "05:59",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-07-27-043d2d28",
@@ -868,6 +924,20 @@
       "category": "geopolitics",
       "date": "2026-07-27",
       "time": "09:59",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-27-f48e84e2",
+      "headline": "'This is just the start': India's Gen Z protesters force out a minister, but what next?",
+      "summary": "The education minister's resignation, a rare setback for the Modi government, brings hope to many young protesters that their voices will be heard.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8dng1v72lno?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-27",
+      "time": "05:59",
       "conflict_id": null,
       "score": 35.0
     },
@@ -942,20 +1012,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-27-6956f8c1",
-      "headline": "Argentine leader calls Brazilian president a 'thief' and a 'convict'",
-      "summary": "Javier Milei spoke at a campaign rally for right-wing presidential candidate Flávio Bolsonaro, who is running against Lula.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx91vdedno?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-07-27",
-      "time": "10:19",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-27-f7c66f48",
       "headline": "S&P 500 Rises as Oil Drop Outweighs Chip Selloff: Markets Wrap",
       "summary": "A rotation that has seen investors bail from high-profile chipmakers in favor of more economically sensitive industries picked up speed, with stocks rising on strong earnings and a drop in oil prices.",
@@ -966,20 +1022,6 @@
       "category": "business",
       "date": "2026-07-27",
       "time": "22:08",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-27-cc607ba7",
-      "headline": "AI Bond Binge Enters New Era of Weak Demand and Sky-High Prices",
-      "summary": "For months, Big Tech has flooded debt markets with mega bonds that were initially snatched up by investors keen to get exposure to the artificial intelligence boom. As demand wanes and bubble concerns mount, those deals are becoming harder and costlier to get over the line.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-27/blackrock-raises-12-5-billion-of-debt-for-meta-data-center",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-27",
-      "time": "21:47",
       "conflict_id": null,
       "score": 26.1
     },
@@ -1152,32 +1194,18 @@
       "score": 33.8
     },
     {
-      "id": "2026-07-23-d129c77d",
-      "headline": "Two Russian men jailed in Angola for terrorism and spying",
-      "summary": "The men were convicted over alleged plan to stage coup and organise deadly demonstrations over fuel prices last yearTwo Russian men have been found guilty by an Angolan court of terrorism and spying after being accused of planning a coup and helping to organise deadly demonstrations in the southern African country last year.Lev Lakshtanov and Igor Ratchin were sentenced to eight and 11 years in jail respectively. They had denied the charges, clai",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/23/two-russian-men-jailed-angola-terrorism-and-spying",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-23",
-      "time": "14:24",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-07-23-4d6a18ca",
-      "headline": "Nicaragua's legislature debates barring opposition from elections",
-      "summary": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
+      "id": "2026-07-22-f5a827a9",
+      "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
+      "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-23",
-      "time": "15:54",
+      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Pentagon",
+      "category": "geopolitics",
+      "date": "2026-07-22",
+      "time": "02:15",
       "conflict_id": null,
-      "score": 27.0
+      "score": 43.0
     }
   ]
 }
