@@ -1,21 +1,35 @@
 {
-  "updated": "2026-07-28T16:54:55.799203+00:00",
-  "story_count": 81,
-  "source_count": 9,
+  "updated": "2026-07-28T18:05:38.690426+00:00",
+  "story_count": 83,
+  "source_count": 8,
   "stories": [
     {
-      "id": "2026-07-28-52edb918",
-      "headline": "Zelenskyy meets Trump at White House as Ukraine seeks more US support",
-      "summary": "Since returning to power early last year, Trump has halted direct US arms deliveries to Kyiv in favour of a programme allowing European countries to buy weapons for Ukraine.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/28/zelenskyy-meets-trump-at-white-house-as-ukraine-seeks-more-us-support",
+      "id": "2026-07-28-012e2ea5",
+      "headline": "Zelenskyy reports positive Oval Office meeting as Trump shifts towards Ukraine",
+      "summary": "Kyiv hopes White House talks will result in fresh US backing against Russia",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5dca4c81-be8a-4555-971f-181eebf53e62?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "16:45",
+      "conflict_id": "ukraine-war",
+      "score": 62.4
+    },
+    {
+      "id": "2026-07-28-c78cbcf4",
+      "headline": "Ukraine’s Zelenskyy hails ‘good meeting’ with Trump at White House",
+      "summary": "Discussions included joint production of Patriot missiles in Ukraine to bolster defence against Russian aerial attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/ukraines-zelenskyy-hails-good-meeting-with-trump-at-white-house?traffic_source=rss",
       "region": "EU",
       "country": "White House",
       "category": "geopolitics",
       "date": "2026-07-28",
-      "time": "15:55",
+      "time": "17:12",
       "conflict_id": "ukraine-war",
-      "score": 66.0
+      "score": 59.4
     },
     {
       "id": "2026-07-28-5cbd565c",
@@ -60,20 +74,6 @@
       "score": 55.4
     },
     {
-      "id": "2026-07-28-b0840d02",
-      "headline": "Why Netanyahu's visit with Trump at the White House is high-stakes",
-      "summary": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "08:39",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-07-28-f3d89ba9",
       "headline": "Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time",
       "summary": "Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.",
@@ -102,20 +102,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-07-28-8b598302",
-      "headline": "Trump flouts political risk to host Netanyahu’s seventh White House visit",
-      "summary": "Oval Office meeting on Tuesday is first since US-Israel launched unpopular war with Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/trump-flouts-political-risk-to-host-netanyahus-seventh-white-house-visit?traffic_source=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "10:12",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-07-28-efdb5a60",
       "headline": "Zelensky to press Trump on air defences while in Washington",
       "summary": "Ukraine's leader is hoping to firm up US commitments to bolstering Kyiv's anti-ballistic missile defences, as Russia has escalated deadly attacks.",
@@ -130,32 +116,18 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-28-c29c4229",
-      "headline": "Authorities open fire amid election unrest in Pakistan-administered Kashmir",
-      "summary": "Deadly clashes have erupted in Pakistan-administered Kashmir after weeks of protests and road blockades.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/28/authorities-open-fire-amid-election-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "11:29",
-      "conflict_id": "india-pakistan",
-      "score": 43.4
-    },
-    {
-      "id": "2026-07-28-7b694a93",
-      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
-      "summary": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+      "id": "2026-07-28-b0840d02",
+      "headline": "Why Netanyahu's visit with Trump at the White House is high-stakes",
+      "summary": "The meeting comes amid signs of friction between the two leaders and decreasing public support for Israel in the US.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c98v94dmmz0o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "White House",
-      "category": "politics",
+      "category": "geopolitics",
       "date": "2026-07-28",
-      "time": "15:21",
+      "time": "08:39",
       "conflict_id": null,
-      "score": 39.4
+      "score": 43.0
     },
     {
       "id": "2026-07-28-a73f56ba",
@@ -228,6 +200,34 @@
       "score": 34.4
     },
     {
+      "id": "2026-07-28-f30adffc",
+      "headline": "TD Warns Dollar Set to Drop as Market Misprices Fed Rate Risk",
+      "summary": "The US dollar will weaken if the Federal Reserve leaves interest rates unchanged this week, according to TD Securities.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/td-warns-dollar-set-to-drop-as-market-misprices-fed-rate-risk",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "17:58",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-28-a9623286",
+      "headline": "First Brands Bankruptcy: Lawsuits Around Alleged Fraud Seek to Recoup Billions",
+      "summary": "The pitch to creditors of bankrupt First Brands goes like this: Stick with us just a while longer, and you’ll get a full recovery as we claw back $2 billion from suing a long list of insiders and business partners who allegedly perpetrated a widespread fraud.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/first-brands-bankruptcy-lawsuits-around-alleged-fraud-seek-to-recoup-billions",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "13:20",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-28-835d3129",
       "headline": "US Insurers Rally as Stocks Shift from AI Loser to Safe Haven",
       "summary": "US insurance-related stocks rallied Tuesday, pushing an industry gauge to a record, as artificial intelligence concerns drove traders toward defensive parts of the market.",
@@ -298,6 +298,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-07-28-7b694a93",
+      "headline": "Trump expresses frustration with Netanyahu before White House meeting",
+      "summary": "US president says Iran talks progressing, reups threats if diplomacy fails before sit down with Israeli prime minister.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/trump-expresses-frustration-with-netanyahu-before-white-house-meeting?traffic_source=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "15:21",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-07-28-dd86b8c6",
       "headline": "Indian minister's resignation amid Gen Z protests dispels 'Modi's myth'",
       "summary": "",
@@ -326,20 +340,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-28-4e378311",
-      "headline": "Spanish PM Sánchez calls out climate denial after devastating week of wildfires",
-      "summary": "Sánchez said climate denial makes Spain more vulnerable as the opposition accused the government of mishandling the initial emergency response.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/28/spanish-pm-sanchez-calls-out-climate-denial-after-devastating-week-of-wildfires",
-      "region": "EU",
-      "country": "Spain",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "16:14",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-28-58e7abbe",
       "headline": "Uefa reacts with fury to Infantino World Cup plan",
       "summary": "European football's governing body Uefa reacts furiously to proposals from Fifa to seek private investment in its competitions, including the World Cup.",
@@ -354,16 +354,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-28-75f7feda",
-      "headline": "CXMT’s blockbuster IPO delivers windfall for its home city",
-      "summary": "Funds run by local government in Hefei make gains of 5,000% from chipmaker’s blockbuster listing",
+      "id": "2026-07-28-3adae832",
+      "headline": "Nvidia revealed as tenant for $50bn data centre that will use its chips",
+      "summary": "CEO Jensen Huang deploys balance sheet to backstop growth of AI computing market",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/d6439cb3-5a9e-4f6e-b5d6-b0e5621567c4?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/685014e7-47dd-471b-a585-1b9b73ce5d6f?syn-25a6b1a6=1",
       "region": "EU",
       "country": null,
-      "category": "politics",
+      "category": "business",
       "date": "2026-07-28",
-      "time": "05:35",
+      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -396,6 +396,62 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-28-6ae9a0d6",
+      "headline": "Koch Said to Mull $15 Billion Sale of Data-Center Firm Edged",
+      "summary": "Koch Inc. is exploring a sale of Edged, the data center developer it cofounded to build projects for the biggest hyperscalers, according to people with knowledge of the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/koch-said-to-weigh-15-billion-sale-of-data-center-player-edged",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "17:08",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-28-98a16ed2",
+      "headline": "Whataburger Posts 10% Earnings Rise, Seeks $2.72 Billion Loan",
+      "summary": "Privately owned fast-food chain Whataburger said earnings in the first quarter rose 10% from a year ago, even as concerns mount that higher energy costs will weigh on consumer spending and drag sales lower.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/whataburger-posts-10-earnings-rise-seeks-2-72-billion-loan",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "17:51",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-28-024bef36",
+      "headline": "S&P 500 Rises as Oil Slides, Broad Gains Overshadow Chips Rout",
+      "summary": "The S&amp;P 500 Index climbed on Tuesday as oil prices continued to slide. Three times as many stocks gained versus those that declined, while an equal-weight version of the index hit an all-time high even as chipmakers sold off.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/s-p-500-futures-muted-as-semiconductors-drop-earnings-roll-in",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "11:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-28-241cae20",
+      "headline": "US-Based Cybersecurity Firm AlgoSec Is Said to Mull London IPO",
+      "summary": "AlgoSec, a US-based cybersecurity company, is considering a potential initial public offering on the London Stock Exchange, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/us-based-cybersecurity-firm-algosec-is-said-to-mull-london-ipo",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "16:52",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-28-fb58061b",
       "headline": "Chip Rout Sinks Emerging-Market Stocks; Currencies Trade Mixed",
       "summary": "A selloff in semiconductor stocks pressured Asian bourses and pushed the emerging-market benchmark to the lowest in more than three months, while currencies were mixed on the eve of the Federal Reserve’s decision.",
@@ -406,34 +462,6 @@
       "category": "business",
       "date": "2026-07-28",
       "time": "08:14",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-28-17bc0b88",
-      "headline": "Private Equity Firm Unloads Mental Health Chain Into Muni Market",
-      "summary": "A Connecticut-based private equity firm plans to sell a chain of mental health centers and sober-living homes through a deal financed by municipal bonds.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/private-equity-firm-unloads-mental-health-chain-into-muni-market",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "16:12",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-28-0835ce6a",
-      "headline": "French Container Giant Says Transpacific Revival Boost Profits",
-      "summary": "CMA CGM SA, the world’s third-largest container line, said a surge in Chinese shipments is boosting earnings as US companies pad inventories while President Donald Trump rebuilds a tariff strategy dealt a setback in February by the Supreme Court.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/french-container-giant-says-transpacific-revival-boost-profits",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "16:02",
       "conflict_id": null,
       "score": 26.1
     },
@@ -466,48 +494,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-28-ae3995f1",
-      "headline": "S&P 500 Steadies as Broad Gains Overshadow Chips Rout",
-      "summary": "The S&amp;P 500 Index erased an earlier decline in late Tuesday morning trading, with about three times as many stocks gaining as declining, while an equal-weight version of the index hit an all-time high.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/s-p-500-futures-muted-as-semiconductors-drop-earnings-roll-in",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "11:19",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-28-89f3cd9e",
-      "headline": "Brady Sells $800 Million of Bonds for Honeywell Spinoff Purchase",
-      "summary": "Brady Corp., a maker of signs and labels, sold $800 million of private debt to support its purchase of Honeywell International Inc.’s productivity solutions and services business.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/brady-sells-800-million-of-bonds-for-honeywell-spinoff-purchase",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-28-7c4e401b",
-      "headline": "Ghana Earmarks $429 Million to Buy Gold, Shifting Fiscal Risks",
-      "summary": "Ghana has allocated 5 billion cedis ($429 million) to finance gold purchases that boost its foreign-exchange reserves after shifting the program from the central bank to the government, potentially increasing fiscal risks.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-28/ghana-earmarks-429-million-to-buy-gold-shifting-fiscal-risks",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "14:48",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-28-033eca6a",
       "headline": "Lindsey Graham was a force in the Senate.",
       "summary": "",
@@ -531,7 +517,7 @@
       "country": "Washington",
       "category": "politics",
       "date": "2026-07-28",
-      "time": "14:59",
+      "time": "17:02",
       "conflict_id": null,
       "score": 25.2
     },
@@ -606,6 +592,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-07-28-d50b5328",
+      "headline": "Royal commission into Victorian construction sector could boost Labor’s chances at state election, expert says",
+      "summary": "Commission promised by new premier would be an ‘important signal’ for voters that the government was acting on alleged corruptionGet our breaking news email, free app or daily news podcastVictorian voters heading to the polls will probably get a taste of the evidence heard by a royal commission – including how taxpayer funds were used on Big Build projects – but it could actually help Labor’s standing, an integrity expert says.William Partlett, a",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/29/royal-commission-into-victorian-construction-sector-could-boost-labors-chances-at-state-election-expert-says",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-07-28-114094de",
       "headline": "Banks charged mortgage holders $55m in extra interest after offset account errors, Asic finds",
       "summary": "Australian banks ‘not getting the basics right’, regulator says after review of more than 200,000 home loansGet our breaking news email, free app or daily news podcastAsic has accused banks of “not getting the basics right”, after the regulator found faulty mortgage offset accounts meant borrowers were being overcharged tens of millions of dollars in extra interest payments.In a new report, the Australian Securities and Investment Commission show",
@@ -618,6 +618,34 @@
       "time": "14:01",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-07-28-7e0cf4a0",
+      "headline": "New Party: Why Turkiye’s opposition suffered a split and what that means",
+      "summary": "Former CHP chair Ozgur Ozel and other MPs form New Party, creating new political challenge for Erdogan&#039;s AK Party.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/28/new-party-why-turkiye-opposition-suffered-a-split-and-what-that-means?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-28",
+      "time": "17:36",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-07-28-4fe6908c",
+      "headline": "Yen traders watch BOJ, Fed meetings for clues on rate moves",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/currencies/yen-traders-watch-boj-fed-meetings-for-clues-on-rate-moves",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-07-28-96f61112",
@@ -732,20 +760,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-28-6518770c",
-      "headline": "EU wildfire strategy falls short as southern Europe faces another devastating fire season",
-      "summary": "The European Commission’s wildfire strategy, presented in March, has fallen short as Spain and France face large-scale evacuations and thousands of hectares have already burned. Meanwhile, EU countries have stalled progress on key forest-management rules.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/28/eu-wildfire-strategy-falls-short-as-southern-europe-faces-another-devastating-fire-season",
-      "region": "EU",
-      "country": "France",
-      "category": "business",
-      "date": "2026-07-28",
-      "time": "15:27",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-07-27-7c4ac7c2",
       "headline": "Trump says Iran war talks taking place during lull in strikes",
       "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
@@ -770,6 +784,20 @@
       "category": "geopolitics",
       "date": "2026-07-27",
       "time": "21:06",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-07-27-973c4f69",
+      "headline": "More than 600 US military service members injured since Iran War began in February",
+      "summary": "The latest figure includes casualties from Operation Fury and a new category called  \"Overseas Operations\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998pzd1e8xo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-07-27",
+      "time": "13:31",
       "conflict_id": null,
       "score": 43.0
     },
@@ -926,20 +954,6 @@
       "time": "10:19",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-27-04959d00",
-      "headline": "Case to Be Dropped Against Labor Leader David Huerta in L.A. Immigration Raid",
-      "summary": "The arrest of David Huerta last summer helped spark a wave of protests against the Trump administration’s immigration crackdown.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/27/us/david-huerta-charges-dismiss-la-immigration-raids.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-07-27",
-      "time": "20:21",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-07-26-4e72cd76",
@@ -1124,18 +1138,32 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-22-f5a827a9",
-      "headline": "Iran war has cost US $37.5bn so far, Hegseth says, as Pentagon seeks billions more",
-      "summary": "The hearing was disrupted by protests and a shouting match as Hegseth testified at a pivotal time in the war.",
+      "id": "2026-07-23-4d6a18ca",
+      "headline": "Nicaragua's legislature debates barring opposition from elections",
+      "summary": "The move comes days after President Daniel Ortega demanded 'a wall, a blockade' against opposition parties.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c70gek2kqyno?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-07-22",
-      "time": "02:15",
+      "url": "https://www.bbc.co.uk/news/articles/cd694w0l30do?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-23",
+      "time": "15:54",
       "conflict_id": null,
-      "score": 51.0
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-21-30b4ef84",
+      "headline": "Healthy diet too expensive for one in three people globally, UN report finds",
+      "summary": "Global hunger declined for the third year in a row in 2025 but experts call for action to bring down costs of fruit, vegetables and dairy as report shows 2.69bn people can’t afford to eat wellOne in three people cannot afford to eat a healthy diet, a new report has found, prompting calls for urgent action on food affordability.There are 2.69 billion people unable to afford a diverse diet that meets their energy and nutrient needs, and it will tak",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/global-development/2026/jul/21/healthy-diet-too-expensive-for-one-in-three-people-globally-un-report-finds",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-21",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 24.0
     }
   ]
 }
