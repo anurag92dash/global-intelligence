@@ -1,8 +1,22 @@
 {
-  "updated": "2026-07-29T22:35:37.414571+00:00",
+  "updated": "2026-07-29T23:38:39.485452+00:00",
   "story_count": 84,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-07-29-efbaa72a",
+      "headline": "Trump Encounters a More Determined Iran as War Widens",
+      "summary": "With Iran flexing its might, President Trump appears to be weighing military options again, after rejecting plans to escalate.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/29/us/trump-iran-war-widens.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-29",
+      "time": "22:40",
+      "conflict_id": null,
+      "score": 57.2
+    },
     {
       "id": "2026-07-29-51f4953d",
       "headline": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
@@ -30,20 +44,6 @@
       "time": "05:01",
       "conflict_id": "sudan-civil-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-07-29-4a257a54",
-      "headline": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
-      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-29",
-      "time": "21:45",
-      "conflict_id": null,
-      "score": 52.0
     },
     {
       "id": "2026-07-29-56fc2385",
@@ -74,18 +74,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-29-9bad88d7",
-      "headline": "Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19",
-      "summary": "Republican lawmakers threaten to hold scientist in contempt for failing to answer questions",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/35811ce1-84a7-4a59-aa91-15c6bdd24392?syn-25a6b1a6=1",
+      "id": "2026-07-29-4a257a54",
+      "headline": "Anthony Fauci refuses to answer questions during tense US Senate hearing about Covid origins",
+      "summary": "The former top US health official said he feared Republicans could try to trip him up and use his testimony to prosecute him for perjury.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cdx85vkk0gko?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Senate",
       "category": "politics",
       "date": "2026-07-29",
-      "time": "17:59",
+      "time": "21:45",
       "conflict_id": null,
-      "score": 51.4
+      "score": 51.0
     },
     {
       "id": "2026-07-29-cb34bcfb",
@@ -102,6 +102,20 @@
       "score": 50.4
     },
     {
+      "id": "2026-07-29-9bad88d7",
+      "headline": "Fauci invokes Fifth Amendment at fiery Senate hearing on Covid-19",
+      "summary": "Republican lawmakers threaten to hold scientist in contempt for failing to answer questions",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/35811ce1-84a7-4a59-aa91-15c6bdd24392?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-29",
+      "time": "17:59",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
       "id": "2026-07-29-bd84e4a8",
       "headline": "Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing",
       "summary": "Senator Rand Paul said the committee he leads would vote next week on whether to hold Dr. Fauci in contempt of Congress.",
@@ -113,7 +127,7 @@
       "date": "2026-07-29",
       "time": "20:27",
       "conflict_id": null,
-      "score": 50.2
+      "score": 49.2
     },
     {
       "id": "2026-07-29-eea75996",
@@ -130,6 +144,20 @@
       "score": 48.4
     },
     {
+      "id": "2026-07-29-6ff5611a",
+      "headline": "Trump appeals $83.3m E Jean Carroll civil verdict to US Supreme Court",
+      "summary": "The Department of Justice has issued separate filings in support of Trump&#039;s case to toss the defamation award.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/trump-appeals-83-3m-e-jean-carroll-civil-verdict-to-us-supreme-court?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-29",
+      "time": "23:25",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-07-29-2afd8cfe",
       "headline": "Dr Anthony Fauci pleads the Fifth at Covid hearing",
       "summary": "Dr Anthony Fauci declined to answer questions at a Senate hearing on the origins of the Covid-19 pandemic.",
@@ -140,20 +168,6 @@
       "category": "politics",
       "date": "2026-07-29",
       "time": "18:34",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-07-29-60052ada",
-      "headline": "Fauci invokes Fifth Amendment in heated COVID-19 Senate hearing",
-      "summary": "Physician declines to answer Senate questions as Republicans like Rand Paul accuse him of covering up COVID&#039;s origins.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/fauci-invokes-fifth-amendment-in-heated-covid-19-senate-hearing?traffic_source=rss",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-29",
-      "time": "17:32",
       "conflict_id": null,
       "score": 47.4
     },
@@ -172,18 +186,18 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-29-784767bb",
-      "headline": "Two Americans convicted of murdering Canadian couple in Dominica",
-      "summary": "Daniel Langlois, whose animation software was used in numerous blockbuster films, was found dead in a burnt-out car with his partner in late 2023.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1e10792l21o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-29-ccb0af33",
+      "headline": "Trump asks Supreme Court to overturn €71 million defamation award in sexual assault case",
+      "summary": "The appeal was filed electronically and is expected to be formally docketed with the court later on Wednesday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/07/29/trump-asks-supreme-court-to-overturn-71-million-defamation-award-in-sexual-assault-case",
       "region": "NA",
-      "country": "America",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-29",
-      "time": "15:12",
+      "time": "17:35",
       "conflict_id": null,
-      "score": 43.0
+      "score": 45.0
     },
     {
       "id": "2026-07-29-f45a430b",
@@ -196,6 +210,20 @@
       "category": "geopolitics",
       "date": "2026-07-29",
       "time": "21:22",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-07-29-456d0f8f",
+      "headline": "Trump asks Supreme Court to overturn $83 million verdict in E. Jean Carroll case",
+      "summary": "Trump’s attorneys asserted a 2024 high court decision granting presidents sweeping immunity for actions taken in office shields him from liability in the case.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/28/trump-asks-supreme-court-overturn-83-million-verdict-e-jean-carroll-case/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-07-29",
+      "time": "03:14",
       "conflict_id": null,
       "score": 40.9
     },
@@ -240,20 +268,6 @@
       "time": "16:04",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-29-ccb0af33",
-      "headline": "Trump asks Supreme Court to overturn €71 million defamation award in sexual assault case",
-      "summary": "The appeal was filed electronically and is expected to be formally docketed with the court later on Wednesday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/07/29/trump-asks-supreme-court-to-overturn-71-million-defamation-award-in-sexual-assault-case",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-29",
-      "time": "17:35",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-07-29-cd541ddf",
@@ -312,18 +326,32 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-29-d3d05ba3",
-      "headline": "Trump's new spy chief Jay Clayton confirmed by US Senate",
-      "summary": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-07-29-68d6a082",
+      "headline": "Goldman Co-CIO: The Market's Punishing the Hyperscalers",
+      "summary": "Alexis Wilson-Elizondo, Goldman Sachs Global Co-Head of Multi Asset Solutions, is preaching due diligence on investing in the AI boom with the uncertainty on ROI, coupled with the most recent rate decision from the Fed. She speaks to Romaine Bostick and Emily Graffeo on Bloomberg's 'The Close.' (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/goldman-co-cio-the-market-s-punishing-the-hyperscalers-video",
       "region": "NA",
-      "country": "Senate",
-      "category": "politics",
+      "country": null,
+      "category": "business",
       "date": "2026-07-29",
-      "time": "09:07",
+      "time": "23:28",
       "conflict_id": null,
-      "score": 35.0
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-29-72f440f4",
+      "headline": "Innolight Set For Biggest Hong Kong Debut in Seven Years",
+      "summary": "Zhongji Innolight Co. is set to begin trading in Hong Kong on Thursday after raising HK$53.4 billion ($6.8 billion) in the city’s largest listing in seven years, with its debut closely watched as sentiment toward AI stocks becomes more volatile.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/innolight-set-for-biggest-hong-kong-debut-in-seven-years",
+      "region": "APJ",
+      "country": "Hong Kong",
+      "category": "geopolitics",
+      "date": "2026-07-29",
+      "time": "23:00",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-29-2c1f0765",
@@ -336,34 +364,6 @@
       "category": "business",
       "date": "2026-07-29",
       "time": "22:10",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-29-d4b2e447",
-      "headline": "Apollo's Slok Says Warsh Silence Fuels Treasury Selloff",
-      "summary": "Federal Reserve Chairman Kevin Warsh's decision to abandon forward guidance on monetary policy is driving bond market volatility, with 30-year Treasuries selling off after Wednesday's rate decision, according to Torsten Slok, chief economist at Apollo Global Management. He speaks on Bloomberg Television's \"The Fed Decides.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-29/apollo-s-slok-says-warsh-silence-fuels-treasury-selloff-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "20:34",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-29-f8cd3983",
-      "headline": "Apollo’s Slok Says Fed’s New Silence Fuels ‘Yo-Yo’ Bond Market",
-      "summary": "Apollo Global Management’s Torsten Slok said the Federal Reserve’s abandonment of forward guidance is fueling historic bond market volatility, sending Treasury yields swinging “up and down like a yo-yo.”",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/apollo-s-slok-says-fed-s-new-silence-fuels-yo-yo-bond-market",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "20:28",
       "conflict_id": null,
       "score": 34.1
     },
@@ -392,20 +392,6 @@
       "category": "politics",
       "date": "2026-07-29",
       "time": "19:40",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-07-29-ce7b319e",
-      "headline": "Senate Confirms Jay Clayton to Lead U.S. Intelligence Community",
-      "summary": "Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-29",
-      "time": "00:47",
       "conflict_id": null,
       "score": 33.2
     },
@@ -466,8 +452,36 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-29-b9f912e1",
-      "headline": "Meta shares tumble 10% as Zuckerberg tries to sell his vision for AI ‘agents’",
+      "id": "2026-07-29-d3d05ba3",
+      "headline": "Trump's new spy chief Jay Clayton confirmed by US Senate",
+      "summary": "Jay Clayton's confirmation comes after the US president's original choice was rejected by lawmakers due to lack of relevant experience",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0rd1kl1825o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-07-29",
+      "time": "09:07",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-29-ffdbfa15",
+      "headline": "India's CJP protests: Why tech alone won't stop exam paper leaks",
+      "summary": "Can computer-based testing stop NEET paper leaks? Experts say governance matters as much as tech.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1m1gz1nx45o?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-07-29",
+      "time": "22:50",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-29-63392b31",
+      "headline": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
       "summary": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
@@ -494,9 +508,9 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-29-79ce8a6b",
-      "headline": "Qualcomm posts shrinking sales and profits as rising costs hit smartphone market",
-      "summary": "Net income falls 25% as higher memory chip prices hurt device business",
+      "id": "2026-07-29-6afbe20a",
+      "headline": "Qualcomm posts shrinking sales and profits as chip costs hurt smartphone market",
+      "summary": "Net income falls 25% as higher memory chip prices hit device business",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/d5762ed8-a384-4c6a-9f5e-8bce573cf0a0?syn-25a6b1a6=1",
       "region": "EU",
@@ -504,20 +518,6 @@
       "category": "business",
       "date": "2026-07-29",
       "time": "22:20",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-29-50cd1ec4",
-      "headline": "Ferrari EV designed by Jony Ive has already hit 2026 sales target",
-      "summary": "Italian carmaker reports strong demand from China for electric model derided for its unconventional design",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/11ac28b0-0c82-4d4a-bcb4-0e0dae44cf87?syn-25a6b1a6=1",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-29",
-      "time": "13:23",
       "conflict_id": null,
       "score": 26.4
     },
@@ -536,8 +536,36 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-29-81e44789",
-      "headline": "Asian Stocks to Fall as Fed Keeps Rates on Hold: Markets Wrap",
+      "id": "2026-07-29-b2ef47c8",
+      "headline": "Wedbush on Meta: We're Not Seeing Its Capex Pay Off",
+      "summary": "Ygal Arounian, Wedbush Managing Director of Internet Equity Research, reacts to the latest Meta earnings and highlights potential concerns on ROIC from investors with the company's various forays into the AI space. He speaks to Romaine Bostick and Emily Graffeo on Bloomberg's 'The Close.' (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/wedbush-on-meta-we-re-not-seeing-its-capex-pay-off-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-29",
+      "time": "23:29",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-29-4f46f01d",
+      "headline": "Allspring on Chipotle, Starbucks Earnings",
+      "summary": "Abby Roach, Allspring Global Investments Senior Portfolio Analyst, reacts to earnings from Starbucks and Chipotle as the companies focus on the consumer experience in challenging times. She speaks to Romaine Bostick and Emily Graffeo on Bloomberg's 'The Close.' (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/allspring-on-chipotle-starbucks-earnings-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-29",
+      "time": "23:26",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-29-f50943df",
+      "headline": "Asian Stocks Set to Fall, Fed Keeps Rates on Hold: Markets Wrap",
       "summary": "Asian stocks were set to track Wall Street lower after renewed concerns over artificial intelligence spending and uncertainty over the Federal Reserve’s policy outlook sent longer-dated Treasury yields to their highest levels in almost two decades.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-07-29/stock-market-today-dow-s-p-live-updates",
@@ -546,6 +574,34 @@
       "category": "business",
       "date": "2026-07-29",
       "time": "22:11",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-29-6813f41e",
+      "headline": "Sandwich Chain Jersey Mike’s, Backers Raise $1 Billion in IPO",
+      "summary": "Jersey Mike’s Subs Inc. and some of its shareholders raised $1 billion in an initial public offering that priced at the midpoint of its marketed range.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/sandwich-chain-jersey-mike-s-backers-raise-1-billion-in-ipo",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-29",
+      "time": "23:18",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-29-447569e9",
+      "headline": "Fortress to Purchase $1.5 Billion of Loans By Fintech Unicorn Wayflyer",
+      "summary": "Fortress Investment Group has agreed to buy as much as $1.5 billion of loans originated by fintech unicorn Wayflyer to underpin the Irish finance platform’s growth.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/fortress-to-purchase-1-5-billion-of-loans-by-fintech-unicorn-wayflyer",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-29",
+      "time": "23:01",
       "conflict_id": null,
       "score": 26.1
     },
@@ -564,20 +620,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-29-b1b67fc9",
-      "headline": "The US Is Making the Most Fuel Since Pre-Covid. It’s Not Enough.",
-      "summary": "US refiners are turning crude oil into products like gasoline and diesel at a pace not seen since before the Covid-19 pandemic, but even that is unlikely to rein in soaring prices soon amid a historic fuel crunch.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/the-us-is-making-the-most-fuel-since-pre-covid-it-s-not-enough",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "17:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-29-68b80d11",
       "headline": "NZ Markets Watchdog CEO on Leave as Workplace Culture Reviewed",
       "summary": "New Zealand’s financial markets watchdog has appointed an interim chief executive after Samantha Barrass went on leave following revelations of “cultural concerns” in the workplace.",
@@ -592,58 +634,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-29-bd199c93",
-      "headline": "Binance.US Wants to Join Prediction Markets Race With CFTC Stamp",
-      "summary": "Binance.US is planning to apply for a license with the Commodity Futures Trading Commission that would help it start its own prediction market, the company’s chief executive officer said at a conference on Wednesday.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/binance-us-wants-to-join-prediction-markets-race-with-cftc-stamp",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "20:57",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-29-654762d0",
-      "headline": "FIFA Working On Plan To Raise As Much As $4.2B",
-      "summary": "Bloomberg's Vanessa Perdomo joins Dani Burger and Scarlet Fu on \"Bloomberg Deals.\" when FIFA announced controversial plans to raise external investment of $4.2 billion. In response to the proposal, UEFA, the organizer of European football, reacted furiously and saying it's considering a boycott of FIFA events. Also a top EU official saying today the FIFA proposal may spark competition law concerns.\n (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-29/fifa-working-on-plan-to-raise-as-much-as-4-2b-video",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-07-29",
-      "time": "20:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-29-fe1278eb",
-      "headline": "Investment Committee: Consumer Brands & Spending Habits",
-      "summary": "Enna Weng, head of capital markets at China Renaissance Global Markets, Eva Davis, managing partner, external affairs at Winston Taylor, and Tricia Glynn, managing partner at Advent International, join Dani Burger on \"Bloomberg Deals.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-29/investment-committee-consumer-brands-spending-habits-video",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "20:40",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-29-293d0cc8",
       "headline": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
-      "summary": "Senators John Cornyn and Thom Tillis accused the attorney general nominee of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency.",
+      "summary": "John Cornyn and Thom Tillis accused the attorney general nominee of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
       "region": "EU",
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-29",
-      "time": "20:26",
+      "time": "23:31",
       "conflict_id": null,
       "score": 25.2
     },
@@ -660,6 +660,20 @@
       "time": "19:14",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-07-29-769357e2",
+      "headline": "Iraq calls Saudi-US attacks ‘flagrant violation of sovereignty’",
+      "summary": "Prime Minister Ali al-Zaidi cancels first official trip to Saudi Arabia in protest.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/29/iraq-calls-saudi-us-attacks-flagrant-violation-of-sovereignty?traffic_source=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "politics",
+      "date": "2026-07-29",
+      "time": "23:10",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-07-29-927585f6",
@@ -830,6 +844,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-07-29-ccde07ee",
+      "headline": "Italy moves to ban horse-drawn tourist carriages in Rome and other art cities",
+      "summary": "On Wednesday afternoon Italy’s Chamber of Deputies saw the introduction of a bill which, if passed, would ban \"botticelle\", the traditional horse-drawn tourist carriages, especially common in Rome.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/07/29/italy-moves-to-ban-horse-drawn-tourist-carriages-in-rome-and-other-art-cities",
+      "region": "EU",
+      "country": "Italy",
+      "category": "politics",
+      "date": "2026-07-29",
+      "time": "17:31",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-07-29-2f2f8a07",
       "headline": "Ireland unveils blueprint to electrify economy by 2050",
       "summary": "Dublin's plan takes into account a surge in electricity demand over the coming decades, driven by electric vehicles, industry and rapidly expanding data centres, which will place growing pressure on the national grid.",
@@ -925,7 +953,7 @@
       "date": "2026-07-27",
       "time": "21:06",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-07-27-973c4f69",
@@ -939,7 +967,7 @@
       "date": "2026-07-27",
       "time": "13:31",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
       "id": "2026-07-27-7c4ac7c2",
@@ -953,21 +981,7 @@
       "date": "2026-07-27",
       "time": "21:10",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-27-f29d6e2f",
-      "headline": "US and Iran pause strikes for third night to make space for talks, US ambassador says",
-      "summary": "Neither the US nor Iran have launched attacks in the last three nights, after almost two weeks of tit-for-tat strikes risked derailing talks to permanently end the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y45kdkynpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-27",
-      "time": "08:14",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-07-27-53a1c03f",
@@ -1162,20 +1176,6 @@
       "category": "business",
       "date": "2026-07-24",
       "time": "08:28",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-22-43cb3190",
-      "headline": "Watch: What it was like inside Maduro's court hearing",
-      "summary": "The BBC's Kayla Epstein was inside the courtroom as a judge set the start date for the ousted Venezuelan president's trial in the US.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cvg841yw7keo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-07-22",
-      "time": "22:16",
       "conflict_id": null,
       "score": 27.0
     }
