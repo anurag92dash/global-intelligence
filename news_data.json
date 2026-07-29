@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29T18:37:16.818028+00:00",
+  "updated": "2026-07-29T19:56:46.179937+00:00",
   "story_count": 80,
   "source_count": 8,
   "stories": [
@@ -90,14 +90,14 @@
     {
       "id": "2026-07-29-bd84e4a8",
       "headline": "Fauci Pleads the Fifth, Refusing to Answer Questions on Covid Origins at Senate Hearing",
-      "summary": "The panel’s chairman, Rand Paul, has long accused Dr. Fauci of funding research that triggered the Covid pandemic and lying about it to Congress — charges Dr. Fauci denies.",
+      "summary": "Senator Rand Paul said the committee he leads would vote next week on whether to hold Dr. Fauci in contempt of Congress.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html",
       "region": "NA",
       "country": "Congress",
       "category": "politics",
       "date": "2026-07-29",
-      "time": "17:13",
+      "time": "19:36",
       "conflict_id": null,
       "score": 50.2
     },
@@ -172,6 +172,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-07-29-c4451df9",
+      "headline": "Warner Bros. Deal Collapse Would Cost the Ellisons $9.8B",
+      "summary": "Bloomberg's Scarlet Fu joins Dani Burger on \"Bloomberg Deals.\" Larry Ellison and his family would be on the hook for $9.8 billion if Paramount Skydance's deal to buy Warner Bros. Discovery Inc. falls apart. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/warner-bros-deal-collapse-would-cost-the-ellisons-9-8b-video",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-29",
+      "time": "19:52",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
       "id": "2026-07-29-62d1147d",
       "headline": "US Military Escorting Oil and Gas Through Strait, Wright Says",
       "summary": "Energy Secretary Chris Wright said that a new $100 billion data center campus built by NextEra energy and Brookfield will be powered by a nuclear and gas supply built on federal lands and will provide its own water. Wright also discussed the state of energy prices as the Iran war heats back up, and said it's not possible to forecast where gas prices will be by Labor Day. \n (Source: Bloomberg)",
@@ -209,7 +223,7 @@
       "country": "Greece",
       "category": "geopolitics",
       "date": "2026-07-29",
-      "time": "17:52",
+      "time": "18:30",
       "conflict_id": null,
       "score": 40.0
     },
@@ -226,20 +240,6 @@
       "time": "16:04",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-07-29-ca5d2445",
-      "headline": "Trump says US to deliver ‘beating’ to Iran after bases again targeted",
-      "summary": "US president promises major escalation a day after new Iran attacks and his White House meeting with Netanyahu.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/29/trump-says-us-to-deliver-beating-to-iran-after-bases-again-targeted?traffic_source=rss",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-07-29",
-      "time": "15:43",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-07-29-f0443194",
@@ -270,20 +270,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-07-29-11899ae8",
-      "headline": "F1 season to end in Europe if Qatar, Abu Dhabi unable to host due to war",
-      "summary": "F1 sets a mid-September deadline to decide whether final rounds in Middle East can be held due to US-Israel war on Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/29/f1-season-to-end-in-europe-if-qatar-abu-dhabi-unable-to-host-due-to-us-iran-war?traffic_source=rss",
-      "region": "MENA",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-07-29",
-      "time": "12:27",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-07-29-a8e05b71",
       "headline": "FIFA's plan to sell World Cup to private investors met with shock and anger by the world of football",
       "summary": "FIFA president Gianni Infantino has written to all 211 member associations, offering each $40 million (€35 million) if they back his controversial plan to sell stakes in the governing body's major competitions.",
@@ -310,6 +296,20 @@
       "time": "14:34",
       "conflict_id": null,
       "score": 37.0
+    },
+    {
+      "id": "2026-07-29-89610207",
+      "headline": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-29",
+      "time": "18:41",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-07-29-d3d05ba3",
@@ -349,7 +349,7 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-07-29",
-      "time": "16:19",
+      "time": "19:40",
       "conflict_id": null,
       "score": 33.2
     },
@@ -424,6 +424,62 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-29-7d3c67fe",
+      "headline": "Dollar Falls Most in Two Weeks After Fed Holds Rates Steady",
+      "summary": "The dollar fell the most in two weeks after the Federal Reserve kept interest rates unchanged, and as traders pared bets that the central bank will boost borrowing costs at its next meeting in September.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/dollar-drops-to-lowest-in-nearly-a-week-as-fed-holds-steady",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-29",
+      "time": "18:27",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-29-e458380d",
+      "headline": "Data Center Deals & Changing Consumer Habits | Bloomberg Deals 7/29/2026",
+      "summary": "A weekly, midday program that delivers high-impact, editorially driven coverage of the most important corporate transactions shaping the global market. Today's guests: Stonepeak Chairman, CEO & Co-Founder Michael Dorrell, Advent International Managing Partner Tricia Glynn, China Renaissance Global Markets Head of Capital Markets Enna Weng, and Winston Taylor Managing Partner, External Affairs Eva Davis. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-29/bloomberg-deals-7-29-2026-video",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-07-29",
+      "time": "19:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-29-4c1fb177",
+      "headline": "Emerging-Market Currencies Edge Up After Fed Holds Rates Steady",
+      "summary": "Emerging-market currencies gained after the Federal Reserve held interest rates steady, pushing the US dollar lower as traders priced out the remaining odds of an immediate rate increase.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/emerging-market-stocks-sink-further-as-asian-tech-slide-deepens",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-29",
+      "time": "08:53",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-29-65578eea",
+      "headline": "Ex-French Fighter Pilot Charged in China Spying Case, AFP Says",
+      "summary": "A former French fighter pilot was charged and placed under judicial supervision for allegedly collecting and providing classified information to a foreign power, AFP reported, citing the Paris public prosecutor’s office.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-29/ex-french-fighter-pilot-charged-in-china-spying-case-afp-says",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-07-29",
+      "time": "18:32",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-29-b91814d4",
       "headline": "Jim Leaviss, Renowned British Bond Investor, Dies at 55",
       "summary": "Jim Leaviss, the former head of fixed income at M&amp;G Investments and creator of the popular Bond Vigilantes blog, has died. He was 55.",
@@ -438,64 +494,8 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-29-b1b67fc9",
-      "headline": "The US Is Making the Most Fuel Since Pre-Covid. It’s Not Enough.",
-      "summary": "US refiners are turning crude oil into products like gasoline and diesel at a pace not seen since before the Covid-19 pandemic, but even that is unlikely to rein in soaring prices soon amid a historic fuel crunch.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/the-us-is-making-the-most-fuel-since-pre-covid-it-s-not-enough",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "17:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-29-404848af",
-      "headline": "Dysfunction in High-Grade Bond Market Rose in July, NY Fed Says",
-      "summary": "The US high-grade corporate bond market saw the highest level of dysfunction in nearly three years this month, according to a Federal Reserve Bank of New York index.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/dysfunction-in-high-grade-bond-market-rose-in-july-ny-fed-says",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "17:34",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-29-cb334aeb",
-      "headline": "Pickier Retail Crowd Dumps Most Single Stocks Since Pandemic",
-      "summary": "Retail investors are becoming more selective, offloading the most individual stocks on Tuesday since the pandemic, according to data compiled by Vanda Research.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/pickier-retail-crowd-dumps-most-single-stocks-since-pandemic",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-29",
-      "time": "17:28",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-29-29cc63ac",
-      "headline": "China’s CMOC Makes Iron Ore Push With Brazil Mine Financing Deal",
-      "summary": "The trading arm of Chinese copper giant CMOC Group Ltd. is making a push into iron ore with a deal to finance a mining company in Brazil.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-29/china-s-cmoc-makes-iron-ore-push-with-brazil-mine-financing-deal",
-      "region": "APJ",
-      "country": "Brazil",
-      "category": "geopolitics",
-      "date": "2026-07-29",
-      "time": "16:23",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-29-2702002a",
-      "headline": "Vote on Blanche in Doubt After Senators Express Skepticism Over I.R.S. Provision",
+      "id": "2026-07-29-293d0cc8",
+      "headline": "Senators Cornyn and Tillis Threaten to Block Blanche Nomination Over Trump’s IRS Deal",
       "summary": "Senators John Cornyn and Thom Tillis accused the attorney general nominee of refusing to put on paper his promise to kill aspects of the deal he cut to settle President Trump’s suit against the agency.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-senate-vote-irs.html",
@@ -517,7 +517,7 @@
       "country": "NATO",
       "category": "politics",
       "date": "2026-07-29",
-      "time": "16:35",
+      "time": "19:14",
       "conflict_id": null,
       "score": 25.2
     },
@@ -592,18 +592,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-29-127c7c93",
-      "headline": "BJP politician’s daughter explains why she supports India’s youth protests",
-      "summary": "Daughter of a BJP politician, Yashaswinee Raje Singh, tells Al Jazeera why she supports India’s student-led protests.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/29/bjp-politicians-daughter-explains-why-she-supports-indias-youth-protests?traffic_source=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
+      "id": "2026-07-29-08e1435a",
+      "headline": "Analysis: Why China denied its foreign minister had chat with Japan's",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/china-up-close/analysis-why-china-denied-its-foreign-minister-had-chat-with-japan-s",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-07-29",
-      "time": "12:50",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-07-29-b309816a",
@@ -718,20 +718,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-29-b25a1d63",
-      "headline": "China, Russia exercises highlight holes in Japan's Pacific defenses",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/defense/china-russia-exercises-highlight-holes-in-japan-s-pacific-defenses",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-07-29",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-07-29-2f2f8a07",
       "headline": "Ireland unveils blueprint to electrify economy by 2050",
       "summary": "Dublin's plan takes into account a surge in electricity demand over the coming decades, driven by electric vehicles, industry and rapidly expanding data centres, which will place growing pressure on the national grid.",
@@ -828,6 +814,20 @@
       "time": "22:04",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-07-28-8aab91ba",
+      "headline": "Latest Oil Market News and Analysis for July 29",
+      "summary": "Oil roared back from its worst three-day decline since 2020 as a fresh round of fighting erupted across the Middle East, a reminder of the ongoing risk to supplies in the region.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-28/latest-oil-market-news-and-analysis-for-july-29",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-28",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-28-82de6cc2",
