@@ -6,9 +6,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
-    "last_activity": "2026-07-30",
+    "status_signal": "escalating",
+    "last_activity": "2026-07-31",
     "recent_headlines": [
+      {
+        "headline": "Russia and Ukraine report casualties as they continue to trade attacks",
+        "source": "Al Jazeera",
+        "date": "2026-07-31"
+      },
       {
         "headline": "Trump ‘not sure’ he will let Ukraine build Patriot missiles",
         "source": "Financial Times",
@@ -18,11 +23,6 @@
         "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
         "source": "BBC News",
         "date": "2026-07-30"
-      },
-      {
-        "headline": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-        "source": "BBC News",
-        "date": "2026-07-29"
       }
     ],
     "timeline": [
@@ -51,7 +51,7 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "stable",
+    "status_signal": "de-escalating",
     "last_activity": "2026-07-31",
     "recent_headlines": [
       {
@@ -65,7 +65,7 @@
         "date": "2026-07-31"
       },
       {
-        "headline": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
+        "headline": "Palestinians in Gaza react to latest ceasefire deal",
         "source": "Al Jazeera",
         "date": "2026-07-31"
       }
@@ -166,6 +166,11 @@
     "status_signal": "stable",
     "last_activity": "2026-07-31",
     "recent_headlines": [
+      {
+        "headline": "Icac hears of friendship breakdown between Reformers members – as it happened",
+        "source": "The Guardian",
+        "date": "2026-07-31"
+      },
       {
         "headline": "‘Rob has the bucks cash’: NSW Liberals used Reformers funds to pay for ‘personal expenditure’, Icac hears",
         "source": "The Guardian",
