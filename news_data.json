@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T21:43:25.725252+00:00",
-  "story_count": 80,
+  "updated": "2026-07-31T22:40:49.775477+00:00",
+  "story_count": 79,
   "source_count": 9,
   "stories": [
     {
@@ -15,21 +15,7 @@
       "date": "2026-07-31",
       "time": "04:25",
       "conflict_id": "israel-hamas",
-      "score": 71.0
-    },
-    {
-      "id": "2026-07-31-db2205d3",
-      "headline": "Trump Says Peace Board Has Plan for Gaza Disarmament",
-      "summary": "There was no immediate comment from Hamas or Israel, though the Board of Peace said Hamas had agreed to a “road map” to give up its weapons.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "02:47",
-      "conflict_id": "israel-hamas",
-      "score": 61.2
+      "score": 63.0
     },
     {
       "id": "2026-07-31-815a311f",
@@ -46,16 +32,16 @@
       "score": 55.0
     },
     {
-      "id": "2026-07-31-08d6c326",
-      "headline": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-      "summary": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
+      "id": "2026-07-31-e922f191",
+      "headline": "Israeli settlers vandalise Palestinian cemetery in West Bank",
+      "summary": "Israeli settlers vandalise Palestinian cemetery in West Bank",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-      "region": "NA",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/israeli-settlers-vandalise-palestinian-cemetery-in-west-bank?traffic_source=rss",
+      "region": "MENA",
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-07-31",
-      "time": "19:18",
+      "time": "22:12",
       "conflict_id": "israel-hamas",
       "score": 51.4
     },
@@ -100,6 +86,20 @@
       "time": "13:05",
       "conflict_id": null,
       "score": 46.0
+    },
+    {
+      "id": "2026-07-31-08d6c326",
+      "headline": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
+      "summary": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-31",
+      "time": "19:18",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-07-31-97e0eae7",
@@ -186,6 +186,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-07-31-d9d509f7",
+      "headline": "US Treasury tells banks further yen intervention is possible",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/currencies/us-treasury-tells-banks-further-yen-intervention-is-possible",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
+    },
+    {
       "id": "2026-07-31-e5d917bd",
       "headline": "Italy suspends Schengen with Spain over Ceuta migrant crisis, closes air and sea borders",
       "summary": "The temporary suspension of the Schengen agreement was prompted by concerns over the migrant crisis in Ceuta.",
@@ -214,6 +228,62 @@
       "score": 37.0
     },
     {
+      "id": "2026-07-31-e23cd87f",
+      "headline": "Citadel’s swoop on Situational Awareness helped stem a $3tn AI rout",
+      "summary": "Investors say the hedge fund deal reassured jittery traders in tech stocks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4f00bd97-c3da-41af-9b92-410ebaa6ad2d?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "21:46",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-07-31-2f545886",
+      "headline": "Yen Gains With US Rate Checks, Report of Japan’s Intervention",
+      "summary": "The yen advanced on Friday, with Nikkei reporting that Japanese authorities stepped into the market to support the currency.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/yen-s-intervention-rally-stalls-as-traders-alert-for-more-action",
+      "region": "NA",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "14:07",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-31-3a5a3107",
+      "headline": "Chip War, Stanford University: Scarlet & Tom's Must-Read Books",
+      "summary": "Scarlet Fu and Tom Keene discuss their must-read book on this weeks edition of \"Bloomberg Money.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/chip-war-stanford-university-scarlet-tom-s-must-read-video",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-31",
+      "time": "22:23",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-07-31-f35917ab",
+      "headline": "Zitron: \"Everyone Has Been Sold a Lie\" on AI",
+      "summary": "Following earnings this week that saw tech giants like Microsoft and Amazon report aggressive AI spending plans, EZ Primary Research CEO Ed Zitron gives his more skeptical take on the industry. In speaking about OpenAI and Anthropic Zitron argues \"everyone is buying into these stocks because they believe all of that CapEx is going towards diverse and spread out AI demand, when in fact, what it's actually doing is helping create infrastructure for",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/zitron-everyone-has-been-sold-a-lie-on-ai-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "21:42",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-07-31-dbdc1d3d",
       "headline": "Warsh Reportedly Considering Reducing Number of Fed Meetings",
       "summary": "Federal Reserve Chairman Kevin Warsh is considering reducing the frequency of the central bank’s scheduled policy meetings, the New York Times reported Friday.\nWarsh raised the proposal to change the frequency of meetings at this week’s gathering of the Federal Open Market Committee, the paper added.\nBloomberg Managing Editor Kate Davidson said changing the schedule would be the biggest change for Warsh. (Source: Bloomberg)",
@@ -228,30 +298,16 @@
       "score": 34.1
     },
     {
-      "id": "2026-07-31-1fa1f902",
-      "headline": "Extenet Bonds Miss Interest Amid Alleged Cash Control Violations",
-      "summary": "Bonds issued by Extenet Systems, a company that operates miniature cell towers, are in default after missing interest payments, and the firm also engaged in cash management violations, according to the bank responsible for collecting payments.",
+      "id": "2026-07-31-f18346fa",
+      "headline": "New York City Spared Downgrade by Fitch and Moody’s, for Now",
+      "summary": "New York City avoided a debt downgrade Friday by two major credit-rating companies, though both warned the city must take steps to narrow projected deficits or risk a cut — despite the current boom on Wall Street.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/extenet-bonds-miss-interest-amid-alleged-cash-control-violations",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/new-york-city-spared-downgrade-by-fitch-and-moody-s-for-now",
       "region": "NA",
       "country": null,
-      "category": "business",
+      "category": "geopolitics",
       "date": "2026-07-31",
-      "time": "20:37",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-07-31-590b0b52",
-      "headline": "Mortgage Rates Rise, 'Boomerang' Kids, Clarida on Warsh | Bloomberg Money 7/31/2026",
-      "summary": "Bloomberg Money takes the pulse of your financial life, powered by the reporting of our global newsroom. Today's guests: PIMCO Global Economic Advisor, Former Federal Reserve Vice Chairman Richard Clarida and RBC Capital Markets Head of US Equity Strategy Lori Calvasina. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/bloomberg-money-7-31-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "20:34",
+      "time": "21:10",
       "conflict_id": null,
       "score": 34.1
     },
@@ -284,48 +340,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-31-1647ccb3",
-      "headline": "Children face higher threat of US deportation as legal support deal expires",
-      "summary": "Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "21:11",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-31-fdd3323c",
-      "headline": "Police chief resigns days after deadly shooting in US city of Seattle",
-      "summary": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/police-chief-resigns-days-after-deadly-shooting-in-us-city-of-seattle?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "14:46",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-07-31-d9d509f7",
-      "headline": "US Treasury tells banks further yen intervention is possible",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/currencies/us-treasury-tells-banks-further-yen-intervention-is-possible",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
       "id": "2026-07-31-dd0fdbaf",
       "headline": "Japan's drive to replace nuclear reactors collides with worker shortage",
       "summary": "",
@@ -354,20 +368,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-07-31-7b50620e",
-      "headline": "Cyprus: 44-year-old accused of spying on British base for Iran",
-      "summary": "The man, a dual British and Azerbaijani national, is being held in Cyprus while extradition proceedings are underway. It is the first British investigation abroad under the National Security Act.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/31/cyprus-44-year-old-accused-of-spying-on-british-base-for-iran",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "12:23",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-07-31-3458222d",
       "headline": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
       "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
@@ -380,6 +380,20 @@
       "time": "10:32",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-07-31-4665fd9f",
+      "headline": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low",
+      "summary": "The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "00:57",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-07-31-fa1d5b55",
@@ -406,20 +420,6 @@
       "category": "business",
       "date": "2026-07-31",
       "time": "13:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-31-4665fd9f",
-      "headline": "How Leopold Aschenbrenner, the ‘golden child’ of the AI trade, was laid low",
-      "summary": "The $20bn hedge fund manager’s wild ride ended with a call to Ken Griffin",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/620bd668-d112-412d-aa52-22489b128d55?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "00:57",
       "conflict_id": null,
       "score": 26.4
     },
@@ -452,16 +452,58 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-31-f12b2d82",
-      "headline": "Jake Paul on Landmark Merger Between MVP, PFL To Take on the UFC",
-      "summary": "Jake Paul's combat-sports company Most Valuable Promotions is merging with the Professional Fighters League, aiming to take on the Ultimate Fighting Championship. Bloomberg's Romaine Bostick & Vanessa Perdomo sat down with Jake Paul and Nakisa Bidarian, co-founders of Most Valuable Promotions, and John Martin, CEO of the newly formed company, to discuss the merger, and the roadmap ahead for the new company. (Source: Bloomberg)",
+      "id": "2026-07-31-da436a70",
+      "headline": "Amazon completes $50bn investment in OpenAI",
+      "summary": "Ecommerce giant has roughly 5% stake in AI lab after equity deal",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "21:29",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-07-31-7c2d01d3",
+      "headline": "RBC's Calvasina Sees Nervousness, But 'No Panic' in Stocks",
+      "summary": "Lori Calvasina, head of US equity strategy at RBC Capital Markets, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss stock trading by institutional and retail investors. Plus the firm's  \"Four Tiers of Fear\". (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/jake-paul-on-landmark-merger-between-mvp-pfl-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/rbc-s-calvasina-sees-nervousness-but-no-panic-in-stocks-video",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-07-31",
-      "time": "21:26",
+      "time": "22:03",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-31-4ebe21f9",
+      "headline": "George Santos to Pay $35,000 Over ‘Manipulative’ Kalshi Bet",
+      "summary": "Former Congressman George Santos agreed to pay more than $35,000 to settle allegations he manipulated a wager on prediction market platform Kalshi about whether he’d attend the 2026 State of the Union.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/george-santos-must-pay-35-000-over-manipulative-kalshi-trade",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-07-31",
+      "time": "20:03",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-31-60df4456",
+      "headline": "Luxury Real Estate Firm Serhant Expands into Texas Amid Booming Market",
+      "summary": "Ryan Serhant, CEO and Founder of luxury real estate firm Serhant, discusses the company's strategic expansion into Texas, highlighting the state's robust job growth and entrepreneurial environment. Texas leads the nation with over 3.5 million startups and small businesses, and more Fortune 500 headquarters than any other state, driving a strong luxury housing market with $25 billion in residential sales over $1 million in the past year. He speaks",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/luxury-real-estate-firm-serhant-expands-into-texas-video",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "21:40",
       "conflict_id": null,
       "score": 26.1
     },
@@ -480,46 +522,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-31-680cd90f",
-      "headline": "Chevron CFO on 2Q Earnings, Growth Plan and Iraq Accord",
-      "summary": "Chevron CFO Eimear Bonner discusses the company's second-quarter earnings and strategy for operating amid the current geopolitical risks with Bloomberg's Romaine Bostick on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/chevron-cfo-on-2q-earnings-growth-plan-and-iraq-accord-video",
-      "region": "MENA",
-      "country": "Iraq",
-      "category": "business",
+      "id": "2026-07-31-416cc32f",
+      "headline": "Charges to Be Dropped Against Ex-Olympian David Hearn Accused of Damaging Reflecting Pool",
+      "summary": "President Trump had repeatedly accused vandals of damaging the Lincoln Memorial Reflecting Pool. On Friday, federal prosecutors acknowledged it was “the result of flawed installation.”",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/31/us/david-hearn-reflecting-pool-vandalism-charges.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-07-31",
-      "time": "20:27",
+      "time": "22:24",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-31-bd7cbb29",
-      "headline": "Colombia to Build Up Reserves as Peso Trades at 7-Year High",
-      "summary": "Colombia launched a program to accumulate as much $4 billion in international reserves, moving to weaken the nation’s currency from a seven-year high.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/colombia-to-build-up-reserves-as-peso-strengthens-to-7-year-high",
-      "region": "SA",
-      "country": "Colombia",
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "19:29",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-31-d58e3324",
-      "headline": "Brazil Traders Left Scrambling as Hours-Long Halt Hits Exchange",
-      "summary": "For more than three hours on Friday morning, traders in Sao Paulo’s financial district scrambled to understand why feeds from Brazil’s main exchange were all blank well past opening time.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/brazil-market-open-delayed-as-b3-exchange-sees-processing-issues",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "13:24",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-07-31-0a0bb45c",
@@ -545,7 +559,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-07-31",
-      "time": "19:14",
+      "time": "22:13",
       "conflict_id": null,
       "score": 25.2
     },
@@ -560,20 +574,6 @@
       "category": "politics",
       "date": "2026-07-31",
       "time": "21:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-31-054df213",
-      "headline": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
-      "summary": "Todd Blanche’s approach has collided with the jury-of-two reality in the Senate that has, thus far, kept him from the prize he covets: the stability and status conferred by a Senate confirmation.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/todd-blanche-ag-trump-immunity.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "21:02",
       "conflict_id": null,
       "score": 25.2
     },
@@ -630,20 +630,6 @@
       "category": "business",
       "date": "2026-07-31",
       "time": "07:36",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-07-31-55e780f9",
-      "headline": "BP puts North Sea oil and gas business up for sale",
-      "summary": "Move will end six decades of production in area, as new CEO tries to simplify company and cut debtBusiness live – latest updatesBP has put its North Sea oil and gas business up for sale as it looks to end six decades of production from the basin.The firm announced on Friday morning it had launched a formal process to market its North Sea business for a potential sale. The move comes as BP’s new chief executive, Meg O’Neill, tries to simplify the ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/jul/31/bp-north-sea-oil-and-gas-business-up-for-sale",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "17:06",
       "conflict_id": null,
       "score": 24.0
     },
@@ -939,7 +925,7 @@
       "date": "2026-07-29",
       "time": "05:01",
       "conflict_id": "israel-hamas",
-      "score": 47.0
+      "score": 55.0
     },
     {
       "id": "2026-07-29-d7fe9353",
