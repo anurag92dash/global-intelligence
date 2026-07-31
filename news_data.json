@@ -1,6 +1,6 @@
 {
-  "updated": "2026-07-31T17:58:28.704781+00:00",
-  "story_count": 78,
+  "updated": "2026-07-31T19:18:23.117789+00:00",
+  "story_count": 76,
   "source_count": 9,
   "stories": [
     {
@@ -15,21 +15,7 @@
       "date": "2026-07-31",
       "time": "04:25",
       "conflict_id": "israel-hamas",
-      "score": 79.0
-    },
-    {
-      "id": "2026-07-31-db2205d3",
-      "headline": "Trump Says Peace Board Has Plan for Gaza Disarmament",
-      "summary": "There was no immediate comment from Hamas or Israel, though the Board of Peace said Hamas had agreed to a “road map” to give up its weapons.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "02:47",
-      "conflict_id": "israel-hamas",
-      "score": 69.2
+      "score": 71.0
     },
     {
       "id": "2026-07-31-003b8686",
@@ -42,20 +28,6 @@
       "category": "geopolitics",
       "date": "2026-07-31",
       "time": "12:59",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
-      "id": "2026-07-31-40dafad4",
-      "headline": "Gaza Board of Peace announces Hamas disarmament agreement: What we know",
-      "summary": "Under the agreement, Israel would have to withdraw from Gaza. But Palestinians remain sceptical.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/gaza-board-of-peace-announces-hamas-disarmament-agreement-what-we-know?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "11:23",
       "conflict_id": "israel-hamas",
       "score": 59.4
     },
@@ -74,6 +46,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-07-31-db2205d3",
+      "headline": "Trump Says Peace Board Has Plan for Gaza Disarmament",
+      "summary": "There was no immediate comment from Hamas or Israel, though the Board of Peace said Hamas had agreed to a “road map” to give up its weapons.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/30/us/politics/trump-gaza-peace-board-hamas.html",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-07-31",
+      "time": "02:47",
+      "conflict_id": "israel-hamas",
+      "score": 53.2
+    },
+    {
       "id": "2026-07-31-c01d2490",
       "headline": "Three-year roadmap proposed for Hamas disarmament in Gaza",
       "summary": "Under a US-backed proposal, Hamas and Israel would have 14 days to finalise Gaza&#039;s political transition",
@@ -88,18 +74,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-07-31-6591b2ec",
-      "headline": "Palestinians in Gaza are sceptical about the latest peace plan",
-      "summary": "Palestinians in Gaza are sceptical of the latest peace plan, questioning whether it will bring lasting change.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/31/31-07-reported-hani-mahmoud-gaza-ps?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
+      "id": "2026-07-31-bfafaeba",
+      "headline": "Trump Casts Doubt on New Iran Negotiations as War Drags On",
+      "summary": "Retired Army General Wesley Clark, who served as Supreme Allied Commander Europe, said the more the US wants negotiations, the stronger the hand Iran thinks it has at the table. Clark said that the Iranian government sees the fight against the US as existential and that it will take more than taking out a few oil refineries to get the IRGC to surrender, particularly as they receive more backing from Russia and China.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/trump-casts-doubt-on-iran-negotiations-as-war-drags-on-video",
+      "region": "EU",
+      "country": "Europe",
       "category": "geopolitics",
       "date": "2026-07-31",
-      "time": "10:47",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
+      "time": "19:05",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-07-31-14fb2f62",
@@ -242,6 +228,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-07-31-0afaca6b",
+      "headline": "DR Congo Ebola epidemic becomes world’s second largest outbreak",
+      "summary": "Officials declare the outbreak the fastest spreading ever, warning the world to &#039;pay much more attention&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/dr-congo-ebola-epidemic-becomes-worlds-second-largest-outbreak?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-07-31",
+      "time": "16:52",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-07-31-fdd3323c",
       "headline": "Police chief resigns days after deadly shooting in US city of Seattle",
       "summary": "Shon Barnes steps down amid questions over authorities’ handling of the shooting at a popular food festival.",
@@ -254,6 +254,20 @@
       "time": "14:46",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-07-31-f14f55b1",
+      "headline": "Very Positive on European Stocks: UBS’s Panseri",
+      "summary": "UBS Wealth Management France CIO Claudio Panseri discusses European earnings, how Europe works with AI stocks, and gives her outlook on bond yields. She speaks with Anna Edwards and Guy Johnson on ‘Opening Trade.’ (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/very-positive-on-european-stocks-ubs-s-panseri-video",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "18:42",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-07-31-601dca26",
@@ -298,20 +312,6 @@
       "score": 31.4
     },
     {
-      "id": "2026-07-31-dd0fdbaf",
-      "headline": "Japan's drive to replace nuclear reactors collides with worker shortage",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/japan-s-drive-to-replace-nuclear-reactors-collides-with-worker-shortage",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
       "id": "2026-07-31-d9d509f7",
       "headline": "US Treasury tells banks further yen intervention is possible",
       "summary": "",
@@ -320,6 +320,20 @@
       "region": "NA",
       "country": null,
       "category": "business",
+      "date": "2026-07-31",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
+      "id": "2026-07-31-dd0fdbaf",
+      "headline": "Japan's drive to replace nuclear reactors collides with worker shortage",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/japan-s-drive-to-replace-nuclear-reactors-collides-with-worker-shortage",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
       "date": "2026-07-31",
       "time": "",
       "conflict_id": null,
@@ -452,6 +466,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-07-31-21eaf479",
+      "headline": "US Says Not Involved in Redirecting Pakistan-Bound LNG Tanker",
+      "summary": "The US said it had no role in redirecting the first Qatari liquefied natural gas shipment to transit the Strait of Hormuz in more than three weeks.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/us-says-not-involved-in-redirecting-pakistan-bound-lng-tanker",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "18:41",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-31-4c86cba2",
+      "headline": "Couche-Tard CEO Expects Żabka Shareholder Pressure to Raise Bid",
+      "summary": "The head of Alimentation Couche-Tard Inc. said he expects pushback from some Żabka Group SA shareholders on the Canadian company’s $8.7 billion takeover offer, but is still confident about getting the deal done.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-31/couche-tard-ceo-expects-zabka-shareholder-pressure-to-raise-bid",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-31",
+      "time": "18:28",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-07-31-e7ed96fc",
+      "headline": "CreditSights’ Winnie Cisar Gives Outlook on Tech Bonds",
+      "summary": "CreditSights Global head of credit strategy Winnie Cisar discusses the tech space and expectations for credit markets and borrowing. She speaks on “Bloomberg Real Yield” on July 30, 2026. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/creditsights-winnie-cisar-gives-outlook-on-tech-bonds-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-07-31",
+      "time": "18:11",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-07-31-56edc17d",
       "headline": "Jane Street-Backed Exchange Sells Control to TMX Group",
       "summary": "MEMX LLC, an exchange operator backed by Jane Street and Morgan Stanley, will combine with equity options market BOX in a deal that gives control of the merged entity to Canada’s leading stock exchange group.",
@@ -466,16 +522,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-31-8dc00239",
-      "headline": "More on the Fed’s New Game of Monetary Policy Football",
-      "summary": "Revisiting the Maradona theory of interest rates.",
+      "id": "2026-07-31-9a8ca1d1",
+      "headline": "Odd Lots: Why Private Credit Got Entangled With Insurance",
+      "summary": "Insurers have quietly become a major driver of the private credit boom, changing the insurance industry itself and raising a number of questions about risk and regulation.\n\nAndrew Granato and Pranjal Drall, authors of a new paper, “Private Credit's State Backstop: How Private Equity Socializes Risk Through Insurers,\" tell Tracy Alloway and Joe Weisenthal how both sides benefit from the partnership and why taxpayers might ultimately be on the hook",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-07-31/more-on-the-fed-s-new-game-of-monetary-policy-football",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "url": "https://www.bloomberg.com/news/videos/2026-07-31/odd-lots-why-private-credit-got-entangled-with-insurance-video",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
       "date": "2026-07-31",
-      "time": "17:13",
+      "time": "16:31",
       "conflict_id": null,
       "score": 26.1
     },
@@ -508,72 +564,30 @@
       "score": 26.1
     },
     {
-      "id": "2026-07-31-22b099b2",
-      "headline": "Costs to Hedge Against a Deeper Selloff in US Bonds Are Soaring",
-      "summary": "Bond traders are paying the highest premiums since March to protect against a further climb in longer-dated yields, as the fallout from this week’s Federal Reserve policy meeting continues to ripple through the rates market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/costs-to-hedge-against-a-deeper-selloff-in-us-bonds-are-soaring",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "15:56",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-31-f16e5ca9",
-      "headline": "European Stocks Trim Monthly Gain as Novo Nordisk and UMG Slump",
-      "summary": "European shares erased Friday’s gains, as Novo Nordisk A/S slumped after a failed drug study and Universal Music Group NV sank to a record low on disappointing earnings.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/european-stocks-rally-to-fresh-record-on-tech-strong-earnings",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "07:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-31-5e9072ae",
-      "headline": "Chile Posts Weakest Copper Output for Second Quarter in 19 Years",
-      "summary": "Chile registered its weakest second quarter of copper production in data going back to 2007, underscoring the challenge facing the world’s biggest supplier as aging mines struggle to lift output despite billions of dollars of investment.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/chile-posts-weakest-copper-output-for-second-quarter-in-19-years",
-      "region": "SA",
-      "country": "Chile",
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "15:23",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-31-8bfc55c5",
-      "headline": "Amid Talk of a Party Switch, Fetterman Vows ‘Never’",
-      "summary": "Changing one’s affiliation is rare in the Senate, but it can have big consequences. John Fetterman of Pennsylvania says he is staying put as a Democrat.",
+      "id": "2026-07-31-7993fafc",
+      "headline": "Trump to Appeal Judge’s Ruling Denouncing I.R.S. Lawsuit as Exercise in Self-Dealing",
+      "summary": "It was the latest sign that the president was doubling down on his fight for aspects of a deal that brings him vast benefits, even though they have jeopardized the confirmation of his pick for attorney general.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html",
+      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-appeal-irs-lawsuit-ruling.html",
       "region": "NA",
-      "country": "Senate",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-07-31",
-      "time": "17:56",
+      "time": "19:14",
       "conflict_id": null,
       "score": 25.2
     },
     {
-      "id": "2026-07-31-336cbaa3",
-      "headline": "Missteps Mount in Justice Dept.’s Case Against Minnesota Anti-ICE Protesters",
-      "summary": "The problems plaguing the case have not only hurt the government’s chances, lawyers say, but have also undermined the bonds of trust that prosecutors have traditionally enjoyed in court.",
+      "id": "2026-07-31-3f3f5b69",
+      "headline": "Trump Escalates Feud With Senate Over Blanche",
+      "summary": "The president’s comments threw the confirmation of Todd Blanche, his pick to be attorney general, further into doubt.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/minnesota-ice-immigration-protests-justice-department-lemon-fort.html",
+      "url": "https://www.nytimes.com/2026/07/31/us/trump-escalates-feud-with-senate-over-blanche.html",
       "region": "NA",
-      "country": null,
+      "country": "Senate",
       "category": "politics",
       "date": "2026-07-31",
-      "time": "14:53",
+      "time": "19:13",
       "conflict_id": null,
       "score": 25.2
     },
@@ -634,6 +648,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-07-31-98c0e6d8",
+      "headline": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
+      "summary": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off plan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-31",
+      "time": "17:38",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-07-31-b1037cbe",
       "headline": "Tunisian wildfires expose failing infrastructure, community vulnerabilities",
       "summary": "For families in Tunisia&#039;s north, the wildfires have meant lost homes, livestock and harvests.",
@@ -662,20 +690,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-07-31-f195a0fa",
-      "headline": "Pakistan telecom sector faces test after Telenor-Ufone merger",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/business-deals/pakistan-telecom-sector-faces-test-after-telenor-ufone-merger",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-07-31-467f3c98",
       "headline": "Cosplayers perform and pose at ChinaJoy gaming festival",
       "summary": "Cosplayers in elaborate costumes gather at ChinaJoy in Shanghai, where gaming fans meet characters inspired by popular video games.",
@@ -686,20 +700,6 @@
       "category": "geopolitics",
       "date": "2026-07-31",
       "time": "13:57",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-07-31-3f9cbf5e",
-      "headline": "Solar eclipse accommodation demand surges in Spain and Iceland. Is it too late to book?",
-      "summary": "Unlike most travel trends, eclipse demand is remarkably concentrated in a brief period and geographic zone.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/07/31/solar-eclipse-accommodation-demand-surges-in-spain-and-iceland-is-it-too-late-to-book",
-      "region": "EU",
-      "country": "Spain",
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "11:47",
       "conflict_id": null,
       "score": 21.0
     },
@@ -746,20 +746,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-30-161f82ac",
-      "headline": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-07-30",
-      "time": "17:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-30-c1393c7e",
       "headline": "Veteran Ugandan opposition leader collapses in court and in ICU, his wife says",
       "summary": "The 70 year old has been in detention since November 2024 and faces treason charges, which he denies.",
@@ -772,34 +758,6 @@
       "time": "09:34",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-30-0004daad",
-      "headline": "U.S. Government Mislabels Map of African Countries at AIDS Conference",
-      "summary": "Nigeria, a coastal country in western Africa, was landlocked in the Sahara, among other errors. The department said it had been “hastily altered.”",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/30/us/politics/state-department-map-africa.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-30",
-      "time": "19:53",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-07-30-96f6815b",
-      "headline": "US government map of Africa mislabels every country at global conference",
-      "summary": "State department ‘takes full responsibility’ for erroneous, widely shared chart displayed at Aids conference in BrazilA US government map of Africa mislabeled every country during a state department presentation at a ⁠global conference in Brazil ⁠this week, ​causing a stir among attenders who took screenshots and posted them online.Reuters viewed a video of the presentation given at the Aids 2026 conference in ⁠Rio de Janeiro, which shows the err",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/jul/30/government-map-mislabels-african-countries",
-      "region": "EU",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-07-30",
-      "time": "22:48",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-07-30-b233a14a",
@@ -872,6 +830,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-07-30-b831c61c",
+      "headline": "The delights of deadlines",
+      "summary": "A friend to procrastinators, an enemy to prattlers, a necessity for managers",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/07/30/the-delights-of-deadlines",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-30",
+      "time": "13:02",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
       "id": "2026-07-30-425ccf25",
       "headline": "The battle for Hugo Boss",
       "summary": "A British retail magnate tries to go upmarket",
@@ -924,6 +896,20 @@
       "category": "geopolitics",
       "date": "2026-07-29",
       "time": "22:23",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-07-29-89610207",
+      "headline": "Saudi Arabia's dilemma as it tries to stay out of US-Iran war",
+      "summary": "The kingdom faces a choice of whether to keep hitting back as a deterrent or to try to de-escalate the situation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyx83l8jv8o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-07-29",
+      "time": "18:41",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1009,7 +995,7 @@
       "date": "2026-07-27",
       "time": "21:10",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-07-27-d8a00620",
@@ -1023,7 +1009,7 @@
       "date": "2026-07-27",
       "time": "21:06",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-07-27-f48e84e2",
@@ -1066,20 +1052,6 @@
       "time": "22:08",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-07-24-1a8f4fae",
-      "headline": "Watch: Wildfires rage across Spain and France",
-      "summary": "Spain's government declares national emergency as French authorities order evacuations in tourist hot spot.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cz641jd4p4lo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-07-24",
-      "time": "15:13",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-24-121db7a3",
