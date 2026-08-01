@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-01T01:10:05.162669+00:00",
-  "story_count": 80,
+  "updated": "2026-08-01T04:31:41.408717+00:00",
+  "story_count": 83,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-08-01-f4a92ad6",
+      "headline": "Russian missile attack kills three in Ukraine’s Kyiv",
+      "summary": "Residents trapped as partially collapsed building catches fire after deadly strike on Ukrainian capital.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/russian-missile-attack-kills-three-in-ukraines-kyiv?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-01",
+      "time": "02:06",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
+    },
     {
       "id": "2026-08-01-ca6eb140",
       "headline": "Israel launches attacks across Gaza one day after Hamas agrees to disarm",
@@ -16,6 +30,34 @@
       "time": "00:48",
       "conflict_id": "israel-hamas",
       "score": 59.4
+    },
+    {
+      "id": "2026-08-01-f96f2ec1",
+      "headline": "ECB official warns climate crisis poses growing threat to ‘core financial stability’",
+      "summary": "Exclusive: As wildfires rage, Frank Elderson says more work needed to assess risk from collapse of ecosystem servicesA senior policymaker at the European Central Bank has said the climate emergency and the breakdown of nature poses a dramatically growing risk to the global economy.Frank Elderson, a member of the ECB’s executive board, said the eurozone lender of last resort was stepping up its monitoring of the financial risks linked to the destr",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/01/ecb-climate-wildfires-global-economy-stability",
+      "region": "EU",
+      "country": "Eurozone",
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 49.0
+    },
+    {
+      "id": "2026-08-01-6dd60ffb",
+      "headline": "Is Israel really ready to withdraw from Gaza?",
+      "summary": "Netanyahu faces political turmoil over Gaza disarmament plan tied to Israel&#039;s potential withdrawal from the enclave.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/is-israel-really-ready-to-withdraw-from-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-01",
+      "time": "03:21",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-08-01-3de76fb7",
@@ -32,6 +74,20 @@
       "score": 38.8
     },
     {
+      "id": "2026-08-01-5f7ebc0b",
+      "headline": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "02:21",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-01-1b3b7b73",
       "headline": "George Santos Fined Over Bets on State of the Union on Kalshi Prediction Market",
       "summary": "A federal regulator fined the former lawmaker $35,000 over allegations of insider trading by placing bets on Kalshi about whether he would attend the State of the Union address in February.",
@@ -44,6 +100,20 @@
       "time": "00:46",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-08-01-f4f5e3c0",
+      "headline": "Peru’s ex-president Humala released after conviction overturned",
+      "summary": "Humala and his wife were sentenced to 15 years last year after being convicted of money laundering.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/1/perus-ex-president-humala-released-after-conviction-overturned?traffic_source=rss",
+      "region": "SA",
+      "country": "Peru",
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "03:52",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-08-01-dd0fdbaf",
@@ -74,6 +144,90 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-01-b2bd52c2",
+      "headline": "Why South Korea’s won is one of world’s best performers",
+      "summary": "Currency strengthened nearly 8% against dollar last month despite tech stock sell-off",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1b8a5bf5-d043-4a28-a606-801a00bb8082?syn-25a6b1a6=1",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "02:10",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-01-01094bcc",
+      "headline": "AI’s ‘cookie banner’ moment: EU labels come for the bots",
+      "summary": "New regulations require companies to label chatbots, deepfakes and AI-generated marketing material",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/19ff059b-1d02-4f0e-9b34-ce96edb0cb13?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-01-fb6736d0",
+      "headline": "India’s Kerala Struggles to Care for Aging Population with Fertility Rate Low",
+      "summary": "India’s biggest student protests in years last week highlighted the growing frustrations of the country’s hundreds of millions of young people.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/india-s-kerala-struggles-to-care-for-aging-population-with-fertility-rate-low",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "02:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-01-d1b3d3dc",
+      "headline": "Lawmakers Unveil E15 Proposal Allowing Blending Exemptions",
+      "summary": "US lawmakers unveiled legislation that would expand sales of higher-ethanol gasoline and give exemptions from annual blending mandates for some small oil refineries that have received them in the past.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/lawmakers-unveil-e15-legislation-allowing-blending-exemptions",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "01:13",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-01-3f3f5b69",
+      "headline": "Trump Escalates Feud With Senate Over Blanche",
+      "summary": "The president’s comments threw the confirmation of Todd Blanche, his pick to be attorney general, further into doubt.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/31/us/trump-escalates-feud-with-senate-over-blanche.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "04:06",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-08-01-8bfc55c5",
+      "headline": "Amid Talk of a Party Switch, Fetterman Vows ‘Never’",
+      "summary": "Changing one’s affiliation is rare in the Senate, but it  can have big consequences. John Fetterman of Pennsylvania says he is staying put as a Democrat.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "01:41",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-08-01-05775ea2",
       "headline": "Adani to pay no company tax despite $1bn revenue from Queensland coalmine",
       "summary": "Indian conglomerate offsets earnings from Carmichael mine to report $340.6m loss, after promising billions in taxes and royaltiesGet our breaking news email, free app or daily news podcastIndian conglomerate Adani will pay no company tax despite generating almost $1bn in revenue from coal mining in Queensland over the past year.Financial accounts show the Carmichael thermal coal operations used large costs – including production and related party",
@@ -86,6 +240,20 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-01-8dfe1c15",
+      "headline": "Why has Infantino scrapped FIFA’s World Cup investment plan? What to know",
+      "summary": "How FIFA President Gianni Infantino was forced abandon his World Cup equity plan after seismic backlash across football.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/why-has-infantino-scrapped-fifas-world-cup-investment-plan-what-to-know?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "01:10",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-08-01-661f047a",
@@ -242,20 +410,6 @@
       "score": 46.0
     },
     {
-      "id": "2026-07-31-08d6c326",
-      "headline": "Trump says US has ‘understanding’ with Israel on Hamas disarmament deal",
-      "summary": "Israel has not yet agreed to plan for Hamas to surrender weapons in exchange for full Israeli withdrawal from Gaza.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/7/31/trump-says-us-has-understanding-with-israel-on-hamas-disarmament-deal?traffic_source=rss",
-      "region": "NA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "19:18",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
       "id": "2026-07-31-975eb4b3",
       "headline": "US Treasury undertakes historic intervention in yen market",
       "summary": "New York Fed sells euros to buy yen following recent speculation that Tokyo intervened to support Japan’s currency",
@@ -294,20 +448,6 @@
       "category": "politics",
       "date": "2026-07-31",
       "time": "17:43",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-07-31-57d9fce9",
-      "headline": "Daughter of British couple killed in Spanish wildfire rejects claim they ignored order to leave",
-      "summary": "Exclusive: Danielle Kirton calls on Ed Miliband to help her get answers about why evacuation order came too lateThe bereaved daughter of a British couple who died in a Spanish wildfire is calling on the foreign secretary, Ed Miliband, to get answers from Spain’s government about why her parents were not told to evacuate until it was too late.Severe wildfires have burned across Spain and France since early July, killing people, destroying thousand",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/31/spain-wildfire-bedar-british-couple-pete-fran-gillam-killed",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "16:36",
       "conflict_id": null,
       "score": 40.0
     },
@@ -452,20 +592,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-07-31-f18346fa",
-      "headline": "New York City Spared Downgrade by Fitch and Moody’s, for Now",
-      "summary": "New York City avoided a debt downgrade Friday by two major credit-rating companies, though both warned the city must take steps to narrow projected deficits or risk a cut — despite the current boom on Wall Street.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-31/new-york-city-spared-downgrade-by-fitch-and-moody-s-for-now",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "21:10",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-07-31-b07451ec",
       "headline": "Why Mitch McConnell Isn’t Giving Up His Senate Seat",
       "summary": "Democrats are demanding that the Kentucky Republican resign. Others who were sidelined for far longer faced no such calls, but times are changing.",
@@ -480,32 +606,18 @@
       "score": 33.2
     },
     {
-      "id": "2026-07-31-ba5d0553",
-      "headline": "How the Michigan Primary Is Dividing Jewish Voters",
-      "summary": "U.S. support for Israel is dividing Jewish voters — and reshaping the Democratic Party — ahead of Michigan’s primary on Aug. 4. We traveled to Detroit to meet campaigners on both sides of the issue, and find out how the war in Gaza has shaped their politics, and tested their community.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/video/us/elections/100000011063444/michigan-primary-elections-jewish-voters.html",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-07-31-1647ccb3",
+      "headline": "Children face higher threat of US deportation as legal support deal expires",
+      "summary": "Advocates warn expiring contract could leave 24,000 children without legal representation, increasing risk of expulsion.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/7/31/children-face-higher-threat-of-us-deportation-as-legal-support-deal-expires?traffic_source=rss",
+      "region": "NA",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-07-31",
-      "time": "22:50",
+      "time": "21:11",
       "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-07-31-3458222d",
-      "headline": "Peru's ex-president has 15-year jail sentence for corruption charges overturned",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "10:32",
-      "conflict_id": null,
-      "score": 27.0
+      "score": 31.4
     },
     {
       "id": "2026-07-31-67114373",
@@ -522,20 +634,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-07-31-fa1d5b55",
-      "headline": "I helped bring in US bank stress tests. Now it is time to drop them",
-      "summary": "The time-consuming ritual risks misleading the public about the true health of the financial system",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a1c7a1ed-3687-492c-9170-48ae07d7ead3",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-07-31-73fb07ac",
       "headline": "Markets are getting AI right",
       "summary": "Recent volatility reflects economic reality",
@@ -546,20 +644,6 @@
       "category": "business",
       "date": "2026-07-31",
       "time": "13:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-31-da436a70",
-      "headline": "Amazon completes $50bn investment in OpenAI",
-      "summary": "Ecommerce giant has roughly 5% stake in AI lab after equity deal",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8ae9e6e4-a53c-44da-8e7d-c9d81f0df4b9?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "21:29",
       "conflict_id": null,
       "score": 26.4
     },
@@ -588,20 +672,6 @@
       "category": "business",
       "date": "2026-07-31",
       "time": "21:42",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-07-31-60df4456",
-      "headline": "Luxury Real Estate Firm Serhant Expands into Texas Amid Booming Market",
-      "summary": "Ryan Serhant, CEO and Founder of luxury real estate firm Serhant, discusses the company's strategic expansion into Texas, highlighting the state's robust job growth and entrepreneurial environment. Texas leads the nation with over 3.5 million startups and small businesses, and more Fortune 500 headquarters than any other state, driving a strong luxury housing market with $25 billion in residential sales over $1 million in the past year. He speaks",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/luxury-real-estate-firm-serhant-expands-into-texas-video",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "21:40",
       "conflict_id": null,
       "score": 26.1
     },
@@ -648,20 +718,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-31-3f3f5b69",
-      "headline": "Trump Escalates Feud With Senate Over Blanche",
-      "summary": "The president’s comments threw the confirmation of Todd Blanche, his pick to be attorney general, further into doubt.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/trump-escalates-feud-with-senate-over-blanche.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "21:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-31-054df213",
       "headline": "Todd Blanche’s Loyalty to Trump Is Putting His Attorney General Confirmation at Risk",
       "summary": "Todd Blanche’s approach has collided with the jury-of-two reality in the Senate that has, thus far, kept him from the prize he covets: the stability and status conferred by a Senate confirmation.",
@@ -672,20 +728,6 @@
       "category": "politics",
       "date": "2026-07-31",
       "time": "21:02",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-07-31-8bfc55c5",
-      "headline": "Amid Talk of a Party Switch, Fetterman Vows ‘Never’",
-      "summary": "Changing one’s affiliation is rare in the Senate, but it can have big consequences. John Fetterman of Pennsylvania says he is staying put as a Democrat.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/amid-talk-of-a-party-switch-fetterman-vows-never.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "18:04",
       "conflict_id": null,
       "score": 25.2
     },
@@ -718,23 +760,9 @@
       "score": 24.0
     },
     {
-      "id": "2026-07-31-47db3115",
-      "headline": "‘Rob has the bucks cash’: NSW Liberals used Reformers funds to pay for ‘personal expenditure’, Icac hears",
-      "summary": "Robert Assaf separately tells anti-corruption inquiry money funnelled through lobbying firm to create ‘maximum benefit from a tax perspective’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA group of young conservative Liberal power brokers accused of soliciting illegal donations used some of the funds to pay for a bucks night, one of its members has told a corruption inquiry.The I",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/31/icac-corruption-hearing-robert-assaf-nsw-liberals-reformers-funds-bucks-personal-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "07:36",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-07-31-64fd403c",
       "headline": "FIFA’s Infantino scraps controversial World Cup private investment plan",
-      "summary": "FIFA and its President Gianni Infantino faced fierce backlash from across football to plans to sell stake in World Cup.",
+      "summary": "FIFA and its president Infantino faced fierce backlash across football world over plans to sell stake in World Cup.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
       "region": "MENA",
@@ -788,20 +816,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-07-31-98c0e6d8",
-      "headline": "FIFA COO Lamour says staff deceived over Infantino’s World Cup plan",
-      "summary": "Senior FIFA executive, Kevin Lamour, says staff were deceived over President Gianni Infantino&#039;s World Cup sell-off plan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/fifas-lamour-says-staff-deceived-over-infantinos-world-cup-sell-off-plan?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "17:38",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-07-31-467f3c98",
       "headline": "Cosplayers perform and pose at ChinaJoy gaming festival",
       "summary": "Cosplayers in elaborate costumes gather at ChinaJoy in Shanghai, where gaming fans meet characters inspired by popular video games.",
@@ -841,7 +855,7 @@
       "date": "2026-07-30",
       "time": "15:20",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-07-30-161f82ac",
@@ -940,6 +954,20 @@
       "time": "15:02",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-07-30-fc6286c9",
+      "headline": "Danantara Dollar Bond Plan Grapples With Global Volatility",
+      "summary": "Indonesian sovereign wealth fund Danantara’s planned dollar notes are unlikely to price quickly as a global bond rout clouds debt issuance, people familiar with the matter said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-30/danantara-dollar-debt-plan-grapples-with-global-bond-volatility",
+      "region": "APJ",
+      "country": "Indonesia",
+      "category": "business",
+      "date": "2026-07-30",
+      "time": "09:14",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-07-30-b831c61c",
@@ -1052,6 +1080,20 @@
       "time": "05:01",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-07-28-9dcf7a06",
+      "headline": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
+      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to TrumpCanadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his northern neighbour continue to incur an economic cost, new government data shows.The research also indicates that Canadians are not bucking travel overall and instead have replaced US vacations with other internati",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-07-28",
+      "time": "16:46",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-07-27-7c4ac7c2",
