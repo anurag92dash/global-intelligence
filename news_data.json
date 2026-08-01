@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-01T07:10:51.639884+00:00",
-  "story_count": 85,
-  "source_count": 9,
+  "updated": "2026-08-01T09:17:37.691022+00:00",
+  "story_count": 87,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-01-b62ccc6a",
@@ -16,6 +16,34 @@
       "time": "02:06",
       "conflict_id": "ukraine-war",
       "score": 67.4
+    },
+    {
+      "id": "2026-08-01-5277d59e",
+      "headline": "Russian ballistic missile strikes on Kyiv kill nine and injure more than 30",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said Russian forces launched 35 missiles, including 27 ballistic missiles, and 185 attack drones at Ukraine overnight.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/01/russian-ballistic-missile-strikes-on-kyiv-kill-nine-and-injure-more-than-30",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-01",
+      "time": "07:27",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
+    {
+      "id": "2026-08-01-6bdbe79b",
+      "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
+      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-01",
+      "time": "08:24",
+      "conflict_id": "ukraine-war",
+      "score": 63.0
     },
     {
       "id": "2026-08-01-ca6eb140",
@@ -46,20 +74,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-08-01-6bdbe79b",
-      "headline": "Russian strikes on Kyiv kill at least nine, Ukraine officials say",
-      "summary": "The attack comes as Moscow escalates deadly ballistic missile attacks on the Ukrainian capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce973yvk7pko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-01",
-      "time": "04:06",
-      "conflict_id": "ukraine-war",
-      "score": 55.0
-    },
-    {
       "id": "2026-08-01-65e05cf4",
       "headline": "FIFA bins controversial private investment plan after backlash",
       "summary": "The venture aimed to cash in on what Infantino described as the sport's \"remarkable commercial value\" by inviting third parties to take minority, non-controlling investments in the proposed FIFA Forward Enterprise subsidiary.",
@@ -71,7 +85,7 @@
       "date": "2026-08-01",
       "time": "06:14",
       "conflict_id": null,
-      "score": 53.0
+      "score": 54.0
     },
     {
       "id": "2026-08-01-c5b3f61b",
@@ -85,7 +99,35 @@
       "date": "2026-08-01",
       "time": "05:42",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
+    },
+    {
+      "id": "2026-08-01-aae0222f",
+      "headline": "Fifa abandons $20bn investment plan after global backlash",
+      "summary": "Gianni Infantino said it was ‘clear’ that stake sale project had created divisions and he hoped to reunite ‘interested parties’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/58400cf0-20df-46ef-975b-7414806e09de?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "08:44",
+      "conflict_id": null,
+      "score": 51.4
+    },
+    {
+      "id": "2026-08-01-e9e253d0",
+      "headline": "FIFA World Cup plan fallout: AFC reacts as Infantino scraps investment push",
+      "summary": "Asian Football Confederation says FIFA future must be &#039;shaped through proper consultation&#039; after World Cup plan fallout.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/1/fifa-world-cup-plan-fallout-afc-react-as-fifa-scrap-investment-push?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "07:33",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-08-01-6dd60ffb",
@@ -100,6 +142,20 @@
       "time": "03:21",
       "conflict_id": "israel-hamas",
       "score": 43.4
+    },
+    {
+      "id": "2026-08-01-e0e91dd1",
+      "headline": "Death toll in Ceuta border crisis rises to 67 as Spanish government announces plans for barrier – Europe live",
+      "summary": "Tens of thousands of people crossed from Morocco to the Spanish enclave this weekFrance has been battling one of its most destructive wildfires in decades, with firefighters facing a vast and unpredictable inferno in the south-west of the country.In this feature, my colleague Jason Burke reports from Le Porge, where he explores the extraordinary efforts of those on the frontline, from firefighters and soldiers to volunteers, as they fight to cont",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/01/ukraine-russia-zelenskyy-spain-france-wildfires-climate-heatwave-ceuta-morocco",
+      "region": "EU",
+      "country": "Morocco",
+      "category": "geopolitics",
+      "date": "2026-08-01",
+      "time": "09:05",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-08-01-5c44d723",
@@ -128,6 +184,20 @@
       "time": "",
       "conflict_id": null,
       "score": 38.8
+    },
+    {
+      "id": "2026-08-01-fcff66fe",
+      "headline": "Ceuta migrant crisis sparks strong reactions from all over Europe",
+      "summary": "\"We will not yield an inch\", \"a failure of EU's migration policies\", \"demagoguery\": the migrant crisis in Ceuta has sparked strong reactions from EU countries and political figures. Some are calling for Spain's suspension from the Schengen zone, others call these \"instrumental attacks\".",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/01/ceuta-migrant-crisis-sparks-strong-reactions-from-all-over-europe",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-08-01",
+      "time": "08:50",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-08-01-5f7ebc0b",
@@ -270,6 +340,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-01-67114373",
+      "headline": "The week that shook football",
+      "summary": "How Fifa’s proposal to open up the global game to investors unfolded — and invited a backlash that could yet topple its controversial president",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "08:08",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-08-01-c40a785f",
       "headline": "Humbling times for markets",
       "summary": "Investors finally show signs of growing weary of the painfully obvious nonsense",
@@ -296,6 +380,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-01-498e5fbb",
+      "headline": "How an Iron Ore Empire ‘Built on Trust’ Began to Sow Doubts",
+      "summary": "In a corporate presentation in December 2024, Radiant World boasted of its “diverse network” of suppliers and counterparties.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/how-an-iron-ore-empire-built-on-trust-began-to-raise-doubts",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "07:00",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-01-405d06b0",
@@ -366,6 +464,20 @@
       "time": "02:30",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-08-01-109b79e2",
+      "headline": "She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.",
+      "summary": "Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-08-01-3f3f5b69",
@@ -466,6 +578,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-01-a6326bb9",
+      "headline": "Two reported attacks on tankers near Strait of Hormuz",
+      "summary": "The Strait of Hormuz, which connects the Persian Gulf with the Gulf of Oman and the Arabian Sea, is one of the world's most crucial oil and gas transit chokepoints, carrying roughly a quarter of the global seaborne oil trade.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/01/two-reported-attacks-on-tankers-near-strait-of-hormuz",
+      "region": "MENA",
+      "country": "Oman",
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "08:48",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-07-31-815a311f",
       "headline": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
       "summary": "The realities of politics, war, zero trust, the deaths of thousands and the destruction of Gaza will make any agreement very complicated.",
@@ -476,20 +602,6 @@
       "category": "geopolitics",
       "date": "2026-07-31",
       "time": "15:18",
-      "conflict_id": "israel-hamas",
-      "score": 63.0
-    },
-    {
-      "id": "2026-07-31-ccb7ab31",
-      "headline": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
-      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "04:25",
       "conflict_id": "israel-hamas",
       "score": 63.0
     },
@@ -508,18 +620,18 @@
       "score": 59.4
     },
     {
-      "id": "2026-07-31-084dc1dd",
-      "headline": "Iran war live: Trump threatens strikes, Iran says it has a plan to respond",
-      "summary": "An Iranian official quoted by Tasnim says comprehensive plans are in place to respond to any &#039;mad&#039; US strikes.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/7/31/iran-war-live-iran-says-it-has-a-plan-to-respond-to-any-us-attacks?traffic_source=rss",
+      "id": "2026-07-31-ccb7ab31",
+      "headline": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
+      "summary": "The plan - if successful - potentially removes the most significant obstacle to advancing the Trump-backed peace initiative in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8gd87d83o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-07-31",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 55.4
+      "time": "04:25",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-07-31-e82c39f1",
@@ -534,6 +646,20 @@
       "time": "23:05",
       "conflict_id": "israel-hamas",
       "score": 53.2
+    },
+    {
+      "id": "2026-07-31-afddbed6",
+      "headline": "FIFA World Cup fallout: Infantino scraps private investment plan",
+      "summary": "FIFA and its president Infantino faced fierce backlash across football world over plans to sell stake in World Cup.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-07-31",
+      "time": "23:47",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-07-31-18434d32",
@@ -576,34 +702,6 @@
       "time": "14:07",
       "conflict_id": null,
       "score": 42.1
-    },
-    {
-      "id": "2026-07-31-64fd403c",
-      "headline": "FIFA’s Infantino scraps controversial World Cup private investment plan",
-      "summary": "FIFA and its president Infantino faced fierce backlash across football world over plans to sell stake in World Cup.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/7/31/fifa-forced-to-scrap-world-cup-private-investment-plan-after-backlash?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "23:47",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-07-31-a37858b3",
-      "headline": "Trump calls Ceuta migrant surge 'terrible' as White House blames far left",
-      "summary": "Trump invoked the mass crossings into Spain's North African enclave to warn Americans about immigration, as the EU stressed the crisis had not spread to mainland Europe.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/07/31/trump-calls-ceuta-migrant-surge-terrible-as-white-house-blames-far-left",
-      "region": "EU",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "16:03",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-07-31-cbcbca50",
@@ -774,34 +872,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-31-67114373",
-      "headline": "The week that shook football",
-      "summary": "How Fifa’s proposal to open up the global game to investors unfolded — and invited a backlash that could yet topple its controversial president",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0b7081c3-2654-471c-b1b9-87c6f6369fb0?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "16:30",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-07-31-7c2d01d3",
-      "headline": "RBC's Calvasina Sees Nervousness, But 'No Panic' in Stocks",
-      "summary": "Lori Calvasina, head of US equity strategy at RBC Capital Markets, joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" They discuss stock trading by institutional and retail investors. Plus the firm's  \"Four Tiers of Fear\". (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-07-31/rbc-s-calvasina-sees-nervousness-but-no-panic-in-stocks-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-07-31",
-      "time": "22:03",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-07-31-60df4456",
       "headline": "Luxury Real Estate Firm Serhant Expands into Texas Amid Booming Market",
       "summary": "Ryan Serhant, CEO and Founder of luxury real estate firm Serhant, discusses the company's strategic expansion into Texas, highlighting the state's robust job growth and entrepreneurial environment. Texas leads the nation with over 3.5 million startups and small businesses, and more Fortune 500 headquarters than any other state, driving a strong luxury housing market with $25 billion in residential sales over $1 million in the past year. He speaks",
@@ -858,20 +928,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-07-31-4a7d95d0",
-      "headline": "G.O.P. Kills Bid to Expand I.V.F. Access in the Military",
-      "summary": "In a notable shift, Republican senators voted unanimously against a proposal to expand the military’s coverage of fertility treatments.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/gop-ivf-military.html",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-07-31",
-      "time": "15:32",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-07-31-306b1cc0",
       "headline": "NSW should compensate elderly woman whose public housing was inundated with sewage, ombudsman finds",
       "summary": "Ombudsman finds Homes NSW acted unreasonably and recommended additional payment for distress and sufferingGet our breaking news email, free app or daily news podcastAn elderly public housing tenant whose home was damaged by sewage overflows will be fully compensated by the New South Wales government after it disposed of her personal belongings without her consent and failed to properly support her insurance claim.The NSW Ombudsman on Friday publi",
@@ -914,34 +970,6 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-30-c95cd52c",
-      "headline": "At least five members of same family killed in Russian missile attack, Zelensky says",
-      "summary": "A six-year-old girl and two boys, aged 11 and 17, were among six killed in a village near the central city of Kryvyi Rih.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mk59l5jzo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-07-30",
-      "time": "15:20",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-07-30-161f82ac",
-      "headline": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "summary": "Romania, Bulgaria and Serbia are also grappling with the effects of a series of prolonged heatwaves and low rainfall.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nqv05g0do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-07-30",
-      "time": "17:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-30-b233a14a",
       "headline": "Nicaraguan leader proposes extending presidential term by another year",
       "summary": "It is not the first time the constitution has been amended to allow Daniel Ortega, 80, to stay in power for longer.",
@@ -970,16 +998,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-07-30-e075ffc8",
-      "headline": "Fifa could receive first external money in October",
-      "summary": "Fifa could bank first lot of private World Cup cash by end of October as European football's governing body Uefa will hold a meeting of all 55 member associations on Thursday afternoon to discuss its response to controversial World Cup plans.",
+      "id": "2026-07-30-b5dbb206",
+      "headline": "US launches 'heavy' strikes on Iran after attempted attack on American troops",
+      "summary": "After a short period of relative calm when hostilities were paused, both sides have now restarted missile attacks.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cz64gdj9e25o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
+      "url": "https://www.bbc.co.uk/news/articles/c74gwdzywmeo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
       "date": "2026-07-30",
-      "time": "09:29",
+      "time": "10:49",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1038,6 +1066,20 @@
       "time": "13:02",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-07-30-677fddb7",
+      "headline": "Trump’s claims of election interference in doubt after release of declassified intelligence",
+      "summary": "Declassified evidence points to Beijing seeking personal data for espionage, not election interference.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/07/30/states-cast-doubt-trumps-claim-that-china-hacked-their-voter-rolls/",
+      "region": "NA",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-07-30",
+      "time": "17:00",
+      "conflict_id": null,
+      "score": 24.9
     },
     {
       "id": "2026-07-29-51f4953d",
@@ -1124,20 +1166,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-07-27-7c4ac7c2",
-      "headline": "Trump says Iran war talks taking place during lull in strikes",
-      "summary": "The US president says \"there is a good chance that something could happen\", as Iran denies direct talks are taking place.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c62xn4vzmnpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-27",
-      "time": "21:10",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-07-27-d8a00620",
       "headline": "As the US pauses the war with Iran, is Trump really running out of weapons?",
       "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
@@ -1149,7 +1177,7 @@
       "date": "2026-07-27",
       "time": "21:06",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-07-27-f48e84e2",
