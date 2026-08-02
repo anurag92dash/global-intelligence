@@ -7,8 +7,13 @@
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
     "status_signal": "escalating",
-    "last_activity": "2026-08-01",
+    "last_activity": "2026-08-02",
     "recent_headlines": [
+      {
+        "headline": "Moscow bomb kills at least three as device carried by woman explodes",
+        "source": "The Guardian",
+        "date": "2026-08-02"
+      },
       {
         "headline": "Nine killed in strikes on Kyiv, as Ukraine sinks Russian container ship",
         "source": "BBC News",
@@ -47,13 +52,8 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "de-escalating",
-    "last_activity": "2026-08-02",
+    "last_activity": "2026-08-01",
     "recent_headlines": [
-      {
-        "headline": "Israeli forces kill 8 in Gaza, toll now 18 since latest Trump peace plan",
-        "source": "Al Jazeera",
-        "date": "2026-08-02"
-      },
       {
         "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
         "source": "BBC News",
@@ -61,6 +61,11 @@
       },
       {
         "headline": "Bowen: Plan for Hamas to disarm faces big obstacles, yet it offers rare hope for Gaza",
+        "source": "BBC News",
+        "date": "2026-07-31"
+      },
+      {
+        "headline": "If Hamas disarmament plan holds, it could mark first credible step to ending Gaza war",
         "source": "BBC News",
         "date": "2026-07-31"
       }
@@ -122,18 +127,23 @@
     "status": "open",
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-08-02",
     "recent_headlines": [
+      {
+        "headline": "Moscow bomb kills at least three as device carried by woman explodes",
+        "source": "The Guardian",
+        "date": "2026-08-02"
+      },
       {
         "headline": "Italy says it’s temporarily suspending EU Schengen arrangement with Spain after 60,000 migrants reach Ceuta – as it happened",
         "source": "The Guardian",
         "date": "2026-08-02"
       },
       {
-        "headline": "Spain pushes migrants home as Ceuta vents over ‘invasion’",
-        "source": "Financial Times",
-        "date": "2026-08-01"
+        "headline": "SpaceX IPO Faces First Reality Check",
+        "source": "Bloomberg",
+        "date": "2026-08-02"
       }
     ],
     "timeline": [
