@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-02T14:20:09.466433+00:00",
-  "story_count": 83,
+  "updated": "2026-08-02T15:33:24.504349+00:00",
+  "story_count": 80,
   "source_count": 10,
   "stories": [
     {
@@ -32,18 +32,18 @@
       "score": 56.0
     },
     {
-      "id": "2026-08-02-72e0e016",
-      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "id": "2026-08-02-4ba65cff",
+      "headline": "At least eight killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+      "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
+      "url": "https://www.bbc.co.uk/news/articles/czjlvvkzj20o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-02",
-      "time": "11:12",
-      "conflict_id": null,
-      "score": 52.0
+      "time": "15:02",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-08-02-92e63af7",
@@ -60,48 +60,6 @@
       "score": 50.1
     },
     {
-      "id": "2026-08-02-8c2e2561",
-      "headline": "Why has Trump halted Iran attacks, and what is the deal he is hinting at?",
-      "summary": "Trump says &#039;perimeters of a deal has been agreed to&#039; as he pauses attacks. But is there any substance to his claim?",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/2/why-has-trump-halted-iran-attacks-and-what-is-the-deal-he-is-hinting-at?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-02",
-      "time": "09:43",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-08-02-14b5a4ed",
-      "headline": "Trump ‘cancels attack on Iran’ saying deal is near",
-      "summary": "US President Trump announced he was cancelling a planned attack on Iran with the ‘perimeters of a deal’ agreed to.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/trump-cancels-attack-on-iran-saying-deal-is-near?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-02",
-      "time": "08:43",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-08-02-6db82490",
-      "headline": "Trump says he's cancelling strikes on Iran as 'perimeters of a deal' agreed",
-      "summary": "On Friday, Trump had said he was \"losing faith\" in the prospect of a peace deal and threatened to hit Iran \"very hard.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-02",
-      "time": "06:10",
-      "conflict_id": null,
-      "score": 46.0
-    },
-    {
       "id": "2026-08-02-18e53b52",
       "headline": "Explosion in Moscow restaurant killed three and injured 21",
       "summary": "Explosion of 'homemade explosive' at Moscow restaurant killed three and injured 21 on Saturday evening. Russia's national anti-terrorism committee says it's a bombing.",
@@ -114,6 +72,48 @@
       "time": "05:55",
       "conflict_id": null,
       "score": 45.0
+    },
+    {
+      "id": "2026-08-02-72e0e016",
+      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "11:12",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-02-bb8da09d",
+      "headline": "Iran sets the pace in war with Trump",
+      "summary": "Tehran’s military raised the stakes with Washington by further expanding the battle across the Middle East",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a29819ef-ffb9-4d2a-9925-e3d6e6e6e797?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "05:37",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
+      "id": "2026-08-02-9fa5f54c",
+      "headline": "Jackson Warns US Policy Risks Caribbean Stability",
+      "summary": "Rep. Jonathan Jackson says the Trump administration's policies toward Haiti, Venezuela and Cuba risk worsening instability across the Caribbean, arguing that ending Temporary Protected Status for Haitians and maintaining broad sanctions will deepen humanitarian and migration challenges. He also calls for greater transparency in US policy toward Venezuela and warns that continued pressure on Cuba could further destabilize the region. (Source: Bloo",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-02/jackson-warns-us-policy-risks-caribbean-stability-video",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "15:28",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-08-02-38085410",
@@ -130,6 +130,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-08-02-6db82490",
+      "headline": "Trump says he's cancelling strikes on Iran as 'perimeters of a deal' agreed",
+      "summary": "On Friday, Trump had said he was \"losing faith\" in the prospect of a peace deal and threatened to hit Iran \"very hard.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/02/trump-says-hes-cancelling-strikes-on-iran-as-perimeters-of-a-deal-agreed",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "06:10",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-08-02-92ca94c5",
       "headline": "How Spain's migrant crisis created a political storm - whipped up by social media",
       "summary": "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes.",
@@ -142,6 +156,34 @@
       "time": "10:32",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-02-e4a53624",
+      "headline": "Man admits killing Scottish woman found in suitcase, Greek police say",
+      "summary": "The man was arrested on suspicion of killing 38-year-old Elisabeth-Jane Ross, as well as robbery and weapons offences.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c89ndd4g0gjo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Oman",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "14:28",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-02-3b263883",
+      "headline": "‘Crush this lady’: how eBay harassment campaign led to $56mn payout",
+      "summary": "Employees’ cyberstalking of Boston couple involving macabre deliveries ended in jail time and financial settlement",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/06ec1b03-d4af-40cf-b12a-4ba5a410f6d2?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-08-02-9d181ffe",
@@ -181,7 +223,7 @@
       "country": "America",
       "category": "politics",
       "date": "2026-08-02",
-      "time": "09:01",
+      "time": "15:10",
       "conflict_id": null,
       "score": 33.2
     },
@@ -278,20 +320,6 @@
       "region": "NA",
       "country": null,
       "category": "business",
-      "date": "2026-08-02",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-08-02-dd0fdbaf",
-      "headline": "Japan's drive to replace nuclear reactors collides with worker shortage",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/japan-s-drive-to-replace-nuclear-reactors-collides-with-worker-shortage",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
       "date": "2026-08-02",
       "time": "",
       "conflict_id": null,
@@ -494,34 +522,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-02-d3bae791",
-      "headline": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
-      "summary": "Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-02",
-      "time": "09:07",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-02-0228689d",
-      "headline": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
-      "summary": "World Series champions for the past two years add Skubal to star-studded roster that already includes Shohei Ohtani.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-02",
-      "time": "08:12",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-08-02-8106bc33",
       "headline": "Anutin's Indonesia visit, Japanese carmaker earnings, Taiwan drills",
       "summary": "",
@@ -557,6 +557,20 @@
       "url": "https://asia.nikkei.com/editor-s-picks/interview/global-development-must-benefit-investors-too-including-china-undp-head",
       "region": "APJ",
       "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-08-02-cec0d51a",
+      "headline": "Living between two worlds on Taiwan's Matsu Islands",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/life-arts/life/living-between-two-worlds-on-taiwan-s-matsu-islands",
+      "region": "APJ",
+      "country": "Taiwan",
       "category": "geopolitics",
       "date": "2026-08-02",
       "time": "",
@@ -746,20 +760,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-01-ee0ccff8",
-      "headline": "AI Loan Market Sees Investor Demands Rise, Borrowers Offer Better Terms",
-      "summary": "Loan investors are pushing back for the first time in years, in a shift that will probably translate to higher borrowing costs for everyone from private equity firms to deeply indebted AI companies.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/loan-investors-are-pushing-back-as-fear-rises-credit-weekly",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-01",
-      "time": "19:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-01-a5c0ca1b",
       "headline": "Mitch McConnell, Still Hospitalized, Misses Signature Kentucky Political Picnic",
       "summary": "Senator Mitch McConnell’s ongoing hospitalization meant he missed his final chance to attend the signature western Kentucky event while in office.",
@@ -814,6 +814,20 @@
       "time": "16:32",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-08-01-7fb3d7c5",
+      "headline": "UEFA declares to have 'lost confidence' in Infantino over 'shabby, back room, opaque deal'",
+      "summary": "FIFA president Gianni Infantino came under increasing fire from continental governing bodies on Saturday despite scrapping a widely-derided plan to allow private investment in the World Cup.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/01/uefa-declares-to-have-lost-confidence-in-infantino-over-shabby-back-room-opaque-deal",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-01",
+      "time": "20:32",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-07-31-815a311f",
@@ -928,34 +942,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-30-1c876b3c",
-      "headline": "Drone attack caused fire on gas ships at Mediterranean port, Egypt says",
-      "summary": "The drone reportedly hit a US-owned regasification vessel and a Greek-owned tanker at Damietta port on Wednesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39ez3klwmro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Egypt",
-      "category": "geopolitics",
-      "date": "2026-07-30",
-      "time": "11:35",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-07-30-52665813",
-      "headline": "Israel building new land barriers in Gaza and displacing families",
-      "summary": "Experts have told the BBC that the earthworks suggest Israel is planning for a long-term internal border.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpvwjmme3p0o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-30",
-      "time": "05:05",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-07-30-2b97ea43",
       "headline": "'I won't stop fighting,' says 'cockroach' protester after alleged detention",
       "summary": "Mohammad Junaid has moved court alleging he was unlawfully detained by police due to his role in the protests.",
@@ -1026,20 +1012,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-07-29-51f4953d",
-      "headline": "Zelensky and Netanyahu meet Trump as wars in Ukraine and Iran drag on",
-      "summary": "The two leaders sound encouraged after holding back-to-back bilaterals at the White House.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4k2z8z45ro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-07-29",
-      "time": "12:17",
-      "conflict_id": "ukraine-war",
-      "score": 55.0
-    },
-    {
       "id": "2026-07-29-74349b2c",
       "headline": "'Israeli settlers laid siege to our home': Inside a Palestinian village under weekly attack",
       "summary": "A home on the edge of al-Mughayyir has become a weekly frontline in the battle for the occupied West Bank.",
@@ -1080,20 +1052,6 @@
       "time": "20:03",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-07-28-0afc871b",
-      "headline": "Mancini reappointed Italy boss after Pirlo controversy",
-      "summary": "Roberto Mancini is appointed Italy manager for a second time - just a day after Andrea Pirlo rules himself out of the running for the job and technical director Paolo Maldini resigns.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c0ly412r412o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Italy",
-      "category": "politics",
-      "date": "2026-07-28",
-      "time": "13:54",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-07-28-797fa150",
