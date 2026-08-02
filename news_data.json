@@ -1,8 +1,106 @@
 {
-  "updated": "2026-08-02T01:11:46.933198+00:00",
-  "story_count": 81,
+  "updated": "2026-08-02T04:34:58.264057+00:00",
+  "story_count": 77,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-08-02-7dc47445",
+      "headline": "Israel kills eight in Gaza despite Trump’s Hamas disarmament plan",
+      "summary": "Strikes hit Gaza homes after the US unveiled plans for Hamas disarmament and Israeli withdrawal.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/israel-kills-five-in-gaza-despite-trumps-hamas-disarmament-plan?traffic_source=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "02:58",
+      "conflict_id": "israel-hamas",
+      "score": 67.4
+    },
+    {
+      "id": "2026-08-02-07b89564",
+      "headline": "Trump Says US to Cancel Iran Attack Subject to a Rapid Deal",
+      "summary": "President Donald Trump said the US will hold off new strikes against Iran after the Islamic Republic and other Middle Eastern nations told him they are working toward a deal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-02/trump-says-us-to-cancel-iran-attack-subject-to-a-rapid-deal",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "02:19",
+      "conflict_id": null,
+      "score": 59.1
+    },
+    {
+      "id": "2026-08-02-73cb1152",
+      "headline": "Iran war live: Trump cancels attack, says ‘perimeters of a deal’ agreed",
+      "summary": "Move comes after Iran&#039;s top diplomat warned of a &#039;decisive response&#039; to any US-Israeli &#039;aggression&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/2/iran-war-live-tehran-warns-of-decisive-response-to-any-us-aggression?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-08-02-027151e0",
+      "headline": "Trump says he is cancelling strikes on Iran subject to 'rapidly' making deal",
+      "summary": "The US president's message came amid media reports that he was planning new, intense strikes on Iran over the weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "03:05",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
+      "id": "2026-08-02-63de637e",
+      "headline": "Trump cancels new strikes on Iran after Middle East allies’ request",
+      "summary": "‘Perimeters of a deal has been agreed to,’ US president claims",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9cb84920-075e-4fa4-b1cb-dfc55d5845f4",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "03:01",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-08-02-438cd134",
+      "headline": "Trump cancels Iran strike, says ‘deal perimeters’ reached",
+      "summary": "The US president announced that he has cancelled a planned military strike on Iran, claiming progress in talks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/2/trump-cancels-iran-strike-says-deal-perimeters-reached?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "03:36",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-08-02-9c7ac010",
+      "headline": "US embassies issue alerts after Trump vows to hit Iran ‘hard’",
+      "summary": "US embassies in the Middle East are bracing for possible escalation after Trump said the US will hit Iran &#039;hard&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/2/us-embassies-issue-alerts-after-trump-vows-to-hit-iran?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "02:24",
+      "conflict_id": null,
+      "score": 39.4
+    },
     {
       "id": "2026-08-02-6d4655be",
       "headline": "Trump's diplomacy is nudging Thailand toward China",
@@ -30,6 +128,34 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-08-02-1c6f6c76",
+      "headline": "Chinese VC firms rush to raise funds after 3-year drought",
+      "summary": "Managers capitalise on investors’ desire to ‘hedge’ against US market bets",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e6e4d553-2474-43e4-bc25-0f1cb952f66d?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-02",
+      "time": "02:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-02-0d3057a1",
+      "headline": "German carmakers flood jobs market with managers after wielding axe",
+      "summary": "Volkswagen approaches headhunter to find positions for hundreds of departing managers",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e345d51f-11f7-4d4d-8f09-86dd3a225597?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-02",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-08-02-eb97acb0",
@@ -169,21 +295,21 @@
       "date": "2026-08-01",
       "time": "13:35",
       "conflict_id": "ukraine-war",
-      "score": 71.0
+      "score": 63.0
     },
     {
-      "id": "2026-08-01-5277d59e",
-      "headline": "Russian ballistic missile strikes on Kyiv kill nine and injure more than 30",
-      "summary": "Ukrainian President Volodymyr Zelenskyy said Russian forces launched 35 missiles, including 27 ballistic missiles, and 185 attack drones at Ukraine overnight.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/01/russian-ballistic-missile-strikes-on-kyiv-kill-nine-and-injure-more-than-30",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-08-01-56a3d19f",
+      "headline": "Hamas Disarmament Plan Tests Israel's Next Move",
+      "summary": "Israel weighs a Hamas-backed disarmament proposal as Prime Minister Benjamin Netanyahu prepares to bring the Trump-backed Gaza road map before his cabinet, with questions remaining over sequencing, Israeli withdrawal and Palestinian governance. Bloomberg News Middle East Reporter Dan Williams is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that the diplomatic push unfolds as officials also monitor the risk of r",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-01/hamas-disarmament-plan-tests-israel-s-next-move-video",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-01",
-      "time": "07:27",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
+      "time": "12:11",
+      "conflict_id": "israel-hamas",
+      "score": 62.1
     },
     {
       "id": "2026-08-01-f9d1b175",
@@ -228,32 +354,18 @@
       "score": 57.0
     },
     {
-      "id": "2026-08-01-a5302a68",
-      "headline": "At least 9 people killed in Russian missile attacks on Kyiv",
-      "summary": "At least 9 people have been killed and dozens injured in Russian missile strikes on Kyiv.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/1/at-least-9-people-killed-in-russian-missile-attacks-on-kyiv?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
+      "id": "2026-08-01-5277d59e",
+      "headline": "Russian ballistic missile strikes on Kyiv kill nine and injure more than 30",
+      "summary": "Ukrainian President Volodymyr Zelenskyy said Russian forces launched 35 missiles, including 27 ballistic missiles, and 185 attack drones at Ukraine overnight.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/01/russian-ballistic-missile-strikes-on-kyiv-kill-nine-and-injure-more-than-30",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-01",
-      "time": "17:45",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
-      "id": "2026-08-01-56a3d19f",
-      "headline": "Hamas Disarmament Plan Tests Israel's Next Move",
-      "summary": "Israel weighs a Hamas-backed disarmament proposal as Prime Minister Benjamin Netanyahu prepares to bring the Trump-backed Gaza road map before his cabinet, with questions remaining over sequencing, Israeli withdrawal and Palestinian governance. Bloomberg News Middle East Reporter Dan Williams is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that the diplomatic push unfolds as officials also monitor the risk of r",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/hamas-disarmament-plan-tests-israel-s-next-move-video",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-01",
-      "time": "12:11",
-      "conflict_id": "israel-hamas",
-      "score": 54.1
+      "time": "07:27",
+      "conflict_id": "ukraine-war",
+      "score": 57.0
     },
     {
       "id": "2026-08-01-4f58e62f",
@@ -326,46 +438,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-01-8cffc978",
-      "headline": "Two ex-Sri Lanka officials sentenced to death over 2019 Easter bombings",
-      "summary": "Former officials will appeal sentences handed down for neglecting intelligence warnings before the deadly attacks.",
+      "id": "2026-08-01-3241b1a4",
+      "headline": "‘Marathon’ shines light on Gaza’s orphaned children and humanitarian crisis",
+      "summary": "More than 58,000 children have lost one or both parents by Israel&#039;s war, highlighting urgent humanitarian challenges.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/two-ex-sri-lanka-officials-sentenced-to-death-over-2019-easter-bombings?traffic_source=rss",
-      "region": "SA",
-      "country": "Sri Lanka",
+      "url": "https://www.aljazeera.com/news/2026/8/1/marathon-shines-light-on-gazas-orphaned-children-and-humanitarian-crisis?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-01",
-      "time": "15:34",
+      "time": "17:57",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-08-01-bd1530fd",
-      "headline": "Situational Awareness got the future right but misread the past",
-      "summary": "Leopold Aschenbrenner thought AI-related stocks would go one way; they went the other. The mistake was funding the trades with debt",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/20af5836-51b0-4a37-a820-9de1583a18b4?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-01",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-08-01-efb10be1",
-      "headline": "Bipartisan Governors Launch Task Force to Tackle Immigration Reform",
-      "summary": "From Oklahoma City, the site of the annual meeting of the National Governor’s Association, Oklahoma Governor Kevin Stitt, Maryland Governor Wes Moore, Utah Governor Spencer Cox, and Delaware Governor Matt Meyer joined Bloomberg This Weekend host Christina Ruffini to announce the launching of a bi-partisan immigration task force to find solutions to one of America's most politically divisive issues. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-01/bipartisan-governors-to-tackle-immigration-reform-video",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-01",
-      "time": "13:03",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-08-01-ad852657",
@@ -378,34 +462,6 @@
       "category": "politics",
       "date": "2026-08-01",
       "time": "13:56",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-01-6fb456e8",
-      "headline": "Exxon, Chevron Warn Fuel Prices to Endure as War Knocks Refining",
-      "summary": "High fuel prices are likely to stick around even if oil prices drop in the coming months as the wars in Russia and Middle East leave global refining capacity critically short, ExxonMobil Holdings Corp. and Chevron Corp. warned.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/exxon-chevron-warn-fuel-prices-to-endure-as-war-knocks-refining",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-01",
-      "time": "13:30",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-01-99284538",
-      "headline": "Turkey Said to Extend Iraq Oil Pipeline Deal by One Year",
-      "summary": "Turkey reached an agreement with Iraq to extend an expired oil pipeline deal by one year and increase flows through it, ensuring supply through an exports route that bypasses the Strait of Hormuz.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-01/turkey-said-to-extend-iraq-oil-pipeline-deal-by-one-year",
-      "region": "MENA",
-      "country": "Turkey",
-      "category": "business",
-      "date": "2026-08-01",
-      "time": "11:52",
       "conflict_id": null,
       "score": 34.1
     },
@@ -438,48 +494,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-01-c7cf4c85",
-      "headline": "Growing like ‘gangbusters’: Can Taiwan maintain its economic momentum?",
-      "summary": "Taiwan&#039;s GDP is soaring on back of US imports of AI chips, but experts warn that problems could arise with Trump, China.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/1/growing-like-gangbusters-can-taiwan-maintain-its-economic-momentum?traffic_source=rss",
-      "region": "NA",
-      "country": "Taiwan",
-      "category": "geopolitics",
-      "date": "2026-08-01",
-      "time": "23:15",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-01-da050394",
-      "headline": "Trump pledges to pursue ‘anti-weaponisation’ fund amid Blanche standoff",
-      "summary": "The US president said he would push ahead with the controversial fund if his attorney general pick is not approved.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/trump-pledges-to-pursue-anti-weaponisation-fund-amid-blanche-standoff?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-01",
-      "time": "17:48",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-01-c07cda13",
-      "headline": "Turkiye and Iraq sign one-year oil pipeline deal amid global shift",
-      "summary": "The renewed agreement ensures crude flow of 750,000 barrels a day through the Iraq-Turkiye pipeline, officials confirm.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/turkiye-and-iraq-sign-one-year-oil-pipeline-deal-amid-global-shift?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iraq",
-      "category": "business",
-      "date": "2026-08-01",
-      "time": "16:43",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-08-01-d113d7c5",
       "headline": "'Not a single person reached mainland Spain or the rest of the EU', says von der Leyen",
       "summary": "After around 60,000 irregular migrants entered the Ceuta Spanish enclave in North Africa, European Commission President Ursula von der Leyen said this Saturday that \"the vast majority of those who arrived illegally have returned to Morocco.\"",
@@ -506,34 +520,6 @@
       "time": "06:14",
       "conflict_id": null,
       "score": 29.0
-    },
-    {
-      "id": "2026-08-01-977d8bc0",
-      "headline": "US Senate bill on Russia sanctions risks backfiring against European allies",
-      "summary": "A sanctions bill making its way through the US Senate risks handing Donald Trump a powerful tool to slap tariffs on allies and adversaries alike.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/01/us-senate-bill-on-russia-sanctions-risks-backfiring-against-european-allies",
-      "region": "NA",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-08-01",
-      "time": "05:30",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-08-01-5f7ebc0b",
-      "headline": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-08-01",
-      "time": "02:21",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-01-32ad32ba",
@@ -592,32 +578,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-01-c40a785f",
-      "headline": "Humbling times for markets",
-      "summary": "Investors finally show signs of growing weary of the painfully obvious nonsense",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e41dadef-c473-48ff-9fa5-30b56d40af34?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-01",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-01-8c948a4e",
-      "headline": "Infantino’s U-turn fuels doubts about his future at Fifa",
-      "summary": "The president of football’s governing body was expected to stand for re-election unopposed, but now criticism is mounting",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c0d97297-98ed-452f-bdfd-1f16d53d4eb3?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
+      "id": "2026-08-01-5f7ebc0b",
+      "headline": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
+      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Peru",
       "category": "politics",
       "date": "2026-08-01",
-      "time": "15:32",
+      "time": "02:21",
       "conflict_id": null,
-      "score": 26.4
+      "score": 27.0
     },
     {
       "id": "2026-08-01-ee0ccff8",
@@ -658,6 +630,20 @@
       "category": "politics",
       "date": "2026-08-01",
       "time": "14:03",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-01-99284538",
+      "headline": "Turkey Said to Extend Iraq Oil Pipeline Deal by One Year",
+      "summary": "Turkey reached an agreement with Iraq to extend an expired oil pipeline deal by one year and increase flows through it, ensuring supply through an exports route that bypasses the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-01/turkey-said-to-extend-iraq-oil-pipeline-deal-by-one-year",
+      "region": "MENA",
+      "country": "Turkey",
+      "category": "business",
+      "date": "2026-08-01",
+      "time": "11:52",
       "conflict_id": null,
       "score": 26.1
     },
@@ -760,34 +746,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-01-bf7252fc",
-      "headline": "Moroccan rapper Mehdi El Youbi temporarily released from prison",
-      "summary": "The outspoken artist was detained in mid-July for ‘insulting a constitutional institution&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/moroccan-rapper-mehdi-el-youbi-temporarily-released-from-prison?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-01",
-      "time": "16:15",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-01-2336fe46",
-      "headline": "At least 11 wounded by Colombia car bomb days before presidential election",
-      "summary": "President-elect Abelardo de la Espriella pledges to pursue harsh crackdown on rebel groups and criminal organisations.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/1/at-least-11-wounded-by-colombia-car-bomb-days-before-presidential-election?traffic_source=rss",
-      "region": "SA",
-      "country": "Colombia",
-      "category": "politics",
-      "date": "2026-08-01",
-      "time": "15:48",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-08-01-29918fcb",
       "headline": "Hamburg celebrates Pride with increased security one week after deadly Berlin attack",
       "summary": "The Hamburg event's motto this time is “Queer in solidarity. Take a stand — for a future without fear.”",
@@ -827,7 +785,7 @@
       "date": "2026-07-31",
       "time": "04:25",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-07-31-815a311f",
@@ -841,21 +799,7 @@
       "date": "2026-07-31",
       "time": "15:18",
       "conflict_id": "israel-hamas",
-      "score": 55.0
-    },
-    {
-      "id": "2026-07-31-e82c39f1",
-      "headline": "Trump and Netanyahu May Be at Odds Again Over Gaza Plan",
-      "summary": "President Trump’s announcement came at a difficult point in his relationship with the Israeli leader over their war against Iran.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/07/31/us/politics/trump-hamas-gaza-israel-netanyahu.html",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-07-31",
-      "time": "23:05",
-      "conflict_id": "israel-hamas",
-      "score": 53.2
+      "score": 63.0
     },
     {
       "id": "2026-07-31-18434d32",
@@ -928,20 +872,6 @@
       "score": 47.0
     },
     {
-      "id": "2026-07-30-652a1a5f",
-      "headline": "Brazil's president confirms two US government officials were denied visas over election interference fears",
-      "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which the US state department rejects.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-07-30",
-      "time": "15:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-07-30-8a13bc3c",
       "headline": "Uefa to boycott World Cups if Fifa plans approved",
       "summary": "Uefa says \"the World Cup is not for sale\" after its 55 member associations vote to boycott future tournaments if Fifa and its president, Gianni Infantino, do not back down on their investment proposals.",
@@ -982,6 +912,34 @@
       "time": "10:34",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-07-30-652a1a5f",
+      "headline": "Brazil's president confirms two US government officials were denied visas over election interference fears",
+      "summary": "Brazil has argued the visit could have been used to raise suspicions about the electoral system's reliability ahead of October's vote, which the US state department rejects.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g3dv60ry9o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-07-30",
+      "time": "15:02",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-07-30-b831c61c",
+      "headline": "The delights of deadlines",
+      "summary": "A friend to procrastinators, an enemy to prattlers, a necessity for managers",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/07/30/the-delights-of-deadlines",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-07-30",
+      "time": "13:02",
+      "conflict_id": null,
+      "score": 25.8
     },
     {
       "id": "2026-07-30-425ccf25",
@@ -1068,20 +1026,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-07-28-9dcf7a06",
-      "headline": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
-      "summary": "Data shows Canadians have replaced US vacations with other international trips in apparent rebuke to TrumpCanadians spent $3.3bn less on travel to the US in 2025 than in the previous year, as Donald Trump’s hostile policies towards his northern neighbour continue to incur an economic cost, new government data shows.The research also indicates that Canadians are not bucking travel overall and instead have replaced US vacations with other internati",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-28",
-      "time": "16:46",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-07-27-d8a00620",
       "headline": "As the US pauses the war with Iran, is Trump really running out of weapons?",
       "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
@@ -1093,7 +1037,7 @@
       "date": "2026-07-27",
       "time": "21:06",
       "conflict_id": null,
-      "score": 43.0
+      "score": 59.0
     },
     {
       "id": "2026-07-27-f48e84e2",
