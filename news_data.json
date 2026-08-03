@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-03T21:55:25.785397+00:00",
-  "story_count": 79,
+  "updated": "2026-08-03T22:48:01.701657+00:00",
+  "story_count": 82,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-08-03-172e8518",
-      "headline": "Trump says talks with Iran are ‘last chance’ to forge a deal",
-      "summary": "US President Donald Trump said Iran has a &quot;last chance&quot; to reach a nuclear agreement.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-03",
-      "time": "19:45",
-      "conflict_id": null,
-      "score": 56.4
-    },
     {
       "id": "2026-08-03-055c236e",
       "headline": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
@@ -46,18 +32,32 @@
       "score": 56.0
     },
     {
-      "id": "2026-08-03-c6ed2c7b",
-      "headline": "Trump warns Tehran facing 'last chance before decapitation'",
-      "summary": "\"We're talking about the Strait, the opening of the Strait, having it open literally by tomorrow, completely open,\" Trump told reporters while speaking from the White House on Monday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/03/trump-warns-tehran-facing-last-chance-before-decapitation",
-      "region": "NA",
-      "country": "White House",
+      "id": "2026-08-03-b8a5293e",
+      "headline": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
+      "summary": "Seven people, including three children, dead after ‘drone debris’ strike beach in seaside town, says Russian taskforceUkrainian drone attacks on a Black Sea resort and the annexed Crimea peninsula killed 11 people, Russian officials said after blaming Ukraine for another explosion that killed five people in a Moscow restaurant.Seven people, including three children, were killed when “drone debris” struck a beach in the seaside town of Arkhipo-Osi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/03/russia-blames-ukraine-deadly-moscow-restaurant-bombing",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-03",
-      "time": "20:26",
+      "time": "22:04",
       "conflict_id": null,
-      "score": 53.0
+      "score": 56.0
+    },
+    {
+      "id": "2026-08-03-172e8518",
+      "headline": "Trump says talks with Iran are ‘last chance’ to forge a deal",
+      "summary": "US President Donald Trump said Iran has a &quot;last chance&quot; to reach a nuclear agreement.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/trump-says-talks-with-iran-are-last-chance-to-forge-a-deal?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-03",
+      "time": "19:45",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-08-03-2ecf3886",
@@ -116,34 +116,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-03-ad1360b8",
-      "headline": "Talks Are Iran’s ‘Last Chance’ Says Trump (Full Q&A)",
-      "summary": "President Donald Trump said his latest offer of talks is a “last chance” for Iran after he called off what he said was a major attack on the Islamic Republic.  “I want to give them every last chance before decapitation,” Trump told reporters in the Oval Office. “You’ll find out today or tomorrow. I mean, they’re going to go quickly, one way or the other. It’s not very complex.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/talks-are-iran-s-last-chance-says-trump-full-q-a-video",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-03",
-      "time": "19:24",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-08-03-34af917e",
-      "headline": "Oil Slips as Trump Says Iran, US in Talks Over Hormuz Reopening",
-      "summary": "Oil fell after both the US and Iran signaled that discussions to restore shipping through the Strait of Hormuz are ongoing, raising hopes for a pickup in supply from the Middle East.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/oil-slips-as-trump-holds-off-iran-attack-says-talks-to-resume-msdeau9b",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-03",
-      "time": "15:39",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-08-03-40c4018c",
       "headline": "Zelenskyy’s military shake‑up continues – but Fedorov remains out",
       "summary": "The Ukrainian president has appointed one of Kyiv’s key peace deal negotiators as the new head of the Foreign Intelligence Service, but the political crisis triggered by the dismissal of Mykhailo Fedorov is still ongoing.",
@@ -156,20 +128,6 @@
       "time": "15:15",
       "conflict_id": "ukraine-war",
       "score": 49.0
-    },
-    {
-      "id": "2026-08-03-735fa569",
-      "headline": "Romania blasts rock to divert water from drought-hit Danube to nuclear reactor",
-      "summary": "Hungary and Romania face energy crisis as record-low river levels force atomic power plants to reduce outputEurope live – latest updatesRomanian naval forces carried out a controlled explosion to help redirect vital cooling water from the drought-hit Danube to the country’s last working nuclear ⁠reactor, while neighbouring Hungary ​said it may be able to eke out two more days of power from its only atomic plant.Hungary and Romania have been force",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/03/romania-blasts-divert-danube-water-nuclear-reactor-energy-crisis-hungary",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-08-03",
-      "time": "14:40",
-      "conflict_id": null,
-      "score": 48.0
     },
     {
       "id": "2026-08-03-068d684f",
@@ -186,6 +144,20 @@
       "score": 47.4
     },
     {
+      "id": "2026-08-03-c6ed2c7b",
+      "headline": "Trump warns Tehran facing 'last chance before decapitation'",
+      "summary": "\"We're talking about the Strait, the opening of the Strait, having it open literally by tomorrow, completely open,\" Trump told reporters while speaking from the White House on Monday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/03/trump-warns-tehran-facing-last-chance-before-decapitation",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-08-03",
+      "time": "20:26",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-08-03-944d13b9",
       "headline": "Ceuta crisis prompts EU ministers to consider internal border checks",
       "summary": "EU interior ministers will assess at a meeting on Tuesday whether to reintroduce tighter internal border checks across Europe in response to the Ceuta crisis.",
@@ -200,20 +172,6 @@
       "score": 45.0
     },
     {
-      "id": "2026-08-03-a53fef61",
-      "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
-      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-03",
-      "time": "19:42",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-08-03-25966229",
       "headline": "Palantir forecasts greater demand from US groups for its AI software",
       "summary": "Tech company posts second-quarter results with US sales climbing 23%",
@@ -226,6 +184,20 @@
       "time": "21:13",
       "conflict_id": null,
       "score": 42.4
+    },
+    {
+      "id": "2026-08-03-36fd14df",
+      "headline": "Situational Awareness' 439% Return Was the Warning",
+      "summary": "Bloomberg Opinion Columnist Aaron Brown discusses his latest piece on the collapse of AI Hedge Fund Situational Awareness. He argues \"The easy story is another tech wunderkind flying too close to the sun. The more useful one is that the 439% return was a warning, not a triumph.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/situational-awareness-439-return-was-the-warning-video",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-03",
+      "time": "21:59",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-08-03-502de7bb",
@@ -252,6 +224,20 @@
       "category": "politics",
       "date": "2026-08-03",
       "time": "21:14",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-08-03-9d21fec5",
+      "headline": "Michigan’s Tense Democratic Senate Race Poses a Big Test for a Divided Party",
+      "summary": "Progressives hope momentum by Dr. Abdul El-Sayed will give them a signature victory. Centrists warn that picking him will backfire in November. Acrimony is everywhere.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/03/us/michigan-senate-primary-democrats-el-sayed-stevens.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "geopolitics",
+      "date": "2026-08-03",
+      "time": "17:13",
       "conflict_id": null,
       "score": 41.2
     },
@@ -284,6 +270,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-08-03-a53fef61",
+      "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
+      "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23579jzv08o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-03",
+      "time": "19:42",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-03-4cd7d360",
       "headline": "Japan vows further yen intervention with US if needed",
       "summary": "Finance minister Satsuki Katayama confirms joint action with Washington to counter ‘disorderly movements’",
@@ -298,6 +298,34 @@
       "score": 34.4
     },
     {
+      "id": "2026-08-03-cb744404",
+      "headline": "Big Take: War Is Good For Big Oil's Profits",
+      "summary": "With Exxon and Chevron reporting their biggest profits in years, oil reporter Mitchell Ferman on why US gasoline prices are still so high. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/big-take-war-is-good-for-big-oil-s-profits",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-03",
+      "time": "22:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-03-f5437798",
+      "headline": "Inside the Democratic Socialists of America Summit",
+      "summary": "Our politics reporter Kellen Browning went to the Democratic Socialists of America’s national summit in Chicago to learn more about the group’s new platform.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/video/us/politics/100000011064084/democratic-socialists-of-america.html",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-03",
+      "time": "22:37",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-08-03-fc748b64",
       "headline": "Kay Granger, Pathbreaking Texas Congresswoman, Dies at 83",
       "summary": "She was the first Republican woman from the state to be elected to the House. It caused a stir in 2024 when she was discovered to be residing in a senior living facility while still in office.",
@@ -307,7 +335,7 @@
       "country": "Congress",
       "category": "politics",
       "date": "2026-08-03",
-      "time": "18:00",
+      "time": "22:11",
       "conflict_id": null,
       "score": 33.2
     },
@@ -380,20 +408,6 @@
       "time": "15:49",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-08-03-f1b13967",
-      "headline": "El-Sayed, Stevens face off in Michigan Democratic Senate primary",
-      "summary": "Voters in the US state of Michigan will cast ballots in a Democratic Senate primary that could reshape the party.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/3/el-sayed-stevens-face-off-in-michigan-democratic-senate-primary?traffic_source=rss",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-08-03",
-      "time": "20:58",
-      "conflict_id": null,
-      "score": 31.4
     },
     {
       "id": "2026-08-03-f3d2364e",
@@ -564,18 +578,88 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-03-dbb3734f",
-      "headline": "UBS fined $125mn over lax money laundering controls",
-      "summary": "Swiss bank failed to implement adequate curbs despite previous sanction by US regulators",
+      "id": "2026-08-03-5aa7fd38",
+      "headline": "Israel’s defence minister triggers row after sacking general on TV",
+      "summary": "Opposition decries attempt by Israel Katz to oust commander responsible for West Bank as sop to far-right voters",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/03c413f2-6ad5-45d1-b5ac-fdb6ed8b4cff?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/240b0ef7-4ee1-4900-b68e-2a2dc0caa32c",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-08-03",
+      "time": "18:51",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-03-4ca07a6e",
+      "headline": "US states accuse Trump administration of ‘sham’ tariff probe",
+      "summary": "More than 20 attorneys-general launch legal challenge to duties for alleged forced labour violations",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/dab7ab5c-9c5c-4763-8313-43e907e3edf7?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-03",
+      "time": "21:35",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-03-52002eb8",
+      "headline": "Latest Oil Market News and Analysis for Aug. 4",
+      "summary": "Oil was steady after its biggest drop in a week, as President Donald Trump said his latest offer of talks is Tehran’s “last chance” and that he expects a full reopening of the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/latest-oil-market-news-and-analysis-for-aug-4",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "business",
+      "date": "2026-08-03",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-03-15dc5903",
+      "headline": "India’s New Stock Closing Auction Sparks Confusion on Debut",
+      "summary": "India’s new system to discover end-of-day market prices got off to a rocky start, with traders trying to make sense of a sudden spike in the NSE Nifty 50 Index stemming from the shift.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/india-s-new-stock-closing-auction-sparks-confusion-on-debut",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-08-03",
+      "time": "11:42",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-03-581f145e",
+      "headline": "Asian Stocks Set for Muted Open, Oil Holds Losses: Markets Wrap",
+      "summary": "Stocks in Asia were set for a muted open Tuesday as investors weighed a rebound in US equities against lingering uncertainty over the Middle East and whether the artificial intelligence-fueled rally has further to run. Oil held Monday’s losses.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-03",
-      "time": "15:53",
+      "time": "22:13",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-03-9335bcf7",
+      "headline": "NYC Rent Freeze May Hit Mortgage Bonds",
+      "summary": "A $506 million bet on thousands of New York rent-stabilized apartments has already soured for bond investors, and Mayor Zohran Mamdani’s rent freeze is threatening to make it worse. Ran Eliasaf, Founder & Managing Partner of Northwind Group, discusses the needs in the NYC housing market and the possible impact of the city's recent moves to make it more affordable and levy new taxes. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-03/digital-ran-eliasaf-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-03",
+      "time": "21:54",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-03-d2eb7b6b",
@@ -588,6 +672,20 @@
       "category": "business",
       "date": "2026-08-03",
       "time": "21:38",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-03-879bc385",
+      "headline": "TMX Australia to Prioritize Tech Transition From Cboe, CEO Says",
+      "summary": "TMX Group Ltd.’s top priority after completing its purchase of Cboe Global Markets Inc.’s Australian business will be migrating clients to its own market technology, according to a senior executive.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-03/tmx-australia-to-prioritize-tech-transition-from-cboe-ceo-says",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-08-03",
+      "time": "21:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -606,74 +704,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-03-ce4d5770",
-      "headline": "Trump Family-Linked Bitcoin Miner Posts Second-Quarter Loss",
-      "summary": "American Bitcoin Corp., the Trump family-backed miner launched last year just before the cryptocurrency tumbled from record highs, posted a third consecutive quarterly loss after a decline in the value of its holdings.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/trump-family-linked-bitcoin-miner-posts-second-quarter-loss",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-03",
-      "time": "11:25",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-03-ec46447e",
-      "headline": "Amazon Crosses $1T Valuation, Boeing Has Biggest Gain Since December | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Romaine Bostick, Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/boeing-has-biggest-gain-since-december-closing-bell-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-03",
-      "time": "20:29",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-03-b09c895f",
-      "headline": "Stocks Close Near Record as Amazon Tops $3 Trillion Market Cap",
-      "summary": "US stocks rose on the first trading day of the month as attention turned to this week’s heavy slate of earnings reports.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/us-futures-climb-as-focus-shifts-back-to-earnings-oil-slides",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-03",
-      "time": "11:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-03-e337fdd7",
-      "headline": "Fund Launches and Leveraged ETFs Flood The Industry | ETF IQ 8/3/2026",
-      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Vident Asset Management President Amrita Nandakumar, Matthews CIO & Portfolio Manager Sean Taylor, Amplify ETFs Founder & CEO Christian Magoon, and Capital Group Head of Global Product Strategy and Development Holly Framsted.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-03/etf-iq-8-3-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-03",
-      "time": "19:36",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-03-30f54dca",
-      "headline": "Senators Urge CFTC to Curb Wildfire Prediction Market Bets Over Arson Concerns",
-      "summary": "A group of Democratic senators urged the Commodity Futures Trading Commission to rein in prediction market trading on wildfires, expressing concern that individuals could be tempted to commit arson to make their bets pay off.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-03/prediction-market-bets-on-wildfires-draw-scrutiny-from-senators",
+      "id": "2026-08-03-5e8e8e98",
+      "headline": "Senate Moves Ahead on Bill to Avert a Shutdown",
+      "summary": "Senators in both parties are eager to avoid another spending skirmish before the midterm elections, but the measure still must pass the House.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/03/us/politics/senate-moves-ahead-on-bill-to-avert-a-shutdown.html",
       "region": "EU",
-      "country": "NATO",
+      "country": "Senate",
       "category": "politics",
       "date": "2026-08-03",
-      "time": "14:06",
+      "time": "22:46",
       "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-08-03-12627f0d",
@@ -800,6 +842,20 @@
       "time": "16:37",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-02-72e0e016",
+      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "11:12",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-02-992bfd5e",
@@ -1080,20 +1136,6 @@
       "time": "05:01",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-07-27-d8a00620",
-      "headline": "As the US pauses the war with Iran, is Trump really running out of weapons?",
-      "summary": "The US has fired thousands of hard-to-replace missiles during its war with Iran. We unpack whether its \"arsenal of freedom\" is perilously low.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qvnk2ezp7o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-07-27",
-      "time": "21:06",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-07-27-61061fac",

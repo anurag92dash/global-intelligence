@@ -6,9 +6,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-08-03",
     "recent_headlines": [
+      {
+        "headline": "Ukrainian drone attacks on Black Sea resort and Crimea kill 11, Russia claims",
+        "source": "The Guardian",
+        "date": "2026-08-03"
+      },
       {
         "headline": "Zelenskyy’s military shake‑up continues – but Fedorov remains out",
         "source": "Euronews",
@@ -41,7 +46,7 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "de-escalating",
+    "status_signal": "stable",
     "last_activity": "2026-08-03",
     "recent_headlines": [
       {
@@ -159,12 +164,12 @@
     "auto_status": false,
     "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
     "status_signal": "stable",
-    "last_activity": "2026-08-02",
+    "last_activity": "2026-08-03",
     "recent_headlines": [
       {
-        "headline": "Sudan army drone attack on Darfur kills 35, rights group says",
-        "source": "Al Jazeera",
-        "date": "2026-08-02"
+        "headline": "NYC Rent Freeze May Hit Mortgage Bonds",
+        "source": "Bloomberg",
+        "date": "2026-08-03"
       }
     ],
     "timeline": [
