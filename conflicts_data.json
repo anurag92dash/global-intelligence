@@ -6,22 +6,17 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
-    "last_activity": "2026-08-04",
+    "status_signal": "escalating",
+    "last_activity": "2026-08-05",
     "recent_headlines": [
       {
-        "headline": "One killed, five injured in Russian ballistic missile attack on Kyiv",
+        "headline": "Russian ballistic missile strike on Kyiv kills two and injures others, officials say",
+        "source": "BBC News",
+        "date": "2026-08-05"
+      },
+      {
+        "headline": "One killed, 12 injured in Russian ballistic missile attack on Kyiv",
         "source": "Al Jazeera",
-        "date": "2026-08-04"
-      },
-      {
-        "headline": "Shocking video shows Russian drone hunting civilian at Kherson market",
-        "source": "Euronews",
-        "date": "2026-08-04"
-      },
-      {
-        "headline": "Will Ukraine get the Patriot licence? Washington sends mixed signals",
-        "source": "Euronews",
         "date": "2026-08-04"
       }
     ],
@@ -52,22 +47,22 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "de-escalating",
-    "last_activity": "2026-08-04",
+    "last_activity": "2026-08-05",
     "recent_headlines": [
+      {
+        "headline": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+        "source": "Al Jazeera",
+        "date": "2026-08-05"
+      },
       {
         "headline": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
         "source": "BBC News",
         "date": "2026-08-04"
       },
       {
-        "headline": "Mass funeral held for 112 members of two Palestinian families",
-        "source": "Al Jazeera",
-        "date": "2026-08-04"
-      },
-      {
-        "headline": "Netanyahu rejects Gaza withdrawal until Hamas disarms",
-        "source": "Euronews",
-        "date": "2026-08-04"
+        "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
+        "source": "BBC News",
+        "date": "2026-08-02"
       }
     ],
     "timeline": [
@@ -128,22 +123,22 @@
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
     "status_signal": "stable",
-    "last_activity": "2026-08-04",
+    "last_activity": "2026-08-05",
     "recent_headlines": [
       {
-        "headline": "SpaceX exceeds revenue estimates in first earnings report since IPO",
-        "source": "Bloomberg",
-        "date": "2026-08-04"
+        "headline": "Arizona’s Democratic Governor Set to Pick a Republican Running Mate",
+        "source": "New York Times",
+        "date": "2026-08-05"
       },
       {
-        "headline": "US states sue to block Trump tariffs impacting dozens of countries",
-        "source": "BBC News",
-        "date": "2026-08-04"
-      },
-      {
-        "headline": "Jetstar to charge fees up to $52 to put carry-on baggage in overhead lockers",
+        "headline": "Hundreds camp in Rome heatwave as Meloni government cracks down on squats",
         "source": "The Guardian",
-        "date": "2026-08-04"
+        "date": "2026-08-05"
+      },
+      {
+        "headline": "Israel approves $37m to seize more than 70 occupied West Bank sites",
+        "source": "Al Jazeera",
+        "date": "2026-08-05"
       }
     ],
     "timeline": [
