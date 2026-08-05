@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-05T11:48:44.801982+00:00",
-  "story_count": 82,
+  "updated": "2026-08-05T13:28:37.640223+00:00",
+  "story_count": 86,
   "source_count": 10,
   "stories": [
     {
@@ -15,21 +15,7 @@
       "date": "2026-08-05",
       "time": "10:09",
       "conflict_id": "ukraine-war",
-      "score": 76.0
-    },
-    {
-      "id": "2026-08-05-8656d7cf",
-      "headline": "Russian strike kills at least 17 as Zelensky says interceptors could have saved lives",
-      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-05",
-      "time": "11:19",
-      "conflict_id": "ukraine-war",
-      "score": 63.0
+      "score": 68.0
     },
     {
       "id": "2026-08-05-ba82d4c6",
@@ -60,6 +46,20 @@
       "score": 53.0
     },
     {
+      "id": "2026-08-05-3ba9a233",
+      "headline": "Israeli forces detain Palestinians during raid in occupied West Bank",
+      "summary": "A journalist covering events was severely beaten by Israeli soldiers, while locals were also attacked.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/israeli-forces-detain-palestinians-during-raid-in-occupied-west-bank?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-05",
+      "time": "11:31",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
       "id": "2026-08-05-577ace9f",
       "headline": "How Israeli restrictions on Palestinians’ movement break up the West Bank",
       "summary": "While barriers to free movement make the lives of Palestinians extremely difficult, they do not make Israel more secure.",
@@ -71,20 +71,6 @@
       "date": "2026-08-05",
       "time": "10:09",
       "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
-      "id": "2026-08-05-50dee56d",
-      "headline": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
-      "summary": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-05",
-      "time": "09:16",
-      "conflict_id": "ukraine-war",
       "score": 51.4
     },
     {
@@ -156,6 +142,48 @@
       "time": "10:37",
       "conflict_id": "ukraine-war",
       "score": 49.0
+    },
+    {
+      "id": "2026-08-05-66e85cba",
+      "headline": "Head of drone manufacturer critically injured in car bomb in Russia",
+      "summary": "Assassination attempt demonstrates Ukraine’s ability to continue clandestine operations deep inside Russian territoryEurope live – latest updatesThe head of a leading Russian drone manufacturer has been critically injured in a car bomb near Ekaterinburg, in what appears to be the latest in a series of assassination attempts targeting figures linked to the country’s war in Ukraine.Vladimir Tkachuk, the founder of the private drone manufacturer Ura",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/05/head-drone-manufacturer-critically-injured-car-bomb-russia-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-05",
+      "time": "12:10",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
+      "id": "2026-08-05-a1ee62e6",
+      "headline": "Russia strike kills 21 as Ukraine says it needs more missile interceptors",
+      "summary": "The Russia defence ministry said it had struck logistics hubs and supply centres in Kyiv and the surrounding region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c330pxyvzzyo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-05",
+      "time": "12:26",
+      "conflict_id": "ukraine-war",
+      "score": 47.0
+    },
+    {
+      "id": "2026-08-05-50dee56d",
+      "headline": "Russian attacks kill 17, exploiting Ukraine’s lack of missile interceptors",
+      "summary": "Ukrainian President Volodymyr Zelenskyy says Russian forces used 29 missiles and 115 drones during the assault.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/russian-attacks-kill-17-exploiting-ukraines-lack-of-missile-interceptors?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-05",
+      "time": "09:16",
+      "conflict_id": "ukraine-war",
+      "score": 43.4
     },
     {
       "id": "2026-08-05-3875d254",
@@ -242,6 +270,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-08-05-ec77ff7d",
+      "headline": "Rep. Chuck Edwards drops reelection bid following House censure recommendation",
+      "summary": "An Ethics Committee report detailed “persistent unprofessional and inappropriate conduct” by the North Carolina Republican toward two young female staffers.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/05/rep-chuck-edwards-drops-reelection-bid-following-house-censure-recommendation/",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-05",
+      "time": "13:14",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
       "id": "2026-08-05-7dcc0466",
       "headline": "Trump says Iran will be 'hit very hard' if Hormuz Strait not open soon as oil prices fall",
       "summary": "US Secretary of State Marco Rubio and Treasury Secretary Scott Bessent both announced talks had progressed to allow shipments to resume.",
@@ -270,20 +312,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-05-896e10db",
-      "headline": "US revokes Brazil ambassador's visa as diplomatic tensions escalate",
-      "summary": "It comes after the Brazilian government refused to grant visas for two US state department officials.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9wpww7dyro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Brazil",
-      "category": "geopolitics",
-      "date": "2026-08-05",
-      "time": "00:16",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-05-d9e3aa9a",
       "headline": "Sprake: Markets Punch-Drunk on AI Capex Spend",
       "summary": "Brent crude held below 80 dollars a barrel on hopes for progress towards a Hormuz deal, while Treasury yields remained lower as easing oil prices reduced pressure on the Federal Reserve. AG Capital's Market Strategist Casey Sprake spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the market moves.\n (Source: Bloomberg)",
@@ -294,20 +322,6 @@
       "category": "business",
       "date": "2026-08-05",
       "time": "10:12",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-05-55e5b6e7",
-      "headline": "Ebola Outbreak: Why the Death Rate Is Rising as Patients Reach Care Too Late",
-      "summary": "The fastest-growing Ebola outbreak is becoming steadily deadlier on paper, as too many people reach treatment only after the disease has become critical.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/ebola-outbreak-why-the-death-rate-is-rising-as-patients-reach-care-too-late",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-05",
-      "time": "09:57",
       "conflict_id": null,
       "score": 34.1
     },
@@ -340,6 +354,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-05-e02e12ec",
+      "headline": "Portugal legend Luis Figo calls for Infantino to resign, saying he 'debased' FIFA presidency",
+      "summary": "\"It is too late to save his dignity but it is not too late to save football. He should go. Now,\" Figo wrote in a post on X.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/05/portugal-legend-luis-figo-calls-for-infantino-to-resign-saying-he-debased-fifa-presidency",
+      "region": "EU",
+      "country": "Portugal",
+      "category": "politics",
+      "date": "2026-08-05",
+      "time": "13:11",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-08-05-fb2705af",
       "headline": "North Korea's Kim Yo Jong warns of military options over Japan’s move into 'war state'",
       "summary": "Japan has been gradually moving away from its post-World War II pacifist status, increasing military spending, ramping up defence pacts and deploying missile launchers to its outer islands.",
@@ -352,6 +380,20 @@
       "time": "09:47",
       "conflict_id": null,
       "score": 29.0
+    },
+    {
+      "id": "2026-08-05-3659acbb",
+      "headline": "Nigeria's president orders a 80% salary increase for junior soldiers",
+      "summary": "The announcement comes as Nigeria's security forces struggle to contain multiple threats.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj031jp3g6jo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-05",
+      "time": "12:52",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-08-05-f11f2f50",
@@ -424,16 +466,72 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-05-20039f39",
-      "headline": "Trump's Hormuz Update, OpenAI & Anthropic AI Alarms | The Pulse 8/5/2026",
-      "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Beata Manthey, Citi Head of EMEA Equity Strategy; Mike Doustdar, Novo Nordisk CEO   (Source: Bloomberg)",
+      "id": "2026-08-05-06873c04",
+      "headline": "US Keeps Debt-Sale Guidance Steady, Deepening Bill Reliance",
+      "summary": "The US Treasury on Wednesday retained its previous guidance for future debt issuance, signaling no change in note and bond auction sizes well into 2027 even as federal borrowing needs climb.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/the-pulse-8-5-2026-video",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/us-keeps-debt-sale-guidance-steady-deepening-reliance-on-bills",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-05",
+      "time": "12:32",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-05-933b7e72",
+      "headline": "Africa’s Highest Yielder Tops Debt Returns as Investors Turn Bullish",
+      "summary": "Gabon has become a top performer in emerging sovereign bond markets, buoyed by expectations that an International Monetary Fund program will help it avert a debt restructuring.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/africa-s-highest-yielder-tops-debt-returns-as-investors-turn-bullish",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-05",
+      "time": "12:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-05-dd169576",
+      "headline": "Stocks Rally on Strong Earnings; SpaceX's AI Spending Hits Shares | Bloomberg Brief 08/05/26",
+      "summary": "US equity futures gains after stocks closed at an all-time high for the first time since June. Shares of SpaceX extend its decline as the company's AI spending puts a damper on its debut earnings results. Oil rises after a new threat by the Houthi militant against Middle East shipping offsets optimism from President Trump about a potential US-Iran deal. Matt McLennan of First Eagle Investments discusses the resilience in US corporate profit margi",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-05/bloomberg-brief-08-05-26-video",
       "region": "NA",
       "country": "Trump",
       "category": "business",
       "date": "2026-08-05",
-      "time": "11:24",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-05-b1a3b6d4",
+      "headline": "Trump Borrows From Democrats’ Playbook With Attack on High Gas Prices",
+      "summary": "President’s criticisms of Big Oil echo the strategy used by his predecessor.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-05/trump-borrows-from-democrats-playbook-with-attack-on-high-gas-prices",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-05",
+      "time": "11:52",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-05-c393343e",
+      "headline": "India’s Upsized LIC Share Sale Ends With Partial Retail Take-Up",
+      "summary": "Retail demand for India’s stake sale in Life Insurance Corp. lagged institutional interest, leaving the individual investor portion undersubscribed after the government increased the offering’s size to $3.3 billion.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-05/lic-share-sale-sees-tepid-retail-demand-after-india-upsized-deal",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-05",
+      "time": "08:43",
       "conflict_id": null,
       "score": 26.1
     },
@@ -476,48 +574,6 @@
       "category": "business",
       "date": "2026-08-05",
       "time": "05:14",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-05-3c2cd76c",
-      "headline": "Tech Melt-Up Drives $3.5 Trillion Nasdaq 100 Rally in Four Days",
-      "summary": "A dramatic turnaround in technology stocks has powered a $3.5 trillion increase in the Nasdaq 100’s market capitalization in just four days, driven by strong earnings that have emboldened investors about the AI outlook.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/tech-melt-up-drives-3-5-trillion-nasdaq-100-rally-in-four-days",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-05",
-      "time": "09:26",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-05-7f969db4",
-      "headline": "Vietnam’s Techcombank Seeks $1 Billion, Joining Rush for Funds",
-      "summary": "Vietnam Technological and Commercial JSB, known as Techcombank, is seeking a $1 billion loan for regular business operations, according to people familiar with the matter, in what would be one of the Southeast Asian nation’s largest debt deals this year.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-05/vietnam-s-techcombank-seeks-1-billion-joining-rush-for-funds",
-      "region": "APJ",
-      "country": "Vietnam",
-      "category": "politics",
-      "date": "2026-08-05",
-      "time": "06:23",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-05-4b9fac78",
-      "headline": "Wegovy Profitability Will Keep Improving, Novo CEO Says",
-      "summary": "Novo Nordisk Chief Executive Officer Mike Doustdar says the profitability of its popular Wegovy weight-loss pill is \"decent\" and will continue to improve. \"If that was not the case, we would not be launching the product in more and more markets,\" he tells Bloomberg Television.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-05/wegovy-profitability-will-keep-improving-novo-ceo-says-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-05",
-      "time": "09:15",
       "conflict_id": null,
       "score": 26.1
     },
@@ -606,18 +662,18 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-05-640c82b6",
-      "headline": "Hundreds camp in Rome heatwave as Meloni government cracks down on squats",
-      "summary": "Spin Time provides homes, food banks and after-school clubs but the authorities have locked out residentsHundreds of people have spent a week sleeping in tents in the Rome heat amid a standoff between Giorgia Meloni’s far-right government and local politicians over the future of Italy’s most high-profile centre for housing and social assistance.A minor fire last week forced the evacuation of the building, occupied by grassroots groups since 2013,",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/05/hundreds-camp-in-rome-heatwave-as-meloni-government-cracks-down-on-squats",
-      "region": "EU",
-      "country": "Italy",
-      "category": "politics",
+      "id": "2026-08-05-bcbfabbf",
+      "headline": "Pakistan’s Khan in jail for 3 years: PTI rallies over ‘arbitrary detention’",
+      "summary": "Thousands of supporters of former PM Imran Khan&#039;s party demonstrate across country to call for his immediate release.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/5/pakistans-khan-in-jail-for-3-years-pti-amnesty-slam-solitary-confinement?traffic_source=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "business",
       "date": "2026-08-05",
-      "time": "04:00",
+      "time": "12:58",
       "conflict_id": null,
-      "score": 24.0
+      "score": 23.4
     },
     {
       "id": "2026-08-05-d656fbaf",
@@ -732,6 +788,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-05-ae9be1bb",
+      "headline": "How is this country attracting manufacturing investment?",
+      "summary": "Kazakhstan is seeking to attract more investment into higher-value manufacturing as it looks to diversify its economy beyond raw materials and expand value-added industries.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/05/how-is-this-country-attracting-manufacturing-investment",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-05",
+      "time": "13:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-05-f577584d",
       "headline": "Wynn Al Marjan Island: UAE’s first casino resort set to open in September 2027",
       "summary": "Construction is ‘progressing rapidly’ at the Wynn Al Marjan Island gaming resort located in the northern emirate of Ras Al Khaimah.",
@@ -742,34 +812,6 @@
       "category": "business",
       "date": "2026-08-05",
       "time": "10:00",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-05-f5c38210",
-      "headline": "Infineon hits revenue record: AI data centres drive growth",
-      "summary": "Once the problem child of the chip industry, Infineon has reinvented itself. Its semiconductors are now key components for electric cars, data centres and the energy transition.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/05/infineon-hits-revenue-record-ai-data-centres-drive-growth",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-05",
-      "time": "08:11",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-05-eed2817d",
-      "headline": "Eight South Korean students held over US military base break-in attempt",
-      "summary": "Students gathered outside the main hub of the US Air Force in South Korea, arguing the US military's presence in Gwangju could complicate Seoul's major chipmaking project planned there.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/05/eight-south-korean-students-held-over-us-military-base-break-in-attempt",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-05",
-      "time": "06:38",
       "conflict_id": null,
       "score": 21.0
     },
@@ -802,20 +844,6 @@
       "score": 51.0
     },
     {
-      "id": "2026-08-04-a5b8ae8f",
-      "headline": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-04",
-      "time": "17:26",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-08-04-dc71e7a8",
       "headline": "Japan’s prime minister tours earthquake-hit sites as recovery efforts hampered by soaring temperatures",
       "summary": "Prime minister Sanae Takaichi visited Kumamoto prefecture almost a week after a magnitude 7.1 quake hit, killing 38 peopleJapan’s prime minister, Sanae Takaichi, has visited the south-western prefecture of Kumamoto, where recovery efforts are being hampered by heat and a lack of water supplies, almost a week after a magnitude 7.1 earthquake killed dozens and caused widespread damage.Thirty-eight people died during the quake, including one person ",
@@ -830,6 +858,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-04-c52b0b74",
+      "headline": "'I was slut-shamed' - Indian women 'cockroach' protesters doxxed and abused",
+      "summary": "Women tell the BBC how they were harassed for participating in the CJP protest and posting about it online.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4g43l251vyo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-04",
+      "time": "22:28",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-04-aa55a11f",
       "headline": "How to avoid the worst of the Italian heat",
       "summary": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
@@ -840,34 +882,6 @@
       "category": "business",
       "date": "2026-08-04",
       "time": "18:21",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-08-04-47d103bb",
-      "headline": "More than 170 migrants rescued after boat catches fire in Channel",
-      "summary": "The government says all of the migrants, who were attempting to cross to the UK, will be returned to France.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gkpeppjyqo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-08-04",
-      "time": "19:45",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-08-04-fc9dcfe3",
-      "headline": "World's oldest president reshuffles army as his absence stokes unease",
-      "summary": "Cameroon's president has been absent for two months while his team denies rumours about his health.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9kd27lkpo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-04",
-      "time": "14:53",
       "conflict_id": null,
       "score": 27.0
     },
@@ -886,6 +900,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-04-9f19f23e",
+      "headline": "Latest Oil Market News and Analysis for Aug. 5",
+      "summary": "Oil edged higher after Yemen’s Iran-backed Houthis broadened their threat to Saudi exports from the Red Sea, tempering optimism over a deal to reopen the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-04/latest-oil-market-news-and-analysis-for-aug-5",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-08-04",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-04-526bbe2c",
       "headline": "Stocks Extend Gains on Strong Earnings, AI Demand: Markets Wrap",
       "summary": "US stocks extended a four-day rally as the latest batch of corporate earnings pointed to a strong economic backdrop and continued demand for artificial intelligence build-out, while hopes rose for a US-Iran deal that would re-open the Strait of Hormuz.",
@@ -900,6 +928,34 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-03-055c236e",
+      "headline": "Stronger EU borders needed after Ceuta crisis, von der Leyen says",
+      "summary": "European Commission president says work needed in five areas of migration control including returning more peopleThe president of the European Commission has called for action to strengthen Europe’s borders after tens of thousands of people arrived and quickly left the Spanish territory of Ceuta, triggering a furious row between Madrid and other European countries.In a letter to Spain’s prime minister, Pedro Sánchez, on Monday, Ursula von der Ley",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/03/stronger-eu-borders-physical-barriers-ceuta-von-der-leyen",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-08-03",
+      "time": "17:44",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
+      "id": "2026-08-03-05108e19",
+      "headline": "How Ceuta migrant crisis exposes divisions within Europe - The Latest",
+      "summary": "Dozens of people died attempting to reach the Spanish enclave of Ceuta after an estimated 50,000 crossed from Morocco last week. The incident has led to a political crisis in Spain and criticism from EU countries.Lucy Hough speaks to the Guardian’s European community affairs correspondent, Ashifa Kassam – watch on YouTube Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/news/audio/2026/aug/03/how-ceuta-migrant-crisis-exposes-divisions-within-europe-the-latest",
+      "region": "EU",
+      "country": "Morocco",
+      "category": "geopolitics",
+      "date": "2026-08-03",
+      "time": "16:05",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
       "id": "2026-08-03-a53fef61",
       "headline": "Iran says it is in talks with Oman but not the US after Trump says negotiations to resume",
       "summary": "Iran's remarks that there were no talks with the US prompts Donald Trump to issue a strong condemnation of its leadership.",
@@ -911,7 +967,7 @@
       "date": "2026-08-03",
       "time": "19:42",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-08-03-2cbf7526",
@@ -1009,7 +1065,7 @@
       "date": "2026-08-01",
       "time": "05:01",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 71.0
     },
     {
       "id": "2026-08-01-5f7ebc0b",
