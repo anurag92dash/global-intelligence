@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-07T10:30:41.803662+00:00",
-  "story_count": 78,
-  "source_count": 9,
+  "updated": "2026-08-07T11:28:21.895636+00:00",
+  "story_count": 82,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-07-18e9931a",
@@ -18,20 +18,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-07-804d41c0",
-      "headline": "Iran war live: Trump says Iran can’t ‘go on much longer’; Hormuz deal close",
-      "summary": "The US, Iran and Oman are close to a temporary deal to reopen the Strait of Hormuz.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/7/trump-says-war-cant-go-much-longer-hormuz-deal-close?traffic_source=rss",
-      "region": "MENA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-08-07-ff6f19c0",
       "headline": "Why was Taiwan’s president evacuated in the middle of the night?",
       "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
@@ -44,6 +30,20 @@
       "time": "04:52",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-08-07-dd6ad4a5",
+      "headline": "Military shake-up poses little threat to Ukraine's ongoing drone revolution",
+      "summary": "Ukraine has built a sprawling drone industry from scratch, hailed by President Volodymyr Zelenskyy as the best in the world.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/07/military-shake-up-poses-little-threat-to-ukraines-ongoing-drone-revolution",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "09:55",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
       "id": "2026-08-07-57fbbb35",
@@ -256,20 +256,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-08-07-01a89cbd",
-      "headline": "Uefa says boycott may still go ahead as FA withdraws Infantino support",
-      "summary": "Fifa's backing of president Gianni Infantino at a meeting on Wednesday \"changes nothing\", says European governing body Uefa.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c2k74yevgzwo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "01:57",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-07-5447b21c",
       "headline": "A new youth agitation grips an Indian state after 'cockroach' protests",
       "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
@@ -324,6 +310,48 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-07-45f1a91b",
+      "headline": "Jobs Data Won't Move Fed's Thinking: Natixus' Hodge",
+      "summary": "Christopher Hodge, Natixis Chief US Economist, expects a modest uptick in unemployment in the upcoming US jobs report. He joins Bloomberg's Vonnie Quinn on \"Bloomberg Brief.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-07/jobs-data-won-t-move-fed-s-thinking-natixus-hodge-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "11:14",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-07-018fd534",
+      "headline": "Top Indian Shadow Bank’s Shares Hit as RBI to Tighten Loan Rules",
+      "summary": "Bajaj Finance Ltd. led declines in Indian shadow lender stocks, as the central bank proposed to bar them from offering revolving credit facilities.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/top-indian-shadow-bank-s-shares-hit-as-rbi-to-tighten-loan-rules",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "07:40",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-07-62f7a5cd",
+      "headline": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+      "summary": "After spending much of the year in the stock market doghouse over fears about their profligate spending on artificial intelligence, the world’s biggest technology companies are suddenly leading the way once again.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/big-tech-stocks-storm-back-as-ai-fears-fade-and-euphoria-resumes",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "10:30",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-07-8aae6e35",
@@ -396,58 +424,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-07-4359b0ed",
-      "headline": "Some Chinese Iron Ore Buyers Stop Dealing With Radiant World",
-      "summary": "Several Chinese traders and steel mills have stopped dealing with iron ore traders Radiant World and Sapphire Minmetals Corp., according to people familiar with the matter.",
+      "id": "2026-08-07-47e43e8a",
+      "headline": "Trump Says Hormuz Talks ‘Moving Along’ Even as Iran Mulls US Ban | The Opening Trade 8/7/2026",
+      "summary": "US President Donald Trump said negotiations between Iran and Oman over the Strait of Hormuz are “moving along,” even after some Iranian lawmakers said they would seek to bar American and Israeli ships from the waterway as part of the deal. \n\nTreasuries were steady after the 10-year yield climbed seven basis points during the US session as higher oil prices revived concerns that the Federal Reserve may need to keep interest rates elevated. The dol",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/some-chinese-iron-ore-buyers-stop-dealing-with-radiant-world",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-07/the-opening-trade-8-7-2026-video",
       "region": "NA",
-      "country": null,
+      "country": "America",
       "category": "business",
       "date": "2026-08-07",
-      "time": "09:53",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-07-f8a84c75",
-      "headline": "UAE’s Adnoc Buys $1.3 Billion of Tankers as Oil Exports Boom",
-      "summary": "The biggest oil producer in the United Arab Emirates spent $1.3 billion to expand its tanker fleet to benefit from surging crude exports after the country left OPEC and pushed more of its oil through the contested Strait of Hormuz.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/uae-s-adnoc-buys-tankers-for-1-3-billion-as-crude-exports-boom",
-      "region": "MENA",
-      "country": "OPEC",
-      "category": "business",
-      "date": "2026-08-07",
-      "time": "07:32",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-07-b4360250",
-      "headline": "Bond Traders Look to Jobs Data That May Tip Scale on Fed Hike",
-      "summary": "Bond investors are bracing for labor market data Friday, which could cool growing expectations the Federal Reserve raises interest rates at its next meeting in September.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/bond-traders-look-to-jobs-data-that-may-tip-scale-on-fed-hike",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-07",
-      "time": "07:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-07-c8d681cb",
-      "headline": "Quant Crash in China Sends DeepSeek Founder’s Funds Down 20%",
-      "summary": "China’s quantitative hedge funds suffered steep losses in July after a rout in stocks linked to artificial intelligence, pushing some funds into the red for the year and leaving others doing little better than benchmark stock indexes.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/quant-crash-in-china-sends-deepseek-founder-s-funds-down-20",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "08:40",
+      "time": "09:59",
       "conflict_id": null,
       "score": 26.1
     },
@@ -550,6 +536,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-07-1256e5f3",
+      "headline": "Weak yen boosts Japan automaker profits, easing Middle East, China stress",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/automobiles/weak-yen-boosts-japan-automaker-profits-easing-middle-east-china-stress",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-07-96eb857e",
       "headline": "Tokyo office rents hit fresh 3-decade high as market tightens",
       "summary": "",
@@ -564,6 +564,76 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-07-563b9fac",
+      "headline": "Cyprus energy minister: Meridiam's entry into Great Sea Interconnector is 'vote of confidence'",
+      "summary": "Nicosia's final decisions will be based on the findings of the European Investment Bank, which will also determine the final cost of the Greece–Cyprus power interconnection project, Michalis Damianos said.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/07/cyprus-energy-minister-meridiams-entry-into-great-sea-interconnector-is-vote-of-confidence",
+      "region": "EU",
+      "country": "Greece",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-07-c116dde0",
+      "headline": "Sri Lanka deploys troops to contain growing prison unrest, minister says",
+      "summary": "Officials have attributed the growing unrest to acute overcrowding. Sri Lanka's prisons hold about four times their intended capacity.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/07/sri-lanka-deploys-troops-to-contain-growing-prison-unrest-minister-says",
+      "region": "SA",
+      "country": "Sri Lanka",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "08:43",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-07-92bc81aa",
+      "headline": "Fish over Trump: Economy will determine Iceland's vote on the EU",
+      "summary": "While Arctic security and US claims over Greenland dominate international headlines, Icelanders are set to decide their European future on far more familiar grounds such as fish and farming. The 29 August referendum is less about geopolitics than sovereignty and identity.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/07/fish-over-trump-economy-will-determine-icelands-vote-on-the-eu",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "08:03",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-07-0613b228",
+      "headline": "Metsola's re-election drive puts Socialists under pressure",
+      "summary": "The European People’s Party is set to bank on a third mandate for the Maltese leader, who is popular among MEPs. This is a concern for the S&amp;D group, which claims to be entitled to the presidency according to an informal agreement among centrist political forces.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/07/metsolas-re-election-drive-puts-socialists-under-pressure",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "08:03",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-07-b30fdc6c",
+      "headline": "Drinks giant Diageo unveils $1bn in cost cuts to tackle slowing growth",
+      "summary": "The world's largest spirits maker has scrapped its medium-term growth target as new CEO Dave Lewis moves to reset performance after years of stagnant sales.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/07/drinks-giant-diageo-unveils-1bn-in-cost-cuts-to-tackle-slowing-growth",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "07:15",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-06-6fa2152c",
       "headline": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
       "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
@@ -574,6 +644,20 @@
       "category": "geopolitics",
       "date": "2026-08-06",
       "time": "14:20",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-06-0e2500f0",
+      "headline": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "14:51",
       "conflict_id": null,
       "score": 43.0
     },
@@ -718,6 +802,20 @@
       "score": 32.9
     },
     {
+      "id": "2026-08-06-4d2a445c",
+      "headline": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "18:53",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-06-4a55e8d3",
       "headline": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
       "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
@@ -746,6 +844,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-06-cf7d8aa1",
+      "headline": "Stocks Gain Before US Jobs Data, Crude Oil Dips: Markets Wrap",
+      "summary": "Stocks edged higher in subdued trading ahead of the key monthly US payrolls report, which traders will parse for clues to the Federal Reserve’s policy path.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-06",
+      "time": "22:10",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-06-efd60437",
       "headline": "Latest Oil Market News and Analysis for Aug. 7",
       "summary": "Oil wavered between losses and gains as traders weighed negotiations between Iran and Oman over the Strait of Hormuz against renewed tensions, with Tehran seeking to bar US ships from a deal to partially restore shipping through the critical waterway.",
@@ -756,20 +868,6 @@
       "category": "business",
       "date": "2026-08-06",
       "time": "22:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-06-34a5e3de",
-      "headline": "Stocks Muted Before US Jobs Data, Crude Oil Gains: Markets Wrap",
-      "summary": "Stocks edged higher as traders held back from making big bets ahead of the key monthly US payrolls report. Oil gained as prospects for a lasting agreement to reopen the Strait of Hormuz remained elusive.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-06",
-      "time": "22:10",
       "conflict_id": null,
       "score": 26.1
     },
@@ -886,20 +984,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-08-05-71771875",
-      "headline": "Democrats turn out big in Michigan gubernatorial primary",
-      "summary": "About 1.5 million voters cast ballots in the Democratic primary for governor compared with about 930,000 in the Republican primary, as of midday Wednesday.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/05/democrats-turn-out-big-michigan-gubernatorial-primary/",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-08-05",
-      "time": "17:14",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
       "id": "2026-08-05-a8e48c35",
       "headline": "Toronto zoo announces birth of pygmy hippo calf, third for mother Kindia",
       "summary": "The 20-year-old’s third calf is being monitored by officials as survival rates for the species are challenging, the zoo saidThe Toronto Zoo has announced the birth of a female pygmy hippo calf.Kindia, the zoo’s 20-year-old pygmy hippo, started showing signs of labor at around 8.15am last Sunday, it said. Around four hours later, the calf’s feet emerged and after 1.5 hours of active labor, Kindia successfully gave birth to the baby pygmy hippo. Co",
@@ -970,20 +1054,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-04-20638cd2",
-      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-04",
-      "time": "03:37",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-04-fee4ae3e",
       "headline": "'My grandmother subjected my baby to female genital mutilation behind my back'",
       "summary": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
@@ -1024,20 +1094,6 @@
       "time": "15:50",
       "conflict_id": "israel-hamas",
       "score": 55.0
-    },
-    {
-      "id": "2026-08-02-72e0e016",
-      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
-      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-08-02",
-      "time": "11:12",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-01-1e107e79",
