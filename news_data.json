@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-07T16:30:21.731321+00:00",
-  "story_count": 80,
+  "updated": "2026-08-07T17:29:26.068139+00:00",
+  "story_count": 83,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-07-e4c00a2a",
+      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca",
+      "summary": "Three allies seek to deepen regional security co-operation to deal with wars and instability",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a988ae61-a218-4872-a4d7-a3061c6ca7ab?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "11:37",
+      "conflict_id": null,
+      "score": 58.4
+    },
     {
       "id": "2026-08-07-b6e96dc4",
       "headline": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
@@ -16,20 +30,6 @@
       "time": "13:12",
       "conflict_id": "ukraine-war",
       "score": 51.4
-    },
-    {
-      "id": "2026-08-07-e4c00a2a",
-      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca",
-      "summary": "Three allies seek to deepen regional security co-operation to deal with wars and instability",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a988ae61-a218-4872-a4d7-a3061c6ca7ab?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "11:37",
-      "conflict_id": null,
-      "score": 50.4
     },
     {
       "id": "2026-08-07-bc48beb4",
@@ -72,6 +72,20 @@
       "time": "04:52",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-08-07-e34cc867",
+      "headline": "US economy unexpectedly sheds 23,000 jobs in July",
+      "summary": "Lacklustre figure prompts traders to scale back bets on Fed rate rises",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "16:53",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-08-07-7dc925ca",
@@ -153,7 +167,7 @@
       "country": "Morocco",
       "category": "geopolitics",
       "date": "2026-08-07",
-      "time": "15:59",
+      "time": "16:33",
       "conflict_id": null,
       "score": 35.0
     },
@@ -186,18 +200,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-07-e34cc867",
-      "headline": "US economy unexpectedly sheds 23,000 jobs in July",
-      "summary": "Lacklustre figure prompts traders to scale back bets on Fed rate rises",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+      "id": "2026-08-07-8da2ac61",
+      "headline": "Trump Tariffs ‘Tortuous’ to Soybean Trade, China Diplomat Says",
+      "summary": "US President Donald Trump’s trade war with China created a “tortuous experience” that disrupted the flow of soybeans between the world’s two largest economies, a Chinese diplomat said Friday.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/trump-tariffs-tortuous-to-soybean-trade-china-diplomat-says",
       "region": "NA",
-      "country": null,
-      "category": "business",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-08-07",
-      "time": "15:50",
+      "time": "16:43",
       "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
     },
     {
       "id": "2026-08-07-6864f8f5",
@@ -242,34 +256,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-07-7cbd089c",
-      "headline": "CFTC Warns Prediction Markets Against American-Style Casino Odds",
-      "summary": "The Commodity Futures Trading Commission told prediction markets to avoid using American-style gambling odds as the US regulator fends off legal challenges alleging the platforms are illicit sports betting operations.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/cftc-warns-prediction-markets-against-american-style-casino-odds",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "15:13",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-07-542ded02",
-      "headline": "Veritas-Backed Firm Begins Year’s Biggest Software Refinancing",
-      "summary": "Gainwell Technologies has kicked off a $5.8 billion debt overhaul that would be the US software sector’s biggest of 2026, doing so as the sector has underperformed the broader leveraged-loan market by the most in years.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/veritas-backed-firm-begins-year-s-biggest-software-refinancing",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "14:56",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-08-07-75c9e0c3",
       "headline": "Appeals Court Upholds Block on Trump Ballroom Construction",
       "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
@@ -279,21 +265,21 @@
       "country": "Trump",
       "category": "business",
       "date": "2026-08-07",
-      "time": "15:20",
+      "time": "17:23",
       "conflict_id": null,
       "score": 33.2
     },
     {
       "id": "2026-08-07-807f1b76",
       "headline": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
-      "summary": "The Louisiana senator said that, despite reservations,  he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
+      "summary": "The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html",
       "region": "EU",
       "country": "Trump",
       "category": "politics",
       "date": "2026-08-07",
-      "time": "15:32",
+      "time": "16:46",
       "conflict_id": null,
       "score": 33.2
     },
@@ -326,6 +312,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-08-07-91d06f39",
+      "headline": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation",
+      "summary": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "16:44",
+      "conflict_id": null,
+      "score": 32.9
+    },
+    {
       "id": "2026-08-07-bedf8285",
       "headline": "Trump must halt ballroom construction, appeals court says",
       "summary": "Congress, not the president, must authorize the project, the court ruled. The order will take effect in two weeks, allowing the White House to appeal to the Supreme Court.",
@@ -335,21 +335,7 @@
       "country": "White House",
       "category": "politics",
       "date": "2026-08-07",
-      "time": "15:44",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-07-24df445b",
-      "headline": "Cassidy backs Todd Blanche for AG, appearing to clear way for confirmation",
-      "summary": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/07/todd-blanches-ag-nomination-loses-another-critical-gop-vote/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "15:20",
+      "time": "16:37",
       "conflict_id": null,
       "score": 32.9
     },
@@ -408,6 +394,20 @@
       "time": "12:35",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-08-07-cb5e00cf",
+      "headline": "US labour market sheds jobs in July as labour force participation slumps",
+      "summary": "US labour market loses 23,000 jobs in July as education, government and retail sectors record significant declines.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "16:25",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-08-07-d622c8e3",
@@ -592,44 +592,58 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-07-16306abf",
-      "headline": "Fitch Sees Chile Budget as Key to Halting Rising Debt Burden",
-      "summary": "Fitch Ratings is skeptical that tax cuts approved by Chile’s Congress last month will boost growth by enough to offset the immediate drop in revenue, leaving the emphasis on fiscal spending reductions if the government wants to balance the books anytime soon.",
+      "id": "2026-08-07-c2b075dd",
+      "headline": "The Free Money AI Bond Buildout Is Gone",
+      "summary": "Hyperscaler debt funding is getting pricier.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/fitch-sees-chile-budget-as-key-to-halting-rising-debt-burden",
-      "region": "NA",
-      "country": "Congress",
-      "category": "business",
-      "date": "2026-08-07",
-      "time": "16:20",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-07-b91bd699",
-      "headline": "Treasuries Rally as Soft Jobs Data Trims Fed Rate-Hike Bets",
-      "summary": "US Treasuries rallied after data showed employers unexpectedly cut jobs in July, suggesting labor market challenges that could impact the Federal Reserve’s willingness to raise interest rates.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/us-treasuries-rally-as-soft-jobs-data-trims-fed-rate-hike-bets",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-07/the-free-money-ai-bond-buildout-is-gone",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-07",
-      "time": "12:46",
+      "time": "16:44",
       "conflict_id": null,
       "score": 26.1
     },
     {
-      "id": "2026-08-07-b858acbb",
-      "headline": "Worst-Ever Brazil Market Outage Puts B3’s Near-Monopoly in Focus",
-      "summary": "The worst trading outage ever in Brazilian financial markets was just the latest disruption over the past year to bedevil investors in Latin America’s biggest economy.",
+      "id": "2026-08-07-c84bd6f3",
+      "headline": "Under Armour Cuts Sales View on Softer Demand Around the World",
+      "summary": "Under Armour Inc. forecast a sharper revenue decline than previously expected as demand softens in several key regions.\nThe athletic retailer now expects sales to fall by a mid-single digit percentage rate for the year. The revised forecast calls for declines in North America, Asia-Pacific, and Europe and the Middle East as the company grapples with a “challenging consumer demand environment,” Chief Executive Officer Kevin Plank said in a stateme",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/worst-ever-brazil-market-outage-puts-b3-s-near-monopoly-in-focus",
-      "region": "NA",
-      "country": "Latin America",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-07/under-armour-cuts-sales-view-on-softer-demand-video",
+      "region": "EU",
+      "country": "America",
       "category": "business",
       "date": "2026-08-07",
-      "time": "16:13",
+      "time": "16:40",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-07-c55d125c",
+      "headline": "BlackRock’s Rieder Sees AI Helping Buoy GDP Even as Hiring Slows",
+      "summary": "BlackRock Inc.’s Rick Rieder said last month’s surprise contraction in payrolls reflects a “productivity revolution” rather than economic weakness, arguing that the US economy remains on track for 6% nominal growth in gross domestic product even as hiring stalls.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/blackrock-s-rieder-sees-ai-helping-buoy-gdp-even-as-hiring-slows",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "16:25",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-07-5a65bbc4",
+      "headline": "European Stocks Gain for Fourth Straight Week on Strong Earnings",
+      "summary": "European stocks rose for a fourth week in a row as a stronger-than-expected earnings season and growing M&amp;A chatter lifted regional benchmarks to fresh records.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/european-stocks-set-for-fourth-straight-weekly-gain-on-earnings",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "07:20",
       "conflict_id": null,
       "score": 26.1
     },
@@ -646,6 +660,20 @@
       "time": "11:33",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-08-07-d7b6353e",
+      "headline": "India commits $8.8bn to deep-sea oil exploration to cut Mideast reliance",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/india-commits-8.8bn-to-deep-sea-oil-exploration-to-cut-mideast-reliance",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-08-07-dd733e67",
@@ -844,20 +872,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-06-6a6114ba",
-      "headline": "Some House Republicans Are Backing a Challenger in Cory Mills’s Re-election Bid",
-      "summary": "Two Republican lawmakers have endorsed a primary opponent of Representative Cory Mills, who has been accused of assault and is under investigation by the House Ethics Committee.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/06/us/politics/republicans-endorse-cory-mills-opponent.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-06",
-      "time": "23:58",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-08-06-b2beefe3",
       "headline": "Trump tries new tack against birthright citizenship after Supreme Court snub",
       "summary": "The president signed executive orders that target children born to “alien enemies,” foreign lobbyists or tourists. The orders are certain to face legal challenges.",
@@ -882,6 +896,34 @@
       "category": "politics",
       "date": "2026-08-06",
       "time": "20:37",
+      "conflict_id": null,
+      "score": 32.9
+    },
+    {
+      "id": "2026-08-06-d9c00f8f",
+      "headline": "What’s up with all these scandals in Congress?",
+      "summary": "One lawmaker faces domestic abuse allegations; another, allegations of inappropriate behavior toward female staffers.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/06/whats-up-with-all-these-scandals-congress/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "16:11",
+      "conflict_id": null,
+      "score": 32.9
+    },
+    {
+      "id": "2026-08-06-0d6e6f85",
+      "headline": "Trump-linked law firm to get $150 million no-bid contract to represent migrant children",
+      "summary": "The Trump administration announced the award after allowing the previous contract with a longtime legal provider to expire.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/06/trump-linked-law-firm-get-150-million-no-bid-contract-represent-migrant-children/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "15:00",
       "conflict_id": null,
       "score": 32.9
     },
@@ -914,6 +956,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-06-4a6f24b4",
+      "headline": "Stocks and Bonds Rise as Jobs Ease Fed-Hike Wagers: Markets Wrap",
+      "summary": "A sharp slowdown in the US jobs market drove stocks higher while bond yields fell on speculation the Federal Reserve won’t be forced to raise interest rates any time soon.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-06",
+      "time": "22:10",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-06-448159a0",
       "headline": "Starbucks Korea raided by police after ‘Tank Day’ campaign sparks public outrage",
       "summary": "Coffee chain has faced backlash over marketing promotion tied to anniversary of Gwangju massacreSouth Korean police have raided the headquarters of Starbucks Korea as part of an investigation into a marketing campaign accused of trivialising the country’s 1980s pro-democracy movement.Investigators searched the building in southern Seoul on Tuesday, police said on Wednesday. No further details were released, although South Korean media reported th",
@@ -940,20 +996,6 @@
       "time": "18:19",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-08-05-1a3f6632",
-      "headline": "Rep. Edwards drops competitive reelection bid after House censure recommendation",
-      "summary": "An Ethics Committee report detailed “persistent unprofessional and inappropriate conduct” by the North Carolina Republican toward two young female staffers.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/05/rep-chuck-edwards-drops-reelection-bid-following-house-censure-recommendation/",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-05",
-      "time": "21:28",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-08-05-acca7da7",
