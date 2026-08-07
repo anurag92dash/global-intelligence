@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-07T11:28:21.895636+00:00",
+  "updated": "2026-08-07T12:06:59.709168+00:00",
   "story_count": 82,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-08-07-18e9931a",
-      "headline": "Israeli raid in West Bank’s Qalandiya injures 51 Palestinians",
-      "summary": "Israeli forces arrest dozens of Palestinians near Jerusalem amid uptick in military and settler violence in West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/7/israeli-raid-in-west-banks-qalandiya-injures-51-palestinians?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "01:51",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
     {
       "id": "2026-08-07-ff6f19c0",
       "headline": "Why was Taiwan’s president evacuated in the middle of the night?",
@@ -32,6 +18,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-07-e4c00a2a",
+      "headline": "Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca",
+      "summary": "Three allies seek to deepen regional security co-operation to deal with wars and instability",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a988ae61-a218-4872-a4d7-a3061c6ca7ab?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "11:37",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
       "id": "2026-08-07-dd6ad4a5",
       "headline": "Military shake-up poses little threat to Ukraine's ongoing drone revolution",
       "summary": "Ukraine has built a sprawling drone industry from scratch, hailed by President Volodymyr Zelenskyy as the best in the world.",
@@ -44,20 +44,6 @@
       "time": "09:55",
       "conflict_id": "ukraine-war",
       "score": 41.0
-    },
-    {
-      "id": "2026-08-07-57fbbb35",
-      "headline": "Trump imposes 15% tariff on key chip material to counter China",
-      "summary": "The move  aims to protect US firms as they face increasing competition from China's chip industry.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "01:03",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-07-a5c1f1f2",
@@ -104,14 +90,14 @@
     {
       "id": "2026-08-07-bbadca0d",
       "headline": "Drought and Aging Pipes Plunge Puerto Rico Into Another Water Crisis",
-      "summary": "The disaster has put yet another spotlight on the government’s inability to provide basic services, deepening frustration among residents already plagued by regular power outages.",
+      "summary": "Starting on Friday, the island’s water authority is scheduled to shut off water for rotating 48-hour periods in parts of San Juan and surrounding areas.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/08/07/us/puerto-rico-water-crisis-drought.html",
       "region": "NA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-08-07",
-      "time": "09:00",
+      "time": "11:48",
       "conflict_id": null,
       "score": 33.2
     },
@@ -186,6 +172,34 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-07-10e5d2fb",
+      "headline": "Trump says war ‘can’t go much longer’ – what’s the latest on talks?",
+      "summary": "Reports suggest that Tehran is discussing a bill barring US and Israeli vessels from passing the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/trump-says-war-cant-go-much-longer-whats-the-latest-on?traffic_source=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "11:15",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-08-07-dec49e6a",
+      "headline": "Saudi ⁠Arabia, Pakistan and Turkiye sign defence deal amid regional turmoil",
+      "summary": "The agreement states that an ⁠attack on any one of the ⁠three countries is an ⁠attack against them all, Pakistan says.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/7/saudi-%e2%81%a0arabia-pakistan-and-turkiye-sign-defence-deal-amid-regional-turmoil?traffic_source=rss",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "11:03",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-08-07-26b94cf1",
       "headline": "Africa backs Infantino as CAF unanimously votes in FIFA president’s favour",
       "summary": "CAF president Patrice Motsepe calls for good governance, as Africa throws weight behind FIFA&#039;s Gianni Infantino.",
@@ -221,20 +235,6 @@
       "url": "https://asia.nikkei.com/opinion/india-s-nuclear-armed-submarine-accelerates-arms-race-with-pakistan",
       "region": "SA",
       "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-08-07-1396404e",
-      "headline": "US imposes 15% tariff on polysilicon in pushback against China",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/trade-war/trump-tariffs/us-imposes-15-tariff-on-polysilicon-in-pushback-against-china",
-      "region": "NA",
-      "country": "China",
       "category": "geopolitics",
       "date": "2026-08-07",
       "time": "",
@@ -310,6 +310,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-07-54b01b4b",
+      "headline": "JBS Gets $2.5 Billion From Indonesia Fund to Expand in Asia",
+      "summary": "JBS NV said the Indonesian sovereign wealth fund Danantara agreed to invest $2.5 billion to form a joint-venture that will focus on the protein market in Southeast Asia, Australia and New Zealand.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-07/jbs-gets-2-5-billion-from-indonesia-fund-to-expand-in-asia",
+      "region": "APJ",
+      "country": "New Zealand",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "11:02",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-07-45f1a91b",
@@ -466,16 +480,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-07-c5d2353e",
-      "headline": "Police in Argentina use tear gas to stop protesters",
-      "summary": "Al Jazeera’s Teresa Bo reports from Buenos Aires, where police fired tear gas as thousands protested.",
+      "id": "2026-08-07-d23236bf",
+      "headline": "First school for robots opens in China",
+      "summary": "&quot;Our main goal is to empower robots&#039; brains.&quot;\n\nChina has launched its first robot school.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/police-in-argentina-use-tear-gas-to-stop-protesters?traffic_source=rss",
-      "region": "SA",
-      "country": "Argentina",
-      "category": "politics",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/7/first-school-for-robots-opens-in-china?traffic_source=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-08-07",
-      "time": "01:02",
+      "time": "11:33",
       "conflict_id": null,
       "score": 23.4
     },
@@ -530,20 +544,6 @@
       "region": "APJ",
       "country": "Australia",
       "category": "business",
-      "date": "2026-08-07",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-07-1256e5f3",
-      "headline": "Weak yen boosts Japan automaker profits, easing Middle East, China stress",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/weak-yen-boosts-japan-automaker-profits-easing-middle-east-china-stress",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
       "date": "2026-08-07",
       "time": "",
       "conflict_id": null,
@@ -620,20 +620,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-07-b30fdc6c",
-      "headline": "Drinks giant Diageo unveils $1bn in cost cuts to tackle slowing growth",
-      "summary": "The world's largest spirits maker has scrapped its medium-term growth target as new CEO Dave Lewis moves to reset performance after years of stagnant sales.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/07/drinks-giant-diageo-unveils-1bn-in-cost-cuts-to-tackle-slowing-growth",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-07",
-      "time": "07:15",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-06-6fa2152c",
       "headline": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
       "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
@@ -690,20 +676,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-06-3536146b",
-      "headline": "Ukraine hits two oil refineries deep in Russian territory",
-      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "15:41",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-06-f7c97a7f",
       "headline": "Does Africa still back Infantino as Fifa president?",
       "summary": "The African confederation has yet to take an official stance, but where do the key African footballing nations stand on the Infantino saga?",
@@ -714,6 +686,34 @@
       "category": "politics",
       "date": "2026-08-06",
       "time": "19:55",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-06-579ec011",
+      "headline": "Watch: Nasa astronauts conduct 6.5-hour spacewalk outside ISS",
+      "summary": "Astronauts Anil Menon and Jessica Meir ventured out to install a mounting hardware for the future addition of solar arrays to the space station.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c89n8940vq8o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "21:49",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-06-3536146b",
+      "headline": "Ukraine hits two oil refineries deep in Russian territory",
+      "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwymv212xrxo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "15:41",
       "conflict_id": null,
       "score": 35.0
     },
@@ -844,9 +844,9 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-06-cf7d8aa1",
-      "headline": "Stocks Gain Before US Jobs Data, Crude Oil Dips: Markets Wrap",
-      "summary": "Stocks edged higher in subdued trading ahead of the key monthly US payrolls report, which traders will parse for clues to the Federal Reserve’s policy path.",
+      "id": "2026-08-06-e050c768",
+      "headline": "Stocks Gain as Oil Dips Ahead of Key US Jobs Data: Markets Wrap",
+      "summary": "Stocks edged higher as oil prices dipped and traders awaited the key monthly US payrolls report for clues to the Federal Reserve’s policy path.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -1040,20 +1040,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-04-a5b8ae8f",
-      "headline": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-04",
-      "time": "17:26",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-04-fee4ae3e",
       "headline": "'My grandmother subjected my baby to female genital mutilation behind my back'",
       "summary": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
@@ -1096,6 +1082,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-08-02-72e0e016",
+      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "11:12",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-01-1e107e79",
       "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
       "summary": "Settler violence against Palestinians is on the rise in the West Bank, as settlements and outposts expand.",
@@ -1107,7 +1107,7 @@
       "date": "2026-08-01",
       "time": "05:01",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 47.0
     },
     {
       "id": "2026-08-01-5f7ebc0b",
