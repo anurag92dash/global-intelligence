@@ -6,7 +6,7 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "escalating",
+    "status_signal": "stable",
     "last_activity": "2026-08-07",
     "recent_headlines": [
       {
@@ -15,14 +15,14 @@
         "date": "2026-08-07"
       },
       {
-        "headline": "Russia drops record number of glide bombs on Ukraine as casualties pile up",
-        "source": "Al Jazeera",
-        "date": "2026-08-07"
-      },
-      {
         "headline": "Ukraine hits two oil refineries deep in Russian territory",
         "source": "BBC News",
         "date": "2026-08-06"
+      },
+      {
+        "headline": "After deadly Kyiv strike, Ukraine warns interceptor shortage is costing lives",
+        "source": "BBC News",
+        "date": "2026-08-05"
       }
     ],
     "timeline": [
@@ -52,8 +52,13 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "de-escalating",
-    "last_activity": "2026-08-04",
+    "last_activity": "2026-08-07",
     "recent_headlines": [
+      {
+        "headline": "Medics among six Palestinians injured in Israeli attacks across West Bank",
+        "source": "Al Jazeera",
+        "date": "2026-08-07"
+      },
       {
         "headline": "Mass funeral in Gaza for 112 Palestinians killed in 2023 Israeli strike",
         "source": "BBC News",
@@ -63,11 +68,6 @@
         "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
         "source": "BBC News",
         "date": "2026-08-02"
-      },
-      {
-        "headline": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
-        "source": "BBC News",
-        "date": "2026-08-01"
       }
     ],
     "timeline": [
