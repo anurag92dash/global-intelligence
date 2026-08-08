@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T16:16:33.598753+00:00",
-  "story_count": 78,
+  "updated": "2026-08-08T16:57:34.611016+00:00",
+  "story_count": 77,
   "source_count": 10,
   "stories": [
     {
@@ -30,20 +30,6 @@
       "time": "06:02",
       "conflict_id": "ukraine-war",
       "score": 65.0
-    },
-    {
-      "id": "2026-08-08-121803a6",
-      "headline": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
-      "summary": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "15:01",
-      "conflict_id": null,
-      "score": 55.4
     },
     {
       "id": "2026-08-08-5d5983a7",
@@ -102,8 +88,36 @@
       "score": 49.0
     },
     {
-      "id": "2026-08-08-a8e72983",
-      "headline": "US gifts $1bn to Colombia on new right-wing president's first day of office",
+      "id": "2026-08-08-121803a6",
+      "headline": "UAE says Iran targeted ADNOC tanker in Strait of Hormuz, no casualties",
+      "summary": "Gulf and Arab governments condemn Iran over missile strike on Emirati tanker.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/uae-says-iran-targeted-adnoc-tanker-in-hormuz-no-casualties-2?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "15:01",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-08-08-4be687c1",
+      "headline": "UNRWA has been with me since birth, I cannot imagine a future without it",
+      "summary": "The UN body has been part of the lives of millions of Palestinian refugees. Post-genocide Gaza cannot cope without it",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/8/unrwa-has-been-with-me-since-birth-i-cannot-imagine-a-future-without-it?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "15:52",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
+      "id": "2026-08-08-17023490",
+      "headline": "US offers $1bn to Colombia on new right-wing president's first day of office",
       "summary": "Abelardo de la Espriella used his maiden speech to promise an \"all-out war\" on what he calls \"narco-terrorism\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy9wy3y0e5wo?at_medium=RSS&at_campaign=rss",
@@ -111,7 +125,35 @@
       "country": "Colombia",
       "category": "geopolitics",
       "date": "2026-08-08",
-      "time": "13:49",
+      "time": "16:34",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-08-e6308d30",
+      "headline": "Watch: Moment opposition MP throws eggs at Kosovo's acting PM",
+      "summary": "Lawmakers and police officers had to intervene after Alliance party MP Time Kadrijaj hurled at least four eggs towards Kosovo's acting prime minister Albin Kurti.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cvg8je12xxeo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "15:59",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-08-f12e7a2f",
+      "headline": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "summary": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "00:02",
       "conflict_id": null,
       "score": 43.0
     },
@@ -186,6 +228,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-08-08-7899300c",
+      "headline": "Tehran says US must ‘rectify its behaviour’ before Iran reopens strait",
+      "summary": "Senior security official wants Washington to pay compensation for war damage",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9a1ab09b-82d7-43c2-b44a-ebb41d352dab?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "16:20",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
       "id": "2026-08-08-432bc477",
       "headline": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
       "summary": "Lobby struggles to pass top priority in Congress as lawmakers spar over legislation",
@@ -226,6 +282,34 @@
       "time": "10:00",
       "conflict_id": null,
       "score": 32.9
+    },
+    {
+      "id": "2026-08-08-20652d0c",
+      "headline": "Opposition MP hurls eggs at Kosovo Prime Minister",
+      "summary": "An opposition lawmaker threw eggs at acting Prime Minster Albin Kurti during a parliamentary session.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/opposition-mp-hurls-eggs-at-kosovo-prime-minister?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "16:09",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-08-08-33c751c0",
+      "headline": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+      "summary": "However, UEFA says a &#039;departure payment&#039; was made to a female employee when Infantino was the body&#039;s general-secretary.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "13:59",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-08-08-a78857dd",
@@ -368,32 +452,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-08-cd39b161",
-      "headline": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
-      "summary": "Senator Darline Graham, who took her brother’s place after his death and is now seeking to succeed him, has mostly declined to answer questions from reporters at the Capitol.",
+      "id": "2026-08-08-11e18a1b",
+      "headline": "In Confirming Blanche, Senators Endorse a Justice Dept. Under Trump’s Sway",
+      "summary": "Time and again, Todd Blanche has made it clear that he believes President Trump possesses a nearly limitless right to directly control the actions of the Justice Department.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/08/us/politics/darline-lindsey-graham-questions.html",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/blanche-attorney-general-doj-trump-power.html",
       "region": "EU",
-      "country": "NATO",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-08-08",
-      "time": "09:02",
+      "time": "16:28",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-08-08-33c751c0",
-      "headline": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
-      "summary": "However, UEFA says a &#039;departure payment&#039; was made to a female employee when Infantino was the body&#039;s general-secretary.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-08",
-      "time": "13:59",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-08-08-781aa89e",
@@ -410,25 +480,11 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-08-b4e1e808",
-      "headline": "US announces $400m investment in Australian rare earth mine",
-      "summary": "Deal aims to secure scandium supply as China restricts exports for defence products.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/us-announces-400m-investment-in-australian-rare-earth-mine?traffic_source=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-08-08",
-      "time": "09:30",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-08-3e36f378",
-      "headline": "Japan's top 3 banks boost foreign currency liquidity to $1.25tn",
+      "id": "2026-08-08-79bbd23d",
+      "headline": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/finance/japan-s-top-3-banks-boost-foreign-currency-liquidity-to-1.25tn",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-top-3-banks-boost-foreign-currency-liquidity-buffers-to-1.25tn",
       "region": "APJ",
       "country": "Japan",
       "category": "business",
@@ -522,34 +578,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-08-b3502836",
-      "headline": "Tisza Party group nominates András Baka for new Hungarian president",
-      "summary": "On Saturday, the Tisza Party, which has a constitutional majority in Parliament, picked András Baka who was removed by Fidesz from the Supreme Court, to be elected president on Tuesday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/08/tisza-party-group-nominates-andras-baka-for-new-hungarian-president",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-08",
-      "time": "13:09",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-08-aa8d94b9",
-      "headline": "Unidentified drone explodes in Bulgaria, close to major gas pipeline",
-      "summary": "Bulgaria's prime minister said both Bulgarian and Romanian authorities had failed to pick up the drone as it made its way through their respective airspace.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/08/unidentified-drone-explodes-in-bulgarian-airspace-close-to-romanian-border",
-      "region": "EU",
-      "country": "Romania",
-      "category": "politics",
-      "date": "2026-08-08",
-      "time": "10:56",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-07-15e9a239",
       "headline": "US Senate approves sweeping Russia sanctions bill targeting energy income",
       "summary": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
@@ -562,6 +590,20 @@
       "time": "18:20",
       "conflict_id": null,
       "score": 45.0
+    },
+    {
+      "id": "2026-08-07-1f5357e5",
+      "headline": "Watch: BBC asks Infantino if he will resign as Fifa president",
+      "summary": "The head of the football governing body has faced multiple calls to quit after his aborted attempt to sell private stakes in the World Cup.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0ejrdzx98wo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "21:24",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-07-ff6f19c0",
@@ -858,20 +900,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-06-b35e9df1",
-      "headline": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "17:36",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-06-6360bdfc",
       "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -912,20 +940,6 @@
       "time": "20:37",
       "conflict_id": null,
       "score": 32.9
-    },
-    {
-      "id": "2026-08-06-4d2a445c",
-      "headline": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
-      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "18:53",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-06-448159a0",
@@ -1040,20 +1054,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-03-c8aad6b6",
-      "headline": "Threat to oil tankers in Middle East  worst since start of Iran war, analysts say",
-      "summary": "Fresh attacks on alternative shipping routes have left tankers facing an increasingly complex situation, analysts say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjrv0dy2e90o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-03",
-      "time": "15:57",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-02-d2877602",
       "headline": "At least 13 killed in Israeli strikes on Gaza after Hamas agree disarmament deal",
       "summary": "Israel says it was targeting military operatives in the strikes on Gaza City, Khan Younis and Deir el-Balah.",
@@ -1080,20 +1080,6 @@
       "time": "05:01",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-01-5f7ebc0b",
-      "headline": "Peru's ex-president leaves jail after 15-year jail term for corruption overturned",
-      "summary": "Ollanta Humala had been convicted of money laundering offences alongside his wife in 2025.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2j9nj88rro?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Peru",
-      "category": "politics",
-      "date": "2026-08-01",
-      "time": "02:21",
-      "conflict_id": null,
-      "score": 27.0
     }
   ]
 }
