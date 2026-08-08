@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-08T14:02:27.869470+00:00",
-  "story_count": 76,
+  "updated": "2026-08-08T14:46:06.768001+00:00",
+  "story_count": 78,
   "source_count": 10,
   "stories": [
     {
@@ -88,18 +88,18 @@
       "score": 49.2
     },
     {
-      "id": "2026-08-08-3ba20b57",
-      "headline": "Violence is driving Palestinian Christians out of their Holy Land",
-      "summary": "Palestinian Christians are facing violence and displacement across Gaza, Jerusalem and the occupied West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/violence-is-driving-palestinian-christians-out-of-their-holy-land?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
+      "id": "2026-08-08-03f74dea",
+      "headline": "Serbia's Vučić sends signal to Brussels and Moscow by hosting Zelenskyy with pomp and circumstance",
+      "summary": "The talks between Zelenskyy and Vučić come as Russia's war against Ukraine once again intensifies. Despite Serbia’s historical ties to Russia, its bid to join the EU now seems to have taken the lead in considerations.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/08/serbias-vucic-sends-signal-to-brussels-and-moscow-by-hosting-zelenskyy-with-pomp-and-circu",
+      "region": "EU",
+      "country": "Brussels",
       "category": "geopolitics",
       "date": "2026-08-08",
-      "time": "05:28",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "time": "14:07",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-08-08-a8e72983",
@@ -120,12 +120,12 @@
       "headline": "US Senate narrowly confirms Todd Blanche as US attorney-general",
       "summary": "Vote follows tense fight that exposed bipartisan concerns about installing an ally of President Donald Trump",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5",
+      "url": "https://www.ft.com/content/4f1f4150-3e5b-4015-ad44-5f596e0287a5?syn-25a6b1a6=1",
       "region": "NA",
       "country": "Senate",
       "category": "politics",
       "date": "2026-08-08",
-      "time": "09:16",
+      "time": "14:24",
       "conflict_id": null,
       "score": 42.4
     },
@@ -228,16 +228,30 @@
       "score": 32.9
     },
     {
-      "id": "2026-08-08-cfd343e0",
-      "headline": "Atletico Madrid will not sell Alvarez amid Barcelona interest, says Simeone",
-      "summary": "Last month, Atletico filed a complaint to FIFA over Barcelona allegedly tapping up the 26-year-old forward.",
+      "id": "2026-08-08-08b584de",
+      "headline": "War on Iran: Phase II: Day 28",
+      "summary": "Saudi-Pakistan-Turkiye pact draws mixed reactions, as Iran and Oman agree a Hormuz security framework.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/8/atletico-madrid-will-not-sell-alvarez-amid-barcelona-interest-says-simeone?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/8/war-on-iran-phase-ii-day-28?traffic_source=rss",
       "region": "MENA",
-      "country": null,
+      "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-08-08",
-      "time": "12:01",
+      "time": "14:09",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-08-08-eab98002",
+      "headline": "Iran deliberates Hormuz arrangement amid uncertain prospects with US",
+      "summary": "Iran and Oman have agreed on the coordinates of routes to be taken by vessels through the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/iran-deliberates-hormuz-arrangement-amid-uncertain-prospects-with-us?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "13:52",
       "conflict_id": null,
       "score": 31.4
     },
@@ -298,6 +312,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-08-019ced48",
+      "headline": "LIV Golf Tries to Survive Without Saudi Billions",
+      "summary": "LIV Golf is seeking fresh investments as it prepares to cut purses and move away from the huge guaranteed payments that helped it lure some of golf’s biggest stars. Author of \"LIV or Let Die\" Alan Shipnuck is on Bloomberg This Weekend to explain that the league’s future may depend on retaining players including Jon Rahm and Bryson DeChambeau while proving it can attract enough fans and revenue to operate with less financial support from Saudi Ara",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/liv-golf-tries-to-survive-without-saudi-billions-video",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-08-08",
+      "time": "14:41",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-08-c0db9479",
+      "headline": "China’s AI Push Reshapes Its Economic Future",
+      "summary": "New Yorker staff writer Evan Osnos is on Bloomberg This Weekend and says China is taking a practical approach to AI, rapidly deploying the technology in factories and seeking to expand its use across emerging markets rather than focusing primarily on the pursuit of artificial general intelligence. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-08/china-s-ai-push-reshapes-its-economic-future-video",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "14:32",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-08-d6b7eb57",
       "headline": "AI Buildout Keeps Quinlan Bullish on US Stocks",
       "summary": "Merrill & Bank of America Head of Market Strategy Joe Quinlan is on Bloomberg This Weekend to give his reaction to the July jobs report. Quinlan explains to hosts David Gura and Christina Ruffini that the US economy remains resilient despite the weak July jobs data, pointing to continued hiring in construction and health care and investment tied to AI. (Source: Bloomberg)",
@@ -326,20 +368,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-08-70048371",
-      "headline": "US Partly Resumes Operations in Mexico’s Avocado State Michoacan",
-      "summary": "The US will partially resume operations in Mexico’s top avocado-producing state, days after security concerns prompted a halt that disrupted inspections for exports.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-08/us-partly-resumes-operations-in-mexico-s-avocado-state-michoacan",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "business",
-      "date": "2026-08-08",
-      "time": "00:12",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-08-cd39b161",
       "headline": "Lindsey Graham Loved to Gab With Reporters. His Sister Won’t.",
       "summary": "Senator Darline Graham, who took her brother’s place after his death and is now seeking to succeed him, has mostly declined to answer questions from reporters at the Capitol.",
@@ -354,8 +382,22 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-08-cf319db6",
-      "headline": "Families retrieve bodies after deadly shooting rampage outside Bangkok",
+      "id": "2026-08-08-33c751c0",
+      "headline": "FIFA President Gianni Infantino denies claims UEFA paid off alleged lover",
+      "summary": "However, UEFA says a &#039;departure payment&#039; was made to a female employee when Infantino was the body&#039;s general-secretary.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/8/fifa-president-gianni-infantino-denies-claims-uefa-paid-off-alleged-lover?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "13:59",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-08-08-781aa89e",
+      "headline": "Thailand school shooting death toll rises to nine after girl dies",
       "summary": "Thailand has one of the highest rates of gun ownership in Asia.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/8/families-retrieve-bodies-after-deadly-shooting-rampage-outside-bangkok?traffic_source=rss",
@@ -418,20 +460,6 @@
       "region": "APJ",
       "country": "Japan",
       "category": "politics",
-      "date": "2026-08-08",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-08-9c3d06c7",
-      "headline": "China rare-earth exports to Japan, US plunge after restrictions",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/materials/china-rare-earth-exports-to-japan-us-plunge-after-restrictions",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
       "date": "2026-08-08",
       "time": "",
       "conflict_id": null,
@@ -606,6 +634,20 @@
       "score": 37.0
     },
     {
+      "id": "2026-08-07-bc48beb4",
+      "headline": "US employers slash 23,000 jobs amid ongoing Iran war pressure",
+      "summary": "July's unemployment rate eased slightly to 4.1% from 4.2% in June, as more Americans leave the labour market.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/07/us-employers-slash-23000-jobs-amid-ongoing-iran-war-pressure",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "15:08",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-08-07-1a78e8c0",
       "headline": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
       "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
@@ -632,20 +674,6 @@
       "time": "04:49",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-07-608d8466",
-      "headline": "CFTC Warns Prediction Markets on American-Style Casino Odds",
-      "summary": "The Commodity Futures Trading Commission told prediction markets to avoid using American-style gambling odds as the US regulator fends off legal challenges alleging the platforms are illicit sports betting operations.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-07/cftc-warns-prediction-markets-against-american-style-casino-odds",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "15:13",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-08-07-2f62e5c5",
@@ -844,20 +872,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-06-b35e9df1",
-      "headline": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "17:36",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-06-ec5ce14d",
       "headline": "Myanmar leader breaks diplomatic isolation on first official visit to Thailand since coup",
       "summary": "The military leader has been barred from western countries and accused of crimes against humanity.",
@@ -898,6 +912,20 @@
       "time": "16:11",
       "conflict_id": null,
       "score": 32.9
+    },
+    {
+      "id": "2026-08-06-00cd7113",
+      "headline": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
+      "summary": "Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales dropNintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs.The company said profits surged 53.5% to ¥147.4bn (£694m) over the three months to June, substantially beating expert forecasts for ¥77.8bn. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-06",
+      "time": "11:11",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-08-06-448159a0",
