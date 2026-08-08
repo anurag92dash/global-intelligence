@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-08T15:52:01.079303+00:00",
-  "story_count": 75,
-  "source_count": 9,
+  "updated": "2026-08-08T16:16:33.598753+00:00",
+  "story_count": 78,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-08-0d625cf0",
@@ -15,7 +15,21 @@
       "date": "2026-08-08",
       "time": "15:49",
       "conflict_id": "ukraine-war",
-      "score": 63.0
+      "score": 71.0
+    },
+    {
+      "id": "2026-08-08-b3c41140",
+      "headline": "Russian attacks on Kyiv region kill three, including a child",
+      "summary": "The State Emergency Service of Ukraine shared images on social media showing blazes ravaging what appeared to be warehouses and garages.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/08/russian-attack-on-kyiv-region-kills-three-including-a-child",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "06:02",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
     },
     {
       "id": "2026-08-08-121803a6",
@@ -55,7 +69,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-08-08",
-      "time": "13:23",
+      "time": "15:56",
       "conflict_id": null,
       "score": 52.0
     },
@@ -72,6 +86,20 @@
       "time": "09:02",
       "conflict_id": null,
       "score": 49.2
+    },
+    {
+      "id": "2026-08-08-03f74dea",
+      "headline": "Serbia's Vučić sends signal to Brussels and Moscow by hosting Zelenskyy with pomp and circumstance",
+      "summary": "The talks between Zelenskyy and Vučić come as Russia's war against Ukraine once again intensifies. Despite Serbia’s historical ties to Russia, its bid to join the EU now seems to have taken the lead in considerations.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/08/serbias-vucic-sends-signal-to-brussels-and-moscow-by-hosting-zelenskyy-with-pomp-and-circu",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "14:07",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-08-08-a8e72983",
@@ -130,32 +158,46 @@
       "score": 40.9
     },
     {
-      "id": "2026-08-08-cba25018",
-      "headline": "Typhoon Dolphin hits Japan, heads towards China",
-      "summary": "Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
+      "id": "2026-08-08-48977650",
+      "headline": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn inThe ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌president, the US state department announced, soon after Abelardo De La ‌Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against drug trafficking, as well as austerity measures to res",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "region": "NA",
+      "country": "Colombia",
+      "category": "politics",
       "date": "2026-08-08",
-      "time": "08:50",
+      "time": "04:08",
       "conflict_id": null,
-      "score": 39.4
+      "score": 40.0
     },
     {
-      "id": "2026-08-08-5901e11f",
-      "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
+      "id": "2026-08-08-2f3e6199",
+      "headline": "Rome-Madrid row: how Spain checks travellers arriving from Italy",
+      "summary": "Spain has introduced border checks for travellers arriving from Italy after Rome's measures over the Ceuta crisis, from IDs to trips with children and pets.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/08/rome-madrid-row-how-spain-checks-travellers-arriving-from-italy",
+      "region": "EU",
+      "country": "Spain",
       "category": "geopolitics",
       "date": "2026-08-08",
-      "time": "15:15",
+      "time": "07:21",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-08-432bc477",
+      "headline": "Landmark crypto bill stalls in US Senate despite $225mn spending push",
+      "summary": "Lobby struggles to pass top priority in Congress as lawmakers spar over legislation",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/352a15ac-53c4-46eb-b75e-957f0388dc79?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-08-08-e62f94fd",
@@ -184,6 +226,34 @@
       "time": "10:00",
       "conflict_id": null,
       "score": 32.9
+    },
+    {
+      "id": "2026-08-08-a78857dd",
+      "headline": "The post-American Middle East is beginning to take shape",
+      "summary": "The pact between Saudi Arabia, Pakistan and Turkiye is yet another step towards a new regional security architecture.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/8/the-post-american-middle-east-is-beginning-to-take-shape?traffic_source=rss",
+      "region": "NA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "11:34",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-08-08-5901e11f",
+      "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "15:15",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-08-08-26ceadaa",
@@ -382,6 +452,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-08-5668a285",
+      "headline": "China's kids turn to AI-powered tutors over summer break",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-kids-turn-to-ai-powered-tutors-over-summer-break",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-08-b0a6a688",
       "headline": "Why yen intervention had limited impact: Market doubts over Japan's policy",
       "summary": "",
@@ -438,6 +522,48 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-08-b3502836",
+      "headline": "Tisza Party group nominates András Baka for new Hungarian president",
+      "summary": "On Saturday, the Tisza Party, which has a constitutional majority in Parliament, picked András Baka who was removed by Fidesz from the Supreme Court, to be elected president on Tuesday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/08/tisza-party-group-nominates-andras-baka-for-new-hungarian-president",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "13:09",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-08-aa8d94b9",
+      "headline": "Unidentified drone explodes in Bulgaria, close to major gas pipeline",
+      "summary": "Bulgaria's prime minister said both Bulgarian and Romanian authorities had failed to pick up the drone as it made its way through their respective airspace.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/08/unidentified-drone-explodes-in-bulgarian-airspace-close-to-romanian-border",
+      "region": "EU",
+      "country": "Romania",
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "10:56",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-07-15e9a239",
+      "headline": "US Senate approves sweeping Russia sanctions bill targeting energy income",
+      "summary": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+      "region": "NA",
+      "country": "Senate",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "18:20",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-08-07-ff6f19c0",
       "headline": "Why was Taiwan’s president evacuated in the middle of the night?",
       "summary": "President William Lai took part in an emergency evacuation drill as part of Taiwan military exercises preparing for a potential Chinese invasion.",
@@ -452,18 +578,32 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-07-7929060b",
-      "headline": "Iranians Say Trump’s Promises Have Fallen by the Wayside as Iran War Drags On",
-      "summary": "As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.",
+      "id": "2026-08-07-e0cccc48",
+      "headline": "Senate Passes Sanctions Bill Targeting Russia and Iran",
+      "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html",
+      "region": "EU",
+      "country": "Senate",
+      "category": "politics",
       "date": "2026-08-07",
-      "time": "18:56",
+      "time": "19:42",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-08-07-cdac29ba",
+      "headline": "Trump says he’ll bring ballroom fight to Supreme Court after lower court halts work",
+      "summary": "An appeals court ruled earlier Friday that construction must stop until Congress authorizes the project. The ballroom is among the president’s top priorities for this term.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "20:22",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-08-07-1a78e8c0",
@@ -494,20 +634,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-07-e0cccc48",
-      "headline": "Senate Passes Sanctions Bill Targeting Russia and Iran",
-      "summary": "The legislation was championed by Senator Lindsey Graham, the South Carolina Republican whose sudden death last month helped spur quick action on it.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/senate-russia-sanctions.html",
-      "region": "EU",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "19:42",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-08-07-2f62e5c5",
       "headline": "U.S. Squeezes Cuba Even as It Searches for a New Regime Leader",
       "summary": "Some officials warn that a more hard-line leader could emerge if the Trump administration moves forward with its plans.",
@@ -520,20 +646,6 @@
       "time": "22:35",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-08-07-cdac29ba",
-      "headline": "Trump says he’ll bring ballroom fight to Supreme Court after lower court halts work",
-      "summary": "An appeals court ruled earlier Friday that construction must stop until Congress authorizes the project. The ballroom is among the president’s top priorities for this term.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "20:22",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-08-07-91d06f39",
@@ -550,20 +662,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-08-07-5f20f072",
-      "headline": "Trump won’t let the Supreme Court have the last word",
-      "summary": "The president moved this week to counter legal defeats on ending birthright citizenship and firing a Fed governor, while seeking the justices’ help with his ballroom.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-wont-let-supreme-court-have-last-word/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "19:47",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-08-07-cdfd095c",
       "headline": "Court deals setback to Trump’s war on wind as Pentagon is ordered to review projects",
       "summary": "The Defense Department stopped processing national security reviews of wind projects in May, despite a law demanding they be completed in 75 days.",
@@ -574,20 +672,6 @@
       "category": "geopolitics",
       "date": "2026-08-07",
       "time": "18:37",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-07-4d972348",
-      "headline": "In Texas, the economy rather than abortion takes center stage",
-      "summary": "Senate contenders James Talarico and Ken Paxton unveil dueling economic plans as this year’s campaigns turn from the culture wars that defined the state’s 2024 vote.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/james-talarico-ken-paxton-unveil-dueling-economic-plans/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "09:00",
       "conflict_id": null,
       "score": 32.9
     },
@@ -718,6 +802,20 @@
       "score": 24.9
     },
     {
+      "id": "2026-08-07-55cc863b",
+      "headline": "Household income plunges in Greece, Austria despite overall OECD growth",
+      "summary": "New OECD data shows a widening gap between economic growth and household prosperity, with Greece and Austria bearing the sharpest falls in real income.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/07/household-income-plunges-in-greece-austria-despite-overall-oecd-growth",
+      "region": "EU",
+      "country": "Austria",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "15:45",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-06-3536146b",
       "headline": "Ukraine hits two oil refineries deep in Russian territory",
       "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
@@ -816,32 +914,18 @@
       "score": 32.9
     },
     {
-      "id": "2026-08-06-d9c00f8f",
-      "headline": "What’s up with all these scandals in Congress?",
-      "summary": "One lawmaker faces domestic abuse allegations; another, allegations of inappropriate behavior toward female staffers.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/06/whats-up-with-all-these-scandals-congress/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "16:11",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-06-00cd7113",
-      "headline": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
-      "summary": "Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales dropNintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs.The company said profits surged 53.5% to ¥147.4bn (£694m) over the three months to June, substantially beating expert forecasts for ¥77.8bn. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "id": "2026-08-06-4d2a445c",
+      "headline": "Trump denies US weapons shortage and says information 'leakers' being 'hunted down'",
+      "summary": "While precise data is classified, publicly available information suggests the US has used up many difficult-to-manufacture weapons.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8mjd19xm7o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
-      "category": "business",
+      "category": "geopolitics",
       "date": "2026-08-06",
-      "time": "11:11",
+      "time": "18:53",
       "conflict_id": null,
-      "score": 24.0
+      "score": 27.0
     },
     {
       "id": "2026-08-06-448159a0",
@@ -942,48 +1026,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-08-04-3d38f14d",
-      "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
-      "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c80n3j55g0do?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-08-04",
-      "time": "21:45",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-04-a5b8ae8f",
-      "headline": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
-      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-04",
-      "time": "17:26",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-04-20638cd2",
-      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-04",
-      "time": "03:37",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-04-aa55a11f",
       "headline": "How to avoid the worst of the Italian heat",
       "summary": "From supermarkets to night-time tours, experts share how to make the most of Italy during this latest heatwave.",
@@ -1009,7 +1051,7 @@
       "date": "2026-08-03",
       "time": "15:57",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-08-02-d2877602",
