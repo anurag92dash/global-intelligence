@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T15:16:20.066447+00:00",
+  "updated": "2026-08-08T15:52:01.079303+00:00",
   "story_count": 75,
   "source_count": 9,
   "stories": [
@@ -13,7 +13,7 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-08",
-      "time": "13:29",
+      "time": "15:49",
       "conflict_id": "ukraine-war",
       "score": 63.0
     },
@@ -130,6 +130,34 @@
       "score": 40.9
     },
     {
+      "id": "2026-08-08-cba25018",
+      "headline": "Typhoon Dolphin hits Japan, heads towards China",
+      "summary": "Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "08:50",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-08-08-5901e11f",
+      "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "15:15",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-08-e62f94fd",
       "headline": "Weak Jobs Data Masked by Falling Unemployment",
       "summary": "The US unexpectedly lost 23,000 jobs in July while unemployment fell to 4.1%, a decline driven by fewer people participating in the labor force rather than stronger employment. Bloomberg News Economics Chief US Economist Anna Wong joins Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that the weak payrolls and persistent downward revisions point to a softer labor market and could reduce pressure on the Fed to raise r",
@@ -158,20 +186,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-08-08-cba25018",
-      "headline": "Typhoon Dolphin hits Japan, heads towards China",
-      "summary": "Five elderly people have suffered non-life-threatening injuries, with three falling due to the wind in Japan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/typhoon-dolphin-hits-japan-heads-towards-china?traffic_source=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "08:50",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-08-08-26ceadaa",
       "headline": "Greg Abel finally puts Buffett’s cash pile to work",
       "summary": "Berkshire Hathaway chief ends more than three-year selling streak as he ploughs a net $20bn into stocks",
@@ -181,7 +195,7 @@
       "country": null,
       "category": "business",
       "date": "2026-08-08",
-      "time": "12:57",
+      "time": "15:36",
       "conflict_id": null,
       "score": 26.4
     },
@@ -368,20 +382,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-08-5668a285",
-      "headline": "China's kids turn to AI-powered tutors over summer break",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/artificial-intelligence/china-s-kids-turn-to-ai-powered-tutors-over-summer-break",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-08-08-b0a6a688",
       "headline": "Why yen intervention had limited impact: Market doubts over Japan's policy",
       "summary": "",
@@ -466,20 +466,6 @@
       "score": 41.2
     },
     {
-      "id": "2026-08-07-cdac29ba",
-      "headline": "Trump says he’ll bring ballroom fight to Supreme Court after lower court halts work",
-      "summary": "An appeals court ruled earlier Friday that construction must stop until Congress authorizes the project. The ballroom is among the president’s top priorities for this term.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "20:22",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
       "id": "2026-08-07-1a78e8c0",
       "headline": "Norway call for Infantino to resign as Mexico and Conmebol chief back president",
       "summary": "The Norwegian Football Federation calls for Fifa president Gianni Infantino to resign after he attempted to sell off stakes in the World Cup.",
@@ -536,18 +522,18 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-07-75c9e0c3",
-      "headline": "Appeals Court Upholds Block on Trump Ballroom Construction",
-      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html",
+      "id": "2026-08-07-cdac29ba",
+      "headline": "Trump says he’ll bring ballroom fight to Supreme Court after lower court halts work",
+      "summary": "An appeals court ruled earlier Friday that construction must stop until Congress authorizes the project. The ballroom is among the president’s top priorities for this term.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
       "region": "NA",
-      "country": "Trump",
-      "category": "business",
+      "country": "Congress",
+      "category": "politics",
       "date": "2026-08-07",
-      "time": "19:06",
+      "time": "20:22",
       "conflict_id": null,
-      "score": 33.2
+      "score": 32.9
     },
     {
       "id": "2026-08-07-91d06f39",
@@ -842,6 +828,20 @@
       "time": "16:11",
       "conflict_id": null,
       "score": 32.9
+    },
+    {
+      "id": "2026-08-06-00cd7113",
+      "headline": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
+      "summary": "Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales dropNintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs.The company said profits surged 53.5% to ¥147.4bn (£694m) over the three months to June, substantially beating expert forecasts for ¥77.8bn. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-06",
+      "time": "11:11",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-08-06-448159a0",
