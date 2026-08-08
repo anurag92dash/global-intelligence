@@ -6,9 +6,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-08-08",
     "recent_headlines": [
+      {
+        "headline": "Child among three killed in Russian missile attacks near Kyiv",
+        "source": "BBC News",
+        "date": "2026-08-08"
+      },
       {
         "headline": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
         "source": "Al Jazeera",
@@ -18,11 +23,6 @@
         "headline": "New Zealand Slaps New Sanctions Against Russia After US Move",
         "source": "Bloomberg",
         "date": "2026-08-08"
-      },
-      {
-        "headline": "Several killed in attacks on Ukraine as Kyiv hits Russian e-commerce giant",
-        "source": "Al Jazeera",
-        "date": "2026-08-07"
       }
     ],
     "timeline": [
