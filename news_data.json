@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-08T07:56:50.904364+00:00",
-  "story_count": 77,
-  "source_count": 9,
+  "updated": "2026-08-08T08:29:38.458977+00:00",
+  "story_count": 78,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-08-0d625cf0",
@@ -15,7 +15,49 @@
       "date": "2026-08-08",
       "time": "06:12",
       "conflict_id": "ukraine-war",
-      "score": 71.0
+      "score": 79.0
+    },
+    {
+      "id": "2026-08-08-b3c41140",
+      "headline": "Russian attacks on Kyiv region kill three, including a child",
+      "summary": "The State Emergency Service of Ukraine shared images on social media showing blazes ravaging what appeared to be warehouses and garages.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/08/russian-attack-on-kyiv-region-kills-three-including-a-child",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "06:02",
+      "conflict_id": "ukraine-war",
+      "score": 73.0
+    },
+    {
+      "id": "2026-08-08-d76768b5",
+      "headline": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "00:06",
+      "conflict_id": null,
+      "score": 64.4
+    },
+    {
+      "id": "2026-08-08-962cba9f",
+      "headline": "New Zealand Slaps New Sanctions Against Russia After US Move",
+      "summary": "New Zealand announced more sanctions targeting individuals and entities supporting Russia’s war against Ukraine, following the passage of a new bill in the US Senate targeting the country’s oil and gas revenues.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-08/new-zealand-slaps-new-sanctions-against-russia-after-us-move",
+      "region": "EU",
+      "country": "New Zealand",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "00:58",
+      "conflict_id": null,
+      "score": 58.1
     },
     {
       "id": "2026-08-08-eddc363a",
@@ -29,7 +71,7 @@
       "date": "2026-08-08",
       "time": "03:20",
       "conflict_id": null,
-      "score": 55.4
+      "score": 56.4
     },
     {
       "id": "2026-08-08-092316ac",
@@ -46,30 +88,16 @@
       "score": 54.1
     },
     {
-      "id": "2026-08-08-962cba9f",
-      "headline": "New Zealand Slaps New Sanctions Against Russia After US Move",
-      "summary": "New Zealand announced more sanctions targeting individuals and entities supporting Russia’s war against Ukraine, following the passage of a new bill in the US Senate targeting the country’s oil and gas revenues.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-08/new-zealand-slaps-new-sanctions-against-russia-after-us-move",
-      "region": "EU",
-      "country": "New Zealand",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "00:58",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
-      "id": "2026-08-08-d76768b5",
-      "headline": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
-      "summary": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+      "id": "2026-08-08-ad005bd4",
+      "headline": "Russian strikes near Ukrainian capital kill three, including child",
+      "summary": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "region": "NA",
+      "country": "Senate",
       "category": "geopolitics",
       "date": "2026-08-08",
-      "time": "00:06",
+      "time": "04:18",
       "conflict_id": null,
       "score": 47.4
     },
@@ -130,20 +158,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-08-ad005bd4",
-      "headline": "Russian strikes near Ukrainian capital kill three, including child",
-      "summary": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
-      "region": "NA",
-      "country": "Senate",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "04:18",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-08-08-2f62d093",
       "headline": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
       "summary": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
@@ -158,6 +172,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-08-08-f0bc4e96",
+      "headline": "Senate Passes Stopgap Bill to Avert Shutdown, Avoiding Skirmish Before Midterms",
+      "summary": "The move came more than a month before the spending deadline, reflecting an eagerness in both parties to avoid a messy fight before the midterm elections.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/08/us/politics/senate-passes-stopgap-bill.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "08:04",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-08-08-807f1b76",
       "headline": "Bill Cassidy Will Back Todd Blanche as Attorney General, Salvaging His Confirmation",
       "summary": "The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.",
@@ -170,6 +198,20 @@
       "time": "01:06",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-08-08-48977650",
+      "headline": "US promises $1bn in security aid to Colombia as new rightwing president pledges drugs crackdown",
+      "summary": "Trump ally Abelardo De La ‌Espriella vows to start ‘profound transformation’ of country’s destiny as he is sworn inThe ​Trump administration plans to provide $1bn in security assistance to the ⁠government of Colombia’s new ​rightwing ‌president, the US state department announced, soon after Abelardo De La ‌Espriella was sworn in and used his inaugural speech to pledge a vigorous fight against drug trafficking, as well as austerity measures to res",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/08/us-promises-1bn-in-security-aid-to-colombia-as-new-rightwing-president-pledges-drugs-crackdown",
+      "region": "NA",
+      "country": "Colombia",
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "04:08",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-08-08-0770bbd4",
@@ -200,6 +242,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-08-96ee5f12",
+      "headline": "US intends to send $1 billion in aid to Colombia following de la Espriella's inauguration",
+      "summary": "US President Donald Trump has been highly complementary of de la Espriella, calling him a \"smart, strong, and tough leader.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/08/us-intends-to-send-1-billion-in-aid-to-colombia-following-de-la-espriellas-inauguration",
+      "region": "NA",
+      "country": "Colombia",
+      "category": "politics",
+      "date": "2026-08-08",
+      "time": "07:33",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-08-08-bfc9a3f8",
       "headline": "Forget Asimov. Philip K Dick saw the future",
       "summary": "His 1960s science-fiction visions are a guide to our age of erratic billionaires, wild space fantasies and glitchy, invasive technology",
@@ -226,20 +282,6 @@
       "time": "00:54",
       "conflict_id": null,
       "score": 26.4
-    },
-    {
-      "id": "2026-08-08-3747e0d2",
-      "headline": "Burnham’s Fiscal ‘Flexibility’ Could Backfire, Officials Fear",
-      "summary": "UK Treasury officials are concerned that the prime minister’s talk of using “flexibility” within the fiscal rules to ramp up investment could backfire by destabilizing financial markets, according to people familiar with the thinking.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-08/burnham-s-fiscal-flexibility-could-backfire-officials-fear",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-08",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-08-08-70048371",
@@ -393,7 +435,35 @@
       "date": "2026-08-07",
       "time": "19:42",
       "conflict_id": null,
-      "score": 49.2
+      "score": 57.2
+    },
+    {
+      "id": "2026-08-07-15e9a239",
+      "headline": "US Senate approves sweeping Russia sanctions bill targeting energy income",
+      "summary": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
+      "region": "NA",
+      "country": "Senate",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "18:20",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-08-07-bc48beb4",
+      "headline": "US employers slash 23,000 jobs amid ongoing Iran war pressure",
+      "summary": "July's unemployment rate eased slightly to 4.1% from 4.2% in June, as more Americans leave the labour market.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/07/us-employers-slash-23000-jobs-amid-ongoing-iran-war-pressure",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "15:08",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-08-07-1a78e8c0",
@@ -438,6 +508,48 @@
       "score": 41.2
     },
     {
+      "id": "2026-08-07-75c9e0c3",
+      "headline": "Appeals Court Upholds Block on Trump Ballroom Construction",
+      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "19:06",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-08-07-cdac29ba",
+      "headline": "Trump says he’ll bring ballroom fight to Supreme Court after lower court halts work",
+      "summary": "An appeals court ruled earlier Friday that construction must stop until Congress authorizes the project. The ballroom is among the president’s top priorities for this term.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "20:22",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-08-07-52d81518",
+      "headline": "US appeals court orders halt to Trump ballroom construction without congressional approval",
+      "summary": "The US Court of Appeals for the DC Circuit, which had allowed construction to continue while it considered the case, agreed with a lower court that such a massive White House overhaul required the explicit consent of Congress.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/07/us-appeals-court-orders-halt-to-trump-ballroom-construction-without-congressional-approval",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "18:55",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-08-07-c4d3cd84",
       "headline": "Drone warnings and sheltering in airports as South Korea battles historic heatwave",
       "summary": "The president has called the extreme heat a \"national disaster\" and ordered agencies to mobilise all resources.",
@@ -450,6 +562,20 @@
       "time": "04:49",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-07-e34cc867",
+      "headline": "US economy unexpectedly sheds 23,000 jobs in July",
+      "summary": "Lacklustre figure prompts traders to scale back bets on Fed rate rises",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "20:02",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-08-07-608d8466",
@@ -480,20 +606,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-07-75c9e0c3",
-      "headline": "Appeals Court Upholds Block on Trump Ballroom Construction",
-      "summary": "A federal appeals court panel backed a lower court’s ruling, and made it likely that the Supreme Court will decide the case. But the decision does not mean construction will halt immediately.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/07/us/politics/trump-ballroom-appeals-court.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-08-07",
-      "time": "19:06",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-08-07-bbadca0d",
       "headline": "Drought and Aging Pipes Plunge Puerto Rico Into Another Water Crisis",
       "summary": "Starting on Friday, the island’s water authority is scheduled to shut off water for rotating 48-hour periods in parts of San Juan and surrounding areas.",
@@ -508,20 +620,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-07-cdac29ba",
-      "headline": "Trump says he’ll bring ballroom fight to Supreme Court after lower court halts work",
-      "summary": "An appeals court ruled earlier Friday that construction must stop until Congress authorizes the project. The ballroom is among the president’s top priorities for this term.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/07/trump-likely-needs-congresss-approval-ballroom-court-says/",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "20:22",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-08-07-91d06f39",
       "headline": "Cassidy backs Blanche for attorney general, appearing to clear way for confirmation",
       "summary": "The Senate could hold the final vote on President Donald Trump’s pick to lead the Justice Department as soon as Friday.",
@@ -532,20 +630,6 @@
       "category": "politics",
       "date": "2026-08-07",
       "time": "20:19",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-07-cdfd095c",
-      "headline": "Court deals setback to Trump’s war on wind as Pentagon is ordered to review projects",
-      "summary": "The Defense Department stopped processing national security reviews of wind projects in May, despite a law demanding they be completed in 75 days.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/nation/2026/08/07/court-deals-setback-trumps-war-wind-pentagon-is-ordered-review-projects/",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-08-07",
-      "time": "18:37",
       "conflict_id": null,
       "score": 32.9
     },
@@ -606,18 +690,32 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-07-ebcce563",
-      "headline": "Hunter Biden tells BBC his pardon was 'not good' for America or his father's legacy",
-      "summary": "In a wide-ranging BBC interview, the former president's son denied having any interest in running for office and said his father's cancer has spread.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8ey458pv5o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-07-7232978d",
+      "headline": "The great Infantino divide: Who is for and against the controversial FIFA chief?",
+      "summary": "The Norwegian Football Association has called for Infantino to resign while Mexico and Argentina have come out in support of the beleaguered FIFA boss.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/07/the-great-infantino-divide-who-is-for-and-against-the-controversial-fifa-chief",
       "region": "NA",
-      "country": "America",
+      "country": "Argentina",
       "category": "politics",
       "date": "2026-08-07",
-      "time": "22:07",
+      "time": "17:57",
       "conflict_id": null,
-      "score": 27.0
+      "score": 29.0
+    },
+    {
+      "id": "2026-08-07-75fffd40",
+      "headline": "Italy and France announce international meeting on addiction prevention and recovery",
+      "summary": "Italy and France, co-founders of the European Coalition Against Drugs (ECAD), on Thursday announced an international meeting on prevention and addiction recovery. The summit will be held on 23 October 2026 in Italy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/health/2026/08/07/italy-and-france-announce-international-meeting-on-addiction-prevention-and-recovery",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-08-07",
+      "time": "13:46",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-08-07-e9da99bd",
@@ -630,20 +728,6 @@
       "category": "politics",
       "date": "2026-08-07",
       "time": "18:06",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-08-07-a0712e92",
-      "headline": "Mexico and Peru restore diplomatic relations after asylum row",
-      "summary": "Relations broke down after former Peruvian Prime Minister Betssy Chávez sought asylum in the Mexican embassy in November 2025.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz7dy1l3e77o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Mexico",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "15:38",
       "conflict_id": null,
       "score": 27.0
     },
@@ -672,34 +756,6 @@
       "category": "business",
       "date": "2026-08-07",
       "time": "23:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-07-e153f1d6",
-      "headline": "Trump revives threat to sack Fed governor Lisa Cook",
-      "summary": "Move comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-07",
-      "time": "19:56",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-07-e34cc867",
-      "headline": "US economy unexpectedly sheds 23,000 jobs in July",
-      "summary": "Lacklustre figure prompts traders to scale back bets on Fed rate rises",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-07",
-      "time": "20:02",
       "conflict_id": null,
       "score": 26.4
     },
@@ -774,6 +830,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-08-07-55cc863b",
+      "headline": "Household income plunges in Greece, Austria despite overall OECD growth",
+      "summary": "New OECD data shows a widening gap between economic growth and household prosperity, with Greece and Austria bearing the sharpest falls in real income.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/07/household-income-plunges-in-greece-austria-despite-overall-oecd-growth",
+      "region": "EU",
+      "country": "Austria",
+      "category": "business",
+      "date": "2026-08-07",
+      "time": "15:45",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-06-3536146b",
       "headline": "Ukraine hits two oil refineries deep in Russian territory",
       "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
@@ -816,20 +886,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-06-b35e9df1",
-      "headline": "Thousands of migrants still in Ceuta after border crisis, local leader says",
-      "summary": "The Spanish territory's mayor-president also says 100 deaths occurred as a result of 78,000 migrants crossing from neighbouring Morocco.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0ejdj22zq9o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "17:36",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-06-6360bdfc",
       "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
       "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
@@ -870,34 +926,6 @@
       "time": "20:37",
       "conflict_id": null,
       "score": 32.9
-    },
-    {
-      "id": "2026-08-06-4a55e8d3",
-      "headline": "Doge overstated claims to have saved Americans $110bn, watchdog finds",
-      "summary": "A review of the body formerly charged with reducing government spending has found several issues with its calculations.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvg0rg9wmvlo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-08-06",
-      "time": "23:55",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-08-06-d8031769",
-      "headline": "S&P 500 Has Best Week Since April After Jobs Data: Markets Wrap",
-      "summary": "A sharp slowdown in the US jobs market drove stocks higher while bond yields fell on speculation the Federal Reserve won’t be forced to raise interest rates any time soon.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-06/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-06",
-      "time": "22:10",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-08-06-448159a0",
@@ -1008,20 +1036,6 @@
       "category": "business",
       "date": "2026-08-04",
       "time": "18:21",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-08-04-fee4ae3e",
-      "headline": "'My grandmother subjected my baby to female genital mutilation behind my back'",
-      "summary": "In Colombia, where FGM is still practised by some members of an indigenous group, a landmark bill banning the practice has been enacted.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3r0vp7n0pro?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "politics",
-      "date": "2026-08-04",
-      "time": "23:13",
       "conflict_id": null,
       "score": 27.0
     },
