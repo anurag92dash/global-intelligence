@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T14:48:57.730329+00:00",
-  "story_count": 79,
+  "updated": "2026-08-09T15:18:14.358924+00:00",
+  "story_count": 80,
   "source_count": 10,
   "stories": [
     {
@@ -20,7 +20,7 @@
     {
       "id": "2026-08-09-33861186",
       "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
-      "summary": "Israel's PM says its military will not pull-out from Gaza until Hamas is \"genuinely\" disarmed.",
+      "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5yw4lpe0yeo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
@@ -30,6 +30,20 @@
       "time": "14:18",
       "conflict_id": "israel-hamas",
       "score": 72.0
+    },
+    {
+      "id": "2026-08-09-b96ac20c",
+      "headline": "What now as Israel rejects Trump’s 15-point plan for Gaza?",
+      "summary": "As Netanyahu demands &#039;genuine&#039; Hamas disarmament before considering pull-out from Gaza, a look at what happens next.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/9/what-now-as-israel-rejects-trumps-15-point-plan-for-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "14:26",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
     },
     {
       "id": "2026-08-09-bf88a018",
@@ -74,20 +88,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-09-9a0c801b",
-      "headline": "Typhoon Dolphin Makes Landfall in East China After Red Alert",
-      "summary": "Typhoon Dolphin made two landfalls in eastern China on Sunday evening after Beijing issued its highest storm alert, with more than 1,000 flights canceled and some rail services suspended as well.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "06:14",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-08-09-3b279b1b",
       "headline": "Outbreak of Vibrio Vulnificus, a Flesh-Eating Bacteria, Kills 5 in Louisiana",
       "summary": "Vibrio vulnificus, which thrives in warm, brackish water, has also killed two people in Florida this year.",
@@ -100,34 +100,6 @@
       "time": "13:50",
       "conflict_id": null,
       "score": 49.2
-    },
-    {
-      "id": "2026-08-09-70a005a3",
-      "headline": "Flight cancellations, evacuations as China braces for Typhoon Dolphin",
-      "summary": "Over 1,600 flights cancelled as Typhoon Dolphin approaches China&#039;s eastern coast, with winds reaching 162km/h overnight.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/9/flight-cancellations-evacuations-as-china-braces-for-typhoon-dolphin?traffic_source=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "08:37",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-08-09-d3104ef9",
-      "headline": "Over 1 million evacuated as Typhoon Dolphin hits China",
-      "summary": "Typhoon Dolphin made landfall in densely populated eastern China on Sunday, meteorological authorities said, after the storm triggered more than 1,000 flight cancellations, 1 million evacuations, and a top-level alert.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "13:56",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-08-09-70925a9a",
@@ -186,6 +158,20 @@
       "score": 42.1
     },
     {
+      "id": "2026-08-09-9a0c801b",
+      "headline": "Typhoon Dolphin Makes Landfall in East China After Red Alert",
+      "summary": "Typhoon Dolphin made two landfalls in eastern China on Sunday evening after Beijing issued its highest storm alert, with more than 1,000 flights canceled and some rail services suspended as well.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "06:14",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
       "id": "2026-08-09-caaa3bc2",
       "headline": "Ukraine denies targeting Bulgaria as drone explodes near pipeline, Kyiv promises inquiry",
       "summary": "An unidentified drone of a type used by Kyiv's army exploded near a pipeline bordering Bulgaria and Romania. The drone entered Bulgarian airspace from Romania before exploding 1,000 metres from the Trans-Balkan gas pipeline.",
@@ -198,6 +184,20 @@
       "time": "06:00",
       "conflict_id": "ukraine-war",
       "score": 41.0
+    },
+    {
+      "id": "2026-08-09-d3104ef9",
+      "headline": "Over 1 million evacuated as Typhoon Dolphin hits China",
+      "summary": "Typhoon Dolphin made landfall in densely populated eastern China on Sunday, meteorological authorities said, after the storm triggered more than 1,000 flight cancellations, 1 million evacuations, and a top-level alert.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "13:56",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-08-09-bb968438",
@@ -308,6 +308,20 @@
       "category": "business",
       "date": "2026-08-09",
       "time": "07:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-08-09-3323d421",
+      "headline": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
+      "summary": "Exclusive: Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giantGet our breaking news email, free app or daily news podcastThe US private prison company running Australia’s immigration system was warned that a newly detained Chinese citizen expressed suicidal ideation and had a history of self-harm less than 24 hours before she died by suicide in a Melbourne detention centre, internal docum",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "15:00",
       "conflict_id": null,
       "score": 32.0
     },
@@ -550,8 +564,22 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-09-57c93127",
-      "headline": "Chinese EV sales surge to new high in Europe, putting tariffs under scrutiny",
+      "id": "2026-08-09-ff91c8f8",
+      "headline": "Group urges Democrats to woo moderate voters with populist policies",
+      "summary": "A progressive group says messages that target the wealthy and large corporations appeal to a majority of Americans who see the economy as fundamentally rigged.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/09/group-urges-democrats-woo-moderate-voters-with-populist-policies/",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-09",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 24.9
+    },
+    {
+      "id": "2026-08-09-ef818c3c",
+      "headline": "Chinese EV sales surge to new high in Europe putting tariffs under scrutiny",
       "summary": "Imports this year now account for 14% of the market amid claims vehicles are being dumped in the EU and UKChinese electric car sales have risen across Europe to a record high driven by strong demand and low tariffs in the UK and a surge in buyers in Italy.Against a backdrop of claims that Chinese carmakers are “dumping” state-subsidised vehicles in the EU and UK to gain market share, the figures will give impetus to calls for quotas and higher ta",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/aug/09/chinese-electric-car-sales-surge-to-a-record-high-in-europe",
@@ -676,20 +704,6 @@
       "score": 63.0
     },
     {
-      "id": "2026-08-08-5901e11f",
-      "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "15:15",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-08-08-03f74dea",
       "headline": "Serbia's Vučić sends signal to Brussels and Moscow by hosting Zelenskyy with pomp and circumstance",
       "summary": "The talks between Zelenskyy and Vučić come as Russia's war against Ukraine once again intensifies. Despite Serbia’s historical ties to Russia, its bid to join the EU now seems to have taken the lead in considerations.",
@@ -716,6 +730,20 @@
       "time": "23:43",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-08-5901e11f",
+      "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "15:15",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-08-17023490",
@@ -812,34 +840,6 @@
       "category": "business",
       "date": "2026-08-08",
       "time": "16:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-08-cfd9cb14",
-      "headline": "Private Credit Squeezed By Bank Refinancings: Credit Weekly",
-      "summary": "Highly-indebted companies are increasingly ditching private credit loans for cheaper capital in the bank loan market, a shift underscoring the stark realities of higher-for-longer interest rates.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-08/private-credit-squeezed-by-bank-refinancings-credit-weekly",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-08",
-      "time": "15:03",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-08-a3b09f75",
-      "headline": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's David Gura, Christina Ruffini and Lisa Mateo as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-08/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-08",
-      "time": "14:50",
       "conflict_id": null,
       "score": 26.1
     },
@@ -968,6 +968,20 @@
       "time": "15:38",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-08-06-00cd7113",
+      "headline": "‘Mamma mia!’: Trump tariffs refund ignites 53% profit spike at Nintendo",
+      "summary": "Profit jump fuelled largely by unknown US refund amount as Japanese video game firm records quarterly sales dropNintendo has reported a jump in profits, as the Japanese game maker’s earnings were buoyed up by a long-awaited refund on Donald Trump’s tariffs.The company said profits surged 53.5% to ¥147.4bn (£694m) over the three months to June, substantially beating expert forecasts for ¥77.8bn. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/games/2026/aug/06/trump-tariffs-refund-fuels-profit-spike-nintendo",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-06",
+      "time": "11:11",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-08-06-448159a0",
