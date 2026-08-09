@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-09T05:38:15.265303+00:00",
-  "story_count": 78,
+  "updated": "2026-08-09T06:26:26.211191+00:00",
+  "story_count": 76,
   "source_count": 10,
   "stories": [
     {
@@ -16,6 +16,20 @@
       "time": "01:43",
       "conflict_id": "israel-hamas",
       "score": 43.4
+    },
+    {
+      "id": "2026-08-09-caaa3bc2",
+      "headline": "Ukraine denies targeting Bulgaria as drone explodes near pipeline, Kyiv promises inquiry",
+      "summary": "An unidentified drone of a type used by Kyiv's army exploded near a pipeline bordering Bulgaria and Romania. The drone entered Bulgarian airspace from Romania before exploding 1,000 metres from the Trans-Balkan gas pipeline.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/09/ukraine-denies-targeting-bulgaria-as-drone-explodes-near-pipeline-kyiv-promises-inquiry",
+      "region": "EU",
+      "country": "Romania",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "06:00",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
       "id": "2026-08-09-e4511d65",
@@ -74,20 +88,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-09-292419ee",
-      "headline": "The bank behind China’s AI listings bonanza",
-      "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "01:22",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-08-09-51cd88b7",
       "headline": "France faces budget showdown as presidential election looms",
       "summary": "Minister David Amiel urges opposition to help cut deficit and not leave mess for next leader",
@@ -102,6 +102,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-09-292419ee",
+      "headline": "The bank behind China’s AI listings bonanza",
+      "summary": "CICC has become a dominant financier in Beijing’s drive to compete with US in tech race",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/657249de-f5bd-4648-9a1c-77315cd5a1c9?syn-25a6b1a6=1",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "01:22",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-09-bc52bf20",
+      "headline": "China Issues Red Alert, Airports Cancel Flights as Typhoon Nears",
+      "summary": "China issued its highest storm alert in preparation for approaching Typhoon Dolphin as more than 1,000 flights were canceled and some rail services were suspended.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/china-issues-red-alert-airports-cancel-flights-as-typhoon-nears",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "06:14",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-09-8e72258d",
       "headline": "Korea Volatility Spike Ebbs as Leveraged Trades Are Flushed Out",
       "summary": "The most extreme phase of South Korea’s stock-market turmoil may be over after a historic selloff flushed out leveraged positions and regulatory curbs sent trading in some of the riskiest products plunging.",
@@ -114,6 +142,20 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-08-09-a77e717d",
+      "headline": "Moderate Democrat in Hawaii Defeats Progressive House Challenger",
+      "summary": "Representative Ed Case beat Jarrett Keohokalole, a younger progressive, in a race that centered on questions of generational change and the state’s skyrocketing cost of living.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/09/us/politics/hawaii-ed-case-jarrett-keohokalole.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-09",
+      "time": "06:06",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-08-09-75e3ccca",
@@ -228,20 +270,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-09-9c3d06c7",
-      "headline": "China rare-earth exports to Japan, US plunge after restrictions",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/materials/china-rare-earth-exports-to-japan-us-plunge-after-restrictions",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-08-09-d7b6353e",
       "headline": "India commits $8.8bn to deep-sea oil exploration to cut Mideast reliance",
       "summary": "",
@@ -249,20 +277,6 @@
       "url": "https://asia.nikkei.com/business/energy/india-commits-8.8bn-to-deep-sea-oil-exploration-to-cut-mideast-reliance",
       "region": "SA",
       "country": "India",
-      "category": "business",
-      "date": "2026-08-09",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-09-dd733e67",
-      "headline": "Chinese drone exports take off in Southeast Asia, other emerging markets",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/china-tech/chinese-drone-exports-take-off-in-southeast-asia-other-emerging-markets",
-      "region": "APJ",
-      "country": null,
       "category": "business",
       "date": "2026-08-09",
       "time": "",
@@ -452,20 +466,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-08-2f3e6199",
-      "headline": "Rome-Madrid row: how Spain checks travellers arriving from Italy",
-      "summary": "Spain has introduced border checks for travellers arriving from Italy after Rome's measures over the Ceuta crisis, from IDs to trips with children and pets.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/08/08/rome-madrid-row-how-spain-checks-travellers-arriving-from-italy",
-      "region": "EU",
-      "country": "Spain",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "07:21",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-08-08-e62f94fd",
       "headline": "Weak Jobs Data Masked by Falling Unemployment",
       "summary": "The US unexpectedly lost 23,000 jobs in July while unemployment fell to 4.1%, a decline driven by fewer people participating in the labor force rather than stronger employment. Bloomberg News Economics Chief US Economist Anna Wong joins Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that the weak payrolls and persistent downward revisions point to a softer labor market and could reduce pressure on the Fed to raise r",
@@ -518,20 +518,6 @@
       "category": "geopolitics",
       "date": "2026-08-08",
       "time": "23:27",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-08-f45f4695",
-      "headline": "British Columbia wildfire forces more than 20,000 to flee, destroys homes",
-      "summary": "Authorities warn others to be prepared to leave their homes as fast-moving wildfires spread across western Canada.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/8/british-columbia-issues-evacuation-orders-ahead-of-fast-moving-wildfires?traffic_source=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "17:14",
       "conflict_id": null,
       "score": 31.4
     },
@@ -704,20 +690,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-08-4ea66d4a",
-      "headline": "Centrelink pursuing debts that are more than 40 years old despite agreeing to waive old arrears",
-      "summary": "Advocates and legal bodies want the debt to be made ‘out of bounds’ given how hard it is to determine its accuracyFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastCentrelink is pursuing $4.93bn in unpaid debts, with the oldest dating back more than 40 years, despite the government agreeing to implement a six-year statute of limitations on debt recovery.A growing list of advocates, in",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/09/centrelink-pursuing-debts-that-are-more-than-40-years-old-despite-agreeing-to-waive-old-arrears",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-08-08",
-      "time": "20:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-08-08-b3502836",
       "headline": "Tisza Party group nominates András Baka for new Hungarian president",
       "summary": "On Saturday, the Tisza Party, which has a constitutional majority in Parliament, picked András Baka who was removed by Fidesz from the Supreme Court, to be elected president on Tuesday.",
@@ -856,20 +828,6 @@
       "time": "14:00",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-08-07-15e9a239",
-      "headline": "US Senate approves sweeping Russia sanctions bill targeting energy income",
-      "summary": "The package would impose sanctions on Russian officials, oligarchs, financial institutions and the so-called shadow fleet used to evade restrictions on Moscow's oil exports. It would also allow President Donald Trump to set tariffs of up to 500% on Russian imports, including gas and oil.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/07/us-senate-approves-sweeping-russia-sanctions-bill-targeting-energy-income",
-      "region": "NA",
-      "country": "Senate",
-      "category": "business",
-      "date": "2026-08-07",
-      "time": "18:20",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-08-07-e9da99bd",
@@ -1094,6 +1052,20 @@
       "time": "15:50",
       "conflict_id": "israel-hamas",
       "score": 55.0
+    },
+    {
+      "id": "2026-08-02-72e0e016",
+      "headline": "Trump cancels Iran strikes subject to deal being made 'rapidly'",
+      "summary": "The US president claims Iran and other Middle Eastern countries asked Washington to hold off on any attack as the \"perimeters\" of a deal had been agreed.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjwx74qgld2o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-02",
+      "time": "11:12",
+      "conflict_id": null,
+      "score": 27.0
     }
   ]
 }
