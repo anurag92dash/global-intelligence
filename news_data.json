@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T04:26:27.876778+00:00",
+  "updated": "2026-08-10T05:52:11.809350+00:00",
   "story_count": 81,
   "source_count": 10,
   "stories": [
@@ -13,23 +13,37 @@
       "country": "China",
       "category": "geopolitics",
       "date": "2026-08-10",
-      "time": "03:46",
+      "time": "04:55",
       "conflict_id": null,
       "score": 56.0
     },
     {
-      "id": "2026-08-10-8ba2e6ee",
-      "headline": "Iran war live: US ‘semi-negotiating’ with Tehran; Israel rejects Gaza plan",
-      "summary": "Trump says US will wait for economic pressure to mount on Iran, as Israel formally rejects 15-point Gaza peace plan.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/10/iran-war-live-us-semi-negotiating-with-tehran-israel-rejects-gaza-plan?traffic_source=rss",
+      "id": "2026-08-10-abb28b6a",
+      "headline": "Netanyahu Rejects US-Backed Hamas Disarmament Proposal",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu has rejected a proposal by US-backed mediators for disarming Hamas, saying \"Israel does not accept the 15-point document\". Bloomberg's Dan Williams breaks down the developments. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/netanyahu-rejects-us-backed-hamas-disarmament-proposal-video",
       "region": "MENA",
       "country": "Israel",
-      "category": "geopolitics",
+      "category": "politics",
       "date": "2026-08-10",
-      "time": "00:00",
+      "time": "04:54",
+      "conflict_id": "israel-hamas",
+      "score": 46.1
+    },
+    {
+      "id": "2026-08-10-9e8cd456",
+      "headline": "Oil prices rise as traders assess US-Iran talks on Strait of Hormuz deal",
+      "summary": "Crude gains as traders watch for progress in US-Iran talks that could pave the way for a deal to secure passage through the Strait of Hormuz.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "05:43",
       "conflict_id": null,
-      "score": 55.4
+      "score": 46.0
     },
     {
       "id": "2026-08-10-f76d7973",
@@ -60,8 +74,8 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-10-154aa049",
-      "headline": "Rotation From Leveraged ETFs Fuel 30% Jump in Korea Small Caps",
+      "id": "2026-08-10-b643252c",
+      "headline": "Rotation From Leveraged ETFs Fuels 30% Jump in Korea Small Caps",
       "summary": "South Korea’s small-cap stocks are regaining investor interest after lagging larger peers for much of the year, as restrictions on leveraged exchanged-traded funds tracking heavyweight chipmakers shift money toward Kosdaq names.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-10/rotation-from-leveraged-etfs-fuel-30-jump-in-korea-small-caps",
@@ -144,6 +158,62 @@
       "score": 31.4
     },
     {
+      "id": "2026-08-10-d1ac0879",
+      "headline": "Copper Holds $14,000 as Weaker US Rate Outlook Boosts Metals",
+      "summary": "Copper traded in a narrow range after six straight weeks of gains, fueled by tightening supplies and easing concerns about US interest-rate hikes.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/copper-holds-14-000-as-weaker-us-rate-outlook-boosts-metals",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "04:39",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-10-f314faeb",
+      "headline": "Beijing Eases Home-Buying Curbs to Boost Property Market | The China Show | 8/10/2026",
+      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.\n (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/the-china-show-8-10-2026-video",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "04:32",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-10-88ecafac",
+      "headline": "NYSE President on Asia Business, IPO Pipeline",
+      "summary": "Lynn Martin, President at the NYSE Group, discuses the exchange's business strategy and priorities in Asia, as well as the IPO pipeline in the US. She speaks with Paul Allen on Insight with Haslinda Amin.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/nyse-president-on-asia-business-ipo-pipeline-video",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-10",
+      "time": "04:30",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-10-ee539f22",
+      "headline": "Emerging-Market Stocks, Currencies Gain After Soft US Jobs Data",
+      "summary": "Emerging-market stocks and currencies climbed at the start of a new week as expectations for Federal Reserve rate hikes eased following Friday’s unexpectedly weak US employment report.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/emerging-market-stocks-currencies-gain-after-soft-us-jobs-data",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "04:25",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-10-2e5b15fe",
       "headline": "Indonesian Stocks Near Bull Market as Economic Worries Recede",
       "summary": "Indonesian stocks advanced, putting the benchmark index once again near bull-market territory, as investor sentiment was buoyed by signs of a resilient economy and easing concerns over potential market downgrades.",
@@ -196,20 +266,6 @@
       "category": "politics",
       "date": "2026-08-10",
       "time": "01:17",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-10-9709a737",
-      "headline": "HFTs Shun India Stock Closing Auction Over SEBI Short-Selling Hurdle",
-      "summary": "India’s new method of setting official closing prices for its stocks is drawing complaints from some of the firms that do the most to keep its $5.2 trillion market humming.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/hfts-shun-india-stock-closing-auction-over-sebi-short-selling-hurdle",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-08-10",
-      "time": "01:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -270,6 +326,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-10-79bbd23d",
+      "headline": "Japan's top 3 banks boost foreign currency liquidity buffers to $1.25tn",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-s-top-3-banks-boost-foreign-currency-liquidity-buffers-to-1.25tn",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-10-b0a6a688",
       "headline": "Why yen intervention had limited impact: Market doubts over Japan's policy",
       "summary": "",
@@ -284,8 +354,22 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-09-7e92959f",
-      "headline": "Israel 'rejects' the US ceasefire plan for Gaza accepted by Hamas",
+      "id": "2026-08-10-16f45456",
+      "headline": "Human hair used as protective barrier in oceans",
+      "summary": "A new environmental initiative is using human hair to help protect the oceans, building barriers from donated locks to shield parts of Brazil's coastline from oil spill pollution.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/10/human-hair-used-as-protective-barrier-in-oceans",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "05:22",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-09-ac2df07c",
+      "headline": "Israel rejects the US ceasefire plan for Gaza accepted by Hamas",
       "summary": "At a cabinet meeting, Israeli Prime Minister Benjamin Netanyahu said the army would make 'no withdrawal until Hamas is truly disarmed,' scrapping the ceasefire plan.",
       "source": "Euronews",
       "url": "http://www.euronews.com/2026/08/09/israel-rejects-the-us-ceasefire-plan-for-gaza-accepted-by-hamas",
@@ -295,7 +379,7 @@
       "date": "2026-08-09",
       "time": "13:25",
       "conflict_id": "israel-hamas",
-      "score": 74.0
+      "score": 65.0
     },
     {
       "id": "2026-08-09-33861186",
@@ -309,35 +393,7 @@
       "date": "2026-08-09",
       "time": "21:25",
       "conflict_id": "israel-hamas",
-      "score": 72.0
-    },
-    {
-      "id": "2026-08-09-e98e22b6",
-      "headline": "Netanyahu rejects Trump’s Gaza disarmament plan",
-      "summary": "Israeli prime minister says military will not withdraw from Palestinian enclave ‘until Hamas is disarmed’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e4650e97-be1f-479d-8959-c892785abf49?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "15:17",
-      "conflict_id": "israel-hamas",
-      "score": 71.4
-    },
-    {
-      "id": "2026-08-09-e863530e",
-      "headline": "‘No surprise’: Netanyahu rejects US-backed Gaza plan",
-      "summary": "Palestinian politician Mustafa Barghouti says Netanyahu&#039;s rejection of the US-backed Gaza plan is no surprise.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/quotable/2026/8/9/no-surprise-netanyahu-rejects-us-backed-gaza-plan?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "16:08",
-      "conflict_id": "israel-hamas",
-      "score": 67.4
+      "score": 63.0
     },
     {
       "id": "2026-08-09-5ab3d461",
@@ -366,6 +422,20 @@
       "time": "20:02",
       "conflict_id": "israel-hamas",
       "score": 51.4
+    },
+    {
+      "id": "2026-08-09-d99e68d4",
+      "headline": "Iran replaces top security official at crucial moment in talks over Strait of Hormuz",
+      "summary": "Mohsen Rezaei appointed head of Supreme National Security Council after Mohammad Bagher Zolghadr steps down",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "22:23",
+      "conflict_id": null,
+      "score": 50.4
     },
     {
       "id": "2026-08-09-3b279b1b",
@@ -452,20 +522,6 @@
       "score": 37.0
     },
     {
-      "id": "2026-08-09-e3cae239",
-      "headline": "Ancient Roman shipwreck discovered off Sicily coast",
-      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Italy",
-      "category": "politics",
-      "date": "2026-08-09",
-      "time": "12:27",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-09-8aaab20e",
       "headline": "Ecuador charges ex-minister over presidential candidate assassination case",
       "summary": "Prosecutors accuse six others, including the leader of cartel Los Lobos, of having an indirect role in the murder of Fernando Villavicencio.",
@@ -508,18 +564,32 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-09-7c7107f1",
-      "headline": "Aussie-Yen Is Set to Approach Three-Decade High, Analysts Say",
-      "summary": "The Australian dollar is poised to climb back toward a 35-year high against the yen as the impact of Tokyo’s currency intervention fades and the Reserve Bank of Australia’s hawkish stance bolsters the exchange rate, according to strategists.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/aussie-yen-is-set-to-approach-three-decade-high-analysts-say",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
+      "id": "2026-08-09-b668505c",
+      "headline": "Trump is dismantling US guardrails, warn former security officials",
+      "summary": "Ex-CIA staffers step up efforts to publicise their deepening alarm about the state of American democracy",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/4fc0fdda-0919-4584-9bdd-855e2aaa5c09?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
       "date": "2026-08-09",
-      "time": "21:00",
+      "time": "16:00",
       "conflict_id": null,
-      "score": 34.1
+      "score": 34.4
+    },
+    {
+      "id": "2026-08-09-0b4835f9",
+      "headline": "Canadian government steps in as ‘out of control’ wildfires force thousands to flee",
+      "summary": "British Columbia battling 102 fires day and night across province, as breakneck speed hampers firefighters’ effortsCanada’s federal government has announced it will provide urgent assistance to British Columbia after an onslaught of unprecedented fast-moving wildfires that killed one person and forced about 22,000 people to flee their homes in frantic evacuations.A total of 102 wildfires were raging across the province on Sunday, of which nearly ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/canada-british-columbia-government-wildfires",
+      "region": "NA",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-08-09",
+      "time": "18:20",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-08-09-44e36c0b",
@@ -550,18 +620,18 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-09-705fb181",
-      "headline": "Roman shipwreck with hundreds of amphorae found off Sicily",
-      "summary": "A Roman-era shipwreck has been found off Mazara del Vallo, along with hundreds of amphorae on the seabed. Culture Minister Giuli has hailed the discovery as \"extraordinary\".",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/08/09/roman-shipwreck-with-hundreds-of-amphorae-found-off-sicily",
-      "region": "MENA",
-      "country": "Oman",
+      "id": "2026-08-09-e3cae239",
+      "headline": "Ancient Roman shipwreck discovered off Sicily coast",
+      "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgx1kpz17go?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Italy",
       "category": "politics",
       "date": "2026-08-09",
-      "time": "09:12",
+      "time": "12:27",
       "conflict_id": null,
-      "score": 29.0
+      "score": 27.0
     },
     {
       "id": "2026-08-09-7e75fa3c",
@@ -580,7 +650,7 @@
     {
       "id": "2026-08-09-853d1941",
       "headline": "Global Stock Rally Extends, Oil Advances on Iran: Markets Wrap",
-      "summary": "Global stocks traded near a record high as Asian investors renewed bets on artificial intelligence stocks after a month of volatility. Oil extended gains as Iran rejected talks with the US and a deal to reopen the Strait of Hormuz remained elusive.",
+      "summary": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike. Oil extended gains as Iran rejected talks with the US and a deal to reopen the Strait of Hormuz remained elusive.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -588,20 +658,6 @@
       "category": "business",
       "date": "2026-08-09",
       "time": "22:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-09-21dc16ec",
-      "headline": "Gold Holds Above $4,300 as Soft Jobs Data Trims Rate-Hike Bets",
-      "summary": "Gold steadied above $4,300 an ounce, with investors assessing a surprise contraction in the US jobs market that allayed concerns around an interest-rate hike.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/gold-holds-gain-after-soft-us-jobs-data-eases-rate-hike-concerns",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-09",
-      "time": "23:30",
       "conflict_id": null,
       "score": 26.1
     },
@@ -620,44 +676,16 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-09-0776718c",
-      "headline": "Treasury Wine Shares Soar After Moves to Tackle Excess US Supply",
-      "summary": "Australian vintner Treasury Wine Estates Ltd. saw its shares jump to an eight-month high after announcing a A$558.4 million ($395 million) post-tax writedown to tackle supply chain problems in its US market.",
+      "id": "2026-08-09-21dc16ec",
+      "headline": "Gold Holds Above $4,300 as Soft Jobs Data Trims Rate-Hike Bets",
+      "summary": "Gold steadied above $4,300 an ounce, with investors assessing a surprise contraction in the US jobs market that allayed concerns around an interest-rate hike.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/treasury-wine-flags-395m-writedown-to-tackle-excess-us-supply",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-09/gold-holds-gain-after-soft-us-jobs-data-eases-rate-hike-concerns",
       "region": "NA",
-      "country": "Australia",
+      "country": null,
       "category": "business",
       "date": "2026-08-09",
-      "time": "23:19",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-09-b30e97fc",
-      "headline": "Westpac Shares Drop on Signs of Australia Housing Slowdown",
-      "summary": "Westpac Banking Corp.’s shares declined as the Australian lender reported a drop in mortgage loan applications, a sign that the housing slump is worsening.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/westpac-profit-edges-up-as-ceo-flags-moderating-housing-market",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-08-09",
-      "time": "21:48",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-09-648fe896",
-      "headline": "China Bets on AI Stocks as It Races Against US for Chip, Tech Dominance",
-      "summary": "The strategy marks a break from Beijing’s reliance on subsidies and state funding.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/features/2026-08-09/china-bets-on-ai-stocks-as-it-races-against-us-for-chip-tech-dominance",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "business",
-      "date": "2026-08-09",
-      "time": "21:00",
+      "time": "23:30",
       "conflict_id": null,
       "score": 26.1
     },
@@ -672,34 +700,6 @@
       "category": "politics",
       "date": "2026-08-09",
       "time": "09:01",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-09-d8895945",
-      "headline": "A Democratic Socialist Seeks New Voters in an Unlikely Place: Fox News",
-      "summary": "Gustavo Gordillo, a leader of the New York D.S.A., wants to reach new voters. But in interviews with conservative media, the backlash can be sharp.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/09/us/politics/gustavo-gordillo-democratic-socialists.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-09",
-      "time": "14:35",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-09-ff26420c",
-      "headline": "Poll: Voters See Political Parties as More Extreme Than Their Own Candidates",
-      "summary": "In a New York Times/Siena poll of battleground states, national parties were seen as too far to the right or the left, while nominees were viewed as more moderate.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/09/us/elections/poll-voters-political-parties-extreme.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-09",
-      "time": "09:00",
       "conflict_id": null,
       "score": 25.2
     },
@@ -816,6 +816,20 @@
       "score": 63.0
     },
     {
+      "id": "2026-08-08-281e3730",
+      "headline": "Hormuz talks positive, Oman says, as Iran warns deal would not open strait",
+      "summary": "Both sides suggest progress in talks to agree a new shipping route through the strait, but a breakthrough remains unclear.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c934j5y2lq9o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "19:18",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-08-08-5901e11f",
       "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
       "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
@@ -870,20 +884,6 @@
       "time": "15:59",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-08-69ab65e1",
-      "headline": "Longtime San Francisco nonprofit will close as city gets tougher on crime",
-      "summary": "The demise of SF Pretrial, which for 50 years has provided diversion services, came after the mayor cut its budget and as Democrats’ attitudes toward crime shift.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/08/longtime-san-francisco-nonprofit-will-close-city-gets-tougher-crime/",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-08-08-48977650",
@@ -1012,6 +1012,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-06-6360bdfc",
+      "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
+      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "01:19",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-08-06-3536146b",
       "headline": "Ukraine hits two oil refineries deep in Russian territory",
       "summary": "Ukraine's president says the strikes aim to limit revenues Russia \"used to finance\" its war.",
@@ -1038,20 +1052,6 @@
       "time": "18:19",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-08-05-acca7da7",
-      "headline": "Youth protests have weakened Modi, Indian activist who went on hunger strike tells BBC",
-      "summary": "The \"cockroach\" movement was one of the biggest public displays of dissent against India's prime minister in years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn7nkyr1j7ro?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-08-05",
-      "time": "18:38",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-05-796f5585",
