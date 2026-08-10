@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-10T05:52:11.809350+00:00",
-  "story_count": 81,
-  "source_count": 10,
+  "updated": "2026-08-10T07:02:07.996452+00:00",
+  "story_count": 77,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-10-38f86235",
@@ -15,7 +15,21 @@
       "date": "2026-08-10",
       "time": "04:55",
       "conflict_id": null,
-      "score": 56.0
+      "score": 48.0
+    },
+    {
+      "id": "2026-08-10-06105c8a",
+      "headline": "Netanyahu Rejects Hamas Disarmament Proposal",
+      "summary": "Israeli Prime Minister Benjamin Netanyahu rejected a proposal by US-backed mediators for disarming Hamas, hardening his position after voicing misgivings at the suggestion that Israel reciprocate with phased pullouts from Gaza. Bloomberg's Dan Williams reports on Bloomberg Daybreak Europe.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/netanyahu-rejects-hamas-disarmament-proposal-video",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-08-10",
+      "time": "05:52",
+      "conflict_id": "israel-hamas",
+      "score": 46.1
     },
     {
       "id": "2026-08-10-abb28b6a",
@@ -32,18 +46,18 @@
       "score": 46.1
     },
     {
-      "id": "2026-08-10-9e8cd456",
-      "headline": "Oil prices rise as traders assess US-Iran talks on Strait of Hormuz deal",
-      "summary": "Crude gains as traders watch for progress in US-Iran talks that could pave the way for a deal to secure passage through the Strait of Hormuz.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/10/oil-prices-rise-as-traders-assess-us-iran-talks-on-strait-of-hormuz-deal",
-      "region": "MENA",
-      "country": "Iran",
+      "id": "2026-08-10-09b473e4",
+      "headline": "Indonesia Nominates Destry as Central Bank Chief to Calm Markets",
+      "summary": "Indonesian President Prabowo Subianto nominated Acting Governor Destry Damayanti as the sole candidate to head Bank Indonesia, advancing a hiring process that has attracted attention from global investors since veteran Perry Warjiyo unexpectedly resigned from the post in late July.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-10/destry-damayanti-sole-bank-indonesia-chief-nominee-markets-prabowo-subianto",
+      "region": "APJ",
+      "country": "Indonesia",
       "category": "business",
       "date": "2026-08-10",
-      "time": "05:43",
+      "time": "05:57",
       "conflict_id": null,
-      "score": 46.0
+      "score": 42.1
     },
     {
       "id": "2026-08-10-f76d7973",
@@ -72,34 +86,6 @@
       "time": "03:33",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-10-b643252c",
-      "headline": "Rotation From Leveraged ETFs Fuels 30% Jump in Korea Small Caps",
-      "summary": "South Korea’s small-cap stocks are regaining investor interest after lagging larger peers for much of the year, as restrictions on leveraged exchanged-traded funds tracking heavyweight chipmakers shift money toward Kosdaq names.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/rotation-from-leveraged-etfs-fuel-30-jump-in-korea-small-caps",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-08-10",
-      "time": "03:27",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-10-65a950e1",
-      "headline": "Australian Scandium Miner Soars After $400 Million US Investment",
-      "summary": "Sunrise Energy Metals Ltd. shares soared after the Australian scandium miner secured as much as $400 million in long-term debt financing from the US Department of War.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/australian-scandium-miner-soars-after-400-million-us-investment",
-      "region": "NA",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-08-10",
-      "time": "01:12",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-08-10-1ed4d74a",
@@ -144,6 +130,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-10-100d95e6",
+      "headline": "Albanese gives ground on gambling inducements as Labor and Coalition inch towards deal",
+      "summary": "Prime minister and opposition leader meet in Canberra to advance agreement on gambling advertisingFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAnthony Albanese has bowed to pressure and will limit gambling inducements as part of a deal between Labor and Angus Taylor, even as some Liberals warn it might not do enough to help vulnerable people.The prime minister and the opposition ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/albanese-gives-ground-on-gambling-inducements-as-labor-and-coalition-inch-towards-deal",
+      "region": "NA",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-08-10",
+      "time": "06:14",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-08-10-3db4ae14",
       "headline": "Malaysian PM Anwar Ibrahim undergoes medical procedure",
       "summary": "Malaysia&#039;s government says Anwar, 79, is undergoing medical examinations and a procedure advised by his specialists.",
@@ -156,6 +156,62 @@
       "time": "02:48",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-08-10-9a0ee7f7",
+      "headline": "Prolonged wars must not become the new normal",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/opinion/prolonged-wars-must-not-become-the-new-normal",
+      "region": "APJ",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-10",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
+      "id": "2026-08-10-15525ec6",
+      "headline": "China evacuates one million from homes as massive storm arrives",
+      "summary": "Typhoon Dolphin has made landfall, bringing strong winds and heavy rain across eastern China including Shanghai.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2rgzyplg2o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-10",
+      "time": "06:15",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-08-10-75f40c22",
+      "headline": "What's Next for Cockroach Janta Party After Protests",
+      "summary": "Following India's student-led protests that pushed education reform into the national spotlight, Cockroach Janta Party spokesperson Ashutosh Ranka discusses the movement’s next steps, concerns over alleged harassment of protesters, and why the group is choosing to remain a pressure movement rather than enter electoral politics. He spoke to Bloomberg's Menaka Doshi on Insight with Haslinda Amin. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-10/what-s-next-for-cockroach-janta-party-after-protests-video",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-10",
+      "time": "06:21",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-10-fb6e7bc6",
+      "headline": "FTSE 100 Live: UK Stocks Set to Fall, Pound Steadies",
+      "summary": "",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-08-10/ftse-100-live-pound-us-iran-war-trump-oil-prices-hormuz-euro-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-msmtalq4",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "05:49",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-10-d1ac0879",
@@ -214,60 +270,32 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-10-2e5b15fe",
-      "headline": "Indonesian Stocks Near Bull Market as Economic Worries Recede",
-      "summary": "Indonesian stocks advanced, putting the benchmark index once again near bull-market territory, as investor sentiment was buoyed by signs of a resilient economy and easing concerns over potential market downgrades.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/indonesian-stocks-near-bull-market-as-economic-worries-recede",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "business",
+      "id": "2026-08-10-06758b79",
+      "headline": "Two workers were temporarily stood down after near-miss collision at Sydney Airport",
+      "summary": "Transport minister says improved staff rostering will be in place from next month after ‘unacceptable’ delays and incident involving Qatar Airways and Jetstar planesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe transport minister, Catherine King, has said improved staff rostering will be in place at Sydney airport from next month after “unacceptable” delays and a near-miss col",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/jetstar-plane-qatar-near-miss-aircraft-proximity-event-sydney-airport",
+      "region": "MENA",
+      "country": "Australia",
+      "category": "politics",
       "date": "2026-08-10",
-      "time": "03:46",
+      "time": "06:21",
       "conflict_id": null,
-      "score": 26.1
+      "score": 24.0
     },
     {
-      "id": "2026-08-10-7842a8ae",
-      "headline": "Hormuz Deal Elusive; Wall Street Sees Bond-Market Angst | The Asia Trade 8/10/2026",
-      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Tokyo and Sydney with Shery Ahn and Haidi Stroud-Watts, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-10/the-asia-trade-8-10-2026-video",
-      "region": "APJ",
-      "country": "Tokyo",
-      "category": "business",
-      "date": "2026-08-10",
-      "time": "03:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-10-24124848",
-      "headline": "Yen Underperforms G-10 Peers as Intervention Boost Fades",
-      "summary": "The yen has underperformed all its Group-of-10 peers this month as the boost from recent intervention fades, putting traders on alert for further official action.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/yen-underperforms-g-10-peers-as-intervention-boost-fades",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-10",
-      "time": "03:26",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-10-d3a27264",
-      "headline": "Australia Widens Orders on Chinese Investors in Rare Earths Firm",
-      "summary": "Australia has stepped in again to try to force some Chinese investors out of a rare earths mining firm, telling two parties that they will also need government approval before selling their holdings to ensure the shares aren’t sold to any related parties.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-10/australia-widens-orders-on-chinese-investors-in-rare-earths-firm",
+      "id": "2026-08-10-89afbd39",
+      "headline": "Victorian Liberals promise weekly red bin garbage collections for all, calling fortnightly system ‘disgusting’",
+      "summary": "If opposition wins November’s state election, leader Jess Wilson vows households will not pay more under the changeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Victorian Liberals have vowed to restore weekly rubbish collections if they win November’s state election, with leader Jess Wilson describing the current fortnightly system in her local area as “disgusting”.Thirty-thre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/10/victoria-weekly-red-bin-collection-rubbish-waste-liberal-party-promise",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-08-10",
-      "time": "01:17",
+      "time": "05:50",
       "conflict_id": null,
-      "score": 26.1
+      "score": 24.0
     },
     {
       "id": "2026-08-10-6e71fdd4",
@@ -282,6 +310,20 @@
       "time": "02:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-10-11f9668c",
+      "headline": "What’s driving unrest in Pakistan-administered Kashmir?",
+      "summary": "What&#039;s driving unrest in Pakistan-administered Kashmir?",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/10/whats-driving-unrest-in-pakistan-administered-kashmir?traffic_source=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-08-10",
+      "time": "06:26",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-08-10-2fbb2168",
@@ -312,6 +354,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-08-10-0ef1f4ad",
+      "headline": "Japanese bond yields rise on expectations for faster BOJ rate hikes",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/japanese-bond-yields-rise-on-expectations-for-faster-boj-rate-hikes",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-08-10",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-10-b8fff3f4",
       "headline": "Modi independence day speech, To Lam in Australia, SMIC earnings",
       "summary": "",
@@ -340,48 +396,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-10-b0a6a688",
-      "headline": "Why yen intervention had limited impact: Market doubts over Japan's policy",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/currencies/why-yen-intervention-had-limited-impact-market-doubts-over-japan-s-policy",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "politics",
-      "date": "2026-08-10",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-10-16f45456",
-      "headline": "Human hair used as protective barrier in oceans",
-      "summary": "A new environmental initiative is using human hair to help protect the oceans, building barriers from donated locks to shield parts of Brazil's coastline from oil spill pollution.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/10/human-hair-used-as-protective-barrier-in-oceans",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "business",
-      "date": "2026-08-10",
-      "time": "05:22",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-09-ac2df07c",
-      "headline": "Israel rejects the US ceasefire plan for Gaza accepted by Hamas",
-      "summary": "At a cabinet meeting, Israeli Prime Minister Benjamin Netanyahu said the army would make 'no withdrawal until Hamas is truly disarmed,' scrapping the ceasefire plan.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/09/israel-rejects-the-us-ceasefire-plan-for-gaza-accepted-by-hamas",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "13:25",
-      "conflict_id": "israel-hamas",
-      "score": 65.0
-    },
-    {
       "id": "2026-08-09-33861186",
       "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
@@ -393,7 +407,7 @@
       "date": "2026-08-09",
       "time": "21:25",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 55.0
     },
     {
       "id": "2026-08-09-5ab3d461",
@@ -424,20 +438,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-09-d99e68d4",
-      "headline": "Iran replaces top security official at crucial moment in talks over Strait of Hormuz",
-      "summary": "Mohsen Rezaei appointed head of Supreme National Security Council after Mohammad Bagher Zolghadr steps down",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ce343513-5514-4519-95c8-19832ed46d16?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "22:23",
-      "conflict_id": null,
-      "score": 50.4
-    },
-    {
       "id": "2026-08-09-3b279b1b",
       "headline": "Outbreak of Vibrio Vulnificus, a Flesh-Eating Bacteria, Kills 5 in Louisiana",
       "summary": "Vibrio vulnificus, which thrives in warm, brackish water, has also killed two people in Florida this year.",
@@ -450,34 +450,6 @@
       "time": "13:50",
       "conflict_id": null,
       "score": 49.2
-    },
-    {
-      "id": "2026-08-09-57417ab6",
-      "headline": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
-      "summary": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa provinceTyphoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and strong ⁠winds and triggering warnings ​of flooding and landslides.The storm has already swept through Japan’s southern Okinawa prefecture, injuring six people and cutting power to mo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "18:13",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-08-09-d3104ef9",
-      "headline": "Over 1 million evacuated as Typhoon Dolphin hits China",
-      "summary": "Typhoon Dolphin made landfall in densely populated eastern China on Sunday, meteorological authorities said, after the storm triggered more than 1,000 flight cancellations, 1 million evacuations, and a top-level alert.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/09/over-1-million-evacuated-as-typhoon-dolphin-hits-china",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "13:56",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-08-09-8d0c8111",
@@ -494,32 +466,18 @@
       "score": 40.9
     },
     {
-      "id": "2026-08-09-bb968438",
-      "headline": "13 killed in Ukraine and 90 injured as Russia intensifies overnight bombardment campaign of Ukrainian cities",
-      "summary": "13 people were killed and some 90 others were wounded over the past 24 hours as Russian attacks as the Kremlin intensifies its bombardment of Ukrainian cities. Meanwhile, Moscow says five people were killed in Ukrainian drone attacks targeting Russian cities.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/09/13-killed-in-ukraine-and-90-injured-as-russia-intensifies-overnight-bombardment-campaign-o",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-08-09-57417ab6",
+      "headline": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
+      "summary": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa provinceTyphoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and strong ⁠winds and triggering warnings ​of flooding and landslides.The storm has already swept through Japan’s southern Okinawa prefecture, injuring six people and cutting power to mo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
+      "region": "APJ",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-08-09",
-      "time": "13:29",
+      "time": "18:13",
       "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-08-09-e139395e",
-      "headline": "Nagasaki 81st atomic bomb anniversary unnerves proponents of pacifism",
-      "summary": "Nagasaki marked on Sunday the 81st anniversary of the US atomic bombing of the southwestern city, as the mayor called nuclear weapons “absolute evil,” denounced growing support for nuclear deterrence, and called on the Japanese government to adhere to its three postwar non-nuclear principles.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/09/nagasaki-81st-atomic-bomb-anniversary-unnerves-proponents-of-pacifism",
-      "region": "NA",
-      "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "10:41",
-      "conflict_id": null,
-      "score": 37.0
+      "score": 40.0
     },
     {
       "id": "2026-08-09-8aaab20e",
@@ -606,20 +564,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-09-3323d421",
-      "headline": "China expresses ‘grave concern’ as internal documents reveal suicide warning before death in Melbourne immigration detention",
-      "summary": "Exclusive: Serious questions raised about whether Chinese citizen was properly monitored at centre run by US prison giantFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe US private prison company running Australia’s immigration detention system was warned that a newly detained Chinese citizen expressed suicidal ideation and had a history of self-harm less than 24 hours before she",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/10/woman-who-took-her-own-life-in-melbourne-detention-centre-was-known-suicide-risk-documents-reveal-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-08-09-e3cae239",
       "headline": "Ancient Roman shipwreck discovered off Sicily coast",
       "summary": "Italy's culture minister says it is one of the most important underwater archaeological finds in years.",
@@ -648,13 +592,13 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-09-853d1941",
-      "headline": "Global Stock Rally Extends, Oil Advances on Iran: Markets Wrap",
-      "summary": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike. Oil extended gains as Iran rejected talks with the US and a deal to reopen the Strait of Hormuz remained elusive.",
+      "id": "2026-08-09-ac69f17c",
+      "headline": "Global Stock Rally Extends, Oil Pares Advance: Markets Wrap",
+      "summary": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike. Oil pared earlier gains as a deal to reopen the Strait of Hormuz remained elusive.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
-      "country": "Iran",
+      "country": null,
       "category": "business",
       "date": "2026-08-09",
       "time": "22:11",
@@ -674,34 +618,6 @@
       "time": "22:02",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-08-09-21dc16ec",
-      "headline": "Gold Holds Above $4,300 as Soft Jobs Data Trims Rate-Hike Bets",
-      "summary": "Gold steadied above $4,300 an ounce, with investors assessing a surprise contraction in the US jobs market that allayed concerns around an interest-rate hike.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/gold-holds-gain-after-soft-us-jobs-data-eases-rate-hike-concerns",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-09",
-      "time": "23:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-09-d88108ea",
-      "headline": "A Democrat Sounds the Alarm on Christian Nationalism in Congress",
-      "summary": "Representative Jared Huffman of California, the only self-declared “humanist” in Congress, writes in a new book that the separation of church and state is in grave danger.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/09/us/politics/democrat-huffman-humanist-religion-christianity.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-09",
-      "time": "09:01",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-08-09-2ae3353a",
@@ -788,20 +704,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-09-c6f25cf0",
-      "headline": "Poland now sixth-largest EU economy, ahead of Switzerland and Belgium",
-      "summary": "Poland's economy is gaining in importance in Europe. In 2025 the country ranked sixth in the EU by nominal GDP, accounting for almost 5% of the bloc's total output.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/09/poland-now-sixth-largest-eu-economy-ahead-of-switzerland-and-belgium",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "business",
-      "date": "2026-08-09",
-      "time": "17:23",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-08-0d625cf0",
       "headline": "Child among three killed in Russian missile attacks near Kyiv",
       "summary": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
@@ -827,20 +729,6 @@
       "date": "2026-08-08",
       "time": "19:18",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-08-08-5901e11f",
-      "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
-      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-08",
-      "time": "15:15",
-      "conflict_id": null,
       "score": 51.0
     },
     {
@@ -856,6 +744,20 @@
       "time": "23:43",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-08-5901e11f",
+      "headline": "Typhoon Dolphin batters Japan's Okinawa before bearing down on China",
+      "summary": "The storm has cut power to at least 44,000 buildings and injured five people on the Japanese island.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvglp2zlvrlo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "15:15",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-08-17023490",
@@ -884,6 +786,20 @@
       "time": "15:59",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-08-69ab65e1",
+      "headline": "Longtime San Francisco nonprofit will close as city gets tougher on crime",
+      "summary": "The demise of SF Pretrial, which for 50 years has provided diversion services, came after the mayor cut its budget and as Democrats’ attitudes toward crime shift.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/08/longtime-san-francisco-nonprofit-will-close-city-gets-tougher-crime/",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-08",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-08-08-48977650",
@@ -970,6 +886,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-07-02893860",
+      "headline": "Judge approves Trump effort to end South Sudan TPS protections",
+      "summary": "Decision follows supreme court ruling that allowed US government to strip protections for Haitians and SyriansTemporary protected status (TPS) for hundreds of South Sudanese nationals in the United States is set to end after a federal judge ruled that the Trump administration can move forward with stripping their protections.On Friday, US district judge Patti Saris of the district of Massachusetts rejected an attempt by immigrant rights organizat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/07/judge-trump-south-sudan-tps",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-08-07",
+      "time": "18:34",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-08-07-5447b21c",
       "headline": "A new youth agitation grips an Indian state after 'cockroach' protests",
       "summary": "Weeks after the CJP protests shook Delhi, a new youth-led movement over jobs and recruitment is gathering force in Jharkhand.",
@@ -1012,18 +942,32 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-06-6360bdfc",
-      "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
+      "id": "2026-08-06-6fa2152c",
+      "headline": "Rights groups say Israeli attack that killed Lebanese journalist an apparent war crime",
+      "summary": "Amal Khalil was killed and her colleague Zeinab Faraj wounded in an Israeli attack in April; Israel denied targeting the journalists.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cx2md67y3nlo?at_medium=RSS&at_campaign=rss",
       "region": "MENA",
-      "country": "Iran",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-06",
-      "time": "01:19",
+      "time": "14:20",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-06-0e2500f0",
+      "headline": "Israel strikes south Lebanon after two soldiers killed by explosion",
+      "summary": "Lebanese authorities says one person was killed in the strikes, which came after the first Israeli military fatalities in Lebanon in more than a month.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998711dyjvo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-08-06",
+      "time": "14:51",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-06-3536146b",
@@ -1082,20 +1026,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-08-04-20638cd2",
-      "headline": "Russia says seven killed and 40 injured by Ukrainian drone hitting busy beach",
-      "summary": "Three children were killed when the drone crashed at a popular resort on the Black Sea.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr7kmnyrdn7o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-04",
-      "time": "03:37",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-08-04-3d38f14d",
       "headline": "EU commends Spain's 'swift response' to Ceuta migrant crisis",
       "summary": "About 70,000 of the 72,000 people who came to Ceuta illegally last week have been returned to Morocco, Spain says.",
@@ -1106,6 +1036,20 @@
       "category": "geopolitics",
       "date": "2026-08-04",
       "time": "21:45",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-04-a5b8ae8f",
+      "headline": "Video shows Russian drone chasing Ukrainian street vendor in 'human safari' attack",
+      "summary": "Ukraine said the video - showing a terrified civilian being hounded by a remotely controlled drone - amounted to a war crime.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn4n03xg981o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-04",
+      "time": "17:26",
       "conflict_id": null,
       "score": 35.0
     },
