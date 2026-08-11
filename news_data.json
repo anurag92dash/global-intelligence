@@ -1,21 +1,35 @@
 {
-  "updated": "2026-08-11T09:37:50.415462+00:00",
-  "story_count": 81,
+  "updated": "2026-08-11T10:30:06.326574+00:00",
+  "story_count": 83,
   "source_count": 10,
   "stories": [
     {
+      "id": "2026-08-11-7d796ef5",
+      "headline": "Russia using North Korean missiles to strike Ukraine, Zelensky says",
+      "summary": "Ukraine's president says strikes in Zaporizhzhia - which killed at least six and injured 19 - involved ballistic missiles from Russia's ally.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c151dpzwnvxo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "North Korea",
+      "category": "geopolitics",
+      "date": "2026-08-11",
+      "time": "09:39",
+      "conflict_id": "ukraine-war",
+      "score": 79.0
+    },
+    {
       "id": "2026-08-11-ca950c70",
       "headline": "Overnight Russian strikes on Ukraine used North Korean missiles, claims Zelenskyy – Europe live",
-      "summary": "Russian attacks on the Ukrainian city of Zaporizhzhia killed at least six people and injured 20, officials saidSenior correspondentThe UK’s new European relatons minister Hamish Falconer will talk with Ireland’s Europe minister today, a key step to refresh talks over Britain’s post-Brexit relations with the bloc. Continue reading...",
+      "summary": "Russian attacks on the Ukrainian city of Zaporizhzhia killed at least six people and injured 20, officials saidLatvia said on Tuesday a tunnel had been discovered under the border with ⁠Belarus and announced plans to combat networks that it says are helping a growing number of migrants cross the frontier illegally, Reuters reported.Latvian ⁠soldiers last month used ⁠teargas and ​fired a warning shot to stop migrants trying to enter from Belarus, ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/aug/11/russia-strikes-ukraine-wildberries-hungary-heat-latest-news-updates",
       "region": "EU",
       "country": "North Korea",
       "category": "geopolitics",
       "date": "2026-08-11",
-      "time": "09:08",
+      "time": "10:05",
       "conflict_id": "ukraine-war",
-      "score": 68.0
+      "score": 76.0
     },
     {
       "id": "2026-08-11-85118f56",
@@ -29,21 +43,7 @@
       "date": "2026-08-11",
       "time": "08:14",
       "conflict_id": "ukraine-war",
-      "score": 65.0
-    },
-    {
-      "id": "2026-08-11-8f4048fb",
-      "headline": "WHO warehouse in Ukraine destroyed after overnight strikes",
-      "summary": "A World Health Organization humanitarian warehouse holding supplies worth an estimated $500,000 was destroyed, as Kyiv and Moscow exchanged missile strikes over the weekend.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/health/2026/08/11/who-warehouse-in-ukraine-destroyed-after-overnight-strikes",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-11",
-      "time": "03:00",
-      "conflict_id": "ukraine-war",
-      "score": 65.0
+      "score": 73.0
     },
     {
       "id": "2026-08-11-dcd63c18",
@@ -74,20 +74,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-11-074743f4",
-      "headline": "Trump demands compensation from Iran as talks on Strait of Hormuz continue",
-      "summary": "US president seeks payment for &#039;50 years&#039; of alleged damages after Iran conditions opening of Hormuz on war reparations.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/11/trump-demands-compensation-from-iran-as-talks-on-strait-of-hormuz-continue?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-11",
-      "time": "02:32",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-08-11-02d4a263",
       "headline": "Trump-Netanyahu rift widens as election pressures pull them in opposite directions",
       "summary": "While the Israeli leader touts a willingness to defy the U.S. on Gaza, the president needs to show progress in the foreign entanglements weighing on his approval rating.",
@@ -102,30 +88,58 @@
       "score": 44.9
     },
     {
-      "id": "2026-08-11-15d87c7f",
-      "headline": "Trump Makes New Demands on Iran as Deal Hopes Dim",
-      "summary": "US President Donald Trump made new demands on Iran, including compensation for people killed and wounded by Iranian actions, and for damages and death in Lebanon, Syria, Yemen, and Gaza.\n(Corrects full screen graphic to state that Iran is seeking reparations.) (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-11/trump-makes-new-demands-on-iran-as-deal-hopes-dim-video",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
+      "id": "2026-08-11-290e477a",
+      "headline": "Trump hid in catering truck in secret plane swap over Iran threat, reports say",
+      "summary": "The US president was moved from the old Air Force One to a military plane as he left a Nato summit in Turkey last month, US media say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2g90vvy62o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Turkey",
+      "category": "politics",
       "date": "2026-08-11",
-      "time": "04:34",
+      "time": "09:58",
       "conflict_id": null,
-      "score": 42.1
+      "score": 43.0
     },
     {
-      "id": "2026-08-11-88a2e197",
-      "headline": "Hundreds more flights cancelled as Tropical Storm Dolphin causes flooding in eastern China",
-      "summary": "More than 900 flights, or about 40% of those expected, were cancelled in Shanghai’s Hongqiao and Pudong airports after about 1,300 were canceled the day before, according to Shanghai Airport Group.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/11/hundreds-more-flights-cancelled-as-tropical-storm-dolphin-causes-flooding-in-eastern-china",
-      "region": "APJ",
-      "country": "China",
+      "id": "2026-08-11-020441ac",
+      "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Syria",
       "category": "geopolitics",
       "date": "2026-08-11",
-      "time": "04:14",
+      "time": "09:42",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-11-6517a36d",
+      "headline": "US judge drops bribery and fraud case against Indian billionaire Gautam Adani",
+      "summary": "The judge, however, criticised the way the Justice Department decided to drop the case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyqxknpp26o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-11",
+      "time": "06:33",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-11-cc9d80ec",
+      "headline": "Syria sentences Bashar al-Assad to death in absentia for war crimes and crimes against humanity",
+      "summary": "A Syrian court handed death sentences to Bashar al-Assad and his brother Maher — both in absentia — alongside their cousin Atef Najib, who attended the trial in a cage and was found guilty of leading the 2011 Daraa crackdown that sparked the civil war.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/11/syria-sentences-bashar-al-assad-to-death-in-absentia-for-war-crimes-and-crimes-against-hum",
+      "region": "MENA",
+      "country": "Syria",
+      "category": "geopolitics",
+      "date": "2026-08-11",
+      "time": "09:09",
       "conflict_id": null,
       "score": 37.0
     },
@@ -144,18 +158,32 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-11-6517a36d",
-      "headline": "US judge drops bribery and fraud case against Indian billionaire Gautam Adani",
-      "summary": "The judge, however, criticised the way the Justice Department decided to drop the case.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyqxknpp26o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-11-786b4e7a",
+      "headline": "Yen Slides Toward 160 per Dollar, Raising Intervention Concerns",
+      "summary": "The yen was slightly weaker and approaching a key level against the dollar that could raise speculation Japanese authorities may intervene again to prop up the Japanese currency.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/yen-slides-toward-160-per-dollar-raising-intervention-concerns",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-08-11",
+      "time": "10:03",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-11-8f78bde8",
+      "headline": "Adani Lands $800 Million Data Center Loan as US Drops Charges",
+      "summary": "Indian conglomerate Adani Group has secured a loan of about $800 million from a group of overseas lenders to help fund its push into data centers, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-11/adani-lands-800-million-data-center-loan-as-us-drops-charges",
       "region": "NA",
       "country": "India",
-      "category": "politics",
+      "category": "business",
       "date": "2026-08-11",
-      "time": "06:33",
+      "time": "09:43",
       "conflict_id": null,
-      "score": 35.0
+      "score": 34.1
     },
     {
       "id": "2026-08-11-468afc72",
@@ -270,6 +298,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-11-baa6dfda",
+      "headline": "Iran threat prompted secret Trump flight from Turkiye: Reports",
+      "summary": "Trump reportedly used catering cart to switch planes, unbeknownst to the press pool and some White House staff.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/11/iran-threat-prompted-secret-trump-flight-from-turkiye-reports?traffic_source=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "geopolitics",
+      "date": "2026-08-11",
+      "time": "08:18",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-08-11-1795db95",
       "headline": "What is the US spending all their war money on?",
       "summary": "Why is the US Pentagon asking for more money for the war on Iran?",
@@ -280,34 +322,6 @@
       "category": "geopolitics",
       "date": "2026-08-11",
       "time": "08:04",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-11-9d9c65a8",
-      "headline": "Fire rages after drone strikes Libya’s largest oil refinery",
-      "summary": "A drone attack ignited gasoline at Libya&#039;s Zawiya oil refinery, the country&#039;s largest operational facility.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/fire-rages-after-drone-strikes-libyas-largest-oil-refinery?traffic_source=rss",
-      "region": "MENA",
-      "country": "Libya",
-      "category": "business",
-      "date": "2026-08-11",
-      "time": "04:09",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-11-f4dfaa12",
-      "headline": "Trump orders fewer childhood vaccinations including splitting up MMR",
-      "summary": "US President Donald Trump signed an executive order calling for fewer childhood vaccinations and splitting up MMR.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/aje-onl-nf_trump-orders-fewer-child-vaccines-and-splitting-mmr-100826?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-11",
-      "time": "02:08",
       "conflict_id": null,
       "score": 31.4
     },
@@ -326,20 +340,6 @@
       "score": 29.0
     },
     {
-      "id": "2026-08-11-c29d9464",
-      "headline": "Trump signs order calling for fewer childhood vaccines, going against medical groups’ advice",
-      "summary": "The order recommends giving all childhood vaccinations at separate visits whenever feasible, which had earlier been blocked by a federal judge, and dividing the measles, mumps, and rubella vaccine into three distinct single injections",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/health/2026/08/11/trump-signs-order-calling-for-fewer-childhood-vaccines-going-against-medical-groups-advice",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-08-11",
-      "time": "04:31",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-08-11-7e3f8cb8",
       "headline": "Wall Street giants hand Nvidia $500bn to fund boom in AI projects",
       "summary": "The money will be used to develop new data centres to house, operate, and cool miles of stacked computer chips that process AI data and actions.",
@@ -354,6 +354,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-11-030957ae",
+      "headline": "Carbon tax will hit EU’s budget airlines where it hurts",
+      "summary": "Plans for a wider levy could benefit the bloc’s long-haul carriers but do little for low-cost operators",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/763128ff-8287-49f7-8369-039822f3bbfb?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-11",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-08-11-e8bd6bbe",
       "headline": "Can a 30-person start-up build Britain’s answer to OpenAI?",
       "summary": "London-based Cosine has UK government backing to build a ‘sovereign AI’ model but faces far better resourced rivals",
@@ -366,6 +380,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-11-6228c66e",
+      "headline": "Europe Is Ticking a Lot of Boxes for Investors Right Now",
+      "summary": "Earnings and economic growth turn out to be surprisingly robust.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-11/europe-is-ticking-a-lot-of-boxes-for-investors-right-now",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-08-11",
+      "time": "09:56",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-11-4fb64325",
@@ -438,20 +466,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-11-e4c4dbe8",
-      "headline": "Wipro’s Nifty Exit Reflects Waning Clout of Indian IT Giants",
-      "summary": "Wipro Ltd.’s exit from India’s Nifty 50 to make way for exchange operator BSE Ltd. marks more than a benchmark reshuffle. It captures the shift from an outsourcing-led boom to one powered by the growing ranks of investors in the nation’s $5-trillion stock market.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-11/wipro-s-nifty-exit-reflects-waning-clout-of-indian-it-giants",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-08-11",
-      "time": "06:27",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-11-eabc47f1",
       "headline": "Can Immigration Agents Stop People Based on Appearance?",
       "summary": "Jazmine Ulloa, our national reporter covering immigration, describes body-camera footage and other court evidence that federal agents used slurs and racially profiled people during immigration sweeps.",
@@ -494,32 +508,46 @@
       "score": 24.9
     },
     {
-      "id": "2026-08-11-97dcb89b",
-      "headline": "Delivery drivers to be paid minimum $31.30 an hour across Australia in ‘world-leading’ decision",
-      "summary": "Fair Work Commission issues a new minimum standards order for gig workers to come into effect 17 AugustGet our breaking news email, free app or daily news podcastDelivery drivers in Australia will be paid a minimum rate of $31.30 an hour and insured for injuries on the job under a landmark agreement approved by the industrial umpire.The Fair Work Commission (FWC) on Tuesday issued a new minimum standards order for gig workers who perform on-deman",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/11/delivery-drivers-to-be-paid-minimum-3130-an-hour-across-australia-in-world-leading-decision",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-08-11",
-      "time": "08:25",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-08-11-54cd404a",
-      "headline": "Soldiers take cover as Colombia quake flattens military barracks",
-      "summary": "Video shows soldiers running from buildings at a military base in Cali as a magnitude 7.4 earthquake",
+      "id": "2026-08-11-635523b0",
+      "headline": "Bangladesh and India battle to save cricket series after political turmoil",
+      "summary": "Bangladesh and India white-ball series under threat due to tensions that arose when Bangladeshi PM Hasina toppled.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/11/soldiers-take-cover-as-colombia-quake-flattens-military-barracks?traffic_source=rss",
+      "url": "https://www.aljazeera.com/sports/2026/8/11/bangladesh-and-india-battle-to-save-cricket-series-after-political-turmoil?traffic_source=rss",
       "region": "SA",
-      "country": "Colombia",
+      "country": "Bangladesh",
       "category": "geopolitics",
       "date": "2026-08-11",
-      "time": "01:06",
+      "time": "10:02",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-08-11-5f24c518",
+      "headline": "The Global South’s digital future must not belong to Bezos and Musk",
+      "summary": "Satellite internet can close digital divide, but Global South must not trade access for dependence on foreign firms.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/8/11/the-global-souths-digital-future-must-not-belong-to-bezos-and-musk?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-11",
+      "time": "09:52",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-08-11-fd3f61c7",
+      "headline": "Turkey-Pakistan-Saudi pact a 'Muslim NATO?': 5 things to know",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/defense/turkey-pakistan-saudi-pact-a-muslim-nato-5-things-to-know",
+      "region": "MENA",
+      "country": "Pakistan",
+      "category": "politics",
+      "date": "2026-08-11",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-08-11-2967d210",
@@ -564,6 +592,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-11-4c9c918b",
+      "headline": "Data center insurers confront new risks as market reaches $10bn",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/insurance/data-center-insurers-confront-new-risks-as-market-reaches-10bn",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-11",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-10-c559b11d",
       "headline": "Ukraine drone strike on oil refinery deep inside Russia kills at least 13",
       "summary": "Attack hundreds of miles from border would be among deadliest of war as Kyiv aims to strangle Russian economyA Ukrainian drone strike on an industrial city deep inside Russia has killed at least 13 people, according to the local mayor, as Kyiv steps up its campaign of long-range strikes on targets far from the frontline.Kyiv said it hit the Taneco refinery in the city of Nizhnekamsk, about 750 miles (1,200km) from the Ukrainian border. Footage ci",
@@ -578,20 +620,6 @@
       "score": 76.0
     },
     {
-      "id": "2026-08-10-38f86235",
-      "headline": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
-      "summary": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inlandMore than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landslides.Wenzhou, a coastal city in Zhejiang province, said it relocated more than 900,000 people and opened more than 1,500 emergency s",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-10",
-      "time": "04:55",
-      "conflict_id": null,
-      "score": 56.0
-    },
-    {
       "id": "2026-08-10-5fe18b2e",
       "headline": "At least 13 killed in Ukrainian drone strike deep into Russia",
       "summary": "Russian officials say another 75 people were injured by the attack - one of the deadliest Ukrainian drone attacks since Moscow's full-scale invasion.",
@@ -604,6 +632,20 @@
       "time": "14:34",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-08-10-38f86235",
+      "headline": "Typhoon Dolphin: more than a million people evacuated in China as record rainfall dumped on Shanghai",
+      "summary": "Authorities warn that days of intense rain could trigger widespread flooding and landslides as storm moves north and further inlandMore than a million people were moved to safety across eastern China by Sunday evening as powerful Typhoon Dolphin made landfall amid fears torrential rain would cause flooding and landslides.Wenzhou, a coastal city in Zhejiang province, said it relocated more than 900,000 people and opened more than 1,500 emergency s",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/10/typhoon-dolphin-china-shanghai-flooding-evacuations",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-10",
+      "time": "04:55",
+      "conflict_id": null,
+      "score": 48.0
     },
     {
       "id": "2026-08-10-94ac3aea",
@@ -802,20 +844,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-09-57417ab6",
-      "headline": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
-      "summary": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa provinceTyphoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and strong ⁠winds and triggering warnings ​of flooding and landslides.The storm has already swept through Japan’s southern Okinawa prefecture, injuring six people and cutting power to mo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-09",
-      "time": "18:13",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
       "id": "2026-08-09-33861186",
       "headline": "Israel rejects Trump's 15-point plan for Gaza, Netanyahu says",
       "summary": "Israel's PM says its military will not pull out from Gaza until Hamas is \"genuinely\" disarmed.",
@@ -828,6 +856,20 @@
       "time": "21:25",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-09-57417ab6",
+      "headline": "Typhoon Dolphin makes landfall in China as its strongest storm this year",
+      "summary": "Tropical cyclone brings torrential rain and high winds to east coast after hitting Japan’s southern Okinawa provinceTyphoon Dolphin, the most powerful tropical cyclone to hit China this year, has made landfall on the country’s east coast, bringing torrential rain and strong ⁠winds and triggering warnings ​of flooding and landslides.The storm has already swept through Japan’s southern Okinawa prefecture, injuring six people and cutting power to mo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/09/typhoon-dolphin-makes-landfall-in-china-as-its-strongest-storm-this-year",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-09",
+      "time": "18:13",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-08-09-8aaab20e",
@@ -1080,20 +1122,6 @@
       "time": "14:51",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-08-06-6360bdfc",
-      "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "01:19",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-05-121db7a3",
