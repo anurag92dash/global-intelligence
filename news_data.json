@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-12T16:31:41.108464+00:00",
+  "updated": "2026-08-12T17:37:08.329945+00:00",
   "story_count": 81,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-08-12-250ce8d5",
-      "headline": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
-      "summary": "Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-12",
-      "time": "15:07",
-      "conflict_id": null,
-      "score": 47.4
-    },
     {
       "id": "2026-08-12-300a8f31",
       "headline": "Israeli settlers besieging Palestinian families in West Bank village",
@@ -30,20 +16,6 @@
       "time": "16:14",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-12-7bc20bcc",
-      "headline": "Trump hails 'wall of steel' blocakade, says US will keep control of Strait of Hormuz",
-      "summary": "Iran maintains it effectively controls much of the waterway and intends to impose a toll system in response to the US war launched by Trump on 28 February.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/12/trump-hails-wall-of-steel-blocakade-says-us-will-keep-control-of-strait-of-hormuz",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-12",
-      "time": "16:20",
-      "conflict_id": null,
-      "score": 45.0
     },
     {
       "id": "2026-08-12-c6f9bf3a",
@@ -74,18 +46,18 @@
       "score": 43.4
     },
     {
-      "id": "2026-08-12-e02a4b55",
-      "headline": "Trump Says US Controls the Strait of Hormuz, But Talks Continue",
-      "summary": "President Donald Trump claimed the US had “total control over the Hormuz Strait,” saying “We own it” and that Iran's actions will be met with force. Talks appear to be deadlocked as each side hardens their stance. Oil prices have been climbing as traders remain uncertain about the prospects of a deal. Bloomberg's Tyler Kendall reports.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-12/trump-says-us-controls-the-strait-but-talks-continue-video",
+      "id": "2026-08-12-250ce8d5",
+      "headline": "As Strait of Hormuz transit drops, Trump again says US has ‘control’",
+      "summary": "Just eight vessels crossed strait on Tuesday, down from 130 to 140 prior to the war as peace talks stall.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/12/as-strait-of-hormuz-transit-drops-trump-again-says-us-has-control?traffic_source=rss",
       "region": "NA",
       "country": "Trump",
-      "category": "business",
+      "category": "geopolitics",
       "date": "2026-08-12",
-      "time": "14:28",
+      "time": "15:07",
       "conflict_id": null,
-      "score": 42.1
+      "score": 39.4
     },
     {
       "id": "2026-08-12-d759b043",
@@ -102,6 +74,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-08-12-942ba208",
+      "headline": "Trump hails 'wall of steel' blockade, says US will keep control of Strait of Hormuz",
+      "summary": "Iran maintains it effectively controls much of the waterway and intends to impose a toll system in response to the US war launched by Trump on 28 February.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/12/trump-hails-wall-of-steel-blocakade-says-us-will-keep-control-of-strait-of-hormuz",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-12",
+      "time": "16:20",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-08-12-dd0416c5",
       "headline": "Members of Trump's cabinet remained on decoy plane, after president's quiet exit",
       "summary": "Trump boarded a different plane in Turkey during a Nato summit for security reasons involving Iran.",
@@ -111,7 +97,7 @@
       "country": "Turkey",
       "category": "politics",
       "date": "2026-08-12",
-      "time": "15:57",
+      "time": "16:34",
       "conflict_id": null,
       "score": 35.0
     },
@@ -128,6 +114,48 @@
       "time": "04:29",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-12-83f07189",
+      "headline": "US press groups sue Trump over fast access to Truth Social posts",
+      "summary": "Lawsuit seeks to stop president from publishing official government announcements exclusively on the platform",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3309f3ea-c633-4727-887b-540a929d63e7?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-12",
+      "time": "16:35",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-08-12-0a294204",
+      "headline": "US Sells 10-Year Bonds at Highest Yields Since Financial Crisis",
+      "summary": "A $42 billion auction of 10-year US Treasuries resulted in the highest yield for the benchmark securities since 2007, luring decent appetite from investors who’ve been demanding more compensation to finance the US government.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/bond-traders-keep-cointoss-wager-on-september-fed-hike-post-cpi",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-12",
+      "time": "12:58",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-12-82b33f6b",
+      "headline": "Cava Sales Jump as Americans Flock to Pita Chips, Salmon",
+      "summary": "Cava is hot, kind of bucking a trend when it comes to eating out with prices generally rising. The fast-casual restaurant chain known for its Mediterranean-inspired dishes says sales rose faster than expected due to increased demand for its salmon and pita chips. Sales did slow down due the cyclospora outbreak. Michael Halen, Bloomberg Intelligence senior restaurant analyst, has more.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/cava-sales-jump-as-americans-flock-to-pita-chips-salmon-video",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-12",
+      "time": "16:27",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-08-12-41f58225",
@@ -154,20 +182,6 @@
       "category": "business",
       "date": "2026-08-12",
       "time": "14:42",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-08-12-699c6b65",
-      "headline": "See How Trump’s Secret Air Force One Swap Unfolded",
-      "summary": "The extraordinary subterfuge was aimed at protecting an American president who has been in Iran’s cross hairs for years.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-switch.html",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-12",
-      "time": "02:51",
       "conflict_id": null,
       "score": 33.2
     },
@@ -396,18 +410,60 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-12-4cf5b640",
-      "headline": "Switzerland pushes ahead with post-Credit Suisse crackdown",
-      "summary": "Financial regulator may be given greater powers to intervene at troubled banks and levy fines",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/de0e971c-0223-4d52-9f52-b703ef5ac467?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Switzerland",
+      "id": "2026-08-12-c13040b4",
+      "headline": "Optical Stocks Soar as Market’s Favorite Momentum Bet Resurfaces",
+      "summary": "One of the stock market’s favorite momentum plays from earlier this year is re-emerging as rising confidence in artificial intelligence spending sends the shares of optical component makers soaring again.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/market-s-momentum-darlings-resurface-as-optical-stocks-take-off",
+      "region": "NA",
+      "country": null,
       "category": "business",
       "date": "2026-08-12",
-      "time": "15:17",
+      "time": "10:45",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-12-74dc390b",
+      "headline": "Lakers Owner Walter Seeks Cash to Pay Down Loans Amid DOJ Probe",
+      "summary": "Billionaire Mark Walter’s firm is in talks with investors to raise money to help pay down loans on the books of its insurers that had drawn scrutiny from the Justice Department, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/lakers-owner-walter-seeks-cash-to-pay-down-loans-amid-doj-probe",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-12",
+      "time": "16:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-12-008f4593",
+      "headline": "Goldman Sachs to Acquire ETF Provider Neos in $2.3 Billion Deal",
+      "summary": "Goldman Sachs Group will pay as much as $2.25 billion to buy Neos Investments,  expanding its asset manager’s reach in the actively managed exchange-traded fund market. Bloomberg's Neil Sipes joins to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-12/goldman-sachs-to-acquire-etf-provider-neos-in-2-3b-deal-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-12",
+      "time": "16:49",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-12-62ea8f4e",
+      "headline": "Data Center QTS Holds Investor Calls Ahead of Possible Debt Sale",
+      "summary": "Subsidiaries of QualityTech LP are holding series of fixed income investor calls ahead of a potential bond offering that would add to this year’s surge in technology deals.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-12/data-center-qts-holds-investor-calls-ahead-of-possible-debt-sale",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-12",
+      "time": "16:45",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-12-e082a0e9",
@@ -466,20 +522,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-12-29f93702",
-      "headline": "Bob Iger, Josh Kushner Are Buying the LA Lakers",
-      "summary": "Josh Kushner and Bob Iger are buying the Los Angeles Lakers basketball team for a record-breaking price of more than $12 billion, according to people familiar with the matter. They are buying the team from financier Mark Walter. Bloomberg's Randall Williams reports.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-12/bob-iger-josh-kushner-are-buying-the-la-lakers-video",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-12",
-      "time": "15:04",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-12-fdadc85b",
       "headline": "Air Baltic Bonds Slump After Airline’s Debt-for-Equity Swap Plan",
       "summary": "Bonds issued by Air Baltic Corp slumped further into deeply distressed levels after the ailing Latvian airline announced plans to swap much of its debt for equity as part of a restructuring plan.",
@@ -494,32 +536,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-12-7ff98cda",
-      "headline": "S&P 500 Earnings Are So Good Investors Are Starting to Worry",
-      "summary": "The latest reason to worry about the stock market is quite the doozy: Earnings growth has been too strong.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/potential-peak-earnings-set-the-stage-for-disappointing-stocks",
-      "region": "NA",
-      "country": null,
+      "id": "2026-08-12-0aaaffd5",
+      "headline": "ICE Agent Points Gun at Woman in Car in Virginia, Videos Show",
+      "summary": "The agent accused the woman of trying to run him over with her vehicle, a claim she denied. It was the latest tense encounter between a federal agent and a driver.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/12/us/ice-gun-driver-virginia-immigration.html",
+      "region": "MENA",
+      "country": "Oman",
       "category": "business",
       "date": "2026-08-12",
-      "time": "12:28",
+      "time": "16:54",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-12-5c65f7e7",
-      "headline": "China Revives Free-Trade-Zone Bond Market After Crackdown",
-      "summary": "The Shanghai free-trade zone’s bond market had its first pricing by a nonfinancial firm since Chinese authorities clamped down on excessive borrowing by local governments in late 2023.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/china-revives-free-trade-zone-bond-market-after-2023-crackdown",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-08-12",
-      "time": "01:26",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-08-12-afa93fa2",
@@ -532,20 +560,6 @@
       "category": "politics",
       "date": "2026-08-12",
       "time": "08:05",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-12-894d15a6",
-      "headline": "Lisa Demuth Defeats Trump-Endorsed Candidate Mike Lindell in GOP Primary for Governor of Minnesota",
-      "summary": "Lisa Demuth beat Mike Lindell, the MyPillow founder who was endorsed by President Trump.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-12",
-      "time": "03:32",
       "conflict_id": null,
       "score": 25.2
     },
@@ -578,16 +592,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-12-5ff30b6a",
-      "headline": "Rebecca Cooke Wins Democratic Primary for Key Wisconsin House Seat",
-      "summary": "Ms. Cooke, a three-time congressional candidate, held a huge fund-raising edge in a western Wisconsin race that Democrats consider pivotal to their hopes of flipping the House.",
+      "id": "2026-08-12-7f355252",
+      "headline": "Amy Klobuchar Wins Minnesota’s Democratic Primary for Governor",
+      "summary": "The fourth-term U.S. senator jolted Minnesota politics early this year by mounting a bid to succeed Gov. Tim Walz.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/11/us/politics/wisconsin-democratic-primary-berge-cooke.html",
-      "region": "NA",
-      "country": "Congress",
+      "url": "https://www.nytimes.com/2026/08/11/us/klobuchar-minnesota-governor.html",
+      "region": "EU",
+      "country": "NATO",
       "category": "politics",
       "date": "2026-08-12",
-      "time": "02:23",
+      "time": "01:28",
       "conflict_id": null,
       "score": 25.2
     },
@@ -632,6 +646,34 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-12-47cd0df0",
+      "headline": "UK heatwaves may have cost economy £4.4bn in lost output so far this year, analysis finds",
+      "summary": "Verdant thinktank says cost could top £25bn a year by 2030 and calls for maximum temperature for working and urban redesign to cool down citiesRepeated debilitating heatwaves this summer are likely to have cost the UK economy more than £4bn in lost economic output by the end of July, new analysis shows.Green thinktank Verdant had suggested June’s unseasonally hot weather had an economic cost of £2.36bn. Updating its assessment to include last mon",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/business/2026/aug/12/heatwaves-uk-cost-economy-lost-output-thinktank",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-12",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-08-12-3f1285b0",
+      "headline": "Japan examines defense sector financing by top lenders",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/finance/japan-examines-defense-sector-financing-by-top-lenders",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-08-12",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-08-12-9af2eae6",
@@ -690,20 +732,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-12-288a7f8f",
-      "headline": "Southeast Asia is luxury testbed for China's big new export drive",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/business-asia/southeast-asia-is-luxury-testbed-for-china-s-big-new-export-drive",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-12",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-08-12-8f6d737c",
       "headline": "Hiroshi Okuda, Toyota president who led global expansion, dead at 93",
       "summary": "",
@@ -746,18 +774,18 @@
       "score": 44.9
     },
     {
-      "id": "2026-08-11-d9014601",
-      "headline": "Watch: What is it like to travel on Air Force One with Trump?",
-      "summary": "Donald Trump secretly swapped planes as he left a Nato summit in Turkey last month, deceiving even the press pool who flew on board without him.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy4k1jldxnwo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Turkey",
-      "category": "politics",
+      "id": "2026-08-11-6af45216",
+      "headline": "Human rights groups sue Trump administration over International Criminal Court sanctions",
+      "summary": "The president signed an executive order in 2025 placing sanctions on the ICC, whose jurisdiction the U.S. does not recognize.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/11/human-rights-groups-sue-trump-administration-over-international-criminal-court-sanctions/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-08-11",
-      "time": "21:49",
+      "time": "17:31",
       "conflict_id": null,
-      "score": 43.0
+      "score": 40.9
     },
     {
       "id": "2026-08-11-bc3bc6d8",
@@ -798,20 +826,6 @@
       "category": "geopolitics",
       "date": "2026-08-11",
       "time": "23:36",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-11-6af45216",
-      "headline": "Human rights groups sue Trump administration over International Criminal Court sanctions",
-      "summary": "The president signed an executive order in 2025 placing sanctions on the ICC, whose jurisdiction the U.S. does not recognize.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/11/human-rights-groups-sue-trump-administration-over-international-criminal-court-sanctions/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-11",
-      "time": "17:31",
       "conflict_id": null,
       "score": 32.9
     },
@@ -1108,20 +1122,6 @@
       "time": "14:51",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-08-05-121db7a3",
-      "headline": "What tariffs has Trump introduced and why?",
-      "summary": "Trump's volatile trade policy has thrown the world economy into chaos, and put some US prices up.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn93e12rypgo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-08-05",
-      "time": "22:47",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-05-796f5585",
