@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-13T21:08:51.548535+00:00",
-  "story_count": 84,
+  "updated": "2026-08-13T21:58:31.889449+00:00",
+  "story_count": 82,
   "source_count": 9,
   "stories": [
     {
@@ -15,7 +15,7 @@
       "date": "2026-08-13",
       "time": "17:13",
       "conflict_id": "ukraine-war",
-      "score": 60.0
+      "score": 52.0
     },
     {
       "id": "2026-08-13-4bf58ffa",
@@ -46,20 +46,6 @@
       "score": 45.0
     },
     {
-      "id": "2026-08-13-c1a5d5c7",
-      "headline": "Iran's military rejects Trump's claims of US control over Strait of Hormuz as 'lies'",
-      "summary": "Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war on 28 February, requiring vessels to obtain permission and pay transit fees before using the waterway.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "13:50",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-08-13-80c26c1a",
       "headline": "Sudan army says RSF advance on key town bordering Ethiopia",
       "summary": "Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.",
@@ -86,20 +72,6 @@
       "time": "19:36",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-08-13-a92335ff",
-      "headline": "Major Russian grain export terminals hit in Ukraine Black Sea port attack",
-      "summary": "Grain exports from both Russia and Ukraine are falling as both countries attack each other's shipping facilities and ports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y49xp2wrno?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "03:28",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-08-13-7c813324",
@@ -144,6 +116,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-08-13-78aaabda",
+      "headline": "Poland arrests man who allegedly tried to kill Ukrainian American",
+      "summary": "The suspect has been identified as a Russian citizen who planned to kill one of Moscow&#039;s critics in Warsaw.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/poland-arrests-man-who-allegedly-tried-to-kill-ukrainian-american?traffic_source=rss",
+      "region": "EU",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "18:04",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-13-1df8ed95",
       "headline": "DR Congo Ebola outbreak spreads to a sixth province",
       "summary": "Ebola outbreak has killed 2,128 people out of around 4,566 recorded cases in the DRC, according to government figures.",
@@ -158,34 +144,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-13-e7b6cf43",
-      "headline": "Iran says Strait of Hormuz under its control, rejects Trump claims",
-      "summary": "Iran asserts full control over the Strait of Hormuz, challenging US claims of dominance in the strategic waterway.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/iran-says-strait-of-hormuz-under-its-control-rejects-trump-claims?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "14:59",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-13-8a8598f1",
-      "headline": "Lebanese Americans sue US over Israel’s rights abuses in Lebanon war",
-      "summary": "Michigan-based group leads class action lawsuit against US government and defence contractors over Lebanon war abuses.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/lebanese-americans-sue-us-over-israels-rights-abuses-in-lebanon-war?traffic_source=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "14:02",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
       "id": "2026-08-13-5e4d72a4",
       "headline": "One dead, several injured in Rotterdam port blast at Gunvor refinery",
       "summary": "The Netherlands is investigating an explosion at the port of Rotterdam that killed one person and injured several others on Thursday, 13 August. The blast happened at about 11:30 a.m. at an oil facility in the Europoort industrial section of Europe’s largest port.",
@@ -196,6 +154,20 @@
       "category": "business",
       "date": "2026-08-13",
       "time": "15:31",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-13-c1a5d5c7",
+      "headline": "Iran's military rejects Trump's claims of US control over Strait of Hormuz as 'lies'",
+      "summary": "Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war on 28 February, requiring vessels to obtain permission and pay transit fees before using the waterway.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/13/irans-military-rejects-trumps-claims-of-us-control-over-strait-of-hormuz-as-lies",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "13:50",
       "conflict_id": null,
       "score": 37.0
     },
@@ -256,6 +228,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-08-13-ed40dae6",
+      "headline": "Yen Edges Toward 160 Despite Takaichi’s Support for BOJ Hike",
+      "summary": "The yen remains within striking distance of a crucial level against the dollar, even after Prime Minister Sanae Takaichi’s government was said to support an interest-rate hike.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/yen-remains-on-160-watch-despite-takaichi-s-support-for-boj-hike",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "09:29",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-08-13-25d890b9",
       "headline": "Costliest US Bond Sale Since ’01 Is Investor Warning to Bessent",
       "summary": "The US government sold 30-year bonds at the highest interest rate in a quarter of a century, a testament to investors’ demand for greater compensation to finance the nation’s growing deficit.",
@@ -284,20 +270,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-13-4cc192a2",
-      "headline": "Stay In The Belly Of The Curve: BlackRock's Chaudhuri",
-      "summary": "Gargi Chaudhuri, chief investment and portfolio strategist, Americas at BlackRock, joins Emily Graffeo on \"Real Yield.\" The US government sold 30-year bonds at the highest interest rate in a quarter of a century, reflecting a relentless selloff that’s stirred speculation the nation will tilt borrowing further toward short-dated maturities. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/stay-in-the-belly-of-the-curve-blackrock-s-chaudhuri-video",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "19:50",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-08-13-809dfa5f",
       "headline": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
       "summary": "A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.",
@@ -321,7 +293,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-08-13",
-      "time": "20:02",
+      "time": "21:52",
       "conflict_id": null,
       "score": 33.2
     },
@@ -480,6 +452,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-13-c54a2dcc",
+      "headline": "SEC Delays Crypto Regulation Meeting in Latest Industry Setback",
+      "summary": "The Securities and Exchange Commission canceled a Friday meeting where the agency was expected to unveil new plans for digital assets as landmark crypto legislation remains stalled in Congress.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/sec-delays-crypto-regulation-meeting-in-latest-industry-setback",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "21:53",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-b694094a",
+      "headline": "Judge Orders Kalshi to Stop Offering Most Wagers in Washington",
+      "summary": "Kalshi was told by a judge to stop offering most of its prediction market contracts in Washington state, after regulators said they likely constituted an illegal gambling operation.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/judge-orders-kalshi-to-stop-offering-most-wagers-in-washington",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "21:46",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-13-72fd60e8",
       "headline": "Why It’s So Hard to Measure the Economy’s Real Potential",
       "summary": "It’s tough to measure the economy’s true potential",
@@ -564,20 +564,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-13-e6d07938",
-      "headline": "Zaman: Rise in Japanese Long Yields Could Support Yen",
-      "summary": "Bloomberg has learned Japanese Prime Minister Sanae Takaichi's government is supportive of a near-term rate hike by the Bank of Japan, with the next move likely either in September or October. This is after the yen edged closer to the key 160-per-dollar level. Mahjabeen Zaman, ANZ’s Head of FX Research spoke to Bloomberg’s Abeer Abu Omar on the efforts to shore up the currency. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/zaman-rise-in-japanese-long-yields-could-support-yen-video",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "06:06",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-13-beca0f61",
       "headline": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
       "summary": "The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.",
@@ -587,35 +573,7 @@
       "country": "Congress",
       "category": "politics",
       "date": "2026-08-13",
-      "time": "21:04",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-13-90bd5b44",
-      "headline": "Trump’s Immigration Policy Echoes 1920s Crackdown, but This Time Congress Isn’t Involved",
-      "summary": "U.S. leaders limited immigration amid economic and social turmoil. Historians see similarities to Trump’s crackdown, with a catch: He’s doing it without Congress.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/trump-immigration-crackdown.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "18:08",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-13-edb82bbf",
-      "headline": "U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown",
-      "summary": "The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "18:15",
+      "time": "21:49",
       "conflict_id": null,
       "score": 25.2
     },
@@ -634,37 +592,9 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-13-7510a848",
-      "headline": "Australia news live: KPMG apologises to whistleblower as firm fronts inquiry over ethical failures",
-      "summary": "Parliamentary committee continues investigation into KPMG audit leaks. Follow today’s news liveGet our breaking news email, free app or daily news podcastThe Labor-led parliamentary committee investigating KPMG’s audit leaks has put pressure on the Albanese government to reform laws that could have protected the scandal’s whistleblower.The committee, which includes five Labor MPs, on 9 July asked Anthony Albanese to urgently fix whistleblower pro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "20:51",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-08-13-7ea797ff",
-      "headline": "One Nation staffer accused of posing as leftwing content creator in ‘undercover’ videos",
-      "summary": "Exclusive: The videos, filmed at anti-One Nation rallies, were posted to party’s social pages and appear to be endorsed by Pauline HansonGet our breaking news email, free app or daily news podcastThe owners of a progressive social media page have accused One Nation of impersonating them at anti-Pauline Hanson rallies while shooting a series of “undercover” videos.Hanson’s party has recently published a string of videos with a young male host atte",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/14/one-nation-staffer-accused-of-posing-as-leftwing-content-creator-in-undercover-videos-ntwnfb",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-08-13-f0aecc60",
       "headline": "‘Melancholic fantasy’: Wong escalates Labor rhetoric against Hanson, condemning ‘monoculture’ comment",
-      "summary": "Foreign affairs minister and first Asian-Australian to serve in federal cabinet to use Lowy Institute address to criticise politicians stoking racial divisionsGet our breaking news email, free app or daily news podcastLabor has escalated its pushback on One Nation’s surging political support, with the foreign affairs minister, Penny Wong, labelling Pauline Hanson’s push for a monoculture a “melancholic fantasy” that would harm national security.W",
+      "summary": "Foreign affairs minister and first Asian-Australian to serve in federal cabinet to use Lowy Institute address to criticise politicians stoking racial divisionsFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastLabor has escalated its pushback on One Nation’s surging political support, with the foreign affairs minister, Penny Wong, labelling Pauline Hanson’s push for a monoculture a “me",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/aug/13/penny-wong-labor-rhetoric-pauline-hanson-monoculture-ntwnfb",
       "region": "APJ",
@@ -676,16 +606,30 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-13-e611e30a",
-      "headline": "Oman says massive oil spill reaches coastline: What damage could it do?",
-      "summary": "Oil has been spilling from the Caroline Bezengi, a tanker that has been leaking crude since running aground off Oman.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/oman-says-massive-oil-spill-reaches-coastline-what-damage-could-it-do?traffic_source=rss",
-      "region": "MENA",
-      "country": "Oman",
-      "category": "business",
+      "id": "2026-08-13-c8583c0a",
+      "headline": "Nearly 100 children detained as adults under UK-France migration deal",
+      "summary": "Figures emerge in critical letter to Home Office from organisation appointed to scrutinise detention facilitiesNearly 100 children have been wrongly identified and detained as adults under Shabana Mahmood’s “one in, one out” deal with France, the Guardian can disclose.Home Office staff said that of 304 age-disputed cases arising from the scheme over nine months, 94 (31%) – were ultimately found to be minors. Children are supposed to be excluded f",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/uk-news/2026/aug/13/children-detained-adults-one-in-one-out-deal-uk-france-migration",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
       "date": "2026-08-13",
-      "time": "14:29",
+      "time": "18:13",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-08-13-ce6bdfbf",
+      "headline": "What’s at stake in Zambia’s elections?",
+      "summary": "The economy dominates voter concerns in the southern African country.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/13/whats-at-stake-in-zambias-elections?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "21:04",
       "conflict_id": null,
       "score": 23.4
     },
@@ -730,6 +674,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-08-13-93364d7b",
+      "headline": "Polls close in UK by-election with Nigel Farage and Count Binface going head-to-head",
+      "summary": "Vote counting has already begun and will continue through the night with a result expected by around 7:00 am local time on Friday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/13/reform-uk-leader-nigel-farage-and-count-binface-go-head-to-head-in-snap-uk-poll",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "21:05",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-08-13-1e237e75",
@@ -812,6 +770,20 @@
       "category": "politics",
       "date": "2026-08-12",
       "time": "21:28",
+      "conflict_id": null,
+      "score": 32.9
+    },
+    {
+      "id": "2026-08-12-4566b00d",
+      "headline": "President Trump appears, and briefly stars, at his Patriot Games",
+      "summary": "The three-day athletic event in Ohio featured dodgeball, tug-of-war and a lot of praise for the president. Just don't tell anyone who won.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/11/president-trump-appears-briefly-stars-his-patriot-games/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-12",
+      "time": "01:15",
       "conflict_id": null,
       "score": 32.9
     },
@@ -954,6 +926,20 @@
       "time": "19:27",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-11-f2aa94db",
+      "headline": "Pentagon report reveals steep civilian toll of Trump’s Yemen campaign",
+      "summary": "The military operation was the first following Defense Secretary Pete Hegseth’s dismantling of an office focused on mitigating unintended casualties.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/11/nearly-400-civilians-killed-wounded-us-strikes-yemen-last-year/",
+      "region": "NA",
+      "country": "Pentagon",
+      "category": "geopolitics",
+      "date": "2026-08-11",
+      "time": "23:36",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-08-11-b12dbd8a",
@@ -1110,20 +1096,6 @@
       "score": 47.0
     },
     {
-      "id": "2026-08-08-fe09e46c",
-      "headline": "Hundreds arrested over French wildfires, but who is to blame?",
-      "summary": "The government is trying to attribute blame for the unprecedented fires which tore through the country last month.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgxjn92x9jo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-08",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-08-a70e5e38",
       "headline": "Australia is the planet's extinction hotspot, but one animal offers a glimmer of hope",
       "summary": "The country is home to some of the world's most unique species - but it is losing them at an alarming rate.",
@@ -1163,7 +1135,7 @@
       "date": "2026-08-06",
       "time": "14:20",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-08-06-0e2500f0",
