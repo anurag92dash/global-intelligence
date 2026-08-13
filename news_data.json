@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T20:16:57.258336+00:00",
-  "story_count": 85,
-  "source_count": 10,
+  "updated": "2026-08-13T21:08:51.548535+00:00",
+  "story_count": 84,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-13-91bf9c26",
@@ -16,6 +16,34 @@
       "time": "17:13",
       "conflict_id": "ukraine-war",
       "score": 60.0
+    },
+    {
+      "id": "2026-08-13-4bf58ffa",
+      "headline": "Russian plot to kill Ukrainian American thwarted in Warsaw, says Polish PM",
+      "summary": "Donald Tusk says it is first time ‘someone on the order of Russia’ has sought to attack US citizen in Nato countryA Russian plan to kill a Ukrainian American citizen in Warsaw was thwarted by Poland before it could be carried out, the Polish prime minister has said.Donald Tusk said it was the first time that “someone on the order of Russia” had sought to attack a US citizen on the territory of another Nato country. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/russian-plot-kill-ukrainian-american-thwarted-poland-says-polish-pm",
+      "region": "EU",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "19:32",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
+      "id": "2026-08-13-811729d1",
+      "headline": "Poland thwarts unprecedented plot by Russia to kill Ukrainian-US citizen in a NATO country, PM Tusk says",
+      "summary": "Poland, a NATO and EU member state along the alliance's Eastern flank, has accused Russia of \"sabotage\" on several occasions since Moscow's full-scale invasion of Ukraine in 2022.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/13/poland-thwarts-unprecedented-plot-by-russia-to-kill-ukrainian-us-citizen-in-a-nato-country",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "15:05",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-08-13-c1a5d5c7",
@@ -58,20 +86,6 @@
       "time": "19:36",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-08-13-b6a6668b",
-      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "19:46",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-08-13-a92335ff",
@@ -154,20 +168,6 @@
       "category": "geopolitics",
       "date": "2026-08-13",
       "time": "14:59",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-13-b1c0f2fb",
-      "headline": "Ukraine attacks key Russian grain terminal on Black Sea port",
-      "summary": "Ukraine has damaged Russia’s grain export terminals in an attack on the Novorossiysk port.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/13-08-sv-ukraine-russia-grain-attack-ur?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "14:29",
       "conflict_id": null,
       "score": 39.4
     },
@@ -256,6 +256,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-08-13-25d890b9",
+      "headline": "Costliest US Bond Sale Since ’01 Is Investor Warning to Bessent",
+      "summary": "The US government sold 30-year bonds at the highest interest rate in a quarter of a century, a testament to investors’ demand for greater compensation to finance the nation’s growing deficit.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/us-braces-for-30-year-bond-auction-at-highest-yield-since-2001",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "08:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-08-13-8f524346",
       "headline": "‘SaaSpocalypse’ Risk From AI Reaches Beyond Private Equity",
       "summary": "Bloomberg's Paula Seligson said that specific subsets of the software industry are especially at risk from the 'SaaSpocalypse' — the selloff of companies based around 'software-as-a-service — as artificial intelligence replaces software functionality for things like data visualization. Seligson said that right now investors are trying to figure out the reality of the risk around the 'SaaSpocalypse' and which companies most vulnerable. \n (Source: ",
@@ -282,6 +296,20 @@
       "time": "19:50",
       "conflict_id": null,
       "score": 34.1
+    },
+    {
+      "id": "2026-08-13-809dfa5f",
+      "headline": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
+      "summary": "A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "18:14",
+      "conflict_id": null,
+      "score": 33.2
     },
     {
       "id": "2026-08-13-3cfebb35",
@@ -368,20 +396,6 @@
       "score": 30.8
     },
     {
-      "id": "2026-08-13-2e61126f",
-      "headline": "Romania shuts off second reactor at Cernavodă NPP amid low water levels on Danube",
-      "summary": "Nearly two-thirds of the Danube has seen flow rates that are the lowest on record for a month of July in 34 years, according to an analysis published on Monday by the European climate change observatory, Copernicus.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/13/romania-shuts-off-second-reactor-at-cernavoda-npp-amid-low-water-levels-on-danube",
-      "region": "EU",
-      "country": "Romania",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "13:01",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-08-13-5a5c94e5",
       "headline": "Eurovision Song Contest 2027 to be held in Burgas, Bulgaria",
       "summary": "The Black Sea location has been selected after Bulgarian singer Dara won this year's contest.",
@@ -466,6 +480,76 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-13-72fd60e8",
+      "headline": "Why It’s So Hard to Measure the Economy’s Real Potential",
+      "summary": "It’s tough to measure the economy’s true potential",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-13/why-it-s-so-hard-to-measure-the-economy-s-real-potential",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "21:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-86ddc2e2",
+      "headline": "Winklevosses’ Gemini Posts Another Loss, Revenue Increases",
+      "summary": "Gemini Space Station Inc., the digital-asset platform led by the billionaires Tyler and Cameron Winklevoss that went public last year just before the crypto market tumbled from record highs, posted a fourth consecutive quarterly loss since the IPO.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/winklevosses-gemini-posts-another-loss-revenue-increases",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "21:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-20c063d0",
+      "headline": "Emerging Market Stocks Hit One-Month High as AI Trade Roars Back",
+      "summary": "Emerging-market stocks rose for a second straight session on Thursday, with the index hitting the highest level in more than a month amid a resurgence in the artificial-intelligence trade.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/korea-stock-bulls-drive-second-day-of-emerging-market-gains",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "09:22",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-6488c088",
+      "headline": "Hertz Shares Fall After Ackman’s Pershing Exits Its Stake",
+      "summary": "Hertz Global Holdings Inc. shares tumbled as Pershing Square Inc.’s chief investment officer said the asset management firm has sold its stake in the car-rental company.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/hertz-shares-fall-after-ackman-s-pershing-sells-stake-in-firm",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "18:22",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-7021c368",
+      "headline": "UAE, Qatari Firms Debut in Venezuela Through BP-Led Gas Deal",
+      "summary": "Arab Gulf companies are making their debut in Venezuela through an offshore natural gas project to be operated by BP Plc.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/uae-qatari-firms-debut-in-venezuela-through-bp-led-gas-deal",
+      "region": "MENA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "20:26",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-13-65248733",
       "headline": "'Pile On' Real Yields, Enduring Environment: Wrzesniewsky",
       "summary": "Gargi Chaudhuri, chief investment and portfolio strategist, Americas at BlackRock, and Matt Wrzesniewsky, head of fixed income client portfolio management at Vanguard,  join Emily Graffeo on \"Real Yield.\" (Source: Bloomberg)",
@@ -476,20 +560,6 @@
       "category": "business",
       "date": "2026-08-13",
       "time": "20:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-66c46d31",
-      "headline": "Diversified Said to Near Deal for Elliott-Backed Birch",
-      "summary": "Diversified Energy Co. is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "19:55",
       "conflict_id": null,
       "score": 26.1
     },
@@ -508,74 +578,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-13-d1a24cab",
-      "headline": "Still Seeing Credit Stress Under Surface: Cudzil",
-      "summary": "Jerry Cudzil generalist portfolio manager, fixed income at TCW, joins Emily Graffeo on \"Real Yield.\" As a flood of debt sales by US tech companies ripples through the credit market, it seems to be triggering an inadvertent rise in risk metrics for some of the world’s safest firms. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/still-seeing-credit-stress-under-surface-cudzil-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "19:40",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-e156bc21",
-      "headline": "US Pays Highest Yield on 30-Year Debt in Quarter of a Century",
-      "summary": "Patrick McHenry, former Republican congressman from North Carolina and former House Financial Services Committee chairman, said that Thursday's bond sale is a 'wake up sign' for the country on government debt and deficit, as the US government sold 30-year bonds at the highest rate since 2001.  McHenry said that it is time for the government to take action on overspending, but that change has to begin with the American people raising the issue.  (",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-pays-highest-yield-on-30-year-debt-since-2001-video",
+      "id": "2026-08-13-beca0f61",
+      "headline": "U.S.S. Abraham Lincoln Has Been Deployed for Months, Prompting Concerns",
+      "summary": "The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html",
       "region": "NA",
       "country": "Congress",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "19:18",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-b93b66c7",
-      "headline": "US Debt Sales See No Summer Slowdown",
-      "summary": "Tony Rodriguez, head of fixed income strategy at Nuveen Asset Management, and Jerry Cudzil generalist portfolio manager, fixed income at TCW, join Emily Graffeo on \"Real Yield.\" August is often one of the slowest months of the year, averaging $95 billion of investment-grade bond sales since 2019. This August though has already seen $130 billion in sales. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/us-debt-sales-see-no-summer-slowdown-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "18:58",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-cc7bb399",
-      "headline": "Japan On Possible Yen Intervention Watch",
-      "summary": "Bloomberg's Anya Andrianova joins Emily Graffeo on \"Real Yield.\" The yen remains within striking distance of a crucial level against the dollar, even after Prime Minister Sanae Takaichi’s government was said to support an interest-rate hike. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-13/japan-on-possible-yen-intervention-watch-video",
-      "region": "APJ",
-      "country": "Japan",
       "category": "politics",
       "date": "2026-08-13",
-      "time": "18:49",
+      "time": "21:04",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-13e346e2",
-      "headline": "Is the LA Lakers’ sale a sign of sports investment gone mad?",
-      "summary": "$12.5bn price tag is highest ever for an American sports team",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/08/13/is-the-la-lakers-sale-a-sign-of-sports-investment-gone-mad",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "13:12",
-      "conflict_id": null,
-      "score": 25.8
+      "score": 25.2
     },
     {
       "id": "2026-08-13-90bd5b44",
@@ -606,20 +620,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-13-f7775d51",
-      "headline": "In This State, an Intense Fight in the G.O.P. for Control of the Right",
-      "summary": "Wyoming, one of the most conservative states, has a legislature divided between a hard-right House and a merely right Senate. Ultraconservatives want a complete takeover in the Aug. 18 primaries.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "15:30",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-08-13-53ea4dbc",
       "headline": "Zambia elections haunted by ghost of incumbent president’s arch-rival",
       "summary": "Hakainde Hichilema is bidding for second term, but feud between him and family of Edgar Lungu, who died in 2025, continuesAs Zambians go to the polls on Thursday, the ghost of the current president’s predecessor hangs over the elections.Hakainde Hichilema, 64, is bidding for a second term leading the southern African country after defeating his arch-rival Edgar Lungu by a landslide in 2021. Continue reading...",
@@ -630,6 +630,20 @@
       "category": "politics",
       "date": "2026-08-13",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-08-13-7510a848",
+      "headline": "Australia news live: KPMG apologises to whistleblower as firm fronts inquiry over ethical failures",
+      "summary": "Parliamentary committee continues investigation into KPMG audit leaks. Follow today’s news liveGet our breaking news email, free app or daily news podcastThe Labor-led parliamentary committee investigating KPMG’s audit leaks has put pressure on the Albanese government to reform laws that could have protected the scandal’s whistleblower.The committee, which includes five Labor MPs, on 9 July asked Anthony Albanese to urgently fix whistleblower pro",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/14/australia-news-live-kpmg-inquiry-icac-alan-jones-trial-gst-treasurer-jim-chalmers-anthony-albanese-angus-taylor-pauline-hanson-labor-liberals-one-nation-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "20:51",
       "conflict_id": null,
       "score": 24.0
     },
@@ -676,6 +690,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-08-13-ac3f8f46",
+      "headline": "Can Takaichi's $2.3tn bet on industrial policy revive growth in Japan?",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/policy-asia/can-takaichi-s-2.3tn-bet-on-industrial-policy-revive-growth-in-japan",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-13-4715437a",
       "headline": "Pakistan faces unprecedented challenge from its Kashmir unrest",
       "summary": "",
@@ -695,20 +723,6 @@
       "summary": "",
       "source": "Nikkei Asia",
       "url": "https://asia.nikkei.com/business/markets/optimism-grows-for-broader-japanese-stocks-amid-chip-concerns",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-13-21ed423b",
-      "headline": "Sony, TSMC deal brings overseas investment in Japan chipmaking to $37bn",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/tech/semiconductors/sony-tsmc-deal-brings-overseas-investment-in-japan-chipmaking-to-37bn",
       "region": "APJ",
       "country": "Japan",
       "category": "business",
@@ -786,34 +800,6 @@
       "time": "19:56",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-12-0febd9e4",
-      "headline": "Two Sigma’s Overdeck Offered Wife $633 Million, Lawyer Says",
-      "summary": "Two Sigma Investments’ billionaire co-founder John Overdeck schemed to leave his wife Laura “with as little as possible,” her lawyer said as the couple’s divorce trial began, an amount she pegged at $633 million.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/two-sigma-s-overdeck-offered-wife-633-million-her-lawyer-says",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-12",
-      "time": "19:51",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-12-c1424372",
-      "headline": "Latest Oil Market News and Analysis for Aug. 13",
-      "summary": "Oil snapped its run of recent gains, as limited progress over a deal to end the Iran war left traders parsing how much oil is crossing the Strait of Hormuz.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-12/latest-oil-market-news-and-analysis-for-aug-13",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-08-12",
-      "time": "22:02",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-08-12-b26cd628",
