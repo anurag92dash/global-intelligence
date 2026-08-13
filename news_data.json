@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-13T19:40:32.238121+00:00",
-  "story_count": 86,
-  "source_count": 9,
+  "updated": "2026-08-13T20:16:57.258336+00:00",
+  "story_count": 85,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-13-91bf9c26",
@@ -18,20 +18,6 @@
       "score": 60.0
     },
     {
-      "id": "2026-08-13-b6a6668b",
-      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "19:20",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-08-13-c1a5d5c7",
       "headline": "Iran's military rejects Trump's claims of US control over Strait of Hormuz as 'lies'",
       "summary": "Iran has kept control of Hormuz, a vital energy conduit, since the outbreak of the war on 28 February, requiring vessels to obtain permission and pay transit fees before using the waterway.",
@@ -44,6 +30,48 @@
       "time": "13:50",
       "conflict_id": null,
       "score": 45.0
+    },
+    {
+      "id": "2026-08-13-80c26c1a",
+      "headline": "Sudan army says RSF advance on key town bordering Ethiopia",
+      "summary": "Military and government sources say the paramilitary RSF and allies advance into town of Kurmuk in Blue Nile state.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/13/sudan-army-says-rsf-advance-on-key-town-bordering-ethiopia?traffic_source=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "19:53",
+      "conflict_id": "sudan-civil-war",
+      "score": 43.4
+    },
+    {
+      "id": "2026-08-13-022c6e76",
+      "headline": "Israeli forces order families to evacuate homes in Qusra",
+      "summary": "Israeli forces have ordered Palestinian families in the occupied West Bank to evacuate their homes in Qusra",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/13/israeli-forces-order-families-to-evacuate-homes-in-qusra?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "19:36",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
+      "id": "2026-08-13-b6a6668b",
+      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
+      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Romania",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "19:46",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-13-a92335ff",
@@ -70,20 +98,6 @@
       "category": "geopolitics",
       "date": "2026-08-13",
       "time": "15:48",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
-    },
-    {
-      "id": "2026-08-13-98db8afe",
-      "headline": "Russian forces strike second passenger train in Ukraine's Odesa region",
-      "summary": "The latest attack comes as the United Nations recorded a record-number of civilian deaths in Ukraine in July, the highest monthly toll since May 2022.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/13/russian-drone-attack-on-passenger-train-in-ukraines-odesa-region-kills-two-people",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "12:15",
       "conflict_id": "ukraine-war",
       "score": 41.0
     },
@@ -228,20 +242,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-13-ea777beb",
-      "headline": "Style war: inside Wall Street’s battle to revive J Crew",
-      "summary": "High debt, management turmoil and Trump tariffs hinder Anchorage Capital’s turnaround plan",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7d443952-1cfb-4254-a615-188c25849789?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
       "id": "2026-08-13-0681c00b",
       "headline": "Trump enlists US tech groups for cyber privateering push",
       "summary": "Move echoes American Revolutionary War-era strategy of employing civilians to battle adversaries",
@@ -256,46 +256,32 @@
       "score": 34.4
     },
     {
-      "id": "2026-08-13-e3fcb50b",
-      "headline": "Costliest US Bond Sale Since ‘01 Is Investor Warning to Bessent",
-      "summary": "The US government sold 30-year bonds at the highest interest rate in a quarter of a century, a testament to investors’ demand for compensation to finance the nation’s growing deficit.",
+      "id": "2026-08-13-8f524346",
+      "headline": "‘SaaSpocalypse’ Risk From AI Reaches Beyond Private Equity",
+      "summary": "Bloomberg's Paula Seligson said that specific subsets of the software industry are especially at risk from the 'SaaSpocalypse' — the selloff of companies based around 'software-as-a-service — as artificial intelligence replaces software functionality for things like data visualization. Seligson said that right now investors are trying to figure out the reality of the risk around the 'SaaSpocalypse' and which companies most vulnerable. \n (Source: ",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/us-braces-for-30-year-bond-auction-at-highest-yield-since-2001",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "08:00",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-13-ed40dae6",
-      "headline": "Yen Edges Toward 160 Despite Takaichi’s Support for BOJ Hike",
-      "summary": "The yen remains within striking distance of a crucial level against the dollar, even after Prime Minister Sanae Takaichi’s government was said to support an interest-rate hike.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/yen-remains-on-160-watch-despite-takaichi-s-support-for-boj-hike",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "09:29",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-13-809dfa5f",
-      "headline": "California May Let Residents Choose ‘Jewish’ as an Ethnic Identifier",
-      "summary": "A bill would allow Jews to identify themselves as an ethnic group on state forms. Supporters argue it’s a step toward acknowledging the complex nature of Jewish identity.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/13/us/california-jewish-ethnic-identity.html",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/-saaspocalypse-risk-from-ai-reaches-past-private-equity-video",
       "region": "NA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-08-13",
-      "time": "18:14",
+      "time": "20:10",
       "conflict_id": null,
-      "score": 33.2
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-13-4cc192a2",
+      "headline": "Stay In The Belly Of The Curve: BlackRock's Chaudhuri",
+      "summary": "Gargi Chaudhuri, chief investment and portfolio strategist, Americas at BlackRock, joins Emily Graffeo on \"Real Yield.\" The US government sold 30-year bonds at the highest interest rate in a quarter of a century, reflecting a relentless selloff that’s stirred speculation the nation will tilt borrowing further toward short-dated maturities. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/stay-in-the-belly-of-the-curve-blackrock-s-chaudhuri-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "19:50",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-08-13-3cfebb35",
@@ -307,7 +293,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-08-13",
-      "time": "18:35",
+      "time": "20:02",
       "conflict_id": null,
       "score": 33.2
     },
@@ -438,6 +424,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-13-c5f001a8",
+      "headline": "FBI seized phone of Guggenheim executive in probe of Mark Walter’s business empire",
+      "summary": "US scrutiny of billionaire’s sprawling finance holdings reached beyond insurers into securities and asset management giant",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c92400d8-15d8-44fb-a069-37c29141c5ae?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "20:04",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-08-13-d57aefcf",
       "headline": "Anthropic investors bet on $2tn valuation in record IPO",
       "summary": "Rapid revenue growth fuels hope Claude maker can overcome challenges to become the biggest listing in history",
@@ -446,20 +446,6 @@
       "region": "EU",
       "country": null,
       "category": "business",
-      "date": "2026-08-13",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-13-bad706e7",
-      "headline": "Shock Wisconsin vote triggers doubt over US election polling",
-      "summary": "Structural problems in political forecasting resurface just months ahead of November’s midterms",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/fcfacc72-8ed8-4bb4-ab23-16986abf0f5a",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
       "date": "2026-08-13",
       "time": "04:00",
       "conflict_id": null,
@@ -478,6 +464,62 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-13-65248733",
+      "headline": "'Pile On' Real Yields, Enduring Environment: Wrzesniewsky",
+      "summary": "Gargi Chaudhuri, chief investment and portfolio strategist, Americas at BlackRock, and Matt Wrzesniewsky, head of fixed income client portfolio management at Vanguard,  join Emily Graffeo on \"Real Yield.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/pile-on-real-yields-enduring-environment-wrzesniewsky-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "20:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-66c46d31",
+      "headline": "Diversified Said to Near Deal for Elliott-Backed Birch",
+      "summary": "Diversified Energy Co. is in advanced talks to acquire Elliott Investment Management-backed oil and gas company Birch Resources for more than $1.7 billion in cash, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-13/diversified-said-to-near-deal-for-elliott-backed-birch",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "19:55",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-e6d07938",
+      "headline": "Zaman: Rise in Japanese Long Yields Could Support Yen",
+      "summary": "Bloomberg has learned Japanese Prime Minister Sanae Takaichi's government is supportive of a near-term rate hike by the Bank of Japan, with the next move likely either in September or October. This is after the yen edged closer to the key 160-per-dollar level. Mahjabeen Zaman, ANZ’s Head of FX Research spoke to Bloomberg’s Abeer Abu Omar on the efforts to shore up the currency. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/zaman-rise-in-japanese-long-yields-could-support-yen-video",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "06:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-13-d1a24cab",
+      "headline": "Still Seeing Credit Stress Under Surface: Cudzil",
+      "summary": "Jerry Cudzil generalist portfolio manager, fixed income at TCW, joins Emily Graffeo on \"Real Yield.\" As a flood of debt sales by US tech companies ripples through the credit market, it seems to be triggering an inadvertent rise in risk metrics for some of the world’s safest firms. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-13/still-seeing-credit-stress-under-surface-cudzil-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-13",
+      "time": "19:40",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-13-e156bc21",
@@ -522,60 +564,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-13-ddd24241",
-      "headline": "BlackRock’s Rieder Says Yen Rebound Hinges on BOJ Hawkishness",
-      "summary": "Supporting the yen will take more than government intervention and will need hawkish signals from the Bank of Japan, said Rick Rieder, chief investment officer for global fixed income at BlackRock Inc.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/blackrock-s-rieder-says-yen-rebound-hinges-on-boj-hawkishness",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "18:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-c26fa13f",
-      "headline": "La Caisse Posts 5% First-Half Return as Stocks Rally, Private Equity Slumps",
-      "summary": "Caisse de Depot et Placement du Quebec, Canada’s second-largest pension manager, fell short of its benchmark in the first half of the year as losses on private equity holdings pulled down the overall return.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/la-caisse-posts-5-first-half-return-as-stocks-rally-private-equity-slumps",
+      "id": "2026-08-13-13e346e2",
+      "headline": "Is the LA Lakers’ sale a sign of sports investment gone mad?",
+      "summary": "$12.5bn price tag is highest ever for an American sports team",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/08/13/is-the-la-lakers-sale-a-sign-of-sports-investment-gone-mad",
       "region": "NA",
-      "country": "Canada",
+      "country": "America",
       "category": "business",
       "date": "2026-08-13",
-      "time": "15:00",
+      "time": "13:12",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-ae5bcd36",
-      "headline": "Hertz Shares Fall After Ackman’s Pershing Sells Stake in Firm",
-      "summary": "Hertz Global Holdings Inc. shares tumbled as Pershing Square Inc.’s chief investment officer said the asset management firm has sold its stake in the car-rental company.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-13/hertz-shares-fall-after-ackman-s-pershing-sells-stake-in-firm",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "18:22",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-13-412b9736",
-      "headline": "Goldman Sachs Is Bullish on Active ETFs With Purchase of SPYI, QQQI Issuer",
-      "summary": "The firm is pushing further into a market where investors are willing to pay for ETFs that promise something more specific than simply tracking an index.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-13/goldman-sachs-is-bullish-on-active-etfs-with-purchase-of-spyi-qqqi-issuer",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "18:21",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.8
     },
     {
       "id": "2026-08-13-90bd5b44",
@@ -602,6 +602,20 @@
       "category": "politics",
       "date": "2026-08-13",
       "time": "18:15",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-08-13-f7775d51",
+      "headline": "In This State, an Intense Fight in the G.O.P. for Control of the Right",
+      "summary": "Wyoming, one of the most conservative states, has a legislature divided between a hard-right House and a merely right Senate. Ultraconservatives want a complete takeover in the Aug. 18 primaries.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/13/us/elections/wyoming-legislature-freedom-caucus.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "15:30",
       "conflict_id": null,
       "score": 25.2
     },
@@ -662,34 +676,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-13-71326836",
-      "headline": "Turkiye lays out ‘mechanisms’ of defence pact with Pakistan, Saudi Arabia",
-      "summary": "Three nations to group ministers, hold ⁠joint exercises and deepen defence industry cooperation under the pact.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/13/turkiye-lays-out-mechanisms-of-defence-pact-with-pakistan-saudi-arabia?traffic_source=rss",
-      "region": "MENA",
-      "country": "Pakistan",
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "12:42",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-13-fa018982",
-      "headline": "Infantino’s FIFA fate must go to an election, says Africa football chief",
-      "summary": "CAF have given under-fire Gianni Infantino their backing, and now say the FIFA president must stand in March&#039;s election.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/13/infantinos-fifa-fate-must-go-to-an-election-says-african-football-chief?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-13",
-      "time": "12:19",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-08-13-4715437a",
       "headline": "Pakistan faces unprecedented challenge from its Kashmir unrest",
       "summary": "",
@@ -730,6 +716,20 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-08-13-1e237e75",
+      "headline": "Vietnam discovers more than a tonne of concealed ivory illegally shipped from Africa",
+      "summary": "Most trade in ivory from elephants and other endangered animals is banned by international agreement under CITES, a treaty to which almost all UN member countries are parties.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/13/vietnam-discovers-more-than-a-tonne-of-concealed-ivory-illegally-shipped-from-africa",
+      "region": "APJ",
+      "country": "Vietnam",
+      "category": "politics",
+      "date": "2026-08-13",
+      "time": "19:59",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-08-12-300a8f31",
@@ -1192,20 +1192,6 @@
       "time": "14:51",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-08-06-6360bdfc",
-      "headline": "Iran says deal with Oman on Strait of Hormuz is in final stages",
-      "summary": "Neither the US or Oman have commented on the proposed agreement on the vital waterway.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9d3eyeggo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-06",
-      "time": "01:19",
-      "conflict_id": null,
-      "score": 35.0
     }
   ]
 }
