@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-14T22:09:58.751180+00:00",
+  "updated": "2026-08-14T22:36:49.878135+00:00",
   "story_count": 86,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-08-14-a46dc557",
+      "headline": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
+      "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/14/trump-says-he-will-declare-strait-of-hormuz-a-us-territory?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-14",
+      "time": "21:50",
+      "conflict_id": null,
+      "score": 55.4
+    },
     {
       "id": "2026-08-14-094871a5",
       "headline": "Analysis: Israel’s government can’t disown West Bank settler violence",
@@ -181,7 +195,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-08-14",
-      "time": "21:53",
+      "time": "22:14",
       "conflict_id": null,
       "score": 41.2
     },
@@ -352,20 +366,6 @@
       "time": "18:49",
       "conflict_id": null,
       "score": 34.4
-    },
-    {
-      "id": "2026-08-14-5b23a889",
-      "headline": "Mary Morello, Free Speech Activist Who Defended Explicit Lyrics, Dies at 102",
-      "summary": "An Illinois teacher — and the mother of the rock star Tom Morello — she took on Tipper Gore during culture war skirmishes over warning labels on records.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/us/mary-morello-dead.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-14",
-      "time": "18:51",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-08-14-880e5705",
@@ -564,6 +564,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-14-861466b9",
+      "headline": "Former Boston Fed Pres.: Investment spend a catalyst",
+      "summary": "Former Boston Federal Reserve President Eric Rosengren isn't surprised by a weaker retail sales number with the American consumer dealing with higher oil prices while AI and tech investment drive a large portion of investment spending. He speaks to Romaine Bostick and Isabelle Lee on Bloomberg's 'The Close.' (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-14/former-boston-fed-pres-investment-spend-a-catalyst-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-14",
+      "time": "22:11",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-14-82f2239e",
       "headline": "FBI Epstein Emails Show Sarah Ferguson Reached Patel",
       "summary": "Bloomberg News Senior Investigative Reporter writes a weekly newsletter, The FOIA Files. This week's edition show \"records, which include emails, spreadsheets and training slides, provide a window into the internal deliberations at the highest levels of government as officials discussed how to review, redact and release the Epstein files.\" (Source: Bloomberg)",
@@ -672,20 +686,6 @@
       "category": "business",
       "date": "2026-08-14",
       "time": "20:49",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-14-a15e14f0",
-      "headline": "Gen Z Moves Money From Stocks to Sports Bets",
-      "summary": "Bloomberg's Zijia Song joins Scarlet Fu and Tom Keene on \"Bloomberg Money.\" Sports betting is increasingly competing with traditional investing for younger Americans’ attention, with more than a quarter of Gen Z investors saying they see gambling on sports as part of their long-term financial strategy, according to a survey by personal finance platform Betterment.\n (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-14/gen-z-moves-money-from-stocks-to-sports-bets-video",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-14",
-      "time": "20:36",
       "conflict_id": null,
       "score": 26.1
     },
@@ -886,6 +886,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-13-1e18c098",
+      "headline": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal",
+      "summary": "The aircraft, which cost up to $50 million each, have seen heavy use around the Strait of Hormuz — but they are relatively easy targets for Iran and its proxies.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/13/us-military-has-lost-roughly-25-its-reaper-drones-iran-war-depletes-arsenal/",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "15:39",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-08-13-6965f077",
+      "headline": "South Korean airport becomes busiest in world for global traffic amid Iran war",
+      "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubsSouth Korea’s Incheon airport has become the world’s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war.The airport, South Korea’s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "09:45",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-08-13-b6a6668b",
       "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
       "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
@@ -940,20 +968,6 @@
       "time": "23:24",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-08-13-6965f077",
-      "headline": "South Korean airport becomes busiest in world for global traffic amid Iran war",
-      "summary": "Incheon airport had 38.39m international passengers in first half of 2026, as traffic diverted from Middle East hubsSouth Korea’s Incheon airport has become the world’s busiest airport for international passengers, in part owing to disruption in the Middle East caused by the Iran war.The airport, South Korea’s main gateway, about 30 miles (48km) west of Seoul, handled 38.39 million international passengers in the first half of 2026, according to ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/13/south-korea-incheon-airport-iran-war-middle-east",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "09:45",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-08-13-0201d42d",
@@ -1064,20 +1078,6 @@
       "category": "geopolitics",
       "date": "2026-08-11",
       "time": "14:50",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-11-6352ef75",
-      "headline": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-08-11",
-      "time": "19:27",
       "conflict_id": null,
       "score": 35.0
     },
