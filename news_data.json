@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-15T06:25:53.200566+00:00",
-  "story_count": 81,
-  "source_count": 9,
+  "updated": "2026-08-15T07:03:53.165902+00:00",
+  "story_count": 86,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-15-1304aa41",
@@ -58,6 +58,20 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-08-15-e16d1c95",
+      "headline": "Malaysia’s Anwar Vows Faster Reforms After Electoral Defeats",
+      "summary": "Malaysian Prime Minister Anwar Ibrahim said he will speed up the pace of reforms and strengthen an anti-corruption drive as he seeks to rebuild public support after a string of electoral defeats and party departures.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-15/malaysia-s-anwar-vows-faster-reforms-after-electoral-defeats",
+      "region": "APJ",
+      "country": "Malaysia",
+      "category": "politics",
+      "date": "2026-08-15",
+      "time": "05:53",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-08-15-b109abf5",
@@ -228,6 +242,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-08-15-ec573b0e",
+      "headline": "HRW says US civil rights enforcement reduced under Trump: What to know",
+      "summary": "A new report documents how federal agencies have reduced the number of civil rights cases they pursue as staffing falls.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/15/hrw-says-us-civil-rights-enforcement-reduced-under-trump-what-to-know?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-15",
+      "time": "03:04",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-08-15-f8e4bd14",
       "headline": "Buenaventura residents criticise state neglect after Colombia’s earthquake",
       "summary": "Locals in impoverished areas say the insufficient government response after the earthquake speaks to a broader trend.",
@@ -326,6 +354,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-15-af941f83",
+      "headline": "Gut viruses are evolving new tricks to beat bacteria — and could help fight superbugs",
+      "summary": "Scientists have found that some viruses can deliberately generate genetic diversity to evade bacterial defences, offering a potential new clue for developing treatments when antibiotics fail.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/health/2026/08/15/gut-viruses-are-evolving-new-tricks-to-beat-bacteria-and-could-help-fight-superbugs",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-15",
+      "time": "06:29",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-14-a46dc557",
       "headline": "Trump says he will declare Strait of Hormuz a US ‘territory’ amid Iran war",
       "summary": "Control over the strait has been a sticking point in the ongoing ceasefire negotiations between the US and Iran.",
@@ -354,6 +396,62 @@
       "score": 47.0
     },
     {
+      "id": "2026-08-14-9b1f89a7",
+      "headline": "US backs Japanese sovereignty over disputed islands after Putin visit",
+      "summary": "The US ambassador said Washington was \"unwavering\" in recognising Japanese sovereignty, after Putin's visit to the four islands occupied by the Soviet Union in 1945 prompted Japan to summon Moscow's ambassador and consider tightening sanctions against Russia.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/14/us-backs-japanese-sovereignty-over-disputed-islands-after-putin-visit",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-14",
+      "time": "16:19",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-08-14-7bd81bb7",
+      "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
+      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-14",
+      "time": "19:20",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-14-1c9c2278",
+      "headline": "France's top court blocks social media ban for under-15s",
+      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-08-14",
+      "time": "16:35",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-14-8ac595c0",
+      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
+      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-14",
+      "time": "08:39",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-08-14-f7f7c0a3",
       "headline": "Trump dismisses families’ concerns about USS Abraham Lincoln conditions",
       "summary": "President Donald Trump dismissed the concerns of military families about worsening conditions on the USS Abraham Lincoln.",
@@ -368,18 +466,32 @@
       "score": 40.9
     },
     {
-      "id": "2026-08-14-7bd81bb7",
-      "headline": "Mangione admits killing healthcare CEO and pleads guilty to federal charges",
-      "summary": "\"I shot Mr Thompson in Manhattan and he died,\" the 28-year-old said after pleading guilty to charges of stalking resulting in death.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy0nlq1l2wo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-14-cbc901f2",
+      "headline": "French court blocks Macron’s social media ban for under-15s",
+      "summary": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislationFrance’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy.The decision is a blow to President Emmanuel Macron as momentum builds around the world for Australian-style restrictions on children’s use of social media. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
       "region": "EU",
-      "country": null,
-      "category": "business",
+      "country": "Australia",
+      "category": "politics",
       "date": "2026-08-14",
-      "time": "19:20",
+      "time": "17:12",
       "conflict_id": null,
-      "score": 35.0
+      "score": 40.0
+    },
+    {
+      "id": "2026-08-14-e3020634",
+      "headline": "France upholds assisted dying law but strikes down social media ban for children",
+      "summary": "President Emmanuel Macron's office said he had no plans to give up on his push to bar children from apps such as TikTok and the government would work on a new draft law.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/14/france-upholds-assisted-dying-law-but-strikes-down-social-media-ban-for-children",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-08-14",
+      "time": "15:44",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-08-14-d95cdf3b",
@@ -396,22 +508,8 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-14-1c9c2278",
-      "headline": "France's top court blocks social media ban for under-15s",
-      "summary": "The Constitutional Council says it infringes upon freedom of expression - but President Macron vows to prepare a new draft.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2vj433xqlo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-08-14",
-      "time": "16:35",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-14-c38ff2f3",
-      "headline": "Trump asks Supreme Court to allow ballroom work to continue",
+      "id": "2026-08-14-e7c0128a",
+      "headline": "Trump asks US Supreme Court to allow ballroom work to continue",
       "summary": "Forcing the US president to go \"hat-in-hand to Congress\" for permission would be \"dangerous\", the administration says.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c3v0yz2r4wlo?at_medium=RSS&at_campaign=rss",
@@ -420,20 +518,6 @@
       "category": "politics",
       "date": "2026-08-14",
       "time": "19:05",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-14-8ac595c0",
-      "headline": "US says dozens of countries helped China dodge Trump's tariffs",
-      "summary": "A new US report said China had moved goods through nations with lower tariffs to dodge higher levies.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78gy6ep3n5o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-14",
-      "time": "08:39",
       "conflict_id": null,
       "score": 35.0
     },
@@ -476,20 +560,6 @@
       "category": "geopolitics",
       "date": "2026-08-14",
       "time": "22:35",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-08-14-5b23a889",
-      "headline": "Mary Morello, Free Speech Activist Who Defended Explicit Lyrics, Dies at 102",
-      "summary": "An Illinois teacher — and the mother of the rock star Tom Morello — she took on Tipper Gore during culture war skirmishes over warning labels on records.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/us/mary-morello-dead.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-14",
-      "time": "18:51",
       "conflict_id": null,
       "score": 33.2
     },
@@ -578,18 +648,32 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-14-cbc901f2",
-      "headline": "French court blocks Macron’s social media ban for under-15s",
-      "summary": "Constitutional council says curbs infringe freedom of expression and privacy as president vows to rework legislationFrance’s top court has blocked a ban on social media access for under-15s, ruling that it infringed freedom of expression and privacy.The decision is a blow to President Emmanuel Macron as momentum builds around the world for Australian-style restrictions on children’s use of social media. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/14/french-court-blocks-macron-social-media-ban-under-15s",
+      "id": "2026-08-14-a187815c",
+      "headline": "EU pushes back as US revives trade pressure on bloc and accuses Brussels of enabling China to evade tariffs",
+      "summary": "The EU already dialled back the scope of the environmental and human rights supply chain standards laws under pressure from businesses, but the US said that did not go far enough.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/14/eu-pushes-back-as-us-revives-trade-pressure-on-bloc-and-accuses-brussels-of-enabling-china",
       "region": "EU",
-      "country": "Australia",
-      "category": "politics",
+      "country": "Brussels",
+      "category": "business",
       "date": "2026-08-14",
-      "time": "17:12",
+      "time": "19:41",
       "conflict_id": null,
-      "score": 32.0
+      "score": 29.0
+    },
+    {
+      "id": "2026-08-14-f6f288d8",
+      "headline": "Luigi Mangione admits shooting healthcare CEO Brian Thompson in New York court",
+      "summary": "Mangione entered the plea at a hastily scheduled hearing in Manhattan federal court, resolving one of two cases against him in connection with Thompson’s death.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/14/luigi-mangione-admits-shooting-healthcare-ceo-brian-thompson-in-new-york-court",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-14",
+      "time": "17:26",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-08-14-2c00f5d6",
@@ -676,20 +760,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-14-eb981b06",
-      "headline": "EM Currencies Cap Best Streak Since 2024, Stocks Rebound on AI",
-      "summary": "Emerging-market assets rose on Friday as a shift in the US interest-rate outlook added to bullish sentiment around artificial intelligence, pushing equities to cap the best week in nearly two months and sending a gauge of currencies on the longest streak of gains since 2024.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-14/em-assets-buoyed-by-easing-us-rate-worries-gains-in-ai-leaders",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-14",
-      "time": "04:04",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-14-4e1b0809",
       "headline": "Two Billy Goats Boarded a Bus in Portland. They Did Not Have Passes.",
       "summary": "Security camera footage showed the goats entering the TriMet bus in Portland, Ore., through the middle doors before some passengers shooed them off. They have since been reunited with their owner.",
@@ -700,20 +770,6 @@
       "category": "politics",
       "date": "2026-08-14",
       "time": "23:29",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-14-2b6ed6c7",
-      "headline": "Can Senator Ed Markey’s Progressive Politics Help Him Overcome the Age Issue?",
-      "summary": "Ed Markey is hoping that his progressive politics will save him in Massachusetts.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/us/politics/ed-markey-senator-age.html",
-      "region": "EU",
-      "country": "NATO",
-      "category": "politics",
-      "date": "2026-08-14",
-      "time": "23:08",
       "conflict_id": null,
       "score": 25.2
     },
@@ -774,6 +830,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-08-14-b7770cbc",
+      "headline": "Ash clouds, lava flows and fertile soil: What are the effects of Mount Etna’s eruptions?",
+      "summary": "Human activities produce 100 times the carbon dioxide of the planet’s volcanic eruptions, according to NASA.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/14/ash-clouds-lava-flows-and-fertile-soil-what-are-the-effects-of-mount-etnas-eruptions",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-14",
+      "time": "14:23",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-13-1e18c098",
       "headline": "U.S. military has lost roughly 25% of its Reaper drones as Iran war depletes arsenal",
       "summary": "The aircraft, which cost up to $50 million each, have seen heavy use around the Strait of Hormuz — but they are relatively easy targets for Iran and its proxies.",
@@ -799,7 +869,21 @@
       "date": "2026-08-13",
       "time": "12:56",
       "conflict_id": null,
-      "score": 40.0
+      "score": 48.0
+    },
+    {
+      "id": "2026-08-13-bbc3bab6",
+      "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
+      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "09:54",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-13-6965f077",
@@ -868,20 +952,6 @@
       "category": "geopolitics",
       "date": "2026-08-13",
       "time": "19:08",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-13-bbc3bab6",
-      "headline": "Japan PM says Putin's visit to disputed islands 'absolutely unacceptable'",
-      "summary": "It was the first time the Russian leader had visited the Kuril islands, according to state media.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqx7ple0nxxo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "09:54",
       "conflict_id": null,
       "score": 35.0
     },
