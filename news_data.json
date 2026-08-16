@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-16T02:05:40.691186+00:00",
+  "updated": "2026-08-16T03:09:48.777943+00:00",
   "story_count": 77,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-16-b947017d",
+      "headline": "Al Jazeera journalist opens beach cafe in the Gaza she loves",
+      "summary": "Palestinian journalist Hind Khoudary has opened a Gaza beach cafe, hoping to revive a much-loved part of life in the war",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/al-jazeera-journalist-opens-beach-cafe-in-the-gaza-she-loves?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "02:26",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
     {
       "id": "2026-08-16-8bb29ccc",
       "headline": "Hamas leader heads to Cairo for Gaza talks ahead of Kushner visit",
@@ -27,9 +41,37 @@
       "country": "Australia",
       "category": "politics",
       "date": "2026-08-16",
-      "time": "01:40",
+      "time": "02:09",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-08-16-be39ef9c",
+      "headline": "BBC seeks to subpoena members in Panorama lawsuit",
+      "summary": "A spokesperson for Trump's legal team responded to the request accusing the broadcaster of \"seeking to harass\" the president's family.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd69ely319eo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-16",
+      "time": "00:11",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-08-16-fc834aa5",
+      "headline": "Singapore Inc hopes AI access will stop finance high-flyers moving to Hong Kong",
+      "summary": "Close relations with both US and China mean the latest AI models are easily accessible in the city-state",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7d2969fd-85aa-43fb-ae04-97d1d0ee2463?syn-25a6b1a6=1",
+      "region": "APJ",
+      "country": "Singapore",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "01:52",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-08-16-b340f100",
@@ -114,20 +156,6 @@
       "time": "12:00",
       "conflict_id": "ukraine-war",
       "score": 46.4
-    },
-    {
-      "id": "2026-08-15-08fa091b",
-      "headline": "Israeli settlers besiege Palestinian families in occupied West Bank",
-      "summary": "Three Palestinian families say they have been trapped inside their homes in the occupied West Bank for nearly a week.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/15/15-08-reported-nour-west-bank-ps?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-15",
-      "time": "15:48",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
     },
     {
       "id": "2026-08-15-19334b9c",
@@ -550,20 +578,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-15-e59fe848",
-      "headline": "Justice Dept. Dismisses Threats Case in Minnesota Days Before Trial",
-      "summary": "The government said it could not prove that a man accused of threatening federal agents had committed a crime, adding to the scores of cases in the administration’s deportation efforts that have unraveled.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/14/us/minnesota-threats-federal-agents-immigration.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-15",
-      "time": "00:40",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-08-15-dbb0e280",
       "headline": "Yemen’s government says Houthi strikes hit residential areas in Marib",
       "summary": "Yemen&#039;s Ministry of Information denounces attacks on Marib as &#039;escalation&#039; that threatens lives and increases suffering.",
@@ -950,20 +964,6 @@
       "region": "NA",
       "country": "America",
       "category": "business",
-      "date": "2026-08-13",
-      "time": "13:12",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
-      "id": "2026-08-13-c1256ac4",
-      "headline": "The world’s biggest fast-food chain is moving into pubs",
-      "summary": "Why China’s Mixue Bingcheng is serving up beer",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/08/13/the-worlds-biggest-fast-food-chain-is-moving-into-pubs",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
       "date": "2026-08-13",
       "time": "13:12",
       "conflict_id": null,
