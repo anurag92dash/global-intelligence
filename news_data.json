@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T22:33:33.849226+00:00",
+  "updated": "2026-08-16T22:54:09.325746+00:00",
   "story_count": 77,
   "source_count": 10,
   "stories": [
@@ -34,16 +34,30 @@
     {
       "id": "2026-08-16-29e12cd8",
       "headline": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
-      "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+      "summary": "After meeting with Trump envoy, Hamas says it called on Board of Peace to ‘compel’ Israel to accept Gaza plan.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
       "region": "MENA",
-      "country": "Trump",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-16",
       "time": "19:23",
       "conflict_id": "israel-hamas",
       "score": 67.4
+    },
+    {
+      "id": "2026-08-16-72fd6d14",
+      "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
+      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "22:41",
+      "conflict_id": null,
+      "score": 59.0
     },
     {
       "id": "2026-08-16-73e63109",
@@ -74,18 +88,32 @@
       "score": 54.4
     },
     {
-      "id": "2026-08-16-72fd6d14",
-      "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-16-ae2f93fa",
+      "headline": "Trump Says Asked Pentagon to Cut Military Drills With S. Korea",
+      "summary": "“I have instructed Secretary of War, Pete Hegseth, to substantially reduce the Joint Military Exercises,” with South Korea, President Donald Trump says in a post on Truth Social.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/trump-says-asked-pentagon-to-cut-military-drills-with-s-korea",
       "region": "NA",
       "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "21:57",
+      "time": "21:10",
       "conflict_id": null,
-      "score": 51.0
+      "score": 50.1
+    },
+    {
+      "id": "2026-08-16-8ca64eb3",
+      "headline": "Trump Orders Pentagon to Curtail Military Exercises With Ally South Korea",
+      "summary": "In a social media post, the president scolded South Korea for not helping denuclearize Iran, and also praised North Korea and its leader.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/16/us/politics/trump-south-korea-military-exercises.html",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "22:32",
+      "conflict_id": null,
+      "score": 49.2
     },
     {
       "id": "2026-08-16-ed847852",
@@ -170,20 +198,6 @@
       "time": "14:35",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-08-16-ae2f93fa",
-      "headline": "Trump Says Asked Pentagon to Cut Military Drills With S. Korea",
-      "summary": "“I have instructed Secretary of War, Pete Hegseth, to substantially reduce the Joint Military Exercises,” with South Korea, President Donald Trump says in a post on Truth Social.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/trump-says-asked-pentagon-to-cut-military-drills-with-s-korea",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "21:10",
-      "conflict_id": null,
-      "score": 42.1
     },
     {
       "id": "2026-08-16-553fc96a",
@@ -322,20 +336,6 @@
       "category": "politics",
       "date": "2026-08-16",
       "time": "19:44",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-16-d5b5692a",
-      "headline": "Blanche on whether DOJ will be independent: ‘I’m not going to pledge that’",
-      "summary": "The newly sworn-in attorney general rejected the idea of an independent Justice Department, lent support to Jeanine Pirro and declared the “anti-weaponization” fund dead.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/16/blanche-whether-doj-will-be-independent-im-not-going-pledge-that/",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "18:15",
       "conflict_id": null,
       "score": 32.9
     },
@@ -573,7 +573,7 @@
       "country": "Australia",
       "category": "politics",
       "date": "2026-08-16",
-      "time": "22:24",
+      "time": "22:39",
       "conflict_id": null,
       "score": 24.0
     },
