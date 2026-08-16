@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T19:01:15.789844+00:00",
+  "updated": "2026-08-16T19:30:10.616898+00:00",
   "story_count": 74,
   "source_count": 10,
   "stories": [
@@ -13,7 +13,7 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "18:04",
+      "time": "19:03",
       "conflict_id": "ukraine-war",
       "score": 71.0
     },
@@ -170,6 +170,20 @@
       "time": "14:29",
       "conflict_id": null,
       "score": 37.0
+    },
+    {
+      "id": "2026-08-16-4fe7c0f1",
+      "headline": "Jamie Dimon warns UK chancellor against higher bank taxes",
+      "summary": "JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-16",
+      "time": "19:00",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-08-16-6dc467d0",
@@ -378,20 +392,6 @@
       "category": "politics",
       "date": "2026-08-16",
       "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-16-fc6e3d9c",
-      "headline": "The billionaire threatening to upend Wall Street",
-      "summary": "Mark Walter’s much-copied strategy of leveraging insurers to build an empire has drawn regulatory scrutiny",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cf87b6cd-f940-4b09-b072-7da36faa183f?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-16",
-      "time": "10:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -718,18 +718,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-15-4a892607",
-      "headline": "Money Managers Chase €500 Billion Historic German Pension Shift",
-      "summary": "One of the biggest reforms in Germany’s pension system since Chancellor Otto von Bismarck founded it in the late 19th century is about to hand modern fund managers a new empire of cash to deploy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-15/money-managers-chase-500-billion-historic-german-pension-shift",
+      "id": "2026-08-15-51da631f",
+      "headline": "Wildfires continue to devastate Europe as thousands are forced to flee their homes",
+      "summary": "EU Commission President Ursula von der Leyen said on Saturday afternoon that Europe was on \"high wildfire alert\" and that there was increasing pressure on Eastern European nations.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/15/wildfires-continue-to-devastate-europe-as-thousands-are-forced-to-flee-their-homes",
       "region": "EU",
-      "country": "Germany",
+      "country": "Europe",
       "category": "politics",
       "date": "2026-08-15",
-      "time": "05:00",
+      "time": "13:30",
       "conflict_id": null,
-      "score": 26.1
+      "score": 21.0
     },
     {
       "id": "2026-08-14-6a54964d",
