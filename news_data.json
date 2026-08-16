@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-16T23:07:42.218432+00:00",
-  "story_count": 77,
-  "source_count": 10,
+  "updated": "2026-08-16T23:30:59.958337+00:00",
+  "story_count": 72,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-16-5e72f831",
@@ -48,14 +48,14 @@
     {
       "id": "2026-08-16-72fd6d14",
       "headline": "Trump says US to scale back military drills with South Korea after it stayed out of Iran war",
-      "summary": "His decision to reduce the partnership came after South Korea recently declined to aid his war effort in Iran.",
+      "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2lll7zvn0o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "22:41",
+      "time": "23:28",
       "conflict_id": null,
       "score": 60.0
     },
@@ -71,7 +71,7 @@
       "date": "2026-08-16",
       "time": "21:10",
       "conflict_id": null,
-      "score": 58.1
+      "score": 59.1
     },
     {
       "id": "2026-08-16-8ca64eb3",
@@ -83,9 +83,9 @@
       "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "22:32",
+      "time": "23:13",
       "conflict_id": null,
-      "score": 57.2
+      "score": 58.2
     },
     {
       "id": "2026-08-16-73e63109",
@@ -102,18 +102,32 @@
       "score": 55.0
     },
     {
-      "id": "2026-08-16-14e20f5c",
-      "headline": "Ukraine presses drone attacks on Moscow and Russian logistics",
-      "summary": "Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer",
+      "id": "2026-08-16-2ab7c3b4",
+      "headline": "Trump says US will scale back military drills with South Korea",
+      "summary": "President claims the joint exercises send a ‘hostile’ message to North Korea",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Ukraine",
+      "url": "https://www.ft.com/content/8889375a-bcaa-4539-a000-c89b73dbcf4c?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "11:34",
-      "conflict_id": "ukraine-war",
-      "score": 54.4
+      "time": "23:01",
+      "conflict_id": null,
+      "score": 51.4
+    },
+    {
+      "id": "2026-08-16-f7d2fea4",
+      "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
+      "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "22:52",
+      "conflict_id": null,
+      "score": 49.9
     },
     {
       "id": "2026-08-16-ed847852",
@@ -130,20 +144,6 @@
       "score": 49.2
     },
     {
-      "id": "2026-08-16-f7d2fea4",
-      "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
-      "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "22:52",
-      "conflict_id": null,
-      "score": 48.9
-    },
-    {
       "id": "2026-08-16-1ec416eb",
       "headline": "Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night",
       "summary": "Itamar Ben-Gvir also calls for re-establishment of Jewish settlements in the Palestinian enclave",
@@ -155,6 +155,20 @@
       "date": "2026-08-16",
       "time": "18:43",
       "conflict_id": "israel-hamas",
+      "score": 46.4
+    },
+    {
+      "id": "2026-08-16-14e20f5c",
+      "headline": "Ukraine presses drone attacks on Moscow and Russian logistics",
+      "summary": "Kyiv launches more than 600 drones at enemy capital in one of its largest assaults of the summer",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a71bcea9-b0eb-4ed2-8bc9-f4dace738e37?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "11:34",
+      "conflict_id": "ukraine-war",
       "score": 46.4
     },
     {
@@ -242,20 +256,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-16-682487a4",
-      "headline": "Ukraine launches large-scale drone attack on Russian military and energy infrastructure",
-      "summary": "Long-range attacks have been stepped up as talks between the two countries remain stagnant.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/16/12-killed-in-russia-and-ukraine-after-an-overnight-exchange-of-drone-and-missile-strikes",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "14:29",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-08-16-016950c0",
       "headline": "US commander says mental health a 'priority' on USS Lincoln",
       "summary": "Adm Brad Cooper acknowledged that navy service at sea for long periods is \"uniquely challenging and tough\", following a visit to the warship.",
@@ -268,20 +268,6 @@
       "time": "21:04",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-16-4fe7c0f1",
-      "headline": "Jamie Dimon warns UK chancellor against higher bank taxes",
-      "summary": "JPMorgan chief’s call to John Healey is part of lobbying by financial services sector ahead of October Budget",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/44c08ae9-f209-4992-8744-cfff430eca07?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-16",
-      "time": "19:00",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-08-16-6dc467d0",
@@ -326,20 +312,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-16-328df9a9",
-      "headline": "As China Pushes to Expand in Asia, Trump Focuses on Iran",
-      "summary": "Asian allies are beginning to wonder whether the United States would or could defend them in a war.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/15/us/politics/china-expansion-asia-trump-iran.html",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "19:58",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-08-16-b37a5ef2",
       "headline": "Navy weighs major warship redesign to match Trump’s preferences",
       "summary": "The president wants the new fleet of aircraft carriers to more resemble those from World War II. Such a change could cost billions.",
@@ -361,20 +333,6 @@
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/nazi-artefacts-prohibited-symbols-still-being-sold-online-australia-ntwnfb",
       "region": "APJ",
       "country": "Australia",
-      "category": "business",
-      "date": "2026-08-16",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-08-16-d3f37be1",
-      "headline": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
-      "summary": "Hundreds watched the 56-metre monument’s consecration, including anti-communist leader Lech WałęsaAn enormous statue of the Virgin Mary that is believed to be Europe’s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wałęsa.Hundreds of people took part in the consecration of the monument, which towers 55.6 metres (182ft) over Konotopie in central Poland, a village of fewer than 150 p",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
-      "region": "EU",
-      "country": "Poland",
       "category": "business",
       "date": "2026-08-16",
       "time": "15:00",
@@ -438,20 +396,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-16-311ba7ef",
-      "headline": "California billionaires add millions to bolster fight against wealth tax",
-      "summary": "Tech owner Chris Larsen and venture capitalist John Doerr step up efforts to kill proposed 5% levy on the rich",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/10aba768-20fc-46eb-8503-4658181bffc5?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-16",
-      "time": "17:55",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-08-16-517c896a",
       "headline": "‘Capitalism’s not working’: why Democrats are turning to socialism",
       "summary": "Democratic socialist candidates are winning primary battles as voters turn to progressive policies",
@@ -464,6 +408,34 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-16-8641d2ec",
+      "headline": "Bonds Face a Bigger Threat Than the Fed as Global Rates Climb",
+      "summary": "As investors debate whether and when the Federal Reserve will raise interest rates, market expectations for further tightening are building around the world — and spelling trouble for bonds.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-16",
+      "time": "12:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-16-63353bb5",
+      "headline": "A2 Milk Sees Slow Recovery From China Formula Supply Problem",
+      "summary": "New Zealand infant formula supplier a2 Milk expects only a gradual recovery from supply chain disruptions that impacted its China sales earlier this year, signaling the earnings margins will be soft in the six months through December.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-16/a2-milk-sees-slow-recovery-from-china-formula-supply-problem",
+      "region": "APJ",
+      "country": "New Zealand",
+      "category": "business",
+      "date": "2026-08-16",
+      "time": "22:46",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-16-75f24176",
@@ -536,20 +508,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-16-ca61bac2",
-      "headline": "At AI-Fueled Market Party, Wall Street Eyes the Rates Punch Bowl",
-      "summary": "Enthusiasm for Big Tech and its huge investments in artificial intelligence is powering the stock market to record highs again. With a resilient economy and scorching demand, there’s seemingly only one obstacle that can derail this ride: higher interest rates.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/at-ai-fueled-market-party-wall-street-eyes-the-rates-punch-bowl",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-16",
-      "time": "12:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-16-86085da3",
       "headline": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
       "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power.Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political career began nearly half a century a",
@@ -578,16 +536,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-16-c4cb9333",
-      "headline": "Australia politics live: Nationals argue gun buyback is against constitutional clause featured in The Castle",
-      "summary": "Scheme will give NSW gun licence holders a fixed compensation fee based on type of firearm. Follow today’s news liveGet our breaking news email, free app or daily news podcastHume says housing the ‘best indicator of economic security’ in retirement over superThe deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on ",
+      "id": "2026-08-16-67ef8515",
+      "headline": "Australia politics live: NSW to fast-track datacentre approvals; ANU announces Julie Bishop replacement",
+      "summary": "Gordon de Brouwer appointed chancellor of Australian National University. Follow today’s news liveGet our breaking news email, free app or daily news podcastHume says housing the ‘best indicator of economic security’ in retirement over superThe deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday for super r",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
       "region": "APJ",
       "country": "Australia",
       "category": "politics",
       "date": "2026-08-16",
-      "time": "22:50",
+      "time": "23:24",
       "conflict_id": null,
       "score": 24.0
     },
@@ -599,6 +557,20 @@
       "url": "https://www.theguardian.com/australia-news/2026/aug/17/the-pm-called-sally-mcmanus-a-giant-of-the-labor-movement-now-she-just-wants-to-go-birding",
       "region": "NA",
       "country": "Australia",
+      "category": "business",
+      "date": "2026-08-16",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-08-16-d3f37be1",
+      "headline": "Europe’s tallest Virgin Mary statue unveiled in small Polish village",
+      "summary": "Hundreds watched the 56-metre monument’s consecration, including anti-communist leader Lech WałęsaAn enormous statue of the Virgin Mary that is believed to be Europe’s tallest was inaugurated on Saturday in a small Polish village, in the presence of the anti-communist leader Lech Wałęsa.Hundreds of people took part in the consecration of the monument, which towers 55.6 metres (182ft) over Konotopie in central Poland, a village of fewer than 150 p",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/tallest-statue-virgin-mary-poland-europe",
+      "region": "EU",
+      "country": "Poland",
       "category": "business",
       "date": "2026-08-16",
       "time": "15:00",
@@ -690,34 +662,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-16-13afb5da",
-      "headline": "Lima Grand Prix 2026: Breakthrough victories on Day Two",
-      "summary": "Day two in Lima brought more breakthrough moments. Seiko Watanabe, Vlad Mitru and Dena Pohl celebrated their first World Judo Tour gold medals, while David Lima topped the -81kg podium as another thrilling day of judo unfolded in Peru.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/16/lima-grand-prix-2026-breakthrough-victories-on-day-two",
-      "region": "SA",
-      "country": "Peru",
-      "category": "business",
-      "date": "2026-08-16",
-      "time": "05:56",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-15-8d313e8b",
-      "headline": "Israeli strikes that killed 11 send 'clear message' on negotiations, says Lebanese president",
-      "summary": "In a statement on Saturday, Hezbollah warned that the latest Israeli attacks would \"be met with an appropriate response.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/15/lebanon-president-says-israeli-strikes-that-killed-11-send-clear-message-on-negotiations",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-15",
-      "time": "14:52",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-08-15-654a8328",
       "headline": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
       "summary": "Eighteen children among the people killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
@@ -760,20 +704,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-08-15-19c07a2d",
-      "headline": "Europe’s tallest Virgin Mary statue unveiled in Polish village",
-      "summary": "A 55.6-metre Virgin Mary statue has been inaugurated in a small Polish village, with hundreds attending a ceremony featuring a Mass, traditional music and helicopters scattering rose petals.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/08/15/europes-tallest-virgin-mary-statue-unveiled-in-polish-village",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-15",
-      "time": "19:59",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-08-15-a6d25c43",
       "headline": "Australian state to launch gun buyback after Bondi Beach attack",
       "summary": "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms.",
@@ -786,20 +716,6 @@
       "time": "21:41",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-08-15-51da631f",
-      "headline": "Wildfires continue to devastate Europe as thousands are forced to flee their homes",
-      "summary": "EU Commission President Ursula von der Leyen said on Saturday afternoon that Europe was on \"high wildfire alert\" and that there was increasing pressure on Eastern European nations.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/15/wildfires-continue-to-devastate-europe-as-thousands-are-forced-to-flee-their-homes",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-08-15",
-      "time": "13:30",
-      "conflict_id": null,
-      "score": 21.0
     },
     {
       "id": "2026-08-14-6a54964d",
@@ -898,6 +814,20 @@
       "time": "14:04",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-13-e516d2a2",
+      "headline": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
+      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-13",
+      "time": "04:55",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-13-ba22fc9a",
