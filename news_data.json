@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-16T19:50:49.628081+00:00",
-  "story_count": 74,
+  "updated": "2026-08-16T20:06:49.288216+00:00",
+  "story_count": 75,
   "source_count": 10,
   "stories": [
     {
@@ -30,6 +30,34 @@
       "time": "16:10",
       "conflict_id": "ukraine-war",
       "score": 68.0
+    },
+    {
+      "id": "2026-08-16-29e12cd8",
+      "headline": "Kushner meets Hamas leaders in Egypt to push Trump’s Gaza plan",
+      "summary": "Trump envoy has pushed for disarmament to end any future Hamas role in running Gaza, diplomatic sources tell AFP.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/16/kushner-meets-hamas-in-egypt-to-push-trumps-gaza-plan?traffic_source=rss",
+      "region": "MENA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "19:23",
+      "conflict_id": "israel-hamas",
+      "score": 67.4
+    },
+    {
+      "id": "2026-08-16-73e63109",
+      "headline": "Trump envoy Kushner meets Hamas leader to push Gaza peace plan",
+      "summary": "The rare meeting comes a week after Israel rejected Donald Trump's peace plan for Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "19:58",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-08-16-14e20f5c",
@@ -237,7 +265,7 @@
       "country": "United States",
       "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "13:50",
+      "time": "19:57",
       "conflict_id": null,
       "score": 33.2
     },
@@ -536,6 +564,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-08-16-3fd91c02",
+      "headline": "Erdogan calls for Strait of Hormuz reopening amid oil disruption",
+      "summary": "Turkish President Recep Tayyip Erdogan has called for the Strait of Hormuz to reopen.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-hormuz-tr?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-16",
+      "time": "19:18",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-08-16-9acd943e",
       "headline": "Moroccan migrants stage sit-in as thousands remain stranded in Ceuta",
       "summary": "Moroccan migrants are protesting in Ceuta, demanding asylum two weeks after more than a massive migrant surge.",
@@ -546,20 +588,6 @@
       "category": "politics",
       "date": "2026-08-16",
       "time": "15:51",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-16-8762abd0",
-      "headline": "The post-Hormuz era offers Africa a great opportunity",
-      "summary": "But to capture its benefits, the continent needs to develop an effective, common maritime policy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/16/the-post-hormuz-era-offers-africa-a-great-opportunity?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-16",
-      "time": "10:09",
       "conflict_id": null,
       "score": 23.4
     },
@@ -646,20 +674,6 @@
       "time": "14:52",
       "conflict_id": null,
       "score": 45.0
-    },
-    {
-      "id": "2026-08-15-e170327f",
-      "headline": "Eleven killed in Israeli strikes on southern Lebanon, authorities say",
-      "summary": "Israel's military said it had struck \"Hezbollah terror infrastructure\" in response to what it described as earlier action against its soldiers.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gjygx4gjeo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-08-15",
-      "time": "20:21",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-08-15-0c2c2204",
@@ -1009,7 +1023,7 @@
       "date": "2026-08-10",
       "time": "14:43",
       "conflict_id": "israel-hamas",
-      "score": 47.0
+      "score": 55.0
     },
     {
       "id": "2026-08-10-5ab80ff0",
@@ -1037,7 +1051,7 @@
       "date": "2026-08-09",
       "time": "21:25",
       "conflict_id": "israel-hamas",
-      "score": 47.0
+      "score": 55.0
     }
   ]
 }
