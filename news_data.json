@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T18:43:34.844059+00:00",
+  "updated": "2026-08-16T19:01:15.789844+00:00",
   "story_count": 74,
   "source_count": 10,
   "stories": [
@@ -55,9 +55,23 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "09:02",
+      "time": "18:47",
       "conflict_id": null,
       "score": 49.2
+    },
+    {
+      "id": "2026-08-16-1ec416eb",
+      "headline": "Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night",
+      "summary": "Itamar Ben-Gvir also calls for re-establishment of Jewish settlements in the Palestinian enclave",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f6b953fc-a6ad-48cd-bed1-d42619b57d94?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "18:43",
+      "conflict_id": "israel-hamas",
+      "score": 46.4
     },
     {
       "id": "2026-08-16-fd19c37e",
@@ -100,20 +114,6 @@
       "time": "13:17",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-08-16-236afa3a",
-      "headline": "Iran Pressure Campaign Lacks Clear Off Ramp",
-      "summary": "Acting Principal Deputy Assistant Secretary for the Bureau of Near Eastern Affairs Jen Gavito and retired Vice Adm. Robert Harward join Bloomberg This Weekend and offer sharply different assessments of whether escalating US economic pressure can change Iran’s calculus, with Gavito arguing sanctions alone are unlikely to provide an off ramp and Harward saying they can weaken Tehran when combined with political and military pressure. (Source: Bloom",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-16/iran-pressure-campaign-lacks-clear-off-ramp",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "13:01",
-      "conflict_id": null,
-      "score": 42.1
     },
     {
       "id": "2026-08-16-46c3598c",
@@ -340,16 +340,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-16-517c896a",
-      "headline": "‘Capitalism’s not working’: why Democrats are turning to socialism",
-      "summary": "Democratic socialist candidates are winning primary battles as voters turn to progressive policies",
+      "id": "2026-08-16-71b6c929",
+      "headline": "Most US voters say they are worse off under Trump — FT poll",
+      "summary": "Democrats lead Republicans on economy just months ahead of midterm elections",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
+      "url": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-08-16",
-      "time": "04:00",
+      "time": "04:01",
       "conflict_id": null,
       "score": 26.4
     },
@@ -368,16 +368,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-16-71b6c929",
-      "headline": "Most US voters say they are worse off under Trump — FT poll",
-      "summary": "Democrats lead Republicans on economy just months ahead of midterm elections",
+      "id": "2026-08-16-517c896a",
+      "headline": "‘Capitalism’s not working’: why Democrats are turning to socialism",
+      "summary": "Democratic socialist candidates are winning primary battles as voters turn to progressive policies",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/fd40a98d-2a7f-4246-a296-73e956bf03c0?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
+      "url": "https://www.ft.com/content/b56a910a-c2b4-41e5-9f8f-18e6fe7b2efd?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
       "category": "politics",
       "date": "2026-08-16",
-      "time": "04:01",
+      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -392,20 +392,6 @@
       "category": "politics",
       "date": "2026-08-16",
       "time": "10:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-16-f1b4d172",
-      "headline": "European companies count the costs and gains of extreme heat",
-      "summary": "Businesses flagged effects of extreme heat, drought and wildfires on a record share of earnings calls in recent weeks",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/1419012f-feca-4efd-a817-dc0392cd76e3?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-16",
-      "time": "04:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -492,6 +478,20 @@
       "time": "12:00",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-08-16-86085da3",
+      "headline": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power.Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political career began nearly half a century a",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-08-16",
+      "time": "18:44",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-08-16-19e09b71",
