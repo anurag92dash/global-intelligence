@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T17:03:42.424924+00:00",
-  "story_count": 79,
+  "updated": "2026-08-17T17:40:25.270014+00:00",
+  "story_count": 80,
   "source_count": 10,
   "stories": [
     {
@@ -118,12 +118,12 @@
     {
       "id": "2026-08-17-7e9830d9",
       "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "The US and Oman have been working separately to reopen the Strait of Hormuz, one of the world's busiest oil shipping routes.",
+      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Trump",
-      "category": "business",
+      "category": "geopolitics",
       "date": "2026-08-17",
       "time": "16:26",
       "conflict_id": null,
@@ -186,18 +186,18 @@
       "score": 48.4
     },
     {
-      "id": "2026-08-17-73a30154",
-      "headline": "Trump orders US to scale back South Korea military drills",
-      "summary": "Donald Trump has ordered the US military to scale back joint exercises with South Korea.",
+      "id": "2026-08-17-b37956b6",
+      "headline": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
+      "summary": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/trump-orders-us-to-scale-back-south-korea-military-drills?traffic_source=rss",
-      "region": "NA",
-      "country": "South Korea",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinians-israelis-sceptical-of-gaza-plan-as-kushner-visits-region?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "11:29",
-      "conflict_id": null,
-      "score": 48.4
+      "time": "16:50",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-08-17-61403b46",
@@ -268,6 +268,20 @@
       "time": "16:01",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-08-17-245b4dc3",
+      "headline": "War on Iran: Phase II, Day 37",
+      "summary": "Iran is offering $30,000 for captured or killed US soldiers. Trump cuts back South Korea drills.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/war-on-iran-phase-ii-day-37?traffic_source=rss",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "16:27",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-08-17-4a4875b5",
@@ -461,9 +475,37 @@
       "country": null,
       "category": "business",
       "date": "2026-08-17",
-      "time": "16:22",
+      "time": "17:06",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-17-b52c9e24",
+      "headline": "US Stocks Dip as Rising Oil Prices, Yields Offset Chip Gains",
+      "summary": "US stocks faltered on Monday as long-term Treasury yields extended their recent climb and oil ticked higher. Chipmakers notched gains as details of Anthropic’s surging sales growth stoked bullish sentiment around AI.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/us-futures-flat-tech-shares-gain-on-anthropic-revenue-jump",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "12:41",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-17-a8cb8561",
+      "headline": "Blackstone, Blue Owl Private Credit Funds Increase Bond Sales",
+      "summary": "Two private credit funds are set to sell more investment-grade bonds Monday than they initially targeted, following a lull of such deals to start the third quarter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/blackstone-blue-owl-private-credit-funds-offer-high-grade-bonds",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "14:02",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-17-d6a0b272",
@@ -518,6 +560,20 @@
       "category": "business",
       "date": "2026-08-17",
       "time": "16:26",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-17-c2483ccf",
+      "headline": "European Stocks Drop in Subdued Trading; SIG Tumbles on CEO Exit",
+      "summary": "European stocks fell in lighter trading on Monday, dragged lower by consumer products and food and beverage shares.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/european-stocks-hover-near-record-as-mining-tech-sectors-gain",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "07:26",
       "conflict_id": null,
       "score": 26.1
     },
@@ -774,20 +830,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-17-3e291af0",
-      "headline": "Revolut is set to launch airport lounges, with the first opening in Copenhagen in 2027",
-      "summary": "The fintech company’s first foray into the market will be the largest common-use lounge in the Schengen area.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/08/17/revolut-is-set-to-launch-airport-lounges-with-the-first-opening-in-copenhagen-in-2027",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "13:06",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-16-ed847852",
       "headline": "In ‘The Brink of War,’ a Return to an Era of Razor-Edge Diplomacy",
       "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough.",
@@ -830,27 +872,13 @@
       "score": 41.2
     },
     {
-      "id": "2026-08-16-19334b9c",
-      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "09:27",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-16-e86f122f",
-      "headline": "Stock Rally Falters on Renewed Middle East Tension: Markets Wrap",
-      "summary": "Wall Street traders sent stocks and bonds lower as fresh Middle East violence stoked concerns about an escalation of the war that has jolted global markets.",
+      "id": "2026-08-16-fe1e3a57",
+      "headline": "Stocks Fall as Brent Hits $90 on US-Iran Risks: Markets Wrap",
+      "summary": "Stocks and bonds fell as fresh Middle East violence lifted oil prices and stoked concerns about an escalation of the war that has jolted global markets.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": null,
+      "region": "MENA",
+      "country": "Iran",
       "category": "business",
       "date": "2026-08-16",
       "time": "22:14",
@@ -1036,20 +1064,6 @@
       "category": "geopolitics",
       "date": "2026-08-13",
       "time": "04:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-13-ba22fc9a",
-      "headline": "Family of Irish plane crash victim awarded $29m in damages",
-      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "19:08",
       "conflict_id": null,
       "score": 35.0
     },
