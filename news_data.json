@@ -1,8 +1,50 @@
 {
-  "updated": "2026-08-17T08:06:11.122264+00:00",
+  "updated": "2026-08-17T08:57:12.460137+00:00",
   "story_count": 80,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-17-a4611f60",
+      "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
+      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "08:43",
+      "conflict_id": "israel-hamas",
+      "score": 71.0
+    },
+    {
+      "id": "2026-08-17-1c153a92",
+      "headline": "Kushner to meet Israeli PM Netanyahu after talks with Hamas on Gaza peace plan",
+      "summary": "The meeting comes two weeks after Hamas endorsed the latest stage of Trump's Gaza plan, which Netanyahu has refused to support, insisting any settlement must ensure the group is \"genuinely disarmed.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/kushner-to-meet-israeli-pm-netanyahu-after-talks-with-hamas-on-gaza-peace-plan",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "07:04",
+      "conflict_id": "israel-hamas",
+      "score": 65.0
+    },
+    {
+      "id": "2026-08-17-59d6ab01",
+      "headline": "Kushner holds talks with Netanyahu after meeting Hamas leader",
+      "summary": "Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "08:26",
+      "conflict_id": "israel-hamas",
+      "score": 62.4
+    },
     {
       "id": "2026-08-17-215a4e4a",
       "headline": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
@@ -16,6 +58,20 @@
       "time": "06:24",
       "conflict_id": null,
       "score": 60.0
+    },
+    {
+      "id": "2026-08-17-0e9744ef",
+      "headline": "Kushner to meet Netanyahu to push Trump Gaza plan",
+      "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "08:13",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
     },
     {
       "id": "2026-08-17-209beec3",
@@ -57,6 +113,20 @@
       "date": "2026-08-17",
       "time": "04:07",
       "conflict_id": null,
+      "score": 57.0
+    },
+    {
+      "id": "2026-08-17-30b1f305",
+      "headline": "Ben-Gvir calls for killing of '30 to 40' Palestinians in Gaza nightly in taped interview with former hostage",
+      "summary": "In a taped interview, the far-right national security minister also advocated for encouraging the mass emigration of the Gaza Strip, saying he views the territory as entirely Israeli.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/ben-gvir-calls-for-killing-of-30-to-40-palestinians-in-gaza-nightly-in-taped-interview-wit",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "04:42",
+      "conflict_id": "israel-hamas",
       "score": 57.0
     },
     {
@@ -102,18 +172,18 @@
       "score": 48.4
     },
     {
-      "id": "2026-08-17-a4611f60",
-      "headline": "Trump envoy Kushner arrives in Israel after rare Hamas talks on Gaza peace plan",
-      "summary": "US President Trump's son-in-law Jared Kushner is expected to meet Israeli Prime Minister Benjamin Netanyahu later on Monday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-17-421a3e8a",
+      "headline": "Trump orders Pentagon to 'scale back' military drills with South Korea citing good relations with Kim Jong Un",
+      "summary": "The US president previously slammed the joint drills as “provocative” in 2018 following a meeting with North Korean leader Kim Jong Un in Singapore.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/trump-orders-pentagon-to-scale-back-military-drills-with-south-korea-citing-good-relations",
       "region": "NA",
-      "country": "Israel",
-      "category": "politics",
+      "country": "South Korea",
+      "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "04:50",
-      "conflict_id": "israel-hamas",
-      "score": 47.0
+      "time": "03:57",
+      "conflict_id": null,
+      "score": 46.0
     },
     {
       "id": "2026-08-17-0ca7c73f",
@@ -158,6 +228,48 @@
       "score": 40.0
     },
     {
+      "id": "2026-08-17-6f520fcc",
+      "headline": "At least six people killed in Ukrainian missile attack on Russia’s Belgorod",
+      "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "08:00",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-08-17-4fbdc258",
+      "headline": "At least seven killed in stampede at Hindu temple in India",
+      "summary": "Panic reportedly broke out among thousands of worshippers after rumours that an electricity pole had fallen on devotees.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/at-least-seven-killed-in-stampede-at-hindu-temple-in-india",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "08:35",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-17-3b7bd5b6",
+      "headline": "Europe wildfires: German border town partially evacuated but France blaze stabilised",
+      "summary": "A historically hot summer on the planet's fastest-warming continent has contributed to the deaths of thousands of people and increased the risk of wildfires, with blazes periodically sweeping through parched landscapes.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/17/europe-wildfires-german-border-town-partially-evacuated-but-france-blaze-stabilised",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "07:44",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-08-17-db409285",
       "headline": "Ukrainian strikes kill six in Russia, acting governor says",
       "summary": "A 14-year-old child was among four others injured, the acting governor of Russia's Belgorod region says.",
@@ -167,7 +279,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "07:41",
+      "time": "08:47",
       "conflict_id": null,
       "score": 35.0
     },
@@ -186,6 +298,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-08-17-ee47fde2",
+      "headline": "Xi Ties Predecessor’s Legacy to His Own Agenda as Risks Grow",
+      "summary": "Chinese President Xi Jinping invoked the legacy of his predecessor Jiang Zemin to advance his own economic and global policy agenda, warning of “high winds and rough waters” as China faces slowing growth and rising tensions abroad.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/xi-touts-party-led-growth-at-predecessor-s-birth-centenary",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "02:31",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-08-17-c2971869",
       "headline": "China's Economic Woes Mount With Disappointing Data",
       "summary": "China’s economy got off to a sluggish start in the second half, reviving pressure on policymakers to act in support of growth as industrial output, consumption and investment all fared worse than expected. Bloomberg's Rebecca Choong Wilkins reports. (Source: Bloomberg)",
@@ -196,6 +322,20 @@
       "category": "business",
       "date": "2026-08-17",
       "time": "07:42",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-17-1ab4d46c",
+      "headline": "Chasing This Rally Boosts the Need for Protection: Taking Stock",
+      "summary": "Reasons to be wary about stocks are quickly disappearing and a Goldilocks scenario looks increasingly likely. That’s precisely why it’s a perfect time to hedge against a market priced for perfection.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/chasing-this-rally-boosts-the-need-for-protection-taking-stock",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "06:15",
       "conflict_id": null,
       "score": 34.1
     },
@@ -224,6 +364,20 @@
       "category": "business",
       "date": "2026-08-17",
       "time": "06:14",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-08-17-63c18f23",
+      "headline": "At least seven dead in ‘stampede-like’ incident at India temple",
+      "summary": "The fatal incident reportedly took place amid a rush of devotees at a temple in India&#039;s Bihar state.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "05:32",
       "conflict_id": null,
       "score": 31.4
     },
@@ -284,6 +438,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-17-c84282f4",
+      "headline": "Top Zambian opposition figures arrested days after presidential vote",
+      "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "07:31",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-17-6df45199",
       "headline": "Private credit under strain as troubled loans swell",
       "summary": "FT analysis shows signals of stress in the market are back to levels last seen in 2017",
@@ -312,16 +480,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-17-0f2d17c2",
-      "headline": "Yes Bank Makes Bond Market Comeback Years After AT1 Write-Off",
-      "summary": "Yes Bank Ltd. is returning to the bond market for the first time since the Indian private lender wrote off a risky local note in 2020, and has hired arrangers for a dollar issuance, according to people familiar with the matter.",
+      "id": "2026-08-17-ca9161a2",
+      "headline": "China's Xi Touts Military, Economic Agenda at Key Event",
+      "summary": "Here are scenes from Chinese President Xi Jinping's speech at an event marking the centenary of Jiang Zemin’s birth. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/yes-bank-makes-bond-market-comeback-years-after-at1-write-off",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/china-s-xi-touts-military-economic-agenda-at-key-event-video",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "07:51",
+      "time": "07:14",
       "conflict_id": null,
       "score": 26.1
     },
@@ -350,20 +518,6 @@
       "category": "business",
       "date": "2026-08-17",
       "time": "07:39",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-ca9161a2",
-      "headline": "China's Xi Touts Military, Economic Agenda at Key Event",
-      "summary": "Here are scenes from Chinese President Xi Jinping's speech at an event marking the centenary of Jiang Zemin’s birth. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/china-s-xi-touts-military-economic-agenda-at-key-event-video",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "07:14",
       "conflict_id": null,
       "score": 26.1
     },
@@ -410,65 +564,23 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-17-c666fb84",
-      "headline": "Alibaba Reports World-Beating 3 Billion Downloads for Qwen | The China Show | 8/17/2026",
-      "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/the-china-show-8-17-2026-video",
+      "id": "2026-08-17-05c7307e",
+      "headline": "Labor pledges opt-out register for online gambling ads as Pocock calls out shortfalls in government’s bill",
+      "summary": "The new measure falls short of calls for gambling ads to move to an opt-in model, or for an outright banFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Labor government has pledged a new single-service opt-out register for gambling ads – an idea similar to the Do Not Call register for spam calls – as part of amendments to its wagering ad bill, as well as restrictions on induceme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/17/labor-pledges-opt-out-register-for-online-gambling-ads-australia",
       "region": "APJ",
-      "country": "China",
+      "country": "Australia",
       "category": "politics",
       "date": "2026-08-17",
-      "time": "06:08",
+      "time": "08:14",
       "conflict_id": null,
-      "score": 26.1
+      "score": 24.0
     },
     {
-      "id": "2026-08-17-ac9f0802",
-      "headline": "Asian Refiners Ask to Pick Up Saudi Oil Outside Risky Red Sea",
-      "summary": "Some Asian refiners are pushing back against Saudi Aramco’s request that they pick up their oil at Yanbu on the Red Sea, due to the difficulty of finding ships willing to sail through the dangerous waterway.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/asian-refiners-ask-to-pick-up-saudi-oil-outside-risky-red-sea",
-      "region": "NA",
-      "country": "Saudi",
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "06:07",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-43bf0958",
-      "headline": "Global Tightening Wave Puts Pressure on Bonds | Insight with Haslinda Amin 8/17/2026",
-      "summary": "Insight with Haslinda Amin, a daily news program featuring in-depth, high-profile interviews and analysis to give viewers the complete picture on the stories that matter. The show features prominent leaders spanning the worlds of business, finance, politics and culture. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/insight-with-haslinda-amin-8-17-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "05:59",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-69cdb0cd",
-      "headline": "FTSE 100 Live: UK Stocks Rally as Miners, AstraZeneca Rise",
-      "summary": "",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/live-blog/2026-08-17/ftse-100-live-pound-bonds-fed-dollar-gold-trump-iran-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today-mswtbjt5",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "05:48",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-bf8ecfc2",
-      "headline": "Australian news live: Canavan and Joyce attend anti-abortion rally and back controversial bill; Rinehart owns $1.5bn of SpaceX shares",
-      "summary": "Nationals leader welcomes introduction of bill experts call hurtful and misleading. Follow today’s news liveGet our breaking news email, free app or daily news podcastHume says housing the ‘best indicator of economic security’ in retirement over superThe deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson called on Sunday f",
+      "id": "2026-08-17-f0662213",
+      "headline": "Canavan and Joyce attend anti-abortion rally and back controversial bill – as it happened",
+      "summary": "This blog is now closedLabor pledges opt-out register for online gambling ads akin to Do Not Call register for spam callsGet our breaking news email, free app or daily news podcastHume says housing the ‘best indicator of economic security’ in retirement over superThe deputy Liberal leader, Jane Hume says the Coalition will reconsider whether Australians should be able to access more of their superannuation balance early after Pauline Hanson calle",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/17/australia-politics-live-labor-work-rights-visa-holders-anthony-albanese-angus-taylor-pauline-hanson-liberal-party-one-nation-ntwnfb",
       "region": "APJ",
@@ -494,30 +606,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-17-984608a1",
-      "headline": "Labor pledges opt-out register for online gambling ads akin to Do Not Call register for spam calls",
-      "summary": "The new measure falls short of calls for gambling ads to move to an opt-in model, or for an outright banFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe Labor government has pledged a new single-service opt-out register for gambling ads – an idea similar to the Do Not Call register for spam calls – as part of amendments to its wagering ad bill, as well as restrictions on induceme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/17/labor-pledges-opt-out-register-for-online-gambling-ads-australia",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-08-17",
-      "time": "05:23",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-08-17-63c18f23",
-      "headline": "At least seven dead in ‘stampede-like’ incident at India temple",
-      "summary": "The fatal incident reportedly took place amid a rush of devotees at a temple in India&#039;s Bihar state.",
+      "id": "2026-08-17-04d19975",
+      "headline": "Outrage as Colombia’s president hands out footballs as residents await aid",
+      "summary": "Outrage as Colombian president hands out footballs in earthquake-hit city where residents say they await urgent aid.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-dead-in-stampede-like-incident-at-india-temple?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/outrage-as-colombias-president-hands-out-footballs-as-residents-await-aid?traffic_source=rss",
       "region": "SA",
-      "country": "India",
+      "country": "Colombia",
       "category": "politics",
       "date": "2026-08-17",
-      "time": "05:32",
+      "time": "08:18",
       "conflict_id": null,
       "score": 23.4
     },
@@ -550,11 +648,11 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-17-1e7190d4",
-      "headline": "Geely's Q2 profit grows 36% as exports increasingly power sales",
+      "id": "2026-08-17-dacc59d0",
+      "headline": "Geely's Q2 profit grows 37% as exports increasingly power sales",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/geely-s-q2-profit-grows-36-as-exports-increasingly-power-sales",
+      "url": "https://asia.nikkei.com/business/automobiles/geely-s-q2-profit-grows-37-as-exports-increasingly-power-sales",
       "region": "APJ",
       "country": null,
       "category": "business",
@@ -592,6 +690,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-17-a4f24c1a",
+      "headline": "Can the EU stop smoking by taxing cigarettes? Take our poll",
+      "summary": "The EU is proposing sharp tax increases on cigarettes and, for the first time, EU-wide minimum excise duties on vapes, heated tobacco products and nicotine pouches. This follows a review that found current tobacco laws are no longer keeping pace with the rapidly evolving nicotine market.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/17/can-the-eu-stop-smoking-by-taxing-cigarettes-take-our-poll",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "06:05",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-17-0a429895",
+      "headline": "What Nvidia's $500 billion Wall Street deal signals about the AI boom",
+      "summary": "Nvidia and six of the world's largest investment firms announced plans last week to channel more than $500 billion (€433bn) into AI infrastructure, an arrangement designed to let tech companies build data centres without loading the cost onto their own balance sheets.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/17/what-nvidias-500-billion-wall-street-deal-signals-about-the-ai-boom",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "06:05",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-16-66d4cf97",
       "headline": "Ukrainian drone attack on Russia kills at least six, says Moscow",
       "summary": "Kyiv launches what may be its largest attack wave of war, with fire breaking out at warehouse near Russian capitalUkraine has launched one of its largest drone attacks since the start of the war, causing a fire at a distribution warehouse near Moscow and killing at least six people overnight, according to Russian authorities.The defence ministry in Moscow said it had shot down 1,478 Ukrainian drones in the past 24 hours – the highest ever total c",
@@ -603,7 +729,7 @@
       "date": "2026-08-16",
       "time": "16:10",
       "conflict_id": "ukraine-war",
-      "score": 60.0
+      "score": 68.0
     },
     {
       "id": "2026-08-16-fa89e6fa",
@@ -617,7 +743,7 @@
       "date": "2026-08-16",
       "time": "23:58",
       "conflict_id": "israel-hamas",
-      "score": 59.4
+      "score": 67.4
     },
     {
       "id": "2026-08-16-1ec416eb",
@@ -631,7 +757,7 @@
       "date": "2026-08-16",
       "time": "18:43",
       "conflict_id": "israel-hamas",
-      "score": 54.4
+      "score": 62.4
     },
     {
       "id": "2026-08-16-ed847852",
@@ -662,20 +788,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-08-16-f550481f",
-      "headline": "Erdogan says Hamas acted sincerely, criticises Israeli attacks",
-      "summary": "Erdogan said Hamas has shown all possible sincere solidarity, while Israel continues aggressive attacks on Gaza.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/16/16-08-clip-erdogan-gaza-tr?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "20:55",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
       "id": "2026-08-16-553fc96a",
       "headline": "The U.S. Military Wants A.I. Dominance. Feuds and China May Thwart It.",
       "summary": "The administration is veering wildly in its response to the national security implications of A.I. as China, America’s main technological and military rival, charges ahead.",
@@ -688,34 +800,6 @@
       "time": "13:41",
       "conflict_id": null,
       "score": 41.2
-    },
-    {
-      "id": "2026-08-16-016950c0",
-      "headline": "US commander says mental health a 'priority' on USS Lincoln",
-      "summary": "Adm Cooper acknowledges service at sea for long periods is \"uniquely challenging\", after visiting the warship.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ceqeeendz42o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "21:04",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-16-19334b9c",
-      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
-      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "09:27",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-16-2c13cfef",
@@ -760,20 +844,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-08-16-5137d0d1",
-      "headline": "Anwar Ibrahim: Malaysia between the superpowers",
-      "summary": "Malaysian PM Anwar Ibrahim joins Sreenivasan Jain on justice, trade, and a middle power holding superpowers to account.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/the-india-report/2026/8/16/anwar-ibrahim-malaysia-between-the-superpowers?traffic_source=rss",
-      "region": "APJ",
-      "country": "Malaysia",
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "21:23",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-08-16-4f5f3a75",
       "headline": "India built the world's biggest digital payments miracle. Now comes the bill",
       "summary": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
@@ -790,7 +860,7 @@
     {
       "id": "2026-08-16-cc0d16de",
       "headline": "Technology Stocks Lift Equities as Treasuries Rise: Markets Wrap",
-      "summary": "Technology stocks lifted global equities after stellar revenue growth at Anthropic PBC bolstered the view that massive spending on artificial intelligence will be sustained. Treasuries gained as oil prices fell.",
+      "summary": "Technology stocks lifted global equities after stellar revenue growth at Anthropic PBC bolstered the view that massive spending on artificial intelligence will be sustained. Treasury yields and the dollar fell.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-16/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -828,20 +898,6 @@
       "time": "04:44",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-08-15-654a8328",
-      "headline": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
-      "summary": "Eighteen children among the people killed after ferry capsized on Lake KaribaTwenty-two more bodies have been recovered after a boat accident in Zimbabwe, taking the death toll to 68, police said on Saturday.The ferry capsized on Tuesday on Lake Kariba, on the border with Zambia. An investigation has suggested it was overloaded when it turned over during heavy winds. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/15/more-bodies-recovered-after-zimbabwe-boat-accident",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-15",
-      "time": "19:39",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-08-15-0c2c2204",
@@ -984,48 +1040,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-13-b6a6668b",
-      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "19:46",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-13-ba22fc9a",
-      "headline": "Family of Irish plane crash victim awarded $29m in damages",
-      "summary": "A jury in Chicago in the US awarded the sum to Michael Ryan's family after his  widow Naoise Connolly Ryan brought a civil suit against Boeing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce85p80nn2yo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "19:08",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-13-2170408b",
-      "headline": "'I lost $14,000 in a month': Investors hit by Korean stock market's wild swings",
-      "summary": "Some traders are reeling from heavy losses after a brutal correction in South Korea's stock market.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c2k7zj4knwlo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-08-13",
-      "time": "22:00",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-13-13e346e2",
       "headline": "Is the LA Lakers’ sale a sign of sports investment gone mad?",
       "summary": "$12.5bn price tag is highest ever for an American sports team",
@@ -1108,20 +1122,6 @@
       "time": "14:43",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-10-5ab80ff0",
-      "headline": "Alleged rebel leader killed in Colombia as president targets armed groups",
-      "summary": "The military operation against Hernando Forero Mosquera was carried out just days after Colombia's new president was sworn in.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yrljp9x9eo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Colombia",
-      "category": "geopolitics",
-      "date": "2026-08-10",
-      "time": "12:23",
-      "conflict_id": null,
-      "score": 35.0
     }
   ]
 }
