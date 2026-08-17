@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-17T20:48:33.940453+00:00",
-  "story_count": 78,
-  "source_count": 9,
+  "updated": "2026-08-17T21:13:21.644170+00:00",
+  "story_count": 83,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-17-801c7ef4",
@@ -46,6 +46,20 @@
       "score": 58.2
     },
     {
+      "id": "2026-08-17-4a2ecb2c",
+      "headline": "Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment",
+      "summary": "The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "15:38",
+      "conflict_id": null,
+      "score": 57.2
+    },
+    {
       "id": "2026-08-17-81d96257",
       "headline": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
       "summary": "President says he ‘gets along great’ with dictator but officials say Ukraine war is boosting North’s capabilitiesDonald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime is learning new battlefield tactics from the Ukraine war.The drills under Ulchi Freedom Shield, one of two main annual exercises held by Sout",
@@ -58,6 +72,20 @@
       "time": "09:10",
       "conflict_id": null,
       "score": 57.0
+    },
+    {
+      "id": "2026-08-17-fa550d8d",
+      "headline": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on",
+      "summary": "President Donald Trump’s interim deal with Iran in June set aside two months for negotiations, but the window has now closed and broader talks are at a standstill.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "20:34",
+      "conflict_id": null,
+      "score": 56.9
     },
     {
       "id": "2026-08-17-63b16df0",
@@ -102,6 +130,34 @@
       "score": 54.4
     },
     {
+      "id": "2026-08-17-3a0719f6",
+      "headline": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
+      "summary": "It's the second time Trump has asked the Supreme Court to overturn damages awarded to E. Jean Carroll.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/us-supreme-court-again-rejects-trumps-request-to-overturn-sex-assault-judgement",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "18:15",
+      "conflict_id": null,
+      "score": 53.0
+    },
+    {
+      "id": "2026-08-17-750c6341",
+      "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
+      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "18:45",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-08-17-73382858",
       "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
       "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
@@ -130,18 +186,32 @@
       "score": 49.9
     },
     {
-      "id": "2026-08-17-4a2ecb2c",
-      "headline": "Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment",
-      "summary": "The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-08-17-ffcb666a",
+      "headline": "Kushner's Gaza peace plan talks end without breakthrough",
+      "summary": "A senior Israeli official told news agency AFP that the US and Israel had \"agreed that no redeployment or reconstruction would take place in the Gaza Strip before Hamas is disarmed throughout Gaza.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/kushners-gaza-peace-plan-talks-end-without-breakthrough",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "15:38",
+      "time": "18:00",
+      "conflict_id": "israel-hamas",
+      "score": 49.0
+    },
+    {
+      "id": "2026-08-17-01bf102c",
+      "headline": "Supreme Court rebuffs Trump’s bid to overturn $5 million verdict in Carroll case",
+      "summary": "The president was found liable of sexually abusing and defaming E. Jean Carroll in the high-profile civil case.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/supreme-court-rebuffs-trumps-bid-overturn-5-million-verdict-carroll-case/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "16:00",
       "conflict_id": null,
-      "score": 49.2
+      "score": 48.9
     },
     {
       "id": "2026-08-17-59fa4622",
@@ -158,6 +228,34 @@
       "score": 48.4
     },
     {
+      "id": "2026-08-17-3b6d7b1f",
+      "headline": "Russia upholds Yabloko party's election ban and jails its deputy chair",
+      "summary": "The Supreme Court upheld Yabloko's removal from the September ballot hours after a Pskov court sentenced deputy chair Lev Shlosberg to more than 11 years in a penal colony for calling for a ceasefire in Russia's ongoing all-out war in Ukraine.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "17:51",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-08-17-9099fdbb",
+      "headline": "Palestinian American reunites with family under siege in West Bank",
+      "summary": "Videos show the first moments Palestinian-American Loui Ridi arrived at his home in Qusra.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/palestinian-american-reunites-with-family-under-siege-in-west-bank?traffic_source=rss",
+      "region": "EU",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "20:57",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
       "id": "2026-08-17-b37956b6",
       "headline": "Palestinians, Israelis sceptical of Gaza plan as Kushner visits region",
       "summary": "US envoy Jared Kushner met Hamas leaders in Egypt and Israeli PM Netanyahu to push Trump’s 15-point Gaza roadmap.",
@@ -170,20 +268,6 @@
       "time": "16:50",
       "conflict_id": "israel-hamas",
       "score": 43.4
-    },
-    {
-      "id": "2026-08-17-7e9830d9",
-      "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
-      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "19:25",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-08-17-36b06b17",
@@ -200,18 +284,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-17-750c6341",
-      "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
+      "id": "2026-08-17-e0a5f7b8",
+      "headline": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations",
+      "summary": "US president’s remarks follow talks between Gulf state and Tehran over provisional arrangement to manage Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "18:45",
+      "time": "11:25",
       "conflict_id": null,
-      "score": 43.0
+      "score": 42.4
     },
     {
       "id": "2026-08-17-aae916f1",
@@ -226,20 +310,6 @@
       "time": "20:02",
       "conflict_id": null,
       "score": 41.2
-    },
-    {
-      "id": "2026-08-17-01bf102c",
-      "headline": "Supreme Court rebuffs Trump’s bid to overturn $5 million verdict in Carroll case",
-      "summary": "The president was found liable of sexually abusing and defaming E. Jean Carroll in the high-profile civil case.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/supreme-court-rebuffs-trumps-bid-overturn-5-million-verdict-carroll-case/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-17",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-08-17-16f8a115",
@@ -284,18 +354,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-17-4a4875b5",
-      "headline": "Police execute controlled World War II–era Mine explosion",
-      "summary": "Video footage released by police on Sunday shows Slovak bomb disposal experts executing a mine detonation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/police-execute-controlled-world-war-ii-era-mine?traffic_source=rss",
+      "id": "2026-08-17-62e4779f",
+      "headline": "Trump threatens to bomb Oman if it impedes US-Iran Strait of Hormuz talks",
+      "summary": "Tehran has been locked in ongoing talks with Oman over establishing a secure passage for commercial shipping through the Strait, which usually carries around a quarter of the world’s seaborne oil trade.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/trump-threatens-to-bomb-oman-if-it-impedes-us-iran-strait-of-hormuz-talks",
       "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
+      "country": "Tehran",
+      "category": "business",
       "date": "2026-08-17",
-      "time": "15:08",
+      "time": "13:28",
       "conflict_id": null,
-      "score": 39.4
+      "score": 37.0
     },
     {
       "id": "2026-08-17-69832355",
@@ -310,6 +380,20 @@
       "time": "14:40",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-08-17-4174b726",
+      "headline": "Anthropic Revenue Boom Boosts AI Stocks | Bloomberg Businessweek Daily 8/17/2026",
+      "summary": "Bloomberg Intelligence's Global Head of Technology Research Mandeep Singh reacts to Anthropic's revenue report, and news Alphabet is seeking billions in its debut bond offering in Australia. Then, Citi Wealth's Olaolu Aganga joins to discuss AI exposure to investment portfolios, and other AI-related headlines. Plus, Former Biden White House Economics Senior Director Peter Harrell discusses how the War with Iran is making the Trump Administration ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-businessweek-daily-8-17-2026-video",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "20:24",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-08-17-b0d074dd",
@@ -382,6 +466,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-17-e767487b",
+      "headline": "Russia maintains election ban on opposition Yabloko, jails deputy head",
+      "summary": "Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "18:46",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-08-17-133b2fd2",
       "headline": "China's Geely boosts export target as founder warns of 'deglobalization'",
       "summary": "",
@@ -452,6 +550,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-17-6c5de3d2",
+      "headline": "Test Your ETF Knowledge In Our IQ Test",
+      "summary": "Bloomberg's Joel Weber puts Scarlet Fu, James Seyffart, and Todd Sohn, ETF strategist at Baird Strategas, to the test on \"Bloomberg ETF IQ\" in this week's edition of \"IQ Test.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/test-your-etf-knowledge-in-our-iq-test-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "21:08",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-17-a540c88f",
+      "headline": "EM Currencies Rise on Softer Dollar and Stronger Risk Appetite",
+      "summary": "An index tracking developing-world currencies gained Monday as fading bets on a Federal Reserve interest-rate hike next month undercut the dollar and supported risk appetite.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/emerging-currencies-rise-to-record-high-as-fed-hike-bets-ease",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "05:40",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-17-2afb16d9",
       "headline": "Goldman Sachs to Acquire ETF Provider Neos in $2.3B Deal",
       "summary": "Bloomberg Intelligence's Neil Sipes joins Scarlet Fu and James Seyffart on \"ETF IQ.\" Goldman Sachs will pay as much as $2.25 billion to buy Neos Investments, expanding its asset manager’s reach in the actively managed ETF market. (Source: Bloomberg)",
@@ -508,34 +634,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-17-40dff37e",
-      "headline": "US Stocks Fall as Rising Oil Prices, Yields Offset Chip Gains",
-      "summary": "US stocks dropped on Monday as long-term Treasury yields extended their recent climb and oil ticked higher. Chipmakers notched gains as details of Anthropic’s surging sales growth stoked bullish sentiment around AI.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/us-futures-flat-tech-shares-gain-on-anthropic-revenue-jump",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "12:41",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-d6a0b272",
-      "headline": "Dollar Extends Slide as Traders Scale Back Fed Tightening Bets",
-      "summary": "The dollar fell to its weakest level in three months as investors scaled back expectations for further Federal Reserve interest-rate increases following a run of softer US economic data.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/dollar-extends-slide-as-traders-scale-back-fed-tightening-bets",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "09:20",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-17-6aa70937",
       "headline": "Deals, Launches, and Risk-Taking | ETF IQ 8/17/2026",
       "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Baird Strategas Chief ETF Strategist Todd Sohn, Founders 100 ETF CIO Lauren Cassidy, VistaShares CEO Adam Patti, and Teucrium Head of ETF Solutions. (Source: Bloomberg)",
@@ -546,20 +644,6 @@
       "category": "business",
       "date": "2026-08-17",
       "time": "20:07",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-5349ab7b",
-      "headline": "Levered ETFs Are New Way To Measure Sentiment: Sohn",
-      "summary": "Todd Sohn, chief ETF strategist at Baird Strategas, joins Scarlet Fu and James Seyffart on \"ETF IQ.\" They discuss leveraged ETFs, the recent rush of thematic filings, and the risk the tied to concentrated portfolios.\n (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/levered-etfs-are-new-way-to-measure-sentiment-sohn-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "19:51",
       "conflict_id": null,
       "score": 26.1
     },
@@ -608,14 +692,14 @@
     {
       "id": "2026-08-17-48005658",
       "headline": "Australia politics live: Greens say Labor and Coalition deal on gambling ad laws a ‘smokescreen’",
-      "summary": "Greens spokeswoman Sarah Hanson-Young says opt-out system doesn’t acknowledge ‘how the internet actually works. Follow today’s news liveGet our breaking news email, free app or daily news podcastGreens senator Sarah Hanson-Young has claimed Labor’s proposal to let Australians opt out of all gambling ads online doesn’t account for how the internet works.\n The government has promised a “one-stop shop” to opt out of the ads online, in its latest gam",
+      "summary": "Greens spokeswoman Sarah Hanson-Young says opt-out system doesn’t acknowledge ‘how the internet actually works. Follow today’s news liveGet our breaking news email, free app or daily news podcastJulia Gillard is the most put-upon prime minister in question time in recent times, according to a new academic study reported by Australian Associated Press.More than 21,000 question time questions from the opposition were tracked from 1981 to 2025, taki",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
-      "region": "EU",
+      "region": "MENA",
       "country": "Australia",
       "category": "politics",
       "date": "2026-08-17",
-      "time": "20:33",
+      "time": "20:45",
       "conflict_id": null,
       "score": 24.0
     },
@@ -648,20 +732,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-17-e767487b",
-      "headline": "Russia maintains election ban on opposition Yabloko, jails deputy head",
-      "summary": "Supreme Court ruling supports Kremlin&#039;s clampdown on the political party ahead of September&#039;s parliamentary vote.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/russia-maintains-election-ban-on-opposition-yabloko-jails-deputy-head?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-17",
-      "time": "18:46",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
       "id": "2026-08-17-7a012af0",
       "headline": "Clashes between government and opposition fighters in Somalia’s Baidoa",
       "summary": "Heavy clashes broke out in Baidoa, Somalia between federal troops and armed opposition groups.",
@@ -690,18 +760,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-17-7d0365d1",
-      "headline": "Lula and Bolsonaro’s son launch rival bids for Brazil presidency",
-      "summary": "Brazil’s presidential race is officially underway.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/17/lula-and-bolsonaros-son-launch-rival-bids-for-brazil-presidency?traffic_source=rss",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
+      "id": "2026-08-17-3741c2ef",
+      "headline": "Japan readies strategic changes as drones, China upend landscape",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/defense/japan-readies-strategic-changes-as-drones-china-upend-landscape",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "14:03",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-08-17-e2fb12f9",
@@ -816,32 +886,60 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-17-89ed0948",
-      "headline": "Thailand-Cambodia border tensions reshape public discourse",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/thailand-cambodia-border-tensions-reshape-public-discourse",
-      "region": "APJ",
-      "country": "Thailand",
-      "category": "geopolitics",
+      "id": "2026-08-17-a0fcb74e",
+      "headline": "'Our house is on fire, Andy': Activists send stark message to PM over new oil and gas drilling",
+      "summary": "A Welsh hillside scorched by wildfire has been used as the canvas for a new piece of art.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/our-house-is-on-fire-andy-activists-send-stark-message-to-pm-over-new-oil-and-gas-drilling",
+      "region": "EU",
+      "country": null,
+      "category": "business",
       "date": "2026-08-17",
-      "time": "",
+      "time": "14:43",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
-      "id": "2026-08-16-ed847852",
-      "headline": "In ‘The Brink of War,’ a Return to an Era of Razor-Edge Diplomacy",
-      "summary": "A new film depicts the 1986 nuclear arms summit in Reykjavik, Iceland, between Ronald Reagan and Mikhail Gorbachev, which both offered and dashed hopes of a dramatic breakthrough.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/16/us/politics/brink-of-war-reagan-nuclear-weapons.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-16",
-      "time": "18:47",
+      "id": "2026-08-17-e7804d41",
+      "headline": "Geothermal energy promises a domestic energy supply –  the EU needs a strategy",
+      "summary": "The EU runs the risk of standing idly by whilst the US and Canada develop geothermal energy into an industry. In Europe discussions about partnerships are still ongoing, writes Tatiana Mindekova from the global energy think tank ‘Ember’ in a guest article for Euronews.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/17/geothermal-energy-promises-a-domestic-energy-supply-the-eu-needs-a-strategy",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "14:03",
       "conflict_id": null,
-      "score": 49.2
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-17-900bd58e",
+      "headline": "Venezuela seeks return of 31 tonnes of gold worth €4bn from Bank of England",
+      "summary": "After two weeks of US-brokered talks, Venezuela's government and opposition agreed to jointly seek $4bn in gold held by the Bank of England since 2018, to fund reconstruction after June's earthquakes.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/venezuela-seeks-return-of-31-tonnes-of-gold-worth-4bn-from-bank-of-england",
+      "region": "SA",
+      "country": "Venezuela",
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "13:09",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-17-3e291af0",
+      "headline": "Revolut is set to launch airport lounges, with the first opening in Copenhagen in 2027",
+      "summary": "The fintech company’s first foray into the market will be the largest common-use lounge in the Schengen area.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/17/revolut-is-set-to-launch-airport-lounges-with-the-first-opening-in-copenhagen-in-2027",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "13:06",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-08-16-553fc96a",
@@ -1012,20 +1110,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-13-e516d2a2",
-      "headline": "Putin can no longer claim victory in Ukraine, Nobel Peace Prize winner tells BBC",
-      "summary": "In an exclusive interview with the BBC’s Steve Rosenberg, Dmitry Muratov says the Kremlin leader can only \"destroy Ukraine, not conquer it\", with the war now in its fifth year.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74grmy2v7ko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "04:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-13-c1256ac4",
       "headline": "The world’s biggest fast-food chain is moving into pubs",
       "summary": "Why China’s Mixue Bingcheng is serving up beer",
@@ -1050,20 +1134,6 @@
       "category": "geopolitics",
       "date": "2026-08-11",
       "time": "14:50",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-11-6352ef75",
-      "headline": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-08-11",
-      "time": "19:27",
       "conflict_id": null,
       "score": 35.0
     },
