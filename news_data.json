@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-17T11:56:03.887869+00:00",
-  "story_count": 80,
+  "updated": "2026-08-17T12:20:42.941318+00:00",
+  "story_count": 81,
   "source_count": 10,
   "stories": [
     {
@@ -15,35 +15,7 @@
       "date": "2026-08-17",
       "time": "11:16",
       "conflict_id": "israel-hamas",
-      "score": 71.0
-    },
-    {
-      "id": "2026-08-17-1c153a92",
-      "headline": "Kushner to meet Israeli PM Netanyahu after talks with Hamas on Gaza peace plan",
-      "summary": "The meeting comes two weeks after Hamas endorsed the latest stage of Trump's Gaza plan, which Netanyahu has refused to support, insisting any settlement must ensure the group is \"genuinely disarmed.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/17/kushner-to-meet-israeli-pm-netanyahu-after-talks-with-hamas-on-gaza-peace-plan",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "07:04",
-      "conflict_id": "israel-hamas",
-      "score": 65.0
-    },
-    {
-      "id": "2026-08-17-f47b0c00",
-      "headline": "Kushner to hold talks with Netanyahu after meeting Hamas leader",
-      "summary": "Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "08:26",
-      "conflict_id": "israel-hamas",
-      "score": 62.4
+      "score": 63.0
     },
     {
       "id": "2026-08-17-215a4e4a",
@@ -58,20 +30,6 @@
       "time": "06:24",
       "conflict_id": null,
       "score": 60.0
-    },
-    {
-      "id": "2026-08-17-382a12c6",
-      "headline": "Kushner meets Netanyahu to push Trump Gaza plan",
-      "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "08:13",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
     },
     {
       "id": "2026-08-17-8ca64eb3",
@@ -130,6 +88,34 @@
       "score": 57.0
     },
     {
+      "id": "2026-08-17-59d6ab01",
+      "headline": "Kushner holds talks with Netanyahu after meeting Hamas leader",
+      "summary": "Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "08:26",
+      "conflict_id": "israel-hamas",
+      "score": 54.4
+    },
+    {
+      "id": "2026-08-17-382a12c6",
+      "headline": "Kushner meets Netanyahu to push Trump Gaza plan",
+      "summary": "The talks come one day after the US president&#039;s son-in-law held a rare meeting with Hamas leaders in Egypt.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/kushner-to-meet-netanyahu-to-push-trump-gaza-plan?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "08:13",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
       "id": "2026-08-17-f7d2fea4",
       "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
       "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
@@ -156,6 +142,20 @@
       "time": "11:29",
       "conflict_id": null,
       "score": 48.4
+    },
+    {
+      "id": "2026-08-17-4fbdc258",
+      "headline": "At least seven killed in stampede at Hindu temple in India",
+      "summary": "Panic reportedly broke out among thousands of worshippers after rumours that an electricity pole had fallen on devotees.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/17/at-least-seven-killed-in-stampede-at-hindu-temple-in-india",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-17",
+      "time": "08:35",
+      "conflict_id": null,
+      "score": 45.0
     },
     {
       "id": "2026-08-17-0ca7c73f",
@@ -200,6 +200,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-08-17-c8d57eaa",
+      "headline": "At least seven people killed in Ukrainian air attacks on Russia",
+      "summary": "Overnight Russian missile and drone attacks across Ukraine kill two people and injure 19.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/17/at-least-six-people-killed-in-ukrainian-missile-attack-on-russias-belgorod?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "08:00",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-17-eacfdc30",
       "headline": "Virgin Trains takes major step towards challenging Eurostar with London to Europe services",
       "summary": "Virgin Trains has been cleared to run up to 20 daily return services through the Channel Tunnel from 2030, bringing an end to Eurostar’s long-running monopoly one step closer.",
@@ -210,20 +224,6 @@
       "category": "geopolitics",
       "date": "2026-08-17",
       "time": "10:26",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-08-17-4fbdc258",
-      "headline": "At least seven killed in stampede at Hindu temple in India",
-      "summary": "Panic reportedly broke out among thousands of worshippers after rumours that an electricity pole had fallen on devotees.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/17/at-least-seven-killed-in-stampede-at-hindu-temple-in-india",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-08-17",
-      "time": "08:35",
       "conflict_id": null,
       "score": 37.0
     },
@@ -240,6 +240,34 @@
       "time": "01:00",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-08-17-e0a5f7b8",
+      "headline": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations",
+      "summary": "Remarks come as Gulf state has been in talks with Tehran over provisional arrangement to manage Strait of Hormuz",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "11:25",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-08-17-affe391f",
+      "headline": "Chasing This Global Stocks Rally Boosts the Need for Protection",
+      "summary": "Reasons to be wary about stocks are quickly disappearing and a Goldilocks scenario looks increasingly likely. That’s precisely why it’s a perfect time to hedge against a market priced for perfection.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/chasing-this-rally-boosts-the-need-for-protection-taking-stock",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "06:15",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-08-17-3a549e03",
@@ -412,14 +440,14 @@
     {
       "id": "2026-08-17-c84282f4",
       "headline": "Top Zambian opposition figures arrested days after presidential vote",
-      "summary": "The authorities allege they were involved in an insurrection plot but the leading opposition candidate says there was an attempt on his life.",
+      "summary": "The leading opposition candidate calls allegations of a planned insurrection as \"total fabrications\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-08-17",
-      "time": "10:57",
+      "time": "12:11",
       "conflict_id": null,
       "score": 27.0
     },
@@ -450,6 +478,34 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-17-0098a432",
+      "headline": "Ascend Sport Said to Mull Listing in Up to $740 Million Deal",
+      "summary": "Switzerland’s Ascend Sport Technology AG is exploring strategic options, including a reverse merger with a listed shell company that could value the firm between 500 million and 600 million Swiss francs ($740 million), according to people familiar with matter.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/ascend-sport-said-to-mull-listing-in-up-to-740-million-merger",
+      "region": "EU",
+      "country": "Switzerland",
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "09:24",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-17-459284b1",
+      "headline": "Stocks Rise on AI Confidence; Tensions Mount in the Middle East | Bloomberg Brief 08/17/2026",
+      "summary": "The dollar falls to a three-month low as the latest economic data further ease bets on Fed rate hikes. The 60-day deadline of the US-Iran MOU expires and Tehran says it has lost \"all relevance\" because of the violations from the US. Ella Gude of BNY Investments Newton discusses the Fed's rate path. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-17/bloomberg-brief-08-17-2026-video",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "business",
+      "date": "2026-08-17",
+      "time": "11:56",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-17-2c4334ca",
@@ -546,20 +602,6 @@
       "category": "business",
       "date": "2026-08-17",
       "time": "10:19",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-4c545467",
-      "headline": "Sri Lanka SEC: State Firms to List Via Holding Company",
-      "summary": "Hareendra Dissabandara, Chairman at the Securities and Exchange Commission of Sri Lanka, says the government is “seriously working” on listing state-owned enterprises on the Colombo bourse. He speaks with Haslinda Amin on Insight with Haslinda Amin. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-17/sri-lanka-sec-state-firms-to-list-via-holding-company-video",
-      "region": "SA",
-      "country": "Sri Lanka",
-      "category": "politics",
-      "date": "2026-08-17",
-      "time": "09:57",
       "conflict_id": null,
       "score": 26.1
     },
@@ -816,20 +858,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-16-79bcc30c",
-      "headline": "Bonds Face Bigger Threat Than the Fed as Global Rates Climb",
-      "summary": "As investors debate whether and when the Federal Reserve will raise interest rates, market expectations for further tightening are building around the world — and spelling trouble for bonds.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-16/bonds-face-a-bigger-threat-than-the-fed-as-global-rates-climb",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-16",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-16-86085da3",
       "headline": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
       "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power.Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political career began nearly half a century a",
@@ -994,20 +1022,6 @@
       "category": "geopolitics",
       "date": "2026-08-13",
       "time": "04:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-13-b6a6668b",
-      "headline": "Romania shuts only nuclear plant as heat causes huge drop in Danube River level",
-      "summary": "The Cernavodă plant, which produces 20% of Romania's electricity, is not expected to be restarted within the next 10 days.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxpq5q799o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Romania",
-      "category": "geopolitics",
-      "date": "2026-08-13",
-      "time": "19:46",
       "conflict_id": null,
       "score": 35.0
     },
