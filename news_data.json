@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T19:03:09.666035+00:00",
-  "story_count": 77,
-  "source_count": 9,
+  "updated": "2026-08-18T19:36:00.203253+00:00",
+  "story_count": 81,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-18-64883fdf",
@@ -15,7 +15,21 @@
       "date": "2026-08-18",
       "time": "05:50",
       "conflict_id": null,
-      "score": 64.0
+      "score": 65.0
+    },
+    {
+      "id": "2026-08-18-3143c37d",
+      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "12:36",
+      "conflict_id": "ukraine-war",
+      "score": 63.0
     },
     {
       "id": "2026-08-18-8d37772d",
@@ -30,20 +44,6 @@
       "time": "10:40",
       "conflict_id": "ukraine-war",
       "score": 62.4
-    },
-    {
-      "id": "2026-08-18-3143c37d",
-      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "12:36",
-      "conflict_id": "ukraine-war",
-      "score": 55.0
     },
     {
       "id": "2026-08-18-015163eb",
@@ -86,6 +86,20 @@
       "time": "14:24",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-08-18-11e9d0af",
+      "headline": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
+      "summary": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "13:29",
+      "conflict_id": null,
+      "score": 46.0
     },
     {
       "id": "2026-08-18-dbcce510",
@@ -158,32 +172,32 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-18-a5558397",
-      "headline": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
-      "summary": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
+      "id": "2026-08-18-8cb97698",
+      "headline": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+      "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
-      "region": "MENA",
-      "country": "Syria",
+      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "13:06",
+      "time": "14:49",
       "conflict_id": null,
       "score": 39.4
     },
     {
-      "id": "2026-08-18-c8e2d508",
-      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-18-9a331125",
+      "headline": "Over 2,000 emergency personnel tackle wildfires still raging in Portugal",
+      "summary": "The Portuguese Institute for Sea and Atmosphere (source in Portuguese) has placed nine districts under orange warning until 18:00 this Tuesday, with the rest of mainland Portugal, except Lisbon, Setúbal and Faro, under yellow warning.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/over-2000-emergency-personnel-tackle-wildfires-still-raging-in-portugal",
       "region": "EU",
-      "country": "Germany",
+      "country": "Portugal",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "05:02",
+      "time": "19:13",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
     },
     {
       "id": "2026-08-18-38ade879",
@@ -195,7 +209,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "17:40",
+      "time": "19:18",
       "conflict_id": null,
       "score": 35.0
     },
@@ -228,18 +242,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-18-3b0a3c7d",
-      "headline": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-      "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
+      "id": "2026-08-18-185e1dbc",
+      "headline": "Late Billionaire’s Heirs Claim Venezuela Seized Oil Assets",
+      "summary": "The heirs of late Latin American mogul Oswaldo Cisneros accused the Venezuelan government of unjustly confiscating oil-drilling rights and awarding them to a US company.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/late-billionaire-s-heirs-claims-venezuela-seized-oil-assets",
+      "region": "NA",
+      "country": "Latin America",
+      "category": "politics",
       "date": "2026-08-18",
-      "time": "05:07",
+      "time": "19:15",
       "conflict_id": null,
-      "score": 35.0
+      "score": 34.1
     },
     {
       "id": "2026-08-18-fdc070c0",
@@ -298,20 +312,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-18-696378a1",
-      "headline": "The divide between Trump and Vance on Iran",
-      "summary": "Trump and Vance had differing answers about why the United States is waging war with Iran.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/18/divide-between-trump-vance-iran/",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "09:32",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
       "id": "2026-08-18-9660f178",
       "headline": "What to watch in the Alaska and Wyoming primary elections",
       "summary": "Republican-led states face leadership shuffling.",
@@ -352,6 +352,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-08-18-1c2fd901",
+      "headline": "London's St Pancras station briefly evacuated amid controlled explosion of unattended car",
+      "summary": "Eurostar services are continuing to operate as normal. Police have since declared the incident as non-suspicious.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/londons-st-pancras-station-briefly-evacuated-amid-controlled-explosion-of-unattended-car",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "18:33",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-08-18-098a4e16",
@@ -452,6 +466,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-18-3104da22",
+      "headline": "A Rare Divergence Has Emerged in the Government Bond Market",
+      "summary": "30-year and 2-year bonds on a different direction of travel.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-18/a-rare-divergence-has-emerged-in-the-government-bond-market",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "19:32",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-18-aeb40ee7",
+      "headline": "SEC Unveils Crypto Plan as Agency Moves Ahead on Digital Assets",
+      "summary": "The Securities and Exchange Commission unveiled a proposal to exempt certain digital asset offerings from securities registration statements, as the regulator moves ahead with crypto plans after landmark legislation stalled in Congress.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/sec-proposes-some-registration-exemptions-for-crypto-offerings",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "18:55",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-18-712bf1a9",
+      "headline": "Texas Has 'No Real Protections' Against Data Center Impact, Says Gina Hinojosa",
+      "summary": "Democrat candidate for Governor in Texas Gina Hinojosa said that Texas voters are concerned with the impact of the data center 'gold rush' that has descended on the rural part of the state and that incumbent Governor Greg Abbott has left Texans with 'no real protections.' \nHinojosa also discussed immigration policy in the state and said that Texans across both parties want 'something that makes sense' and doesn't target hardworking, law-abiding T",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/texas-has-no-real-protections-on-data-centers-hinojosa-video",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "18:59",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-18-0319a4cb",
       "headline": "Bond Traders Bite at Microsoft-Tied Data Center Junk-Like Yields",
       "summary": "Blackstone Inc.-backed QTS Realty Trust Inc. offered junk-like yields on a $3.9 billion high-grade bond to fund the construction of a Microsoft Corp.-linked data center in Georgia. It looks to have worked as the deal racked up demand of about six times that amount.",
@@ -522,34 +578,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-18-42106ec7",
-      "headline": "Walter Probe Weighs on Carvana as Investors Suspect Share Sale",
-      "summary": "Shares of online used-car dealer Carvana Co. are extending losses Tuesday, hurt by concerns that one of the company’s largest investors — billionaire Mark Walter — may sell down his stake as he contends with a federal probe of his investment empire.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/walter-probe-weighs-on-carvana-as-investors-suspect-share-sale",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "17:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-3e22a668",
-      "headline": "University of California System Offloads $1 Billion of Private Equity Stakes",
-      "summary": "The University of California system sold $1 billion of private equity stakes to HarbourVest Partners, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/university-of-california-offloads-1-billion-of-private-equity-stakes",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "17:24",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-18-0e75df97",
       "headline": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
       "summary": "Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.",
@@ -608,7 +636,7 @@
     {
       "id": "2026-08-18-31b7d366",
       "headline": "Swedish MP intervenes in ‘damaging’ Brexit row over elderly Britons ordered to leave",
-      "summary": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’The deportation and removal of British citizens from Sweden over Brexit residency rights is damaging relations with the UK amid efforts to reset positive associations with London, a Swedish MP has said.Häkan Svenneling, representative for Vârmland, where a 78-year-old British widow, Joyce Thomas, has been given four weeks to leave Sweden af",
+      "summary": "Migration minister asked how he intends to stop deportations of people ‘who had lived in Sweden for decades’The deportation and removal of British citizens from Sweden over Brexit residency rights is damaging relations with the UK amid efforts to improve links with London, a Swedish MP has said.Häkan Svenneling, representative for Vârmland, where a 78-year-old British widow, Joyce Thomas, has been given four weeks to leave Sweden after 21 years o",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/politics/2026/aug/18/swedish-mp-intervenes-brexit-row-elderly-britons-ordered-leave",
       "region": "EU",
@@ -646,6 +674,20 @@
       "time": "13:51",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-08-18-4bcad839",
+      "headline": "Why open-weight AI is the new frontier in the US-China tech race",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/tech-asia/why-open-weight-ai-is-the-new-frontier-in-the-us-china-tech-race",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-08-18-4795d1fe",
@@ -746,20 +788,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-18-3741c2ef",
-      "headline": "Japan readies strategic changes as drones, China upend landscape",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/defense/japan-readies-strategic-changes-as-drones-china-upend-landscape",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-08-18-e2fb12f9",
       "headline": "Global stock pickers' Japan buys: JX Advanced Metals, Sanrio move up",
       "summary": "",
@@ -772,6 +800,48 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-08-18-1087cdf0",
+      "headline": "Commerzbank, German resistance wanes: UniCredit nears deal, what could change",
+      "summary": "UniCredit eyes control of Commerzbank as Berlin opens the door on its 12.7% stake. What it means for Italy, Germany and European banks",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/18/commerzbank-german-resistance-wanes-unicredit-nears-deal-what-could-change",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "17:23",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-18-b527e3bd",
+      "headline": "This new budget airline is launching direct flights to Spain’s Santiago de Compostela",
+      "summary": "The launch is timed with 2027’s Holy Year, when more pilgrims than ever are expected to complete the Camino de Santiago.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/18/this-new-budget-airline-is-launching-direct-flights-to-spains-santiago-de-compostela",
+      "region": "EU",
+      "country": "Spain",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "15:38",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-18-58cd7c79",
+      "headline": "One third of global travel spending last year was in Europe, new report finds",
+      "summary": "Europe accounted for a third of global leisure travel receipts in 2025, with countries such as Italy, Spain, Türkiye and France expected to drive further growth this year. Here’s what your travel itinerary could look like.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/18/one-third-of-global-travel-spending-last-year-was-in-europe-new-report-finds",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "14:05",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-08-17-215a4e4a",
@@ -802,6 +872,34 @@
       "score": 48.9
     },
     {
+      "id": "2026-08-17-73382858",
+      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
+      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "19:46",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
+      "id": "2026-08-17-f7d2fea4",
+      "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
+      "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "00:20",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
       "id": "2026-08-17-3265b919",
       "headline": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
       "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
@@ -816,46 +914,18 @@
       "score": 47.0
     },
     {
-      "id": "2026-08-17-73382858",
-      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
-      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "19:46",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
-      "id": "2026-08-17-f7d2fea4",
-      "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
-      "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "00:20",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
-      "id": "2026-08-17-7e7d73f6",
-      "headline": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
-      "summary": "Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
+      "id": "2026-08-17-8836b2e1",
+      "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat saysDonald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine.The US president abruptly ordered the Pentagon to scale back joint exercises with South Korea just days after North Korea tes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
       "region": "NA",
-      "country": "North Korea",
+      "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "23:25",
+      "time": "19:11",
       "conflict_id": null,
-      "score": 33.2
+      "score": 40.0
     },
     {
       "id": "2026-08-17-882f683a",
@@ -914,16 +984,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-17-c6686d35",
-      "headline": "Guggenheim 77% Earnings Hit Stems From Unit Whistleblower Tagged",
-      "summary": "A steep decline in Guggenheim Investments’ second-quarter earnings was driven by a delay in reporting certain fee revenue from its private investments unit, where accounting was the subject of a whistleblower report that helped spark a wider probe into Mark Walter’s empire.",
+      "id": "2026-08-17-92ce4e6a",
+      "headline": "Latest Oil Market News and Analysis for Aug. 18",
+      "summary": "Oil edged up to a three-week high, with the US and Iran stuck in a deadlock over control of the Strait of Hormuz.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/guggenheim-rushes-to-clarify-77-earnings-drop-after-loan-slides",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
       "region": "NA",
-      "country": null,
+      "country": "Iran",
       "category": "business",
       "date": "2026-08-17",
-      "time": "21:23",
+      "time": "22:01",
       "conflict_id": null,
       "score": 26.1
     },
@@ -942,18 +1012,18 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-16-b37a5ef2",
-      "headline": "Navy weighs major warship redesign to match Trump’s preferences",
-      "summary": "The president wants the new fleet of aircraft carriers to more resemble those from World War II. Such a change could cost billions.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/08/15/navy-weighs-major-warship-redesign-match-trumps-preferences/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
+      "id": "2026-08-16-19334b9c",
+      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
       "date": "2026-08-16",
-      "time": "19:44",
+      "time": "09:27",
       "conflict_id": null,
-      "score": 32.9
+      "score": 35.0
     },
     {
       "id": "2026-08-16-4f5f3a75",
@@ -968,20 +1038,6 @@
       "time": "23:26",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-08-16-1be38ff9",
-      "headline": "America Inc has a tight grip on allied governments",
-      "summary": "Companies from Palantir to Lockheed account for a small share of spending, but are hard to shake",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/08/16/america-inc-has-a-tight-grip-on-allied-governments",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-08-16",
-      "time": "16:32",
-      "conflict_id": null,
-      "score": 25.8
     },
     {
       "id": "2026-08-16-86085da3",
@@ -1065,7 +1121,7 @@
       "date": "2026-08-11",
       "time": "14:50",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-08-11-bc3bc6d8",
