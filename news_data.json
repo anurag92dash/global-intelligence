@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T21:13:42.485522+00:00",
+  "updated": "2026-08-18T21:36:33.484134+00:00",
   "story_count": 78,
   "source_count": 10,
   "stories": [
@@ -60,6 +60,20 @@
       "score": 54.4
     },
     {
+      "id": "2026-08-18-5ab3c73d",
+      "headline": "Ukraine’s ousted defence minister calls for wartime election",
+      "summary": "Mykhailo Fedorov launches major challenge to President Volodymyr Zelenskyy",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7bf79169-f84f-44a2-b64d-c1a3d1fb7d08?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "21:24",
+      "conflict_id": "ukraine-war",
+      "score": 54.4
+    },
+    {
       "id": "2026-08-18-015163eb",
       "headline": "British couple on honeymoon killed in helicopter crash on Greek island",
       "summary": "The newlyweds, named as Alexander Cromie and Marie Ebert, were killed alongside their Greek pilot.",
@@ -72,20 +86,6 @@
       "time": "15:30",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-08-18-8ed65861",
-      "headline": "U.S. Airman Says He Would Accept Punishment for Protesting Iran War",
-      "summary": "Major Watson characterized the war in Iran as an act of American aggression and compared the U.S. military actions to Russia’s invasion of Ukraine.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/us-airman-trump-impeach-iran.html",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "01:34",
-      "conflict_id": null,
-      "score": 49.2
     },
     {
       "id": "2026-08-18-a46747b1",
@@ -140,20 +140,6 @@
       "category": "geopolitics",
       "date": "2026-08-18",
       "time": "18:32",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-08-18-c1c61d10",
-      "headline": "Palestinian living in caves older than Israel",
-      "summary": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/palestinian-living-in-caves-older-than-israel?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "15:53",
       "conflict_id": "israel-hamas",
       "score": 43.4
     },
@@ -240,6 +226,20 @@
       "time": "20:45",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-08-18-9a331125",
+      "headline": "Over 2,000 emergency personnel tackle wildfires still raging in Portugal",
+      "summary": "The Portuguese Institute for Sea and Atmosphere (source in Portuguese) has placed nine districts under orange warning until 18:00 this Tuesday, with the rest of mainland Portugal, except Lisbon, Setúbal and Faro, under yellow warning.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/over-2000-emergency-personnel-tackle-wildfires-still-raging-in-portugal",
+      "region": "EU",
+      "country": "Portugal",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "19:13",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-08-18-b3455ccc",
@@ -438,6 +438,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-18-560d5276",
+      "headline": "Walter Probe Weighs on Carvana as Traders Suspect Share Sale",
+      "summary": "Shares of online used-car dealer Carvana Co. dropped Tuesday, hurt by concerns that one of the company’s largest investors — billionaire Mark Walter — may sell down his stake as he contends with a federal probe of his investment empire.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/walter-probe-weighs-on-carvana-as-investors-suspect-share-sale",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "17:31",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-18-374a042e",
       "headline": "EM Rally Stalls Amid Surge in Treasury Yields, Mideast Tensions",
       "summary": "The recent rally in emerging-market assets stalled on Tuesday as a surge in long-term US Treasury yields and renewed tensions in the Middle East drained demand for risk, snapping a four-day winning streak in stocks and pushing borrowing costs higher.",
@@ -508,20 +522,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-18-6212f193",
-      "headline": "Stocks Fall As Global Bond Yields Stay Elevated | Closing Bell",
-      "summary": "Comprehensive cross-platform coverage of the U.S. market close on Bloomberg Television, Bloomberg Radio, and YouTube with Scarlet, Fu, Isabelle Lee, Carol Massar and Joe Deaux. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-18/stocks-fall-as-global-bonds-stay-elevated-closing-bell-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "20:18",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-18-aeb40ee7",
       "headline": "SEC Unveils Crypto Plan as Agency Moves Ahead on Digital Assets",
       "summary": "The Securities and Exchange Commission unveiled a proposal to exempt certain digital asset offerings from securities registration statements, as the regulator moves ahead with crypto plans after landmark legislation stalled in Congress.",
@@ -536,6 +536,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-18-fb2472d1",
+      "headline": "University of Michigan Names President After Prior Pick Faced Brain Cancer",
+      "summary": "The university chose a Vanderbilt academic, Cybele Raver, after a previous candidate for the role had to step down because of a brain cancer diagnosis.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/university-michigan-president-cybele-raver.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "21:26",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-08-18-75780aa7",
       "headline": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
       "summary": "President Trump is installing his allies in the offices of inspector general, which are meant to provide independent government oversight.",
@@ -546,20 +560,6 @@
       "category": "politics",
       "date": "2026-08-18",
       "time": "19:04",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-18-ed0d3b6f",
-      "headline": "Here’s the latest.",
-      "summary": "Voters in Alaska, Wyoming and Florida are nominating candidates for governor and the U.S. Senate on Tuesday, and a California district will move one step closer to finding a replacement for its disgraced former Congressman.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/heres-the-latest",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "21:00",
       "conflict_id": null,
       "score": 25.2
     },
@@ -594,11 +594,11 @@
     {
       "id": "2026-08-18-e9d99a78",
       "headline": "PBS should fund drug to treat breast cancer, endometriosis and gender dysphoria, experts recommend",
-      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee saysGet our breaking news email, free app or daily news podcastThe federal government should fund treatment for thousands of women with breast cancer or endometriosis, and children with gender dysphoria, according to the Pharmaceutical Benefits Scheme’s advisory committee.The committee met urgently in July in response to A",
+      "summary": "Triptorelin, already listed for prostate cancer, should have unrestricted use, the Pharmaceutical Benefits Advisory Committee saysFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe federal government should fund treatment for thousands of women with breast cancer or endometriosis, and children with gender dysphoria, according to the Pharmaceutical Benefits Scheme’s advisory committ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/pbs-breast-cancer-endometriosis-gender-dysphoria-puberty-blocker-drug-triptorelin-ntwnfb",
       "region": "EU",
-      "country": null,
+      "country": "Australia",
       "category": "politics",
       "date": "2026-08-18",
       "time": "15:00",
@@ -608,11 +608,11 @@
     {
       "id": "2026-08-18-4e489cbd",
       "headline": "Controversial NDIS bill passes Senate with ‘substantial’ amendments as Labor and Coalition strike deal",
-      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on WednesdayGet our breaking news email, free app or daily news podcastThe government’s controversial NDIS bill will pass after “substantial” amendments were agreed to in a deal between Labor and the Coalition, with some of the changes attracting heavy criticism from the Greens, the ACT senator David Pocock and the disab",
+      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting thousands of participants but will pass lower house on WednesdayFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe government’s controversial NDIS bill will pass after “substantial” amendments were agreed to in a deal between Labor and the Coalition, with some of the changes attracting heavy criticism from ",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
       "region": "EU",
-      "country": "Senate",
+      "country": "Australia",
       "category": "politics",
       "date": "2026-08-18",
       "time": "11:04",
@@ -630,20 +630,6 @@
       "category": "politics",
       "date": "2026-08-18",
       "time": "18:44",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-08-18-b493ecf5",
-      "headline": "Belgian firefighters push to encircle ‘largest wildfire in a century’ – as it happened",
-      "summary": "The blaze charring peatland, pine trees and hiking trails grew over the weekend to half the size of ManhattanSome first pictures from this morning’s earthquakes in Granada are emerging on social media…Andalusian president Juanma Moreno urged residents to maintain “maximum caution” as more seismic movements and aftershocks may happen. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "15:45",
       "conflict_id": null,
       "score": 24.0
     },
@@ -844,6 +830,20 @@
       "score": 60.0
     },
     {
+      "id": "2026-08-17-fa550d8d",
+      "headline": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on",
+      "summary": "President Donald Trump’s interim deal with Iran in June set aside two months for negotiations, but the window has now closed and broader talks are at a standstill.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "21:20",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
       "id": "2026-08-17-73382858",
       "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
       "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
@@ -870,20 +870,6 @@
       "time": "16:02",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-17-fa550d8d",
-      "headline": "60 days after signing Iran deal, Trump stuck in quagmire as war drags on",
-      "summary": "President Donald Trump’s interim deal with Iran in June set aside two months for negotiations, but the window has now closed and broader talks are at a standstill.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/60-days-after-signing-iran-deal-trump-stuck-quagmire-peace-talks-stall/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "21:20",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-08-17-8836b2e1",
@@ -1080,6 +1066,20 @@
       "time": "13:12",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-08-11-020441ac",
+      "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
+      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Syria",
+      "category": "geopolitics",
+      "date": "2026-08-11",
+      "time": "14:50",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-11-bc3bc6d8",
