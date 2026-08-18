@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T16:53:29.152645+00:00",
-  "story_count": 78,
-  "source_count": 9,
+  "updated": "2026-08-18T17:15:26.046034+00:00",
+  "story_count": 81,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-18-64883fdf",
@@ -15,7 +15,21 @@
       "date": "2026-08-18",
       "time": "05:50",
       "conflict_id": null,
-      "score": 64.0
+      "score": 65.0
+    },
+    {
+      "id": "2026-08-18-3143c37d",
+      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "12:36",
+      "conflict_id": "ukraine-war",
+      "score": 63.0
     },
     {
       "id": "2026-08-18-8d37772d",
@@ -30,20 +44,6 @@
       "time": "10:40",
       "conflict_id": "ukraine-war",
       "score": 62.4
-    },
-    {
-      "id": "2026-08-18-3143c37d",
-      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "12:36",
-      "conflict_id": "ukraine-war",
-      "score": 55.0
     },
     {
       "id": "2026-08-18-015163eb",
@@ -88,6 +88,20 @@
       "score": 48.0
     },
     {
+      "id": "2026-08-18-11e9d0af",
+      "headline": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
+      "summary": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "13:29",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
       "id": "2026-08-18-c1c61d10",
       "headline": "Palestinian living in caves older than Israel",
       "summary": "Farhan al Rashaydeh lives in a cave in the occupied West Bank with his family.",
@@ -130,6 +144,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-08-18-8cb97698",
+      "headline": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+      "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "14:49",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-18-a5558397",
       "headline": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
       "summary": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
@@ -158,18 +186,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-18-c8e2d508",
-      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-18-4a2b8d34",
+      "headline": "UK will 'support Ukraine 100%' despite Russian threat of 'consequences,' PM says",
+      "summary": "\"We are providing support so that Ukraine can defend itself,\" UK Prime Minister Andy Burnham said on Tuesday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/uk-will-support-ukraine-100-despite-russian-threat-of-consequences-pm-says",
       "region": "EU",
-      "country": "Germany",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "05:02",
+      "time": "13:14",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
     },
     {
       "id": "2026-08-18-b3455ccc",
@@ -195,21 +223,7 @@
       "country": "Chile",
       "category": "politics",
       "date": "2026-08-18",
-      "time": "10:59",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-18-3b0a3c7d",
-      "headline": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-      "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "05:07",
+      "time": "17:00",
       "conflict_id": null,
       "score": 35.0
     },
@@ -254,20 +268,6 @@
       "time": "15:54",
       "conflict_id": null,
       "score": 33.2
-    },
-    {
-      "id": "2026-08-18-696378a1",
-      "headline": "The divide between Trump and Vance on Iran",
-      "summary": "Trump and Vance had differing answers about why the United States is waging war with Iran.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/18/divide-between-trump-vance-iran/",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "09:32",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-08-18-9660f178",
@@ -620,6 +620,20 @@
       "score": 23.4
     },
     {
+      "id": "2026-08-18-4795d1fe",
+      "headline": "Takaichi's BOJ appointments in 2027 loom over pace of rate hikes",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/bank-of-japan/takaichi-s-boj-appointments-in-2027-loom-over-pace-of-rate-hikes",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-18-c8a3a0a9",
       "headline": "Laos accelerates shift to EVs, fueled by hydropower",
       "summary": "",
@@ -746,6 +760,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-18-b527e3bd",
+      "headline": "This new budget airline is launching direct flights to Spain’s Santiago de Compostela",
+      "summary": "The launch is timed with 2027’s Holy Year, when more pilgrims than ever are expected to complete the Camino de Santiago.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/18/this-new-budget-airline-is-launching-direct-flights-to-spains-santiago-de-compostela",
+      "region": "EU",
+      "country": "Spain",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "15:38",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-18-58cd7c79",
+      "headline": "One third of global travel spending last year was in Europe, new report finds",
+      "summary": "Europe accounted for a third of global leisure travel receipts in 2025, with countries such as Italy, Spain, Türkiye and France expected to drive further growth this year. Here’s what your travel itinerary could look like.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/18/one-third-of-global-travel-spending-last-year-was-in-europe-new-report-finds",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "14:05",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-17-215a4e4a",
       "headline": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
@@ -774,6 +816,34 @@
       "score": 48.9
     },
     {
+      "id": "2026-08-17-73382858",
+      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
+      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "19:46",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
+      "id": "2026-08-17-f7d2fea4",
+      "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
+      "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "00:20",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
       "id": "2026-08-17-3265b919",
       "headline": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
       "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
@@ -788,32 +858,18 @@
       "score": 47.0
     },
     {
-      "id": "2026-08-17-73382858",
-      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
-      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
-      "region": "APJ",
+      "id": "2026-08-17-8836b2e1",
+      "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat saysDonald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine.The US president abruptly ordered the Pentagon to scale back joint exercises with South Korea just days after North Korea tes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "region": "NA",
       "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "19:46",
+      "time": "19:11",
       "conflict_id": null,
-      "score": 40.9
-    },
-    {
-      "id": "2026-08-17-f7d2fea4",
-      "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
-      "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/16/trump-reduces-military-exercises-with-south-korea-citing-good-ties-with-kim-jong-un/",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "00:20",
-      "conflict_id": null,
-      "score": 40.9
+      "score": 40.0
     },
     {
       "id": "2026-08-17-cabd60c9",
@@ -828,20 +884,6 @@
       "time": "23:42",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-17-7e7d73f6",
-      "headline": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
-      "summary": "Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
-      "region": "NA",
-      "country": "North Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "23:25",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-08-17-882f683a",
@@ -953,7 +995,7 @@
       "date": "2026-08-16",
       "time": "09:27",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     },
     {
       "id": "2026-08-16-b37a5ef2",
