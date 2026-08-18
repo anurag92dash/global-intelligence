@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-18T10:51:48.742698+00:00",
-  "story_count": 76,
-  "source_count": 9,
+  "updated": "2026-08-18T11:13:19.704739+00:00",
+  "story_count": 77,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-18-ed062153",
+      "headline": "At least 10 killed in Russian strike in northeast Ukraine's Kharkiv region, governor says",
+      "summary": "The Kharkiv region, parts of which are occupied by Russian forces, has been hit heavily since Moscow launched its full-scale invasion in February 2022.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/at-least-10-killed-in-russian-strike-in-northeast-ukraines-kharkiv-region-governor-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:52",
+      "conflict_id": "ukraine-war",
+      "score": 73.0
+    },
     {
       "id": "2026-08-18-64883fdf",
       "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
@@ -29,7 +43,7 @@
       "date": "2026-08-18",
       "time": "10:40",
       "conflict_id": "ukraine-war",
-      "score": 52.0
+      "score": 60.0
     },
     {
       "id": "2026-08-18-56672911",
@@ -43,7 +57,35 @@
       "date": "2026-08-18",
       "time": "06:47",
       "conflict_id": "ukraine-war",
-      "score": 51.4
+      "score": 59.4
+    },
+    {
+      "id": "2026-08-18-4ba00e15",
+      "headline": "Iran War: Trump Not Interested in Truce Extension | The Pulse 8/18/2026",
+      "summary": "\"The Pulse with Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Jimmy Muchechetere, Investec, Senior Equity Analyst & Başak Yavçan, Migration Policy Group, Head of Research (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/the-pulse-8-18-2026-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "10:49",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
+      "id": "2026-08-18-bf890fa4",
+      "headline": "Russia warns UK of ‘consequences’ over reports Ukraine using British drones in attacks",
+      "summary": "Ministry of Defence rebuffs threats, saying UK ‘committed to providing equipment Ukraine needs to defend itself against Putin’s illegal invasion’Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time.Ukraine used drones made by two UK companies as part of a so-called deep-strike campaign, the Sunday Times reported. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:34",
+      "conflict_id": null,
+      "score": 56.0
     },
     {
       "id": "2026-08-18-3325b9fe",
@@ -72,20 +114,6 @@
       "time": "01:34",
       "conflict_id": null,
       "score": 49.2
-    },
-    {
-      "id": "2026-08-18-bf890fa4",
-      "headline": "Russia warns UK of ‘consequences’ over reports Ukraine using British drones in attacks",
-      "summary": "Ministry of Defence rebuffs threats, saying UK ‘committed to providing equipment Ukraine needs to defend itself against Putin’s illegal invasion’Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time.Ukraine used drones made by two UK companies as part of a so-called deep-strike campaign, the Sunday Times reported. Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "07:34",
-      "conflict_id": null,
-      "score": 48.0
     },
     {
       "id": "2026-08-18-0c9cbfa7",
@@ -130,6 +158,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-18-4c0a8327",
+      "headline": "Ukraine's parliament returns with defence and foreign ministry crises unresolved",
+      "summary": "Ukraine's parliament reconvenes on Tuesday with the defence and foreign ministries still without permanent heads, a month after President Volodymyr Zelenskyy abruptly dismissed Mykhailo Fedorov as defence minister.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/ukraines-parliament-returns-with-defence-and-foreign-ministry-crises-unresolved",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "07:13",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
       "id": "2026-08-18-a46747b1",
       "headline": "Mechanical fault suspected in helicopter crash that killed British newlyweds in Greece",
       "summary": "Marie Ebert, Alexander Cromie and their pilot died when their aircraft crashed on island of SifnosGreek police believe a mechanical fault may have caused a helicopter to crash moments before it was due to land on the island of Sifnos, killing a British couple on honeymoon and the pilot.Authorities were focusing on Tuesday on the “strange noise” the aircraft, a privately chartered Bell 206, is reported to have made before falling to the ground and",
@@ -154,20 +196,6 @@
       "category": "geopolitics",
       "date": "2026-08-18",
       "time": "08:23",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-18-b862d0a9",
-      "headline": "Trump says N Korea’s Kim has responded to his request for a conversation",
-      "summary": "US president says conversations with Kim Jong Un at a &#039;positive&#039; stage and slams Seoul for refusing to join war on Iran.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/trump-says-n-koreas-kim-has-responded-to-his-request-for-a-conversation?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "05:44",
       "conflict_id": null,
       "score": 39.4
     },
@@ -214,6 +242,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-08-18-e3a84f4f",
+      "headline": "Judge Orders Release of Woman Accused of Vandalizing World War II Memorial",
+      "summary": "Prosecutors led by Jeanine Pirro, the U.S. attorney in Washington, argued that Melissa Farris posed a flight risk and asked the court to reverse its decision.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "08:50",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-08-18-450b21e4",
       "headline": "Designer denim and AI concierges: Japan's konbini put a new face forward",
       "summary": "",
@@ -240,6 +282,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-08-18-b4238249",
+      "headline": "Shakira and Warren Buffett's son announce rebuilding of schools in Chocó",
+      "summary": "The Colombian singer will not donate the announced one million dollars directly; it will be channelled via Global Citizen and promoter Live Nation, in which she is involved.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/08/18/shakira-and-warren-buffetts-son-announce-rebuilding-of-schools-in-choco",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:19",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-08-18-42abaf71",
@@ -270,8 +326,8 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-18-0137e666",
-      "headline": "Zambia's president wins second term with 60% of the vote",
+      "id": "2026-08-18-dfca4873",
+      "headline": "Zambia's Hichilema re-elected president as main rival in hiding over alleged threats",
       "summary": "Hakainde Hichilema says he was “truly humbled” by the victory and promised to work for all Zambians.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c5y6j4jl03xo?at_medium=RSS&at_campaign=rss",
@@ -279,7 +335,7 @@
       "country": "Chile",
       "category": "politics",
       "date": "2026-08-18",
-      "time": "07:46",
+      "time": "10:59",
       "conflict_id": null,
       "score": 27.0
     },
@@ -296,6 +352,34 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-18-8ee4ad6c",
+      "headline": "BlackRock’s Koesterich Sees Energy Stocks as Best Portfolio Diversifier",
+      "summary": "Russ Koesterich, Global Allocation Fund portfolio manager at BlackRock, says bonds are not working as a hedge as yields on 30-year US Treasuries rose to the highest since 2007 this week. He talks about the factors he sees driving long-dated bonds and why he doesn’t see $100 oil derailing the US economic expansion. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/energy-stocks-are-best-portfolio-diversifier-koesterich-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "11:01",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-18-a16a2026",
+      "headline": "Home Depot Beats Estimates on Faster Sales Growth",
+      "summary": "Home Depot’s results beat estimates in the second quarter, as comparable sales, which measure results at stores open for at least a year, rose 1.7%, while adjusted earnings also surpassed expectations. Lindsay Dutch of Bloomberg Intelligence has more on Bloomberg Television. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/home-depot-beats-estimates-on-faster-sales-growth-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "10:56",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-18-c605a71b",
@@ -322,6 +406,20 @@
       "category": "business",
       "date": "2026-08-18",
       "time": "10:34",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-18-47b77e02",
+      "headline": "India Challenges US Quartz Tariffs With WTO Consultation Bid",
+      "summary": "India has sought consultations with the US at the World Trade Organization over tariffs imposed by the White House on some quartz products, adding another point of friction between the two countries as they remain without a trade deal.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/india-challenges-us-quartz-tariffs-with-wto-consultation-bid",
+      "region": "NA",
+      "country": "White House",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "10:32",
       "conflict_id": null,
       "score": 26.1
     },
@@ -382,62 +480,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-18-463baca7",
-      "headline": "Dangote’s Nigeria Refinery Secures $400 Million Ahead of $2 Billion IPO",
-      "summary": "Investors have committed $400 million to a planned initial public offering by Dangote Petroleum Refinery &amp; Petrochemicals FZE, the continent’s largest crude oil processing plant, which is raising money to expand the facility.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/dangote-s-nigeria-refinery-secures-400-million-ahead-of-2-billion-ipo",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "09:23",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-4c58a245",
-      "headline": "Traders Short French Bonds as Fight Over Budget to Escalate",
-      "summary": "Investors are turning bearish on French government bonds, as politicians ready for a fight over the 2027 budget before next year’s presidential election.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/traders-short-french-bonds-as-fight-over-budget-set-to-escalate",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "04:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-53656d69",
-      "headline": "Bridgewater China Withstands Rout That Left Quants Reeling",
-      "summary": "Macro hedge funds in China including Bridgewater Associates LP’s local unit emerged from the July selloff bruised but not defeated, holding on to their annual gains after a wild stock market selloff that pushed other funds into the red.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bridgewater-china-withstands-july-rout-that-left-quants-reeling",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "06:11",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-c7e8e269",
-      "headline": "BofA Poll Sees Few Bears Left as Investors Pile Into Stocks",
-      "summary": "Bullish global investors have ramped up their stock holdings to the highest in almost five years, leaving no room for pessimists, according to Bank of America Corp.’s Michael Hartnett.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/bofa-poll-sees-few-bears-left-as-investors-pile-into-stocks",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "09:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-18-e7e9f66a",
       "headline": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
       "summary": "Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.",
@@ -466,6 +508,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-08-18-73d6dc1d",
+      "headline": "A California County Eyes a New Hire: Tina Peters, the Election Denier",
+      "summary": "The top elections official in Shasta County offered a job to Ms. Peters, a Trump supporter who was convicted of tampering with voting machines in Colorado.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "02:41",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-08-18-613e9568",
       "headline": "Planned Parenthood to spend more than $600,000 against Susan Collins in Maine",
       "summary": "The ad buy, which will focus on the senator’s vote to confirm Justice Brett M. Kavanaugh, is the largest investment from Planned Parenthood Votes in any state this cycle.",
@@ -480,16 +536,16 @@
       "score": 24.9
     },
     {
-      "id": "2026-08-18-75c22cc2",
-      "headline": "Controversial NDIS bill undergoes ‘substantial’ amendments as Labor and Coalition strike deal",
-      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting hundreds of thousands of participants The government’s controversial NDIS bill will undergo “substantial” amendments after Labor and the Coalition struck a deal, with some of the changes attracting heavy criticism from the Greens, the ACT senator David Pocock and the disability community.Sixty-three government amendments across both houses will be introduced as part of ba",
+      "id": "2026-08-18-caf281ee",
+      "headline": "Controversial NDIS bill passes with ‘substantial’ amendments as Labor and Coalition strike deal",
+      "summary": "David Pocock says legislation still includes ‘indiscriminate cut’ impacting hundreds of thousands of participantsGet our breaking news email, free app or daily news podcastThe government’s controversial NDIS bill has passed after “substantial” amendments were agreed to in a deal between Labor and the Coalition, with some of the changes attracting heavy criticism from the Greens, the ACT senator David Pocock and the disability community.Sixty-thre",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/controversial-ndis-bill-undergoes-substantial-amendments-as-labor-and-coalition-strike-deal",
       "region": "EU",
       "country": "NATO",
       "category": "politics",
       "date": "2026-08-18",
-      "time": "09:33",
+      "time": "10:59",
       "conflict_id": null,
       "score": 24.0
     },
@@ -634,6 +690,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-18-eb28879b",
+      "headline": "Europe’s €2.5tn spending power could go green as business coalition presses EU to act",
+      "summary": "A broad coalition of business and civil society groups is urging the European Commission to introduce mandatory purchasing criteria to create demand for low-carbon products, effectively making procurement part of Europe's industrial strategy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/europes-25tn-spending-power-could-go-green-as-business-coalition-presses-eu-to-act",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "10:12",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-17-215a4e4a",
       "headline": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
@@ -659,7 +729,7 @@
       "date": "2026-08-17",
       "time": "21:20",
       "conflict_id": null,
-      "score": 56.9
+      "score": 57.9
     },
     {
       "id": "2026-08-17-81d96257",
@@ -674,6 +744,20 @@
       "time": "09:10",
       "conflict_id": null,
       "score": 56.0
+    },
+    {
+      "id": "2026-08-17-aae916f1",
+      "headline": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
+      "summary": "President Trump took aim at Oman, a U.S. ally that has been mediating the talks, as efforts to end a war he started have faltered.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
+      "region": "MENA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "20:02",
+      "conflict_id": null,
+      "score": 49.2
     },
     {
       "id": "2026-08-17-f7d2fea4",
@@ -718,20 +802,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-08-17-7e7d73f6",
-      "headline": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
-      "summary": "Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
-      "region": "NA",
-      "country": "North Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "23:25",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
       "id": "2026-08-17-4a2ecb2c",
       "headline": "Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment",
       "summary": "The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.",
@@ -742,20 +812,6 @@
       "category": "geopolitics",
       "date": "2026-08-17",
       "time": "15:38",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-08-17-aae916f1",
-      "headline": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
-      "summary": "President Trump took aim at Oman, a U.S. ally that has been mediating the talks, as efforts to end a war he started have faltered.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
-      "region": "MENA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "20:02",
       "conflict_id": null,
       "score": 41.2
     },
@@ -772,20 +828,6 @@
       "time": "19:46",
       "conflict_id": null,
       "score": 40.9
-    },
-    {
-      "id": "2026-08-17-16f8a115",
-      "headline": "European farmers face ‘unprecedented crisis’ after successive heatwaves",
-      "summary": "Vegetable and grain growers call for urgent action, warning of ‘catastrophic’ harvests due to continent-wide droughtSuccessive intense heatwaves and an increasingly severe, continent-wide drought have left many of Europe’s farmers in an “unprecedented” crisis, with vegetable and grain growers in particular warning of “catastrophic” harvests.French vegetable production is down by “a very significant extent” compared with previous years, French gro",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/aug/17/european-farmers-unprecedented-crisis-successive-heatwaves",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "16:01",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-08-17-7e9830d9",
@@ -884,34 +926,6 @@
       "time": "22:37",
       "conflict_id": null,
       "score": 25.2
-    },
-    {
-      "id": "2026-08-17-882f683a",
-      "headline": "House ethics panel investigates Rep. Jimmy Gomez over sexual misconduct allegations",
-      "summary": "The California Democrat said that he had “made personal mistakes outside my marriage” and that he will cooperate with the investigation.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/house-ethics-committee-is-investigating-rep-jimmy-gomez-over-sexual-misconduct-allegations/",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "20:51",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
-      "id": "2026-08-17-4ae2f77b",
-      "headline": "Want to know what people really think? Get the Pollwatcher newsletter.",
-      "summary": "Pollster Scott Clement will explore what polls reveal about the big issues shaping people’s lives across culture, technology, the economy and politics.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/want-know-what-people-really-think-get-pollwatcher-newsletter/",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 24.9
     },
     {
       "id": "2026-08-17-b2934173",
