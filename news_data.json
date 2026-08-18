@@ -1,8 +1,36 @@
 {
-  "updated": "2026-08-18T20:36:27.611619+00:00",
-  "story_count": 75,
-  "source_count": 9,
+  "updated": "2026-08-18T20:56:26.484048+00:00",
+  "story_count": 77,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-18-64883fdf",
+      "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
+      "summary": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un‘Inane, haphazard decision’ by Trump to gut South Korea allianceSouth Korea’s president ⁠has renewed his push to regain independent control of the military from the US in the event of war and urged faster progress in acquiring nuclear-powered submarines after Donald Trump’s order to cut joint drills.On S",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "05:50",
+      "conflict_id": null,
+      "score": 64.0
+    },
+    {
+      "id": "2026-08-18-3143c37d",
+      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
+      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "12:36",
+      "conflict_id": "ukraine-war",
+      "score": 63.0
+    },
     {
       "id": "2026-08-18-8d37772d",
       "headline": "Russia warns UK of ‘consequences’ over Ukraine’s use of British-made drones",
@@ -18,32 +46,18 @@
       "score": 62.4
     },
     {
-      "id": "2026-08-18-64883fdf",
-      "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
-      "summary": "Lee Jae Myung reiterates desire for full command back in Seoul’s hands after Donald Trump cuts joint exercises, citing warm ties with Kim Jong-un‘Inane, haphazard decision’ by Trump to gut South Korea allianceSouth Korea’s president ⁠has renewed his push to regain independent control of the military from the US in the event of war and urged faster progress in acquiring nuclear-powered submarines after Donald Trump’s order to cut joint drills.On S",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/18/south-korea-president-trump-military-drills-control-opcon-kim-jong-un",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "05:50",
-      "conflict_id": null,
-      "score": 56.0
-    },
-    {
-      "id": "2026-08-18-3143c37d",
-      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-18-2e0e39ed",
+      "headline": "Russian missile strike kills 10 civilians in Kharkiv",
+      "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "12:36",
+      "time": "20:26",
       "conflict_id": "ukraine-war",
-      "score": 55.0
+      "score": 59.4
     },
     {
       "id": "2026-08-18-015163eb",
@@ -88,6 +102,34 @@
       "score": 48.0
     },
     {
+      "id": "2026-08-18-11e9d0af",
+      "headline": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
+      "summary": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "13:29",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
+      "id": "2026-08-18-b373ae69",
+      "headline": "ICC hits back after US announces fresh sanctions on senior court figures",
+      "summary": "Responding to the US' move in a statement, the ICC reportedly said the new sanctions \"undermine the rule of law.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/18/icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "20:00",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-08-18-dbcce510",
       "headline": "Israeli strike on Gaza City cafe kills six, including child",
       "summary": "An Israeli strike hit a cafe in the port area west of Gaza City, killing six Palestinians, including a child.",
@@ -114,6 +156,34 @@
       "time": "15:53",
       "conflict_id": "israel-hamas",
       "score": 43.4
+    },
+    {
+      "id": "2026-08-18-38ade879",
+      "headline": "US announces new sanctions on top ICC figures",
+      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "20:21",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-18-1ca78c9d",
+      "headline": "Energy Stocks Hit Record as Oil Rises on Fading Deal Hopes",
+      "summary": "Energy stocks closed at the first record since March as investors see diminishing prospects for a near-term ceasefire in the Iran war that could ease the standoff in the crucial Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "13:59",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-08-18-9d444ed1",
@@ -158,32 +228,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-18-38ade879",
-      "headline": "US announces new sanctions on top ICC figures",
-      "summary": "The Trump administration has vowed to dismantle the international court \"brick by brick\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cnvnl0elz47o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "20:21",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-18-c8e2d508",
-      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-18-8cb97698",
+      "headline": "Why is Russia threatening UK with ‘consequences’ over Ukraine drones?",
+      "summary": "Russia is suffering attacks inside its own territory as long-range drones strike its strategic assets.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/why-is-russia-threatening-uk-with-consequences-over-ukraine-drones?traffic_source=rss",
       "region": "EU",
-      "country": "Germany",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "05:02",
+      "time": "14:49",
       "conflict_id": null,
-      "score": 35.0
+      "score": 39.4
     },
     {
       "id": "2026-08-18-b3455ccc",
@@ -196,20 +252,6 @@
       "category": "geopolitics",
       "date": "2026-08-18",
       "time": "07:17",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-18-3b0a3c7d",
-      "headline": "'A floating prison' - sailors describe life on warships like USS Abraham Lincoln",
-      "summary": "Concerns have mounted about conditions aboard the USS Abraham Lincoln, which has been deployed since 11 December.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y6z4krrx3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "05:07",
       "conflict_id": null,
       "score": 35.0
     },
@@ -228,34 +270,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-18-fdc070c0",
-      "headline": "Ex-Tricolor Executives Face SEC Lawsuit After Firm Collapse",
-      "summary": "Tricolor Holdings founder Daniel Chu, who already faces federal charges, and two other former executives were sued by the US Securities and Exchange Commission for allegedly defrauding investors before the used car seller and subprime lender imploded.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/ex-tricolor-executives-face-sec-lawsuit-after-firm-collapse",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "18:28",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-18-c7beb11c",
-      "headline": "Florida was one front in a redistricting war won by the G.O.P.",
-      "summary": "",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/live/2026/08/18/us/elections-florida-california-alaska/republicans-redistricting-wars",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "19:42",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-08-18-a73d83b5",
       "headline": "Residents on Hawaii’s Big Island Look to Help One Another After Hurricane Lala",
       "summary": "In a remote region of the ravaged Big Island, there were community gas runs, donated turkey stuffing, a makeshift emergency broadcast and even a helicopter.",
@@ -270,58 +284,16 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-18-c6b906ed",
-      "headline": "What to Watch in Tuesday’s Primary Elections in Alaska, Florida and Beyond",
-      "summary": "An early glimpse of a pivotal Senate race, heated primaries on a newly redrawn congressional map, and a special election to replace Eric Swalwell will be in the spotlight on Tuesday.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/what-to-watch-primary-elections.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "09:02",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-08-18-661d1bd7",
-      "headline": "Judge Releases Woman Accused of Vandalizing World War II Memorial",
-      "summary": "Prosecutors led by Jeanine Pirro, the U.S. attorney in Washington, argued that Melissa Farris posed a flight risk and asked the court to reverse its decision.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/wwii-memorial-vandalism-trump-pirro.html",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "18:37",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-08-18-d8aacf30",
-      "headline": "Jill Stein, repeat Green Party candidate, faces assault charges in Missouri",
-      "summary": "Stein is facing misdemeanor charges of trespassing and assault over her role in a campus demonstration against the war in Gaza in 2024.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/18/jill-stein-green-party-candidate-faces-assault-charges-missouri/",
-      "region": "NA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "19:24",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-18-9660f178",
-      "headline": "What to watch in the Alaska and Wyoming primary elections",
-      "summary": "Republican-led states face leadership shuffling.",
+      "id": "2026-08-18-038b9c30",
+      "headline": "Trump and Carney speak ahead of US tariff deadline",
+      "summary": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-the-alaska-and-wyoming-primary-elections?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
+      "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
       "date": "2026-08-18",
-      "time": "14:29",
+      "time": "20:19",
       "conflict_id": null,
       "score": 31.4
     },
@@ -338,6 +310,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-08-18-1c2fd901",
+      "headline": "London's St Pancras station briefly evacuated amid controlled explosion of unattended car",
+      "summary": "Eurostar services are continuing to operate as normal. Police have since declared the incident as non-suspicious.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/londons-st-pancras-station-briefly-evacuated-amid-controlled-explosion-of-unattended-car",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "18:33",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-08-18-098a4e16",
@@ -452,6 +438,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-18-0319a4cb",
+      "headline": "Bond Traders Bite at Microsoft-Tied Data Center Junk-Like Yields",
+      "summary": "Blackstone Inc.-backed QTS Realty Trust Inc. offered junk-like yields on a $3.9 billion high-grade bond to fund the construction of a Microsoft Corp.-linked data center in Georgia. It looks to have worked as the deal racked up demand of about six times that amount.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/blackstone-backed-qts-kicks-off-data-center-bond-at-hefty-cost",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "14:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-18-80c5ea86",
       "headline": "Bond Traders Are Hedging Risk Fed Pivots to Rate Cuts in 2027",
       "summary": "Bond traders are changing gears again. After a raft of data helped all but price out interest rate hikes for the rest of the year, wagers in the options market are looking to hedge the risk that the Federal Reserve pivots to cutting rates in 2027.",
@@ -508,20 +508,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-18-02f0f868",
-      "headline": "US Stocks Drop, Led by Tech, as Bond-Yield Spike Sparks Angst",
-      "summary": "US stocks fell on Tuesday, led by a slump in technology shares, as elevated bond yields and gains in oil prices prompted investors to pare back some of their riskier trades including bets on AI.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "06:51",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-18-aeb40ee7",
       "headline": "SEC Unveils Crypto Plan as Agency Moves Ahead on Digital Assets",
       "summary": "The Securities and Exchange Commission unveiled a proposal to exempt certain digital asset offerings from securities registration statements, as the regulator moves ahead with crypto plans after landmark legislation stalled in Congress.",
@@ -548,6 +534,20 @@
       "time": "18:59",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-08-18-75780aa7",
+      "headline": "Trump Fired His Inspectors General. Their Replacements Have a Different Mission.",
+      "summary": "President Trump is installing his allies in the offices of inspector general, which are meant to provide independent government oversight.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-inspector-general.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "19:04",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-08-18-0e75df97",
@@ -774,18 +774,46 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-18-e2fb12f9",
-      "headline": "Global stock pickers' Japan buys: JX Advanced Metals, Sanrio move up",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/equities/global-stock-pickers-japan-buys-jx-advanced-metals-sanrio-move-up",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-08-18-1087cdf0",
+      "headline": "Commerzbank, German resistance wanes: UniCredit nears deal, what could change",
+      "summary": "UniCredit eyes control of Commerzbank as Berlin opens the door on its 12.7% stake. What it means for Italy, Germany and European banks",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/18/commerzbank-german-resistance-wanes-unicredit-nears-deal-what-could-change",
+      "region": "EU",
+      "country": "Germany",
       "category": "business",
       "date": "2026-08-18",
-      "time": "",
+      "time": "17:23",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-18-b527e3bd",
+      "headline": "This new budget airline is launching direct flights to Spain’s Santiago de Compostela",
+      "summary": "The launch is timed with 2027’s Holy Year, when more pilgrims than ever are expected to complete the Camino de Santiago.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/18/this-new-budget-airline-is-launching-direct-flights-to-spains-santiago-de-compostela",
+      "region": "EU",
+      "country": "Spain",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "15:38",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-18-58cd7c79",
+      "headline": "One third of global travel spending last year was in Europe, new report finds",
+      "summary": "Europe accounted for a third of global leisure travel receipts in 2025, with countries such as Italy, Spain, Türkiye and France expected to drive further growth this year. Here’s what your travel itinerary could look like.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/18/one-third-of-global-travel-spending-last-year-was-in-europe-new-report-finds",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "14:05",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-08-17-215a4e4a",
@@ -800,6 +828,20 @@
       "time": "18:39",
       "conflict_id": null,
       "score": 60.0
+    },
+    {
+      "id": "2026-08-17-73382858",
+      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
+      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "19:46",
+      "conflict_id": null,
+      "score": 48.9
     },
     {
       "id": "2026-08-17-3265b919",
@@ -830,18 +872,18 @@
       "score": 40.9
     },
     {
-      "id": "2026-08-17-73382858",
-      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
-      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
-      "region": "APJ",
+      "id": "2026-08-17-8836b2e1",
+      "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat saysDonald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine.The US president abruptly ordered the Pentagon to scale back joint exercises with South Korea just days after North Korea tes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
+      "region": "NA",
       "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "19:46",
+      "time": "19:11",
       "conflict_id": null,
-      "score": 40.9
+      "score": 40.0
     },
     {
       "id": "2026-08-17-882f683a",
@@ -1024,20 +1066,6 @@
       "time": "13:12",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-08-11-020441ac",
-      "headline": "Ousted Syrian dictator Bashar al-Assad sentenced to death in absentia",
-      "summary": "The ex-president is convicted of committing war crimes and crimes against humanity during the country's civil war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce34dkpnyg7o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Syria",
-      "category": "geopolitics",
-      "date": "2026-08-11",
-      "time": "14:50",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-11-bc3bc6d8",
