@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-18T13:26:21.939570+00:00",
-  "story_count": 76,
-  "source_count": 9,
+  "updated": "2026-08-18T14:02:49.984145+00:00",
+  "story_count": 79,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-18-64883fdf",
@@ -15,7 +15,7 @@
       "date": "2026-08-18",
       "time": "05:50",
       "conflict_id": null,
-      "score": 64.0
+      "score": 65.0
     },
     {
       "id": "2026-08-18-3143c37d",
@@ -29,7 +29,7 @@
       "date": "2026-08-18",
       "time": "12:36",
       "conflict_id": "ukraine-war",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-08-18-7a653f80",
@@ -41,9 +41,9 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "13:13",
+      "time": "13:58",
       "conflict_id": "ukraine-war",
-      "score": 52.0
+      "score": 60.0
     },
     {
       "id": "2026-08-18-015163eb",
@@ -55,7 +55,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "12:43",
+      "time": "13:56",
       "conflict_id": null,
       "score": 51.0
     },
@@ -88,18 +88,32 @@
       "score": 48.0
     },
     {
-      "id": "2026-08-18-aab350ca",
-      "headline": "Sydney Swans will sanction players for ‘serious breach’ over sexual assault allegations",
-      "summary": "Club’s board meets on Tuesday night to decide penalties after league boss calls reports ‘deeply concerning’The Sydney Swans AFL club will decide on sanctions for players for “serious breach” of standards over an incident that led to a report of sexual assault.Victorian police on Tuesday confirmed the sexual crimes squad was investigating a reported sexual assault at Melbourne’s Pullman Hotel early on Monday morning. No arrests have been made and ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/afl-chief-breaks-silence-over-deeply-concerning-sydney-swans-sexual-assault-allegations-ntwnfb",
+      "id": "2026-08-18-11e9d0af",
+      "headline": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
+      "summary": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
       "region": "NA",
-      "country": null,
+      "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "11:18",
+      "time": "13:29",
       "conflict_id": null,
-      "score": 40.0
+      "score": 46.0
+    },
+    {
+      "id": "2026-08-18-37b81d7e",
+      "headline": "Energy Stocks Soar to Record as Oil Rises on Trump’s Hard Line",
+      "summary": "Energy stocks are closing in on record levels reached earlier this year amid the Middle East war as investors see diminishing prospects for a near-term ceasefire that could ease the standoff in the crucial Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/energy-stocks-soar-to-record-as-oil-rises-on-trump-s-hard-line",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "13:59",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-08-18-d246d8f4",
@@ -116,6 +130,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-08-18-a5558397",
+      "headline": "Who is Wassim al-Assad, sentenced to death for Syria war atrocities?",
+      "summary": "The latest sentence against Wassim al-Assad comes a week after ousted President Bashar al-Assad was sentenced to death",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/who-is-wassim-al-assad-sentenced-to-death-for-syria-war-atrocities?traffic_source=rss",
+      "region": "MENA",
+      "country": "Syria",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "13:06",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-18-d1c72cb6",
       "headline": "Bashar al-Assad’s cousin Wassim sentenced to death in Syria",
       "summary": "A Syrian court has sentenced Wassim al-Assad, cousin of Bashar al-Assad, to death for murder, torture and war crimes.",
@@ -130,60 +158,32 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-18-0c367007",
-      "headline": "Why has Trump threatened to bomb Oman – for a second time?",
-      "summary": "The US president threatened to bomb Oman over Hormuz, with US-Iran peace negotiations in a deadlock.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/why-has-trump-threatened-to-bomb-oman-for-a-second-time?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "11:33",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-18-0b048a75",
-      "headline": "Syrian court sentences Wassim al-Assad to death for war crimes",
-      "summary": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
-      "region": "MENA",
-      "country": "Syria",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "08:23",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-18-25a4094d",
-      "headline": "What to watch in Tuesday’s Florida primary elections",
-      "summary": "Islamophobia, anti-Semitism, Trump&#039;s politics and Israel&#039;s war on Gaza figure prominently in the elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/18/what-to-watch-in-tuesdays-florida-primary-elections?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "08:08",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-18-c8e2d508",
-      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-18-4a2b8d34",
+      "headline": "UK will 'support Ukraine 100%' despite Russian threat of 'consequences,' PM says",
+      "summary": "\"We are providing support so that Ukraine can defend itself,\" UK Prime Minister Andy Burnham said on Tuesday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/uk-will-support-ukraine-100-despite-russian-threat-of-consequences-pm-says",
       "region": "EU",
-      "country": "Germany",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "05:02",
+      "time": "13:14",
       "conflict_id": null,
-      "score": 35.0
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-18-e86a889f",
+      "headline": "UK wage growth lags as Iran war weighs on cost of living",
+      "summary": "The ongoing Middle East crisis has led to soaring energy prices across the UK and much of Europe, further contributing to higher living costs.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/18/uk-wage-growth-lags-as-iran-war-weighs-on-cost-of-living",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "09:35",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-08-18-b3455ccc",
@@ -214,6 +214,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-18-a0aaee31",
+      "headline": "Fed Should ‘Just Hike and Move on With It,’ Says JPM’s Herr",
+      "summary": "“I don’t think it matters what the Fed does,” says Kay Herr, US GFICC CIO at JPMorgan Asset Management, in reference to the rally in yields, as the market “really doesn’t love the fact that we don’t have forward guidance.” She speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/fed-should-just-hike-and-move-on-with-it-jpm-s-herr-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "13:30",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-08-18-a73d83b5",
       "headline": "Residents on Hawaii’s Big Island Look to Help One Another After Hurricane Lala",
       "summary": "In a remote region of the ravaged Big Island, there were  community gas runs, donated turkey stuffing, a makeshift emergency broadcast and even a helicopter.",
@@ -224,20 +238,6 @@
       "category": "business",
       "date": "2026-08-18",
       "time": "12:40",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-08-18-c6b906ed",
-      "headline": "What to Watch in Tuesday’s Primary Elections in Alaska, Florida and Beyond",
-      "summary": "An early glimpse of a pivotal Senate race, heated primaries on a newly redrawn congressional map, and a special election to replace Eric Swalwell will be in the spotlight on Tuesday.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/18/us/politics/what-to-watch-primary-elections.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "09:02",
       "conflict_id": null,
       "score": 33.2
     },
@@ -368,18 +368,74 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-18-fe48a2a9",
-      "headline": "Antitrust attacks start to bite into Apple’s $100bn services business",
-      "summary": "Court rulings and new App Store rules are beginning to weigh on one of the iPhone maker’s profitable growth engines",
+      "id": "2026-08-18-8121de76",
+      "headline": "Disney sues Trump administration over ‘retaliatory’ ABC licence review",
+      "summary": "US media giant accuses Federal Communications Commission of cracking down because it ‘disapproves’ of its broadcasts",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/e5533f32-e4c2-4ce1-9d2e-a831e96546b4?syn-25a6b1a6=1",
-      "region": "EU",
+      "url": "https://www.ft.com/content/c61e12bb-2ff1-4862-9217-38bdada90ecc?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "13:13",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-18-f2b8ea09",
+      "headline": "Braskem’s Mexico Unit Files for Prepackaged Bankruptcy in US",
+      "summary": "Mexico’s Braskem Idesa SAPI, a joint venture between Brazil’s Braskem SA and the conglomerate of Mexican tycoon Carlos Slim, has filed for a prepackaged bankruptcy protection, as mounting financial strain and a worsening liquidity crunch weigh on the company.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/braskem-s-mexico-unit-files-for-chapter-11-bankruptcy-in-us",
+      "region": "NA",
+      "country": "Mexico",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "06:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-18-60d0c184",
+      "headline": "Global Bonds Slump Sends Borrowing Costs Soaring",
+      "summary": "Long-term borrowing costs have hit their highest level in decades on the back of a global bond slump. Alex Morgan explains. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-18/global-bonds-slump-sends-borrowing-costs-soaring-video",
+      "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-18",
-      "time": "04:00",
+      "time": "13:36",
       "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-18-02f0f868",
+      "headline": "US Stocks Drop, Led by Tech, as Bond-Yield Spike Sparks Angst",
+      "summary": "US stocks fell at the open on Tuesday as rising bond yields and an early-morning spike in oil prices unnerved investors, prompting them to pare back some of their riskier trades including bets on AI and related tech.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "06:51",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-18-28d11335",
+      "headline": "AI Election Backlash Is Shaping Wall Street’s Stock Market Views",
+      "summary": "The backlash against artificial intelligence and the data centers needed to run it is becoming such a touchy election issue that Wall Street is being forced to factor it into its stock market recommendations.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/ai-election-backlash-is-shaping-wall-street-s-stock-market-views",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "11:58",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-18-1f50671e",
@@ -396,34 +452,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-18-c605a71b",
-      "headline": "Copper Supply Crunch Sends Key Spread to Highest Since 2021",
-      "summary": "The copper market had another volatile session, with a key one-day spread spiking to levels last seen during a historic squeeze in 2021.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/supply-crunch-grips-copper-market-as-key-spread-flares-out",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "02:43",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-db7a5f29",
-      "headline": "US Futures Drop, Led by Tech, as Bond-Yield Spike Sparks Angst",
-      "summary": "US stock futures fell before the bell on Tuesday as rising bond yields and an early-morning spike in oil prices unnerved investors, prompting them to pare back some of their riskier trades, such as bets on AI and related tech.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "06:51",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-18-04b20945",
       "headline": "Klarna Cuts Revenue Guidance and Is Searching for New CFO",
       "summary": "Klarna Group Plc cut its expectations for how much revenue it will generate this year, citing foreign exchange pressures and volumes in Germany, even as it reported a profit beat for the second straight quarter.",
@@ -434,20 +462,6 @@
       "category": "business",
       "date": "2026-08-18",
       "time": "11:33",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-10a957eb",
-      "headline": "Top East Africa Bourse Plans ETF Push to Tap Investor Demand",
-      "summary": "East Africa’s biggest bourse plans to offer a variety of exchange-traded funds to meet demand from investors, Nairobi Securities Exchange Chief Executive Officer Frank Mwiti said.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/top-east-africa-bourse-plans-etf-push-to-tap-investor-demand",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "12:18",
       "conflict_id": null,
       "score": 26.1
     },
@@ -480,32 +494,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-18-28d11335",
-      "headline": "AI Election Backlash Is Shaping Wall Street’s Stock Market Views",
-      "summary": "The backlash against artificial intelligence and the data centers needed to run it is becoming such a touchy election issue that Wall Street is being forced to factor it into its stock market recommendations.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/ai-election-backlash-is-shaping-wall-street-s-stock-market-views",
+      "id": "2026-08-18-d7c716de",
+      "headline": "Trump Honors a Teenage Lifeguard and Takes Aim at a CNN Reporter",
+      "summary": "President Trump told a journalist to “be quiet” at a White House event for a California lifeguard and a boy he saved.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/trump-lifeguard-cnn-reporter.html",
       "region": "NA",
-      "country": null,
-      "category": "business",
+      "country": "White House",
+      "category": "politics",
       "date": "2026-08-18",
-      "time": "11:58",
+      "time": "13:37",
       "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-9914a7e5",
-      "headline": "Alibaba-Backed AI Video Platform ShengShu Mulls HK IPO",
-      "summary": "ShengShu Technology, an artificial intelligence video platform backed by Alibaba Group Holding Ltd., is considering a Hong Kong initial public offering, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/alibaba-backed-ai-video-platform-shengshu-mulls-hk-ipo",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "11:30",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 25.2
     },
     {
       "id": "2026-08-18-e7e9f66a",
@@ -562,6 +562,20 @@
       "time": "11:04",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-18-35c9a17d",
+      "headline": "Yemeni government escalates attacks against Houthis: What’s next?",
+      "summary": "Fighting intensifies across Yemen as Houthis clash with internationally recognised government forces across many fronts.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/yemeni-government-escalates-attacks-against-houthis-whats-next?traffic_source=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "13:51",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-08-18-efc46004",
@@ -648,6 +662,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-18-4c189ac5",
+      "headline": "Exclusive: Google plans to stop making Pixel products in China in 2027",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/supply-chain/exclusive-google-plans-to-stop-making-pixel-products-in-china-in-2027",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-18-e2fb12f9",
       "headline": "Global stock pickers' Japan buys: JX Advanced Metals, Sanrio move up",
       "summary": "",
@@ -674,6 +702,48 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
+    },
+    {
+      "id": "2026-08-18-afd42689",
+      "headline": "This new tool from Skyscanner helps pick your ideal beach based on vibes, distance and budget",
+      "summary": "From quiet coves to lively Caribbean hotspots, Skyscanner’s new Paradise Guide reveals the best beaches for every kind of traveller.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/travel/2026/08/18/this-new-tool-from-skyscanner-helps-pick-your-ideal-beach-based-on-vibes-distance-and-budg",
+      "region": "SA",
+      "country": "Caribbean",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "11:27",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-18-3c1645ed",
+      "headline": "How Cyprus became one of Europe's biggest video game hubs",
+      "summary": "A small Mediterranean island now ranks among Europe's top 10 gaming markets by revenue — and third in the world for mobile downloads, behind only China and Vietnam.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/next/2026/08/18/how-cyprus-became-one-of-europes-biggest-video-game-hubs",
+      "region": "EU",
+      "country": "Vietnam",
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "11:18",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-18-eb28879b",
+      "headline": "Europe’s €2.5tn spending power could go green as business coalition presses EU to act",
+      "summary": "A broad coalition of business and civil society groups is urging the European Commission to introduce mandatory purchasing criteria to create demand for low-carbon products, effectively making procurement part of Europe's industrial strategy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/europes-25tn-spending-power-could-go-green-as-business-coalition-presses-eu-to-act",
+      "region": "EU",
+      "country": "Europe",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "10:12",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-08-17-215a4e4a",
@@ -704,6 +774,20 @@
       "score": 56.9
     },
     {
+      "id": "2026-08-17-73382858",
+      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
+      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "19:46",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
       "id": "2026-08-17-f7d2fea4",
       "headline": "Trump reduces military exercises with South Korea, citing good ties with Kim Jong Un",
       "summary": "The president cited the cost of the drills and said he did not want to send a signal that is \"totally inappropriate and hostile\" to North Korea. He also criticized South Korea for not helping him on Iran.",
@@ -716,20 +800,6 @@
       "time": "00:20",
       "conflict_id": null,
       "score": 48.9
-    },
-    {
-      "id": "2026-08-17-81d96257",
-      "headline": "Trump orders cuts to South Korea joint drills despite warnings about Kim regime",
-      "summary": "President says he ‘gets along great’ with dictator but officials say Ukraine war is boosting North’s capabilitiesDonald Trump has said he is scaling back joint US military drills with South Korea aimed at deterring North Korea, despite military officials from both countries warning that Kim Jong-un’s regime is learning new battlefield tactics from the Ukraine war.The drills under Ulchi Freedom Shield, one of two main annual exercises held by Sout",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/17/trump-cuts-south-korea-joint-drills-us-military-good-relationship-kim-jong-un",
-      "region": "EU",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "09:10",
-      "conflict_id": null,
-      "score": 48.0
     },
     {
       "id": "2026-08-17-3265b919",
@@ -788,32 +858,18 @@
       "score": 41.2
     },
     {
-      "id": "2026-08-17-73382858",
-      "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
-      "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/trump-defends-his-move-cut-back-us-south-korea-military-exercises/",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "19:46",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
-      "id": "2026-08-17-cabd60c9",
-      "headline": "Watch: Why has Trump shifted on North Korea?",
-      "summary": "Trump said the US will \"substantially reduce\" joint military exercises with South Korea, citing his \"very good relationship\" with Kim Jong Un.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy45zjw424xo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-17-8836b2e1",
+      "headline": "Trump’s move to gut South Korea alliance is ‘inane, haphazard decision’, lawmakers say",
+      "summary": "US president’s abrupt order to scale back joint exercises with Seoul is meant to ‘flatter’ North Korea’s dictator, top Democrat saysDonald Trump’s move to gut Washington’s 73-year-old military alliance with Seoul has been called “inane” and “shortsighted” as lawmakers warned it risked strengthening Russia’s hand in Ukraine.The US president abruptly ordered the Pentagon to scale back joint exercises with South Korea just days after North Korea tes",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/17/trump-south-korea-alliance",
       "region": "NA",
       "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-08-17",
-      "time": "23:42",
+      "time": "19:11",
       "conflict_id": null,
-      "score": 35.0
+      "score": 40.0
     },
     {
       "id": "2026-08-17-882f683a",
@@ -886,34 +942,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-17-92ce4e6a",
-      "headline": "Latest Oil Market News and Analysis for Aug. 18",
-      "summary": "Oil fluctuated near a two-week high, with the US and Iran stuck in a deadlock over control of the Strait of Hormuz.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/latest-oil-market-news-and-analysis-for-aug-18",
-      "region": "NA",
-      "country": "Iran",
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "22:01",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-6f4d8e67",
-      "headline": "Technology Stocks Slide as Bond Selloff Rolls On: Markets Wrap",
-      "summary": "Technology stocks drove declines in global equities as long-dated bond yields pushed further into multidecade highs and oil prices extended their climb, draining traders’ appetite for risky assets.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "22:07",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-17-b2934173",
       "headline": "China’s economy showing signs that slowdown may be extending",
       "summary": "Industrial output and retail sales slump in July after one of the country’s weakest quarterly growth rates everChina’s economy is showing signs of extending a slowdown with a slump in industrial output and retail sales in July, adding to pressure on Beijing to intervene with measures to support activity.After the world’s second largest economy posted one of its lowest quarterly growth readings on record in the three months to June, the latest fig",
@@ -926,6 +954,20 @@
       "time": "15:36",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-16-19334b9c",
+      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "09:27",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-16-b37a5ef2",
