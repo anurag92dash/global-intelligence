@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-18T09:57:27.835602+00:00",
+  "updated": "2026-08-18T10:19:50.125851+00:00",
   "story_count": 75,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-18-ed062153",
+      "headline": "At least 10 killed in Russian strike in northeast Ukraine's Kharkiv region, governor says",
+      "summary": "The Kharkiv region, parts of which are occupied by Russian forces, has been hit heavily since Moscow launched its full-scale invasion in February 2022.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/at-least-10-killed-in-russian-strike-in-northeast-ukraines-kharkiv-region-governor-says",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:52",
+      "conflict_id": "ukraine-war",
+      "score": 73.0
+    },
     {
       "id": "2026-08-18-64883fdf",
       "headline": "South Korea president calls for military independence in wake of Trump call to cut joint drills",
@@ -18,32 +32,18 @@
       "score": 64.0
     },
     {
-      "id": "2026-08-18-8d03de47",
-      "headline": "Trump Rejects Iran Truce as War Escalates | Horizons Middle East & Africa 8/18/2026",
-      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-18/horizons-middle-east-africa-8-18-2026-video",
-      "region": "NA",
-      "country": "Hong Kong",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "06:47",
-      "conflict_id": null,
-      "score": 58.1
-    },
-    {
       "id": "2026-08-18-7a653f80",
       "headline": "Zelenskyy says Ukraine will respond after 10 killed in overnight Russian attack – Europe live",
-      "summary": "Ukraine launched over 600 drones at Moscow and surrounding areas overnightSpeaking about concerns about Russian activities in Europe …The Paris prosecutors will look into suspicious that Édouard Philippe and Gabriel Attal, two former French prime ministers and prospective presidential candidates in 2027, may have been targeted by destabilisation operations attributed to Russian state actors, AFP reported. Continue reading...",
+      "summary": "Ukraine launched over 600 drones at Moscow and surrounding areas overnightSome first pictures from this morning’s earthquakes in Granada are emerging on social media…Andalusian president Juanma Moreno urged residents to maintain “maximum caution” as more seismic movements and aftershocks may happen. Continue reading...",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "09:42",
+      "time": "10:08",
       "conflict_id": "ukraine-war",
-      "score": 52.0
+      "score": 60.0
     },
     {
       "id": "2026-08-18-56672911",
@@ -57,7 +57,7 @@
       "date": "2026-08-18",
       "time": "06:47",
       "conflict_id": "ukraine-war",
-      "score": 51.4
+      "score": 59.4
     },
     {
       "id": "2026-08-18-3325b9fe",
@@ -102,20 +102,6 @@
       "score": 48.0
     },
     {
-      "id": "2026-08-18-3afbd2a2",
-      "headline": "Trump says talking to North Korea’s Kim makes the south safer",
-      "summary": "US President Donald Trump has revealed North Korea’s leader Kim Jong Un has responded ‘very positively’",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/trump-says-talking-to-north-koreas-kim-makes-the-south-safer?traffic_source=rss",
-      "region": "NA",
-      "country": "North Korea",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "01:58",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-08-18-0c9cbfa7",
       "headline": "Palestine weekly: Global outcry fails to break West Bank siege",
       "summary": "Israeli settlers besiege Palestinian homes in West Bank, while Board of Peace goes back on Gaza disarmament deal.",
@@ -158,6 +144,34 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-18-4c0a8327",
+      "headline": "Ukraine's parliament returns with defence and foreign ministry crises unresolved",
+      "summary": "Ukraine's parliament reconvenes on Tuesday with the defence and foreign ministries still without permanent heads, a month after President Volodymyr Zelenskyy abruptly dismissed Mykhailo Fedorov as defence minister.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/ukraines-parliament-returns-with-defence-and-foreign-ministry-crises-unresolved",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "07:13",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
+      "id": "2026-08-18-0b048a75",
+      "headline": "Syrian court sentences Wassim al-Assad to death for war crimes",
+      "summary": "Cousin of Bashar al-Assad and former regime figure found guilty of crimes including premeditated murder and torture.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/syrian-court-sentences-wassim-al-assad-to?traffic_source=rss",
+      "region": "MENA",
+      "country": "Syria",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "08:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-18-25a4094d",
       "headline": "What to watch in Tuesday’s Florida primary elections",
       "summary": "Islamophobia, anti-Semitism, Trump&#039;s politics and Israel&#039;s war on Gaza figure prominently in the elections.",
@@ -168,20 +182,6 @@
       "category": "geopolitics",
       "date": "2026-08-18",
       "time": "08:08",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-18-d2d3f6b6",
-      "headline": "Israel’s siege on Gaza is creating a breast cancer crisis",
-      "summary": "Al Jazeera looks at the devastating impact that Israel&#039;s war and siege on Gaza are having on women with breast cancer.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/8/18/israels-siege-on-gaza-is-creating-a-breast-cancer-crisis?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "07:43",
       "conflict_id": null,
       "score": 39.4
     },
@@ -198,20 +198,6 @@
       "time": "05:44",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-08-18-c8e2d508",
-      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "05:02",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-18-b3455ccc",
@@ -270,20 +256,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-18-3e429cb1",
-      "headline": "David Pocock condemns Labor-Coalition deal on gambling bill as ‘betrayal of all Australians’",
-      "summary": "Labor’s legislation to restrict gambling ads is set to pass this week, with the Greens calling the agreement ‘cowardly’Get our breaking news email, free app or daily news podcastTwo Coalition MPs have crossed the floor after a deal between the major parties to pass Labor’s new restrictions on betting advertising and inducements, with crossbenchers and the Greens expressing anger and dismay at the contentious bill’s final form.Anthony Albanese and",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/gambling-reforms-betting-ads-labor-coalition-strike-deal",
-      "region": "NA",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "07:11",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-08-18-d77229cb",
       "headline": "Hichilema wins second term as president of copper-rich Zambia",
       "summary": "Hichilema wins Zambia’s election with 60% after attacks on election officials briefly halted the vote count.",
@@ -324,6 +296,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-08-18-b4238249",
+      "headline": "Shakira and Warren Buffett's son announce rebuilding of schools in Chocó",
+      "summary": "The Colombian singer will not donate the announced one million dollars directly; it will be channelled via Global Citizen and promoter Live Nation, in which she is involved.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/08/18/shakira-and-warren-buffetts-son-announce-rebuilding-of-schools-in-choco",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:19",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-08-18-42abaf71",
@@ -508,6 +494,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-18-e7e9f66a",
+      "headline": "Florida Primary Underscores State’s New Identity as a Republican Juggernaut",
+      "summary": "Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "09:03",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-08-18-0e75df97",
       "headline": "Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race",
       "summary": "Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.",
@@ -518,6 +518,20 @@
       "category": "politics",
       "date": "2026-08-18",
       "time": "09:02",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-08-18-73d6dc1d",
+      "headline": "A California County Eyes a New Hire: Tina Peters, the Election Denier",
+      "summary": "The top elections official in Shasta County offered a job to Ms. Peters, a Trump supporter who was convicted of tampering with voting machines in Colorado.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "02:41",
       "conflict_id": null,
       "score": 25.2
     },
@@ -546,20 +560,6 @@
       "category": "politics",
       "date": "2026-08-18",
       "time": "09:33",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-08-18-61dde995",
-      "headline": "Victoria moves to expand definition of ‘corruption’ before state election",
-      "summary": "Former Ibac head welcomes potential change that could capture actions that currently cannot be used to make corrupt findingsGet our breaking news email, free app or daily news podcastBen Carroll has committed to changing the definition of “corruption” before the Victorian election in a move a former anti-corruption boss says could have captured the conduct of senior government figures had it been in place earlier.The Victorian premier announced o",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/18/victoria-moves-to-expand-definition-of-corruption-before-state-election-ntwnfb",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "07:25",
       "conflict_id": null,
       "score": 24.0
     },
@@ -687,7 +687,7 @@
       "date": "2026-08-17",
       "time": "21:20",
       "conflict_id": null,
-      "score": 57.9
+      "score": 56.9
     },
     {
       "id": "2026-08-17-81d96257",
@@ -701,7 +701,7 @@
       "date": "2026-08-17",
       "time": "09:10",
       "conflict_id": null,
-      "score": 57.0
+      "score": 56.0
     },
     {
       "id": "2026-08-17-f7d2fea4",
@@ -715,35 +715,7 @@
       "date": "2026-08-17",
       "time": "00:20",
       "conflict_id": null,
-      "score": 49.9
-    },
-    {
-      "id": "2026-08-17-7e7d73f6",
-      "headline": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
-      "summary": "Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
-      "region": "NA",
-      "country": "North Korea",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "23:25",
-      "conflict_id": null,
-      "score": 49.2
-    },
-    {
-      "id": "2026-08-17-aae916f1",
-      "headline": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
-      "summary": "President Trump took aim at Oman, a U.S. ally that has been mediating the talks, as efforts to end a war he started have faltered.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
-      "region": "MENA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "20:02",
-      "conflict_id": null,
-      "score": 49.2
+      "score": 48.9
     },
     {
       "id": "2026-08-17-3265b919",
@@ -760,6 +732,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-08-17-7e7d73f6",
+      "headline": "Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un",
+      "summary": "Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html",
+      "region": "NA",
+      "country": "North Korea",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "23:25",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-08-17-4a2ecb2c",
       "headline": "Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment",
       "summary": "The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.",
@@ -770,6 +756,20 @@
       "category": "geopolitics",
       "date": "2026-08-17",
       "time": "15:38",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-08-17-aae916f1",
+      "headline": "As Iran Truce Expires and Options Shrivel, Trump Lashes Out",
+      "summary": "President Trump took aim at Oman, a U.S. ally that has been mediating the talks, as efforts to end a war he started have faltered.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html",
+      "region": "MENA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "20:02",
       "conflict_id": null,
       "score": 41.2
     },
@@ -800,6 +800,20 @@
       "time": "16:01",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-08-17-7e9830d9",
+      "headline": "Trump threatens to bomb US ally Oman if it 'gets in the way' over Iran deal",
+      "summary": "Trump's threat on Oman, which has been holding its own talks with Iran to reopen the Strait of Hormuz, comes as a 60-day window for peace negotiations expires.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy5dzk0ryzdo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "19:25",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-17-01bf102c",
@@ -868,20 +882,6 @@
       "category": "business",
       "date": "2026-08-17",
       "time": "22:07",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-17-2117eba5",
-      "headline": "Hedge Fund Tax Break Grips Hong Kong as Banks Fear Exodus",
-      "summary": "Hong Kong’s move to cut taxes for hedge funds has set off a frenzied wave of maneuvering across the city’s financial sector, with investment banks fearing an exodus of prop traders and one fund even considering rebranding a receptionist as an investor relations official to make the most of the potential windfall.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-17/hedge-fund-tax-break-grips-hong-kong-as-banks-fear-exodus",
-      "region": "EU",
-      "country": "Hong Kong",
-      "category": "business",
-      "date": "2026-08-17",
-      "time": "23:00",
       "conflict_id": null,
       "score": 26.1
     },
