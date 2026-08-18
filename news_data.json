@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-18T07:10:33.621571+00:00",
-  "story_count": 80,
+  "updated": "2026-08-18T07:49:52.731947+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
     {
@@ -32,6 +32,20 @@
       "score": 58.1
     },
     {
+      "id": "2026-08-18-3325b9fe",
+      "headline": "Trump’s cuts to South Korean drills stir doubts about US resolve in Asia",
+      "summary": "Decision comes as Pentagon pulls ships from Indo-Pacific to Middle East and Iran war depletes weapons stockpiles",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1d713822-e68f-4476-be94-ffab3418bfe4?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
       "id": "2026-08-18-8ed65861",
       "headline": "U.S. Airman Says He Would Accept Punishment for Protesting Iran War",
       "summary": "Major Watson characterized the war in Iran as an act of American aggression and compared the U.S. military actions to Russia’s invasion of Ukraine.",
@@ -44,6 +58,20 @@
       "time": "01:34",
       "conflict_id": null,
       "score": 49.2
+    },
+    {
+      "id": "2026-08-18-bf890fa4",
+      "headline": "Russia warns UK of ‘consequences’ over reports Ukraine using British drones in attacks",
+      "summary": "Ministry of Defence rebuffs threats, saying UK ‘committed to providing equipment Ukraine needs to defend itself against Putin’s illegal invasion’Moscow has threatened the UK with “consequences” after reports that British drones have been used to strike targets on Russia’s mainland for the first time.Ukraine used drones made by two UK companies as part of a so-called deep strike campaign, the Sunday Times reported. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/18/moscow-warns-uk-over-reports-ukraine-using-british-drones-to-attack-russia",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:34",
+      "conflict_id": null,
+      "score": 48.0
     },
     {
       "id": "2026-08-18-3afbd2a2",
@@ -60,6 +88,76 @@
       "score": 47.4
     },
     {
+      "id": "2026-08-18-0095ff68",
+      "headline": "Israeli settler children attack ambulance in occupied West Bank",
+      "summary": "Video released by the Palestinian Red Crescent shows Israeli settler children attacking and blocking an ambulance.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/israeli-settler-children-attack-ambulance-in-occupied-west-bank?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:20",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
+      "id": "2026-08-18-4c0a8327",
+      "headline": "Ukraine's parliament returns with defence and foreign ministry crises unresolved",
+      "summary": "Ukraine's parliament reconvenes on Tuesday with the defence and foreign ministries still without permanent heads, a month after President Volodymyr Zelenskyy abruptly dismissed Mykhailo Fedorov as defence minister.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/18/ukraines-parliament-returns-with-defence-and-foreign-ministry-crises-unresolved",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "07:13",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
+      "id": "2026-08-18-c6455b54",
+      "headline": "Ukraine launches over 600 drones at Moscow and surrounding areas – Europe live",
+      "summary": "Russian-controlled regions, including the occupied Crimea, also reported heavy attacksUkraine launched over 600 drones at Moscow and surrounding areas overnight, continuing its massive attacks on targets in Russia after even larger weekend strikes.Drones are believed to hit a warehouse of Russian e-commerce company Wildberries and other facilities near Moscow, Reuters reported. At least three people were injured in attacks. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/18/ukraine-drone-attack-moscow-crimea-russia-nato-wildfires-europe-live-latest-updates",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:38",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-08-18-5bd0878f",
+      "headline": "Russia says more than 600 drones targeted Moscow region",
+      "summary": "The attacks injured at least three people, including a girl, and damaged a Wildberries warehouse, Russian officials say.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/18/russia-says-more-than-600-drones-targeted-moscow-region?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "06:47",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-08-18-6ba54ed3",
+      "headline": "Iran war live: Vessel struck in Strait of Hormuz, crew member injured",
+      "summary": "A vessel was struck by a projectile in the Strait of Hormuz, leaving a crew member injured, according to the UKMTO.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/18/iran-war-live-trump-rejects-mou-extension-as-us-claims-control-of-hormuz?traffic_source=rss",
+      "region": "EU",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-18-48b3aead",
       "headline": "Hungary opens sluice and sinks barges to protect nuclear plant as Danube levels fall",
       "summary": "Emergency engineering work is under way as authorities brace for a further sharp drop in river levels before conditions are expected to improve later this week.",
@@ -74,20 +172,6 @@
       "score": 37.0
     },
     {
-      "id": "2026-08-18-c8e2d508",
-      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
-      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "05:02",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-18-b3455ccc",
       "headline": "China censors public mourning as it holds former premier's funeral",
       "summary": "While hailing Zhu’s legacy, authorities are wary that the nostalgia could lead to criticisms of Xi’s rule.",
@@ -97,7 +181,7 @@
       "country": "China",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "04:28",
+      "time": "07:17",
       "conflict_id": null,
       "score": 35.0
     },
@@ -116,16 +200,16 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-18-ed2353e4",
-      "headline": "Coalition MPs cross floor over ‘weak’ gambling crackdown as major parties strike deal",
-      "summary": "Labor’s bill to restrict gambling ads is set to pass this week, with the Greens calling the agreement ‘cowardly’Two Coalition MPs have crossed the floor after a deal between the major parties to pass Labor’s new restrictions on betting advertising and inducements, which the MPs say are too “weak” and place “too much faith in the hands of the gambling companies”.Anthony Albanese and the communications minister, Anika Wells, secured the support of ",
+      "id": "2026-08-18-3e429cb1",
+      "headline": "David Pocock condemns Labor-Coalition deal on gambling bill as ‘betrayal of all Australians’",
+      "summary": "Labor’s legislation to restrict gambling ads is set to pass this week, with the Greens calling the agreement ‘cowardly’Two Coalition MPs have crossed the floor after a deal between the major parties to pass Labor’s new restrictions on betting advertising and inducements, with cross-benchers and the Greens expressing anger and dismay at the contentious bill’s final form.Anthony Albanese and the communications minister, Anika Wells, secured the sup",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/aug/18/gambling-reforms-betting-ads-labor-coalition-strike-deal",
-      "region": "EU",
-      "country": null,
+      "region": "NA",
+      "country": "Australia",
       "category": "politics",
       "date": "2026-08-18",
-      "time": "06:51",
+      "time": "07:11",
       "conflict_id": null,
       "score": 32.0
     },
@@ -186,6 +270,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-18-b4238249",
+      "headline": "Shakira and Warren Buffett's son announce rebuilding of schools in Chocó",
+      "summary": "The Colombian singer will not donate the announced one million dollars directly; it will be channelled via Global Citizen and promoter Live Nation, in which she is involved.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/08/18/shakira-and-warren-buffetts-son-announce-rebuilding-of-schools-in-choco",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "07:19",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-08-18-db10b7f3",
       "headline": "Zambia's Hakainde Hichilema wins re-election with 60% of vote, officials say",
       "summary": "The election was widely seen as a referendum on Hichilema's first term during which Zambia's economy returned to growth after years of fiscal distress.",
@@ -242,6 +340,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-18-6f7b4c38",
+      "headline": "US Stock-Index Futures Drop as Bond Yields and Oil Prices Rise",
+      "summary": "US stock-index futures fell as rising bond yields and a spike in oil prices unnerved investors.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-18",
+      "time": "06:51",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-18-7bce835a",
       "headline": "Yield Excitement Reaching Local Extreme?: 3-Minutes MLIV",
       "summary": "Guy Johnson, Tom Mackenzie, Skylar Montgomery Koning and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"  (Source: Bloomberg)",
@@ -266,20 +378,6 @@
       "category": "business",
       "date": "2026-08-18",
       "time": "06:57",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-d0c6f09b",
-      "headline": "US Stock-Index Futures Drop as Bond Yields, Oil Prices Rise",
-      "summary": "US stock-index futures fell as rising bond yields and a spike in oil prices unnerved investors.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/us-stock-index-futures-drop-as-bond-yields-oil-prices-rise",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "06:51",
       "conflict_id": null,
       "score": 26.1
     },
@@ -382,62 +480,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-18-9b0b65fb",
-      "headline": "Asian Bonds Follow Treasuries Lower on Concerns Over Government Finances | The Asia Trade 8/18/2026",
-      "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-18/the-asia-trade-8-18-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "05:14",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-fcb85e2e",
-      "headline": "Maniatis: Oman Spill Cleanup May Cost USD 200-500M",
-      "summary": "Specialists are racing to salvage a sinking shadow-fleet tanker off Oman that has caused a massive oil slick. Personnel have already boarded the Caroline Bezengi, a Suezmax that has grounded off Oman’s southern coast. Dimitris Maniatis, CEO of maritime risk management firm Marisks spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East & Africa on the short & long-term consequences of such a spill. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-18/maniatis-oman-spill-cleanup-may-cost-usd-200-500m-video",
-      "region": "MENA",
-      "country": "Oman",
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "05:34",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-642c7e0f",
-      "headline": "NSE Said to Seek Up to $55 Billion Valuation in Record India IPO",
-      "summary": "National Stock Exchange of India Ltd., the operator of the world’s largest derivatives exchange by trading volume, is seeking a valuation of as much as 5.26 trillion rupees ($55 billion) in its planned initial public offering, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/nse-said-to-seek-up-to-55-billion-valuation-in-record-india-ipo",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "05:05",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-73d6dc1d",
-      "headline": "A California County Eyes a New Hire: Tina Peters, the Election Denier",
-      "summary": "The top elections official in Shasta County offered a job to Ms. Peters, a Trump supporter who was convicted of tampering with voting machines in Colorado.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/california-voting-shasta-county-tina-peters.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "02:41",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-08-18-613e9568",
       "headline": "Planned Parenthood to spend more than $600,000 against Susan Collins in Maine",
       "summary": "The ad buy, which will focus on the senator’s vote to confirm Justice Brett M. Kavanaugh, is the largest investment from Planned Parenthood Votes in any state this cycle.",
@@ -452,8 +494,8 @@
       "score": 24.9
     },
     {
-      "id": "2026-08-18-1315d0c0",
-      "headline": "Australia politics live: Butler confident NDIS bill will pass Senate after deal with Coalition; regulator yet to contact gambling operators after Luke Bateman’s allegations",
+      "id": "2026-08-18-27a3800b",
+      "headline": "Australia politics live: Regulator yet to contact gambling operators after Luke Bateman’s allegations; Butler confident NDIS bill will pass Senate tonight",
       "summary": "Government MPs agree to more than a dozen amendments made with the Coalition. Follow today’s news liveGet our breaking news email, free app or daily news podcastChalmers calls gambling amendments ‘very substantial changes’Treasurer Jim Chalmers says the opt-out register on gambling advertising will be revenue neutral, because the gambling industry will have to cover the costs.These changes that we’re proposing are very substantial changes. And th",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/18/australia-politics-live-labor-coalition-gambling-advertising-ai-charlton-datacentres-question-time-anthony-albanese-angus-taylor-one-nation-pauline-hanson-ntwnfb",
@@ -461,7 +503,21 @@
       "country": "Australia",
       "category": "politics",
       "date": "2026-08-18",
-      "time": "06:55",
+      "time": "07:38",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-08-18-61dde995",
+      "headline": "Victoria moves to expand definition of ‘corruption’ before state election",
+      "summary": "Former Ibac head welcomes potential change that could capture actions that currently cannot be used to make corrupt findingsGet our breaking news email, free app or daily news podcastBen Carroll has committed to changing the definition of “corruption” before the Victorian election in a move a former anti-corruption boss says could have captured the conduct of senior government figures had it been in place earlier.The Victorian premier announced o",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/18/victoria-moves-to-expand-definition-of-corruption-before-state-election-ntwnfb",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-18",
+      "time": "07:25",
       "conflict_id": null,
       "score": 24.0
     },
@@ -592,20 +648,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-17-3265b919",
-      "headline": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "16:02",
-      "conflict_id": "israel-hamas",
-      "score": 63.0
-    },
-    {
       "id": "2026-08-17-215a4e4a",
       "headline": "Trump says US to reduce military drills with South Korea after it stayed out of Iran war",
       "summary": "Trump cites his \"very good relationship\" with North Korea's leader in deciding to downsize the exercises.",
@@ -646,20 +688,6 @@
       "time": "21:20",
       "conflict_id": null,
       "score": 57.9
-    },
-    {
-      "id": "2026-08-17-4a2ecb2c",
-      "headline": "Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment",
-      "summary": "The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "15:38",
-      "conflict_id": null,
-      "score": 57.2
     },
     {
       "id": "2026-08-17-81d96257",
@@ -704,6 +732,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-08-17-3265b919",
+      "headline": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
+      "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-17",
+      "time": "16:02",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
+    },
+    {
       "id": "2026-08-17-3a0719f6",
       "headline": "US Supreme Court again rejects Trump's request to overturn sex assault judgement",
       "summary": "It's the second time Trump has asked the Supreme Court to overturn damages awarded to E. Jean Carroll.",
@@ -715,21 +757,7 @@
       "date": "2026-08-17",
       "time": "18:15",
       "conflict_id": null,
-      "score": 54.0
-    },
-    {
-      "id": "2026-08-17-750c6341",
-      "headline": "Supreme Court again rejects Trump's bid to overturn E Jean Carroll  sex abuse case",
-      "summary": "The US president has already paid the writer over $5m in damages in the assault and defamation case.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c74gekjgrllo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-17",
-      "time": "18:45",
-      "conflict_id": null,
-      "score": 52.0
+      "score": 53.0
     },
     {
       "id": "2026-08-17-f7d2fea4",
@@ -760,20 +788,6 @@
       "score": 49.2
     },
     {
-      "id": "2026-08-17-ffcb666a",
-      "headline": "Kushner's Gaza peace plan talks end without breakthrough",
-      "summary": "A senior Israeli official told news agency AFP that the US and Israel had \"agreed that no redeployment or reconstruction would take place in the Gaza Strip before Hamas is disarmed throughout Gaza.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/17/kushners-gaza-peace-plan-talks-end-without-breakthrough",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "18:00",
-      "conflict_id": "israel-hamas",
-      "score": 49.0
-    },
-    {
       "id": "2026-08-17-73382858",
       "headline": "Trump defends his move to cut back U.S.-South Korea military exercises",
       "summary": "A day after attributing the decision to a good relationship with North Korea, President Donald Trump also tied the move to South Korea’s refusal to help with the Strait of Hormuz.",
@@ -784,20 +798,6 @@
       "category": "geopolitics",
       "date": "2026-08-17",
       "time": "19:46",
-      "conflict_id": null,
-      "score": 48.9
-    },
-    {
-      "id": "2026-08-17-01bf102c",
-      "headline": "Supreme Court rebuffs Trump’s bid to overturn $5 million verdict in Carroll case",
-      "summary": "The president was found liable of sexually abusing and defaming E. Jean Carroll in the high-profile civil case.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/17/supreme-court-rebuffs-trumps-bid-overturn-5-million-verdict-carroll-case/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-17",
-      "time": "16:00",
       "conflict_id": null,
       "score": 48.9
     },
@@ -816,18 +816,18 @@
       "score": 43.4
     },
     {
-      "id": "2026-08-17-019743a2",
-      "headline": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
-      "summary": "It was the second federal appellate decision to take issue with the administration’s custom of leaving interim prosecutors in place to lead U.S. attorney’s offices to circumvent congressional approval.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html",
+      "id": "2026-08-17-01bf102c",
+      "headline": "Supreme Court rebuffs Trump’s bid to overturn $5 million verdict in Carroll case",
+      "summary": "The president was found liable of sexually abusing and defaming E. Jean Carroll in the high-profile civil case.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/17/supreme-court-rebuffs-trumps-bid-overturn-5-million-verdict-carroll-case/",
       "region": "NA",
-      "country": "Congress",
-      "category": "business",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-08-17",
-      "time": "22:37",
+      "time": "16:00",
       "conflict_id": null,
-      "score": 41.2
+      "score": 40.9
     },
     {
       "id": "2026-08-17-16f8a115",
@@ -844,32 +844,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-17-3b6d7b1f",
-      "headline": "Russia upholds Yabloko party's election ban and jails its deputy chair",
-      "summary": "The Supreme Court upheld Yabloko's removal from the September ballot hours after a Pskov court sentenced deputy chair Lev Shlosberg to more than 11 years in a penal colony for calling for a ceasefire in Russia's ongoing all-out war in Ukraine.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/17/russia-upholds-yabloko-partys-election-ban-and-jails-its-deputy-chair",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
+      "id": "2026-08-17-019743a2",
+      "headline": "Appeals Court Rejects Trump’s Strategy of Picking U.S. Attorneys",
+      "summary": "It was the second federal appellate decision to take issue with the administration’s custom of leaving interim prosecutors in place to lead U.S. attorney’s offices to circumvent congressional approval.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/17/us/us-attorneys-interim-appointments.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "business",
       "date": "2026-08-17",
-      "time": "17:51",
+      "time": "22:37",
       "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-08-17-36b06b17",
-      "headline": "Russia's prominent anti-war politician jailed for 11 years",
-      "summary": "Lev Schlosberg is found guilty of \"discrediting\" Russia's army - a verdict he condemns as punishment for his political position.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4kjnle2neo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "16:17",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 33.2
     },
     {
       "id": "2026-08-17-251d9a0f",
@@ -900,18 +886,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-17-c84282f4",
-      "headline": "Top Zambian opposition figures arrested days after presidential vote",
-      "summary": "The leading opposition candidate calls allegations of a planned insurrection \"total fabrications\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn0nj3ln8r5o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
+      "id": "2026-08-17-c5d6a916",
+      "headline": "Stocks Fall as Bond Selloff Drives Risk Aversion: Markets Wrap",
+      "summary": "Stocks fell as long-dated bond yields pushed further into multidecade highs and oil prices extended their climb, draining traders’ appetite for risky assets.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-17/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
       "country": null,
-      "category": "politics",
+      "category": "business",
       "date": "2026-08-17",
-      "time": "14:23",
+      "time": "22:07",
       "conflict_id": null,
-      "score": 27.0
+      "score": 26.1
     },
     {
       "id": "2026-08-17-2117eba5",
@@ -1054,6 +1040,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-08-14-d3644fcf",
+      "headline": "Many Canadians are boycotting the US, so this is where they're travelling instead",
+      "summary": "From exploring their own backyard to travelling abroad, many Canadians are spending their money elsewhere to send a message to the US president.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c8jnwnw22ngo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-14",
+      "time": "23:16",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-14-0fac8e07",
       "headline": "Ontario free to axe Toronto bike lanes, region’s top court rules",
       "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic illsThe Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights.The win is significant for Ontario’s premier, Doug Ford, and his government, who have long r",
@@ -1092,20 +1092,6 @@
       "category": "geopolitics",
       "date": "2026-08-11",
       "time": "14:50",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-11-6352ef75",
-      "headline": "Houthis reportedly kill six in first deadly attack since start of Iran war",
-      "summary": "Iran's proxy says it hit a ship with Saudi military equipment in the Red Sea, as tensions over the US-Iran war remain high.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg9wpmzmlno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-08-11",
-      "time": "19:27",
       "conflict_id": null,
       "score": 35.0
     },
