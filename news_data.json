@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-19T03:35:10.552812+00:00",
-  "story_count": 74,
+  "updated": "2026-08-19T04:19:44.432877+00:00",
+  "story_count": 77,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-19-7f7681bd",
+      "headline": "Global food security may be collateral in Ukraine war",
+      "summary": "Moscow and Kyiv’s attacks on one another’s agricultural exports could result in a worldwide grain crisis",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a2e965ee-31be-40ad-ab13-75861b6df838",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "04:00",
+      "conflict_id": "ukraine-war",
+      "score": 62.4
+    },
     {
       "id": "2026-08-19-32c03af7",
       "headline": "Trump pauses new tariffs on Canada and says countries close to a deal",
@@ -13,14 +27,14 @@
       "country": "Canada",
       "category": "business",
       "date": "2026-08-19",
-      "time": "02:41",
+      "time": "03:56",
       "conflict_id": null,
       "score": 51.0
     },
     {
-      "id": "2026-08-19-c5c98b2f",
-      "headline": "Trump says deal reached with Canada and delays tariffs",
-      "summary": "Eleventh-hour reprieve following ‘intense’ talks with Mark Carney to avert 50% levies on billions of dollars in goods",
+      "id": "2026-08-19-e0ea4caf",
+      "headline": "Trump says deal reached with Canada and pauses tariffs",
+      "summary": "Last-minute reprieve follows ‘intense’ talks with Mark Carney to avert 50% levies on billions of dollars in goods",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/8a256a34-5e8d-459a-80a3-78ba6aa121af?syn-25a6b1a6=1",
       "region": "NA",
@@ -30,20 +44,6 @@
       "time": "02:34",
       "conflict_id": null,
       "score": 50.4
-    },
-    {
-      "id": "2026-08-19-28682a15",
-      "headline": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
-      "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect.Donald Trump posted late on Tuesday on social media that he had paused the tariffs for three days “based on the fact that",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "03:12",
-      "conflict_id": null,
-      "score": 48.0
     },
     {
       "id": "2026-08-19-597af9cb",
@@ -57,16 +57,44 @@
       "date": "2026-08-19",
       "time": "02:18",
       "conflict_id": null,
+      "score": 49.0
+    },
+    {
+      "id": "2026-08-19-28682a15",
+      "headline": "Trump hits pause on Canada tariffs threat, and hints at revival of Keystone XL oil pipeline project",
+      "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect.Donald Trump posted late on Tuesday on social media that he had paused the tariffs for three days “based on the fact that",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "03:47",
+      "conflict_id": null,
       "score": 48.0
     },
     {
-      "id": "2026-08-19-222fdae4",
-      "headline": "US, Canada reach trade deal to avert steep tariffs, Trump says",
-      "summary": "Trump announces pause on 50 percent duty on Canadian exports shortly before midnight deadline.",
+      "id": "2026-08-19-05f65ac5",
+      "headline": "South Korea cuts short joint military exercises after Trump intervention",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/south-korea-cuts-short-joint-military-exercises-after-trump-intervention",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "",
+      "conflict_id": null,
+      "score": 47.8
+    },
+    {
+      "id": "2026-08-19-ab8eeed9",
+      "headline": "US, Canada reach deal to pause steep tariffs",
+      "summary": "Washington and Ottawa reach agreement to avert 50 percent duty on Canadian exports shortly before midnight deadline.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
       "region": "NA",
-      "country": "Canada",
+      "country": "Washington",
       "category": "business",
       "date": "2026-08-19",
       "time": "02:35",
@@ -86,20 +114,6 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 47.4
-    },
-    {
-      "id": "2026-08-19-081efd56",
-      "headline": "Australia politics live: Liberal senator to back Pocock’s amendments to ‘fatally flawed’ gambling bill; real wages go backwards",
-      "summary": "Independent senator condemns gambling reform bill as ‘a victory for vested interests over the community’. Follow today’s news liveFollow our breaking news email, free app or daily news podcast‘Collapsing confidence’ in housing market, Wilson saysTim Wilson has jumped on that reporting around rent increases and says there has been a collapse in confidence since the budget which is hurting renters.We’ve had, since the budget, collapsing confidence,",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
-      "region": "EU",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-08-19",
-      "time": "03:27",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-08-19-cb089b12",
@@ -186,6 +200,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-08-19-100e6fd5",
+      "headline": "Australia politics live: Victorian Liberals pledge to scrap power link to NSW and instead ‘throw open the doors to gas’",
+      "summary": "Follow today’s news liveFollow our breaking news email, free app or daily news podcast‘Collapsing confidence’ in housing market, Wilson saysTim Wilson has jumped on that reporting around rent increases and says there has been a collapse in confidence since the budget which is hurting renters.We’ve had, since the budget, collapsing confidence, a lack of will to invest in housing that is going to be available for rentals.We’re seeing a complete dis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "04:13",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-08-19-d95401f1",
       "headline": "First Nations MP resigns from NT parliament, accusing government of passing laws which are ‘dehumanising, oppressing and destroying’ Indigenous people",
       "summary": "Yolngu independent Yiŋiya Guyula accused the CLP of ‘contributing to the breakdown of our culture and people, in what is becoming a slow genocide’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastA First Nations MP from the Northern Territory has resigned from parliament, accusing the ruling Country Liberal party of introducing laws that are “dehumanising, oppressing and destroying ou",
@@ -200,6 +228,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-19-83252278",
+      "headline": "Japan bond yields spike on Takaichi budget fears, worries over US view",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/bonds/japan-bond-yields-spike-on-takaichi-budget-fears-worries-over-us-view",
+      "region": "NA",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
       "id": "2026-08-19-1f9ad760",
       "headline": "China eases limits on Nvidia H200 chips as AI race escalates",
       "summary": "Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals",
@@ -212,6 +254,62 @@
       "time": "02:09",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-19-ec170b1f",
+      "headline": "CXMT Rival YMTC Moves Closer to China’s Next Marquee Chip IPO",
+      "summary": "Yangtze Memory Technologies Co. moved closer to an initial public offering in China, following in the footsteps of rival CXMT Corp.’s near-record share sale.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/cxmt-rival-ymtc-moves-closer-to-china-s-next-marquee-chip-ipo",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "04:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-19-c823ab89",
+      "headline": "AiMoGA Sees Auto-Robot Integration as Key to Growth",
+      "summary": "Zhang Guibing, President of AiMoGA Robotics, says the key to the company's strategy is integrating automotive and robotics platforms through both technology and supply chain capabilities. He speaks to David Ingles and Yvonne Man on \"Bloomberg: The China Show.\"  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/aimoga-sees-auto-robot-integration-as-key-to-growth-video",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-19-651d560f",
+      "headline": "Ukraine's 150% Bond Market Rally Shows Traders It Can Beat the Odds",
+      "summary": "The four-year advance in&nbsp;Ukraine’s high-octane bond market is running strong.&nbsp;",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ukraine-s-150-bond-market-rally-shows-traders-it-can-beat-the-odds",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-19-3f588b32",
+      "headline": "India Stock Closing Auction Turmoil Clouds BSE’s Growth Outlook",
+      "summary": "A chaotic start to India’s bid to bring closing share-price discovery in line with global standards is hurting BSE Ltd., with some analysts questioning the growth outlook for Asia’s oldest exchange operator.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/india-stock-closing-auction-turmoil-clouds-bse-s-growth-outlook",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "03:42",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-19-2c5c33e4",
@@ -256,34 +354,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-19-e6ed9fe0",
-      "headline": "Korean Stocks Bear Brunt of Chip Slide Spurred by Rise in Yields",
-      "summary": "South Korea led a selloff in Asian chip stocks, as rising bond yields exacerbated worry over the large sums of cash being shelled out by Big Tech.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/korea-bears-brunt-as-higher-bond-yields-weigh-on-chip-stocks",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "00:42",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-19-5ad838e4",
-      "headline": "Japan Bond Volatility Is Pumping Up Futures Trading in Singapore",
-      "summary": "Global funds and relative-value traders are driving a surge in Japan bond futures trading in Singapore, drawn by rising volatility.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/japan-bond-volatility-is-pumping-up-futures-trading-in-singapore",
-      "region": "APJ",
-      "country": "Singapore",
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "01:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-19-a94c21f5",
       "headline": "Hitachi Construction Shares Drop After $740 Million Block Trade",
       "summary": "Hitachi Construction Machinery Co.’s shares fell the most in almost three weeks after its major shareholder Hitachi Ltd. offloaded all holding, in the latest move by the Japanese conglomerate to divest some of its assets to focus on core businesses.",
@@ -312,6 +382,34 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-19-ef963f67",
+      "headline": "5 Things to Know About Mary Peltola, Democratic Senate Candidate in Alaska",
+      "summary": "The Alaska Native, who grew up along the Kuskokwim River near the Bering Sea and fished for salmon, is the leading Democrat in the nonpartisan primary race.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/mary-peltola-democratic-senate-alaska.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-08-19",
+      "time": "03:40",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-08-19-de58d8ca",
+      "headline": "5 Things to Know About Dan Sullivan, the Alaska Senator Seeking Re-election",
+      "summary": "The incumbent Republican has been a reliable supporter of President Trump, giving Democrats a pickup opportunity in a state where most are politically unaffiliated.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-republican-senator-alaska.html",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-19",
+      "time": "03:40",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-08-19-d60409a0",
       "headline": "‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate",
       "summary": "Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways.",
@@ -321,9 +419,23 @@
       "country": "NATO",
       "category": "politics",
       "date": "2026-08-19",
-      "time": "03:33",
+      "time": "03:35",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-08-19-d2e519c4",
+      "headline": "Erin Patterson argues mushroom murder convictions should be quashed due to ‘catastrophic’ failure of justice",
+      "summary": "Allowing jurors to stay in same hotel as police and prosecution denied Patterson a fair trial, lawyers tell Victorian court of appealLawyers for Erin Patterson have argued that allowing jurors to stay in the same hotel as police and the prosecution while they deliberated over their verdicts in the triple-murder trial represented a “catastrophic” failure of the justice system.On Wednesday, three judges of Victoria’s highest court started hearing t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/19/erin-patterson-mushroom-murders-appeal-jurors-catastrophic-failure-of-justice-ntwnfb",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "03:37",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-08-19-b7d0ead1",
@@ -347,20 +459,6 @@
       "url": "https://asia.nikkei.com/spotlight/myanmar-crisis/thailand-hosts-myanmar-military-chief-deepening-bilateral-ties",
       "region": "APJ",
       "country": "Thailand",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-19-f10f6d86",
-      "headline": "Australian ambassador to Japan floats Indo-Pacific network to counter China",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/australian-ambassador-to-japan-floats-indo-pacific-network-to-counter-china",
-      "region": "APJ",
-      "country": "Australia",
       "category": "geopolitics",
       "date": "2026-08-19",
       "time": "",
@@ -393,7 +491,7 @@
       "date": "2026-08-18",
       "time": "05:50",
       "conflict_id": null,
-      "score": 64.0
+      "score": 65.0
     },
     {
       "id": "2026-08-18-3143c37d",
@@ -407,21 +505,7 @@
       "date": "2026-08-18",
       "time": "12:36",
       "conflict_id": "ukraine-war",
-      "score": 63.0
-    },
-    {
-      "id": "2026-08-18-2e0e39ed",
-      "headline": "Russian missile strike kills 10 civilians in Kharkiv",
-      "summary": "A Russian missile strike on Pechenihy, in Ukraine’s Kharkiv region, killed at least 10 civilians and wounded 17 others.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/18/russian-missile-strike-kills-10-civilians-in-kharkiv?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "20:26",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
+      "score": 55.0
     },
     {
       "id": "2026-08-18-38ade879",
@@ -494,18 +578,18 @@
       "score": 46.0
     },
     {
-      "id": "2026-08-18-b373ae69",
-      "headline": "ICC hits back after US announces fresh sanctions on senior court figures",
-      "summary": "Responding to the US' move in a statement, the ICC reportedly said the new sanctions \"undermine the rule of law.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/18/icc-hits-back-after-us-announces-fresh-sanctions-on-senior-court-figures",
-      "region": "NA",
-      "country": null,
+      "id": "2026-08-18-92c7c075",
+      "headline": "UAE suspends trade with Iran after saying it fired missiles at Gulf state",
+      "summary": "Defence ministry says weapons were targeting maritime traffic but fell into the sea",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-08-18",
-      "time": "20:00",
+      "time": "21:43",
       "conflict_id": null,
-      "score": 45.0
+      "score": 42.4
     },
     {
       "id": "2026-08-18-de0acc79",
@@ -578,18 +662,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-18-92c7c075",
-      "headline": "UAE suspends trade with Iran after saying it fired missiles at Gulf state",
-      "summary": "Defence ministry says weapons were targeting maritime traffic but fell into the sea",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/8dbbeb9a-290a-4edd-b731-44ce3e31ecf5?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
+      "id": "2026-08-18-5af9929a",
+      "headline": "Gold Edges Higher as US Bond Yields Stabilize After Surge",
+      "summary": "Gold rose as a selloff in US bonds eased, relieving pressure on the precious metal after it fell the most in almost a month on Tuesday.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
+      "region": "NA",
+      "country": null,
+      "category": "business",
       "date": "2026-08-18",
-      "time": "21:43",
+      "time": "23:42",
       "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
     },
     {
       "id": "2026-08-18-45c809ad",
@@ -602,20 +686,6 @@
       "category": "business",
       "date": "2026-08-18",
       "time": "23:59",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-18-038b9c30",
-      "headline": "Trump and Carney speak ahead of US tariff deadline",
-      "summary": "The new US tariffs would cover about $20bn worth of imports and could lead to job losses and business closures.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/18/trump-and-carney-speak-ahead-of-us-tariff-deadline?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "20:19",
       "conflict_id": null,
       "score": 31.4
     },
@@ -676,23 +746,9 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-18-af121b7e",
-      "headline": "AI phobia is America’s new consensus",
-      "summary": "Trump is uncharacteristically deaf to voter fears over the technology",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "10:57",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-18-88bce3d0",
-      "headline": "Chip Selloff Extends to Asia, Treasuries Stabilize: Markets Wrap",
-      "summary": "Asian stocks dropped as a semiconductor selloff deepened, with investors retreating from one of the year’s hottest trades amid elevated bond yields and geopolitical uncertainty. Treasuries stabilized following recent losses.",
+      "id": "2026-08-18-cc6e440b",
+      "headline": "Global Chip Selloff Hits Stocks, Treasuries Steady: Markets Wrap",
+      "summary": "A global selloff in semiconductor stocks deepened as investors retreated from one of the year’s hottest trades amid elevated bond yields and geopolitical uncertainty. Treasuries steadied following recent losses.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-18/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -728,34 +784,6 @@
       "category": "business",
       "date": "2026-08-18",
       "time": "23:38",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-c19eded4",
-      "headline": "Gold Holds Losses as Bond Selloff, Hormuz Limbo Weigh on Outlook",
-      "summary": "Gold steadied after the biggest drop in almost a month as a bond rout and deadlock in the Strait of Hormuz dimmed the outlook for the precious metal.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/gold-holds-losses-as-bond-selloff-hormuz-limbo-weigh-on-outlook",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "23:42",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-b5ef0815",
-      "headline": "JBS Seeks Rest of Pilgrim’s Pride Stake in $1.2 Billion Deal",
-      "summary": "Pilgrim’s Pride Corp. shares jumped after meatpacking giant JBS NV offered to acquire the shares of the chicken producer it doesn’t already own in a stock deal valued at about $1.2 billion.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/jbs-seeks-rest-of-pilgrim-s-pride-stake-in-1-2-billion-deal",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-18",
-      "time": "23:36",
       "conflict_id": null,
       "score": 26.1
     },
@@ -968,6 +996,20 @@
       "time": "23:26",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-08-16-1be38ff9",
+      "headline": "America Inc has a tight grip on allied governments",
+      "summary": "Companies from Palantir to Lockheed account for a small share of spending, but are hard to shake",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/08/16/america-inc-has-a-tight-grip-on-allied-governments",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-16",
+      "time": "16:32",
+      "conflict_id": null,
+      "score": 25.8
     },
     {
       "id": "2026-08-16-86085da3",
