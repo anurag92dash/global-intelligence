@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T04:19:44.432877+00:00",
+  "updated": "2026-08-19T04:57:39.246800+00:00",
   "story_count": 77,
   "source_count": 10,
   "stories": [
@@ -29,7 +29,7 @@
       "date": "2026-08-19",
       "time": "03:56",
       "conflict_id": null,
-      "score": 51.0
+      "score": 52.0
     },
     {
       "id": "2026-08-19-e0ea4caf",
@@ -43,21 +43,7 @@
       "date": "2026-08-19",
       "time": "02:34",
       "conflict_id": null,
-      "score": 50.4
-    },
-    {
-      "id": "2026-08-19-597af9cb",
-      "headline": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
-      "summary": "South Korea’s joint chiefs of staff said the Ulchi Freedom Shield exercise would end on 21 August at the request of the USSouth Korea’s military has confirmed that joint military drills with the US will be cut short, days after Donald Trump ordered the Pentagon to scale back the exercises.In a statement on Wednesday, South Korea’s joint chiefs of staff said at the request of the US side, the Ulchi Freedom Shield (UFS) exercise – which began on Mo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "02:18",
-      "conflict_id": null,
-      "score": 49.0
+      "score": 51.4
     },
     {
       "id": "2026-08-19-28682a15",
@@ -74,11 +60,25 @@
       "score": 48.0
     },
     {
+      "id": "2026-08-19-597af9cb",
+      "headline": "US-led drills to end six days early, South Korea says, amid Trump push for Kim Jong-un talks",
+      "summary": "South Korea’s joint chiefs of staff said the Ulchi Freedom Shield exercise would end on 21 August at the request of the USSouth Korea’s military has confirmed that joint military drills with the US will be cut short, days after Donald Trump ordered the Pentagon to scale back the exercises.In a statement on Wednesday, South Korea’s joint chiefs of staff said at the request of the US side, the Ulchi Freedom Shield (UFS) exercise – which began on Mo",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/19/us-south-korea-army-drills-cut-trump-push-kim-jong-un-talks",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "02:18",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
       "id": "2026-08-19-05f65ac5",
       "headline": "South Korea cuts short joint military exercises after Trump intervention",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/spotlight/north-korea-tensions/south-korea-cuts-short-joint-military-exercises-after-trump-intervention",
+      "url": "https://asia.nikkei.com/politics/defense/south-korea-cuts-short-joint-military-exercises-after-trump-intervention2",
       "region": "NA",
       "country": "South Korea",
       "category": "geopolitics",
@@ -88,9 +88,9 @@
       "score": 47.8
     },
     {
-      "id": "2026-08-19-ab8eeed9",
-      "headline": "US, Canada reach deal to pause steep tariffs",
-      "summary": "Washington and Ottawa reach agreement to avert 50 percent duty on Canadian exports shortly before midnight deadline.",
+      "id": "2026-08-19-a1f82f2f",
+      "headline": "Trump pauses 50 percent tariff on Canada in last-minute deal",
+      "summary": "Washington and Ottawa announce agreement to delay new tariffs on Canadian exports shortly before midnight deadline.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/economy/2026/8/19/us-canada-reach-trade-deal-to-avert-steep-tariffs-trump-says?traffic_source=rss",
       "region": "NA",
@@ -116,6 +116,34 @@
       "score": 47.4
     },
     {
+      "id": "2026-08-19-87d2ffcb",
+      "headline": "Trump says last minute deal reached with Canada to delay 50% US tariffs on imports from Ottawa",
+      "summary": "The two allies traded goods and services worth close to $1 trillion despite their strained relations last year, as US President Donald Trump continues his relentless push to enforce tariffs and levies on his northern neighbours.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/19/trump-says-last-minute-deal-reached-with-canada-to-delay-50-us-tariffs-on-imports-from-ott",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "04:52",
+      "conflict_id": null,
+      "score": 46.0
+    },
+    {
+      "id": "2026-08-19-1ca068b0",
+      "headline": "Pentagon Scales Back Major Training Exercises With South Korea",
+      "summary": "The move to end the military training a week earlier than scheduled comes after President Trump ordered the Defense Department to reduce joint military exercises with the key U.S. ally.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/pentagon-south-korea-training-exercises.html",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "04:48",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-08-19-cb089b12",
       "headline": "Iran war energy crisis sparks Philippine solar boom",
       "summary": "",
@@ -139,49 +167,35 @@
       "country": "Ukraine",
       "category": "politics",
       "date": "2026-08-19",
-      "time": "01:31",
+      "time": "04:44",
       "conflict_id": null,
       "score": 35.0
     },
     {
-      "id": "2026-08-19-9d0f7ba3",
-      "headline": "Chinese robotics giant Unitree soars in stock market debut",
-      "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "03:26",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-19-faa71613",
-      "headline": "Humanoids Make Stock Market Debut in China’s AI Push",
-      "summary": "China's humanoids have made their stock market debut.\n\nUnitree Robotics has just become China's first publicly traded humanoid robot maker, adding investor firepower to the country's AI ambitions. Winnie Hsu explains. (Source: Bloomberg)",
+      "id": "2026-08-19-38e5c78a",
+      "headline": "Twelve Labs on Business Strategy",
+      "summary": "Yoon Kim, Chief Strategy Officer at Twelve Labs, discusses monetizing AI-powered video search on \"Bloomberg: The China Show.\" He speaks on the sidelines of the AI Summit Seoul & Expo 2026. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-19/humanoids-make-stock-market-debut-in-china-s-ai-push-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/twelve-labs-on-business-strategy-video",
       "region": "APJ",
       "country": "China",
-      "category": "business",
+      "category": "geopolitics",
       "date": "2026-08-19",
-      "time": "02:24",
+      "time": "04:53",
       "conflict_id": null,
       "score": 34.1
     },
     {
-      "id": "2026-08-19-2a22af77",
-      "headline": "Oasis Urges Kakaku.com to Withdraw Support for EQT’s Buyout Bid",
-      "summary": "Kakaku.com Inc. shareholder Oasis Management Co. has asked the company to withdraw its support for EQT AB’s buyout bid on grounds that the offer is too low, escalating a bidding war for the Japanese price comparison site.",
+      "id": "2026-08-19-825934fb",
+      "headline": "Fesharaki: Oil’s Real Story Lies in Products, Not Crude",
+      "summary": "FGE NexantECA Chairman Emeritus Fereidun Fesharaki argues that the refined oil product markets have decoupled from crude oil, reshaping how we understand global energy dynamics. He stresses that to truly grasp the direction of oil markets, we must watch gasoline, diesel and jet fuel trends more closely than crude benchmarks. He speaks with Haslinda Amin on \"Insight with Haslinda Amin. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/oasis-urges-kakaku-com-to-withdraw-support-for-eqt-s-buyout-bid",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-19/fesharaki-oil-s-real-story-lies-in-products-not-crude-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
       "date": "2026-08-19",
-      "time": "02:07",
+      "time": "04:25",
       "conflict_id": null,
       "score": 34.1
     },
@@ -200,8 +214,8 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-19-100e6fd5",
-      "headline": "Australia politics live: Victorian Liberals pledge to scrap power link to NSW and instead ‘throw open the doors to gas’",
+      "id": "2026-08-19-92fc87fe",
+      "headline": "Australia politics live: Coalition accuses Labor of treating veterans ‘with contempt’; Victorian Liberals pledge to ‘throw open doors to gas’",
       "summary": "Follow today’s news liveFollow our breaking news email, free app or daily news podcast‘Collapsing confidence’ in housing market, Wilson saysTim Wilson has jumped on that reporting around rent increases and says there has been a collapse in confidence since the budget which is hurting renters.We’ve had, since the budget, collapsing confidence, a lack of will to invest in housing that is going to be available for rentals.We’re seeing a complete dis",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/live/2026/aug/19/australia-politcs-live-ndis-reform-coalition-labor-anthony-albanese-angus-taylor-mark-butler-david-pocock-question-time-tax-superannuation-ntwnfb",
@@ -209,7 +223,7 @@
       "country": "Australia",
       "category": "business",
       "date": "2026-08-19",
-      "time": "04:13",
+      "time": "04:44",
       "conflict_id": null,
       "score": 32.0
     },
@@ -242,6 +256,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-19-9d0f7ba3",
+      "headline": "Chinese robotics giant Unitree soars in stock market debut",
+      "summary": "Shares in the world's biggest humanoid robot maker started trading on Shanghai's Star market on Wednesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qv4w9492zo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "03:26",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-19-1f9ad760",
       "headline": "China eases limits on Nvidia H200 chips as AI race escalates",
       "summary": "Beijing permits small shipments to help leading tech groups in drive to catch up with US rivals",
@@ -254,6 +282,20 @@
       "time": "02:09",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-19-4c5df3a8",
+      "headline": "Hong Kong Exchange Posts Record Earnings on IPO, Trading Boom",
+      "summary": "Hong Kong’s stock exchange beat market estimates with a 21% rise in second-quarter net income, fueled by robust trading volumes and a jump in initial public offerings.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-exchange-posts-record-earnings-on-ipo-trading-boom",
+      "region": "APJ",
+      "country": "Hong Kong",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "04:07",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-19-ec170b1f",
@@ -277,6 +319,20 @@
       "url": "https://www.bloomberg.com/news/videos/2026-08-19/aimoga-sees-auto-robot-integration-as-key-to-growth-video",
       "region": "APJ",
       "country": "China",
+      "category": "business",
+      "date": "2026-08-19",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-19-dc5f7fa1",
+      "headline": "FTSE Defers Indonesia Stock Additions to Indexes Until December",
+      "summary": "FTSE Russell will defer certain index changes for Indonesian equities until at least its December review, giving it more time to assess the effectiveness of market reforms by local authorities.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-19/ftse-defers-indonesia-stock-additions-to-indexes-until-december",
+      "region": "APJ",
+      "country": "Indonesia",
       "category": "business",
       "date": "2026-08-19",
       "time": "04:00",
@@ -326,62 +382,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-19-7b34f107",
-      "headline": "NSE Eyes $55 Billion Valuation in IPO While Rival BSE’s Shares Lose Favor",
-      "summary": "The IPO is expected to launch in the second half of September.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-19/nse-eyes-55-billion-valuation-in-ipo-while-rival-bse-s-shares-lose-favor",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-19",
-      "time": "02:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-19-8de92c88",
-      "headline": "PHP/USD: Philippine Peso Fell to New Record Low as Oil Prices Rise",
-      "summary": "The Philippine peso fell to a record low against the dollar as higher oil prices put renewed pressure on the currency.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/php-usd-philippine-peso-fell-to-new-record-low-as-oil-prices-rise",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "01:41",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-19-a94c21f5",
-      "headline": "Hitachi Construction Shares Drop After $740 Million Block Trade",
-      "summary": "Hitachi Construction Machinery Co.’s shares fell the most in almost three weeks after its major shareholder Hitachi Ltd. offloaded all holding, in the latest move by the Japanese conglomerate to divest some of its assets to focus on core businesses.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/hitachi-construction-shares-drop-after-740-million-block-trade",
-      "region": "NA",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "00:58",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-19-1eab3370",
-      "headline": "Evergrande Liquidators Challenge Hong Kong Watchdog in Court",
-      "summary": "A Hong Kong court is set to hear arguments on whether a deal that set up a fund to compensate China Evergrande minority shareholders is valid.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/evergrande-liquidators-challenge-hong-kong-watchdog-in-court",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "00:51",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-19-ef963f67",
       "headline": "5 Things to Know About Mary Peltola, Democratic Senate Candidate in Alaska",
       "summary": "The Alaska Native, who grew up along the Kuskokwim River near the Bering Sea and fished for salmon, is the leading Democrat in the nonpartisan primary race.",
@@ -412,14 +412,28 @@
     {
       "id": "2026-08-19-d60409a0",
       "headline": "‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate",
-      "summary": "Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways.",
+      "summary": "Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways from the debate.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html",
       "region": "EU",
       "country": "NATO",
       "category": "politics",
       "date": "2026-08-19",
-      "time": "03:35",
+      "time": "04:17",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-08-19-613aab12",
+      "headline": "Why Democrats and Republicans Are Backing Rivals in Alaska’s Senate Primary",
+      "summary": "A burst of ad spending is part of a campaign tactic in which the major parties try to boost fringe hopefuls on the other side.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/18/us/politics/alaska-senate-primary-election-meddling.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "politics",
+      "date": "2026-08-19",
+      "time": "03:17",
       "conflict_id": null,
       "score": 25.2
     },
@@ -466,6 +480,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-19-f10f6d86",
+      "headline": "Australian ambassador to Japan floats Indo-Pacific network to counter China",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/editor-s-picks/interview/australian-ambassador-to-japan-floats-indo-pacific-network-to-counter-china",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-18-ac568ed5",
       "headline": "Ukraine’s dismissed defence minister calls for wartime presidential election",
       "summary": "Mykhailo Fedorov’s appeal is most direct challenge to Volodymyr Zelenskyy since Russian invasion in 2022Ukraine’s recently dismissed former defence minister Mykhailo Fedorov has called for a wartime presidential election in the most direct political challenge to Volodymyr Zelenskyy since the start of Russia’s full-scale invasion in 2022.The politician, whose abrupt sacking last month triggered a wave of protests, said that Ukraine had to “restore",
@@ -491,7 +519,7 @@
       "date": "2026-08-18",
       "time": "05:50",
       "conflict_id": null,
-      "score": 65.0
+      "score": 64.0
     },
     {
       "id": "2026-08-18-3143c37d",
@@ -562,20 +590,6 @@
       "time": "21:24",
       "conflict_id": null,
       "score": 47.4
-    },
-    {
-      "id": "2026-08-18-11e9d0af",
-      "headline": "South Korea and Japan stress stress 'critical' US alliance as Trump slashes military drills",
-      "summary": "Trump made the surprise announcement about the troop drawdown in a social media post just before US and South Korean soldiers began Monday's annual Ulchi Freedom Shield exercises.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/18/south-korea-and-japan-stress-stress-critical-us-alliance-as-trump-slashes-military-drills",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "13:29",
-      "conflict_id": null,
-      "score": 46.0
     },
     {
       "id": "2026-08-18-92c7c075",
@@ -770,20 +784,6 @@
       "category": "business",
       "date": "2026-08-18",
       "time": "23:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-18-83d56b4f",
-      "headline": "Terton Capital Opposes Korea’s Golfzon on Second Buyout Bid",
-      "summary": "A second attempt to take South Korea’s Golfzon Holdings Co. private is facing renewed resistance from a minority shareholder, with the stock now trading above the tender price in a sign the buyer may struggle to win over investors on the current terms.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-18/terton-capital-challenges-korea-s-golfzon-on-second-buyout-bid",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "business",
-      "date": "2026-08-18",
-      "time": "23:38",
       "conflict_id": null,
       "score": 26.1
     },
