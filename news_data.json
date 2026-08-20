@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-20T05:54:49.175855+00:00",
-  "story_count": 84,
-  "source_count": 10,
+  "updated": "2026-08-20T06:21:30.052952+00:00",
+  "story_count": 78,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-20-70e82ee2",
@@ -46,6 +46,20 @@
       "score": 75.4
     },
     {
+      "id": "2026-08-20-74d493d5",
+      "headline": "Zomi Frankcom: Penny Wong condemns ‘insulting’ decision to clear IDF over Gaza strikes that killed Australian aid worker",
+      "summary": "Israeli government decides not to pursue criminal proceedings over 2024 triple drone strike that killed Australian Zomi Frankcom and six othersFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastAustralia’s federal government has expressed “outrage” over the Israel Defense Forces decision not to open a criminal investigation into Gaza strikes that killed aid worker Zomi Frankcom and six",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/australia-idf-reaction-gaza-strike-zomi-frankcom-penny-wong-statement-ntwnfb",
+      "region": "MENA",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "06:11",
+      "conflict_id": "israel-hamas",
+      "score": 60.0
+    },
+    {
       "id": "2026-08-20-db9ff19f",
       "headline": "Treasury Doubles Debt Buybacks, Trump Declares Economic Warfare on Iran | The Asia Trade 8/20/2026",
       "summary": "\"Bloomberg: The Asia Trade\" brings you everything you need to know to get ahead as the trading day begins in Asia. Bloomberg TV is live from Sydney with Paul Allen, getting insight and analysis from newsmakers and industry leaders on the biggest stories shaping global markets. (Source: Bloomberg)",
@@ -74,18 +88,18 @@
       "score": 57.2
     },
     {
-      "id": "2026-08-20-9f5ebd67",
-      "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
-      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-08-20-14d51929",
+      "headline": "China’s Property Crisis: From Evergrande Collapse to Spiraling Prices",
+      "summary": "Once one of the country’s biggest growth drivers, China’s property market has been in a downward spiral for five years. Real estate values continue to plummet, households in financial distress are being forced to sell properties, and apartment developers that racked up enormous debt on speculative projects are on the brink of collapse.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/china-s-property-crisis-from-evergrande-collapse-to-spiraling-prices",
+      "region": "NA",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-08-20",
-      "time": "04:17",
+      "time": "06:18",
       "conflict_id": null,
-      "score": 51.0
+      "score": 50.1
     },
     {
       "id": "2026-08-20-2756565a",
@@ -116,22 +130,8 @@
       "score": 47.4
     },
     {
-      "id": "2026-08-20-78744282",
-      "headline": "‘A formidable predator’: Italian scientists relying on octopuses to get blue crab populations in check",
-      "summary": "The Italian government has previously been urged to declare a state of emergency over the blue crab explosion, fuelled by climate-warmed waters.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/20/a-formidable-predator-italian-scientists-hoping-octopuses-can-get-blue-crab-populations-in",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "05:12",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-08-20-6ba89e3b",
-      "headline": "Russian forces kill 6 in Ukraine as Zelenskyy faces pressure over elections",
+      "id": "2026-08-20-ac787c2f",
+      "headline": "Russian forces kill 9 in Ukraine as Zelenskyy faces pressure over elections",
       "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
@@ -142,6 +142,34 @@
       "time": "02:50",
       "conflict_id": "ukraine-war",
       "score": 43.4
+    },
+    {
+      "id": "2026-08-20-9d16ce6e",
+      "headline": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
+      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "06:08",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-20-063ecd36",
+      "headline": "Bodycam captures police team falling when deck collapses in Missouri",
+      "summary": "Recently released body camera footage shows a deck collapsing during a warrant operation in Huntsville, Missouri.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/20/bodycam-captures-police-team-falling-when-deck-collapses-in-missouri?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "01:37",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-08-20-99de1927",
@@ -155,35 +183,35 @@
       "date": "2026-08-20",
       "time": "05:10",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
-      "id": "2026-08-20-9d16ce6e",
-      "headline": "Founder of collapsed Chinese property giant Evergrande sentenced to life in prison",
-      "summary": "Hui's sentencing marks a key moment in the fallout from Evergrande's collapse, which shook China's property sector.",
+      "id": "2026-08-20-9f5ebd67",
+      "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cd0x9mjjmgjo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-20",
-      "time": "05:07",
+      "time": "04:17",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
-      "id": "2026-08-20-a9f5975b",
-      "headline": "Ukraine anti-corruption probes close in on Volodymyr Zelenskyy's inner circle",
-      "summary": "Zelenskyy himself has not been a suspect in any of the probes launched so far, but the growing list of people close to him under investigation is quickly becoming a political liability.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/20/ukraine-anti-corruption-probes-close-in-on-volodymyr-zelenskyys-inner-circle",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
+      "id": "2026-08-20-f8bb0695",
+      "headline": "Publisher of US military newspaper resigns over differences with government",
+      "summary": "Retirement of longtime Stars and Stripes publisher comes amid the Trump administration&#039;s push for editorial control.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/publisher-of-us-military-newspaper-resigns-over-differences-with-government?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-08-20",
-      "time": "05:30",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
+      "time": "00:34",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-08-20-ca17b742",
@@ -256,6 +284,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-20-e6f8841f",
+      "headline": "Will Barclays’ latest Wall Street reset finally work?",
+      "summary": "Investment bank’s seventh co-CEO in four years expected to face same restrictions as predecessors",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/5ca20d4b-1ec1-4e6d-8994-ba906c7cfd33?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-20-e09b2caa",
+      "headline": "Luxury Sales Plunge in China as Tax Push Hits Wealthy Shoppers",
+      "summary": "Global luxury brands are facing a deepening sales slump in China, as the country’s campaign to tax offshore wealth sends ripples from stock markets to casino floors and dampens spending by the country’s richest consumers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/luxury-sales-plunge-in-china-as-tax-push-hits-wealthy-shoppers",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "06:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-20-052bb048",
       "headline": "Japan’s 20-Year Bond Sale Sees Decent Demand After Buyback Plan",
       "summary": "Japan’s 20-year sovereign bond sale went smoothly, as yields near the highest in three decades attracted investors and US Treasury Secretary Scott Bessent’s fresh attempt to rein in borrowing costs supported sentiment.",
@@ -266,6 +322,34 @@
       "category": "business",
       "date": "2026-08-20",
       "time": "03:41",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-20-ff585797",
+      "headline": "Dollar Risks Becoming Biggest Loser From Bessent’s Bond Buying",
+      "summary": "Treasury Secretary Scott Bessent’s bold intervention to stem a potentially damaging rise in US borrowing costs has some investors saying the dollar will ultimately pay the price.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/dollar-risks-becoming-biggest-loser-from-bessent-s-bond-buying",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "05:50",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-20-30fd8a4a",
+      "headline": "FTSE 100 Live: UK Stocks Set to Outperform Europe as Energy Shares Slide",
+      "summary": "",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/live-blog/2026-08-20/ftse-100-live-pound-bonds-gilts-retail-trump-iran-hormuz-oil-prices-ai-stocks-what-s-moving-uk-markets-right-now-markets-today",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "05:44",
       "conflict_id": null,
       "score": 26.1
     },
@@ -286,7 +370,7 @@
     {
       "id": "2026-08-20-1fac33df",
       "headline": "India Bars JPMorgan Unit for Alleged Market Manipulation",
-      "summary": "India’s securities regulator banned a Mauritius-based unit of JPMorgan Chase &amp; Co. from the capital market in its first enforcement action over alleged manipulation of the country’s newly introduced auction-based system for determining closing share prices.",
+      "summary": "India’s securities regulator banned a Mauritius-based unit of JPMorgan Chase &amp; Co. from its capital markets, the first enforcement action over alleged manipulation of the country’s new closing auction for stock prices.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
       "region": "SA",
@@ -368,48 +452,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-20-da9a7db7",
-      "headline": "Palm Oil Hits Highest Since 2024 as Biofuels, El Niño Cut Supply",
-      "summary": "Palm oil climbed to its highest level in about 20 months, as rising biofuel demand and mounting production risks from the strengthening El Niño underpin prices.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/palm-oil-hits-highest-since-2024-as-biofuels-el-nino-cut-supply",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "03:33",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-20-d310451a",
-      "headline": "Japan Medium-Term Bonds See Largest Foreign Outflow Since 2006",
-      "summary": "Global funds sold the largest amount of short and intermediate Japanese government bonds in two decades last month as persistent yen weakness fueled speculation of monetary policy tightening.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/japan-medium-term-bonds-see-largest-foreign-outflow-since-2006",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "politics",
-      "date": "2026-08-20",
-      "time": "02:55",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-20-2889858b",
-      "headline": "Chinese Refiners Snap Up Iraqi Oil as More Supplies Exit Hormuz",
-      "summary": "Chinese refiners have snapped up Iraqi crude as more barrels exit the Persian Gulf, underscoring the resilience of oil exports from the region despite persistent threats to shipping.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/chinese-refiners-snap-up-iraqi-oil-as-more-supplies-exit-hormuz",
-      "region": "MENA",
-      "country": "Iraq",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "02:50",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-20-b44e16d0",
       "headline": "In Wyoming’s G.O.P. Primaries, an Emphatic Rebuke of the Hard Right",
       "summary": "The Wyoming Freedom Caucus had ambitions for a total takeover of elected state government. But its candidates were rejected from the governor’s mansion to the Legislature.",
@@ -424,16 +466,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-20-4b51f5cb",
-      "headline": "Missing teen hiker Lily Hooper found dead after disappearing in NSW national park a week ago",
-      "summary": "Initial report from ‘thick and dense terrain’ where Lily was located was she’d been found alive but within 10 minutes a ‘more accurate account’ was relayed to policeFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastThe body of missing 18-year-old bushwalker Lily Hooper has been found in a remote New South Wales national park more than a week after she set out on her hike.NSW police sa",
+      "id": "2026-08-20-cdefaece",
+      "headline": "‘There was grift, there was thuggery’: Victorian premier says ‘nothing is off limits’ at construction royal commission",
+      "summary": "Ben Carroll releases terms of reference for inquiry that will include examining allegations of CFMEU corruption on state government building sitesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcast“Nothing is off limits” to Victoria’s royal commission into the construction sector, Ben Carroll has said, as he released the inquiry’s terms of reference and confirmed former premiers and mi",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/20/lily-hooper-missing-hiker-found-dead-nsw-national-park",
-      "region": "APJ",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/20/victorian-premier-to-call-royal-commission-into-construction-sector-amid-cfmeu-scandal-ntwnfb",
+      "region": "EU",
       "country": "Australia",
-      "category": "business",
+      "category": "politics",
       "date": "2026-08-20",
-      "time": "05:24",
+      "time": "05:47",
       "conflict_id": null,
       "score": 24.0
     },
@@ -522,6 +564,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-20-3cc38855",
+      "headline": "China debuts offshore government bond futures to promote yuan use",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/bonds/china-debuts-offshore-government-bond-futures-to-promote-yuan-use",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
       "id": "2026-08-20-5f43b714",
       "headline": "AI-related trades push Japan stock volatility to 18-year high",
       "summary": "",
@@ -550,34 +606,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-20-b344d29c",
-      "headline": "Europe's gas prices have doubled, with the worst yet to come",
-      "summary": "European gas prices have surged 120% in 2026, and low storage and supply risks leave Europe vulnerable to a costly winter.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/20/europes-gas-prices-have-doubled-with-the-worst-yet-to-come",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "05:47",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-20-ad2cf633",
-      "headline": "In London, children’s lungs grow faster as traffic pollution falls",
-      "summary": "A new study is the first to link improved air quality from a clean-air zone with faster lung growth in children living in London.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/health/2026/08/20/london-childrens-lungs-grow-faster-as-traffic-pollution-falls",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-19-afc46258",
       "headline": "Volodymyr Zelenskyy sacks senior aide amid Ukraine corruption crisis",
       "summary": "Presidential deputy chief of staff Iryna Mudra dismissed day after former defence minister called for wartime electionUkraine’s president Volodymyr Zelenskyy has fired a senior aide amid a fresh corruption investigation – one day after a former defence minister warned the country was facing “a crisis of governance” and needed to hold a wartime presidential election.Iryna Mudra, a presidential deputy chief of staff, was dismissed by decree after m",
@@ -590,20 +618,6 @@
       "time": "17:14",
       "conflict_id": "ukraine-war",
       "score": 60.0
-    },
-    {
-      "id": "2026-08-19-279c371b",
-      "headline": "Five Americans among seven killed in safari helicopter crash in Kenya",
-      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "20:17",
-      "conflict_id": null,
-      "score": 56.0
     },
     {
       "id": "2026-08-19-65617bac",
@@ -648,60 +662,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-19-e75087ee",
-      "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-19-279c371b",
+      "headline": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
       "region": "NA",
       "country": "America",
       "category": "geopolitics",
       "date": "2026-08-19",
-      "time": "21:32",
+      "time": "20:17",
       "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-08-19-60d42eab",
-      "headline": "Trump says he expects to meet with North Korea’s Kim Jong Un later this year",
-      "summary": "In an impromptu White House meeting with reporters, the president touted his relationship with Kim and said North Korea has “57 very powerful nuclear weapons.”",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/19/trump-says-he-expects-meet-with-north-koreas-kim-jong-un-later-this-year/",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "20:06",
-      "conflict_id": null,
-      "score": 48.9
-    },
-    {
-      "id": "2026-08-19-002b2574",
-      "headline": "Israel orders inquiry into killing of 6-year-old Hind Rajab in Gaza",
-      "summary": "The Israeli military announced criminal investigations into the killings of six-year-old Hind Rajab.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/israel-orders-inquiry-into-killing-of-6-year-old-hind-rajab-in-gaza?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "21:09",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-08-19-e78949c3",
-      "headline": "Israel opens criminal probes into killings of Hind Rajab and Palestinian medics",
-      "summary": "Criminal investigations are not being opened into three other incidents involving aid workers from World Central Kitchen and Doctors Without Borders.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/19/israel-opens-criminal-probes-into-killings-of-hind-rajab-and-palestinian-medics",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "16:49",
-      "conflict_id": null,
-      "score": 45.0
+      "score": 48.0
     },
     {
       "id": "2026-08-19-019296e0",
@@ -718,18 +690,18 @@
       "score": 44.0
     },
     {
-      "id": "2026-08-19-707e8f37",
-      "headline": "Trump says he plans to meet Kim Jong Un later this year",
-      "summary": "US President Donald Trump praised his relationship with North Korea’s leader Kim Jong Un.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/19/i-get-along-with-him-very-well?traffic_source=rss",
+      "id": "2026-08-19-e75087ee",
+      "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
+      "summary": "Michele Sensi-Contugi, and his wife Stephany Hollihan among the seven people killed in the crash.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "North Korea",
-      "category": "politics",
+      "country": "America",
+      "category": "geopolitics",
       "date": "2026-08-19",
-      "time": "21:35",
+      "time": "21:32",
       "conflict_id": null,
-      "score": 39.4
+      "score": 43.0
     },
     {
       "id": "2026-08-19-6fabe147",
@@ -744,20 +716,6 @@
       "time": "20:18",
       "conflict_id": null,
       "score": 34.4
-    },
-    {
-      "id": "2026-08-19-5cedbf97",
-      "headline": "Hong Kong’s Student Housing Crisis Spurs Bank Lending Boom",
-      "summary": "The aging Regal Oriental Hotel is hardly a Hong Kong hotspot, yet in recent weeks it’s become a popular destination for bankers from some of the city’s top lenders, some of whom made repeat visits.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-19/hong-kong-banks-turn-to-student-housing-as-property-bright-spot",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "22:00",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-08-19-0b2dc887",
@@ -844,20 +802,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-19-bc941801",
-      "headline": "Germany’s firewall was meant to hold the far right at bay. It may have done the reverse",
-      "summary": "An AfD win in ​next month’s state election in Saxony-Anhalt would shatter a decades-long political consensus and reverberate throughout the EU• Don’t get This Is Europe delivered to your inbox? Sign up hereIn just over two weeks’ time, Saxony-Anhalt – home to historic timber-framed houses, the dramatic Harz mountains and the birthplace of Martin Luther – will hold what could prove one of the most significant state elections in Germany’s postwar h",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/germanys-firewall-was-meant-to-hold-the-far-right-at-bay-it-may-have-done-the-reverse",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-08-19",
-      "time": "14:30",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-08-19-24a0f33d",
       "headline": "International body votes to convene emergency meeting over Nicaragua",
       "summary": "Nicaragua&#039;s move to extend Ortega&#039;s rule and bar rivals from elections triggers a near-unanimous OAS rebuke.",
@@ -870,20 +814,6 @@
       "time": "23:48",
       "conflict_id": null,
       "score": 31.4
-    },
-    {
-      "id": "2026-08-19-e75e4ad3",
-      "headline": "After weeks of rallying behind Fedorov, protesters reject his call for wartime elections in Ukraine",
-      "summary": "A month of nationwide demonstrations demanding Mykhailo Fedorov’s return as defence minister appears to be ending after protest organisers rejected and criticised his call for elections during wartime.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/19/after-weeks-of-rallying-behind-fedorov-protesters-reject-his-call-for-wartime-elections-in",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-08-19",
-      "time": "18:23",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-08-19-547358c6",
@@ -984,34 +914,6 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-19-ef471a5d",
-      "headline": "ECB unveils new banknote designs with a defiant message: Don't count cash out yet",
-      "summary": "With cashless payments on the rise, and a growing belief that cash is being replaced by the digital euro, the European Central Bank (ECB) is introducing new banknotes carrying a clear message to citizens: cash is here to stay.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/19/ecb-unveils-new-banknote-designs-with-a-defiant-message-dont-count-cash-out-yet",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "14:23",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-19-4b2bb00a",
-      "headline": "Revealed: Europe’s most tourist-saturated destinations, with Greece coming out on top",
-      "summary": "New Eurostat data shows where tourists far outnumber residents, with Greece’s South Aegean recording more than 127 tourist nights for every resident.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/travel/2026/08/19/revealed-europes-most-tourist-saturated-destinations-with-greece-coming-out-on-top",
-      "region": "EU",
-      "country": "Greece",
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "14:19",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-18-3143c37d",
       "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
       "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
@@ -1079,7 +981,7 @@
       "date": "2026-08-17",
       "time": "18:39",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     },
     {
       "id": "2026-08-17-3265b919",
@@ -1164,6 +1066,20 @@
       "time": "17:03",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-14-0fac8e07",
+      "headline": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic illsThe Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights.The win is significant for Ontario’s premier, Doug Ford, and his government, who have long r",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-14",
+      "time": "21:03",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-08-13-c1256ac4",
