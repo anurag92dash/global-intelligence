@@ -1,36 +1,8 @@
 {
-  "updated": "2026-08-20T10:52:58.987777+00:00",
+  "updated": "2026-08-20T11:14:24.745847+00:00",
   "story_count": 76,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-08-20-03f1467a",
-      "headline": "At least 13 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "10:34",
-      "conflict_id": "ukraine-war",
-      "score": 87.0
-    },
-    {
-      "id": "2026-08-20-9d5bf726",
-      "headline": "Kyiv comes under heavy Russian missile attack, killing at least 13",
-      "summary": "Children’s hospital and residential areas hit in latest bombardment of capital and surrounding regionEurope live – latest updatesA heavy Russian bombardment has killed at least 13 people in Ukraine’s capital and its surrounding region overnight, authorities have said.A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational in",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "07:08",
-      "conflict_id": "ukraine-war",
-      "score": 84.0
-    },
     {
       "id": "2026-08-20-34cbb257",
       "headline": "At least 6 killed in multiple Russian missile strikes across Ukraine",
@@ -46,6 +18,34 @@
       "score": 83.4
     },
     {
+      "id": "2026-08-20-9d5bf726",
+      "headline": "Kyiv comes under heavy Russian missile attack, killing at least 13",
+      "summary": "Children’s hospital and residential areas hit in latest bombardment of capital and surrounding regionEurope live – latest updatesA heavy Russian bombardment has killed at least 13 people in Ukraine’s capital and its surrounding region overnight, authorities have said.A missile attack on Kyiv struck residential areas and warehouses, said the mayor, Vitali Klitschko. The attack damaged residential buildings, a medical facility and an educational in",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "07:08",
+      "conflict_id": "ukraine-war",
+      "score": 76.0
+    },
+    {
+      "id": "2026-08-20-1c1c5f6d",
+      "headline": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
+      "summary": "Apartment blocks and warehouses were targeted in the \"massive attack\" on Thursday, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "11:06",
+      "conflict_id": "ukraine-war",
+      "score": 71.0
+    },
+    {
       "id": "2026-08-20-dc71899b",
       "headline": "Russia launches deadly missile and drone attacks on Kyiv",
       "summary": "At least 16 killed as Ukraine struggles with a shortage of Patriot interceptor missiles",
@@ -58,20 +58,6 @@
       "time": "09:55",
       "conflict_id": "ukraine-war",
       "score": 62.4
-    },
-    {
-      "id": "2026-08-20-60bdeee6",
-      "headline": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv",
-      "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "02:50",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
     },
     {
       "id": "2026-08-20-922d51dd",
@@ -113,6 +99,20 @@
       "date": "2026-08-20",
       "time": "09:08",
       "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
+      "id": "2026-08-20-60bdeee6",
+      "headline": "Russian missile barrage kills at least 13 people in Ukraine’s Kyiv",
+      "summary": "Russian ballistic missile attacks hit at least three districts in Kyiv, collapsing buildings and causing fires.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/20/russian-strike-kills-3-in-ukraine-as-zelenskyy-faces-pressure-at-home?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "02:50",
+      "conflict_id": "ukraine-war",
       "score": 51.4
     },
     {
@@ -198,6 +198,20 @@
       "time": "10:41",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-08-20-efaa7e2b",
+      "headline": "How Myanmar’s war drives the Rohingya crisis",
+      "summary": "Al Jazeera exposes atrocities committed against the Rohingya ethnic minority group during Myanmar’s civil war.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/investigations/2026/8/20/how-myanmars-war-drives-the-rohingya-crisis?traffic_source=rss",
+      "region": "APJ",
+      "country": "Myanmar",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-08-20-063ecd36",
@@ -424,6 +438,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-20-91cce983",
+      "headline": "CVC, Prudential to Back Standard Life Pension Risk Transfers",
+      "summary": "Standard Life Plc agreed to set up a partnership with a consortium led by CVC Capital Partners Plc and Prudential Financial Inc. in the latest tie-up between an insurer and private capital firms looking to enter the country’s booming pension risk-transfer market.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/cvc-led-group-to-back-standard-life-s-uk-pension-risk-transfers",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "06:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-20-e3f8ede9",
+      "headline": "Ping An’s Profit Rises as Stock Market Rally Boosts Returns",
+      "summary": "Ping An Insurance (Group) Co.’s profit rose 36% in the first half, as China’s stock-market rally bolstered investment returns.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ping-an-s-profit-rises-as-stock-market-rally-boosts-returns",
+      "region": "APJ",
+      "country": "China",
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "10:02",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-20-2b506ac4",
       "headline": "Emerging FX Gains as ‘Bessent Put’ Burnishes Carry Trade Appeal",
       "summary": "Emerging-market currencies hit a fresh record as a weak dollar added to the appeal of a popular trade, offsetting a fresh jump in oil prices. South Korea’s technology stocks led a rebound in developing-nation equities.",
@@ -476,48 +518,6 @@
       "category": "politics",
       "date": "2026-08-20",
       "time": "10:09",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-20-e3f8ede9",
-      "headline": "Ping An’s Profit Rises as Stock Market Rally Boosts Returns",
-      "summary": "Ping An Insurance (Group) Co.’s profit rose 36% in the first half, as China’s stock-market rally bolstered investment returns.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ping-an-s-profit-rises-as-stock-market-rally-boosts-returns",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "10:02",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-20-f57b96d8",
-      "headline": "Riskier AT1 Debt Is Most Stable in This Upside-Down Bond Market",
-      "summary": "The latest convulsions in bond markets exposed a quirk: Some of the riskiest, most complex structures have ended up being among the most stable.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/riskier-at1-debt-is-most-stable-in-this-upside-down-bond-market",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-20-1fac33df",
-      "headline": "India Bars JPMorgan Unit for Alleged Market Manipulation",
-      "summary": "India’s securities regulator banned a Mauritius-based unit of JPMorgan Chase &amp; Co. from its capital markets, the first enforcement action over alleged manipulation of the country’s new closing auction for stock prices.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/india-bars-jpmorgan-unit-over-alleged-stock-market-manipulation",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "01:29",
       "conflict_id": null,
       "score": 26.1
     },
@@ -592,14 +592,14 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-20-e9383c52",
-      "headline": "Google's China shift and the battle over AI models",
+      "id": "2026-08-20-154ee4cd",
+      "headline": "Alibaba AI outlays dent profit despite best revenue growth in years",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/techasia/google-s-china-shift-and-the-battle-over-ai-models",
+      "url": "https://asia.nikkei.com/business/technology/alibaba-ai-outlays-dent-profit-despite-best-revenue-growth-in-years",
       "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
+      "country": null,
+      "category": "business",
       "date": "2026-08-20",
       "time": "",
       "conflict_id": null,
