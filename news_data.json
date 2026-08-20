@@ -1,12 +1,12 @@
 {
-  "updated": "2026-08-20T17:19:51.071570+00:00",
+  "updated": "2026-08-20T17:51:46.398880+00:00",
   "story_count": 74,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-08-20-1c1c5f6d",
-      "headline": "At least 15 killed in Kyiv as Ukraine grapples with air defence shortages",
-      "summary": "Blocks of flats and warehouses were targeted in the \"massive attack\" on Thursday, Ukrainian officials say.",
+      "id": "2026-08-20-ea44e2c0",
+      "headline": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
+      "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/c98vzmden5yo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
@@ -16,34 +16,6 @@
       "time": "17:14",
       "conflict_id": "ukraine-war",
       "score": 63.0
-    },
-    {
-      "id": "2026-08-20-97d0ccac",
-      "headline": "More than a dozen killed as Kyiv comes under intense Russian bombardment",
-      "summary": "Missile and drone attack one of heaviest since war began, with children’s hospital and residential areas hitA heavy Russian missile and drone bombardment has killed at least 15 people in and around Kyiv in one of the most intense aerial attacks on Ukraine’s capital since the start of the war.Vitali Klitschko, the city’s mayor, said homes, a school and a children’s medical centre were among the buildings damaged overnight in an attack that began a",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/ukraine-kyiv-deaths-russian-missile-attack",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "11:33",
-      "conflict_id": "ukraine-war",
-      "score": 60.0
-    },
-    {
-      "id": "2026-08-20-4d188a96",
-      "headline": "Gaza holds mass funeral for 50 Palestinians killed in Israeli genocidal war",
-      "summary": "Funerals take place weeks after the bodies of 112 Palestinians were buried in another mass funeral.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/gaza-holds-mass-funeral-for-50-palestinians-killed-in-israeli-genocidal-war?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "13:05",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
     },
     {
       "id": "2026-08-20-9d16ce6e",
@@ -114,6 +86,20 @@
       "time": "08:45",
       "conflict_id": null,
       "score": 41.2
+    },
+    {
+      "id": "2026-08-20-632f826e",
+      "headline": "Feds seize Eric Swalwell’s devices, search home as part of sexual assault inquiry",
+      "summary": "The former congressman, once considered a leading candidate in the California governor’s race, resigned after allegations surfaced in the spring.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/20/feds-seize-eric-swalwells-devices-search-home-part-sexual-assault-inquiry/",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-20",
+      "time": "17:38",
+      "conflict_id": null,
+      "score": 40.9
     },
     {
       "id": "2026-08-20-badb9f87",
@@ -214,6 +200,20 @@
       "score": 39.4
     },
     {
+      "id": "2026-08-20-72c9117a",
+      "headline": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
+      "summary": "US media quoted relatives of crew members saying living conditions had deteriorated on the USS Abraham Lincoln and there were also reports of several suicide attempts.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "16:01",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
       "id": "2026-08-20-f3f9e1da",
       "headline": "Assad officer extradited to Syria on war crimes charges for first time",
       "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
@@ -284,6 +284,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-20-beb5b5ae",
+      "headline": "Western oil refinery closures set to continue despite war shock",
+      "summary": "North America and Europe to lose further capacity to turn oil into petrol, diesel and jet fuel because of investor wariness",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/eae8bbc5-7946-4fdc-8e0a-3215f7e56dd2?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "14:29",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-08-20-5f7a3ba0",
+      "headline": "Bessent’s Treasury Twist Clouds Warsh’s Plea to ‘Play the Ball’",
+      "summary": "Treasury Secretary Scott Bessent’s intervention to bring down long-term borrowing costs is another complication for the Federal Reserve as it grapples with whether to raise interest rates.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/bessent-s-treasury-twist-clouds-warsh-s-plea-to-play-the-ball",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "17:27",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-08-20-124c0640",
       "headline": "Citi Turns Negative on Dollar After Warning on US Buyback Risk",
       "summary": "Currency strategists at Citigroup Inc. turned bearish on the US dollar in the near term, as markets gear up for a less hawkish Federal Reserve, midterm elections and more debt buybacks from the US Treasury.",
@@ -312,18 +340,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-20-7dc02a85",
-      "headline": "NYC Pied-à-Terre Tax Sparks Warning",
-      "summary": "Brown Harris Stevens CEO Bess Freedman says America’s housing market is splitting in two: luxury buyers remain active while affordability deteriorates for everyone else. She joins Open Interest to warn that New York’s taxes and rent policies could backfire, and argues the clearest solution includes loosen zoning rules and incentivizing developers to build more homes. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-20/nyc-pied-a-terre-tax-sparks-warning-video",
+      "id": "2026-08-20-39baf276",
+      "headline": "FBI Agents Search Eric Swalwell’s Home as Part of Federal Sexual Assault Inquiry",
+      "summary": "Most sex crimes are prosecuted by state and local authorities. The federal agents appeared to be using civil rights statutes to scrutinize Mr. Swalwell’s conduct, a person familiar with the case said.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/20/us/eric-swalwell-fbi-search-home.html",
       "region": "NA",
-      "country": "America",
+      "country": null,
       "category": "business",
       "date": "2026-08-20",
-      "time": "15:37",
+      "time": "16:43",
       "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
     },
     {
       "id": "2026-08-20-70fe080b",
@@ -338,34 +366,6 @@
       "time": "13:10",
       "conflict_id": null,
       "score": 31.4
-    },
-    {
-      "id": "2026-08-20-fd0d754e",
-      "headline": "Monte dei Paschi board approves twin share swap bids for Banco BPM and Banca Generali",
-      "summary": "The plan put forward by CEO Luigi Lovaglio aims to strengthen MPS and fend off Intesa Sanpaolo's 30.5-billion-euro takeover bid. It passed with nine votes in favour and four abstentions.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-twin-share-swap-bids-for-banco-bpm-and-banca-generali",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-20",
-      "time": "17:10",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-08-20-72c9117a",
-      "headline": "New US carrier strike group arrives in Middle East to relieve long-deployed USS Abraham Lincoln",
-      "summary": "US media quoted relatives of crew members saying living conditions had deteriorated on the USS Abraham Lincoln and there were also reports of several suicide attempts.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/20/new-us-carrier-strike-group-arrives-in-middle-east-to-relieve-long-deployed-uss-abraham-li",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "16:01",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-08-20-0f7a61c8",
@@ -452,30 +452,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-20-fd22b894",
-      "headline": "Clearlake’s FinThrive Posts Earnings Drop, Taps Line of Credit",
-      "summary": "Clearlake Capital Group’s FinThrive Inc. said earnings fell 17% in the second quarter, as it drew on a $150 million credit line to bolster liquidity, according to people with knowledge of the matter.",
+      "id": "2026-08-20-329dbd77",
+      "headline": "US Stocks Fall as Oil, Yields Climb While Walmart Slumps",
+      "summary": "US stocks slid on Thursday as oil prices rose and a rally in government bonds sputtered, sending yields higher. Walmart Inc.’s earnings disappointed, pressuring shares of the retail giant and peers.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/clearlake-s-finthrive-posts-earnings-drop-taps-line-of-credit",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/us-stock-futures-fall-as-oil-yields-climb-while-walmart-slumps",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-20",
-      "time": "17:13",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-20-27267f4c",
-      "headline": "Emerging FX Trade Mixed as Treasury’s Buyback Boost Fades",
-      "summary": "Emerging-market currencies traded mixed on Thursday as the dollar regained some ground from its drop the day before when the US Treasury announced increased bond buybacks, with many now seeing the impact as “temporary.”",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/emerging-fx-gains-as-bessent-put-burnishes-carry-trade-appeal",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "10:47",
+      "time": "12:13",
       "conflict_id": null,
       "score": 26.1
     },
@@ -816,20 +802,6 @@
       "score": 32.9
     },
     {
-      "id": "2026-08-19-bd5e2ed2",
-      "headline": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-      "summary": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la EspriellaIn the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the far-right candidate Abelardo de la Espriella.Coral held banners outside polling stations in Miami warning that the millionaire lawyer, whose candidacy was endo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-      "region": "NA",
-      "country": "United States",
-      "category": "politics",
-      "date": "2026-08-19",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-08-19-7b05df0b",
       "headline": "Key Trump aide Natalie Harp suddenly in spotlight after years behind scenes",
       "summary": "Democratic Senator Jon Ossoff used a speech to note the closeness of one aide to the president.",
@@ -984,6 +956,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-16-19334b9c",
+      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "09:27",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-16-4f5f3a75",
       "headline": "India built the world's biggest digital payments miracle. Now comes the bill",
       "summary": "India's UPI may finally face merchant fees, raising questions over who pays and whether users will resist.",
@@ -1038,6 +1024,20 @@
       "time": "17:03",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-14-0fac8e07",
+      "headline": "Ontario free to axe Toronto bike lanes, region’s top court rules",
+      "summary": "Win is significant for region’s premier, Doug Ford, who blames protected zones for city’s traffic illsThe Ontario government is now free to rip out Toronto’s bike lanes on its busiest streets after the region’s top court ruled in favour of the province on Friday, overturning a lower court’s decision that decreed removal would violate constitutional rights.The win is significant for Ontario’s premier, Doug Ford, and his government, who have long r",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/14/ontario-free-to-axe-toronto-bike-lanes-regions-top-court-rules",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-14",
+      "time": "21:03",
+      "conflict_id": null,
+      "score": 24.0
     }
   ]
 }
