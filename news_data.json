@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-21T15:19:56.469486+00:00",
-  "story_count": 76,
-  "source_count": 10,
+  "updated": "2026-08-21T15:54:34.161207+00:00",
+  "story_count": 74,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-21-1618380d",
@@ -30,6 +30,20 @@
       "time": "15:03",
       "conflict_id": "israel-hamas",
       "score": 60.0
+    },
+    {
+      "id": "2026-08-21-f3ab09ed",
+      "headline": "Russian expert warns of impending social crisis as Ukraine death toll rises",
+      "summary": "Putin&#039;s forces continue to bring horror to Ukrainian civilians as Kyiv destroys key sections of Russian infrastructure.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-expert-warns-of-impending-social-crisis-as-ukraine-death-toll-rises?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "15:13",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
     },
     {
       "id": "2026-08-21-63f25b94",
@@ -74,34 +88,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-21-0f2c0c3b",
-      "headline": "Iran's president calls for end to war from 'position of power' as US ups pressure",
-      "summary": "President Pezeshkian said Iran was in a position of \"power and dignity\" and should end the war on its own terms, even as Washington prepares to ramp up economic sanctions it described as \"Economic D-Day.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/21/irans-president-calls-for-end-to-war-from-position-of-power-as-us-ups-pressure",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "12:31",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-08-21-01ccc954",
-      "headline": "Ebola outbreak in Democratic Republic of the Congo 'growing exponentially,' UN warns",
-      "summary": "The Ebola outbreak is already the biggest in the country's history and is spreading faster than any outbreak on record.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/21/ebola-outbreak-in-democratic-republic-of-the-congo-growing-exponentially-un-warns",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "11:37",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-08-21-6fa9d2bf",
       "headline": "US sanctions more Cuban companies and officials",
       "summary": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
@@ -114,20 +100,6 @@
       "time": "02:06",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-08-21-7d5432fc",
-      "headline": "US actor Liev Schreiber calls for stronger air defences during Kyiv visit",
-      "summary": "American actor and UNITED24 ambassador Liev Schreiber was forced into an air raid shelter during a visit to Kyiv after deadly Russian overnight strikes. He called for stronger air defences, including renewed support for Ukraine's Patriot systems.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/08/21/us-actor-liev-schreiber-calls-for-stronger-air-defences-during-kyiv-visit",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "11:23",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
     },
     {
       "id": "2026-08-21-17b2b27a",
@@ -210,6 +182,20 @@
       "category": "geopolitics",
       "date": "2026-08-21",
       "time": "05:47",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-21-64b03924",
+      "headline": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
+      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "13:44",
       "conflict_id": null,
       "score": 35.0
     },
@@ -382,6 +368,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-21-2680a316",
+      "headline": "Natalie Harp, the devoted ‘human printer’ in Trump’s entourage",
+      "summary": "The executive aide’s relationship with the president symbolises a broader sycophancy around him",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0eb4e7ce-42e3-49af-ae27-645eb7676fad?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-21",
+      "time": "15:22",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-08-21-e2576196",
       "headline": "The bond scare and the balance of power",
       "summary": "After the dreamworld of the 2010s, the link between power and fiscal capacity is back",
@@ -410,16 +410,30 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-21-c2444760",
-      "headline": "Why Small-Cap ETFs Could Break Out",
-      "summary": "Bridgeway Capital CEO John Montgomery joins Bloomberg Open Interest to talk about why small-cap value ETFs could be poised for a comeback after years of large-cap dominance. He breaks down the advantage active ETFs can have in less-liquid stocks, why valuations look compelling, and why AI still isn’t a guaranteed source of investing alpha. (Source: Bloomberg)",
+      "id": "2026-08-21-20fbcf6e",
+      "headline": "US ‘Playing With Fire’ as Dollar Risks Yen-Style Debasement",
+      "summary": "The US bond buyback pledge that whipsawed markets this week is prompting comparisons with policies in Japan, where efforts to contain borrowing costs resulted in prolonged currency weakness.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/why-small-cap-etfs-could-break-out-video",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-buyback-pledge-draws-japan-comparisons-and-pressures-dollar",
       "region": "NA",
-      "country": null,
+      "country": "Japan",
       "category": "business",
       "date": "2026-08-21",
-      "time": "15:17",
+      "time": "12:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-21-9355c8f1",
+      "headline": "US Buyback Pledge Draws Japan Comparisons and Pressures Dollar",
+      "summary": "The US bond buyback pledge that whipsawed markets this week is prompting comparisons with policies in Japan, where efforts to contain borrowing costs resulted in prolonged currency weakness.\nThe dollar is trading at a three-month low and is on track for its worst week this month.\nGeoffrey Yu, Senior EMEA Strategist at BNY, discusses the treasury buy backs and the dollar's resilience in correlated selloffs. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/us-buyback-draws-japan-comparisons-dollar-pressures-video",
+      "region": "NA",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "15:27",
       "conflict_id": null,
       "score": 26.1
     },
@@ -450,20 +464,6 @@
       "time": "10:38",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-08-21-f59c85ee",
-      "headline": "U.S. Citizen Who Deleted Phone’s Data Says His Prosecution Puts Privacy at Risk",
-      "summary": "Samuel Tunick, who faces a felony charge for deleting his phone’s data during an airport customs search, called the government’s peering into people’s private lives “creepy.”",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "14:47",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-08-21-acdfa6fe",
@@ -518,20 +518,6 @@
       "category": "politics",
       "date": "2026-08-21",
       "time": "12:00",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-21-33a183ed",
-      "headline": "Closure of al-Makha port leaves workers and traders fearing for the future",
-      "summary": "Houthi attacks on al-Makha port forced it to suspend operations, leaving workers without jobs and traders concerned.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/21/houthi-attacks-on-mokha-port-forced-it-to-suspend-operations-leaving-workers-jobless?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "11:15",
       "conflict_id": null,
       "score": 23.4
     },
@@ -704,6 +690,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-08-20-7cb9e0be",
+      "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
+      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "22:01",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-20-5efa59fe",
       "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
@@ -814,20 +814,6 @@
       "time": "23:21",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-08-20-85e21e4e",
-      "headline": "Stocks Bounce at End of Wild Week as Bitcoin Jumps: Markets Wrap",
-      "summary": "The final stretch of a jittery week on Wall Street saw stocks rising amid solid economic data, with traders weighing the outlook for Treasuries after a burst of volatility.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "22:05",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-08-20-0d96765f",
@@ -995,7 +981,7 @@
       "date": "2026-08-17",
       "time": "14:07",
       "conflict_id": null,
-      "score": 40.0
+      "score": 32.0
     },
     {
       "id": "2026-08-16-4f5f3a75",
@@ -1024,20 +1010,6 @@
       "time": "16:32",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-08-16-86085da3",
-      "headline": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
-      "summary": "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power.Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political career began nearly half a century a",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-08-16",
-      "time": "18:44",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-08-15-e170327f",
