@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-21T18:17:45.881958+00:00",
-  "story_count": 72,
-  "source_count": 9,
+  "updated": "2026-08-21T19:03:09.365792+00:00",
+  "story_count": 74,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-21-29a5d806",
@@ -18,6 +18,20 @@
       "score": 68.0
     },
     {
+      "id": "2026-08-21-42850c47",
+      "headline": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+      "summary": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "18:17",
+      "conflict_id": "ukraine-war",
+      "score": 59.4
+    },
+    {
       "id": "2026-08-21-f4928852",
       "headline": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
       "summary": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
@@ -29,6 +43,20 @@
       "date": "2026-08-21",
       "time": "17:17",
       "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
+    {
+      "id": "2026-08-21-eeb1a10a",
+      "headline": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
+      "summary": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "16:38",
+      "conflict_id": "ukraine-war",
       "score": 59.4
     },
     {
@@ -46,34 +74,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-08-21-eeb1a10a",
-      "headline": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
-      "summary": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/ukraine-sanctions-popular-russian-cartoon-masha-and-the?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "16:38",
-      "conflict_id": "ukraine-war",
-      "score": 51.4
-    },
-    {
-      "id": "2026-08-21-feece603",
-      "headline": "Weddings in Gaza offer rare moments of joy amid genocide",
-      "summary": "In Gaza, weddings offer Palestinian families a brief escape from Israel’s genocidal war.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/21-08-reported-gaza-weddings-hany-mahmoud-ps?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "13:29",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
       "id": "2026-08-21-63f25b94",
       "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
       "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
@@ -86,6 +86,20 @@
       "time": "05:00",
       "conflict_id": "israel-hamas",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-21-865249a8",
+      "headline": "Russian double-tap drone strike kills 15 in Ukrainian mall, officials say",
+      "summary": "Another 130 people, including 23 children, were injured when the shopping centre was hit, according to the regional head.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "18:51",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-21-40537e14",
@@ -200,20 +214,6 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-21-ea7bb0e6",
-      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "13:07",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-21-1bb2e21e",
       "headline": "Hong Kong's Tiananmen activists guilty in national security trial",
       "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
@@ -240,6 +240,20 @@
       "time": "14:24",
       "conflict_id": null,
       "score": 34.4
+    },
+    {
+      "id": "2026-08-21-95de422e",
+      "headline": "US Chief Justice Lets Trump Keep Building Ballroom for Now",
+      "summary": "US Chief Justice John Roberts said President Donald Trump can keep building his new White House ballroom for now while the Supreme Court considers issuing a longer-term order blessing continued construction of the massive structure. Bloomberg's June Grasso joins to discuss. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/chief-justice-lets-trump-keep-building-ballroom-for-now-video",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-08-21",
+      "time": "18:53",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-08-21-93395e57",
@@ -438,6 +452,20 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-21-e9fbfad7",
+      "headline": "Clock Ticks Down on New Canada Tariff Deadline",
+      "summary": "Sarah Bianchi, senior managing director at Evercore ISI and former deputy US trade representative, joined Balance of Power to discuss the upcoming tariff deadline. Bianchi said that after the US strikes a tariff deal with Canada, Mexico will likely ask for similar relief.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/clock-ticks-down-on-new-canada-tariff-deadline-video",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "18:19",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-21-558f105d",
       "headline": "Allspring’s Miletti Sees Jackson Hole as Bigger Risk Than Nvidia",
       "summary": "Allspring Global Investments’ Ann Miletti said Wall Street has more to worry about from next week’s Jackson Hole economic symposium than earnings from AI bellwether Nvidia Corp.",
@@ -466,20 +494,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-21-3f337a22",
-      "headline": "SEC Accuses Ex-BofA Senior Banker Satsky of Insider Trading",
-      "summary": "Former senior Bank of America Corp. investment banker Jason Satsky was accused by the US Securities and Exchange Commission of providing an insider-trading tip to a friend who allegedly made $18.5 million in illegal profits.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/sec-accuses-ex-bofa-senior-banker-satsky-of-insider-trading",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "18:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-21-76b9ce17",
       "headline": "China’s Traders Find Meaning in ‘Niu Lai’",
       "summary": "A crude animated film has become a meme for Chinese retail investors who see their own market struggles in its characters. Bloomberg Opinion columnist Shuli Ren explains why “Niu Lai” has struck a nerve. (Source: Bloomberg)",
@@ -490,20 +504,6 @@
       "category": "business",
       "date": "2026-08-21",
       "time": "17:50",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-21-679bdf9c",
-      "headline": "European Stocks Gain Most Since Early August After Robust Data",
-      "summary": "European stocks rose Friday after stronger-than-expected business activity data, narrowly avoiding the worst losing streak in a decade.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/european-stocks-stall-near-longest-losing-streak-in-a-decade",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "07:15",
       "conflict_id": null,
       "score": 26.1
     },
@@ -534,6 +534,20 @@
       "time": "15:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-21-beb16b33",
+      "headline": "Former Pakistan PM Imran Khan taken back to prison after hospital check-up",
+      "summary": "Relatives of former Pakistani Prime Minister Imran Khan say he’s being tortured in prison.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/former-pakistan-pm-imran-khan-taken-back-to-prison-after-hospital-check-up?traffic_source=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "politics",
+      "date": "2026-08-21",
+      "time": "18:25",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-08-21-7834a7ec",
@@ -578,6 +592,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-21-b695187c",
+      "headline": "Harry returns to UK as hefty Daily Mail legal bill lands",
+      "summary": "Harry returns to the UK with Meghan and their children as the bill for losing against the Daily Mail arrives: £9.54 million, about €11 million, to be paid jointly with six other claimants.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/21/harry-returns-to-uk-as-hefty-daily-mail-legal-bill-lands",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-21",
+      "time": "18:19",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-21-08ebb65a",
+      "headline": "FIFA hands Argentina's Paredes a 10-match ban over world cup final brawl",
+      "summary": "FIFA has banned three Argentina players, including a 10-match suspension for Leandro Paredes, along with fines against the team and federation for post-final violence and other incidents during the tournament.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/21/fifa-hands-argentinas-paredes-a-10-match-ban-over-world-cup-final-brawl",
+      "region": "SA",
+      "country": "Argentina",
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "15:44",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-20-ea44e2c0",
       "headline": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
@@ -590,20 +632,6 @@
       "time": "17:14",
       "conflict_id": "ukraine-war",
       "score": 63.0
-    },
-    {
-      "id": "2026-08-20-2e198761",
-      "headline": "Trump Officials Move to Fund Gaza Peacekeepers Even as Peace Plan Falters",
-      "summary": "The State Department informed Congress of its intent to fund the stabilization force on the same day the president’s Board of Peace announced a plan to disarm Hamas.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/20/us/politics/gaza-peacekeepers-funding.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-20",
-      "time": "18:24",
-      "conflict_id": "israel-hamas",
-      "score": 53.2
     },
     {
       "id": "2026-08-20-2ca4d9f9",
@@ -774,6 +802,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-20-9fe9d410",
+      "headline": "Why Nigeria's one-time political giant may face extinction",
+      "summary": "Once a giant of African politics, the PDP is in danger of being wiped out after January's elections.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj364klz857o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-20",
+      "time": "23:21",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-20-5efa59fe",
       "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
       "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
@@ -872,20 +914,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-19-547358c6",
-      "headline": "Sacked Ukrainian defence minister calls for presidential election",
-      "summary": "Martial law has been in place in Ukraine since February 2022, under which elections are suspended.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cdew8n9erlwo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-08-19",
-      "time": "20:34",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-19-acb7f11b",
       "headline": "Chinese firms are wrapping their supply chains around the globe",
       "summary": "A rewiring of global manufacturing is under way",
@@ -914,20 +942,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-18-3143c37d",
-      "headline": "UK 'supports Ukraine 100%', Burnham says, after Russia's drone warning",
-      "summary": "Russia accuses the UK of escalating the Ukraine war by supplying British-made drones as the prime minister vows to support Kyiv in its \"hour of need\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy5dz0kkn0wo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-18",
-      "time": "12:36",
-      "conflict_id": "ukraine-war",
-      "score": 55.0
-    },
-    {
       "id": "2026-08-18-098a4e16",
       "headline": "Brazil's President Lula hails oil discovery near Amazon river",
       "summary": "Environmentalists have heavily criticised the exploratory drilling in the sea off the mouth of the Amazon.",
@@ -953,7 +967,7 @@
       "date": "2026-08-17",
       "time": "16:02",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 47.0
     },
     {
       "id": "2026-08-17-251d9a0f",
@@ -968,6 +982,20 @@
       "time": "14:07",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-08-16-19334b9c",
+      "headline": "Qatar denies capturing three Iranian pilots after downing fighter jets",
+      "summary": "Iran claims they have been held since Qatar downed two fighter jets at the start of the US-Iran war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4kk8kz271o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
+      "date": "2026-08-16",
+      "time": "09:27",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-16-4f5f3a75",
