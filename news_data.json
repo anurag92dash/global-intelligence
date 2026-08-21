@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-21T08:23:38.221849+00:00",
-  "story_count": 83,
+  "updated": "2026-08-21T09:03:56.607708+00:00",
+  "story_count": 82,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-08-21-63f25b94",
-      "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
-      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "05:00",
-      "conflict_id": "israel-hamas",
-      "score": 63.0
-    },
     {
       "id": "2026-08-21-17784ee9",
       "headline": "Europe, Canada condemn Israeli plans for new West Bank settlement",
@@ -29,7 +15,21 @@
       "date": "2026-08-21",
       "time": "07:56",
       "conflict_id": null,
-      "score": 56.4
+      "score": 55.4
+    },
+    {
+      "id": "2026-08-21-63f25b94",
+      "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
+      "summary": "Thirty \"pioneer families\" have arrived on a wave of nationalism driven by Israel's government, but the rapid change has left nearby Palestinian residents fearful.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn7n0l4p0kzo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-08-21",
+      "time": "05:00",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
     },
     {
       "id": "2026-08-21-6fa9d2bf",
@@ -58,6 +58,20 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-08-21-b0de2be4",
+      "headline": "Weather tracker: Extreme rainfall deluges Japan and South Korea",
+      "summary": "Unprecedented downpours cause deaths, evacuations and transport chaos. Plus, Hurricane Lala batters HawaiiSouth Korea and Japan were hit by extreme rainfall late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. A level five emergency warning for heavy rain was issued by local authori",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/aug/21/weather-tracker-extreme-rainfall-japan-south-korea",
+      "region": "APJ",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "08:19",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-08-21-68f74e11",
@@ -102,18 +116,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-21-19ab38fa",
-      "headline": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM",
-      "summary": "Plan would create an Italian banking giant valued at about €70bn",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
-      "region": "EU",
+      "id": "2026-08-21-1e3a25be",
+      "headline": "What's Next Following Monte dei Paschi's High-Stakes Move?",
+      "summary": "Banca Monte dei Paschi is seeking to buy two separate banks for a combined price of €34 billion ($40 billion) in a defensive move designed to ward off a takeover by rival Intesa Sanpaolo.\nThe Italian lender said it’s launching an all-share bid for Banco BPM valuing it at €25.3 billion and another one for Banca Generali valuing it at €8.7 billion, based on the market close two days ago, according to a statement Friday. Bloomberg's Tommaso Ebhardt ",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/what-s-next-following-paschi-s-high-stakes-move-video",
+      "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-21",
-      "time": "07:17",
+      "time": "08:43",
       "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
     },
     {
       "id": "2026-08-21-b39f823e",
@@ -158,6 +172,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-08-21-67c629ce",
+      "headline": "Sudan’s displacement crisis deepens as violence escalates",
+      "summary": "Sudan’s displacement crisis deepens as violence escalates",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/21/sudans-displacement-crisis-deepens-as-violence-escalates?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "08:41",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-08-21-0d179942",
       "headline": "Dr TikTok: Mental health moves from consulting rooms to social media",
       "summary": "Social media fosters empathy and awareness, but cannot replace evidence-based treatment or formal psychological care.",
@@ -186,22 +214,22 @@
       "score": 30.8
     },
     {
-      "id": "2026-08-21-83bdb78e",
-      "headline": "US should abandon hostility toward North Korea: China foreign minister",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/us-should-abandon-hostility-toward-north-korea-china-foreign-minister",
-      "region": "APJ",
-      "country": "North Korea",
-      "category": "geopolitics",
+      "id": "2026-08-21-f22ba537",
+      "headline": "Why the US economy is ringing alarm bells",
+      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
       "date": "2026-08-21",
-      "time": "",
+      "time": "08:38",
       "conflict_id": null,
-      "score": 30.8
+      "score": 27.0
     },
     {
-      "id": "2026-08-21-a7cca60e",
-      "headline": "Fix schools, say India's 'cockroach' protesters. Schoolchildren agree",
+      "id": "2026-08-21-f76578ae",
+      "headline": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
       "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
@@ -210,20 +238,6 @@
       "category": "politics",
       "date": "2026-08-21",
       "time": "00:04",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-08-21-0407fa6d",
-      "headline": "Hong Kong's Tiananmen activists convicted in national security trial",
-      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "05:47",
       "conflict_id": null,
       "score": 27.0
     },
@@ -280,6 +294,20 @@
       "category": "business",
       "date": "2026-08-21",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-21-3e4599d7",
+      "headline": "Monte dei Paschi launches twin takeover bids to create €70bn Italian bank",
+      "summary": "Latest twist in a protracted run of consolidation of Italian financial services groups",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "07:17",
       "conflict_id": null,
       "score": 26.4
     },
@@ -410,20 +438,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-21-f2207b4e",
-      "headline": "Horizons Middle East & Africa 8/21/2026",
-      "summary": "Horizons Middle East & Africa is your daily spotlight on one of the world's fastest-growing regions. Live from Dubai, we bring you the latest global markets and analysis, plus news-making interviews, with a special focus on MEA. All that and more, as you head to the office in the Gulf, pause for lunch in Hong Kong, or start your day in London or Johannesburg.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/horizons-middle-east-africa-8-21-2026-video",
-      "region": "NA",
-      "country": "Hong Kong",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "06:32",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-21-acdfa6fe",
       "headline": "Targeted by an Islamophobic Provocateur, a City’s Muslims Are on Edge",
       "summary": "Jake Lang has descended four times on Dearborn, Mich., which is majority Arab American. His rhetoric and protests have stirred fear among residents.",
@@ -522,18 +536,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-21-cd5b2d1c",
-      "headline": "LVMH-backed L Catterton to buy Japan investment adviser",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/business-deals/lvmh-backed-l-catterton-to-buy-japan-investment-adviser",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-08-21-d60e0823",
+      "headline": "World’s oldest person celebrates 117th birthday in UK - What is the secret to her longevity?",
+      "summary": "Ethel Caterham, who lives in Surrey, UK, was born in 1909 and celebrates her 117th birthday today. She inherited the title of Oldest Person in the World last year and is one of the oldest people to survive Covid-19.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/08/21/worlds-oldest-person-celebrates-117th-birthday-in-uk-what-is-the-secret-to-her-longevity",
+      "region": "EU",
+      "country": null,
       "category": "business",
       "date": "2026-08-21",
-      "time": "",
+      "time": "08:26",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
       "id": "2026-08-21-c07f592b",
@@ -548,20 +562,6 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 21.0
-    },
-    {
-      "id": "2026-08-20-ddcc6a0b",
-      "headline": "European leaders demand Israel halt controversial E1 settlement project in West Bank",
-      "summary": "The E1 plan was green-lit by Israel last year and would further separate east Jerusalem, occupied and annexed by Israel and predominantly inhabited by Palestinians, from the West Bank.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/20/european-leaders-demand-israel-halt-controversial-e1-settlement-project-in-west-bank",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "18:22",
-      "conflict_id": "israel-hamas",
-      "score": 66.0
     },
     {
       "id": "2026-08-20-ea44e2c0",
@@ -648,20 +648,6 @@
       "score": 47.4
     },
     {
-      "id": "2026-08-20-5efa59fe",
-      "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "18:55",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-08-20-87e33aa1",
       "headline": "How much could Trump's 'economic D-Day' hurt Iran?",
       "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
@@ -686,20 +672,6 @@
       "category": "geopolitics",
       "date": "2026-08-20",
       "time": "06:08",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-08-20-11deb5e2",
-      "headline": "Israel opens up bids for highly sensitive West Bank settlement project",
-      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "10:30",
       "conflict_id": null,
       "score": 43.0
     },
@@ -746,46 +718,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-20-308f16ce",
-      "headline": "Man arrested over Nord Stream bombing was consultant on film about it starring Sean Penn",
-      "summary": "Volodymyr Zhuravlev had been consulted on Snake Island, a dramatised reconstruction of incidentEarlier this month locals in Zagreb noticed something odd outside an art deco building. Sandbags and barricades appeared in front of the Esplanade hotel, along with a film crew and extras sporting Ukrainian military uniforms. Soon afterwards the actors Sean Penn and Adrien Brody were spotted on the set in the Croatian capital, together with Doug Liman, ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/business/2026/aug/20/man-arrested-nord-stream-volodymyr-zhuravlev-consultant-film-sean-penn-snake-island",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "17:41",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-08-20-94302237",
-      "headline": "Emergency crews struggle to bring wildfire burning for weeks in Serbia under control",
-      "summary": "Warnings for extreme conditions have been issued across most of the Balkans, as authorities warn of a return to sweltering heat that has swept across Europe this summer.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/20/emergency-crews-struggle-to-bring-wildfire-burning-for-weeks-in-serbia-under-control",
-      "region": "EU",
-      "country": "Europe",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "19:31",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-08-20-bc7a7a9e",
-      "headline": "Nord Stream bomb suspect arrested while working on A-list Ukraine war movie starring Sean Penn",
-      "summary": "The Ukrainian suspect had previously been held in Poland for his alleged role in destroying the pipelines but Warsaw refused to extradite him to Germany.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/20/nord-stream-bomb-suspect-arrested-while-working-on-a-list-ukraine-war-movie-starring-sean-",
+      "id": "2026-08-20-5efa59fe",
+      "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": "Germany",
-      "category": "geopolitics",
+      "category": "business",
       "date": "2026-08-20",
-      "time": "18:51",
+      "time": "18:55",
       "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
     },
     {
       "id": "2026-08-20-f3f9e1da",
@@ -802,6 +746,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-20-27de9b69",
+      "headline": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
+      "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "05:01",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-20-9f5ebd67",
       "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
       "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
@@ -812,6 +770,20 @@
       "category": "geopolitics",
       "date": "2026-08-20",
       "time": "04:17",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-20-11deb5e2",
+      "headline": "Israel opens up bids for highly sensitive West Bank settlement project",
+      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "10:30",
       "conflict_id": null,
       "score": 35.0
     },
@@ -844,6 +816,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-08-20-733e4b54",
+      "headline": "State Dept. Declares U.S. Citizen in China Wrongfully Detained",
+      "summary": "U Min Zin, a scholar who studied Myanmar, is one of two U.S. citizens the department has designated as wrongfully detained in China.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/20/us/politics/scholar-china-wrongfully-detained.html",
+      "region": "APJ",
+      "country": "Myanmar",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "14:59",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-08-20-badb9f87",
       "headline": "Founder of China’s Evergrande jailed for life after pleading guilty to fraud",
       "summary": "Hui Ka Yan also forfeits all his personal property and the company he set up is given hefty finesBusiness live – latest updatesThe founder of Evergrande, one of China’s largest property developers, has been sentenced to life in prison and had all of his personal property confiscated.Hui Ka Yan, 67 and once named by Forbes as China’s richest man, with a net worth of $42.5bn (£31.2bn) in 2017, pleaded guilty in April to eight charges. Continue read",
@@ -856,48 +842,6 @@
       "time": "12:03",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-08-20-01bbb3fe",
-      "headline": "Houthis and government trade attacks as Yemen slides back to full-scale war",
-      "summary": "Gov&#039;t forces carried out 81 attacks in the last 24 hours as Houthis claim to have hit two targets in Saudi Arabia.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/20/houthis-and-government-trade-attacks-as-yemen-slides-back-to-full-scale-war?traffic_source=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "23:19",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-20-a7038ff3",
-      "headline": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
-      "summary": "CEO Luigi Lovaglio's plan aims to bolster MPS and fend off Intesa Sanpaolo's 30.5-billion-euro Opas. Approved with nine votes in favour and four abstentions.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-dual-exchange-offers-for-banco-bpm-and-banca-generali",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-20",
-      "time": "17:10",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-08-20-f22ba537",
-      "headline": "Why the US economy is ringing alarm bells",
-      "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9d8z72nn02o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "23:15",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-20-9fe9d410",
@@ -956,6 +900,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-08-20-93795d25",
+      "headline": "Darline Graham’s ‘oops’ moment and the pitfalls of acknowledging ignorance",
+      "summary": "Like the senator from South Carolina, candidates have admitted to not knowing things before. Doing so rarely ends well for them.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/20/sen-darline-graham-pitfalls-acknowledging-ignorance/",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-08-20",
+      "time": "09:47",
+      "conflict_id": null,
+      "score": 24.9
+    },
+    {
       "id": "2026-08-19-279c371b",
       "headline": "Five Americans among seven killed in safari helicopter crash in Kenya",
       "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national ",
@@ -968,6 +926,20 @@
       "time": "20:17",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-08-19-230dd9df",
+      "headline": "Why is Ukraine's ex-defence minister calling for wartime elections?",
+      "summary": "Mykhailo Fedorov has called for elections, without addressing concerns over how they could be held while at war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c62eyn5ggnzo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "15:38",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-19-b908a8c6",
@@ -1052,6 +1024,20 @@
       "time": "12:36",
       "conflict_id": "ukraine-war",
       "score": 55.0
+    },
+    {
+      "id": "2026-08-18-c8e2d508",
+      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
+      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "05:02",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-18-098a4e16",
