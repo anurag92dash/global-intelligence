@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-21T07:55:17.035396+00:00",
+  "updated": "2026-08-21T08:23:38.221849+00:00",
   "story_count": 83,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-08-21-a556313c",
-      "headline": "Iran war live: US vows toughest Iran sanctions, urges China support",
-      "summary": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
-      "region": "NA",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 55.4
-    },
     {
       "id": "2026-08-21-63f25b94",
       "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
@@ -29,7 +15,21 @@
       "date": "2026-08-21",
       "time": "05:00",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
+    },
+    {
+      "id": "2026-08-21-17784ee9",
+      "headline": "Europe, Canada condemn Israeli plans for new West Bank settlement",
+      "summary": "The &#039;unacceptable&#039; E1 plan carries &#039;legal and reputational consequences&#039; for those participating, European nations warn.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/europe-canada-condemn-israeli-plans-for-new-west-bank-settlement?traffic_source=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "07:56",
+      "conflict_id": null,
+      "score": 56.4
     },
     {
       "id": "2026-08-21-6fa9d2bf",
@@ -46,46 +46,18 @@
       "score": 51.0
     },
     {
-      "id": "2026-08-21-19ab38fa",
-      "headline": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM",
-      "summary": "Plan would create an Italian banking giant valued at about €70bn",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "07:17",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-08-21-c5f80231",
-      "headline": "Sfakianakis: Iran Misjudges US Willingness for Long War",
-      "summary": "The Trump administration is preparing to unveil its campaign to economically isolate Iran including plans to extend the strategy to countries that continue trading with Tehran such as China. John Sfakianakis, Chief Economist and Head of Research at the Gulf Research Center spoke to Bloomberg’s Abeer Abu Omar on Horizons Middle East and Africa on the GCC ties to Iran. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/sfakianakis-iran-misjudges-us-willingness-for-long-war-video",
+      "id": "2026-08-21-a556313c",
+      "headline": "Iran war live: US vows toughest Iran sanctions, urges China support",
+      "summary": "US Treasury Secretary Bessent says new economic measures will &#039;collapse&#039; Iranian government.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/21/iran-war-live-us-vows-toughest-iran-sanctions-urges-china-support?traffic_source=rss",
       "region": "NA",
-      "country": "Tehran",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-08-21",
-      "time": "05:58",
+      "time": "00:00",
       "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-08-21-320c6c21",
-      "headline": "Monte Paschi Bids €34 Billion for BPM, Banca Generali",
-      "summary": "Banca Monte dei Paschi is seeking to buy two separate banks for a combined value of €34 billion ($40 billion) as it seeks to prevent being bought by rival Intesa Sanpaolo. The Italian lender said it’s launching an all-share bid for Banco BPM valuing it at €25.3 billion and another one for Banca Generali valuing it €8.7 billion, according to a statement Friday, confirming an earlier Bloomberg News report. Tommaso Ebhardt reports from Milan. (Sourc",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-21/monte-paschi-bids-34-billion-for-bpm-banca-generali-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "05:53",
-      "conflict_id": null,
-      "score": 42.1
+      "score": 47.4
     },
     {
       "id": "2026-08-21-68f74e11",
@@ -128,6 +100,20 @@
       "time": "05:47",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-21-19ab38fa",
+      "headline": "Monte dei Paschi launches twin takeover bids for Banca Generali and Banco BPM",
+      "summary": "Plan would create an Italian banking giant valued at about €70bn",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/ecafb9a8-b9a6-48a4-8d3c-a626b26fe82b?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "07:17",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-08-21-b39f823e",
@@ -298,6 +284,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-21-8d4b692a",
+      "headline": "Dollar Depreciation Is Sustainable: 3-Minutes MLIV",
+      "summary": "Guy Johnson, Tom Mackenzie, Skylar Montgomery Koning and Mark Cudmore break down today's key themes for analysts and investors on \"Bloomberg: The Opening Trade.\"  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/dollar-depreciation-is-sustainable-3-minutes-mliv-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "08:13",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-21-7ecef4b4",
+      "headline": "Memory Stocks Struggle for Momentum With ‘Smart Money’ Moving On",
+      "summary": "After ripping through the first half of the year, memory stocks are struggling to regain momentum as growing concerns about the state of the artificial intelligence trade overshadow their strong fundamental backdrop.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/memory-stocks-struggle-for-momentum-with-smart-money-moving-on",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "08:07",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-21-2e630562",
+      "headline": "Dangote Offers East Africa Nations 30% Stake in New Refinery",
+      "summary": "Dangote Group has offered East African countries a 30% equity stake in the giant refinery planned for the region, according to Kenyan President William Ruto’s top economic adviser.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/dangote-offers-east-african-nations-30-stake-in-new-refinery",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-21",
+      "time": "05:58",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-21-01d78526",
       "headline": "Hua Medicine CEO Li Chen on Earnings",
       "summary": "Li Chen, Executive Director & CEO at Hua Medicine, discusses the Chinese biotech firm's growth plans exclusively on \"Bloomberg: The China Show\" following the company's first half results.  (Source: Bloomberg)",
@@ -354,20 +382,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-21-718350f1",
-      "headline": "Gold Set for Third Weekly Gain on US Treasury Buyback Plans",
-      "summary": "Gold was on track for a third weekly gain after the US Treasury’s unexpected ramp-up in buybacks of long-dated government debt underscored concerns about its burden.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/gold-set-for-third-weekly-gain-on-us-treasury-buyback-plans",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "00:13",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-21-d1fa83b7",
       "headline": "Korean Chipmakers’ Cash Payout Plans May Drive Won Rally Further",
       "summary": "Unprecedented shareholder-return plans by South Korea’s two chipmaking giants are emerging as a key swing factor for the won, potentially extending its recent rally if the firms tap local currency markets to fund the payouts.",
@@ -410,34 +424,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-21-25ff4b06",
-      "headline": "Europe Has Its Own Biotech Star as Argenx Soars on Trial Success",
-      "summary": "It’s been a big week for biotech stocks on both sides of the Atlantic.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/europe-has-its-own-biotech-star-as-argenx-soars-on-trial-success",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "06:27",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-21-6cd49d28",
-      "headline": "Goldman, JPMorgan Are Among Most Bullish on Europe: Taking Stock",
-      "summary": "(Click here or type SQUA &lt;GO&gt; to listen to Bloomberg’s new EMEA Equities Squawk)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/goldman-jpmorgan-are-among-most-bullish-on-europe-taking-stock",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "06:18",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-21-acdfa6fe",
       "headline": "Targeted by an Islamophobic Provocateur, a City’s Muslims Are on Edge",
       "summary": "Jake Lang has descended four times on Dearborn, Mich., which is majority Arab American. His rhetoric and protests have stirred fear among residents.",
@@ -450,6 +436,20 @@
       "time": "00:28",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-08-21-c9803c7c",
+      "headline": "‘Very unusual’: UK Palestine activists could be sentenced as terrorists",
+      "summary": "Court to rule on whether five activists accused of vandalising a Barclays bank will face terrorism sentencing.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/very-unusual-uk-palestine-activists-could-be-sentenced-as-terrorists?traffic_source=rss",
+      "region": "EU",
+      "country": "Palestine",
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "06:56",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-08-21-3424c888",
@@ -536,6 +536,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-21-c07f592b",
+      "headline": "Germans could save over €12,000 by ditching gas boiler for solar, battery and heat pump – analysis",
+      "summary": "Despite hefty installation costs, electrifying your home could help you save thousands of euros, new analysis shows.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/21/germans-could-save-over-12000-by-ditching-gas-boiler-for-solar-battery-and-heat-pump-analy",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "05:00",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-20-ddcc6a0b",
       "headline": "European leaders demand Israel halt controversial E1 settlement project in West Bank",
       "summary": "The E1 plan was green-lit by Israel last year and would further separate east Jerusalem, occupied and annexed by Israel and predominantly inhabited by Palestinians, from the West Bank.",
@@ -547,7 +561,7 @@
       "date": "2026-08-20",
       "time": "18:22",
       "conflict_id": "israel-hamas",
-      "score": 65.0
+      "score": 66.0
     },
     {
       "id": "2026-08-20-ea44e2c0",
@@ -634,6 +648,20 @@
       "score": 47.4
     },
     {
+      "id": "2026-08-20-5efa59fe",
+      "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
+      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "18:55",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-08-20-87e33aa1",
       "headline": "How much could Trump's 'economic D-Day' hurt Iran?",
       "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
@@ -658,6 +686,20 @@
       "category": "geopolitics",
       "date": "2026-08-20",
       "time": "06:08",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-20-11deb5e2",
+      "headline": "Israel opens up bids for highly sensitive West Bank settlement project",
+      "summary": "The UK's foreign secretary condemned the move as \"an unacceptable and destructive act\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cly50gn1e54o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "10:30",
       "conflict_id": null,
       "score": 43.0
     },
@@ -718,20 +760,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-20-2f056806",
-      "headline": "Ukrainian publishers call for support after Russian attacks destroy 10m books",
-      "summary": "The country risks ‘the collapse of the entire book ecosystem’ following destruction of warehouses in July and August, say Ukrainian publishersThe Ukrainian Book Institute has called on the international publishing community to support Ukrainian publishers after Russian attacks in July and early August destroyed about 10m books and a significant share of the country’s book production capacity.The institute said the attacks on publishing, printing ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/books/2026/aug/20/help-ukrainian-publishers-russia-attacks-books",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "15:37",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-08-20-94302237",
       "headline": "Emergency crews struggle to bring wildfire burning for weeks in Serbia under control",
       "summary": "Warnings for extreme conditions have been issued across most of the Balkans, as authorities warn of a return to sweltering heat that has swept across Europe this summer.",
@@ -760,34 +788,6 @@
       "score": 37.0
     },
     {
-      "id": "2026-08-20-a7038ff3",
-      "headline": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
-      "summary": "CEO Luigi Lovaglio's plan aims to bolster MPS and fend off Intesa Sanpaolo's 30.5-billion-euro Opas. Approved with nine votes in favour and four abstentions.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-dual-exchange-offers-for-banco-bpm-and-banca-generali",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-20",
-      "time": "17:10",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-08-20-5efa59fe",
-      "headline": "UK, France, Germany, Italy and Canada condemn Israel's West Bank settlement project",
-      "summary": "European countries and Canada pile on pressure over Israel's plans to expand settlements in a strategically vital part of the occupied West Bank.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c998evlgz8ko?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "18:55",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-20-f3f9e1da",
       "headline": "Assad officer extradited to Syria on war crimes charges for first time",
       "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
@@ -798,20 +798,6 @@
       "category": "geopolitics",
       "date": "2026-08-20",
       "time": "12:38",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-20-27de9b69",
-      "headline": "Captured Ukrainian-born soldiers tell BBC why they fought for Russia",
-      "summary": "Men born in Ukraine who fought for Russia are tried for treason, but at a prisoner of war camp in western Ukraine, many believe they were defending their homeland.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn9nr195drzo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "05:01",
       "conflict_id": null,
       "score": 35.0
     },
@@ -886,6 +872,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-08-20-a7038ff3",
+      "headline": "Monte dei Paschi board approves dual exchange offers for Banco Bpm and Banca Generali",
+      "summary": "CEO Luigi Lovaglio's plan aims to bolster MPS and fend off Intesa Sanpaolo's 30.5-billion-euro Opas. Approved with nine votes in favour and four abstentions.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/20/monte-dei-paschi-board-approves-dual-exchange-offers-for-banco-bpm-and-banca-generali",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-20",
+      "time": "17:10",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-08-20-f22ba537",
       "headline": "Why the US economy is ringing alarm bells",
       "summary": "The US hit a debt milestone this week, but just how worried should we be about the world's largest economy?",
@@ -914,20 +914,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-20-e3f8ede9",
-      "headline": "Ping An’s Profit Rises as Stock Market Rally Boosts Returns",
-      "summary": "Ping An Insurance (Group) Co.’s profit rose 36% in the first half, sending its shares higher, as China’s stock-market rally bolstered investment returns.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ping-an-s-profit-rises-as-stock-market-rally-boosts-returns",
-      "region": "APJ",
-      "country": "China",
-      "category": "business",
-      "date": "2026-08-20",
-      "time": "10:02",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-20-da60226f",
       "headline": "India Allows Rare Tax-Free Sugar Imports to Cool Prices",
       "summary": "India, the world’s second-biggest sugar producer, has allowed mills and refiners to import duty-free raw sugar in an effort to tame record local prices.",
@@ -942,18 +928,18 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-20-ec95cb5d",
-      "headline": "Canada’s oil industry is booming. Can it last?",
-      "summary": "Looser regulations will help with pipelines—but may not boost production",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/08/20/canadas-oil-industry-is-booming-can-it-last",
-      "region": "NA",
-      "country": "Canada",
+      "id": "2026-08-20-e3f8ede9",
+      "headline": "Ping An’s Profit Rises as Stock Market Rally Boosts Returns",
+      "summary": "Ping An Insurance (Group) Co.’s profit rose 36% in the first half, sending its shares higher, as China’s stock-market rally bolstered investment returns.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/ping-an-s-profit-rises-as-stock-market-rally-boosts-returns",
+      "region": "APJ",
+      "country": "China",
       "category": "business",
       "date": "2026-08-20",
-      "time": "12:59",
+      "time": "10:02",
       "conflict_id": null,
-      "score": 25.8
+      "score": 26.1
     },
     {
       "id": "2026-08-20-0d96765f",
@@ -968,6 +954,20 @@
       "time": "21:35",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-08-19-279c371b",
+      "headline": "Five Americans among seven killed in safari helicopter crash in Kenya",
+      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "20:17",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-08-19-b908a8c6",
