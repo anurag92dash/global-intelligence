@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-21T19:53:30.798066+00:00",
-  "story_count": 74,
-  "source_count": 10,
+  "updated": "2026-08-21T20:10:41.591647+00:00",
+  "story_count": 73,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-21-29a5d806",
@@ -18,20 +18,6 @@
       "score": 68.0
     },
     {
-      "id": "2026-08-21-42850c47",
-      "headline": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
-      "summary": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "18:17",
-      "conflict_id": "ukraine-war",
-      "score": 59.4
-    },
-    {
       "id": "2026-08-21-f4928852",
       "headline": "Israeli army, settlers kill 2 Palestinians in separate West Bank incidents",
       "summary": "Israeli settlers fatally shot 17-year-old Karim Sanad Shalaldeh while Israeli forces killed 58-year-old Fathi Khazem.",
@@ -46,6 +32,20 @@
       "score": 59.4
     },
     {
+      "id": "2026-08-21-42850c47",
+      "headline": "Russian drone attack on busy shopping centre kills 14 in Ukraine",
+      "summary": "Ukraine&#039;s Volodymyr Zelenskyy slams &#039;cynical and despicable&#039; attack on his hometown Kryvyi Rih that injured over 120.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/21/russian-drone-attack-on-busy-shopping-centre-kills-14-in-ukraine?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "18:17",
+      "conflict_id": "ukraine-war",
+      "score": 51.4
+    },
+    {
       "id": "2026-08-21-eeb1a10a",
       "headline": "Ukraine sanctions popular Russian cartoon ‘Masha and the Bear’",
       "summary": "Zelenskyy signs decree imposing sanctions on producers, accuses cartoon show of spreading &#039;pro-Russian propaganda&#039;.",
@@ -57,7 +57,7 @@
       "date": "2026-08-21",
       "time": "16:38",
       "conflict_id": "ukraine-war",
-      "score": 59.4
+      "score": 51.4
     },
     {
       "id": "2026-08-21-63f25b94",
@@ -130,20 +130,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-21-26d37ebd",
-      "headline": "US and Canada haggle over trade deal as midnight tariffs threat looms",
-      "summary": "Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "14:24",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
       "id": "2026-08-21-2b3273b2",
       "headline": "Dalio Says Sell Bonds, Buy Gold, Bitcoin as Debt Crisis Looms",
       "summary": "Billionaire Ray Dalio said investors should reduce their bond holdings and put as much as 15% of their money in gold to hedge against the risk of a US debt crisis that he warns could be just three years away.",
@@ -198,20 +184,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-08-21-9a503abc",
-      "headline": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
-      "summary": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "19:20",
-      "conflict_id": null,
-      "score": 39.4
     },
     {
       "id": "2026-08-21-6f9fec5b",
@@ -324,6 +296,20 @@
       "time": "10:43",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-08-21-9a503abc",
+      "headline": "US, Canada negotiators race to ink a deal as Trump’s tariff deadline looms",
+      "summary": "Experts say even a last-minute breakthrough will not result in the US lifting all its tariffs on Canadian goods.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/21/us-canada-negotiators-race-to-ink-a-deal-as-trumps-tariff-deadline-looms?traffic_source=rss",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "19:20",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-08-21-1296984a",
@@ -452,18 +438,60 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-21-3cf6f99d",
-      "headline": "US ranchers lash out at Trump’s gambit to cut beef prices",
-      "summary": "Cattle futures fall after president says unnamed foreign suppliers will provide 25% discount for three months",
+      "id": "2026-08-21-42b18b8b",
+      "headline": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
+      "summary": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-08-21",
-      "time": "16:18",
+      "time": "19:44",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-21-9994e466",
+      "headline": "US-Canada trade deal goes down to the wire",
+      "summary": "Officials talk up prospect of agreement after Trump paused $20bn of new levies on North American trading partner",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/24f9c08e-e23f-434e-b0f4-fc1eb55a7b04?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "14:24",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-21-32106fab",
+      "headline": "US Stocks End Week on Up Note, Nasdaq 100 Snaps Five-Day Slump",
+      "summary": "US stocks rose on Friday, finishing the week on an upbeat note that saw the Nasdaq 100 end a five-day losing streak as data revealed bustling business activity and Bitcoin soared.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-stock-futures-gain-as-nasdaq-100-looks-to-snap-five-day-slump",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "11:20",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-21-b2b2575b",
+      "headline": "Binance Faces New Scrutiny in Its Crypto-Friendly UAE Haven",
+      "summary": "Police inquiries involving Binance Holdings Ltd. employees in the United Arab Emirates are testing the crypto exchange in a country that has become one of its most important bases, after investigators scrutinized a bank account it uses to hold customer money.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-21/binance-faces-new-scrutiny-in-its-crypto-friendly-uae-haven",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "20:01",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-21-4d61d4ed",
@@ -476,20 +504,6 @@
       "category": "business",
       "date": "2026-08-21",
       "time": "11:06",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-21-01fe0209",
-      "headline": "US Natural Gas Rises on Intensifying Heat, Texas Power Forecasts",
-      "summary": "US natural gas futures ended higher as forecasts shifted to show hotter weather in the coming weeks, indicating higher demand for gas-fired power as consumers ramp up their air-conditioning use.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/us-natural-gas-rises-on-hotter-weather-texas-power-forecasts",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "13:52",
       "conflict_id": null,
       "score": 26.1
     },
@@ -604,34 +618,6 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
-    },
-    {
-      "id": "2026-08-21-b695187c",
-      "headline": "Harry returns to UK as hefty Daily Mail legal bill lands",
-      "summary": "Harry returns to the UK with Meghan and their children as the bill for losing against the Daily Mail arrives: £9.54 million, about €11 million, to be paid jointly with six other claimants.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/21/harry-returns-to-uk-as-hefty-daily-mail-legal-bill-lands",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "18:19",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-21-08ebb65a",
-      "headline": "FIFA hands Argentina's Paredes a 10-match ban over world cup final brawl",
-      "summary": "FIFA has banned three Argentina players, including a 10-match suspension for Leandro Paredes, along with fines against the team and federation for post-final violence and other incidents during the tournament.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/21/fifa-hands-argentinas-paredes-a-10-match-ban-over-world-cup-final-brawl",
-      "region": "SA",
-      "country": "Argentina",
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "15:44",
-      "conflict_id": null,
-      "score": 21.0
     },
     {
       "id": "2026-08-20-ea44e2c0",
@@ -858,6 +844,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-20-1e8710a6",
+      "headline": "Nasdaq 100 Halts Five-Day Slump as Bitcoin Rallies: Markets Wrap",
+      "summary": "The final stretch of a jittery week on Wall Street saw stocks rising amid solid economic data, with traders weighing the outlook for bonds after a burst of volatility.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-20/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-20",
+      "time": "22:05",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-20-93795d25",
       "headline": "Darline Graham’s ‘oops’ moment and the pitfalls of acknowledging ignorance",
       "summary": "Like the senator from South Carolina, candidates have admitted to not knowing things before. Doing so rarely ends well for them.",
@@ -896,20 +896,6 @@
       "category": "politics",
       "date": "2026-08-19",
       "time": "09:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-08-19-e5fb4464",
-      "headline": "Trump pauses Canada tariffs threat, and hints at revival of Keystone XL pipeline",
-      "summary": "US president delays 50% tariffs by three days, and says contentious oil project ‘may be awoken from the grave’Canada has temporarily avoided a bruising 50% US tariff, reaching a Tuesday-evening agreement with Trump administration officials hours before a hike that would have affected $20bn worth of goods was set to take effect.Donald Trump posted late on Tuesday on social media that he had paused the tariffs for three days “based on the fact that",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/19/trump-delay-canada-tariffs-keystone-xl-oil-pipeline",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-19",
-      "time": "03:47",
       "conflict_id": null,
       "score": 32.0
     },
