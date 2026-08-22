@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T14:08:56.533108+00:00",
+  "updated": "2026-08-22T14:34:47.890315+00:00",
   "story_count": 68,
   "source_count": 9,
   "stories": [
@@ -15,7 +15,7 @@
       "date": "2026-08-22",
       "time": "01:12",
       "conflict_id": "ukraine-war",
-      "score": 68.0
+      "score": 76.0
     },
     {
       "id": "2026-08-22-44acc5bc",
@@ -32,20 +32,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-08-22-cfc44529",
-      "headline": "Canada Pushes Back as US Trade Talks Collapse",
-      "summary": "Bloomberg News Executive Editor for Canada Derek Decloet joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that Canadians are frustrated but not necessarily surprised after last-minute US-Canada negotiations collapsed, triggering 50% US tariffs on about $20 billion of Canadian goods and a dollar-for-dollar retaliation pledge from Ottawa. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-22/canada-pushes-back-as-us-trade-talks-collapse-video",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-22",
-      "time": "13:22",
-      "conflict_id": null,
-      "score": 58.1
-    },
-    {
       "id": "2026-08-22-5eec9f17",
       "headline": "At least two killed in fresh Russian strikes on Ukraine",
       "summary": "The strikes come a day after Russia launched a major daytime drone attack on the city of Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy.",
@@ -58,6 +44,20 @@
       "time": "07:36",
       "conflict_id": "ukraine-war",
       "score": 57.0
+    },
+    {
+      "id": "2026-08-22-561ec1eb",
+      "headline": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and the country’s prime minister, Mark Carney, has vowed to match them “dollar for dollar” after the collapse of trade talks.The tariffs came into force on about $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00 GMT. Trade experts said t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "region": "NA",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-08-22",
+      "time": "14:04",
+      "conflict_id": null,
+      "score": 56.0
     },
     {
       "id": "2026-08-22-0e1ea547",
@@ -116,18 +116,60 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-22-312ba140",
-      "headline": "Canada vows to match Trump’s tariffs ‘dollar for dollar’ after trade talks fail",
-      "summary": "Mark Carney accuses US of ‘unfair’ last-minute changes to deal that would have averted 50% import taxesThe Canadian prime minister, Mark Carney, has promised to match US tariffs “dollar for dollar” after the two sides failed to agree a trade deal by the deadline of midnight on Friday.The trade row is the biggest rupture in recent relations between Washington and one of its closest allies and trading partners as Donald Trump’s bellicose foreign po",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "region": "NA",
-      "country": "Washington",
-      "category": "politics",
+      "id": "2026-08-22-c7d8dd4f",
+      "headline": "Russian ‘double-tap’ attack on Ukrainian shopping mall kills at least 16",
+      "summary": "Volodymyr Zelenskyy calls on allies to pile ‘real pressure’ on Moscow to end the war",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a7837e1c-6865-42bd-9902-3d4c4b7f37ef?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
       "date": "2026-08-22",
-      "time": "09:45",
+      "time": "13:31",
       "conflict_id": null,
-      "score": 49.0
+      "score": 50.4
+    },
+    {
+      "id": "2026-08-22-cfc44529",
+      "headline": "Canada Pushes Back as US Trade Talks Collapse",
+      "summary": "Bloomberg News Executive Editor for Canada Derek Decloet joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that Canadians are frustrated but not necessarily surprised after last-minute US-Canada negotiations collapsed, triggering 50% US tariffs on about $20 billion of Canadian goods and a dollar-for-dollar retaliation pledge from Ottawa. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/canada-pushes-back-as-us-trade-talks-collapse-video",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-22",
+      "time": "13:22",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-08-22-9517b20d",
+      "headline": "Russian strikes kill 6 people in Ukraine, day after shopping complex attack",
+      "summary": "Meanwhile, Ukrainian drone hits home in southern Russia, killing two children and injuring their parents, officials say.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/22/russian-strikes-kill-6-people-in-ukraine-day-after-shopping-complex-attack?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-22",
+      "time": "12:09",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
+      "id": "2026-08-22-faa7f338",
+      "headline": "Sanctions Target Iran’s Weakened Regional Network",
+      "summary": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning countries against maintaining trade ties with Tehran. Atlantic writer and Columbia University Institute of Global Politics Distinguished Fellow Kim Ghattas is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that sanctions remain a blunt t",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/sanctions-target-iran-s-weakened-regional-network-video",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-22",
+      "time": "14:23",
+      "conflict_id": null,
+      "score": 42.1
     },
     {
       "id": "2026-08-22-e5e39ffa",
@@ -452,6 +494,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-22-b0320011",
+      "headline": "Health ministry mobilises vaccines to Ceuta after tuberculosis and scabies cases detected",
+      "summary": "Health authorities are seeking to ensure vaccine supplies in Ceuta after cases of tuberculosis, gastroenteritis, scabies and impetigo were detected.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/health/2026/08/22/health-ministry-mobilises-vaccines-to-ceuta-after-tuberculosis-and-scabies-cases-detected",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-22",
+      "time": "12:25",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-21-29a5d806",
       "headline": "‘Shameful’: UK, Australia and Canada criticise Israel over Gaza aid convoy killings decision",
       "summary": "Joint statement issued after IDF said it will not pursue criminal investigations into April 2024 strike that killed seven humanitarian workersBritain, Australia and Canada have called the decision of the Israeli military authorities not to open a criminal investigation into the April 2024 airstrikes that hit a convoy of aid vehicles in Gaza “shameful”. The strikes killed seven humanitarian workers from the US-based World Central Kitchen (WCK) org",
@@ -522,20 +578,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-21-64b03924",
-      "headline": "Ebola vaccine trial to start in DR Congo as warning issued over speed of infections",
-      "summary": "About half of the 2,500 recorded deaths from Ebola happened in the last 20 days, the WHO says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/czxe9n0vxzdo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "13:44",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-08-21-17b2b27a",
       "headline": "Weather tracker: Extreme rain deluges Japan and South Korea",
       "summary": "Downpours break records and cause transport chaos, evacuations and deaths, as people get trapped inside vehicles South Korea and Japan were hit by extreme rain late last week and into this week. On 13 August in the city of Chiba near Tokyo there was a record-breaking 115mm of rainfall in just one hour, while the nearby city of Sakura broke its own record with 97mm in one hour. Local authorities issued a level 5 emergency warning for heavy rain, t",
@@ -576,20 +618,6 @@
       "time": "02:06",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-21-9f4b8280",
-      "headline": "Iran’s president calls to end war with US from ‘position of strength’",
-      "summary": "Masoud Pezeshkian’s comments reflect debate within regime over how much economic pressure country can endure",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/9a094571-604d-4f1e-b5ff-c0b5dc032dc1",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "18:51",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-08-21-7de2b02d",
@@ -648,20 +676,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-21-e2576196",
-      "headline": "The bond scare and the balance of power",
-      "summary": "After the dreamworld of the 2010s, the link between power and fiscal capacity is back",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/5b459fd3-8170-4c43-8db3-3f76d4ab891d",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-21",
-      "time": "14:10",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-08-21-72617d83",
       "headline": "Vingroup Among Vietnam Stocks to Debut on FTSE’s EM Index",
       "summary": "Vingroup JSC is among over 100 Vietnamese companies added to FTSE Russell’s Global Equity Indexes late Friday, marking a key step in the country’s long-awaited transition from frontier to secondary emerging market status.",
@@ -672,20 +686,6 @@
       "category": "business",
       "date": "2026-08-21",
       "time": "13:50",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-21-3b8ef1de",
-      "headline": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
-      "summary": "President Luiz Inácio Lula da Silva maintained his lead over right-wing challenger Flávio Bolsonaro ahead of Brazil’s October election, a new poll found.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-21/lula-holds-lead-over-bolsonaro-six-weeks-from-brazilian-election",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "21:57",
       "conflict_id": null,
       "score": 26.1
     },
