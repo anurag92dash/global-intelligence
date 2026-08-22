@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-22T12:12:49.800716+00:00",
+  "updated": "2026-08-22T12:58:32.650358+00:00",
   "story_count": 68,
-  "source_count": 10,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-22-d00f0607",
@@ -15,7 +15,7 @@
       "date": "2026-08-22",
       "time": "01:12",
       "conflict_id": "ukraine-war",
-      "score": 60.0
+      "score": 68.0
     },
     {
       "id": "2026-08-22-44acc5bc",
@@ -29,7 +29,35 @@
       "date": "2026-08-22",
       "time": "04:51",
       "conflict_id": null,
-      "score": 59.4
+      "score": 58.4
+    },
+    {
+      "id": "2026-08-22-5eec9f17",
+      "headline": "At least two killed in fresh Russian strikes on Ukraine",
+      "summary": "The strikes come a day after Russia launched a major daytime drone attack on the city of Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/22/at-least-two-killed-in-fresh-russian-strikes-on-ukraine",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-22",
+      "time": "07:36",
+      "conflict_id": "ukraine-war",
+      "score": 57.0
+    },
+    {
+      "id": "2026-08-22-0e1ea547",
+      "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
+      "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-22",
+      "time": "12:36",
+      "conflict_id": "ukraine-war",
+      "score": 55.0
     },
     {
       "id": "2026-08-22-089a39ce",
@@ -55,7 +83,7 @@
       "country": "Canada",
       "category": "business",
       "date": "2026-08-22",
-      "time": "11:21",
+      "time": "12:20",
       "conflict_id": null,
       "score": 52.0
     },
@@ -99,49 +127,7 @@
       "date": "2026-08-22",
       "time": "09:45",
       "conflict_id": null,
-      "score": 49.0
-    },
-    {
-      "id": "2026-08-22-5eec9f17",
-      "headline": "At least two killed in fresh Russian strikes on Ukraine",
-      "summary": "The strikes come a day after Russia launched a major daytime drone attack on the city of Kryvyi Rih, the hometown of Ukrainian President Volodymyr Zelenskyy.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/22/at-least-two-killed-in-fresh-russian-strikes-on-ukraine",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-22",
-      "time": "07:36",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
-    },
-    {
-      "id": "2026-08-22-12d7e4ec",
-      "headline": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
-      "summary": "Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-22",
-      "time": "04:02",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
-      "id": "2026-08-22-08ad8525",
-      "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' strike",
-      "summary": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-22",
-      "time": "10:01",
-      "conflict_id": "ukraine-war",
-      "score": 47.0
+      "score": 48.0
     },
     {
       "id": "2026-08-22-e5e39ffa",
@@ -214,6 +200,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-08-22-00ba0ca2",
+      "headline": "The AI Spending Spree Comes With a Catch",
+      "summary": "Sam Palmisano says the AI boom is built on long-cycle bets in data centers, chips and energy, even as AI software changes at breakneck speed. If adoption slows or cheaper Chinese open-source models gain traction, Big Tech may have to rethink the spending plans behind today’s AI race. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/the-ai-spending-spree-comes-with-a-catch-video",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-22",
+      "time": "12:03",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-08-22-f2cd05cd",
       "headline": "Mexico Optimistic it Can Achieve Lower US Tariffs on Cars, Steel",
       "summary": "Mexico’s top trade negotiator expressed optimism he can secure less burdensome tariff terms from the US on Mexican automobile and steel exports, similar to revised measures Washington is discussing with Canada.",
@@ -228,20 +228,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-22-3b739fd4",
-      "headline": "Judge Strikes Down Trump’s 75-Country Visa Ban",
-      "summary": "The ruling from the Southern District of New York found that the policy went beyond Secretary of State Marco Rubio’s legal authority.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/21/us/politics/judge-trump-75-country-visa-ban.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-22",
-      "time": "02:12",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-08-22-f011dd19",
       "headline": "How will Trump’s tariffs affect Canada’s economy?",
       "summary": "US imposes 50% tariffs on key Canadian sectors after talks collapse, but unlikely to cripple Canada&#039;s economy.",
@@ -252,20 +238,6 @@
       "category": "business",
       "date": "2026-08-22",
       "time": "08:01",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-22-deeb8a95",
-      "headline": "US judge strikes down Trump immigrant visa ban affecting 75 countries",
-      "summary": "A federal judge in Manhattan ruled against the State Department&#039;s suspension of immigrant visas.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/22/us-judge-strikes-down-trump-immigrant-visa-ban-affecting-75-countries?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-08-22",
-      "time": "03:19",
       "conflict_id": null,
       "score": 31.4
     },
@@ -284,6 +256,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-22-fcc5728e",
+      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-22",
+      "time": "10:01",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-22-19b824d1",
       "headline": "Bossing the bond market around never works",
       "summary": "Despite Scott Bessent’s efforts, investors worry something is up",
@@ -294,6 +280,34 @@
       "category": "business",
       "date": "2026-08-22",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-22-d4669608",
+      "headline": "Who counts in Trump’s America?",
+      "summary": "Gillian Tett on the president’s bid to reform the 10-year census, and the explosive politics behind who gets included and who gets to decide",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-22",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-22-5733e262",
+      "headline": "Lula turns to Trump as unlikely ally in Brazil’s clash with Marco Rubio",
+      "summary": "Brazil’s president and US secretary of state exchange barbs ahead of the South American country’s election",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/da43f854-8083-4ec1-86da-76b47c84e64a?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-22",
+      "time": "11:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -338,6 +352,20 @@
       "time": "05:55",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-22-c58abae7",
+      "headline": "The Berlin Wall separated his family. Its legacy still endures",
+      "summary": "When Germany was divided, the Guetingers were among the 70 million people split between two opposing nations.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/longform/2026/8/22/the-berlin-wall-separated-his-family-its-legacy-still-endures?traffic_source=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-08-22",
+      "time": "12:31",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-08-22-b81a7b8a",
@@ -648,6 +676,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-21-1054b2ba",
+      "headline": "Boxing Legend Mike Tyson on Career, Sugar Factory Launch",
+      "summary": "Former Heavyweight Champion Mike Tyson discussed his new business venture partnering with Sugar Factory to produce high-protein sliders available in grocery stores. Tyson emphasized the health benefits of these sliders compared to typical frozen options that often contain unhealthy seed oils and excessive grams of fat. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-21/boxing-legend-mike-tyson-on-career-sugar-factory-launch-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-21",
+      "time": "21:14",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-21-6a0be902",
       "headline": "Dutch regulator fines Uber $966m for automating driver suspensions",
       "summary": "European regulators have imposed billions in penalties on US technology companies due to privacy, competition and digital market rulesThe Dutch data protection authority has fined ⁠Uber €825m ($966m) for deactivating driver ⁠accounts through automated systems without ​adequately informing them, according to a 17 August decision.The penalty would be the second-largest issued yet under Europe’s General Data Protection Regulation (GDPR). Continue re",
@@ -660,20 +702,6 @@
       "time": "20:12",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-08-21-b695187c",
-      "headline": "Harry returns to UK as hefty Daily Mail legal bill lands",
-      "summary": "Harry returns to the UK with Meghan and their children as the bill for losing against the Daily Mail arrives: £9.54 million, about €11 million, to be paid jointly with six other claimants.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/21/harry-returns-to-uk-as-hefty-daily-mail-legal-bill-lands",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "18:19",
-      "conflict_id": null,
-      "score": 21.0
     },
     {
       "id": "2026-08-20-ea44e2c0",
@@ -732,20 +760,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-20-3850a0d9",
-      "headline": "North Korea fires 10 missiles day after Trump curtails South Korea joint drills",
-      "summary": "Launches, detected by South Korea and Japan, came after US scaled back exercises with South Korea in apparent overture to Kim Jong-unNorth Korea has launched about 10 short-range ballistic missiles towards the sea, South Korea’s military said, a day after Pyongyang shrugged off Donald Trump’s order to scale back US military drills with South Korea in an apparent attempt to resume diplomacy.The joint chiefs of staff said the missiles were launched",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/20/north-korea-fires-10-missiles-day-after-trump-curtails-south-korea-joint-drills",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "10:25",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-08-20-f3f9e1da",
       "headline": "Assad officer extradited to Syria on war crimes charges for first time",
       "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
@@ -784,20 +798,6 @@
       "category": "geopolitics",
       "date": "2026-08-20",
       "time": "04:17",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-20-7cb9e0be",
-      "headline": "Trump wants to be friends with Kim - but South Korea could pay the price",
-      "summary": "US military exercises with South Korea end early on Friday, at a time when the North is in a position of strength.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gj1vje8dxo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "22:01",
       "conflict_id": null,
       "score": 35.0
     },
