@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-22T04:55:03.063500+00:00",
-  "story_count": 71,
+  "updated": "2026-08-22T05:15:01.377656+00:00",
+  "story_count": 70,
   "source_count": 10,
   "stories": [
     {
@@ -62,7 +62,7 @@
     {
       "id": "2026-08-22-860c1d4b",
       "headline": "Canada vows to match Trump’s 50% tariffs after trade deal talks fail",
-      "summary": "Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talksCanadian prime minister Mark Carney has promised to match US tariffs “dollar for dollar”, after the two sides failed to agree a trade deal by the midnight deadline.“Last-minute changes in the US proposed terms were unfair, uneconomic, and called into question the reliability of any deal,” Carney said i",
+      "summary": "Mark Carney accuses Washington of ‘unfair’ last-minute changes to deal, as US and Canada fail to reach agreement after three-day extension of talksCanadian prime minister Mark Carney has promised to match US tariffs “dollar for dollar”, after the two sides failed to agree a trade deal by the deadline of midnight on Friday.Canadian officials had worked hard in good faith but “last-minute changes in the US proposed terms were unfair, uneconomic, an",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
       "region": "NA",
@@ -74,8 +74,8 @@
       "score": 48.0
     },
     {
-      "id": "2026-08-22-13b2e109",
-      "headline": "US imposes 50% tariffs on $20bn worth of Canadian goods after talks fail",
+      "id": "2026-08-22-12d7e4ec",
+      "headline": "US imposes 50 percent tariffs on $20bn in Canadian goods after talks fail",
       "summary": "Canadian prime minister says country will match tariffs &#039;dollar for dollar&#039; after failure to secure US trade agreement.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/22/us-imposes-50-tariffs-on-20bn-worth-of-canadian-goods-after-talks-fail?traffic_source=rss",
@@ -116,18 +116,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-22-d576e527",
-      "headline": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
-      "summary": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+      "id": "2026-08-22-e5e39ffa",
+      "headline": "Will Witkoff and Kushner make their first visit to Ukraine on its Independence Day?",
+      "summary": "As Ukraine marks 35 years of independence on 24 August, international allies are expected in Kyiv in a show of solidarity. Whether the US envoys will join them remains uncertain.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/22/will-witkoff-and-kushner-make-first-visit-to-ukraine-on-countrys-independence-day",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-22",
-      "time": "00:06",
-      "conflict_id": null,
-      "score": 39.4
+      "time": "05:00",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
     },
     {
       "id": "2026-08-22-f2cd05cd",
@@ -198,6 +198,20 @@
       "time": "02:39",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-08-22-d4669608",
+      "headline": "Who counts in Trump’s America?",
+      "summary": "Gillian Tett on the president’s bid to reform the 10-year census, and the explosive politics behind who gets included and who gets to decide",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7c9cd212-58c6-44e1-b515-022271e4390d?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-22",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
     },
     {
       "id": "2026-08-22-19b824d1",
@@ -508,20 +522,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-21-42b18b8b",
-      "headline": "‘Betrayal’: US ranchers lash out at Trump’s plan to cut tax on beef imports",
-      "summary": "President claims unnamed foreign suppliers will provide 25% discount in run-up to midterm elections",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7aabb591-ca73-4d87-96ad-dac9a210e1d0?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "22:27",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
       "id": "2026-08-21-3b8ef1de",
       "headline": "Lula Holds Lead Over Bolsonaro Six Weeks From Brazilian Election",
       "summary": "President Luiz Inácio Lula da Silva maintained his lead over right-wing challenger Flávio Bolsonaro ahead of Brazil’s October election, a new poll found.",
@@ -644,20 +644,6 @@
       "category": "business",
       "date": "2026-08-21",
       "time": "15:44",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-21-9e82d32e",
-      "headline": "Sweden plans to send migrants to Italy, France and Spain reject Dublin transfers",
-      "summary": "After Germany, Switzerland, Austria, and Finland, Sweden now also plans to return to Italy migrants who moved north after landing there. Eurostat says 109,427 transfer requests were sent to Rome between 2023 and 2025, a potential boomerang for Meloni's government.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/21/sweden-plans-to-send-migrants-to-italy-france-and-spain-reject-dublin-transfers",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "13:23",
       "conflict_id": null,
       "score": 21.0
     },
