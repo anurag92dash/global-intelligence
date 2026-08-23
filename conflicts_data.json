@@ -127,9 +127,14 @@
     "status": "open",
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
-    "status_signal": "stable",
-    "last_activity": "2026-08-21",
+    "status_signal": "escalating",
+    "last_activity": "2026-08-23",
     "recent_headlines": [
+      {
+        "headline": "Dozens of attacks in southern Thailand wound three people",
+        "source": "Al Jazeera",
+        "date": "2026-08-23"
+      },
       {
         "headline": "Weather tracker: Extreme rain deluges Japan and South Korea",
         "source": "The Guardian",
@@ -139,11 +144,6 @@
         "headline": "Five Americans among seven killed in safari helicopter crash in Kenya",
         "source": "The Guardian",
         "date": "2026-08-19"
-      },
-      {
-        "headline": "America Inc has a tight grip on allied governments",
-        "source": "The Economist",
-        "date": "2026-08-16"
       }
     ],
     "timeline": [
