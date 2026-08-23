@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-23T11:31:57.628026+00:00",
-  "story_count": 78,
-  "source_count": 10,
+  "updated": "2026-08-23T11:54:24.675026+00:00",
+  "story_count": 79,
+  "source_count": 9,
   "stories": [
     {
       "id": "2026-08-23-6d23c986",
@@ -32,18 +32,32 @@
       "score": 59.0
     },
     {
-      "id": "2026-08-23-7c858ac7",
-      "headline": "Mark Carney says Canada ‘at war’ with US over trade",
-      "summary": "Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+      "id": "2026-08-23-94f70d98",
+      "headline": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants the benefits of being a State, without being one!!!” Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
       "region": "NA",
-      "country": "Canada",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 56.0
+    },
+    {
+      "id": "2026-08-23-26eeba3c",
+      "headline": "Zelenskyy rejects election call from fired defence minister",
+      "summary": "President says wartime vote would ‘split Ukraine apart’ as he seeks to reassert authority",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/14eeeead-647f-486a-a8dc-7ca2610f3d35",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "politics",
       "date": "2026-08-23",
-      "time": "08:22",
-      "conflict_id": null,
-      "score": 50.4
+      "time": "11:26",
+      "conflict_id": "ukraine-war",
+      "score": 54.4
     },
     {
       "id": "2026-08-23-79a9e565",
@@ -58,6 +72,20 @@
       "time": "09:37",
       "conflict_id": "ukraine-war",
       "score": 47.0
+    },
+    {
+      "id": "2026-08-23-7c858ac7",
+      "headline": "Mark Carney says Canada ‘at war’ with US over trade",
+      "summary": "Prime Minister tells country Donald Trump ‘miscalculated’ by escalating tariff attack",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e3b5c236-bd5f-45c2-8ddf-5279a7375d3f?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-08-23",
+      "time": "08:22",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-08-23-1770dade",
@@ -86,6 +114,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-08-23-527048ed",
+      "headline": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
+      "summary": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
+      "region": "NA",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-08-23",
+      "time": "03:42",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-08-23-5d7d8553",
@@ -158,6 +200,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-08-23-e9bea831",
+      "headline": "Israeli politicians focus on foreign threats, ignoring spiralling debt",
+      "summary": "Israel faces mounting debt pressures as wars and declining tax revenues collide and more top earners leave the country.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-politicians-focus-on-foreign-threats-ignoring-spiralling-debt?traffic_source=rss",
+      "region": "NA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-23",
+      "time": "07:46",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-08-23-a775c3eb",
       "headline": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
       "summary": "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis.",
@@ -168,20 +224,6 @@
       "category": "geopolitics",
       "date": "2026-08-23",
       "time": "07:22",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-08-23-527048ed",
-      "headline": "‘You just can’t trust Trump’: Canadian premiers fire back in trade war",
-      "summary": "Provincial premiers have joined Canada’s Prime Minister Mark Carney, firing back after US President imposed tariffs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/you-just-cant-trust-trump-canadian-premiers-fire-back-in-trade-war?traffic_source=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-08-23",
-      "time": "03:42",
       "conflict_id": null,
       "score": 31.4
     },
@@ -223,7 +265,7 @@
       "country": "Thailand",
       "category": "geopolitics",
       "date": "2026-08-23",
-      "time": "10:22",
+      "time": "11:50",
       "conflict_id": null,
       "score": 27.0
     },
@@ -280,20 +322,6 @@
       "category": "business",
       "date": "2026-08-23",
       "time": "04:30",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-23-a63f7b5f",
-      "headline": "Occidental tries to free itself from the messy legacy of Anadarko deal",
-      "summary": "Oil and gas group charts a steadier course seven years after Vicki Hollub’s notorious Berkshire-backed acquisition",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/65e41dc2-aeb6-4a2b-976a-cc3f5f990dd5?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "10:00",
       "conflict_id": null,
       "score": 26.4
     },
@@ -508,20 +536,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-08-22-cfc44529",
-      "headline": "Canada Pushes Back as US Trade Talks Collapse",
-      "summary": "Bloomberg News Executive Editor for Canada Derek Decloet joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that Canadians are frustrated but not necessarily surprised after last-minute US-Canada negotiations collapsed, triggering 50% US tariffs on about $20 billion of Canadian goods and a dollar-for-dollar retaliation pledge from Ottawa. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-22/canada-pushes-back-as-us-trade-talks-collapse-video",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-22",
-      "time": "13:22",
-      "conflict_id": null,
-      "score": 50.1
-    },
-    {
       "id": "2026-08-22-faa7f338",
       "headline": "Sanctions Target Iran’s Weakened Regional Network",
       "summary": "The US is preparing a new campaign of economic pressure on Iran after diplomacy and months of fighting failed to produce a durable settlement, with President Donald Trump warning countries against maintaining trade ties with Tehran. Atlantic writer and Columbia University Institute of Global Politics Distinguished Fellow Kim Ghattas is on Bloomberg This Weekend and explains to hosts David Gura and Christina Ruffini that sanctions remain a blunt t",
@@ -606,6 +620,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-22-17945a86",
+      "headline": "Bloomberg This Weekend 8/22/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Alexis Christoforous bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by Former MI6 Chief Sir Richard Dearlove, American Whiskey Association President & CEO Michael Bilello, The Atlantic Contributing Writer and Columbia University Institute of Global Politics Distinguished Fellow Kim Ghattas, and Carleton Colle",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/bloomberg-this-weekend-8-22-2026-video",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-22",
+      "time": "16:07",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-22-a3b09f75",
       "headline": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
       "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Alexis Christoforous, David Gura, and Christina Ruffini as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
@@ -644,6 +672,20 @@
       "category": "business",
       "date": "2026-08-22",
       "time": "14:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-22-0b08cbf3",
+      "headline": "American Whiskey Pays Price for Canada Trade Rift",
+      "summary": "US spirits exports to Canada fell 70% from March through December 2025 after most provinces removed American alcohol from their shelves, while exports elsewhere rose 2.5%. American Whiskey Association President & CEO Michael Bilello is on Bloomberg This Weekend and says restoring market access is only the first challenge, American whiskey producers also need to rebuild demand among Canadian consumers after more than a year of trade tensions. (Sou",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/american-whiskey-pays-price-for-canada-trade-rift-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-22",
+      "time": "13:53",
       "conflict_id": null,
       "score": 26.1
     },
@@ -772,20 +814,6 @@
       "time": "02:06",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-21-283ce5c9",
-      "headline": "Alex Vindman says he’ll give away his multimillion-dollar war chest",
-      "summary": "The Senate candidate had leveraged his national fame to raise more than $16 million before losing Florida’s Democratic primary.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/21/alex-vindman-says-he-give-campaign-funds-florida-democrats/",
-      "region": "NA",
-      "country": "Senate",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "11:45",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-08-21-3f795e94",
@@ -968,20 +996,6 @@
       "time": "15:38",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-19-bd5e2ed2",
-      "headline": "Activist forced out of US after criticising Trump-aligned Colombian politician",
-      "summary": "Beto Coral held up banners in Florida warning fellow Colombians to not vote for Abelardo de la EspriellaIn the week before Colombia’s presidential election, Beto Coral, a well-known activist living in the United States, travelled to Florida to persuade fellow Colombians not to vote for the far-right candidate Abelardo de la Espriella.Coral held banners outside polling stations in Miami warning that the millionaire lawyer, whose candidacy was endo",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/activist-forced-out-of-us-after-criticising-trump-aligned-colombian-politician",
-      "region": "NA",
-      "country": "United States",
-      "category": "politics",
-      "date": "2026-08-19",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-08-19-acb7f11b",
