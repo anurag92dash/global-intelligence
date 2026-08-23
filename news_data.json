@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-23T15:42:18.547067+00:00",
+  "updated": "2026-08-23T15:56:32.364843+00:00",
   "story_count": 77,
-  "source_count": 9,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-23-cc793284",
@@ -140,20 +140,6 @@
       "category": "geopolitics",
       "date": "2026-08-23",
       "time": "09:43",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-08-23-37141a2a",
-      "headline": "Israeli forces kill Palestinian boy in occupied West Bank raid",
-      "summary": "Islam Ahmad Ajjouri was shot in the chest as Israeli forces raided the Askar refugee camp, east of Nablus.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-wounded-in-occupied-west-bank-stabbing?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "08:38",
       "conflict_id": "israel-hamas",
       "score": 43.4
     },
@@ -338,6 +324,20 @@
       "time": "05:54",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-08-23-725abb35",
+      "headline": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
+      "summary": "“I think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,” the former vice president told CNN.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-23",
+      "time": "15:46",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-08-23-13bc1cd6",
@@ -746,20 +746,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-22-23b76620",
-      "headline": "These 5 People Spent Decades Behind Bars. Here Are Their Stories.",
-      "summary": "Francis Clifford Smith, who died at 101, was among the longest-incarcerated people in the U.S. Here are some others who lived much of their lives in prison.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/22/us/life-prison-sentence-william-heirens-sammie-robinson.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-22",
-      "time": "13:33",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-08-22-e16f03d9",
       "headline": "German Chancellor Merz visits Hürtgen Forest fire site amid boos and whistles",
       "summary": "Chancellor Friedrich Merz travelled to Hürtgenwald today, as firefighting in Belgium's High Fens continues. The blaze on the German border is out, but ahead of his visit he faced opposition criticism for 'doing nothing'.",
@@ -826,6 +812,20 @@
       "category": "geopolitics",
       "date": "2026-08-21",
       "time": "13:07",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-21-40537e14",
+      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "15:58",
       "conflict_id": null,
       "score": 35.0
     },
