@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-23T11:09:42.125418+00:00",
-  "story_count": 77,
+  "updated": "2026-08-23T11:31:57.628026+00:00",
+  "story_count": 78,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-23-6d23c986",
+      "headline": "Israel’s war on Gaza forces Palestinians to rely on ‘Stone Age’ toilets",
+      "summary": "The displaced in Gaza are struggling to find safe, discreet and sanitary toilets amid health crisis.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/8/23/israels-war-on-gaza-forces-palestinians-to-rely-on-stone-age-toilets?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-23",
+      "time": "11:00",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
+    },
     {
       "id": "2026-08-23-cc793284",
       "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
@@ -15,7 +29,7 @@
       "date": "2026-08-23",
       "time": "05:46",
       "conflict_id": null,
-      "score": 67.0
+      "score": 59.0
     },
     {
       "id": "2026-08-23-7c858ac7",
@@ -29,21 +43,7 @@
       "date": "2026-08-23",
       "time": "08:22",
       "conflict_id": null,
-      "score": 58.4
-    },
-    {
-      "id": "2026-08-23-45ebb0c5",
-      "headline": "Canada to hit US with retaliatory tariffs as trade war escalates",
-      "summary": "Mark Carney says Canada will impose tariffs starting September 8 on imports of US steel, electronics and other products.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/canada-to-hit-us-with-retaliatory-tariffs-as-trade-war-escalates?traffic_source=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "02:34",
-      "conflict_id": null,
-      "score": 56.4
+      "score": 50.4
     },
     {
       "id": "2026-08-23-79a9e565",
@@ -144,16 +144,16 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-23-3dc9de9e",
-      "headline": "Israeli air strike near Gaza refugee camp kills one person and injures two",
-      "summary": "Israeli air attack near Gaza&#039;s Maghazi camp kills one person and injures two others.",
+      "id": "2026-08-23-1366c926",
+      "headline": "Explosion injures 13 in Taiwan",
+      "summary": "Explosion injures 13 in Taiwan",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/23/israeli-air-strike-near-gaza-refugee-camp-kills-one-person-and-injures-two?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/23/explosion-injures-13-in-taiwan?traffic_source=rss",
+      "region": "APJ",
+      "country": "Taiwan",
       "category": "geopolitics",
       "date": "2026-08-23",
-      "time": "09:43",
+      "time": "11:06",
       "conflict_id": null,
       "score": 31.4
     },
@@ -228,20 +228,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-23-71054680",
-      "headline": "Robots compete in boxing, football and sprinting at World Humanoid Games",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "09:42",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-23-4429fdb2",
       "headline": "Anthropic’s best AI model struggles to attract users as cheaper tools thrive",
       "summary": "AI lab’s Fable 5 has met with sluggish demand from corporate clients",
@@ -252,6 +238,20 @@
       "category": "business",
       "date": "2026-08-23",
       "time": "08:23",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-23-5e33c3e2",
+      "headline": "Government can bring robotics to life",
+      "summary": "Without policy, there are few incentives to automate business functions where labour costs are low",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a4147c6b-5634-4035-b1a8-ac7bf1eb497d?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-23",
+      "time": "11:15",
       "conflict_id": null,
       "score": 26.4
     },
@@ -452,9 +452,9 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-23-eced2936",
-      "headline": "French 2027 presidential election: Raphaël Glucksmann prepares to enter the ring",
-      "summary": "The 46-year-old former essayist, MEP and head of the centre-left party \"Place Publique\" is expected to use a prime-time interview on TF1 tonight to announce his bid, joining an already crowded field of left-wing contenders.",
+      "id": "2026-08-23-aece4de4",
+      "headline": "French 2027 presidential election: Glucksmann to enter the race",
+      "summary": "The 46-year-old former essayist, MEP and head of the centre-left party \"Place Publique\" is expected to use a prime-time interview tonight to announce his bid, joining an already crowded field of left-wing contenders.",
       "source": "Euronews",
       "url": "http://www.euronews.com/my-europe/2026/08/23/french-2027-presidential-election-raphael-glucksmann-prepares-to-enter-the-ring",
       "region": "EU",
@@ -494,20 +494,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-22-cfc44529",
-      "headline": "Canada Pushes Back as US Trade Talks Collapse",
-      "summary": "Bloomberg News Executive Editor for Canada Derek Decloet joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that Canadians are frustrated but not necessarily surprised after last-minute US-Canada negotiations collapsed, triggering 50% US tariffs on about $20 billion of Canadian goods and a dollar-for-dollar retaliation pledge from Ottawa. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-22/canada-pushes-back-as-us-trade-talks-collapse-video",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-22",
-      "time": "13:22",
-      "conflict_id": null,
-      "score": 58.1
-    },
-    {
       "id": "2026-08-22-0e1ea547",
       "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
@@ -520,6 +506,20 @@
       "time": "13:13",
       "conflict_id": "ukraine-war",
       "score": 55.0
+    },
+    {
+      "id": "2026-08-22-cfc44529",
+      "headline": "Canada Pushes Back as US Trade Talks Collapse",
+      "summary": "Bloomberg News Executive Editor for Canada Derek Decloet joins David Gura and Christina Ruffini on Bloomberg This Weekend and explains that Canadians are frustrated but not necessarily surprised after last-minute US-Canada negotiations collapsed, triggering 50% US tariffs on about $20 billion of Canadian goods and a dollar-for-dollar retaliation pledge from Ottawa. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/canada-pushes-back-as-us-trade-talks-collapse-video",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-22",
+      "time": "13:22",
+      "conflict_id": null,
+      "score": 50.1
     },
     {
       "id": "2026-08-22-faa7f338",
@@ -536,20 +536,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-08-22-561ec1eb",
-      "headline": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
-      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks.The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
-      "region": "NA",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-08-22",
-      "time": "14:04",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-08-22-a9c41b9e",
       "headline": "Syria says Israeli strike near Damascus violation of international law",
       "summary": "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border.",
@@ -562,6 +548,20 @@
       "time": "21:42",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-22-561ec1eb",
+      "headline": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "summary": "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks.The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT. Trade experts said ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "region": "NA",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-08-22",
+      "time": "14:04",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-08-22-438687a3",
@@ -630,6 +630,20 @@
       "category": "business",
       "date": "2026-08-22",
       "time": "14:35",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-22-33d76f3e",
+      "headline": "Study Shows AI Hitting Paychecks, Not Payrolls",
+      "summary": "Apollo Chief Economist Torsten Slok says early labor-market data suggest AI’s first impact is appearing more in wages than employment. In a study of hundreds of occupations, Slok found that jobs with higher exposure to AI have seen weaker wage growth, while the employment effect remains relatively small. But the picture is still coming into focus: Slok says AI is also helping fuel record business formation, which could create new jobs and make th",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-22/study-shows-ai-hitting-paychecks-not-payrolls",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-22",
+      "time": "14:00",
       "conflict_id": null,
       "score": 26.1
     },
