@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-24T10:35:17.833211+00:00",
-  "story_count": 84,
+  "updated": "2026-08-24T11:04:54.481073+00:00",
+  "story_count": 85,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-24-cedf4edc",
+      "headline": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
+      "summary": "UK PM in Kyiv with plans to share blueprints for long-range missiles, as Kremlin warns move would ‘add fuel to fire’ in British-Russian relationsHere’s the full quote from Kremlin’s Peskov, via AFP:“Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "10:36",
+      "conflict_id": "ukraine-war",
+      "score": 60.0
+    },
     {
       "id": "2026-08-24-b792647b",
       "headline": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
@@ -18,16 +32,16 @@
       "score": 53.0
     },
     {
-      "id": "2026-08-24-cedf4edc",
-      "headline": "Burnham compares Ukraine’s war against Russia to Britain’s fight against Nazi Germany as he begins visit – Europe live",
-      "summary": "UK PM in Kyiv with plans to share blueprints for long-range missiles, as Kremlin warns move would ‘add fuel to fire’ in British-Russian relationsHere’s the full quote from Kremlin’s Peskov, via AFP:“Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
+      "id": "2026-08-24-3c666f05",
+      "headline": "UK ‘adding fuel to the fire’ by giving weaponry blueprints to Ukraine, says Russia",
+      "summary": "Moscow warns of increased tensions with Britain as Burnham visits Kyiv to offer declassified details of missile componentsEurope live – latest updatesThe Kremlin has warned of an escalation in tensions between the UK and Russia as Andy Burnham arrived in Kyiv to present Ukraine with newly declassified blueprints to allow Ukraine to improve its production of long range missiles.In his first trip abroad as the prime minister, Burnham will give Ukra",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-adding-fuel-to-the-fire-by-giving-weaponry-blueprints-to-ukraine-says-russia",
       "region": "EU",
-      "country": "Germany",
+      "country": "Britain",
       "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "10:16",
+      "time": "10:49",
       "conflict_id": "ukraine-war",
       "score": 52.0
     },
@@ -74,20 +88,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-08-24-b7254478",
-      "headline": "LNG WRAP: Bangladesh Seeks More Cargoes as Iran War Drags On",
-      "summary": "Bangladesh is seeking additional liquefied natural gas cargoes as the Iran war continues to disrupt flows through the Strait of Hormuz.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/lng-wrap-bangladesh-seeks-more-cargoes-as-iran-war-drags-on",
-      "region": "MENA",
-      "country": "Bangladesh",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "08:43",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
       "id": "2026-08-24-0c2b008e",
       "headline": "Ukraine launches drone strikes on Russian e-commerce giant Ozon",
       "summary": "Four logistics hubs in southern Russia were attacked as Kyiv expanded its campaign against supply networks it says support Moscow's military.",
@@ -102,6 +102,34 @@
       "score": 41.0
     },
     {
+      "id": "2026-08-24-fe626cc4",
+      "headline": "US threatens toughest sanctions yet against Iran: What we know",
+      "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "10:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-08-24-5d37bc5e",
+      "headline": "Ukraine’s offensive against Russia causes petrol panic across Central Asia",
+      "summary": "War-induced shortages set off cross-border fuel runs and deepen energy problems for Russia&#039;s allies.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/ukraines-offensive-against-russia-causes-petrol-panic-across-central-asia?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "10:11",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-24-58077773",
       "headline": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
       "summary": "Exerting maximum economic pressure on Tehran would risk blowback from Beijing.",
@@ -112,20 +140,6 @@
       "category": "geopolitics",
       "date": "2026-08-24",
       "time": "09:10",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-24-dc47241e",
-      "headline": "How much more are you spending on petrol since the war on Iran began?",
-      "summary": "At least 145 countries have reported increases in petrol prices since the attacks on Iran by the US and Israel began.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/how-much-more-are-you-spending-on-petrol-since-the-war-in-iran-began?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "07:26",
       "conflict_id": null,
       "score": 39.4
     },
@@ -270,22 +284,22 @@
       "score": 31.4
     },
     {
-      "id": "2026-08-24-0b437d17",
-      "headline": "Anime and manga pass on Japan's wartime memories to Gen Z",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/media-entertainment/anime-and-manga-pass-on-japan-s-wartime-memories-to-gen-z",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "geopolitics",
+      "id": "2026-08-24-c766a7f4",
+      "headline": "Sweden moves to prevent school attacks after one killed in sword assault in Fagersta",
+      "summary": "Education Minister Simona Mohamsson told a press conference that the government would be appointing a school attack commission \"that will propose new measures to prevent future school attacks.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/24/sweden-moves-to-prevent-school-attacks-after-one-killed-in-sword-assault-in-fagersta",
+      "region": "EU",
+      "country": "Sweden",
+      "category": "politics",
       "date": "2026-08-24",
-      "time": "",
+      "time": "10:59",
       "conflict_id": null,
-      "score": 30.8
+      "score": 29.0
     },
     {
-      "id": "2026-08-24-f513b819",
-      "headline": "Zambia courts sealed off as election petition deadline looms",
+      "id": "2026-08-24-207bc9af",
+      "headline": "Access to Zambian courts prevented as election petition deadline looms",
       "summary": "Preparations for President Hakainde Hichilema's second inauguration appear to be continuing.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cgrvjn88rxqo?at_medium=RSS&at_campaign=rss",
@@ -326,20 +340,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-24-252d5dd1",
-      "headline": "What do locals think of IndyCar in Washington DC?",
-      "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "04:51",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-24-ef31284c",
       "headline": "US widens AI-driven investment gap with Europe",
       "summary": "The bloc struggles to keep up with US spending on high-tech equipment and facilities",
@@ -368,6 +368,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-08-24-3755e583",
+      "headline": "Turkish Banks Rally as Central Bank Lowers Lending Rate",
+      "summary": "Turkish banks rallied after the central bank lowered borrowing costs earlier than anticipated, paving a path to potentially deliver more interest-rate cuts before the end of the year.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/turkish-banks-rally-as-central-bank-restores-cheaper-funding",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "08:06",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-24-2ac2cdc1",
+      "headline": "JPMorgan Unit to Argue India Regulatory Breach Was Technical",
+      "summary": "A JPMorgan Chase &amp; Co. unit facing allegations of non-compliance from India’s market regulator is likely to contend that the issue was technical in nature rather than manipulative, people familiar with the matter said.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/jpmorgan-unit-to-argue-any-india-regulatory-breach-was-technical",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "05:56",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-24-95aeeb57",
       "headline": "Carry Trades Are Riding High on Wall Street",
       "summary": "The popular but often risky strategy is getting a boost as investors bet the dollar will weaken.",
@@ -378,20 +406,6 @@
       "category": "business",
       "date": "2026-08-24",
       "time": "10:20",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-24-5bd3fd30",
-      "headline": "Fed, Treasury Credibility Questioned by Markets, Says Rabobank’s Foley",
-      "summary": "Jane Foley, head of FX strategy at Rabobank, discusses market anxiety over the US Treasury and Federal Reserve in what she calls “a very interesting week” for the dollar. She speaks on “Bloomberg Brief.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-24/fed-treasury-credibility-questioned-by-markets-foley-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "10:05",
       "conflict_id": null,
       "score": 26.1
     },
@@ -690,20 +704,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-24-83446683",
-      "headline": "Is the EU ready to fight underwater threats? Ask the Euronews AI chatbot",
-      "summary": "Underwater sabotage and threats are challenging Europe's security. In June, the Commission proposed €325 billion for five defence projects, including one on maritime and seabed surveillance. But what is the EU’s strategy to ramp up maritme defence? Ask the Euronews AI chatbot.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/24/can-the-eu-fight-underwater-threats-ask-the-euronews-ai-chatbot",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "06:00",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-23-cc793284",
       "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
       "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
@@ -720,7 +720,7 @@
     {
       "id": "2026-08-23-472b4f6c",
       "headline": "Trump accused of risking more pain for Americans with Canada trade war",
-      "summary": "Collapse of talks threatens to raise prices even higher months before midterm election",
+      "summary": "Collapse of talks threatens to raise prices even higher months before midterm elections",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4?syn-25a6b1a6=1",
       "region": "NA",
@@ -772,20 +772,6 @@
       "time": "12:56",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-08-23-99b0c0b3",
-      "headline": "Burnham to visit Ukraine with promise of boost for Kyiv’s long-range missiles",
-      "summary": "PM will use independence day trip to announce sharing of classified information about Storm Shadow componentsBritain will boost Ukraine’s capacity to make its own long-range missiles, Andy Burnham will announce on Monday, as he travels to Kyiv for the country’s independence day on his first foreign visit as prime minister.Burnham will arrive in the Ukrainian capital on Monday morning at a crucial time in the war, with Kyiv braced for another wave",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/politics/2026/aug/24/andy-burnham-ukraine-long-range-missile-technology-kyiv-visit",
-      "region": "EU",
-      "country": "Britain",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "23:01",
-      "conflict_id": "ukraine-war",
-      "score": 52.0
     },
     {
       "id": "2026-08-23-7104cb84",
@@ -914,16 +900,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-23-4effc089",
-      "headline": "Stocks Fall as High-Stakes Week Gets Underway: Markets Wrap",
-      "summary": "Technology stocks dragged global equities lower in a risk-off start to a week stacked with high-stakes macro events and earnings. Oil fell, offering relief to bonds.",
+      "id": "2026-08-23-0f45fafd",
+      "headline": "Gold Advances to Three-Month High as Debasement Trade Returns",
+      "summary": "Gold climbed to the highest in more than three months as the US Treasury’s bold intervention in the bond market revived concerns about fiscal policy and its impact on the dollar.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/gold-holds-near-three-month-high-as-debasement-trade-returns",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-23",
-      "time": "22:10",
+      "time": "23:29",
       "conflict_id": null,
       "score": 26.1
     },
@@ -940,6 +926,20 @@
       "time": "22:17",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-08-23-53916bb0",
+      "headline": "Jeffries and Kushner Meet Privately as Midterm Attacks Fly",
+      "summary": "President Trump’s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-23",
+      "time": "15:07",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-08-22-0e1ea547",
@@ -1012,20 +1012,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-21-ea7bb0e6",
-      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "13:07",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-21-40537e14",
       "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
       "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
@@ -1038,6 +1024,20 @@
       "time": "15:58",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-21-0407fa6d",
+      "headline": "Hong Kong's Tiananmen activists convicted in national security trial",
+      "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c1l10mdrld5o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Hong Kong",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "05:47",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-08-21-3f795e94",
@@ -1120,6 +1120,20 @@
       "category": "geopolitics",
       "date": "2026-08-20",
       "time": "12:38",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-20-9f5ebd67",
+      "headline": "Israel confirms soldiers fired at car in which Hind Rajab was killed and opens criminal investigation",
+      "summary": "The five-year-old Palestinian girl initially survived the attack and pleaded for help but her body was recovered later with those of six of her relatives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crl7yjlpx2po?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "04:17",
       "conflict_id": null,
       "score": 35.0
     },
