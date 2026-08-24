@@ -6,22 +6,22 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "escalating",
+    "status_signal": "stable",
     "last_activity": "2026-08-24",
     "recent_headlines": [
       {
-        "headline": "New UK PM Andy Burnham to visit Kyiv on first foreign trip, reaffirms support to Ukraine",
-        "source": "Euronews",
-        "date": "2026-08-24"
-      },
-      {
-        "headline": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles - Europe live",
+        "headline": "Andy Burnham arrives in Ukraine with plans to share UK blueprints for long-range missiles – Europe live",
         "source": "The Guardian",
         "date": "2026-08-24"
       },
       {
         "headline": "Ukraine’s allies convene in Kyiv as Zelenskyy seeks air defence boost",
         "source": "Al Jazeera",
+        "date": "2026-08-24"
+      },
+      {
+        "headline": "Ukraine launches drone strikes on Russian e-commerce giant Ozon",
+        "source": "Euronews",
         "date": "2026-08-24"
       }
     ],
@@ -52,8 +52,13 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-08-21",
+    "last_activity": "2026-08-24",
     "recent_headlines": [
+      {
+        "headline": "E1 settlement: Why Netanyahu, Israel’s right might not mind global outrage",
+        "source": "Al Jazeera",
+        "date": "2026-08-24"
+      },
       {
         "headline": "Israel re-establishes closed West Bank settlement, defying growing international protests",
         "source": "BBC News",
@@ -61,11 +66,6 @@
       },
       {
         "headline": "How Israel is expanding settlements in drive to reshape West Bank",
-        "source": "BBC News",
-        "date": "2026-08-21"
-      },
-      {
-        "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
         "source": "BBC News",
         "date": "2026-08-21"
       }
@@ -131,11 +131,6 @@
     "last_activity": "2026-08-24",
     "recent_headlines": [
       {
-        "headline": "Landslide at landfill in Guinea kills 30 people, government says",
-        "source": "Euronews",
-        "date": "2026-08-24"
-      },
-      {
         "headline": "US widens AI-driven investment gap with Europe",
         "source": "Financial Times",
         "date": "2026-08-24"
@@ -144,6 +139,11 @@
         "headline": "India's hydropower push raises natural disaster fears in Kashmir",
         "source": "Nikkei Asia",
         "date": "2026-08-24"
+      },
+      {
+        "headline": "Landslide at waste mound in Guinea capital kills 30, government says",
+        "source": "The Guardian",
+        "date": "2026-08-23"
       }
     ],
     "timeline": [
@@ -169,13 +169,8 @@
     "auto_status": false,
     "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
     "status_signal": "stable",
-    "last_activity": "2026-08-24",
+    "last_activity": "2026-08-23",
     "recent_headlines": [
-      {
-        "headline": "Can an underwater attack disrupt the EU? Take our poll",
-        "source": "Euronews",
-        "date": "2026-08-24"
-      },
       {
         "headline": "An economic D-Day is coming for Iran",
         "source": "Financial Times",
