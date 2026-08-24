@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-24T13:34:33.774255+00:00",
-  "story_count": 86,
+  "updated": "2026-08-24T14:22:27.691993+00:00",
+  "story_count": 85,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-24-dc7ef320",
+      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "13:56",
+      "conflict_id": "israel-hamas",
+      "score": 63.0
+    },
     {
       "id": "2026-08-24-685d1ac9",
       "headline": "Ukraine hits Russia’s second-largest online retailer",
@@ -18,18 +32,18 @@
       "score": 62.4
     },
     {
-      "id": "2026-08-24-b792647b",
-      "headline": "US threatens Iran with 'economic D-Day' as markets await sanctions announcement",
-      "summary": "US Treasury Secretary Scott Bessent has announced the launch of what he calls an 'economic D-Day' against Iran, describing the campaign as the single greatest financial offensive ever directed at an adversary, with further details due later on Monday.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/24/us-threatens-iran-with-economic-d-day-as-markets-await-sanctions-announcement",
-      "region": "NA",
-      "country": "Iran",
+      "id": "2026-08-24-0ad743f5",
+      "headline": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
+      "summary": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 54.0
+      "time": "11:57",
+      "conflict_id": "israel-hamas",
+      "score": 59.4
     },
     {
       "id": "2026-08-24-9e175daa",
@@ -46,34 +60,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-08-24-0ad743f5",
-      "headline": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-      "summary": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "11:57",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
-      "id": "2026-08-24-d6b93ceb",
-      "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "09:47",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-08-24-d983b91e",
       "headline": "European allies back Ukraine as country marks Independence Day without US envoys",
       "summary": "European leaders joined Zelenskyy in Kyiv as Ukraine marked its fifth Independence Day since Russia launched its full-scale invasion in 2022. No delegates from the Trump administration were present as Witkoff and Kushner stayed away from ceremony.",
@@ -86,34 +72,6 @@
       "time": "12:31",
       "conflict_id": "ukraine-war",
       "score": 49.0
-    },
-    {
-      "id": "2026-08-24-d62725f7",
-      "headline": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credibleTehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.In advance of the US announcement, the United Arab Emirates, Iran’s sin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "11:53",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-08-24-fe626cc4",
-      "headline": "US threatens toughest sanctions yet against Iran: What we know",
-      "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "10:23",
-      "conflict_id": null,
-      "score": 47.4
     },
     {
       "id": "2026-08-24-e08b6bc3",
@@ -144,18 +102,32 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-24-88674859",
-      "headline": "New Zealand to introduce bill for under-16s social media ban",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "id": "2026-08-24-d6b93ceb",
+      "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "New Zealand",
-      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "12:17",
+      "time": "09:47",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-08-24-b06a41cf",
+      "headline": "Trump says US to increase tariffs on Canadian cars to 50%",
+      "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "13:55",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-08-24-43333b12",
@@ -186,6 +158,48 @@
       "score": 41.2
     },
     {
+      "id": "2026-08-24-d62725f7",
+      "headline": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credibleTehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.In advance of the US announcement, the United Arab Emirates, Iran’s sin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "11:53",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-08-24-fe626cc4",
+      "headline": "US threatens toughest sanctions yet against Iran: What we know",
+      "summary": "Tehran has threatened to retaliate against any country that joins new US economic measures.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-threatens-toughest-sanctions-yet-against-iran-what-we-know?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "10:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-08-24-88674859",
+      "headline": "New Zealand to introduce bill for under-16s social media ban",
+      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "New Zealand",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "12:17",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-24-fb928c3d",
       "headline": "Guinea rubbish landfill collapse kills 31",
       "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
@@ -214,32 +228,32 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-24-928372a3",
-      "headline": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
+      "id": "2026-08-24-ebf70130",
+      "headline": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
+      "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "10:05",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-24-5e398718",
+      "headline": "Warsh seeks to reassure investors as US economic strains worsen",
       "summary": "Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
-      "region": "EU",
+      "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-24",
       "time": "06:35",
       "conflict_id": null,
       "score": 34.4
-    },
-    {
-      "id": "2026-08-24-1d981dea",
-      "headline": "Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation",
-      "summary": "Two things are clear as stocks enter the most consequential week of summer: this market no longer trades on AI alone, and bond volatility has proved that catalysts are definitely not confined to the upside.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/nvidia-and-warsh-will-test-a-stock-market-that-s-in-mid-rotation",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "06:15",
-      "conflict_id": null,
-      "score": 34.1
     },
     {
       "id": "2026-08-24-c3b712c0",
@@ -252,6 +266,20 @@
       "category": "business",
       "date": "2026-08-24",
       "time": "09:22",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-24-1d981dea",
+      "headline": "Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation",
+      "summary": "Two things are clear as stocks enter the most consequential week of summer: this market no longer trades on AI alone, and bond volatility has proved that catalysts are definitely not confined to the upside.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/nvidia-and-warsh-will-test-a-stock-market-that-s-in-mid-rotation",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "06:15",
       "conflict_id": null,
       "score": 34.1
     },
@@ -270,6 +298,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-08-24-449f27e1",
+      "headline": "With Trump Against Him, Can Ralph Norman Win in South Carolina?",
+      "summary": "The ultraconservative congressman who has broken with the president on spending is hoping voters reward his experience, contrarian streak and all.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/ralph-norman-trump-south-carolina.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "14:06",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-08-24-2067ea72",
       "headline": "New Zealand to consider banning children under 16 from social media",
       "summary": "Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of childrenNew Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that ⁠seeks to ban children ⁠under ​16 from using social media, proposing fines of up to 10% of a platform’s global revenue for non-compliance.The bill would ⁠require social media platforms to take reasonable steps to verify users’ age",
@@ -284,16 +326,16 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-24-eca077b6",
-      "headline": "Guests joked Alan Jones and alleged victim looked ‘like a great couple’ at luncheon, court hears",
-      "summary": "Radio host’s indecent assault and sexual touching trial enters fourth week, with shock jock Jason Morrison telling court complainant C appeared ‘stuck’ beside JonesFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastFellow shock jock Jason Morrison has told the Alan Jones trial that guests at a luncheon hosted by the 2GB breakfast presenter were joking that Jones and a young staffer “lo",
+      "id": "2026-08-24-8f0b9016",
+      "headline": "Albanese seeks to quell datacentre disquiet as climate expert warns ‘we’ve got one shot to get the rules right’",
+      "summary": "Prime minister will use national cabinet meeting to assuage premiers over new AI law as AEMO forecasts seven-fold rise in datacentre power useGet our breaking news email, free app or daily news podcastAnthony Albanese will seek to use Wednesday’s high-stakes talks with premiers to quell growing unhappiness about national controls on datacentre developments, promising new approval laws will complement state rules.Faced with growing opposition from",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/aug/24/alan-jones-trial-jason-morrison-2gb-ntwnfb",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/25/albanese-seeks-to-quell-datacentre-disquiet-as-climate-expert-warns-weve-got-one-shot-to-get-the-rules-right",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
       "date": "2026-08-24",
-      "time": "05:28",
+      "time": "14:01",
       "conflict_id": null,
       "score": 32.0
     },
@@ -354,20 +396,6 @@
       "score": 29.0
     },
     {
-      "id": "2026-08-24-31528284",
-      "headline": "New Zealand's government introduces legislation to ban social media for under-16s",
-      "summary": "Under the proposed law, firms like Meta could be fined up to 10% of their global revenue if they fail to comply.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/24/new-zealands-government-introduces-legislation-to-ban-social-media-for-under-16s",
-      "region": "APJ",
-      "country": "New Zealand",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "09:27",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
       "id": "2026-08-24-4de76c18",
       "headline": "Nearly three million Teslas recalled in China over hidden door handles",
       "summary": "Other brands affected by the recall include Chinese carmakers XPeng, Xiaomi and Geely.",
@@ -391,7 +419,7 @@
       "country": "Chile",
       "category": "politics",
       "date": "2026-08-24",
-      "time": "11:17",
+      "time": "14:02",
       "conflict_id": null,
       "score": 27.0
     },
@@ -466,20 +494,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-24-4f13b2d1",
-      "headline": "Guggenheim’s Walsh Says Accounting at GPI Unit Was ‘Appropriate’",
-      "summary": "Guggenheim Partners is working with regulators as they probe a business accounting issue at one of its subsidiaries, according to Anne Walsh, chief investment officer of the firm’s asset-management business.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/guggenheim-s-walsh-says-accounting-at-gpi-unit-was-appropriate",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "13:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-24-444795a8",
       "headline": "European Stocks Steady as Investor Focus Shifts to Economic Data",
       "summary": "European stocks were steady, with the macro outlook back in focus as traders looked to data for clues about the health of the region’s economy.",
@@ -518,20 +532,6 @@
       "category": "business",
       "date": "2026-08-24",
       "time": "11:26",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-24-ed4c359d",
-      "headline": "Lula’s Lead Over Bolsonaro Shrinks as Campaign Opens, Poll Shows",
-      "summary": "President Luiz Inácio Lula da Silva’s lead over conservative challenger Flávio Bolsonaro shrank as official campaigning officially began for October’s election, a new poll showed.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/lula-s-lead-over-bolsonaro-shrinks-as-campaign-opens-poll-shows",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "11:44",
       "conflict_id": null,
       "score": 26.1
     },
@@ -578,16 +578,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-24-17feabb1",
-      "headline": "Woman stranded in Spain after UK’s eVisa system mistakes her for twin sister",
-      "summary": "Nidia Webb, who is legally settled in UK, falls foul of ‘known issue’ with Home Office’s digitised immigration processA woman who is legally settled in the UK was left stranded at a Spanish airport after the Home Office’s post-Brexit visa system mixed her up with her twin sister.Nidia Webb fell foul of what she was told was a “known issue” with the eVisa, which was brought in as part of the government’s drive to digitise the UK’s immigration syst",
+      "id": "2026-08-24-b4f76adf",
+      "headline": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
+      "summary": "World’s largest streaming services have also increased subscription costs repeatedly in US, research findsBusiness live – latest updatesSubscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have faced higher price increases than in any other market in recent years, according to research.Over the past four years the world’s largest subscription video streaming services have dramatically changed their business models introducing ",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/uk-news/2026/aug/24/woman-stranded-spain-uk-evisa-system-mistakes-twin-sister",
+      "url": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
       "region": "EU",
-      "country": "Spain",
-      "category": "politics",
+      "country": "Europe",
+      "category": "business",
       "date": "2026-08-24",
-      "time": "07:57",
+      "time": "13:45",
       "conflict_id": null,
       "score": 24.0
     },
@@ -718,16 +718,30 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-24-55f32744",
-      "headline": "French election 2027: Poll puts Mélenchon in contention for run-off",
-      "summary": "Eight months before the presidential election, Jean-Luc Mélenchon is surging in the polls. The LFI leader could now reach the run-off, while the left is split between his bid and the alternative championed by Raphaël Glucksmann.",
+      "id": "2026-08-24-9ceb92f6",
+      "headline": "As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?",
+      "summary": "Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight.",
       "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/24/french-election-2027-poll-puts-melenchon-in-contention-for-run-off",
+      "url": "http://www.euronews.com/my-europe/2026/08/24/as-bitcoin-soars-people-ask-who-is-giancarlo-devasini-italys-richest-man",
+      "region": "EU",
+      "country": "Italy",
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "14:10",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-24-d5e66b83",
+      "headline": "Macron confirms school mobile phone ban effective from new term",
+      "summary": "The ban on mobile phones in secondary schools \"could take effect from the start of term next week\", government spokesperson Maud Bregeon announced.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/next/2026/08/24/macron-confirms-school-mobile-phone-ban-effective-from-new-term",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-08-24",
-      "time": "12:45",
+      "time": "14:03",
       "conflict_id": null,
       "score": 21.0
     },
@@ -746,48 +760,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-24-362ea3c7",
-      "headline": "Dolly Parton shares health update and considers ‘avatar performances’ in future",
-      "summary": "The 80-year-old country legend has shared an update on her health after being forced to cancel her Vegas residency. She has also said she is considering “avatar performances” in the future...",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/08/24/dolly-parton-shares-health-update-and-considers-avatar-performances-in-future",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "10:59",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-23-cc793284",
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "19:11",
-      "conflict_id": null,
-      "score": 67.0
-    },
-    {
-      "id": "2026-08-23-472b4f6c",
-      "headline": "Trump accused of risking more pain for Americans with Canada trade war",
-      "summary": "Collapse of talks threatens to raise prices even higher months before midterm elections",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/39baf33e-3238-4923-9fe9-f1db48bb54e4?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "17:28",
-      "conflict_id": null,
-      "score": 66.4
-    },
-    {
       "id": "2026-08-23-483856f6",
       "headline": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
       "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade warThe calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicat",
@@ -802,18 +774,18 @@
       "score": 64.0
     },
     {
-      "id": "2026-08-23-94f70d98",
-      "headline": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants th",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "id": "2026-08-23-cc793284",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Washington",
+      "country": "Canada",
       "category": "business",
       "date": "2026-08-23",
-      "time": "19:32",
+      "time": "19:11",
       "conflict_id": null,
-      "score": 56.0
+      "score": 59.0
     },
     {
       "id": "2026-08-23-1fd907fc",
@@ -830,32 +802,18 @@
       "score": 55.0
     },
     {
-      "id": "2026-08-23-7104cb84",
-      "headline": "An economic D-Day is coming for Iran",
-      "summary": "Countries that calculate appeasement of the regime to be a safer choice should reconsider",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/cb865200-1a06-40be-86a3-10ee2bb05804",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "21:30",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
-      "id": "2026-08-23-09b3968f",
-      "headline": "Stocks Fall at Start of Busy Week on Wall Street: Markets Wrap",
-      "summary": "Wall Street kicked off the week on a cautious note, with stocks falling as traders awaited details of US sanctions against Iran while gearing up for Nvidia Corp.’s results and Federal Reserve Chair Kevin Warsh’s speech.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-23/stock-market-today-dow-s-p-live-updates",
+      "id": "2026-08-23-94f70d98",
+      "headline": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants th",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
       "region": "NA",
-      "country": "Iran",
+      "country": "Washington",
       "category": "business",
       "date": "2026-08-23",
-      "time": "22:10",
+      "time": "19:32",
       "conflict_id": null,
-      "score": 42.1
+      "score": 48.0
     },
     {
       "id": "2026-08-23-a69d3627",
@@ -970,6 +928,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-23-f9563653",
+      "headline": "China will struggle to make money from humanoid robots",
+      "summary": "It is ahead of rivals and training up thousands, but profits are a long way off",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-23",
+      "time": "13:52",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
       "id": "2026-08-22-0e1ea547",
       "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
@@ -995,7 +967,7 @@
       "date": "2026-08-22",
       "time": "14:04",
       "conflict_id": null,
-      "score": 32.0
+      "score": 40.0
     },
     {
       "id": "2026-08-21-63f25b94",
@@ -1068,6 +1040,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-21-6fa9d2bf",
+      "headline": "US sanctions more Cuban companies and officials",
+      "summary": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "02:06",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-21-0407fa6d",
       "headline": "Hong Kong's Tiananmen activists convicted in national security trial",
       "summary": "Three activists were accused of inciting others to subvert state power under the China-introduced law.",
@@ -1135,7 +1121,7 @@
       "date": "2026-08-20",
       "time": "19:52",
       "conflict_id": null,
-      "score": 43.0
+      "score": 51.0
     },
     {
       "id": "2026-08-20-e75087ee",
