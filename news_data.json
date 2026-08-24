@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-24T18:02:36.806583+00:00",
+  "updated": "2026-08-24T18:55:42.658860+00:00",
   "story_count": 79,
   "source_count": 9,
   "stories": [
-    {
-      "id": "2026-08-24-dc7ef320",
-      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "13:56",
-      "conflict_id": "israel-hamas",
-      "score": 63.0
-    },
     {
       "id": "2026-08-24-685d1ac9",
       "headline": "Ukraine hits Russia’s second-largest online retailer",
@@ -46,20 +32,6 @@
       "score": 59.4
     },
     {
-      "id": "2026-08-24-0ad743f5",
-      "headline": "Israel accused of using kites as pretext to justify escalating Gaza attacks",
-      "summary": "Israel has threatened Palestinian groups against launching &#039;kites, drones, and balloons&#039; from the war-torn enclave.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/israel-accused-of-using-kites-as-pretext-to-justify-escalating-gaza-attacks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "11:57",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
-    },
-    {
       "id": "2026-08-24-b06a41cf",
       "headline": "Trump says US to increase tariffs on Canadian cars to 50%",
       "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
@@ -74,16 +46,16 @@
       "score": 58.4
     },
     {
-      "id": "2026-08-24-cf3eee09",
-      "headline": "Scott Bessent threatens wider US sanctions on Iran’s economic partners",
-      "summary": "Treasury secretary warns of further measures in bid to increase pressure on Tehran",
+      "id": "2026-08-24-e81ff1e7",
+      "headline": "Scott Bessent threatens more US sanctions on Iran’s economic partners",
+      "summary": "Treasury secretary’s announcement stops short of sweeping immediate action on China and other countries",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
-      "region": "MENA",
-      "country": "Tehran",
+      "region": "NA",
+      "country": "China",
       "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "17:30",
+      "time": "18:21",
       "conflict_id": null,
       "score": 58.4
     },
@@ -116,6 +88,20 @@
       "score": 57.0
     },
     {
+      "id": "2026-08-24-dc7ef320",
+      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "13:56",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
+    },
+    {
       "id": "2026-08-24-be8edcd9",
       "headline": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
       "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
@@ -144,6 +130,34 @@
       "score": 54.0
     },
     {
+      "id": "2026-08-24-88b28053",
+      "headline": "UK to use Ukraine battlefield data to train AI to protect sensitive sites",
+      "summary": "London and Kyiv in deal to help stop protesters and hostile states targeting military bases and critical infrastructureAI models trained on Ukrainian battlefield data will be used to stop protesters and foreign states targeting UK defence sites, railways and energy plants under a deal struck between London and Kyiv.Private companies will also be given access to the vast trove of data from Ukraine’s Avengers AI lab to help build new systems, the f",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/2026/aug/24/uk-to-use-ukraine-battlefield-data-to-train-ai-to-protect-sensitive-sites",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "18:16",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
+    },
+    {
+      "id": "2026-08-24-d6b93ceb",
+      "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "09:47",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-08-24-59927fa4",
       "headline": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
       "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’Here’s the full quote from Kremlin’s Peskov, via AFP:“Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
@@ -156,20 +170,6 @@
       "time": "16:46",
       "conflict_id": null,
       "score": 48.0
-    },
-    {
-      "id": "2026-08-24-cfa35fda",
-      "headline": "Trump administration announces ‘economic D-day’ sanctions on Iran",
-      "summary": "Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "17:10",
-      "conflict_id": null,
-      "score": 47.4
     },
     {
       "id": "2026-08-24-008db638",
@@ -214,32 +214,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-24-0d0a9e25",
-      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "10:40",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-08-24-d6b93ceb",
-      "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-24-e7ec8cfe",
+      "headline": "USD/CAD rises as US-Canada trade talks fall through",
+      "summary": "Canada’s currency tumbled against the US dollar by the most in two months after President Donald Trump escalated his trade war with the country by vowing to double tariffs on auto imports.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-dollar-tumbles-as-trade-rift-threatens-growth-outlook",
       "region": "NA",
       "country": "Canada",
-      "category": "geopolitics",
+      "category": "business",
       "date": "2026-08-24",
-      "time": "09:47",
+      "time": "10:57",
       "conflict_id": null,
-      "score": 43.0
+      "score": 42.1
     },
     {
       "id": "2026-08-24-8114f456",
@@ -254,6 +240,34 @@
       "time": "17:07",
       "conflict_id": "ukraine-war",
       "score": 41.0
+    },
+    {
+      "id": "2026-08-24-8d7008eb",
+      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from disputeAre you a Canadian boycotting US products? We’d like to hear from youMark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "18:22",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-08-24-cfa35fda",
+      "headline": "Trump administration announces ‘economic D-day’ sanctions on Iran",
+      "summary": "Treasury Secretary Scott Bessent says US sanctions will intensify to choke off Iran&#039;s revenues and isolate the country.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/trump-administration-announces-global-economic-war-on-iran?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "17:10",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-08-24-88674859",
@@ -312,32 +326,18 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-24-5e398718",
-      "headline": "Warsh seeks to reassure investors as US economic strains worsen",
-      "summary": "Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
+      "id": "2026-08-24-821f3356",
+      "headline": "Clearlake-Backed Software Maker Ivanti’s Earnings Sink 21%",
+      "summary": "Ivanti Inc. told lenders that second-quarter revenue and earnings fell, casting a cloud over the private equity-backed cybersecurity software firm’s efforts to boost sales following its transition to a subscription-based business model.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/clearlake-backed-software-maker-ivanti-s-earnings-sink-21",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-24",
-      "time": "06:35",
+      "time": "18:30",
       "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-08-24-373a5daf",
-      "headline": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
-      "summary": "British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 34.4
+      "score": 34.1
     },
     {
       "id": "2026-08-24-c3b712c0",
@@ -350,20 +350,6 @@
       "category": "business",
       "date": "2026-08-24",
       "time": "09:22",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-24-c693da7d",
-      "headline": "US Economy Can Keep Growing Despite Higher Rates, Says House",
-      "summary": "Wells Fargo’s Sarah House says Chair Kevin Warsh may use Jackson Hole to focus on longer-term questions facing the Federal Reserve rather than signal the next move on interest rates. She also discusses alternative economic data, the Fed balance sheet, Treasury yields and why the U.S. economy continues to show resilience. House speaks with Bloomberg's Tom Keene and Paul Sweeney on Surveillance Radio. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-24/house-us-economy-can-keep-growing-despite-higher-rates-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "15:22",
       "conflict_id": null,
       "score": 34.1
     },
@@ -406,20 +392,6 @@
       "category": "politics",
       "date": "2026-08-24",
       "time": "14:01",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-08-24-cbd05ba2",
-      "headline": "‘Fix that little spot’: Danish PM receives beauty tips even when in a war zone",
-      "summary": "Mette Frederiksen, who was attending meeting in Kyiv, advises high-profile women to embrace self-acceptanceSick of getting unsolicited beauty tips on social media, even while she’s in a war zone, Danish prime minister Mette Frederiksen rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance.Frederiksen, a Social Democrat and Denmark’s second female prime minister, posted on Instagra",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
-      "region": "EU",
-      "country": "Denmark",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "16:59",
       "conflict_id": null,
       "score": 32.0
     },
@@ -536,6 +508,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-24-6a18a05d",
+      "headline": "Treasury market interventions are only a band-aid",
+      "summary": "Bessent’s moves on the yen and long-dated bonds do little to assuage markets long-term",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d6c9e705-ef30-4896-880b-8e88941e0f58?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "17:16",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
       "id": "2026-08-24-3eea9140",
       "headline": "Lula’s Lead Over Bolsonaro Shrinks as Brazil Campaign Opens",
       "summary": "President Luiz Inácio Lula da Silva’s advantage over Flávio Bolsonaro narrowed to 1 point as official campaigning began, with the conservative challenger stepping up criticism of Brazil’s mounting debt problems in a bid to close the gap.",
@@ -564,22 +550,8 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-24-444795a8",
-      "headline": "European Stocks Steady as Investor Focus Shifts to Economic Data",
-      "summary": "European stocks were steady at the start of the week amid thin volumes, with traders looking to data for clues about the health of the region’s economy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/european-stocks-steady-as-investor-focus-shifts-to-economic-data",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "07:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-24-2b75930a",
-      "headline": "Trump Lays It on the Line for Darline Graham",
+      "id": "2026-08-24-ddcfd3b5",
+      "headline": "Trump Lays It on the Line for Darline Graham Ahead of South Carolina Runoff",
       "summary": "The president rallied for the sister of Lindsey Graham in her Senate run in South Carolina and pressured other allies to endorse her. A super PAC run by his advisers weighed in. Will it be enough?",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-graham-south-carolina-endorsement.html",
@@ -587,7 +559,7 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-08-24",
-      "time": "17:41",
+      "time": "17:59",
       "conflict_id": null,
       "score": 25.2
     },
@@ -620,30 +592,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-24-9562b837",
-      "headline": "Trump’s Summer of Fun Ends With IndyCar Race on Streets of D.C.",
-      "summary": "It was the final, major event planned for the nation’s 250th anniversary celebrations. The president took a lap.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/23/us/politics/trump-indycar-race-dc-america-250.html",
-      "region": "NA",
-      "country": "Trump",
+      "id": "2026-08-24-1fb5d817",
+      "headline": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
+      "summary": "Mette Frederiksen, who received message on returning from Ukraine, advises  women to embrace self-acceptanceSick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen, rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance.Frederiksen, a Social Democrat and Denmark’s second female prime minister, posted on Instagram that she had just retur",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/24/danish-pm-mette-frederiksen-beauty-tips-kyiv",
+      "region": "EU",
+      "country": "Denmark",
       "category": "politics",
       "date": "2026-08-24",
-      "time": "08:15",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-24-b4f76adf",
-      "headline": "Netflix, Disney+ and Amazon price rises in western Europe ‘highest in world’",
-      "summary": "World’s largest streaming services have also increased subscription costs repeatedly in US, research findsBusiness live – latest updatesSubscribers to Netflix, Disney+ and Amazon Prime Video in western Europe have faced higher price increases than in any other market in recent years, according to research.Over the past four years the world’s largest subscription video streaming services have dramatically changed their business models introducing ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/aug/24/netflix-disney-amazon-prime-video-price-rises-western-europe-us",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "13:45",
+      "time": "16:59",
       "conflict_id": null,
       "score": 24.0
     },
@@ -771,7 +729,7 @@
       "date": "2026-08-23",
       "time": "19:11",
       "conflict_id": null,
-      "score": 67.0
+      "score": 68.0
     },
     {
       "id": "2026-08-23-94f70d98",
@@ -785,7 +743,7 @@
       "date": "2026-08-23",
       "time": "19:32",
       "conflict_id": null,
-      "score": 56.0
+      "score": 64.0
     },
     {
       "id": "2026-08-23-483856f6",
@@ -900,6 +858,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-23-4933a6ae",
+      "headline": "Latest Oil Market News and Analysis for Aug. 24",
+      "summary": "Oil held its decline after US Treasury Secretary Scott Bessent announced what he called an “unprecedented” campaign to isolate Iran from the global economy, as the US seeks to pressure Tehran to loosen its grip on the Strait of Hormuz.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-23/latest-oil-market-news-and-analysis-for-aug-24",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "business",
+      "date": "2026-08-23",
+      "time": "22:03",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-23-f9563653",
       "headline": "China will struggle to make money from humanoid robots",
       "summary": "It is ahead of rivals and training up thousands, but profits are a long way off",
@@ -981,6 +953,20 @@
       "date": "2026-08-21",
       "time": "02:06",
       "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-21-40537e14",
+      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
+      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "15:58",
+      "conflict_id": null,
       "score": 35.0
     },
     {
@@ -1052,6 +1038,20 @@
       "time": "19:52",
       "conflict_id": null,
       "score": 59.0
+    },
+    {
+      "id": "2026-08-20-f3f9e1da",
+      "headline": "Assad officer extradited to Syria on war crimes charges for first time",
+      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Lebanon",
+      "category": "geopolitics",
+      "date": "2026-08-20",
+      "time": "12:38",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-20-e75087ee",
