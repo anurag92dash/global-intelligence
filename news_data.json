@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-24T19:20:32.257969+00:00",
-  "story_count": 79,
+  "updated": "2026-08-24T19:49:52.461316+00:00",
+  "story_count": 78,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-08-24-dc7ef320",
+      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
+      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "13:56",
+      "conflict_id": "israel-hamas",
+      "score": 63.0
+    },
     {
       "id": "2026-08-24-685d1ac9",
       "headline": "Ukraine hits Russia’s second-largest online retailer",
@@ -41,23 +55,37 @@
       "country": "Washington",
       "category": "business",
       "date": "2026-08-24",
-      "time": "17:53",
+      "time": "19:37",
       "conflict_id": null,
       "score": 59.4
     },
     {
-      "id": "2026-08-24-e81ff1e7",
-      "headline": "Scott Bessent threatens more US sanctions on Iran’s economic partners",
-      "summary": "Treasury secretary’s announcement stops short of sweeping immediate action on China and other countries",
+      "id": "2026-08-24-9cd81c58",
+      "headline": "Scott Bessent warns Iran’s partners of sanctions but offers no timeline",
+      "summary": "US Treasury secretary had billed announcement as ‘D Day’ for Tehran but stopped short of sweeping action",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/67c74e64-5c37-4a5d-ae6c-d3c002f99628?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "China",
+      "region": "MENA",
+      "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "18:21",
+      "time": "19:12",
       "conflict_id": null,
       "score": 58.4
+    },
+    {
+      "id": "2026-08-24-e877ae91",
+      "headline": "US Tells Iran’s Trade Partners to Cut Ties or Face Sanctions",
+      "summary": "Vali Nasr, professor of international affairs & Middle East studies at Johns Hopkins University, said that he sees the declaration of new sanctions on Iran and its allies as a 'theatrical declaration' and less of a concrete move by the United States. Nasr said that the pressure on Iran's allies could potentially invite Chinese retaliation, which would widen the war 'out of the gulf and into the financial markets.'  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/us-tells-iran-s-allies-to-cut-ties-or-face-sanctions-video",
+      "region": "NA",
+      "country": "United States",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "19:15",
+      "conflict_id": null,
+      "score": 58.1
     },
     {
       "id": "2026-08-24-86b3ff9b",
@@ -72,20 +100,6 @@
       "time": "15:31",
       "conflict_id": "ukraine-war",
       "score": 57.0
-    },
-    {
-      "id": "2026-08-24-dc7ef320",
-      "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
-      "summary": "Hamas says the kites found in Israeli border communities in recent days were launched by children in Gaza.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5y58g2dp3xo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "13:56",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
     },
     {
       "id": "2026-08-24-be8edcd9",
@@ -144,18 +158,32 @@
       "score": 51.0
     },
     {
-      "id": "2026-08-24-59927fa4",
-      "headline": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
-      "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’Here’s the full quote from Kremlin’s Peskov, via AFP:“Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
-      "region": "EU",
-      "country": "Britain",
+      "id": "2026-08-24-32ce9781",
+      "headline": "Trump Vows to Double Canadian Auto Tariffs, Escalating Fight",
+      "summary": "Bloomberg's Melissa Shin said that negotiators in both Canada and the United States understand how important the auto sector is both countries as President Trump vowed to double existing tariffs on the Canadian auto industry. Shin said that the broader tariffs stand to impact an estimated 90,000 jobs and disproportionately small businesses that may not see as much government support.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/trump-vows-to-double-canadian-auto-tariffs-video",
+      "region": "NA",
+      "country": "United States",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "19:44",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-08-24-e96847fb",
+      "headline": "U.S. Unveils Campaign to Cripple Iran’s Economy, but Offers Few Details",
+      "summary": "Treasury Secretary Scott Bessent acknowledged the effort was more of a warning shot that would begin a period of “quiet diplomacy.”",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
+      "region": "MENA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "16:46",
+      "time": "19:07",
       "conflict_id": null,
-      "score": 48.0
+      "score": 49.2
     },
     {
       "id": "2026-08-24-008db638",
@@ -169,7 +197,21 @@
       "date": "2026-08-24",
       "time": "15:50",
       "conflict_id": null,
-      "score": 47.4
+      "score": 48.4
+    },
+    {
+      "id": "2026-08-24-59927fa4",
+      "headline": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
+      "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’Here’s the full quote from Kremlin’s Peskov, via AFP:“Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/24/europe-ukraine-russia-war-kyiv-andy-burnham-volodymyr-zelenskyy-latest-news-updates",
+      "region": "EU",
+      "country": "Britain",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "16:46",
+      "conflict_id": null,
+      "score": 48.0
     },
     {
       "id": "2026-08-24-109d1ba5",
@@ -214,20 +256,6 @@
       "score": 42.1
     },
     {
-      "id": "2026-08-24-e96847fb",
-      "headline": "U.S. Unveils Campaign to Cripple Iran’s Economy, but Offers Few Details",
-      "summary": "Treasury Secretary Scott Bessent acknowledged the effort was more of a warning shot that would begin a period of “quiet diplomacy.”",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "19:07",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
       "id": "2026-08-24-8114f456",
       "headline": "UK to share SCALP missile blueprints with Ukraine as Coalition of the Willing meets in Kyiv",
       "summary": "Britain will share technical information on the SCALP cruise missile with Ukraine, bringing Kyiv closer to producing the long-range strike weapon at home. Ukraine is still seeking US approval to manufacture Patriot interceptors.",
@@ -268,6 +296,48 @@
       "time": "18:22",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-08-24-c966cfb6",
+      "headline": "What to expect as Iran braces for new US economic measures amid war",
+      "summary": "Tehran may count on links with China and others to weather the storm, but average Iranian people will bear the brunt.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/what-to-expect-as-iran-braces-for-new-us-economic-measures-amid-war?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "16:02",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-08-24-a516cd1c",
+      "headline": "US Treasury Secretary launches 'Operation Economic Outcast' aimed at isolating Iran",
+      "summary": "\"Any entity that facilitates money laundering on behalf of Iran will be removed from the US dollar system,\" US Treasury Secretary Scott Bessent said on Monday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/24/us-launches-operation-economic-outcast-as-washington-targets-irans-enablers",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "19:11",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-24-9b5d30b4",
+      "headline": "Iran faces 'greatest financial offensive ever', says US treasury secretary",
+      "summary": "Scott Bessent says the US will sever all economic ties with the country and that any nation partnering with Iran financially will also be isolated.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "19:12",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-24-88674859",
@@ -324,20 +394,6 @@
       "time": "10:05",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-24-373a5daf",
-      "headline": "US plans nuclear-powered merchant fleet to challenge China’s shipbuilding dominance",
-      "summary": "British company Core Power plans its first vessel in 2028 following partnership deal with Trump administration",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/bb60f5f1-bf4c-439e-b78b-3b018062c400?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-08-24-821f3356",
@@ -522,30 +578,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-24-3eea9140",
-      "headline": "Lula’s Lead Over Bolsonaro Shrinks as Brazil Campaign Opens",
-      "summary": "President Luiz Inácio Lula da Silva’s advantage over Flávio Bolsonaro narrowed to 1 point as official campaigning began, with the conservative challenger stepping up criticism of Brazil’s mounting debt problems in a bid to close the gap.",
+      "id": "2026-08-24-e20a0769",
+      "headline": "Goldman M&A, NHL Futures | ETF IQ 8/24/2026",
+      "summary": "\"Bloomberg ETF IQ\" focuses on the opportunities, risks and current trends tied to the trillions of dollars in the global exchange traded funds industry. Today's guests: Byron Lake, Goldman Sachs Asset Management Global Co-Head of Third-Party Wealth, Troy Cates, NEOS Co-Founder, Frances Newton, Tuttle Capital Management CIO, Carlos Pena, Texas Capital Head of ETF and Funds Management, and Nick Samouilhan, Wellington Portfolio Manager. (Source: Blo",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/lula-s-lead-over-bolsonaro-shrinks-as-campaign-opens-poll-shows",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "11:44",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-24-fa6c792f",
-      "headline": "Pimco Wins Big From Betting on Colombia While Other Funds Fled",
-      "summary": "Pacific Investment Management Co. is now the dominant foreign player in Colombia’s local debt market after a buying spree that more than offset outflows by other overseas investors.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/pimco-wins-big-from-betting-on-colombia-while-other-funds-fled",
-      "region": "SA",
-      "country": "Colombia",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/etf-iq-8-24-2026-video",
+      "region": "EU",
+      "country": "France",
       "category": "business",
       "date": "2026-08-24",
-      "time": "16:04",
+      "time": "19:20",
       "conflict_id": null,
       "score": 26.1
     },
@@ -559,7 +601,7 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-08-24",
-      "time": "19:06",
+      "time": "19:22",
       "conflict_id": null,
       "score": 25.2
     },
@@ -578,20 +620,6 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-24-660577cd",
-      "headline": "As Democrats Struggle in Some Western States, Independents See an Opening",
-      "summary": "From South Dakota to Alaska, independents are challenging incumbent Republicans and eschewing a Democratic label that Western voters find toxic.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "09:00",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-08-24-1fb5d817",
       "headline": "‘Fix that little spot’: Danish PM hits back at unsolicited beauty tip from cosmetic surgeon",
       "summary": "Mette Frederiksen, who received message on returning from Ukraine, advises  women to embrace self-acceptanceSick of getting unsolicited beauty tips on social media, the Danish prime minister, Mette Frederiksen, rebuffed a male cosmetic surgeon’s offer to “fix” her and advised women in similar situations to embrace self-acceptance.Frederiksen, a Social Democrat and Denmark’s second female prime minister, posted on Instagram that she had just retur",
@@ -604,20 +632,6 @@
       "time": "16:59",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-08-24-11e641c6",
-      "headline": "Saudi Arabia’s MBS visits Macron in France: What to expect",
-      "summary": "Saudi crown prince and French president are set to sign several agreements on health, transport and energy.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/24/saudi-arabias-mbs-visits-macron-in-france-what-to-expect?traffic_source=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "12:59",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-08-24-5e819a38",
@@ -714,6 +728,20 @@
       "category": "business",
       "date": "2026-08-24",
       "time": "14:10",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-24-d5e66b83",
+      "headline": "Macron confirms school mobile phone ban effective from new term",
+      "summary": "The ban on mobile phones in secondary schools \"could take effect from the start of term next week\", government spokesperson Maud Bregeon announced.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/next/2026/08/24/macron-confirms-school-mobile-phone-ban-effective-from-new-term",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "14:03",
       "conflict_id": null,
       "score": 21.0
     },
@@ -953,20 +981,6 @@
       "date": "2026-08-21",
       "time": "02:06",
       "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-08-21-40537e14",
-      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "15:58",
-      "conflict_id": null,
       "score": 35.0
     },
     {
@@ -1038,34 +1052,6 @@
       "time": "19:52",
       "conflict_id": null,
       "score": 59.0
-    },
-    {
-      "id": "2026-08-20-f3f9e1da",
-      "headline": "Assad officer extradited to Syria on war crimes charges for first time",
-      "summary": "Lebanon handed over former General Adel Issa, as Syria steps up its pursuit of wanted members of the former regime.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgjdy8q766o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "12:38",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-20-e75087ee",
-      "headline": "Ecuador intelligence chief and five Americans killed in Kenya helicopter crash",
-      "summary": "Michele Sensi-Contugi and his wife Stephany Hollihan are among the seven people killed in the crash.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clylkv4z59vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "10:41",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-20-5efa59fe",
