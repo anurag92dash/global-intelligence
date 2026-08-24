@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-24T14:22:27.691993+00:00",
-  "story_count": 85,
-  "source_count": 10,
+  "updated": "2026-08-24T15:05:53.993081+00:00",
+  "story_count": 80,
+  "source_count": 9,
   "stories": [
+    {
+      "id": "2026-08-24-205d3d39",
+      "headline": "Canadian Stocks Whipsaw After US Trade Talks Break Down",
+      "summary": "Canadian stocks flipped between gains and losses at Monday’s open after the collapse of talks with the US unleashed what threatens to become a widening trade war, with Prime Minister Mark Carney recalling his negotiators from Washington.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
+      "region": "NA",
+      "country": "Washington",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "14:20",
+      "conflict_id": null,
+      "score": 66.1
+    },
     {
       "id": "2026-08-24-dc7ef320",
       "headline": "Israel warns of 'forceful' response to kites flown from Gaza",
@@ -60,6 +74,48 @@
       "score": 52.0
     },
     {
+      "id": "2026-08-24-b06a41cf",
+      "headline": "Trump says US to increase tariffs on Canadian cars to 50%",
+      "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "13:55",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-08-24-73dc5a73",
+      "headline": "US-Canada Tariff War Escalates After Collapse of Talks",
+      "summary": "Brian Gardner, chief Washington policy strategist at Stifel, discusses the collapse in trade negotiations between the US and Canada. The US implemented a new 50% tax on imports of hundreds of Canadian items including furniture, plastics, plywood and electrical equipment on Saturday. He speaks on Bloomberg Television. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-24/us-canada-tariff-war-escalates-after-collapse-of-talks-video",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "14:22",
+      "conflict_id": null,
+      "score": 50.1
+    },
+    {
+      "id": "2026-08-24-31f1645b",
+      "headline": "U.S. to Unveil ‘Economic D-Day’ Sanctions Targeting Iran’s Economy",
+      "summary": "Treasury Secretary Scott Bessent will hold a news conference outlining the new package of measures.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/bessent-treasury-assault-iran-economy.html",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
       "id": "2026-08-24-d983b91e",
       "headline": "European allies back Ukraine as country marks Independence Day without US envoys",
       "summary": "European leaders joined Zelenskyy in Kyiv as Ukraine marked its fifth Independence Day since Russia launched its full-scale invasion in 2022. No delegates from the Trump administration were present as Witkoff and Kushner stayed away from ceremony.",
@@ -72,6 +128,20 @@
       "time": "12:31",
       "conflict_id": "ukraine-war",
       "score": 49.0
+    },
+    {
+      "id": "2026-08-24-249d4ce7",
+      "headline": "US to double tariffs on Canadian vehicles after trade talks break down, Trump says",
+      "summary": "\"Canada has been ripping off the United States of America for years,\" the president wrote in a post on his Truth Social account.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/24/us-to-double-tariffs-on-canadian-vehicles-after-trade-talks-break-down-trump-says",
+      "region": "NA",
+      "country": "United States",
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "15:04",
+      "conflict_id": null,
+      "score": 46.0
     },
     {
       "id": "2026-08-24-e08b6bc3",
@@ -114,20 +184,6 @@
       "time": "09:47",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-08-24-b06a41cf",
-      "headline": "Trump says US to increase tariffs on Canadian cars to 50%",
-      "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "13:55",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-08-24-43333b12",
@@ -182,6 +238,20 @@
       "category": "geopolitics",
       "date": "2026-08-24",
       "time": "10:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-08-24-58077773",
+      "headline": "US threat of ‘economic D-Day’ for Iran tests Trump’s China detente",
+      "summary": "Exerting maximum economic pressure on Tehran would risk blowback from Beijing.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/24/us-threat-of-economic-d-day-for-iran-tests-trumps-china-detente?traffic_source=rss",
+      "region": "NA",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "09:10",
       "conflict_id": null,
       "score": 39.4
     },
@@ -256,44 +326,16 @@
       "score": 34.4
     },
     {
-      "id": "2026-08-24-c3b712c0",
-      "headline": "Treasuries Gain With Bessent and Warsh Due to Set Direction",
-      "summary": "Treasuries gained at the start of a potentially pivotal week for the US bond market, with remarks from US Treasury Secretary Scott Bessent and Federal Reserve Chairman Kevin Warsh likely to determine where yields go next.",
+      "id": "2026-08-24-1edc4e9c",
+      "headline": "Dollar (USD) Outlook: What Is the ‘Debasement Trade’ and Why Does It Matter?",
+      "summary": "Political and fiscal uncertainty in the US is prompting investors to again turn nervous toward the dollar. As some have offloaded the currency, alternative assets such as Bitcoin and gold have seen their value soar.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/treasuries-gain-with-bessent-and-warsh-due-to-set-direction",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/dollar-usd-outlook-what-is-the-debasement-trade-and-why-does-it-matter",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-24",
-      "time": "09:22",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-24-1d981dea",
-      "headline": "Nvidia and Warsh Will Test a Stock Market That’s in Mid-Rotation",
-      "summary": "Two things are clear as stocks enter the most consequential week of summer: this market no longer trades on AI alone, and bond volatility has proved that catalysts are definitely not confined to the upside.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/nvidia-and-warsh-will-test-a-stock-market-that-s-in-mid-rotation",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "06:15",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-24-9dcac23f",
-      "headline": "Hormuz Oil Flows Are Going Strong as War Drags On",
-      "summary": "The UAE, Iraq, Kuwait and now Saudi Arabia all appear to be sneaking barrels across the crucial waterway to global markets.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-24/hormuz-oil-flows-are-going-strong-as-war-drags-on",
-      "region": "MENA",
-      "country": "Kuwait",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "11:56",
+      "time": "14:28",
       "conflict_id": null,
       "score": 34.1
     },
@@ -380,20 +422,6 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
-    },
-    {
-      "id": "2026-08-24-c766a7f4",
-      "headline": "Sweden moves to prevent school attacks after one killed in sword assault in Fagersta",
-      "summary": "Education Minister Simona Mohamsson told a press conference that the government would be appointing a school attack commission \"that will propose new measures to prevent future school attacks.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/24/sweden-moves-to-prevent-school-attacks-after-one-killed-in-sword-assault-in-fagersta",
-      "region": "EU",
-      "country": "Sweden",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "10:59",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-08-24-4de76c18",
@@ -494,48 +522,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-24-444795a8",
-      "headline": "European Stocks Steady as Investor Focus Shifts to Economic Data",
-      "summary": "European stocks were steady, with the macro outlook back in focus as traders looked to data for clues about the health of the region’s economy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/european-stocks-steady-as-investor-focus-shifts-to-economic-data",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "07:15",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-24-d9023ff4",
-      "headline": "Zambia’s Bond Sale Draws Robust Demand After Hichilema Wins Vote",
-      "summary": "Zambia’s borrowing costs fell in the first bond auction since this month’s elections as investors bet that political continuity will bolster the prospects of Africa’s second-biggest copper producer.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/zambia-s-bond-sale-draws-robust-demand-after-hichilema-wins-vote",
-      "region": "SA",
-      "country": "Chile",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "12:07",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-24-e8943792",
-      "headline": "Oil CEOs See Market Split With Bearish Crude, Bullish Fuels",
-      "summary": "The global oil market has diverged fundamentally, with a bearish outlook for crude but bullish prices for products, according to the CEOs of Europe’s largest energy companies.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/total-ceo-says-market-is-bearish-for-crude-bullish-for-products-mt75hra8",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "11:26",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-24-2e661de7",
       "headline": "Can Democrats Win Back the Senate? Why Their Chances Are Improving.",
       "summary": "Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.",
@@ -546,20 +532,6 @@
       "category": "politics",
       "date": "2026-08-24",
       "time": "09:03",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-24-660577cd",
-      "headline": "As Democrats Struggle in Some Western States, Independents See an Opening",
-      "summary": "From South Dakota to Alaska, independents are challenging incumbent Republicans and eschewing a Democratic label that Western voters find toxic.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/independent-candidates-challenge-republicans.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "09:00",
       "conflict_id": null,
       "score": 25.2
     },
@@ -718,6 +690,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-24-5dd54d3c",
+      "headline": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
+      "summary": "Around 10,000 people marched through Stockholm on Sunday demanding stronger climate action, a month before Sweden's general election.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/video/2026/08/24/greta-thunberg-joins-10000-climate-marchers-in-stockholm",
+      "region": "EU",
+      "country": "Sweden",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "15:04",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-24-9ceb92f6",
       "headline": "As bitcoin soars people ask who is Giancarlo Devasini, Italy's richest man?",
       "summary": "Bitcoin is nearing $80,000 again, putting the crypto economy and Giancarlo Devasini in the spotlight.",
@@ -746,18 +732,18 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-24-5bc8948f",
-      "headline": "Shein launches IPO at a sharply lower valuation — and Europe is central to its success",
-      "summary": "Shein is seeking a valuation of up to approximately $27 billion (€23.1bn) in its September flotation on the Hong Kong Stock Exchange, far below its reported peak of $100 billion in 2022. Europe is a key market, but new customs rules and regulatory scrutiny threaten its low-cost model.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/24/shein-launches-ipo-at-a-sharply-lower-valuation-and-europe-is-central-to-its-success",
-      "region": "EU",
-      "country": "Hong Kong",
+      "id": "2026-08-23-cc793284",
+      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
+      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Canada",
       "category": "business",
-      "date": "2026-08-24",
-      "time": "11:04",
+      "date": "2026-08-23",
+      "time": "19:11",
       "conflict_id": null,
-      "score": 21.0
+      "score": 68.0
     },
     {
       "id": "2026-08-23-483856f6",
@@ -771,21 +757,21 @@
       "date": "2026-08-23",
       "time": "17:24",
       "conflict_id": null,
-      "score": 64.0
+      "score": 65.0
     },
     {
-      "id": "2026-08-23-cc793284",
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-08-23-94f70d98",
+      "headline": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants th",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
       "region": "NA",
-      "country": "Canada",
+      "country": "Washington",
       "category": "business",
       "date": "2026-08-23",
-      "time": "19:11",
+      "time": "19:32",
       "conflict_id": null,
-      "score": 59.0
+      "score": 64.0
     },
     {
       "id": "2026-08-23-1fd907fc",
@@ -800,20 +786,6 @@
       "time": "12:56",
       "conflict_id": "ukraine-war",
       "score": 55.0
-    },
-    {
-      "id": "2026-08-23-94f70d98",
-      "headline": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants th",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "19:32",
-      "conflict_id": null,
-      "score": 48.0
     },
     {
       "id": "2026-08-23-a69d3627",
@@ -844,34 +816,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-23-725abb35",
-      "headline": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
-      "summary": "“I think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,” the former vice president told CNN.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "15:46",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-23-3588c50c",
-      "headline": "France links sharp rise in drownings to heatwaves",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-08-23",
-      "time": "17:39",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-23-e5826cd6",
       "headline": "The formidable challenges facing new Tata boss",
       "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
@@ -896,6 +840,20 @@
       "category": "geopolitics",
       "date": "2026-08-23",
       "time": "12:47",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-08-23-3588c50c",
+      "headline": "France links sharp rise in drownings to heatwaves",
+      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-08-23",
+      "time": "17:39",
       "conflict_id": null,
       "score": 27.0
     },
@@ -928,20 +886,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-23-f9563653",
-      "headline": "China will struggle to make money from humanoid robots",
-      "summary": "It is ahead of rivals and training up thousands, but profits are a long way off",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "13:52",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
       "id": "2026-08-22-0e1ea547",
       "headline": "Rescuers dig through Ukraine mall wreckage as Zelensky condemns 'despicable' Russian strike",
       "summary": "Four people are still missing after Friday's attack which killed 16 and left 130 injured, including a number of children.",
@@ -968,6 +912,20 @@
       "time": "14:04",
       "conflict_id": null,
       "score": 40.0
+    },
+    {
+      "id": "2026-08-22-fcc5728e",
+      "headline": "Robot horse and rider steal the spotlight at Chinese conference",
+      "summary": "More than 300 companies are showcasing the latest advances in robotics at the five-day event in Beijing, China, organisers say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c0qvqzzdd02o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-22",
+      "time": "10:01",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-08-21-63f25b94",
@@ -1022,20 +980,6 @@
       "category": "geopolitics",
       "date": "2026-08-21",
       "time": "16:26",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-21-40537e14",
-      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "15:58",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1135,7 +1079,7 @@
       "date": "2026-08-20",
       "time": "10:41",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-08-20-5efa59fe",
@@ -1150,20 +1094,6 @@
       "time": "18:55",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-08-19-279c371b",
-      "headline": "Five Americans among seven killed in safari helicopter crash in Kenya",
-      "summary": "Officials say all seven people onboard killed, including Telemundo executive and Ecuador intelligence chiefSeven people, including five Americans, were killed when a safari helicopter crashed on Wednesday morning in a remote part of northern Kenya, according to local police and the state department.Among the dead were an executive with Telemundo, the US-based Spanish-language network owned by NBC Universal, and the director of Ecuador’s national ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/19/kenya-helicopter-safari-crash",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-19",
-      "time": "20:17",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-08-19-acb7f11b",
