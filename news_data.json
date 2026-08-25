@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T14:59:33.684428+00:00",
-  "story_count": 76,
+  "updated": "2026-08-25T15:40:11.728884+00:00",
+  "story_count": 75,
   "source_count": 10,
   "stories": [
     {
@@ -60,6 +60,20 @@
       "score": 60.0
     },
     {
+      "id": "2026-08-25-e706d774",
+      "headline": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
+      "summary": "Hundreds of US goods will face increased levies after September 8",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "15:03",
+      "conflict_id": null,
+      "score": 59.4
+    },
+    {
       "id": "2026-08-25-e1e9a3a6",
       "headline": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
       "summary": "The president cited his tariff fight in a social media post, saying the United States doesn’t expect to be “doing much business with Ontario any longer.”",
@@ -74,16 +88,30 @@
       "score": 57.9
     },
     {
-      "id": "2026-08-25-f9428303",
-      "headline": "How the US sanctions on Iran impact China",
-      "summary": "US sanctions Chinese firms over Iran links but spare big banks as Trump and Xi eye key talks.",
+      "id": "2026-08-25-4c909c60",
+      "headline": "Qatar says US sanctions on Iran are unilateral",
+      "summary": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/how-the-us-sanctions-on-iran-impact-china?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
+      "region": "MENA",
+      "country": "Qatar",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "11:30",
+      "time": "15:17",
+      "conflict_id": null,
+      "score": 56.4
+    },
+    {
+      "id": "2026-08-25-7e4071d8",
+      "headline": "Trump floats renaming Lake Ontario to Lake America during Canada trade war",
+      "summary": "Lake Ontario borders both the Canadian province of Ontario and the US state of New York.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/trump-floats-renaming-lake-ontario-to-lake-america-during-canada-trade-war?traffic_source=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "14:53",
       "conflict_id": null,
       "score": 56.4
     },
@@ -102,18 +130,18 @@
       "score": 55.8
     },
     {
-      "id": "2026-08-25-a21b5126",
-      "headline": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
-      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue warBurnham plans trip to New York as Ukraine pleads for US-made missilesVatican envoy Paul Gallagher met Russian foreign minister Sergei Lavrov in Moscow earlier today, and Reuters has some snap quotes from Pope Leo XIV’s representative following the meeting. He is quoted as saying that “The Ukrainian war must end” and ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-08-25-0dec2f11",
+      "headline": "US launches Economic war on Iran",
+      "summary": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/videos/newsfeed/2026/8/25/us-launches-economic-war-on-iran?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "14:22",
-      "conflict_id": "ukraine-war",
-      "score": 52.0
+      "time": "15:12",
+      "conflict_id": null,
+      "score": 55.4
     },
     {
       "id": "2026-08-25-ac6c6389",
@@ -127,7 +155,35 @@
       "date": "2026-08-25",
       "time": "12:31",
       "conflict_id": null,
-      "score": 45.0
+      "score": 54.0
+    },
+    {
+      "id": "2026-08-25-a21b5126",
+      "headline": "Burnham to take Zelenskyy’s pleas for Patriot missiles to Trump – Europe live",
+      "summary": "UK PM to join delegation of leaders lobbying US president to step up supplies, as Kremlin accuses Burnham of wanting to continue warBurnham plans trip to New York as Ukraine pleads for US-made missilesVatican envoy Paul Gallagher met Russian foreign minister Sergei Lavrov in Moscow earlier today, and Reuters has some snap quotes from Pope Leo XIV’s representative following the meeting. He is quoted as saying that “The Ukrainian war must end” and ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/aug/25/europe-ukraine-patriot-missiles-zelenskyy-trump-russia-drone-germany-latest-news-update",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "15:27",
+      "conflict_id": "ukraine-war",
+      "score": 52.0
+    },
+    {
+      "id": "2026-08-25-f4048b43",
+      "headline": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
+      "summary": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "15:23",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-08-25-1ff2f3f6",
@@ -158,34 +214,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-08-25-5f01cd2e",
-      "headline": "Palestine weekly: After Kushner departs, Israel escalates Gaza attacks",
-      "summary": "Israel deepens Gaza attacks and West Bank expansion as countries condemn abuses but impose few consequences.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/palestine-weekly-after-kushner-departs-israel-escalates-gaza-attacks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Palestine",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "11:52",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-08-25-a8d715e2",
-      "headline": "Another drone found at Leipzig airport as Germany warns of ‘unscrupulous’ attacks",
-      "summary": "Latest discovery made near scene where explosive-laden drone was uncovered on August 4",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d926671a-4f27-44f3-a2bf-4a0743c67534?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "10:16",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
       "id": "2026-08-25-5e81a247",
       "headline": "EXCLUSIVE: France wants to limit Ukraine's non-European procurement with EU money",
       "summary": "France seeks time limits on Ukraine's derogations for non-EU defence purchases under €90bn loan, in push for European — and French — producers. Kyiv benefits from exemptions for Chinese and US parts.",
@@ -214,6 +242,48 @@
       "score": 39.4
     },
     {
+      "id": "2026-08-25-40142f4a",
+      "headline": "CIA director Ratcliffe arrives in Moscow on secret visit, US reports claim",
+      "summary": "John Ratcliffe reportedly arrived in the Russian capital on Tuesday for meetings, in what appears to be his first visit to Russia as CIA director.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/25/cia-director-ratcliffe-arrives-in-moscow-on-secret-visit-us-reports-claim",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "15:01",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-25-f6a81863",
+      "headline": "Swedish military seeks to seize property near naval base owned by Russian with Kremlin ties",
+      "summary": "Sweden ended two centuries of military non-alignment and joined NATO in 2024 after Russia's 2022 full-scale invasion of Ukraine.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/25/swedish-military-seeks-to-seize-property-near-naval-base-owned-by-russian-with-kremlin-tie",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "10:45",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-25-6ace6541",
+      "headline": "CIA chief in Moscow for unannounced talks, US media reports",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "15:27",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-25-6498dc48",
       "headline": "How Canada could hit back to hurt the US economy - and Trump",
       "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
@@ -228,32 +298,32 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-25-7fb9c2aa",
-      "headline": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
-      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+      "id": "2026-08-25-3e4515ef",
+      "headline": "Swedish military seeks to take over Russian-owned estate near naval base",
+      "summary": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Tehran",
+      "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "12:37",
+      "time": "15:18",
       "conflict_id": null,
       "score": 35.0
     },
     {
-      "id": "2026-08-25-b372904e",
-      "headline": "Israeli attacks kill five in Gaza, including two children, medics say",
-      "summary": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics and relatives.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
+      "id": "2026-08-25-956167ce",
+      "headline": "‘Embarrassing’: US officials recoil fromTrump’s Canada attacks",
+      "summary": "Deepening trade war between two long-term allies descends into insults and recrimination",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
       "date": "2026-08-25",
-      "time": "14:07",
+      "time": "14:55",
       "conflict_id": null,
-      "score": 35.0
+      "score": 34.4
     },
     {
       "id": "2026-08-25-ab61b1ae",
@@ -284,6 +354,20 @@
       "score": 34.1
     },
     {
+      "id": "2026-08-25-5018c85f",
+      "headline": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
+      "summary": "Nearly 30 percent of voters nationwide use mail ballots. President Trump is seeking greater federal control of mail voting.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/mail-in-ballots-states-voting-trump.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "15:17",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-08-25-615863cd",
       "headline": "Tech Leaders Haven’t Stopped the Billionaire Tax So Far. Will Ads Work?",
       "summary": "The latest opposition effort is led by Sergey Brin, a co-founder of Google, who has contributed more than $100 million this year toward California campaign efforts.",
@@ -310,6 +394,20 @@
       "time": "09:02",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-08-25-60b5a271",
+      "headline": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
+      "summary": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White StripesDon’t already get First Thing in your inbox? Sign up hereGood morning. The US supreme court has sided with Donald Trump in his effort to crack down on mail-in voting, though it is unclear whether or not his administration will be able to take action before the midterm elections in ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/first-thing-us-supreme-court-midterms-mail-in-voting-trump-plan",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "12:31",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-08-25-0f0add5a",
@@ -354,20 +452,6 @@
       "score": 29.0
     },
     {
-      "id": "2026-08-25-c066d2fe",
-      "headline": "Two unvaccinated people die of measles in Pennsylvania",
-      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "14:54",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-25-22046341",
       "headline": "US removes Syria from list of state sponsors of terrorism",
       "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
@@ -382,37 +466,23 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-25-53edfc53",
-      "headline": "Socialists and Maga are both wrong about economic liberalism",
-      "summary": "People are not puppets responding to the string pulls of market forces — free enterprise gives us agency",
+      "id": "2026-08-25-cfbbb2ba",
+      "headline": "Boss of Trump Jr-backed start-up donated to Republicans after winning US contract",
+      "summary": "Companies connected to investment firm of US president’s son have benefited from lucrative government business deals",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/02e197fb-e6dc-426b-a952-72cc906a2733",
+      "url": "https://www.ft.com/content/7a889a33-1af5-4704-a57f-7890d169d94e?syn-25a6b1a6=1",
       "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-08-25-ab436893",
-      "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
-      "summary": "The FT is tracking changes to the cost of living that will affect American voters",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/71dccbca-4a1f-485a-9790-28cc527cdb82?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "America",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-08-25",
-      "time": "04:00",
+      "time": "14:25",
       "conflict_id": null,
       "score": 26.4
     },
     {
-      "id": "2026-08-25-47e147b6",
-      "headline": "Adnoc Extends $2.7 Billion Ship-Buying Spree as UAE Exports Soar",
-      "summary": "The UAE’s biggest oil and gas producer ordered two more liquefied natural gas carriers, extending a recent spree of vessel purchases that will help expand energy exports in the coming years.",
+      "id": "2026-08-25-0b054449",
+      "headline": "UAE’s Adnoc Spends $2.7 Billion on Ship-Buying Spree",
+      "summary": "The biggest oil and gas producer in the United Arab Emirates has ordered two more liquefied natural gas carriers, extending a recent spree of vessel purchases that will help expand energy exports in the coming years.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-25/adnoc-extends-2-7-billion-ship-buying-spree-as-uae-exports-soar",
       "region": "MENA",
@@ -466,20 +536,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-08-25-6d42ed32",
-      "headline": "Hong Kong’s Big Trade Deficit Almost Disappears as Exports Surge",
-      "summary": "Hong Kong had its narrowest trade deficit in over a year as export growth held up better than expected in July, with shipments to mainland China reaching a record high.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/hong-kong-s-big-trade-deficit-almost-disappears-as-exports-surge",
-      "region": "APJ",
-      "country": "Hong Kong",
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "13:10",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-25-86e233c7",
       "headline": "Democratic Senators Ask Homeland Security for Details About Idled Planes",
       "summary": "The request follows a New York Times story, which revealed that Homeland Security had spent $464 million on used jets that rarely fly.",
@@ -494,44 +550,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-25-08f4004d",
-      "headline": "Poll Shows Josh Shapiro Leading Pennsylvania Governor’s Race",
-      "summary": "A New York Times/Philadelphia Inquirer/Siena poll found Gov. Josh Shapiro leading Stacy Garrity and having support in the state for a possible presidential bid.",
+      "id": "2026-08-25-d090f181",
+      "headline": "John Fetterman’s Popularity With Republicans Surges, Poll Finds",
+      "summary": "Pennsylvania Republicans now view John Fetterman, the state’s Democratic senator, more favorably than its sitting G.O.P. senator, a New York Times/Philadelphia Inquirer/Siena poll found.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/25/us/elections/josh-shapiro-pennsylvania-poll.html",
-      "region": "NA",
-      "country": null,
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/john-fetterman-poll-republicans-democrats-pennsylvania.html",
+      "region": "EU",
+      "country": "NATO",
       "category": "politics",
       "date": "2026-08-25",
-      "time": "09:03",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-25-849e011e",
-      "headline": "Jeffries Defends Kushner Meeting, Vowing Tough Oversight of Trump",
-      "summary": "The Brooklyn Democrat, who is in line to be speaker should his party win the House, has drawn ire from some progressives for huddling with the president’s son-in-law.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-25",
-      "time": "03:08",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
-      "id": "2026-08-25-9ba55caa",
-      "headline": "California Judge Says Recalled Officials Are Unlawfully in Office",
-      "summary": "The mayor and three other council members of Avenal, Calif., had refused to leave despite a certified vote by residents to recall them. They will now step down, a city official said.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/us/avenal-california-recall-city-council.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-25",
-      "time": "02:15",
+      "time": "10:10",
       "conflict_id": null,
       "score": 25.2
     },
@@ -550,6 +578,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-08-25-f967aef3",
+      "headline": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
+      "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water useGet our breaking news email, free app or daily news podcastPlanned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls growing for a moratorium.The prime minister is aiming to come to an agreement with national ca",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-08-25-9586f8c5",
       "headline": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
       "summary": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWoolworths’ latest Disney “Ooshie” collectibles have not only captivated Australian children, they have led to a short-term slump in competitor Coles’ sales.Thousands of shoppers switched",
@@ -562,20 +604,6 @@
       "time": "08:07",
       "conflict_id": null,
       "score": 24.0
-    },
-    {
-      "id": "2026-08-25-3264d232",
-      "headline": "Why Rohingya refugees are protesting in Cox’s Bazar, 9 years after genocide",
-      "summary": "Rohingya refugees face deep aid cuts in Bangladesh and forced evictions in Malaysia and India.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/why-rohingya-refugees-are-protesting-in-coxs-bazar-9-years-after-genocide?traffic_source=rss",
-      "region": "SA",
-      "country": "Bangladesh",
-      "category": "politics",
-      "date": "2026-08-25",
-      "time": "11:46",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-08-25-107624db",
@@ -622,7 +650,7 @@
     {
       "id": "2026-08-25-a6663c5a",
       "headline": "Azerbaijan's biggest bank enters Uzbek market with Davr Bank acquisition",
-      "summary": "Azerbaijan's largest financial institution, the International Bank of Azerbaijan, is expanding its corporate banking operations by acquiring a 51% controlling stake in Uzbekistan's Davr Bank in a deal valued at €86 million.",
+      "summary": "Azerbaijan's largest financial institution, the International Bank of Azerbaijan, is expanding its corporate banking operations by acquiring a 51% controlling stake in Uzbekistan's Davr Bank in a deal valued at $150 million (€128.5m).",
       "source": "Euronews",
       "url": "http://www.euronews.com/2026/08/25/azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-acquisition",
       "region": "EU",
@@ -673,7 +701,7 @@
       "date": "2026-08-24",
       "time": "09:47",
       "conflict_id": null,
-      "score": 59.0
+      "score": 60.0
     },
     {
       "id": "2026-08-24-d62725f7",
@@ -704,6 +732,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-08-24-8d7008eb",
+      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from disputeAre you a Canadian boycotting US products? We’d like to hear from youMark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "18:22",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
       "id": "2026-08-24-be8edcd9",
       "headline": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
       "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
@@ -716,48 +758,6 @@
       "time": "12:51",
       "conflict_id": "ukraine-war",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-24-8d7008eb",
-      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from disputeAre you a Canadian boycotting US products? We’d like to hear from youMark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "18:22",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-08-24-0d0a9e25",
-      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "10:40",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-24-ebf70130",
-      "headline": "'Scared to death': Thousands evacuate Nevada homes as wildfire spreads",
-      "summary": "Tens of thousands of people in the US state have been warned to evacuate as the wildfire spreads in the outskirts of Reno.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cy0zr8lkr8lo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "10:05",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-24-eaa95fb6",
@@ -798,6 +798,20 @@
       "category": "geopolitics",
       "date": "2026-08-24",
       "time": "22:13",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-08-24-252d5dd1",
+      "headline": "What do locals think of IndyCar in Washington DC?",
+      "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "04:51",
       "conflict_id": null,
       "score": 27.0
     },
@@ -856,20 +870,6 @@
       "time": "23:53",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-08-23-1fd907fc",
-      "headline": "Zelensky should be asked what he knew about government corruption, sacked minister tells BBC",
-      "summary": "Mykhailo Fedorov has also called for wartime elections to be held in Ukraine.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwy4ypzvd7po?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "politics",
-      "date": "2026-08-23",
-      "time": "12:56",
-      "conflict_id": "ukraine-war",
-      "score": 55.0
     },
     {
       "id": "2026-08-23-a69d3627",
@@ -996,20 +996,6 @@
       "time": "19:31",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-21-6fa9d2bf",
-      "headline": "US sanctions more Cuban companies and officials",
-      "summary": "An international socialist institute and Cuba's construction ministry are subject to the latest US sanctions, Marco Rubio announces.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgq5x9l7054o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "02:06",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-21-f76578ae",
