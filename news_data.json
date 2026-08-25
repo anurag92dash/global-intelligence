@@ -1,21 +1,161 @@
 {
-  "updated": "2026-08-24T23:56:11.525430+00:00",
-  "story_count": 84,
+  "updated": "2026-08-25T00:38:33.490560+00:00",
+  "story_count": 85,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-08-24-6b2a6b7b",
-      "headline": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
-      "summary": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening trade war.",
+      "id": "2026-08-25-ce706f9c",
+      "headline": "Iran war live: US slaps new sanctions on Iran, warns Tehran trade partners",
+      "summary": "US tells countries to choose between Washington and Tehran, warns Iran&#039;s trade partners they will face consequences.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/8/25/iran-war-live-drat?traffic_source=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "00:00",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-08-25-cc15326f",
+      "headline": "Court Allows Trump to Pursue Mail Voting Limits, for Now",
+      "summary": "The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "00:09",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
+      "id": "2026-08-25-22046341",
+      "headline": "US removes Syria from list of state sponsors of terrorism",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda militant Ahmed al-Sharaa.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "00:17",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-25-135c547c",
+      "headline": "Vietnam's parliament approves first nuclear project",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/vietnam-s-parliament-approves-first-nuclear-project",
+      "region": "APJ",
+      "country": "Vietnam",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
+      "id": "2026-08-25-e1c0db05",
+      "headline": "Bessent Defends Buyback Plan, Stops Short of New Bond Measures",
+      "summary": "Treasury Secretary Scott Bessent refrained from any further signals on revamping US debt management on Monday, following a report that his department could draw down some of its cash pile to fund buybacks of higher-yielding older securities. Bloomberg's Garfield Reynolds discusses. (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-25/bessent-defends-buyback-plan-stops-short-of-new-signals-video",
       "region": "NA",
       "country": null,
       "category": "business",
-      "date": "2026-08-24",
-      "time": "14:20",
+      "date": "2026-08-25",
+      "time": "00:21",
       "conflict_id": null,
-      "score": 66.1
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-25-4002d358",
+      "headline": "Australia news live: Coles blames competitor’s Ooshies for slowing sales; young people the first generation to earn less than their parents at same age",
+      "summary": "Supermarket chain says growth slumped amid ‘competitor’s collectibles campaign’. Follow today’s news liveGet our breaking news email, free app or daily news podcastNumber of NSW households in urgent need of priority housing hits highest level in over a yearThe number of NSW households in urgent need of priority social housing has reached 13,776, the highest in more than a year.The waitlist has sat [at] around 70,000 since May. Anyone reading that",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/live/2026/aug/25/australia-news-live-sydney-trains-delays-cancellations-albanese-gst-wa-one-nation-coalition-secret-harbour-election-tax-reform-royal-commission-antisemitism-icac-victorian-rail-loop-alan-jones-trial-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "00:20",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
+      "id": "2026-08-25-121c8296",
+      "headline": "Kazakhstan's Tokayev tightens grip on power after snap election",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/kazakhstan-s-tokayev-tightens-grip-on-power-after-snap-election",
+      "region": "APJ",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-08-25-5e819a38",
+      "headline": "Japan Coast Guard trials self-piloting boat for gas leak detection",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/technology/japan-coast-guard-trials-self-piloting-boat-for-gas-leak-detection",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-08-25-6b29f1c5",
+      "headline": "Sumitomo Mitsui Trust to begin asset management in Vietnam with state bank",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/wealth-management/sumitomo-mitsui-trust-to-begin-asset-management-in-vietnam-with-state-bank",
+      "region": "APJ",
+      "country": "Vietnam",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-08-25-27309db9",
+      "headline": "India's hydropower push raises natural disaster fears in Kashmir",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/natural-disasters/india-s-hydropower-push-raises-natural-disaster-fears-in-kashmir",
+      "region": "SA",
+      "country": "India",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
+    },
+    {
+      "id": "2026-08-25-00beb5ec",
+      "headline": "Malaysia's strong growth yet to reach households, small businesses",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/malaysia-s-strong-growth-yet-to-reach-households-small-businesses",
+      "region": "APJ",
+      "country": "Malaysia",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-08-24-dc7ef320",
@@ -32,6 +172,34 @@
       "score": 63.0
     },
     {
+      "id": "2026-08-24-d6b93ceb",
+      "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
+      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Canada",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "09:47",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
+      "id": "2026-08-24-6b2a6b7b",
+      "headline": "Canadian Stocks Rise Despite Breakdown in US Trade Talks",
+      "summary": "Canadian stocks ended the day higher, thanks largely to gains from precious metals miners, after the collapse of talks with the US unleashed what threatens to become a widening trade war.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-24/canadian-stocks-whipsaw-after-us-trade-talks-break-down",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "14:20",
+      "conflict_id": null,
+      "score": 58.1
+    },
+    {
       "id": "2026-08-24-86b3ff9b",
       "headline": "Ukraine’s robot and drone parade offers a glimpse of the future of war",
       "summary": "Ukraine marked its 35th Independence Day with a military display unlike any it had staged before: robots on the streets of Kyiv, naval drones on the Dnipro river and UAVs in the skies above the capital, showcasing technologies that have transformed the battlefield since Russia’s full-scale invasion.",
@@ -46,18 +214,18 @@
       "score": 57.0
     },
     {
-      "id": "2026-08-24-2d416771",
-      "headline": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
-      "summary": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
+      "id": "2026-08-24-d62725f7",
+      "headline": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
+      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credibleTehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.In advance of the US announcement, the United Arab Emirates, Iran’s sin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
+      "region": "MENA",
+      "country": "Tehran",
       "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "20:48",
+      "time": "11:53",
       "conflict_id": null,
-      "score": 55.4
+      "score": 56.0
     },
     {
       "id": "2026-08-24-849a796a",
@@ -116,34 +284,6 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-24-d6b93ceb",
-      "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
-      "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy0j0zz8l83o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "09:47",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
-      "id": "2026-08-24-b06a41cf",
-      "headline": "Trump says US to increase tariffs on Canadian cars to 50%",
-      "summary": "Move marks further escalation of Washington’s trade war with Ottawa",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "23:30",
-      "conflict_id": null,
-      "score": 50.4
-    },
-    {
       "id": "2026-08-24-048f8e03",
       "headline": "U.S. Military Kills 2 People in Attack on Boat in Pacific",
       "summary": "The United States has killed at least 223 people since its campaign of boat strikes began nearly a year ago.",
@@ -158,20 +298,6 @@
       "score": 49.2
     },
     {
-      "id": "2026-08-24-d62725f7",
-      "headline": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credibleTehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.In advance of the US announcement, the United Arab Emirates, Iran’s sin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "11:53",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
       "id": "2026-08-24-59927fa4",
       "headline": "Burnham says UK with Ukraine ‘all the way’ despite ‘outrageous threats’ from Russia – Europe live",
       "summary": "Coalition of the Willing condemns Russian strikes on Ukraine, pledges to work on ‘constraining Russia’s war chest’Here’s the full quote from Kremlin’s Peskov, via AFP:“Britain is methodically and regularly throwing oil on the fire and methodically and regularly plotting schemes to prevent even the slightest progress in the peace process.” Continue reading...",
@@ -184,6 +310,20 @@
       "time": "16:46",
       "conflict_id": null,
       "score": 48.0
+    },
+    {
+      "id": "2026-08-24-2d416771",
+      "headline": "Video: Iran reacts to US ‘economic D-Day’ sanctions",
+      "summary": "Iran’s Minister of Economy Ali Madani-Zadeh has responded to the US announcement of a new economic pressure campaign.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/24/video-iran-reacts-to-us-economic-d-day-sanctions?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "20:48",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-08-24-be8edcd9",
@@ -228,6 +368,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-24-b06a41cf",
+      "headline": "Trump says US to increase tariffs on Canadian cars to 50%",
+      "summary": "Ottawa officials set to announce response to new American levies on Tuesday",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/52978bad-2b91-41e3-be94-7fb6776fbb91?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-24",
+      "time": "23:54",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
       "id": "2026-08-24-61caef9e",
       "headline": "US Supreme Court allows Trump restrictions on mail-in ballots",
       "summary": "Justices lift decision to block president’s order to restrict eligibility to a new federal list of voters",
@@ -240,34 +394,6 @@
       "time": "22:04",
       "conflict_id": null,
       "score": 42.4
-    },
-    {
-      "id": "2026-08-24-fd034539",
-      "headline": "Trump’s ‘Economic D-Day’ for Iran Must Overcome a Troubled History",
-      "summary": "The U.S. has spent 20 years promising ‘crippling sanctions’ on Iran. But the latest effort comes with a reverse twist, after military action failed to accomplish President Trump’s goals.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/trump-bessent-iran-economic-d-day.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "23:10",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-08-24-c53a976d",
-      "headline": "Supreme Court Allows Trump Plan to Restrict Mail-In Voting, for Now",
-      "summary": "The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "22:52",
-      "conflict_id": null,
-      "score": 41.2
     },
     {
       "id": "2026-08-24-8114f456",
@@ -298,20 +424,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-24-8d7008eb",
-      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
-      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from disputeAre you a Canadian boycotting US products? We’d like to hear from youMark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
-      "region": "NA",
-      "country": "America",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "18:22",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-08-24-3ff4712d",
       "headline": "How US sanctions on Iran ripple through global markets and consumers",
       "summary": "New sanctions hit Iran&#039;s aviation, tech, and shipping sectors, amplifying pressure on global markets and energy prices.",
@@ -326,8 +438,8 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-24-0a96e570",
-      "headline": "US Supreme Court sides with Trump administration on mail voting",
+      "id": "2026-08-24-6f599ddc",
+      "headline": "US Supreme Court allows Trump’s mail voting restrictions to proceed",
       "summary": "Mail balloting has long been a favourite target of US President Donald Trump.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/24/us-supreme-court-sides-with-trump-administration-on-mail-voting?traffic_source=rss",
@@ -354,20 +466,6 @@
       "score": 37.0
     },
     {
-      "id": "2026-08-24-88674859",
-      "headline": "New Zealand to introduce bill for under-16s social media ban",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "New Zealand",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "12:17",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-24-fb928c3d",
       "headline": "Guinea rubbish landfill collapse kills 31",
       "summary": "A mound of rubbish at a major waste site buried several homes in the capital, the government says.",
@@ -378,20 +476,6 @@
       "category": "politics",
       "date": "2026-08-24",
       "time": "11:26",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-24-2474a478",
-      "headline": "Australian shark attack victim grateful for 'second chance at life'",
-      "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "05:31",
       "conflict_id": null,
       "score": 35.0
     },
@@ -410,6 +494,34 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-24-88674859",
+      "headline": "New Zealand to introduce bill for under-16s social media ban",
+      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "New Zealand",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "12:17",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-24-2474a478",
+      "headline": "Australian shark attack victim grateful for 'second chance at life'",
+      "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87n792dnlno?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "05:31",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-24-449f27e1",
       "headline": "With Trump Against Him, Can Ralph Norman Win in South Carolina?",
       "summary": "The ultraconservative congressman who has broken with the president on spending is hoping voters reward his experience, contrarian streak and all.",
@@ -422,6 +534,20 @@
       "time": "14:06",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-08-24-8d7008eb",
+      "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
+      "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from disputeAre you a Canadian boycotting US products? We’d like to hear from youMark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/24/canada-trade-deal-trump-mark-carney-french-language",
+      "region": "NA",
+      "country": "America",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "18:22",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-08-24-2067ea72",
@@ -450,6 +576,20 @@
       "time": "14:01",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-08-24-83a6c7d3",
+      "headline": "US removes Syria from ‘state sponsor of terrorism’ list",
+      "summary": "Washington also rescinded designation of HTS, formerly led by President Ahmed al-Sharaa, as a &#039;terrorist&#039; organisation.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/24/us-removes-syria-from-state-sponsor-of-terrorism-list?traffic_source=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "22:32",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-08-24-8e64bf14",
@@ -492,20 +632,6 @@
       "time": "19:44",
       "conflict_id": null,
       "score": 31.4
-    },
-    {
-      "id": "2026-08-24-135c547c",
-      "headline": "Vietnam's parliament approves first nuclear project",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/vietnam-s-parliament-approves-first-nuclear-project",
-      "region": "APJ",
-      "country": "Vietnam",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
     },
     {
       "id": "2026-08-24-efedf56e",
@@ -578,16 +704,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-24-252d5dd1",
-      "headline": "What do locals think of IndyCar in Washington DC?",
-      "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
+      "id": "2026-08-24-2be8f0f4",
+      "headline": "Beyond China's humanoid robots, a quieter machine revolution is unfolding",
+      "summary": "There are more than two million robots working in China's factories - and they are scaling up fast.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/c62m4zn1q6mo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-08-24",
-      "time": "04:51",
+      "time": "22:13",
       "conflict_id": null,
       "score": 27.0
     },
@@ -620,9 +746,9 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-24-23002a6e",
-      "headline": "Asian Stocks Under Pressure After US Tech Selloff: Markets Wrap",
-      "summary": "Asian stocks were set to fall after Wall Street gauges retreated as losses in technology shares overshadowed a decline in oil prices.",
+      "id": "2026-08-24-c28f311c",
+      "headline": "Asian Stocks Dip After US Tech Selloff, Gold Gains: Markets Wrap",
+      "summary": "Asian equities followed Wall Street lower as investors cut exposure to technology shares ahead of earnings that may test confidence in the artificial intelligence trade. Gold climbed for a fifth consecutive day.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-24/stock-market-today-dow-s-p-live-updates",
       "region": "NA",
@@ -704,76 +830,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-24-121c8296",
-      "headline": "Kazakhstan's Tokayev tightens grip on power after snap election",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/kazakhstan-s-tokayev-tightens-grip-on-power-after-snap-election",
-      "region": "APJ",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-24-5e819a38",
-      "headline": "Japan Coast Guard trials self-piloting boat for gas leak detection",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/japan-coast-guard-trials-self-piloting-boat-for-gas-leak-detection",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-24-6b29f1c5",
-      "headline": "Sumitomo Mitsui Trust to begin asset management in Vietnam with state bank",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/wealth-management/sumitomo-mitsui-trust-to-begin-asset-management-in-vietnam-with-state-bank",
-      "region": "APJ",
-      "country": "Vietnam",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-24-27309db9",
-      "headline": "India's hydropower push raises natural disaster fears in Kashmir",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/natural-disasters/india-s-hydropower-push-raises-natural-disaster-fears-in-kashmir",
-      "region": "SA",
-      "country": "India",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-08-24-00beb5ec",
-      "headline": "Malaysia's strong growth yet to reach households, small businesses",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/economy/malaysia-s-strong-growth-yet-to-reach-households-small-businesses",
-      "region": "APJ",
-      "country": "Malaysia",
-      "category": "business",
-      "date": "2026-08-24",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-08-24-5dd54d3c",
       "headline": "Greta Thunberg joins 10,000 climate marchers in Stockholm",
       "summary": "Around 10,000 people marched through Stockholm on Sunday demanding stronger climate action, a month before Sweden's general election.",
@@ -816,20 +872,6 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-23-cc793284",
-      "headline": "Trump says Canada wants 'benefits' of being US state after trade talks collapse",
-      "summary": "Canada's PM said he was \"reluctantly\" announcing retaliatory tariffs and accused the US of starting a trade war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx272np7vgyo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "19:11",
-      "conflict_id": null,
-      "score": 68.0
-    },
-    {
       "id": "2026-08-23-483856f6",
       "headline": "The lesson from Canada’s collapsed trade talks with the US: negotiation may be futile",
       "summary": "Breakdown shows Washington now prioritises its own interests over any semblance of shared economic ground‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade warThe calamitous collapse of trade negotiations between Canada and the United States is a warning to nations worldwide that pursuing any kind of dialogue with the current US administration is doomed at the outset, according to observers who say this recent episode indicat",
@@ -840,20 +882,6 @@
       "category": "geopolitics",
       "date": "2026-08-23",
       "time": "17:24",
-      "conflict_id": null,
-      "score": 64.0
-    },
-    {
-      "id": "2026-08-23-94f70d98",
-      "headline": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
-      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants th",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "19:32",
       "conflict_id": null,
       "score": 56.0
     },
@@ -870,6 +898,20 @@
       "time": "12:56",
       "conflict_id": "ukraine-war",
       "score": 55.0
+    },
+    {
+      "id": "2026-08-23-94f70d98",
+      "headline": "‘No more!!!’: Trump lashes out after US-Canada talks devolve into trade war",
+      "summary": "PM Mark Carney says ‘we got attacked’ as tariffs come into force on items from hockey sticks to tongue depressorsThe lesson from Canada’s collapsed trade talks with the US: negotiation may be futileDonald Trump has hit back at Canada after a breakdown in negotiations plunged the two countries into a trade war.In his first public comments since negotiations collapsed on Friday in Washington, the US president wrote on social media: “Canada wants th",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/23/donald-trump-lashes-out-after-us-canada-talks-devolve-into-trade-war",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-23",
+      "time": "19:32",
+      "conflict_id": null,
+      "score": 48.0
     },
     {
       "id": "2026-08-23-a69d3627",
@@ -910,20 +952,6 @@
       "category": "business",
       "date": "2026-08-23",
       "time": "22:35",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-08-23-064b7437",
-      "headline": "Robot boxing, football and sprinting at World Humanoid Games",
-      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "12:47",
       "conflict_id": null,
       "score": 27.0
     },
@@ -970,18 +998,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-23-f9563653",
-      "headline": "China will struggle to make money from humanoid robots",
-      "summary": "It is ahead of rivals and training up thousands, but profits are a long way off",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
+      "id": "2026-08-23-064b7437",
+      "headline": "Robot boxing, football and sprinting at World Humanoid Games",
+      "summary": "The second-edition of the five-day competition kicked off in Beijing, China, on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c7vgvj6e1emo?at_medium=RSS&at_campaign=rss",
       "region": "APJ",
-      "country": "China",
+      "country": "Beijing",
       "category": "geopolitics",
       "date": "2026-08-23",
-      "time": "13:52",
+      "time": "12:47",
       "conflict_id": null,
-      "score": 25.8
+      "score": 27.0
     },
     {
       "id": "2026-08-22-0e1ea547",
@@ -1068,20 +1096,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-21-f76578ae",
-      "headline": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
-      "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckg4q8kyxp7o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-08-21",
-      "time": "00:04",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-20-ea44e2c0",
       "headline": "Russia 'purposefully' hit critical infrastructure in latest strikes, Kyiv mayor says",
       "summary": "At least 17 people were killed in the \"massive attack\" overnight on Ukraine's capital, as mayor Vitali Klitschko warns hot water supply has been disrupted.",
@@ -1152,6 +1166,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-19-5e1f1151",
+      "headline": "Multiple deadly Israeli strikes in Gaza in under 24 hours",
+      "summary": "BBC Verify looks at footage from two deadly strikes in under 24 hours in Gaza.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cp3rgxzk5x2o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "17:46",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-19-acb7f11b",
       "headline": "Chinese firms are wrapping their supply chains around the globe",
       "summary": "A rewiring of global manufacturing is under way",
@@ -1164,20 +1192,6 @@
       "time": "15:56",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-08-17-3265b919",
-      "headline": "Kushner hails 'very good' meeting with Netanyahu after Hamas talks on Gaza peace plan",
-      "summary": "Donald Trump's Middle East envoy and son-in-law, Jared Kushner, is seeking to gain Israeli backing for the US-backed Gaza peace plan.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c77gg5vn44yo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-17",
-      "time": "16:02",
-      "conflict_id": "israel-hamas",
-      "score": 47.0
     }
   ]
 }
