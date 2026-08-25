@@ -1,6 +1,6 @@
 {
-  "updated": "2026-08-25T15:40:11.728884+00:00",
-  "story_count": 75,
+  "updated": "2026-08-25T16:17:17.657260+00:00",
+  "story_count": 78,
   "source_count": 10,
   "stories": [
     {
@@ -62,16 +62,30 @@
     {
       "id": "2026-08-25-e706d774",
       "headline": "Canada announces $20bn retaliatory tariffs as US trade war escalates",
-      "summary": "Hundreds of US goods will face increased levies after September 8",
+      "summary": "Hundreds of US goods will face increased levies from September 8",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/7ced71c2-03b8-4569-a68d-14624a7e83f2?syn-25a6b1a6=1",
       "region": "NA",
       "country": "Canada",
       "category": "business",
       "date": "2026-08-25",
-      "time": "15:03",
+      "time": "15:40",
       "conflict_id": null,
       "score": 59.4
+    },
+    {
+      "id": "2026-08-25-15265167",
+      "headline": "India Exports Face Little Risk From Tougher US Sanctions on Iran",
+      "summary": "Stricter US sanctions on Iran are unlikely to hit local exports as the Persian Gulf nation’s bilateral trade with India is largely limited to pharmaceuticals and agricultural commodities, led by basmati rice.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/india-exports-face-little-risk-from-tougher-us-sanctions-on-iran",
+      "region": "EU",
+      "country": "India",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "15:49",
+      "conflict_id": null,
+      "score": 59.1
     },
     {
       "id": "2026-08-25-e1e9a3a6",
@@ -86,6 +100,20 @@
       "time": "13:23",
       "conflict_id": null,
       "score": 57.9
+    },
+    {
+      "id": "2026-08-25-59be6d02",
+      "headline": "Trump Threatens to Rename Lake Ontario to Lake America as U.S.-Canada Trade War Heats Up",
+      "summary": "The president’s threat is his latest jab at Canada since trade talks between the two countries broke down.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-lake-ontario-america-canada-trade.html",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "15:45",
+      "conflict_id": null,
+      "score": 57.2
     },
     {
       "id": "2026-08-25-4c909c60",
@@ -167,7 +195,7 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "15:27",
+      "time": "16:09",
       "conflict_id": "ukraine-war",
       "score": 52.0
     },
@@ -186,6 +214,20 @@
       "score": 51.4
     },
     {
+      "id": "2026-08-25-40142f4a",
+      "headline": "CIA director Ratcliffe arrives in Moscow on secret visit, US reports claim",
+      "summary": "John Ratcliffe reportedly arrived in the Russian capital on Tuesday for meetings, in what appears to be his first visit to Russia as CIA director.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/25/cia-director-ratcliffe-arrives-in-moscow-on-secret-visit-us-reports-claim",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "15:01",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-08-25-1ff2f3f6",
       "headline": "UK officials prepare for potential Trump talks as Burnham plans New York trip",
       "summary": "PM known to be keen to attend UN general assembly after meeting Volodymyr Zelenskyy in UkraineEurope live – latest updatesUK officials are making preparations for a potential meeting between Andy Burnham and Donald Trump after the prime minister said he hoped to attend next month’s UN general assembly in New York.Burnham is known to be particularly keen to attend the annual gathering after meeting Volodymyr Zelenskyy in Kyiv on Monday, when he pl",
@@ -200,18 +242,32 @@
       "score": 44.0
     },
     {
-      "id": "2026-08-25-9e4b0757",
-      "headline": "UK to back Ukraine with missile blueprints amid Russia-Ukraine strikes",
-      "summary": "UK PM Andy Burnham visited Kyiv on his first foreign trip, pledging to give cruise missile designs to Ukraine.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/uk-to-back-ukraine-with-missile-blueprints-amid-russia-ukraine-strikes?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "id": "2026-08-25-6498dc48",
+      "headline": "How Canada could hit back to hurt the US economy - and Trump",
+      "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "02:49",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-08-25-b7db34f2",
+      "headline": "Who does Iran trade with and what could Trump's 'economic D-Day' mean?",
+      "summary": "Iran is no stranger to US sanctions and has developed deep economic ties with several countries.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqxvj1zd4qjo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "12:30",
-      "conflict_id": "ukraine-war",
-      "score": 43.4
+      "time": "15:04",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-25-5e81a247",
@@ -242,78 +298,8 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-25-40142f4a",
-      "headline": "CIA director Ratcliffe arrives in Moscow on secret visit, US reports claim",
-      "summary": "John Ratcliffe reportedly arrived in the Russian capital on Tuesday for meetings, in what appears to be his first visit to Russia as CIA director.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/25/cia-director-ratcliffe-arrives-in-moscow-on-secret-visit-us-reports-claim",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "15:01",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-08-25-f6a81863",
-      "headline": "Swedish military seeks to seize property near naval base owned by Russian with Kremlin ties",
-      "summary": "Sweden ended two centuries of military non-alignment and joined NATO in 2024 after Russia's 2022 full-scale invasion of Ukraine.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/25/swedish-military-seeks-to-seize-property-near-naval-base-owned-by-russian-with-kremlin-tie",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "10:45",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-08-25-6ace6541",
-      "headline": "CIA chief in Moscow for unannounced talks, US media reports",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "15:27",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-25-6498dc48",
-      "headline": "How Canada could hit back to hurt the US economy - and Trump",
-      "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "02:49",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-25-3e4515ef",
-      "headline": "Swedish military seeks to take over Russian-owned estate near naval base",
-      "summary": "The armed forces request the seizure of the plot near Muskö Naval Base citing threats from Russian drones.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy3jplvd3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "15:18",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-25-956167ce",
-      "headline": "‘Embarrassing’: US officials recoil fromTrump’s Canada attacks",
+      "id": "2026-08-25-076f13cf",
+      "headline": "‘Embarrassing’: US officials recoil from Trump’s Canada attacks",
       "summary": "Deepening trade war between two long-term allies descends into insults and recrimination",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/3b7ac1fe-4761-4b4a-8fff-95c8c28566b9?syn-25a6b1a6=1",
@@ -424,6 +410,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-08-25-8fe67170",
+      "headline": "Canada hits back with new counter-tariffs on US goods",
+      "summary": "\"We will support our workers, our businesses and our industries with whatever it takes, for as long as it takes,\" Canadian Finance Minister François-Philippe Champagne said on Tuesday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/25/canada-hits-back-with-new-counter-tariffs-on-us-goods",
+      "region": "NA",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "15:46",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-08-25-8a4eeb90",
       "headline": "One million Afghan children suffering 'life-threatening' malnutrition, UNICEF says",
       "summary": "Afghanistan has endured repeated periods of widespread hunger in recent decades as it has struggled through civil war and other crises.",
@@ -452,6 +452,20 @@
       "score": 29.0
     },
     {
+      "id": "2026-08-25-c066d2fe",
+      "headline": "Two unvaccinated people die of measles in Pennsylvania",
+      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "14:54",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-25-22046341",
       "headline": "US removes Syria from list of state sponsors of terrorism",
       "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
@@ -464,20 +478,6 @@
       "time": "00:17",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-08-25-cfbbb2ba",
-      "headline": "Boss of Trump Jr-backed start-up donated to Republicans after winning US contract",
-      "summary": "Companies connected to investment firm of US president’s son have benefited from lucrative government business deals",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/7a889a33-1af5-4704-a57f-7890d169d94e?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-25",
-      "time": "14:25",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-08-25-0b054449",
@@ -534,6 +534,20 @@
       "time": "10:33",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-08-25-1e68fc8f",
+      "headline": "G.O.P. Lawmakers Rebuke Trump on Plan to Increase Beef Imports",
+      "summary": "Republicans who have mostly refrained from criticizing the president’s actions have been vocal in opposition to the move, which they say will harm their constituents",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/republicans-trump-beef-imports.html",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "15:34",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-08-25-86e233c7",
@@ -606,6 +620,34 @@
       "score": 24.0
     },
     {
+      "id": "2026-08-25-bdca5de0",
+      "headline": "Students clash with police in India in a new protest over exam leaks",
+      "summary": "Hundreds of students clashed with police on Tuesday in India’s Bihar state over alleged paper leaks in an exam.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/students-clash-with-police-in-india-in-a-new-protest-over-exam-leaks?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "16:04",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-08-25-cdb1eda9",
+      "headline": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
+      "summary": "Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "15:42",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-08-25-107624db",
       "headline": "Japan to support oil pipelines that bypass Strait of Hormuz",
       "summary": "",
@@ -672,20 +714,6 @@
       "category": "business",
       "date": "2026-08-25",
       "time": "14:15",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-25-0fe3e2b3",
-      "headline": "Australia bans AI-generated music from its official charts",
-      "summary": "Australia's move comes as AI music floods streaming platforms, with a new study finding 38.5% of music released globally in July involved AI.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/culture/2026/08/25/australia-bans-ai-generated-music-from-its-official-charts",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "10:47",
       "conflict_id": null,
       "score": 21.0
     },
@@ -770,6 +798,20 @@
       "category": "geopolitics",
       "date": "2026-08-24",
       "time": "15:14",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-24-0d0a9e25",
+      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
+      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "10:40",
       "conflict_id": null,
       "score": 35.0
     },
@@ -886,34 +928,6 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-23-725abb35",
-      "headline": "Pence says U.S.-Canada trade fight adds to affordability concerns for economy",
-      "summary": "“I think the last thing we need right now, as our economy is getting back on its feet, is a trade war with Canada,” the former vice president told CNN.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/23/pence-says-us-canada-trade-fight-adds-affordability-concerns-economy/",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-23",
-      "time": "15:46",
-      "conflict_id": null,
-      "score": 32.9
-    },
-    {
-      "id": "2026-08-23-3588c50c",
-      "headline": "France links sharp rise in drownings to heatwaves",
-      "summary": "A government minister says people have been taking risks by going into the water, with 301 deaths since 19 June.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqlxlp4lx9yo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-08-23",
-      "time": "17:39",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-23-4eca8518",
       "headline": "New Tata boss to face formidable challenges",
       "summary": "Corporate India's most coveted top job is open. But finding a new leader for Tata Sons is no easy task.",
@@ -998,6 +1012,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-08-21-ea7bb0e6",
+      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-21",
+      "time": "13:07",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-21-f76578ae",
       "headline": "Broken toilets, leaking roofs: Why India's 'cockroach' party wants to fix schools",
       "summary": "The poor state of government schools is the focus of a new campaign by India's Cockroach Janta Party (CJP).",
@@ -1010,20 +1038,6 @@
       "time": "00:04",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-08-20-0be5dd22",
-      "headline": "US says sanctions will 'squash' Iran's economy and 'collapse' its regime",
-      "summary": "US Treasury Secretary Scott Bessent  says allies will need to decide whether they \"are with us or against us\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87n90eg0p2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-20",
-      "time": "19:52",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-08-20-5efa59fe",
@@ -1040,6 +1054,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-19-65617bac",
+      "headline": "Families' agonising search for answers as thousands still missing in Gaza",
+      "summary": "Ten months after a ceasefire was declared, thousands of Palestinians in Gaza are still reported missing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce34r0er75go?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-08-19",
+      "time": "05:04",
+      "conflict_id": "israel-hamas",
+      "score": 55.0
+    },
+    {
       "id": "2026-08-19-acb7f11b",
       "headline": "Chinese firms are wrapping their supply chains around the globe",
       "summary": "A rewiring of global manufacturing is under way",
@@ -1052,6 +1080,20 @@
       "time": "15:56",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-08-18-c8e2d508",
+      "headline": "Inside secret police warehouse as Germany targets small boats gangs",
+      "summary": "German authorities seize dinghies and life jackets during their first raids under a new law that cracks down on smuggling.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cpq809zrvqdo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-08-18",
+      "time": "05:02",
+      "conflict_id": null,
+      "score": 35.0
     }
   ]
 }
