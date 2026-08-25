@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T17:01:22.189613+00:00",
+  "updated": "2026-08-25T17:42:00.066664+00:00",
   "story_count": 75,
   "source_count": 10,
   "stories": [
@@ -13,7 +13,7 @@
       "country": "Beijing",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "11:43",
+      "time": "17:11",
       "conflict_id": null,
       "score": 65.0
     },
@@ -55,7 +55,7 @@
       "country": "Canada",
       "category": "business",
       "date": "2026-08-25",
-      "time": "15:40",
+      "time": "17:22",
       "conflict_id": null,
       "score": 59.4
     },
@@ -209,7 +209,7 @@
       "country": null,
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "16:28",
+      "time": "17:35",
       "conflict_id": null,
       "score": 48.9
     },
@@ -284,18 +284,32 @@
       "score": 41.0
     },
     {
-      "id": "2026-08-25-ba5c75cc",
-      "headline": "Two killed, refinery on fire in Russia’s Krasnodar after drone attack",
-      "summary": "Ukraine hits Moscow&#039;s Afipsky oil refinery and Russian-controlled Zaporizhzhia nuclear power plant",
+      "id": "2026-08-25-27fe2736",
+      "headline": "Canada hits US with counter-tariffs on more than 700 products",
+      "summary": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/two-killed-refinery-on-fire-in-russias-krasnodar-after-drone-attack?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
+      "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
       "date": "2026-08-25",
-      "time": "13:10",
+      "time": "17:08",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-08-25-342239b8",
+      "headline": "Germany's Merz warns attackers will 'pay price' after drone incident",
+      "summary": "A drone attack on Leipzig Airport highlights the \"very real threat\" faced by the country, the German chancellor says.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cddv71p4j2jo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "17:12",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-25-076f13cf",
@@ -312,16 +326,16 @@
       "score": 34.4
     },
     {
-      "id": "2026-08-25-ab61b1ae",
-      "headline": "VIX Curve ‘Bump’ Shows Stock-Market Anxiety Growing by Midterms",
-      "summary": "While Nvidia Corp.’s upcoming earnings and Federal Reserve Chairman Kevin Warsh’s speech in Jackson Hole are the main events for investors this week, traders in the equity derivatives markets are already bracing for a potential uptick in volatility around the US midterm elections in November.",
+      "id": "2026-08-25-8cf46b6b",
+      "headline": "Software Stocks Get an Earnings Gut Check After Hot Summer Rally",
+      "summary": "Software investors are betting that the struggling stocks have found their footing again after a strong performance over the past month. Earnings this week can confirm that this latest rally has staying power.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/vix-curve-bump-shows-stock-market-anxiety-growing-by-midterms",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/software-stocks-get-an-earnings-gut-check-after-hot-summer-rally",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-25",
-      "time": "14:04",
+      "time": "08:30",
       "conflict_id": null,
       "score": 34.1
     },
@@ -335,7 +349,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-08-25",
-      "time": "15:17",
+      "time": "17:05",
       "conflict_id": null,
       "score": 33.2
     },
@@ -380,20 +394,6 @@
       "time": "11:59",
       "conflict_id": null,
       "score": 29.0
-    },
-    {
-      "id": "2026-08-25-c066d2fe",
-      "headline": "Two unvaccinated people die of measles in Pennsylvania",
-      "summary": "Cases in the US have hit the highest point since the virus was eliminated, as vaccination rates decline.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5yednen30go?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "16:43",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-25-22046341",
@@ -648,9 +648,9 @@
       "score": 21.0
     },
     {
-      "id": "2026-08-25-520dce5a",
-      "headline": "Eni's gas push in Egypt: $8.5 billion investment and 230 new wells",
-      "summary": "Eni strengthens its foothold in Egypt with 8.5 billion dollars of investments, 30 exploration wells and 200 development wells, focusing on Zohr, Denise West and Cyprus's Cronos project.",
+      "id": "2026-08-25-6823264c",
+      "headline": "Eni doubles down on Egyptian gas: $8.5bn in investments and 230 new wells",
+      "summary": "The Italian energy giant is deepening its footprint in Egypt with a wave of new exploration, as Cairo pushes to become a regional gas hub.",
       "source": "Euronews",
       "url": "http://www.euronews.com/business/2026/08/25/enis-gas-push-in-egypt-85-billion-investment-and-230-new-wells",
       "region": "MENA",
@@ -718,6 +718,20 @@
       "score": 55.0
     },
     {
+      "id": "2026-08-24-be8edcd9",
+      "headline": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
+      "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-24",
+      "time": "12:51",
+      "conflict_id": "ukraine-war",
+      "score": 55.0
+    },
+    {
       "id": "2026-08-24-8d7008eb",
       "headline": "Mark Carney says Canada can’t accept US trade deal that would weaken French language",
       "summary": "Prime minister praised for rejecting US trade proposal as Trump shows little interest in retreating from disputeAre you a Canadian boycotting US products? We’d like to hear from youMark Carney said on Monday that while American negotiators saw the French language in Canada as an “irritant … in Quebec, these are rights,” days after receiving widespread praise from political leaders for rejecting a US trade proposal that many perceived as weakening",
@@ -730,20 +744,6 @@
       "time": "18:22",
       "conflict_id": null,
       "score": 49.0
-    },
-    {
-      "id": "2026-08-24-be8edcd9",
-      "headline": "UK missiles offer may help Ukraine - but they are not what Zelensky needs most",
-      "summary": "UK Prime Minister Andy Burnham is handing over blueprints so Kyiv can build its own long-range missiles.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8zxqn57z3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "12:51",
-      "conflict_id": "ukraine-war",
-      "score": 47.0
     },
     {
       "id": "2026-08-24-eaa95fb6",
