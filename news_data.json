@@ -1,7 +1,7 @@
 {
-  "updated": "2026-08-25T18:54:02.779274+00:00",
-  "story_count": 72,
-  "source_count": 9,
+  "updated": "2026-08-25T19:20:40.796573+00:00",
+  "story_count": 75,
+  "source_count": 10,
   "stories": [
     {
       "id": "2026-08-25-42731115",
@@ -16,20 +16,6 @@
       "time": "17:11",
       "conflict_id": null,
       "score": 65.0
-    },
-    {
-      "id": "2026-08-25-c9ce74af",
-      "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "11:53",
-      "conflict_id": null,
-      "score": 60.0
     },
     {
       "id": "2026-08-25-c78f53ff",
@@ -60,6 +46,20 @@
       "score": 59.4
     },
     {
+      "id": "2026-08-25-c9ce74af",
+      "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "11:53",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
       "id": "2026-08-25-e1e9a3a6",
       "headline": "Trump says U.S. could rename Lake Ontario as Lake America amid Canada trade war",
       "summary": "The president cited his tariff fight in a social media post, saying the United States doesn’t expect to be “doing much business with Ontario any longer.”",
@@ -74,32 +74,18 @@
       "score": 57.9
     },
     {
-      "id": "2026-08-25-4c909c60",
-      "headline": "Qatar says US sanctions on Iran are unilateral",
-      "summary": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "15:17",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-08-25-7e4071d8",
-      "headline": "Trump floats renaming Lake Ontario to Lake America during Canada trade war",
-      "summary": "Lake Ontario borders both the Canadian province of Ontario and the US state of New York.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/trump-floats-renaming-lake-ontario-to-lake-america-during-canada-trade-war?traffic_source=rss",
+      "id": "2026-08-25-59be6d02",
+      "headline": "Trump Threatens to Rename Lake Ontario to Lake America as U.S.-Canada Trade War Heats Up",
+      "summary": "The president’s threat is his latest jab at Canada since trade talks between the two countries broke down.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-lake-ontario-america-canada-trade.html",
       "region": "NA",
       "country": "America",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "14:53",
+      "time": "15:45",
       "conflict_id": null,
-      "score": 56.4
+      "score": 57.2
     },
     {
       "id": "2026-08-25-4881021a",
@@ -116,6 +102,20 @@
       "score": 55.8
     },
     {
+      "id": "2026-08-25-4c909c60",
+      "headline": "Qatar says US sanctions on Iran are unilateral",
+      "summary": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "15:17",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
       "id": "2026-08-25-0dec2f11",
       "headline": "US launches Economic war on Iran",
       "summary": "The US says it has launched ‘Operation Economic Outcast’, expanding sanctions on Iran",
@@ -128,6 +128,34 @@
       "time": "15:12",
       "conflict_id": null,
       "score": 55.4
+    },
+    {
+      "id": "2026-08-25-ad87aa3b",
+      "headline": "Canada hits back with tariffs of up to 50% on US goods as trade war escalates",
+      "summary": "\"We will support our workers, our businesses and our industries with whatever it takes, for as long as it takes,\" Canadian Finance Minister François-Philippe Champagne said on Tuesday.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/25/canada-hits-back-with-new-counter-tariffs-on-us-goods",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "15:46",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-08-25-ac6c6389",
+      "headline": "Trump considering renaming Lake Ontario to 'Lake America' as trade war with Canada escalates",
+      "summary": "The rhetoric between the two countries is escalating, with Trump telling Canadian leaders on Monday to “fall in line” or face consequences “far WORSE” than existing tariffs.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/25/trump-considering-renaming-lake-ontario-to-lake-america-as-trade-war-with-canada-escalates",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "12:31",
+      "conflict_id": null,
+      "score": 54.0
     },
     {
       "id": "2026-08-25-479dedf6",
@@ -158,18 +186,32 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-25-59be6d02",
-      "headline": "Trump Threatens to Rename Lake Ontario to Lake America as U.S.-Canada Trade War Heats Up",
-      "summary": "The president’s threat is his latest jab at Canada since trade talks between the two countries broke down.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/25/us/politics/trump-lake-ontario-america-canada-trade.html",
+      "id": "2026-08-25-7974c272",
+      "headline": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
+      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Canada",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "17:54",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-08-25-b4b14e93",
+      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
+      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "America",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "15:45",
+      "time": "16:56",
       "conflict_id": null,
-      "score": 49.2
+      "score": 51.0
     },
     {
       "id": "2026-08-25-9645c31b",
@@ -183,19 +225,47 @@
       "date": "2026-08-25",
       "time": "18:39",
       "conflict_id": null,
-      "score": 48.9
+      "score": 49.9
     },
     {
-      "id": "2026-08-25-570982eb",
-      "headline": "Syria ‘shakes off’ past with removal from US ‘terror’ list, says al-Sharaa",
-      "summary": "Removal of decades-old designation offers major sanctions relief for Syria, aiming to boost post-war reconstruction.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/25/syriashakes-offpast-with-removal-from-us-terror-list-says-al-sharaa?traffic_source=rss",
+      "id": "2026-08-25-bc5c9380",
+      "headline": "C.I.A. Director Makes Secret Visit to Moscow",
+      "summary": "John Ratcliffe flew to Moscow in a military cargo plane from Riga, Latvia. It is not clear whom he met or what the purpose of his trip was.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/25/us/politics/cia-director-russia.html",
       "region": "NA",
-      "country": "Syria",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "18:13",
+      "time": "17:51",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
+      "id": "2026-08-25-ed01a83a",
+      "headline": "CIA director John Ratcliffe reportedly on Moscow visit",
+      "summary": "Unannounced trip reported by US media is said to be Ratcliffe’s first known visit to Russia as CIA chiefThe CIA director, John Ratcliffe, has made an unannounced visit to Moscow, US media reported, after flight data showed an American military aircraft flew to the Russian capital, where a US diplomatic motorcade was later spotted.CBS News quoted sources familiar with the situation as confirming Ratcliffe’s trip, saying it was his first known visi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "16:00",
+      "conflict_id": null,
+      "score": 49.0
+    },
+    {
+      "id": "2026-08-25-4a91f37e",
+      "headline": "Kremlin denies US talks amid reports CIA Director Ratcliffe in Russia",
+      "summary": "Washington reportedly alerted Ukraine to refrain from strikes until delegation leaves Moscow, US media reports.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/25/kremlin-denies-planned-talks-with-us-envoys-amid-reports-cia-head-in-russia?traffic_source=rss",
+      "region": "EU",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "18:01",
       "conflict_id": null,
       "score": 47.4
     },
@@ -228,30 +298,16 @@
       "score": 44.0
     },
     {
-      "id": "2026-08-25-7974c272",
-      "headline": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
-      "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
+      "id": "2026-08-25-6498dc48",
+      "headline": "How Canada could hit back to hurt the US economy - and Trump",
+      "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3v4xg5klx7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Canada",
       "category": "business",
       "date": "2026-08-25",
-      "time": "17:54",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-08-25-b4b14e93",
-      "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
-      "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c87vg9x5d7do?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "16:56",
+      "time": "02:49",
       "conflict_id": null,
       "score": 43.0
     },
@@ -270,6 +326,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-08-25-be77f2b6",
+      "headline": "Exclusive: France wants to limit Ukraine's non-European procurement with EU money",
+      "summary": "France seeks time limits on Ukraine's derogations for non-EU defence purchases under €90bn loan, in push for European — and French — producers. Kyiv benefits from exemptions for Chinese and US parts.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/25/exclusive-france-wants-to-limit-ukraines-non-european-procurement-with-eu-money",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "13:21",
+      "conflict_id": "ukraine-war",
+      "score": 41.0
+    },
+    {
       "id": "2026-08-25-60b5a271",
       "headline": "Supreme court threatens midterms mail-in voting as it backs Trump plan | First Thing",
       "summary": "US president has been obsessed with restricting the ability to vote by mail, despite using it himself. Plus, why we are still fascinated with Meg from the White StripesDon’t already get First Thing in your inbox? Sign up hereGood morning. The US supreme court has sided with Donald Trump in his effort to crack down on mail-in voting, though it is unclear whether or not his administration will be able to take action before the midterm elections in ",
@@ -284,6 +354,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-08-25-27fe2736",
+      "headline": "Canada hits US with counter-tariffs on more than 700 products",
+      "summary": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "17:08",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-25-22046341",
       "headline": "US removes Syria from list of state sponsors of terrorism",
       "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
@@ -294,20 +378,6 @@
       "category": "politics",
       "date": "2026-08-25",
       "time": "00:17",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-25-6498dc48",
-      "headline": "How Canada could hit back to hurt the US economy - and Trump",
-      "summary": "What leverage does Canada, which sells about 70% of its exports to the US, actually have in this spiralling trade dispute?",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c05rj80ve56o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "02:49",
       "conflict_id": null,
       "score": 35.0
     },
@@ -354,34 +424,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-25-23dff45c",
-      "headline": "Guggenheim Investments Says Affiliates May Buy Its Hard-Hit Loan",
-      "summary": "Guggenheim Investments, the asset-management arm of Mark Walter’s Guggenheim Partners, is telling lenders that affiliates may look to buy portions of a loan issued by its financing entity after the debt’s value collapsed in recent weeks.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/guggenheim-investments-says-affiliates-may-buy-its-hard-hit-loan",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "18:35",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-25-8cf46b6b",
-      "headline": "Software Stocks Get an Earnings Gut Check After Hot Summer Rally",
-      "summary": "Software investors are betting that the struggling stocks have found their footing again after a strong performance over the past month. Earnings this week can confirm that this latest rally has staying power.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/software-stocks-get-an-earnings-gut-check-after-hot-summer-rally",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "08:30",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-08-25-5018c85f",
       "headline": "Trump Wants to Restrict Mail-In Voting. See Which States Rely on It The Most.",
       "summary": "Nearly 30 percent of voters nationwide use mail ballots. President Trump is seeking greater federal control of mail voting.",
@@ -410,20 +452,6 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-25-27fe2736",
-      "headline": "Canada hits US with counter-tariffs on more than 700 products",
-      "summary": "Canada imposes tariffs on $19.9bn of US goods which will take effect on September 8 as trade talks with Washington collapse.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/25/canada-hits-us-with-counter-tariffs-targeting-hundreds-of-products?traffic_source=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "17:08",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-08-25-ab436893",
       "headline": "US affordability tracker: the data that could decide the 2026 midterm elections",
       "summary": "The FT is tracking changes to the cost of living that will affect American voters",
@@ -434,6 +462,20 @@
       "category": "politics",
       "date": "2026-08-25",
       "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-25-e06e8ad3",
+      "headline": "SpaceX commits $100bn to Louisiana space base",
+      "summary": "Elon Musk’s rocket conglomerate plans its second launch complex to support more Starship launches",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/0c59f1d7-2197-406b-ba9b-6592c12bcb3d?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "18:57",
       "conflict_id": null,
       "score": 26.4
     },
@@ -522,16 +564,16 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-25-26ea146b",
-      "headline": "Artist known for sculptures of Mao Zedong jailed for slandering ‘heroes and martyrs’",
-      "summary": "Gao Zhen sentenced to three years in prison after already spending two years in detentionGao Zhen, a prominent Chinese artist known for provocative sculptures of the former leader Mao Zedong, has been sentenced to three years in prison after being found guilty of slandering China’s “heroes and martyrs”. The sentencing came two years after he was detained while visiting the country with his family, according to his wife and human rights groups.The",
+      "id": "2026-08-25-65032175",
+      "headline": "Taiwan charges nine people for smuggling ‘high-end’ AI servers to China",
+      "summary": "Among those charged are two Super Micro employees and one from Nvidia, marking another flashpoint in US-China AI rivalryTaiwanese prosecutors charged nine people Monday, including one from Nvidia and two from Super Micro, for illegally exporting “high-end AI servers” to mainland China, adding another wave of turbulence in the AI ​​rivalry between China and the United States.Prosecutors said the servers involved were graphics processing units know",
       "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/25/artist-gao-zhen-sculptures-mao-zedong-jailed-china",
+      "url": "https://www.theguardian.com/technology/2026/aug/25/taiwan-china-ai-smugglers",
       "region": "APJ",
-      "country": "China",
+      "country": "United States",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "11:53",
+      "time": "19:02",
       "conflict_id": null,
       "score": 24.0
     },
@@ -662,6 +704,48 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-25-a60edeb7",
+      "headline": "Armenia detains former President Kocharyan on corruption charges",
+      "summary": "Robert Kocharyan, who leads the Moscow-friendly opposition and maintains close ties with Putin, was detained alongside his son and four others in raids on family businesses. Analysts say the move sent \"a signal to the Kremlin\" about Pashinyan's intent to confront Russian-aligned political forces.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/25/armenia-detains-former-president-kocharyan-on-corruption-charges",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "18:19",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-25-a6663c5a",
+      "headline": "Azerbaijan's biggest bank enters Uzbek market with Davr Bank acquisition",
+      "summary": "Azerbaijan's largest financial institution, the International Bank of Azerbaijan, is expanding its corporate banking operations by acquiring a 51% controlling stake in Uzbekistan's Davr Bank in a deal valued at $150 million (€128.5m).",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/25/azerbaijans-biggest-bank-enters-uzbek-market-with-davr-bank-acquisition",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "14:23",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-25-6823264c",
+      "headline": "Eni doubles down on Egyptian gas: $8.5bn in investments and 230 new wells",
+      "summary": "The Italian energy giant is deepening its footprint in Egypt with a wave of new exploration, as Cairo pushes to become a regional gas hub.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/business/2026/08/25/enis-gas-push-in-egypt-85-billion-investment-and-230-new-wells",
+      "region": "MENA",
+      "country": "Egypt",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "14:15",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-24-d6b93ceb",
       "headline": "'Half my business will be gone' - firms in Canada and US fear trade war",
       "summary": "Business owners in both countries are navigating uncertainty and worry as the tit-for-tat import taxes ratchet up.",
@@ -673,21 +757,7 @@
       "date": "2026-08-24",
       "time": "09:47",
       "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-08-24-d62725f7",
-      "headline": "Iran vows to retaliate against countries that cooperate with fresh US sanctions",
-      "summary": "Test of US rhetoric will rest on whether nations such as India, China and Russia view economic threats as credibleTehran has vowed to retaliate against any country that cooperates with the US attempt to impose fresh sanctions against Iran in what the Treasury secretary, Scott Bessent, has billed as “the single greatest financial offensive ever marshalled against an adversary”.In advance of the US announcement, the United Arab Emirates, Iran’s sin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/24/iran-vows-retaliate-countries-cooperate-fresh-us-sanctions",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "11:53",
-      "conflict_id": null,
-      "score": 56.0
+      "score": 60.0
     },
     {
       "id": "2026-08-24-dc7ef320",
@@ -728,20 +798,6 @@
       "category": "geopolitics",
       "date": "2026-08-24",
       "time": "15:14",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-24-0d0a9e25",
-      "headline": "Russia's second-biggest online retailer targeted in Ukrainian strikes",
-      "summary": "Ozon says its warehouses across southern Russia, including in Dagestan and Krasnodar, were hit in the overnight strikes.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg598yvrzpro?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-24",
-      "time": "10:40",
       "conflict_id": null,
       "score": 35.0
     },
@@ -926,20 +982,6 @@
       "time": "19:31",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-21-ea7bb0e6",
-      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "13:07",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-21-f76578ae",
