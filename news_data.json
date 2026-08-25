@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T20:13:41.200939+00:00",
+  "updated": "2026-08-25T20:44:27.942029+00:00",
   "story_count": 78,
   "source_count": 10,
   "stories": [
@@ -15,7 +15,7 @@
       "date": "2026-08-25",
       "time": "17:11",
       "conflict_id": null,
-      "score": 65.0
+      "score": 64.0
     },
     {
       "id": "2026-08-25-e706d774",
@@ -30,34 +30,6 @@
       "time": "17:22",
       "conflict_id": null,
       "score": 59.4
-    },
-    {
-      "id": "2026-08-25-c9ce74af",
-      "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "11:53",
-      "conflict_id": null,
-      "score": 59.0
-    },
-    {
-      "id": "2026-08-25-c78f53ff",
-      "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "08:08",
-      "conflict_id": null,
-      "score": 59.0
     },
     {
       "id": "2026-08-25-e1e9a3a6",
@@ -86,20 +58,6 @@
       "time": "15:45",
       "conflict_id": null,
       "score": 57.2
-    },
-    {
-      "id": "2026-08-25-4c909c60",
-      "headline": "Qatar says US sanctions on Iran are unilateral",
-      "summary": "Qatar’s Foreign Ministry said in a briefing on Tuesday that the US sanctions on Iran are unilateral.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/qatar-says-us-sanctions-on-iran-are-unilateral?traffic_source=rss",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "15:17",
-      "conflict_id": null,
-      "score": 55.4
     },
     {
       "id": "2026-08-25-4881021a",
@@ -158,20 +116,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-08-25-f4048b43",
-      "headline": "Gaza marks one year since Mariam Dagga was killed in Israeli strike",
-      "summary": "A ceremony was held in Gaza to mark one year since an Israeli double strike killed 22 Palestinians in a hospital.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/gaza-marks-one-year-since-mariam-dagga-was-killed-in-israeli-strike?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "15:23",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
       "id": "2026-08-25-7974c272",
       "headline": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -186,6 +130,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-08-25-c9ce74af",
+      "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
+      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "11:53",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-08-25-b4b14e93",
       "headline": "CIA chief travels to Moscow for unannounced talks, US media reports",
       "summary": "Flight tracking data confirms an American military aircraft travelled to Russia from the US via Latvia on Tuesday.",
@@ -196,6 +154,20 @@
       "category": "geopolitics",
       "date": "2026-08-25",
       "time": "19:48",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-08-25-c78f53ff",
+      "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
+      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "08:08",
       "conflict_id": null,
       "score": 51.0
     },
@@ -312,6 +284,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-25-d46e9f0a",
+      "headline": "Iran and Oman edge towards deal on Strait of Hormuz",
+      "summary": "Interim proposal on managing shipping is first hint of diplomatic progress to reopen the strategic waterway in weeks",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b3e4d264-55f0-485e-8e1a-0ba0cbe006b6?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "18:09",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
       "id": "2026-08-25-6889e5ed",
       "headline": "Supreme Court Ruling on Mail-in Voting Could Add to Election Confusion",
       "summary": "The limits on mail-in voting may not go into effect by November, with at least one state vowing to sue. But some states and experts warned about further voter confusion.",
@@ -420,6 +406,20 @@
       "category": "geopolitics",
       "date": "2026-08-25",
       "time": "19:11",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-25-b372904e",
+      "headline": "Israeli attacks kill five in Gaza, including two children, medics say",
+      "summary": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics and relatives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "14:07",
       "conflict_id": null,
       "score": 35.0
     },
@@ -634,8 +634,8 @@
       "score": 25.2
     },
     {
-      "id": "2026-08-25-f967aef3",
-      "headline": "Australia may face a rush of datacentre construction as AI firms look to dodge upcoming rules, experts say",
+      "id": "2026-08-25-7a65f9c2",
+      "headline": "Australia may face a rush of datacentre construction as AI firms look to avoid upcoming rules, experts say",
       "summary": "Regulations will require new sites to avoid pushing up power prices by building renewable energy plants and minimising water useGet our breaking news email, free app or daily news podcastPlanned datacentres around Australia may avoid strict new rules being proposed by Anthony Albanese if they can secure approvals in the coming months, amid growing calls for a moratorium.The prime minister is aiming to come to an agreement with national cabinet on",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/aug/26/australia-may-face-a-rush-of-datacentre-construction-as-ai-firms-look-to-dodge-upcoming-rules-experts-say",
@@ -676,6 +676,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-08-25-62aacdf6",
+      "headline": "What challenge do ‘cockroach’ protests pose for India’s PM Modi?",
+      "summary": "Youth-led movement plans more demonstrations for next month.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/8/25/what-challenge-do-cockroach-protests-pose-for-indias-pm-modi?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "20:08",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-08-25-32e3e8fe",
       "headline": "India police clash with protesters a month after Gen Z demonstrations",
       "summary": "Police used water cannons and batons as a few thousand protesters broke through security barricades in Bihar&#039;s capital.",
@@ -714,20 +728,6 @@
       "category": "politics",
       "date": "2026-08-25",
       "time": "16:04",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-25-cdb1eda9",
-      "headline": "Infantino’s presidency under threat: FIFA elections, challengers, dates",
-      "summary": "Amid waning support and growing criticism, the FIFA chief looks to hold onto his powerful position in world football.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/8/25/infantinos-presidency-under-threat-fifa-elections-challengers-dates?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-25",
-      "time": "15:42",
       "conflict_id": null,
       "score": 23.4
     },
