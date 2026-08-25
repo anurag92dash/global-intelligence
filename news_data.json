@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-25T11:16:07.530024+00:00",
+  "updated": "2026-08-25T11:49:38.154529+00:00",
   "story_count": 77,
   "source_count": 10,
   "stories": [
@@ -43,7 +43,21 @@
       "date": "2026-08-25",
       "time": "10:08",
       "conflict_id": null,
-      "score": 66.1
+      "score": 67.1
+    },
+    {
+      "id": "2026-08-25-42731115",
+      "headline": "China denounces US threat of sanctions over trade with Iran",
+      "summary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate TehranExplainer: could US sanctions threaten China-Iran ties?China has denounced the threat of US sanctions for its trade with Iran, saying any such measures would be illegal, and warned it will take “all necessary measures” to protect its national interests.Beijing’s rejection of the US threat of secondary sanctions for any country or en",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/25/china-us-sanctions-iran-oil",
+      "region": "MENA",
+      "country": "Beijing",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "11:43",
+      "conflict_id": null,
+      "score": 65.0
     },
     {
       "id": "2026-08-25-e87ade0a",
@@ -97,7 +111,7 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-25",
-      "time": "11:13",
+      "time": "11:35",
       "conflict_id": "ukraine-war",
       "score": 52.0
     },
@@ -130,20 +144,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-08-25-22046341",
-      "headline": "US removes Syria from list of state sponsors of terrorism",
-      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-25",
-      "time": "00:17",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-08-25-edfbcb05",
       "headline": "US-Canada trade war escalates as Trump threatens tariff hike on vehicles",
       "summary": "Mark Carney accused Trump of wanting to \"destroy\" Canada's auto industry, and said he would only resume trade talks if the US comes with the \"right attitude\".",
@@ -172,32 +172,18 @@
       "score": 39.4
     },
     {
-      "id": "2026-08-25-a89a967f",
-      "headline": "Syrian president thanks nation for getting off US state terror list",
-      "summary": "Syrian president Ahmed al-Sharaa thanks his nation for getting off US state terror list.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/25/syrian-president-thanks-nation-for-getting-off-us-state-terror-list?traffic_source=rss",
+      "id": "2026-08-25-22046341",
+      "headline": "US removes Syria from list of state sponsors of terrorism",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Syria",
+      "country": "Trump",
       "category": "politics",
       "date": "2026-08-25",
-      "time": "04:38",
+      "time": "00:17",
       "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-25-2ab1860c",
-      "headline": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says",
-      "summary": "Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group al-Sharaa led to topple Assad.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says",
-      "region": "NA",
-      "country": "Washington",
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "09:48",
-      "conflict_id": null,
-      "score": 37.0
+      "score": 35.0
     },
     {
       "id": "2026-08-25-29d97bec",
@@ -270,6 +256,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-25-2ab1860c",
+      "headline": "US terror list removal 'shakes off dark stain' from Syria, al-Sharaa says",
+      "summary": "Washington rescinded a designation in place since 1979, lifting severe economic restrictions and opening the door to private investment, as the US State Department also removed the terror designation from HTS, the group al-Sharaa led to topple Assad.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/25/us-terror-list-removal-shakes-off-dark-stain-from-syria-al-sharaa-says",
+      "region": "NA",
+      "country": "Washington",
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "09:48",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
       "id": "2026-08-25-6498dc48",
       "headline": "How Canada could hit back to hurt the US economy - and Trump",
       "summary": "What leverage does Canada, which sells about 70% of its goods to the US, actually have in this spiralling trade dispute?",
@@ -324,6 +324,34 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-08-25-403aad02",
+      "headline": "Tungsten West Soars as UK Backs Restart of Historic Mine",
+      "summary": "Tungsten West Plc shares soared after securing an investment of up to £71 million ($97 million) from the UK government for the restart of a historic tin and tungsten mine in the southwest of the country.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/tungsten-west-soars-as-uk-backs-restart-of-historic-mine",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "11:33",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-25-f5dd01f9",
+      "headline": "Market Looking For Powell-Type Guidance: Henry Allen",
+      "summary": "Henry Allen, macro strategist at Deutsche Bank, joins Bloomberg's Vonnie Quinn on \"Bloomberg Brief\" to discuss market expectations ahead of the PCE data and the Jackson Hole Economic Policy Symposium. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-25/market-looking-for-powell-type-guidance-henry-allen-video",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-25",
+      "time": "11:16",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-25-59e02a44",
@@ -438,6 +466,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-08-25-849e011e",
+      "headline": "Jeffries Defends Kushner Meeting, Vowing Tough Oversight of Trump",
+      "summary": "The Brooklyn Democrat, who is in line to be speaker should his party win the House, has drawn ire from some progressives for huddling with the president’s son-in-law.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/24/us/politics/jeffries-kushner-meeting-trump-oversight.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-25",
+      "time": "03:08",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-08-25-9586f8c5",
       "headline": "Woolworths’ Ooshies craze causes Coles sales slump with parents shopping at rival supermarket to collect toys",
       "summary": "Coles full-year results show that despite gaining market share over past 12 months, sales fell over four weeks of ‘competitor’s collectables campaign’Follow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWoolworths’ latest Disney “Ooshie” collectibles have not only captivated Australian children, they have led to a short-term slump in competitor Coles’ sales.Thousands of shoppers switched",
@@ -548,20 +590,6 @@
       "time": "",
       "conflict_id": null,
       "score": 22.8
-    },
-    {
-      "id": "2026-08-25-1f4134a8",
-      "headline": "Del Vecchio quits EssilorLuxottica, says bosses 'too distant' from workers",
-      "summary": "The 31-year-old quits as Ray-Ban president and chief strategy officer, attacking the group's \"remote\" management, recalling his father's \"close to people\" style and confirming his role as shareholder through Delfin.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/business/2026/08/25/del-vecchio-quits-essilorluxottica-says-bosses-too-distant-from-workers",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-25",
-      "time": "10:50",
-      "conflict_id": null,
-      "score": 21.0
     },
     {
       "id": "2026-08-25-0fe3e2b3",
@@ -704,20 +732,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-24-88674859",
-      "headline": "New Zealand to introduce bill for under-16s social media ban",
-      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "New Zealand",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "12:17",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-08-24-2474a478",
       "headline": "Australian shark attack victim grateful for 'second chance at life'",
       "summary": "Leah Stewart was mauled by a shark in June, suffering multiple bites to her arms and legs.",
@@ -760,20 +774,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-24-2067ea72",
-      "headline": "New Zealand to consider banning children under 16 from social media",
-      "summary": "Prime minister Christopher Luxon’s party to introduce bill seeking the ban, citing harm to a generation of childrenNew Zealand prime minister Christopher Luxon has said his party will introduce a bill in parliament that ⁠seeks to ban children ⁠under ​16 from using social media, proposing fines of up to 10% of a platform’s global revenue for non-compliance.The bill would ⁠require social media platforms to take reasonable steps to verify users’ age",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/media/2026/aug/24/nz-social-media-ban-children-under-16-fines-meta-tiktok",
-      "region": "APJ",
-      "country": "New Zealand",
-      "category": "politics",
-      "date": "2026-08-24",
-      "time": "05:22",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-08-24-53056ba8",
       "headline": "Outrage in Nepal over rape and murder of three-year-old girl",
       "summary": "There have been protests since the girl was found dead last week, three days after she went missing.",
@@ -812,6 +812,20 @@
       "category": "business",
       "date": "2026-08-24",
       "time": "19:57",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-08-24-88674859",
+      "headline": "New Zealand to introduce bill for under-16s social media ban",
+      "summary": "The government faces opposition to its proposals from MPs who believe a ban will not work.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj068q7qj19o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "New Zealand",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "12:17",
       "conflict_id": null,
       "score": 27.0
     },
@@ -982,20 +996,6 @@
       "time": "19:31",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-21-40537e14",
-      "headline": "UK, Canada and Australia condemn Israel for refusing criminal probe into aid worker killings in Gaza",
-      "summary": "Seven World Central Kitchen workers were killed in the Israeli strike on their convoy in 2024.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgl2pe09eno?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Australia",
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "15:58",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-08-21-6fa9d2bf",
