@@ -1,21 +1,21 @@
 {
-  "updated": "2026-08-26T12:22:23.385065+00:00",
-  "story_count": 76,
-  "source_count": 9,
+  "updated": "2026-08-26T13:29:40.027603+00:00",
+  "story_count": 78,
+  "source_count": 10,
   "stories": [
     {
-      "id": "2026-08-26-23e33296",
-      "headline": "The RSF’s defeat will not end Sudan’s war but merely fragment it",
-      "summary": "Sudanese army&#039;s battlefield gains rely on an armed coalition it may struggle to control once the common enemy is gone.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/8/26/the-rsfs-defeat-will-not-end-sudans-war-but-merely-fragment-it?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
+      "id": "2026-08-26-faa4381d",
+      "headline": "Leonardo opens Ukraine branch: Italy taps Kyiv war experience, tests Michelangelo Dome",
+      "summary": "Italian arms maker has set up Leonardo Ukraine to shape future defence: drones, battlefield data for AI and tests of the Michelangelo air-defence system, a strategic partnership boosting Europe's technological and military innovation.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/26/leonardo-opens-ukraine-branch-italy-taps-kyiv-war-experience-tests-michelangelo-dome",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-26",
-      "time": "07:26",
-      "conflict_id": "sudan-civil-war",
-      "score": 59.4
+      "time": "10:54",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
     },
     {
       "id": "2026-08-26-67128140",
@@ -55,23 +55,9 @@
       "country": "Pakistan",
       "category": "geopolitics",
       "date": "2026-08-26",
-      "time": "11:55",
+      "time": "12:32",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-08-26-cd46ff08",
-      "headline": "Four Russian bankers made millions from EU sanctions",
-      "summary": "As Moscow reeled from western blowback over Ukraine war, traders at Gazprombank Luxembourg cashed in",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3cb40de7-89f5-4c64-b769-70da374dcd4a?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-26",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 42.4
     },
     {
       "id": "2026-08-26-4b05720c",
@@ -84,20 +70,6 @@
       "category": "business",
       "date": "2026-08-26",
       "time": "10:00",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-08-26-945da908",
-      "headline": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
-      "summary": "Death toll of nine likely to rise as floods and mudslide sweep away houses, roads, bridges and power projectsTorrential floods ⁠in the Himalayan border areas of ⁠Nepal and in ​Tibet in China have killed at least nine people and destroyed roads, bridges and power projects, as authorities in both countries braced for more casualties.Houses and roads were swept away ⁠in Nepal while officials in Tibet said they feared “major casualties” with some mis",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-26",
-      "time": "10:45",
       "conflict_id": null,
       "score": 40.0
     },
@@ -116,8 +88,8 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-26-86ee9773",
-      "headline": "At least eight killed, hundreds missing after Nepal flash flood",
+      "id": "2026-08-26-7df543f2",
+      "headline": "At least 22 killed, hundreds missing after Nepal flash flood",
       "summary": "Across the border, Tibet reported &#039;major casualties&#039; with people missing in the neighbouring county of Gyirong.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/26/at-least-eight-killed-in-nepal-flash-floods-that-swept-away-villages-roads?traffic_source=rss",
@@ -128,6 +100,48 @@
       "time": "09:48",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-08-26-a741af32",
+      "headline": "What message did the CIA director deliver to Moscow — on Ukraine, NATO or Iran?",
+      "summary": "The Kremlin says John Ratcliffe met Russian intelligence officials but not Vladimir Putin during his surprise visit to Moscow on Tuesday. The secrecy surrounding the trip fuelled speculation that the CIA director was carrying a warning from Washington.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/26/what-message-did-the-cia-director-deliver-to-moscow-on-ukraine-nato-or-iran",
+      "region": "EU",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-08-26",
+      "time": "13:05",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-26-141a62f5",
+      "headline": "Canada wants to get closer to the EU - but how far can it go without EU membership?",
+      "summary": "In the midst of a trade war with the US, Canada’s Prime Minister Mark Carney will attend Ursula von der Leyen's State of the Union speech in Strasbourg on 16 September, with a summit between Ottawa and Brussels to follow. However, EU membership is not an option.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/26/canada-wants-to-get-closer-to-the-eu-but-how-far-can-it-go",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "politics",
+      "date": "2026-08-26",
+      "time": "12:42",
+      "conflict_id": null,
+      "score": 37.0
+    },
+    {
+      "id": "2026-08-26-08c052a9",
+      "headline": "EU countries face nearly €41bn in extra fossil fuel costs as Hormuz crisis exposes energy vulnerability",
+      "summary": "European countries have spent unforeseen billions of euros on fossil fuel imports due to the drastic surge in prices that followed the war against Iran. Meanwhile, European and international groups are urging Ursula von der Leyen to set out a plan to phase out fossil fuels.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/26/eu-countries-face-nearly-41bn-in-extra-fossil-fuel-costs-as-hormuz-crisis-exposes-energy-v",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-08-26",
+      "time": "11:49",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-08-26-f945c70c",
@@ -214,6 +228,20 @@
       "score": 32.9
     },
     {
+      "id": "2026-08-26-945da908",
+      "headline": "‘Major casualties’ feared after flash floods along Nepal-Tibet border",
+      "summary": "Hundreds missing and at least 22 people dead after floods sweep away houses, roads, bridges and power projectsHundreds are missing and at least 22 people have died after torrential floods ⁠hit the Himalayan border areas of ⁠Nepal and in ​Tibet in China.Houses, roads, bridges and power projects were swept away ⁠in Nepal while officials in Tibet said they feared “major casualties” with some missing in the county of Gyirong after a mudslide hit a la",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/26/major-casualties-feared-after-flash-floods-along-nepal-tibet-border",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-08-26",
+      "time": "12:51",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-08-26-59a9ee41",
       "headline": "Typhoon Narra: record flood waters submerge homes and force mass evacuations in China",
       "summary": "Heavy rain expected in parts of Vietnam and southern ‌China, as another storm system, Typhoon Saudel, heads for Japan and TaiwanWidespread flooding triggered by Typhoon Narra has submerged homes and forced mass evacuations in southern China, as another storm system tracked towards Japan and Taiwan.Authorities in Chongzuo, in China’s Guangxi region – famous for its giant waterfalls and karst limestone mountains – on Tuesday evacuated more than 15,",
@@ -256,6 +284,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-26-3bf5066f",
+      "headline": "China advises its citizens to leave Taiwan ally Eswatini over 'security risks'",
+      "summary": "Eswatini is one of 12 countries, and the only one in Africa, that has diplomatic relations with Taiwan.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c3rel9rgnx5o?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Taiwan",
+      "category": "geopolitics",
+      "date": "2026-08-26",
+      "time": "12:17",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-26-8b1c9e1b",
       "headline": "Why Tesla has been caught up in a massive car recall in China",
       "summary": "The country's biggest ever car recall affects more than four million vehicles made by Tesla, XPeng, Xiaomi and other firms.",
@@ -268,6 +310,48 @@
       "time": "03:33",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-08-26-a71da957",
+      "headline": "Mark Walter’s group insists there is no ‘fire sale’ and ‘no fraud’",
+      "summary": "TWG Global hits out at ‘multipronged attacks’ on investment empire, which has stakes in high-profile sports teams",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/70949883-f543-4444-a330-503b8e4c141a?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-26",
+      "time": "12:59",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-08-26-a378c5a8",
+      "headline": "Nike Stock on Pace for Worst Year Since Jordan’s ‘93 Retirement",
+      "summary": "When Michael Jordan quit pro basketball at just 30 years old, his exit created a headache for Nike Inc., the maker and massive beneficiary of his iconic line of sneakers.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/nike-stock-on-pace-for-worst-year-since-jordan-s-93-retirement",
+      "region": "MENA",
+      "country": "Jordan",
+      "category": "business",
+      "date": "2026-08-26",
+      "time": "12:48",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-26-1e085fcd",
+      "headline": "BofA's Ike: Economic Stability Driving Africa IPO Boom",
+      "summary": "Improving economic conditions are driving renewed activity in Africa's capital markets according to Yvonne Ike at Bank of America. She spoke to Chief Africa correspondent Jennifer Zabasajja on Bloomberg's Next Africa program. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-26/bofa-s-ike-economic-stability-driving-africa-ipo-boom-video",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-08-26",
+      "time": "12:35",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-08-26-86faf6db",
@@ -284,6 +368,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-26-81ce4b0b",
+      "headline": "Indians Plow Record Funds Into Foreign Stocks, Debt in June",
+      "summary": "Indians sent a record amount of money abroad in June to buy equity and debt, accelerating a trend among local investors to diversify their portfolios overseas.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/indians-plow-record-funds-into-foreign-stocks-debt-in-june",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-08-26",
+      "time": "11:50",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-08-26-2faf4a5a",
       "headline": "The Pulse with Francine Lacqua 8/26/2026",
       "summary": "\"The Pulse With Francine Lacqua\" is all about conversations with high profile guests in the beating heart of global business, economics, finance and politics. Based in London, we go wherever the story is, bringing you exclusive interviews and market-moving scoops.\n\nToday's guests: Simon MacAdam, Capital Economics, Deputy Chief Global Economist; Anna Leach, Institute of Directors, Chief Economist. (Source: Bloomberg)",
@@ -294,34 +392,6 @@
       "category": "business",
       "date": "2026-08-26",
       "time": "11:47",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-26-86c64bf3",
-      "headline": "Pimco’s Balls Points to Low Volatility in ‘Healthy’ Bond Market",
-      "summary": "Andrew Balls, global fixed income CIO at Pimco, says it is “not 100% clear to me why” the US Treasury would increase the purchases of long-dated bonds as he explains the factors he finds healthy about the fixed income market. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-26/pimco-points-to-low-volatility-in-healthy-bond-market-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-26",
-      "time": "11:31",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-26-2f442e32",
-      "headline": "Global Fuel Markets Have Little Margin for Error",
-      "summary": "The world is relying heavily on US refineries just as those plants are being pushed to their limits.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-08-26/global-fuel-markets-have-little-margin-for-error",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-26",
-      "time": "11:18",
       "conflict_id": null,
       "score": 26.1
     },
@@ -350,48 +420,6 @@
       "category": "politics",
       "date": "2026-08-26",
       "time": "09:27",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-26-450c2b6e",
-      "headline": "Indian Refiners to Divert Sugar to Local Market to Ease Crunch",
-      "summary": "Indian refiners will divert 350,000 tons of sugar originally headed offshore into the local market, people familiar with the matter said, after authorities cleared the move to ease a supply crunch.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/indian-refiners-to-divert-sugar-to-local-market-to-ease-crunch",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-08-26",
-      "time": "09:30",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-26-8cc83b7e",
-      "headline": "JioBlackRock AMC CEO on India's Retail Investing Boom",
-      "summary": "JioBlackRock MD and CEO Sid Swaminathan discusses India’s growing retail investor base and why he remains optimistic about the future of India's financial markets. He joined \"Insight with Haslinda Amin\" exclusively. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-26/jioblackrock-amc-ceo-on-india-s-retail-investing-boom-video",
-      "region": "SA",
-      "country": "India",
-      "category": "business",
-      "date": "2026-08-26",
-      "time": "09:02",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-26-d8924b7b",
-      "headline": "Takaichi Says Japan Will ‘Protect’ ICC From US Pressure",
-      "summary": "Prime Minister Sanae Takaichi said Japan would defend the International Criminal Court as it comes under increasing pressure from the US, most recently through the sanctioning of its Japanese president.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-26/takaichi-says-japan-will-protect-icc-from-us-push-to-dismantle",
-      "region": "NA",
-      "country": "Japan",
-      "category": "politics",
-      "date": "2026-08-26",
-      "time": "01:51",
       "conflict_id": null,
       "score": 26.1
     },
@@ -620,6 +648,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-26-abc626ed",
+      "headline": "Poland to get four Airbus refuelling aircraft by 2030",
+      "summary": "Poland and Spain plan to jointly buy at least seven Airbus A330 MRTT aircraft for air refuelling and strategic transport, with four due in Poland by 2030 under the SAFE programme.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/26/poland-to-get-four-airbus-refuelling-aircraft-by-2030",
+      "region": "EU",
+      "country": "Poland",
+      "category": "business",
+      "date": "2026-08-26",
+      "time": "10:53",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-26-dc10eec8",
+      "headline": "The wit and wisdom of Dolly Parton: 'If you see somebody without a smile, give 'em yours!'",
+      "summary": "Celebrated country music star Dolly Parton leaves behind a legacy of music, films and charity work, as well as plenty of humour and wisdom. Here are some of her most memorable quotes.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/culture/2026/08/26/the-wit-and-wisdom-of-dolly-parton-if-you-see-somebody-without-a-smile-give-em-yours",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-26",
+      "time": "10:16",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-25-42731115",
       "headline": "China denounces US threat of sanctions over trade with Iran",
       "summary": "Beijing says it will take ‘all necessary measures’ to protect its interests as US steps up efforts to isolate TehranExplainer: could US sanctions threaten China-Iran ties?China has denounced the threat of US sanctions for its trade with Iran, saying any such measures would be illegal, and warned it would take “all necessary measures” to protect its national interests.Beijing’s rejection of the US threat of secondary sanctions for any country or e",
@@ -690,6 +746,20 @@
       "score": 40.9
     },
     {
+      "id": "2026-08-25-ed01a83a",
+      "headline": "CIA director John Ratcliffe reportedly on Moscow visit",
+      "summary": "Unannounced trip reported by US media is said to be Ratcliffe’s first known visit to Russia as CIA chiefThe CIA director, John Ratcliffe, has made an unannounced visit to Moscow, US media reported, after flight data showed an American military aircraft flew to the Russian capital, where a US diplomatic motorcade was later spotted.CBS News quoted sources familiar with the situation as confirming Ratcliffe’s trip, saying it was his first known visi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "16:00",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-08-25-7974c272",
       "headline": "Canada announces 'dollar-for-dollar' retaliatory tariffs on US as high as 50%",
       "summary": "The latest escalation in an ongoing trade war between the US and Canada will see new levies on goods from steel to furniture, fresh tuna and makeup.",
@@ -714,20 +784,6 @@
       "category": "geopolitics",
       "date": "2026-08-25",
       "time": "17:12",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-25-a0f0b95e",
-      "headline": "Spanish government says sorry to people of Ceuta for migrant crisis",
-      "summary": "Several thousand migrants remain in the enclave after a mass crossing from Morocco in late July.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1dl7dykrnvo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Morocco",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "19:11",
       "conflict_id": null,
       "score": 35.0
     },
@@ -760,6 +816,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-25-b372904e",
+      "headline": "Israeli attacks kill five in Gaza, including two children, medics say",
+      "summary": "An Israeli strike on Monday killed a four-year-old boy, while a 10-year-old girl was hit by a bullet inside her tent, according to medics and relatives.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ce8x1rdgp3lo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "14:07",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-25-87a7d654",
       "headline": "Secret Service says it is aware of Iranian state media video threatening Barron Trump",
       "summary": "The footage, reportedly released by media linked to Iran’s Islamic Revolutionary Guard Corps, claimed a $10 million bounty had been placed on the president’s youngest son.",
@@ -772,34 +842,6 @@
       "time": "14:17",
       "conflict_id": null,
       "score": 32.9
-    },
-    {
-      "id": "2026-08-25-ed01a83a",
-      "headline": "CIA director John Ratcliffe reportedly on Moscow visit",
-      "summary": "Unannounced trip reported by US media is said to be Ratcliffe’s first known visit to Russia as CIA chiefThe CIA director, John Ratcliffe, has made an unannounced visit to Moscow, US media reported, after flight data showed an American military aircraft flew to the Russian capital, where a US diplomatic motorcade was later spotted.CBS News quoted sources familiar with the situation as confirming Ratcliffe’s trip, saying it was his first known visi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/25/cia-director-john-ratcliffe-moscow-russia",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-08-25-dc9abfd3",
-      "headline": "Mass arrests in global crackdown on West African cyber-crime networks",
-      "summary": "The operation included the arrest of 39 people in South Africa for romance and investment scams.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq5xdnxppl4o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Oman",
-      "category": "business",
-      "date": "2026-08-25",
-      "time": "19:30",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-25-22046341",
@@ -816,16 +858,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-25-b93d6209",
-      "headline": "Latest Oil Market News and Analysis for Aug. 26",
-      "summary": "Oil fell for a third day as Iran and Oman discussed a potential deal to resume shipping through the Strait of Hormuz.",
+      "id": "2026-08-25-a40cd8df",
+      "headline": "Stocks, Bonds Fall as Data Keep Fed Bets in Play: Markets Wrap",
+      "summary": "Stocks joined bonds lower after the latest batch of economic reports did little to alter bets the Federal Reserve will raise interest rates before the year is over.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-25/latest-oil-market-news-and-analysis-for-aug-26",
-      "region": "MENA",
-      "country": "Iran",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-25/asian-stocks-set-to-gain-as-oil-extends-declines-markets-wrap",
+      "region": "NA",
+      "country": null,
       "category": "business",
       "date": "2026-08-25",
-      "time": "22:06",
+      "time": "22:08",
       "conflict_id": null,
       "score": 26.1
     },
@@ -884,6 +926,20 @@
       "time": "15:14",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-24-252d5dd1",
+      "headline": "What do locals think of IndyCar in Washington DC?",
+      "summary": "US President Donald Trump was among hundreds of people who gathered to see the race through Washington DC streets on Sunday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c93e5q5783wo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
+      "category": "politics",
+      "date": "2026-08-24",
+      "time": "04:51",
+      "conflict_id": null,
+      "score": 27.0
     },
     {
       "id": "2026-08-24-98def9f4",
@@ -970,20 +1026,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-23-f9563653",
-      "headline": "China will struggle to make money from humanoid robots",
-      "summary": "It is ahead of rivals and training up thousands, but profits are a long way off",
-      "source": "The Economist",
-      "url": "https://www.economist.com/business/2026/08/23/china-will-struggle-to-make-money-from-humanoid-robots",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-08-23",
-      "time": "13:52",
-      "conflict_id": null,
-      "score": 25.8
-    },
-    {
       "id": "2026-08-21-98195951",
       "headline": "How Israel is expanding settlements in drive to reshape West Bank",
       "summary": "There has been a significant expansion of building and road construction on Palestinian land occupied by Israel in recent years.",
@@ -996,20 +1038,6 @@
       "time": "19:31",
       "conflict_id": "israel-hamas",
       "score": 47.0
-    },
-    {
-      "id": "2026-08-21-ea7bb0e6",
-      "headline": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
-      "summary": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-21",
-      "time": "13:07",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-08-21-6fa9d2bf",
