@@ -1,21 +1,77 @@
 {
-  "updated": "2026-08-29T07:33:19.863495+00:00",
-  "story_count": 83,
+  "updated": "2026-08-29T13:20:51.093868+00:00",
+  "story_count": 80,
   "source_count": 9,
   "stories": [
     {
-      "id": "2026-08-29-e45d1e38",
-      "headline": "Iran war live: Tehran pledges to stand firm against ‘unjust’ US sanctions",
-      "summary": "Iran says it will rely equally on diplomacy and defence to protect its interests.",
+      "id": "2026-08-29-8e6c58ac",
+      "headline": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+      "summary": "Ukraine&#039;s President Zelenskyy says warehouse was struck, &#039;followed by a detonation&#039;, causing a major fire.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/8/29/iran-war-live-irgc-asserts-strait-control-us-enforces-blockade?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tehran",
+      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-29",
-      "time": "00:00",
+      "time": "10:36",
+      "conflict_id": "ukraine-war",
+      "score": 76.4
+    },
+    {
+      "id": "2026-08-29-753e09e0",
+      "headline": "Russian strike on warehouse near Kyiv kills at least 37",
+      "summary": "Attack on business apparently storing ‘explosive objects’ sparks huge fire, damaging residential buildingsAt least 37 people have been killed after a Russian drone struck a warehouse near Kyiv’s western suburbs which appears to have been storing “explosive objects”.The attack damaged at least 50 residential buildings, including a care home for elderly and disabled people, and sparked a huge fire and explosions in the Bucha district of the Ukraini",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/russian-strike-warehouse-near-kyiv-kills-at-least-37",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "12:01",
       "conflict_id": null,
-      "score": 63.4
+      "score": 73.0
+    },
+    {
+      "id": "2026-08-29-6c27b58f",
+      "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "12:55",
+      "conflict_id": "ukraine-war",
+      "score": 72.0
+    },
+    {
+      "id": "2026-08-29-60a29e7a",
+      "headline": "At least 37 killed after Russian strike sparks major fire and explosions at a warehouse in Bucha",
+      "summary": "Ukraine's Prosecutor General's Office said it had launched a pre-trial investigation into possible \"negligence\" surrounding storage conditions at the warehouse.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/29/hundreds-evacuated-after-russian-strike-sparks-major-fire-and-explosions-at-a-warehouse-in",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "08:11",
+      "conflict_id": null,
+      "score": 70.0
+    },
+    {
+      "id": "2026-08-29-04a14b2c",
+      "headline": "Dozens killed in Russian strike on ammunition depot near Kyiv",
+      "summary": "Lengthy air raids by Moscow’s jet-powered drones have triggered 27 alerts since Thursday in one of the longest attacks of the war",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/40eaeba7-9514-4e6b-9bd3-4a9381618c84",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "11:38",
+      "conflict_id": null,
+      "score": 67.4
     },
     {
       "id": "2026-08-29-a9cb2b90",
@@ -27,7 +83,7 @@
       "country": "Venezuela",
       "category": "business",
       "date": "2026-08-29",
-      "time": "02:42",
+      "time": "13:16",
       "conflict_id": null,
       "score": 52.0
     },
@@ -102,6 +158,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-29-d8d33323",
+      "headline": "With Shoppers Wary of Illness, Farmers Destroy Millions of Heads of Lettuce",
+      "summary": "After a drop in demand driven by a nationwide outbreak of cyclosporiasis, California growers are plowing lettuce back into the soil and laying off workers.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/29/us/salinas-california-taylor-farms-lettuce-cyclospora.html",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-08-29-87898078",
       "headline": "What we know about the Australians missing in the Nepal floods",
       "summary": "More than 40 Australians are among several thousand people unaccounted for after catastrophic flooding on the Nepal-Tibet borderHow the deadly Nepal and Tibet flash flood unfolded – a visual guideGet our breaking news email, free app or daily news podcastAn 11-year-old child, an ADF member and many other pilgrims and trekkers have been named among the Australians missing after deadly flash floods and landslides tore through valleys on the Nepal-T",
@@ -116,6 +186,20 @@
       "score": 40.0
     },
     {
+      "id": "2026-08-29-15cc0bf5",
+      "headline": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "summary": "Iran&#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "10:09",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-08-29-1c6d55e6",
       "headline": "Six months into the Iran war, a new Gulf security architecture is emerging",
       "summary": "Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.",
@@ -126,20 +210,6 @@
       "category": "geopolitics",
       "date": "2026-08-29",
       "time": "06:11",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-29-f9d51df1",
-      "headline": "Board of Peace’s Mladenov warns Gaza could be ‘gone for good’",
-      "summary": "Top envoy for the US-led Board of Peace says Gaza is at risk of being ‘gone for good’ without reconstruction.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/board-of-peaces-mladenov-warns-gaza-could-be-gone-for?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-08-29",
-      "time": "00:53",
       "conflict_id": null,
       "score": 39.4
     },
@@ -172,6 +242,20 @@
       "score": 35.0
     },
     {
+      "id": "2026-08-29-a68f151f",
+      "headline": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "01:14",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-29-57a8c285",
       "headline": "What we know about deadly Nepal-Tibet floods",
       "summary": "Hundreds have died and thousands are missing after Wednesday's flooding and landslides on the border of Nepal and Tibet.",
@@ -181,9 +265,23 @@
       "country": "Nepal",
       "category": "geopolitics",
       "date": "2026-08-29",
-      "time": "06:16",
+      "time": "11:47",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-08-29-d127b8f7",
+      "headline": "Warsh puts Fed on collision course with Trump ahead of midterms",
+      "summary": "US central bank chair’s Jackson Hole hint that rates may rise runs counter to the reduction in borrowing costs the US president desires",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/69452aea-cee0-47de-be8a-dc790fed3db1?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-29",
+      "time": "12:57",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-08-29-3991a055",
@@ -198,34 +296,6 @@
       "time": "07:10",
       "conflict_id": null,
       "score": 34.1
-    },
-    {
-      "id": "2026-08-29-9101acd4",
-      "headline": "Walmart to Pay $50 Million to Settle Opioid Lawsuit, US Says",
-      "summary": "The resolution is part of an effort to hold retailers and pharmacists accountable for what the government says were their roles in the opioid epidemic.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/28/us/walmart-opioid-lawsuit-settlement.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-29",
-      "time": "01:08",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-08-29-a4dd5cba",
-      "headline": "Trump Creates a Space Academy and Honors the Artemis Astronauts",
-      "summary": "President Trump presented the Congressional Space Medal of Honor to the Artemis II crew, which took a journey around the moon.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/28/us/politics/trump-space-academy-artemis-astronauts.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-29",
-      "time": "01:36",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-08-29-bee249b1",
@@ -284,6 +354,20 @@
       "score": 30.8
     },
     {
+      "id": "2026-08-29-daf12a27",
+      "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-08-29",
+      "time": "07:11",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-29-3a4ebd4b",
       "headline": "What tariffs will really cost Canadians and Americans",
       "summary": "Households and businesses have become used to tariffs impacting the cost of living for more than year now, so what will change now?",
@@ -298,58 +382,30 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-29-366e696b",
-      "headline": "Glencore threatened with $1.4bn lawsuit from embattled trader Radiant",
-      "summary": "Singapore-based iron ore company Radiant has been battling liquidity squeeze",
+      "id": "2026-08-29-bb58f510",
+      "headline": "Swiss wealth managers urge delay to ownership register after Liechtenstein hack",
+      "summary": "Bankers also raised cyber security concerns over list of ultimate owners of more than 500,000 companies and other entities",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/359d4ea5-59b6-425f-ac66-c9836cec04f9?syn-25a6b1a6=1",
-      "region": "APJ",
-      "country": "Singapore",
+      "url": "https://www.ft.com/content/4822389d-5bb2-4e31-a627-bcda849630c8?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
       "category": "business",
       "date": "2026-08-29",
-      "time": "04:00",
+      "time": "11:00",
       "conflict_id": null,
       "score": 26.4
     },
     {
-      "id": "2026-08-29-cbadf629",
-      "headline": "Vietnam Restates Readiness for ‘Constructive’ US Trade Talks",
-      "summary": "Vietnam’s Deputy Prime Minister Nguyen Van Thang, looking to reinvigorate months-long negotiations over a final tariff deal with the Trump administration, reiterated to US Trade Representative Jamieson Greer the Southeast Asian country’s readiness for “open, constructive” trade talks.",
+      "id": "2026-08-29-ac64edaa",
+      "headline": "Focus on the Long Bond in This Summer of Rising Yields",
+      "summary": "Also, a new film franchise is born on YouTube",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/vietnam-restates-readiness-for-constructive-us-trade-talks",
-      "region": "NA",
-      "country": "Vietnam",
-      "category": "business",
-      "date": "2026-08-29",
-      "time": "05:14",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-29-0a3d902d",
-      "headline": "A CEO’s Sudden Exit Spotlights Troubles at German Regional Banks",
-      "summary": "In a decade-and-a-half at the helm of Volksbank Brawo, Juergen Brinkmann turned the local German lender into a finance, real estate and investment group spanning hundreds of businesses, including a stake in a gym chain, restaurants and a now-insolvent brewery.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/a-ceo-s-sudden-exit-spotlights-troubles-at-german-regional-banks",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-08-29/focus-on-the-long-bond-in-this-summer-of-rising-yields",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-29",
-      "time": "05:00",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-29-5935cdfe",
-      "headline": "Australian Minister Denies Softer Stance on Data Center Power",
-      "summary": "Australia’s Energy Minister Chris Bowen has rejected suggestions the government is softening requirements that future data center developments be powered by renewable energy.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/australian-minister-denies-softer-stance-on-data-center-power",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "politics",
-      "date": "2026-08-29",
-      "time": "02:59",
+      "time": "12:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -368,13 +424,27 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-29-dbe42051",
+      "headline": "Dolly Parton inspired Their Wigs and Makeup, and Had Their Back, Too.",
+      "summary": "Dolly Parton was an advocate for her L.G.B.T.Q. fans. She also understood them, a meaningful bond in places where such recognition was hard to find.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/08/29/us/dolly-parton-drag-queens-lgbtq.html",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-29",
+      "time": "09:03",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-08-29-f42eee29",
       "headline": "Ireland will be united, says Gordon Brown",
-      "summary": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independenceThe former prime minister Gordon Brown has said it is inevitable that Ireland will become united at some point in the future, in a wide-ranging interview with the Guardian.While he added that any union would necessarily be “a long process” and based on mutual agreement, Brown’s comments are notable both because of his vehement oppositi",
+      "summary": "Former PM believes Northern Ireland will leave UK in the long term – but remains opposed to Scottish independence‘I don’t want to be a backseat driver’: Gordon Brown on Burnham, billionaires – and his vision for a better BritainThe former prime minister Gordon Brown has said it is inevitable that Ireland will become united at some point in the future, in a wide-ranging interview with the Guardian.While he added that any union would necessarily be",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/uk-news/2026/aug/29/ireland-will-be-united-says-gordon-brown",
       "region": "EU",
-      "country": null,
+      "country": "Britain",
       "category": "politics",
       "date": "2026-08-29",
       "time": "05:00",
@@ -406,20 +476,6 @@
       "category": "politics",
       "date": "2026-08-29",
       "time": "02:38",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-08-29-1669efac",
-      "headline": "Gunfire, blasts heard in several areas of Niger capital Niamey",
-      "summary": "Shots were heard around the city&#039;s Diori Hamani international airport and near the presidential palace.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/gunfire-blasts-heard-in-several-areas-of-niger-capital-niamey?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-29",
-      "time": "01:30",
       "conflict_id": null,
       "score": 23.4
     },
@@ -508,6 +564,34 @@
       "score": 22.8
     },
     {
+      "id": "2026-08-29-81685561",
+      "headline": "Uzbekistan marks 35 years of independence as president outlines plans for next decade",
+      "summary": "The anniversary ceremony in New Tashkent combined political messaging with a large-scale cultural programme. President Shavkat Mirziyoyev announced seven national programmes, including major targets for investment, education, healthcare and economic growth.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/29/uzbekistan-marks-35-years-of-independence-as-president-outlines-plans-for-next-decade",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-29",
+      "time": "11:56",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-08-29-56ab9615",
+      "headline": "Bundeswehr expands 'Schakal' fleet for NATO's eastern flank",
+      "summary": "The Bundeswehr is pursuing a number of other major procurement programmes for main battle tanks, artillery systems, and air defences.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/29/bundeswehr-expands-schakal-fleet-for-natos-eastern-flank",
+      "region": "EU",
+      "country": "NATO",
+      "category": "politics",
+      "date": "2026-08-29",
+      "time": "09:33",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-08-29-f0f7a89c",
       "headline": "60 years of Notting Hill Carnival: 10 essential songs chosen by its veterans",
       "summary": "For Carnival’s 60th anniversary, Euronews Culture spoke to 10 people who have helped shape, celebrate and document its culture - asking each of them to choose the one track that, for them, captures the spirit of the festival.",
@@ -534,20 +618,6 @@
       "time": "06:39",
       "conflict_id": null,
       "score": 21.0
-    },
-    {
-      "id": "2026-08-28-2a2e7c17",
-      "headline": "Israeli strike kills three Palestinians in Jenin",
-      "summary": "An Israeli drone strike killed three Palestinians in Jenin, the first such attack in the West Bank since February 2025.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/28/israeli-strike-kills-three-palestinians-in-jenin?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-08-28",
-      "time": "22:11",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
     },
     {
       "id": "2026-08-28-c606dba7",
@@ -578,34 +648,6 @@
       "score": 48.9
     },
     {
-      "id": "2026-08-28-88b89d70",
-      "headline": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
-      "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdere",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-      "region": "EU",
-      "country": "Netherlands",
-      "category": "geopolitics",
-      "date": "2026-08-28",
-      "time": "04:00",
-      "conflict_id": null,
-      "score": 48.0
-    },
-    {
-      "id": "2026-08-28-8154cfb5",
-      "headline": "With the US and Canada locked in a trade war, fears of a recession lurk",
-      "summary": "Analysts say Canada may lose 100,000 jobs under the current tariffs and could go into recession if the USMCA pact ends.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/8/28/with-the-us-and-canada-locked-in-a-trade-war-fears-of-a-recession-lurk?traffic_source=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "business",
-      "date": "2026-08-28",
-      "time": "21:39",
-      "conflict_id": null,
-      "score": 47.4
-    },
-    {
       "id": "2026-08-28-a15bb055",
       "headline": "BBC tracks one week of Israeli settler violence in occupied West Bank",
       "summary": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
@@ -634,6 +676,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-08-28-b7bbef37",
+      "headline": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "NATO",
+      "category": "geopolitics",
+      "date": "2026-08-28",
+      "time": "19:05",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
       "id": "2026-08-28-2f47aa5a",
       "headline": "For Trump, the Iran War Is Stuck Between Combat and Genuine Peace",
       "summary": "The war has deteriorated over the past six months into Mr. Trump’s own version of a “forever war,” with no clear goals and no end in sight.",
@@ -648,58 +704,16 @@
       "score": 41.2
     },
     {
-      "id": "2026-08-28-fd5d38c0",
-      "headline": "Trump announces creation of U.S. Space Academy",
-      "summary": "The school will serve the Space Force, the sixth and newest branch of the military President Donald Trump created during his first term, as well as NASA and the growing civilian spaceflight industry.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/08/28/trump-announces-creation-us-space-academy/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-28",
-      "time": "18:00",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
-      "id": "2026-08-28-c30ba7cd",
-      "headline": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
-      "summary": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan racesEvery day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry.News this week of Donald Trump’s escalating trade spat with Canada has everyone worried. Political and economic leade",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-08-28",
-      "time": "11:00",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-08-28-b7bbef37",
-      "headline": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
-      "summary": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+      "id": "2026-08-28-7b2cd30a",
+      "headline": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "summary": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "NATO",
+      "url": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Nepal",
       "category": "geopolitics",
       "date": "2026-08-28",
-      "time": "19:05",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-28-7e92b59c",
-      "headline": "Violence breaks out in Ceuta as migrant crisis continues",
-      "summary": "A group of migrants is accused of throwing stones at a military vehicle, while some locals set fire to their camps on the beach.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy9zj11gwzxo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-28",
-      "time": "16:30",
+      "time": "21:17",
       "conflict_id": null,
       "score": 35.0
     },
@@ -716,20 +730,6 @@
       "time": "10:50",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-28-c4beaaf2",
-      "headline": "Warsh settles some nerves at Jackson Hole",
-      "summary": "Speech gave a crisper picture of how he reads the economy but leaves open questions over Fed ‘reaction function’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/646b812e-c9de-49ba-90f3-f9d12205f876?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-28",
-      "time": "16:38",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-08-28-1482ba5b",
@@ -760,20 +760,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-28-ecdca59a",
-      "headline": "Threat of a Fed Rate Hike Is Changing the Leadership in Markets, Slimmon Says",
-      "summary": "Andrew Slimmon, managing director and head of applied equity advisors at Morgan Stanley, says he's happy with what Federal Reserve Chair Kevin Warsh said during his speech at Jackson Hole and he remains consistent. Slimmon says the threat of an interest rate hike is causing a change in leadership in stock markets. He shares more on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/threat-of-rate-hike-is-changing-markets-slimmon-says-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-28",
-      "time": "20:40",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-08-28-594a9bca",
       "headline": "Trump Administration Appeals Ruling Halting Mail-In Voting Rules",
       "summary": "The Postal Service appealed an emergency decision from Thursday that blocked it from changing its procedures for mail-in voting ahead of the upcoming midterm elections.",
@@ -788,18 +774,32 @@
       "score": 33.2
     },
     {
-      "id": "2026-08-28-3f92b5d1",
-      "headline": "Wyoming Governor Objects to ‘Very Odd’ D.O.J. Election Monitoring",
-      "summary": "Governor Mark Gordon, a Republican, said he was concerned by the behavior of election observers who visited a polling station in Cheyenne.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/28/us/politics/wyoming-governor-objects-to-very-odd-doj-election-monitoring.html",
+      "id": "2026-08-28-277e3e1d",
+      "headline": "Venezuelan opposition up in arms over reports US wants big stake in oil and gas",
+      "summary": "Critics call move to gain long-term access to country’s massive energy reserves  ‘predatory’ and ‘unconstitutional’Reports that the US is preparing to claim a big stake in Venezuela’s massive energy reserves have sparked an outcry, with critics describing the move as “predatory” and a “rapacious” land grab.Several media outlets this week reported that the Trump administration – which abducted Venezuela’s authoritarian president, Nicolás Maduro, i",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/28/us-venezuela-oil-gas-stake",
       "region": "NA",
-      "country": null,
+      "country": "Venezuela",
       "category": "politics",
       "date": "2026-08-28",
-      "time": "09:04",
+      "time": "17:41",
       "conflict_id": null,
-      "score": 33.2
+      "score": 32.0
+    },
+    {
+      "id": "2026-08-28-c30ba7cd",
+      "headline": "Detroit despairs as ‘insanity’ of Trump’s Canada trade war punishes city",
+      "summary": "Unpopular new policy comes as midterms loom and control of Congress could be decided by several Michigan racesEvery day $1bn worth of goods crosses the river dividing Detroit, Michigan, and Windsor, Ontario, two largely blue-collar US and Canadian cities that have come to act as one in the creation of North America’s auto industry.News this week of Donald Trump’s escalating trade spat with Canada has everyone worried. Political and economic leade",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-canada-trade-war-detroit-michigan",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-08-28",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-08-28-218b3783",
@@ -844,16 +844,30 @@
       "score": 27.0
     },
     {
-      "id": "2026-08-28-f4be6f7f",
-      "headline": "The Science Behind The Markets | Masters in Business with David Booth",
-      "summary": "Barry speaks with David Booth, founder and chairman at Dimensional Fund Advisors and author of Stay Calm. They discuss his time at the University of Chicago Booth School of Business where he was the research assistant to American economist and Nobel Laureate Eugene Fama, before leaving to start Dimensional Fund Advisors. They discuss embracing the uncertainty of the markets and the importance of staying the course. David also discusses his philan",
+      "id": "2026-08-28-55a6f03a",
+      "headline": "Panama Canal Congestion Drives Gas Tankers to Unusual Routes",
+      "summary": "Growing congestion at the Panama Canal is forcing some gas tankers into unusual journeys, from a rare detour around South America to the possible emergence of shuttling through the waterway.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-28/masters-in-business-with-david-booth-video",
-      "region": "EU",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-28/panama-canal-congestion-drives-gas-tankers-to-unusual-routes",
+      "region": "NA",
       "country": "America",
       "category": "business",
       "date": "2026-08-28",
-      "time": "21:00",
+      "time": "09:36",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-08-28-2c3c652b",
+      "headline": "Odd Lots: What’s Behind the Classic Jackson Hole Photo Op?",
+      "summary": "For years, the Fed chair would give an address in Jackson Hole, Wyoming, and Wall Street and news organizations wouldn't have a recent photo of the chair to accompany stories. In steps Bloomberg's own Mike McKee. Tracy Alloway, Joe Weisenthal and Tom Keene learn the origin of the now traditional \"Fed perp walk.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-28/odd-lots-behind-the-classic-jackson-hole-photo-op-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-28",
+      "time": "21:10",
       "conflict_id": null,
       "score": 26.1
     },
@@ -914,34 +928,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-08-28-d193c231",
-      "headline": "Norway’s King Harald dies aged 89",
-      "summary": "Norwegians gather to remember monarch whose death comes amid scandal over links between crown princess and Jeffrey EpsteinNorwegians have gathered in their thousands to pay their respects to King Harald V, Europe’s oldest reigning monarch, who has died, aged 89, in Oslo. He was succeeded immediately by his son, King Haakon VIII.The new king thanked “the government and Norwegian people for their support and sympathy for the royal family at this ti",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/aug/28/norway-king-harald-dies-leaving-stormy-succession-mette-marit-crown-princesss-epstein-links",
-      "region": "EU",
-      "country": "Norway",
-      "category": "politics",
-      "date": "2026-08-28",
-      "time": "15:52",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-08-28-f10bf7ff",
-      "headline": "Greenland to open truth commission over forced contraception of Inuit women scheme",
-      "summary": "From the 1960s to 1990, more than 4,000 Greenlandic women were forced to wear a contraceptive coil, in the majority of cases without their consent.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/08/28/greenland-to-open-truth-commission-over-forced-contraception-of-inuit-women-scheme",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-28",
-      "time": "17:36",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-08-27-39a2c966",
       "headline": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
       "summary": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
@@ -953,77 +939,7 @@
       "date": "2026-08-27",
       "time": "14:17",
       "conflict_id": "israel-hamas",
-      "score": 87.0
-    },
-    {
-      "id": "2026-08-27-811bad87",
-      "headline": "Trump signs executive order to rename Lake Ontario as Lake America",
-      "summary": "Mark Carney rejects attempt to rename lake as did several US governors, with Tony Evers mocking the moveUS politics live – latest updatesDonald Trump signed an executive order on Thursday directing the federal government to rename Lake Ontario, making it Lake America, amid his escalating trade war with Canada.The order directs federal agencies to adopt the name-change on US maps, documents and databases. But Trump has no authority to rename Canad",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-08-27",
-      "time": "22:55",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-08-27-fcf911cf",
-      "headline": "Convicted Bosnian Serb war criminal Mladić dies aged 84",
-      "summary": "He was jailed for life in 2017 for genocide, war crimes and crimes against  humanity during the wars in the ex-Yugoslavia in 1992-95.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ywxpryj95o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-27",
-      "time": "17:05",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-27-a421b2da",
-      "headline": "Jellyfish force partial shutdown of French nuclear plant",
-      "summary": "It is the second consecutive year that jellyfish has forced the closure of the Gravelines power station in northern France.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cy8znx3g4e2o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-08-27",
-      "time": "14:49",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-27-01edcd4e",
-      "headline": "Allan Little: I met dangerously fanatical Mladić early in Bosnian war",
-      "summary": "BBC special correspondent Allan Little met the \"Butcher of Bosnia\" in the early months of the Bosnian war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cgl744j0ww1o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-27",
-      "time": "18:12",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-27-18cce7fc",
-      "headline": "Colombia's new president approves extradition of rebel leaders to US",
-      "summary": "It is a step towards ending a plan to stop violence by bringing rebel and criminal groups to the negotiating table.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy45zv8e2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "geopolitics",
-      "date": "2026-08-27",
-      "time": "20:10",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 71.0
     },
     {
       "id": "2026-08-27-b98195b8",
@@ -1068,6 +984,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-27-df07e7c1",
+      "headline": "Pirro’s special grand jury probing D.C. schools, city oversight of youth",
+      "summary": "The unusual investigation appears to have a broad scope. Prosecutors have contacted D.C. Public Schools personnel to question them about truancy and graduation rates.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/27/pirros-special-grand-jury-probing-dc-schools-city-oversight-youth/",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-27",
+      "time": "15:49",
+      "conflict_id": null,
+      "score": 24.9
+    },
+    {
       "id": "2026-08-26-cc5600de",
       "headline": "Far-right Israeli lawmaker damages Palestinian memorial with sledgehammer",
       "summary": "Zvi Sukkot's actions have drawn widespread condemnation, including from Israeli Prime Minister Benjamin Netanyahu.",
@@ -1094,6 +1024,20 @@
       "time": "23:08",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-08-26-d6d670b8",
+      "headline": "Israel's seizure of Unrwa training college in East Jerusalem condemned",
+      "summary": "It marks the shutting of the last of the Palestinian refugee agency's facilities in the sector of the city, after Israel passed a law against it.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5yl89yrldpo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-26",
+      "time": "10:34",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-08-26-ea3485e5",
@@ -1124,6 +1068,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-08-25-7fb9c2aa",
+      "headline": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
+      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-25",
+      "time": "12:37",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-08-25-c9ce74af",
       "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
       "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
@@ -1135,7 +1093,7 @@
       "date": "2026-08-25",
       "time": "11:53",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
       "id": "2026-08-25-c78f53ff",
@@ -1149,21 +1107,21 @@
       "date": "2026-08-25",
       "time": "08:08",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
-      "id": "2026-08-25-7fb9c2aa",
-      "headline": "Trump hopes sanctions will topple Iran's regime - its leaders are betting otherwise",
-      "summary": "The US says new sanctions are an \"economic D-Day\", but Tehran's leaders have survived restrictions before.",
+      "id": "2026-08-25-22046341",
+      "headline": "US removes Syria from list of state sponsors of terrorism",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr50n9gnljgo?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Tehran",
-      "category": "geopolitics",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-08-25",
-      "time": "12:37",
+      "time": "00:17",
       "conflict_id": null,
-      "score": 35.0
+      "score": 27.0
     }
   ]
 }
