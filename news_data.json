@@ -1,22 +1,8 @@
 {
-  "updated": "2026-08-29T17:14:44.097306+00:00",
-  "story_count": 78,
+  "updated": "2026-08-29T19:44:36.389413+00:00",
+  "story_count": 79,
   "source_count": 9,
   "stories": [
-    {
-      "id": "2026-08-29-8e6c58ac",
-      "headline": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
-      "summary": "Ukraine&#039;s President Zelenskyy says warehouse was struck, &#039;followed by a detonation&#039;, causing a major fire.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-08-29",
-      "time": "10:36",
-      "conflict_id": "ukraine-war",
-      "score": 76.4
-    },
     {
       "id": "2026-08-29-9b8049bf",
       "headline": "Russian drone strike on Kyiv warehouse storing weapons kills at least 37",
@@ -57,7 +43,7 @@
       "date": "2026-08-29",
       "time": "08:11",
       "conflict_id": null,
-      "score": 70.0
+      "score": 69.0
     },
     {
       "id": "2026-08-29-04a14b2c",
@@ -86,6 +72,20 @@
       "time": "16:53",
       "conflict_id": null,
       "score": 55.4
+    },
+    {
+      "id": "2026-08-29-c1a589a7",
+      "headline": "Israeli army arrests six Palestinians after settler violence in West Bank",
+      "summary": "Israeli settlers stormed Qusra in the occupied West Bank, attacking Palestinian residents and damaging homes.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/israeli-army-arrests-six-palestinians-after-settler-violence-in-west-bank?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "17:09",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
     },
     {
       "id": "2026-08-29-fd32e54a",
@@ -214,8 +214,8 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-29-4b7af10d",
-      "headline": "Israeli attacks across Gaza kill two people, hit hospital supply warehouse",
+      "id": "2026-08-29-964f4f7f",
+      "headline": "Israeli attacks in Gaza kill four people, hit hospital supply warehouse",
       "summary": "Gaza’s Health Ministry reports rising casualties amid escalated Israeli attacks, with victims trapped under rubble.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/8/29/israeli-attacks-across-gaza-kill-two-people-hit-hospital-supply-warehouse?traffic_source=rss",
@@ -224,20 +224,6 @@
       "category": "geopolitics",
       "date": "2026-08-29",
       "time": "15:25",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-08-29-15cc0bf5",
-      "headline": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
-      "summary": "Iran&#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-29",
-      "time": "10:09",
       "conflict_id": null,
       "score": 39.4
     },
@@ -266,20 +252,6 @@
       "category": "politics",
       "date": "2026-08-29",
       "time": "07:11",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-29-a68f151f",
-      "headline": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
-      "summary": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-08-29",
-      "time": "01:14",
       "conflict_id": null,
       "score": 35.0
     },
@@ -326,6 +298,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-08-29-ba8d02e8",
+      "headline": "Nepal Rescuers Race to Find Thousands Missing",
+      "summary": "Rescue and recovery operations are continuing in Nepal after a glacial collapse triggered catastrophic flooding near the border with China, killing more than 600 people and leaving thousands missing. Bloomberg News Senior Reporter Dan Strumpf joins Christina Ruffini and Bailey Lipschultz on Bloomberg This Weekend and reports that destroyed roads and bridges are complicating efforts to reach isolated communities as Nepal seeks specialized internat",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-08-29/nepal-rescuers-race-to-find-thousands-missing-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "12:41",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-08-29-3991a055",
       "headline": "Turkey’s Markets Regulator Tightens Rules for Hedge Funds",
       "summary": "Turkey’s markets regulator announced new rules limiting hedge funds’ exposure to related parties and capping concentrated investments, in a bid to address concerns about abnormal returns and repeated warnings from global index providers.",
@@ -366,6 +352,20 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-08-29-ac562ede",
+      "headline": "US judge rules against Trump’s effort to deport pro-Palestinian students",
+      "summary": "A federal judge criticised the Trump government for attempting to infringe upon foreign students&#039; rights to free speech.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/29/us-judge-rules-against-trumps-effort-to-deport-pro-palestinian-students?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-08-29",
+      "time": "18:56",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-08-29-2b46d5cf",
@@ -452,16 +452,16 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-29-4e0b2c62",
-      "headline": "Glencore Took $480 Million Provision on Radiant World Exposure",
-      "summary": "Glencore Plc took a provision of about $480 million on its exposure to Radiant World, the iron ore trader that is under pressure amid concerns it provided falsified documents to banks, according to people familiar with the matter.",
+      "id": "2026-08-29-434f099e",
+      "headline": "Guggenheim Ties Weigh on Acrisure Debt, Dragging High-Yield Credit Markets",
+      "summary": "It had already been a tough 2026 for Acrisure. Part fintech, part insurance broker, the firm said in late May it would cut 11% of its workforce, or some 2,250 people, as part of a sweeping overhaul to modernize operations. Some of its bonds and loans had fallen, but still remained above levels typically deemed distressed.",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-29/glencore-took-480-million-provision-on-radiant-world-exposure",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-29/guggenheim-stain-piles-onto-biggest-junk-laggard-credit-weekly",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-08-29",
-      "time": "15:54",
+      "time": "19:00",
       "conflict_id": null,
       "score": 26.1
     },
@@ -531,7 +531,7 @@
       "country": null,
       "category": "business",
       "date": "2026-08-29",
-      "time": "14:13",
+      "time": "18:20",
       "conflict_id": null,
       "score": 25.2
     },
@@ -562,6 +562,34 @@
       "time": "05:00",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-08-29-e948532a",
+      "headline": "Tunisians desperate for water as taps run dry",
+      "summary": "Tunisians are struggling to access water as extreme heat, power cuts, and aging infrastructure disrupt tap supplies.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/29/tunisians-desperate-for-water-as-taps-run-dry?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tunisia",
+      "category": "business",
+      "date": "2026-08-29",
+      "time": "19:19",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-08-29-74e40318",
+      "headline": "Japan defense forces to use NTT's optical network tech for communications",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/politics/defense/japan-defense-forces-to-use-ntt-s-optical-network-tech-for-communications",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-08-29-6e4f2698",
@@ -648,18 +676,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-08-29-f1fb39ac",
-      "headline": "Robot from Japan lightens load of restocking New York grocery store",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/robot-from-japan-lightens-load-of-restocking-new-york-grocery-store",
-      "region": "APJ",
-      "country": "Japan",
-      "category": "business",
+      "id": "2026-08-29-29768140",
+      "headline": "Bardella, Faure, Lecornu, Hollande, Philippe: Political season begins in France",
+      "summary": "Between the 2027 presidential campaign and talks on the next budget, several leading French politicians were out in force on Saturday 29 August.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/08/29/bardella-faure-lecornu-hollande-philippe-political-season-begins-in-france",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
       "date": "2026-08-29",
-      "time": "",
+      "time": "18:13",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
     },
     {
       "id": "2026-08-29-16c2665b",
@@ -715,7 +743,7 @@
       "date": "2026-08-28",
       "time": "14:06",
       "conflict_id": "israel-hamas",
-      "score": 55.0
+      "score": 63.0
     },
     {
       "id": "2026-08-28-c606dba7",
@@ -788,6 +816,20 @@
       "score": 40.9
     },
     {
+      "id": "2026-08-28-88b89d70",
+      "headline": "What could Meta’s US settlement mean around the world – and what now for other claims against firm?",
+      "summary": "Other governments could seek similar concessions, while separate legal action is pending in places ranging from Kenya to the NetherlandsIn October 2021, Abrham Meareg’s father, a professor of chemistry in Ethiopia’s northern town of Bahir Dar, was shot at close range and died outside his family home. This was in the middle of the country’s civil war.For weeks, Facebook’s algorithm had actively promoted posts calling for the academic to be murdere",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
+      "region": "EU",
+      "country": "Netherlands",
+      "category": "geopolitics",
+      "date": "2026-08-28",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
       "id": "2026-08-28-c3dbe6c1",
       "headline": "'High risk' of lake breaching and causing second flood, warns China",
       "summary": "Authorities say a lake formed after a recent landslide near the Nepal-Tibet border may breach in the coming days.",
@@ -800,20 +842,6 @@
       "time": "10:50",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-08-28-594a9bca",
-      "headline": "Trump Administration Appeals Ruling Halting Mail-In Voting Rules",
-      "summary": "The Postal Service appealed an emergency decision from Thursday that blocked it from changing its procedures for mail-in voting ahead of the upcoming midterm elections.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/28/us/politics/trump-appeal-mail-ballot.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-28",
-      "time": "19:44",
-      "conflict_id": null,
-      "score": 33.2
     },
     {
       "id": "2026-08-28-277e3e1d",
@@ -884,20 +912,6 @@
       "time": "09:36",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-08-28-0d7039de",
-      "headline": "Milo Yiannopoulos, a Right-Wing Provocateur, Is Arrested by ICE",
-      "summary": "Mr. Yiannopoulos, a prominent early supporter of President Trump, was detained at the New Orleans airport. The Trump administration publicized his arrest and shared a mug shot.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-28",
-      "time": "21:45",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-08-28-9c79189b",
