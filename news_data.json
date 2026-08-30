@@ -1,8 +1,22 @@
 {
-  "updated": "2026-08-30T20:00:41.981298+00:00",
-  "story_count": 77,
-  "source_count": 9,
+  "updated": "2026-08-30T22:42:05.401161+00:00",
+  "story_count": 80,
+  "source_count": 10,
   "stories": [
+    {
+      "id": "2026-08-30-0ded029c",
+      "headline": "US strikes Iranian launchers on Larak Island in first known attack in weeks",
+      "summary": "Iran says the attack killed some civilians and is the first known US strike on Iran since late July.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-30",
+      "time": "21:15",
+      "conflict_id": null,
+      "score": 60.0
+    },
     {
       "id": "2026-08-30-fbe205ba",
       "headline": "Iceland Rejects Restarting EU Membership Talks",
@@ -32,6 +46,20 @@
       "score": 57.0
     },
     {
+      "id": "2026-08-30-7adc1cda",
+      "headline": "US strikes Iran’s Larak Island in first attack in weeks",
+      "summary": "IRGC says attack in southern Iran killed and injured several soldiers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/us-strikes-irans-lark-island-in-first-attack-in-weeks?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-30",
+      "time": "20:15",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
       "id": "2026-08-30-3f2605e5",
       "headline": "Ukraine’s ex-defence minister touts ‘new history’ in war against Russia with planned tech fund",
       "summary": "Mykhailo Fedorov seeks western capital to build and manage weapons development companies he says will help Kyiv resist Moscow",
@@ -41,9 +69,23 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-08-30",
-      "time": "17:57",
+      "time": "21:11",
       "conflict_id": "ukraine-war",
       "score": 54.4
+    },
+    {
+      "id": "2026-08-30-4dbf8b81",
+      "headline": "US forces strike Iranian rocket launchers in Strait of Hormuz as IRGC warns of 'retaliatory response'",
+      "summary": "The IRGC confirmed strikes had hit Larak Island and warned that the attack would be \"met with a retaliatory response,\" per Iran's Fars news agency.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/30/us-forces-strike-iranian-rocket-launchers-in-strait-of-hormuz-as-irgc-warns-of-retaliatory",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-30",
+      "time": "20:52",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-08-30-d9d228c8",
@@ -88,6 +130,20 @@
       "score": 52.0
     },
     {
+      "id": "2026-08-30-b79ec333",
+      "headline": "Israeli strike kills 3-year-old child in Gaza",
+      "summary": "A deadly Israeli strike on Deir el-Balah killed two Palestinians including a 3-year-old child.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/8/30/israeli-strike-kills-3-year-old-child-in-gaza?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-08-30",
+      "time": "21:02",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
       "id": "2026-08-30-db8d0114",
       "headline": "Israeli settler rabbi says Palestinians should leave the occupied West Bank",
       "summary": "Video shows an Israeli settler rabbi telling peace activists that non-Jews in Israel have no national rights.",
@@ -102,30 +158,16 @@
       "score": 51.4
     },
     {
-      "id": "2026-08-30-0c2ad3b8",
-      "headline": "Controversial Venezuelan executive courts investors after Trump oil deal",
-      "summary": "Alejandro Betancourt is the US’s primary partner in a company that will control more than 65bn barrels of oil reserves",
+      "id": "2026-08-30-22feb339",
+      "headline": "US strikes Iran for first time in weeks in attack on rocket launchers",
+      "summary": "The American military said it hit an island in the Strait of Hormuz to prevent mines being laid in the strategic waterway",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/f270814f-e836-44e8-80c2-ec1034f80519?syn-25a6b1a6=1",
       "region": "NA",
-      "country": "Venezuela",
-      "category": "business",
+      "country": "America",
+      "category": "geopolitics",
       "date": "2026-08-30",
-      "time": "12:12",
-      "conflict_id": null,
-      "score": 51.4
-    },
-    {
-      "id": "2026-08-30-e5b7f55b",
-      "headline": "Iceland rejects talks on EU entry",
-      "summary": "‘No’ vote prevails in knife-edge referendum prompted by Donald Trump’s threats to annex Greenland",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/53b5abd8-2919-4dc6-8dd6-81fc054e8b6f?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-08-30",
-      "time": "14:12",
+      "time": "22:08",
       "conflict_id": null,
       "score": 51.4
     },
@@ -144,6 +186,20 @@
       "score": 51.1
     },
     {
+      "id": "2026-08-30-0c2ad3b8",
+      "headline": "Controversial Venezuelan executive courts investors after Trump oil deal",
+      "summary": "Alejandro Betancourt is the US’s primary partner in a company that will control more than 65bn barrels of oil reserves",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/458940e7-0754-42e3-aa33-f1f9e3e710b7?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Venezuela",
+      "category": "business",
+      "date": "2026-08-30",
+      "time": "12:12",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
       "id": "2026-08-30-20b2373f",
       "headline": "Trump Says Venezuelan Oil Will Refill U.S. Stockpiles, but It’s Not So Simple",
       "summary": "New projects can take years to produce meaningful amounts of oil, and that’s especially true in Venezuela, where infrastructure is in disrepair.",
@@ -158,6 +214,20 @@
       "score": 50.2
     },
     {
+      "id": "2026-08-30-35c9dadc",
+      "headline": "U.S. forces strike Iranian launch site in first disclosed attack in nearly a month",
+      "summary": "The U.S. struck Iranian launchers on an island in the Strait of Hormuz, the first publicly acknowledged attack on Tehran’s forces in weeks.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/national-security/2026/08/30/us-strikes-iran-missile-sites-larak-island/",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-08-30",
+      "time": "22:19",
+      "conflict_id": null,
+      "score": 49.9
+    },
+    {
       "id": "2026-08-30-b2020bbf",
       "headline": "Iceland rejects EU accession talks after divisive referendum campaign",
       "summary": "Well-funded no camp prevails, winning 52.8% of votes and gaining plaudits from Eurosceptic figures across EuropeAnalysis: Definitely no or maybe yes – what tipped the Icelandic referendumVoters in Iceland have ⁠rejected ⁠a government proposal ​to reopen ⁠accession talks with ⁠the ​EU after a closely fought referendum campaign that divided the country against a backdrop of global volatility.After a long and anxious night for those on both sides of",
@@ -170,34 +240,6 @@
       "time": "14:57",
       "conflict_id": null,
       "score": 49.0
-    },
-    {
-      "id": "2026-08-30-aded76bc",
-      "headline": "Trump says US will refill its petroleum reserves using Venezuelan oil",
-      "summary": "President Donald Trump says in a post that the &#039;topping out&#039; process will ‌begin shortly.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/trump-says-us-will-refill-its-petroleum-reserves-using-venezuelan-oil?traffic_source=rss",
-      "region": "NA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-08-30",
-      "time": "15:50",
-      "conflict_id": null,
-      "score": 48.4
-    },
-    {
-      "id": "2026-08-30-1e2e8fff",
-      "headline": "Iceland votes to reject EU accession talks: What happens next?",
-      "summary": "The referendum result halts Iceland&#039;s bid to reopen EU membership talks, with 52.5 percent voting against the proposal.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/8/30/iceland-votes-to-reject-eu-accession-talks-what-happens-next?traffic_source=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-08-30",
-      "time": "13:37",
-      "conflict_id": null,
-      "score": 48.4
     },
     {
       "id": "2026-08-30-ca62aa1f",
@@ -225,7 +267,7 @@
       "date": "2026-08-30",
       "time": "15:49",
       "conflict_id": null,
-      "score": 46.0
+      "score": 45.0
     },
     {
       "id": "2026-08-30-ea6b16d0",
@@ -239,7 +281,7 @@
       "date": "2026-08-30",
       "time": "15:21",
       "conflict_id": null,
-      "score": 46.0
+      "score": 45.0
     },
     {
       "id": "2026-08-30-50d18802",
@@ -253,7 +295,7 @@
       "date": "2026-08-30",
       "time": "08:09",
       "conflict_id": null,
-      "score": 46.0
+      "score": 45.0
     },
     {
       "id": "2026-08-30-c963570c",
@@ -298,18 +340,18 @@
       "score": 40.0
     },
     {
-      "id": "2026-08-30-5290eeb1",
-      "headline": "Rohingya crisis: Aid falls and hope fades",
-      "summary": "UNHCR&#039;s Bangladesh representative, Ivo Freisen, warns that dwindling aid is driving hope down among Rohingya refugees.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/8/30/rohingya-crisis-aid-falls-and-hope-fades?traffic_source=rss",
-      "region": "SA",
-      "country": "Bangladesh",
-      "category": "geopolitics",
+      "id": "2026-08-30-7487d04d",
+      "headline": "Trump hits out at NBC journalist Kristen Welker, calling for her to face 'rebuke or punishment'",
+      "summary": "Writing on X on Sunday, Anna Gomez, a Democrat on the Federal Communications Commission, said the FCC \"has no authority to punish journalists this administration doesn’t like.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/08/30/trump-hits-out-at-nbc-journalist-kristen-welker-calling-for-her-to-face-rebuke-or-punishme",
+      "region": "EU",
+      "country": "Trump",
+      "category": "business",
       "date": "2026-08-30",
-      "time": "16:00",
+      "time": "21:33",
       "conflict_id": null,
-      "score": 39.4
+      "score": 37.0
     },
     {
       "id": "2026-08-30-505dd481",
@@ -326,16 +368,30 @@
       "score": 37.0
     },
     {
-      "id": "2026-08-30-f3db7c62",
-      "headline": "Canada installs large Lake Ontario sign in latest jab at US",
-      "summary": "Ontario Premier Doug Ford unveiled a billboard on Canada's shoreline with the message: \"Lake Ontario. Now and Always.\"",
+      "id": "2026-08-30-bace90ef",
+      "headline": "'A giant leap forward': Nasa launches powerful new space telescope",
+      "summary": "The US space agency's telescope is starting a multi-year mission to create a new map of the universe and learn more about dark energy and dark matter.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cpq09594vw7o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/ce87e55vgpjo?at_medium=RSS&at_campaign=rss",
       "region": "NA",
-      "country": "Canada",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-08-30",
+      "time": "18:53",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-08-30-d64ec07d",
+      "headline": "Zambian opposition leader charged with treason",
+      "summary": "Mundubile had previously gone into hiding at a United Nations building in Zambia's capital.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c20lwqpx70qo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
       "category": "politics",
       "date": "2026-08-30",
-      "time": "14:25",
+      "time": "17:06",
       "conflict_id": null,
       "score": 35.0
     },
@@ -354,8 +410,36 @@
       "score": 35.0
     },
     {
-      "id": "2026-08-30-d1b9e8f8",
-      "headline": "Bond Investors Wary After Warsh Fans Wagers Fed Poised to Hike",
+      "id": "2026-08-30-46229723",
+      "headline": "Oil Rises on Iran Tensions, US Stock Futures Dip: Markets Wrap",
+      "summary": "Oil jumped in early Asia trading as Middle East tensions accelerated, while the dollar held gains after hawkish comments from Federal Reserve Chair Kevin Warsh fueled bets on a rate hike next month.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/stock-market-today-dow-s-p-live-updates",
+      "region": "NA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-08-30",
+      "time": "22:13",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-30-7ed17358",
+      "headline": "Australian Dollar’s Top Forecasters Say Winning Run Likely Over",
+      "summary": "The Australian dollar’s two-month rally may be nearing a peak, with some of its top forecasters warning that bets on another central bank interest-rate hike have gone too far.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-30/australian-dollar-s-top-forecasters-say-winning-run-likely-over",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-08-30",
+      "time": "21:00",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-08-30-24d12ff3",
+      "headline": "Fed Rate Hike Speculation Grows, But Investors Remain Skeptical",
       "summary": "Bond investors at firms including ABN AMRO Investment Solutions and Brandywine Global Investment Management are voicing skepticism about mounting speculation that Federal Reserve Chairman Kevin Warsh is poised to raise interest rates.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-08-30/bond-investors-wary-after-warsh-fans-wagers-fed-poised-to-hike",
@@ -368,46 +452,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-08-30-c1a32cbd",
-      "headline": "Rep. Krishnamoorthi Warns Iran War Weakens US in Asia",
-      "summary": "Representative Raja Krishnamoorthi (D) says the Iran war is depleting key US munitions and pulling military assets from the Indo Pacific, potentially weakening deterrence against China as concerns over Taiwan grow. While on Bloomberg This Weekend, the Illinois Democrat also criticized the administration’s trade fight with Canada and Venezuela oil policy while calling for more US assistance to Nepal following catastrophic flooding. (Source: Bloomb",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-30/rep-krishnamoorthi-warns-iran-war-weakens-us-in-asia-video",
-      "region": "NA",
-      "country": "Venezuela",
-      "category": "geopolitics",
+      "id": "2026-08-30-1cf26ebb",
+      "headline": "Trump says he will report NBC host to FCC for ‘rebuke or punishment’",
+      "summary": "The president’s latest in a string of threats against broadcasters followed a comment by Kristen Welker about “some mixed results” from his midterm endorsements.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/08/30/trump-says-he-will-report-nbc-host-fcc-rebuke-or-punishment/",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-08-30",
-      "time": "14:41",
+      "time": "20:15",
       "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-08-30-31539a0c",
-      "headline": "Cleanup of Rotting Food at L.A. Warehouse Took Too Long, Residents Say",
-      "summary": "The stench has enveloped a neighborhood next to a food warehouse that burned in a June fire, prompting legislative action, lawsuits and thousands of complaints.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/30/us/los-angeles-warehouse-fire-boyle-heights-rotting-food.html",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-08-30",
-      "time": "18:59",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-08-30-d6d07c72",
-      "headline": "Why the United States Can’t Quit Its Wars",
-      "summary": "The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html",
-      "region": "NA",
-      "country": "United States",
-      "category": "geopolitics",
-      "date": "2026-08-30",
-      "time": "18:47",
-      "conflict_id": null,
-      "score": 33.2
+      "score": 32.9
     },
     {
       "id": "2026-08-30-3afd3233",
@@ -426,7 +482,7 @@
     {
       "id": "2026-08-30-af328651",
       "headline": "Cash settlements on home insurance claims leaving vulnerable Australians short-changed, Asic says",
-      "summary": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeownersGet our breaking news email, free app or daily news podcastHome insurers are overwhelmingly paying cash to settle claims, leaving Australians to foot blowouts in repair costs for their cyclone-damaged homes.The corporate regulator is calling for “realistic” bigger payouts, warning the practice",
+      "summary": "Corporate regulator finds insurers settling most claims with cash rather than by managing repairs or rebuilding, warning of ‘unfair outcomes’ for homeownersFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastHome insurers are overwhelmingly paying cash to settle claims, leaving Australians to foot blowouts in repair costs for their cyclone-damaged homes.The corporate regulator is callin",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/australia-news/2026/aug/31/cash-settlements-home-insurance-cyclone-disaster-repairs-vulnerable-australians-asic",
       "region": "APJ",
@@ -448,6 +504,20 @@
       "category": "geopolitics",
       "date": "2026-08-30",
       "time": "18:34",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-08-30-4e6bd176",
+      "headline": "Trump threatens to report journalist Kristen Welker to broadcast regulator",
+      "summary": "The Federal Communications Commission under Trump has tried to target news outlets for spreading &#039;fake&#039; news.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/trump-threatens-to-report-journalist-kristen-welker-to-broadcast-regulator?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-08-30",
+      "time": "17:22",
       "conflict_id": null,
       "score": 31.4
     },
@@ -564,34 +634,6 @@
       "score": 26.4
     },
     {
-      "id": "2026-08-30-a3b09f75",
-      "headline": "Pointed! Bloomberg's Weekly News Quiz For Risk-Takers",
-      "summary": "Pointed offers a strategic twist to the news quiz format, testing not just players’ knowledge of the news but also their confidence in their answers. Join Bloomberg's Lisa Mateo, Christina Ruffini and Bailey Lipschultz as they play and check out the quiz for yourself at Bloomberg.com (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-30/pointed-bloomberg-s-weekly-news-quiz-for-risk-takers-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-30",
-      "time": "15:23",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-08-30-dd665b04",
-      "headline": "How YouTube Filmmakers Are Reshaping Hollywood’s Talent Pipeline",
-      "summary": "YouTube creators are turning online audiences into big-screen opportunities, with filmmakers like Alex Kister moving from DIY horror videos to studio deals. As platforms, distributors and FAST services open new paths to money and viewers, the creator boom is also flooding the market with content, making it easier to start but harder to win. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-08-30/is-hollywood-losing-its-stranglehold-on-filmmaking-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-08-30",
-      "time": "14:20",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-08-30-2b7633cc",
       "headline": "NASA’s Roman Telescope Takes Aim at Cosmic Mysteries",
       "summary": "NASA’s Nancy Grace Roman Space Telescope launched aboard a SpaceX Falcon Heavy on a mission to study dark energy, dark matter and planets beyond our solar system. Roman is headed about 1 million miles from Earth to Lagrange point 2, where its wide field of view will allow scientists to survey billions of galaxies far faster than the Hubble telescope. Joining Bloomberg This Weekend to watch the launch with hosts Christina Ruffini and Bailey Lipsch",
@@ -606,6 +648,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-08-30-1d16e54a",
+      "headline": "Will anybody use AI as much as coders?",
+      "summary": "The answer will have big implications for the investment boom",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/08/30/will-anybody-use-ai-as-much-as-coders",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-08-30",
+      "time": "19:51",
+      "conflict_id": null,
+      "score": 25.8
+    },
+    {
       "id": "2026-08-30-3b3b83bc",
       "headline": "Before Nepal’s Floods, Hindu Pilgrims Sought the Divine at Mount Kailash",
       "summary": "For many, the trek to Mount Kailash on the border of Nepal and Tibet is a once-in-a-lifetime trip to find spiritual awakening.",
@@ -618,6 +674,20 @@
       "time": "09:02",
       "conflict_id": null,
       "score": 25.2
+    },
+    {
+      "id": "2026-08-30-b4659667",
+      "headline": "‘Opening a new chapter’: Syria reopens embassy in Libya after talks",
+      "summary": "Syrian foreign minister and Libyan PM agree to cooperation committee and reopening of diplomatic missions.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/8/30/opening-a-new-chapter-syria-to-reopen-embassy-in-libya-after-talks?traffic_source=rss",
+      "region": "MENA",
+      "country": "Syria",
+      "category": "politics",
+      "date": "2026-08-30",
+      "time": "20:38",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-08-30-550aaef3",
@@ -648,11 +718,11 @@
       "score": 23.4
     },
     {
-      "id": "2026-08-30-8bd70667",
-      "headline": "Uniqlo to double number of flagship stores in Japan in strategy pivot",
+      "id": "2026-08-30-7b619996",
+      "headline": "Uniqlo to double flagship stores in Japan in strategy pivot",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/retail/uniqlo-to-double-number-of-flagship-stores-in-japan-in-strategy-pivot",
+      "url": "https://asia.nikkei.com/business/retail/uniqlo-to-double-flagship-stores-in-japan-in-strategy-pivot",
       "region": "APJ",
       "country": "Japan",
       "category": "business",
@@ -700,20 +770,6 @@
       "category": "politics",
       "date": "2026-08-30",
       "time": "16:16",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-08-30-5f85f915",
-      "headline": "Lausanne Grand Slam 2026: Switzerland Celebrates a Historic Judo Day",
-      "summary": "Lausanne marked a major day for Swiss judo as the 2028 World Championships agreement was signed, the Grand Slam was officially opened and adaptive judo athletes joined the action. Aurélien Bonferroni’s bronze delighted the home crowd.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/08/30/lausanne-grand-slam-2026-switzerland-celebrates-a-historic-judo-day",
-      "region": "EU",
-      "country": "Switzerland",
-      "category": "business",
-      "date": "2026-08-30",
-      "time": "06:18",
       "conflict_id": null,
       "score": 21.0
     },
@@ -788,6 +844,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-08-29-daf12a27",
+      "headline": "Ex-White House teleprompter operator ordered to pay $172,000 for Trump speech bets",
+      "summary": "The staffer was found to have used his prior knowledge of the president's speeches to place lucrative bets.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c4gj2dl4x52o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-08-29",
+      "time": "07:11",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-08-29-5d9d9b77",
       "headline": "Footage of Tibet floods isn't being shown in China - and we know little about victims there",
       "summary": "Some of the most dramatic footage from the deadly flash flooding is hidden from public view in China.",
@@ -814,6 +884,20 @@
       "time": "00:15",
       "conflict_id": null,
       "score": 27.0
+    },
+    {
+      "id": "2026-08-29-1d4fae06",
+      "headline": "Was it a mistake for 99 Colombian guerrillas to lay down their arms?",
+      "summary": "Fighters in legal limbo after accepting ‘total peace’ plan of Petro government just days before hardliner Abelardo De la Espriella took overIn mid-June, 99 guerrilla fighters were flown by helicopter to a small settlement in a rural area of southern Colombia where they lined up and, one by one, handed their weapons to government officials: rifles, pistols, machine guns and grenade launchers.They also stripped off their heavy tactical vests, field",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/29/former-guerrillas-colombia-fate-new-president",
+      "region": "SA",
+      "country": "Colombia",
+      "category": "geopolitics",
+      "date": "2026-08-29",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-08-28-a15bb055",
@@ -928,20 +1012,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-08-28-42e727a9",
-      "headline": "US plans to cut off military aid to key Middle East ally, BBC told",
-      "summary": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-08-28",
-      "time": "19:45",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-08-28-b4b4123e",
       "headline": "Satellite images reveal scale of flood devastation in Nepal villages",
       "summary": "Before-and-after images show villages, bridges and a key Nepal-Tibet border crossing washed away by devastating floodwaters.",
@@ -956,6 +1026,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-08-28-ef5cecdf",
+      "headline": "Nepal-Tibet flood rescue efforts resume after being halted by overflowing lake",
+      "summary": "Risk of fresh flooding had forced rescue teams to withdraw as residents rushed up hills to escape possible river surgeNepal-Tibet flash flood – latest updatesVisual guide: how the deadly flooding unfoldedTell us: have you been affected by the flash floods?Rescuers searching for survivors of deadly flash floods on the Nepal-Tibet border have resumed their efforts after suspending operations when a debris dam burst its bank on Friday, increasing th",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/aug/28/flash-flood-risk-halt-rescue-tibet-nepal-death-toll-china-lake-burst",
+      "region": "SA",
+      "country": "Nepal",
+      "category": "geopolitics",
+      "date": "2026-08-28",
+      "time": "10:17",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-08-27-39a2c966",
       "headline": "Board of Peace's Gaza envoy criticises Israeli strikes and Hamas actions",
       "summary": "Nickolay Mladenov warns that a collapse of last October's ceasefire would be \"a point of no return\" for the region.",
@@ -968,34 +1052,6 @@
       "time": "14:17",
       "conflict_id": "israel-hamas",
       "score": 71.0
-    },
-    {
-      "id": "2026-08-27-18cce7fc",
-      "headline": "Colombia's new president approves extradition of rebel leaders to US",
-      "summary": "It is a step towards ending a plan to stop violence by bringing rebel and criminal groups to the negotiating table.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgy45zv8e2o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Colombia",
-      "category": "geopolitics",
-      "date": "2026-08-27",
-      "time": "20:10",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-27-a9dc73f2",
-      "headline": "Why India wants Bangladesh's Tarique Rahman in Delhi",
-      "summary": "India is keen to reset ties with Bangladesh, but old tensions and new regional alliances complicate its efforts.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c78313e29ypo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "Bangladesh",
-      "category": "geopolitics",
-      "date": "2026-08-27",
-      "time": "23:36",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-08-26-cc5600de",
@@ -1037,7 +1093,7 @@
       "date": "2026-08-25",
       "time": "12:37",
       "conflict_id": null,
-      "score": 51.0
+      "score": 43.0
     },
     {
       "id": "2026-08-25-b7db34f2",
@@ -1054,32 +1110,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-08-25-c9ce74af",
-      "headline": "China hits out at 'illegal' new US sanctions on Iran and trading partners",
-      "summary": "The US has threatened to isolate nations that continue to do business with Tehran, which sells much of its oil to Beijing.",
+      "id": "2026-08-25-22046341",
+      "headline": "US removes Syria from list of state sponsors of terrorism",
+      "summary": "The Trump administration has embraced Syria's new president, former al-Qaeda linked militant Ahmed al-Sharaa.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/clyl8965j5go?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Beijing",
-      "category": "geopolitics",
+      "url": "https://www.bbc.co.uk/news/articles/c33knmyl0y5o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
       "date": "2026-08-25",
-      "time": "11:53",
+      "time": "00:17",
       "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-08-25-c78f53ff",
-      "headline": "Iran says it is 'fully prepared' to counter widened US economic sanctions",
-      "summary": "The US calls its latest sanctions on Iran an \"economic D-Day\", but Tehran says it has a plan to address them.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c0qxew81y83o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Tehran",
-      "category": "geopolitics",
-      "date": "2026-08-25",
-      "time": "08:08",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 27.0
     }
   ]
 }
