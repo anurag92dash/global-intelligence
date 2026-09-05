@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-05T15:08:31.863750+00:00",
+  "updated": "2026-09-05T17:18:00.099582+00:00",
   "story_count": 83,
   "source_count": 10,
   "stories": [
@@ -48,30 +48,44 @@
     {
       "id": "2026-09-05-30164b85",
       "headline": "US hits three Iranian oil tankers after saying its warships were targeted",
-      "summary": "US Central Command says the attacks came after Iran launched ballistic missiles at two of its Navy warships.",
+      "summary": "The strikes come nearly a week after fighting between the US and Iran flared again following weeks of relative calm.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cj64rrne643o?at_medium=RSS&at_campaign=rss",
       "region": "NA",
       "country": "Iran",
       "category": "geopolitics",
       "date": "2026-09-05",
-      "time": "15:07",
+      "time": "17:15",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
     },
     {
-      "id": "2026-09-05-f0f93287",
-      "headline": "US envoys arrive in Moscow ahead of Ukraine talks",
-      "summary": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "id": "2026-09-05-14e442c3",
+      "headline": "US envoys in Moscow ahead of Ukraine talks",
+      "summary": "President Trump says his envoys Steve Witkoff and Jared Kushner are \"bringing with them a proposal to end the war\".",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-09-05",
-      "time": "15:05",
+      "time": "16:57",
       "conflict_id": null,
-      "score": 51.0
+      "score": 59.0
+    },
+    {
+      "id": "2026-09-05-b8060ba5",
+      "headline": "US says its forces destroyed three Iranian oil tankers after IRGC targeted navy warships",
+      "summary": "“We will not hesitate to defend American forces, and if necessary, destroy Iran’s limited and exposed oil fleet,\" CENTCOM commander Admiral Brad Cooper said in a statement.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/2026/09/05/iranian-media-report-us-strike-on-iranian-oil-tanker-near-kharg-island",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-09-05",
+      "time": "09:39",
+      "conflict_id": null,
+      "score": 53.0
     },
     {
       "id": "2026-09-05-8e0d45ce",
@@ -83,7 +97,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-09-05",
-      "time": "13:19",
+      "time": "15:30",
       "conflict_id": null,
       "score": 50.4
     },
@@ -102,9 +116,23 @@
       "score": 49.0
     },
     {
+      "id": "2026-09-05-5ef9bcf5",
+      "headline": "US says it hit three Iranian oil tankers after attacks on warships",
+      "summary": "US Central Command says its forces struck three Iranian crude oil carriers on Saturday.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-says-it-hit-three-iranian-oil-tankers-after-attacks-on-warships?traffic_source=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-09-05",
+      "time": "15:49",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-09-05-ffd9aa97",
       "headline": "US says it hit Iran oil tankers helping finance ‘regional proxies’",
-      "summary": "US strikes hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg Island.",
+      "summary": "US strikes have hit Iranian oil tankers in the Gulf of Oman and near Iran’s Kharg island.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/5/us-says-it-hit-iran-oil-tankers-helping-finance-regional-proxies?traffic_source=rss",
       "region": "MENA",
@@ -158,18 +186,32 @@
       "score": 45.0
     },
     {
-      "id": "2026-09-05-b8060ba5",
-      "headline": "US says its forces destroyed three Iranian oil tankers after IRGC targeted navy warships",
-      "summary": "“We will not hesitate to defend American forces, and if necessary, destroy Iran’s limited and exposed oil fleet,\" CENTCOM commander Admiral Brad Cooper said in a statement.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/09/05/iranian-media-report-us-strike-on-iranian-oil-tanker-near-kharg-island",
-      "region": "NA",
-      "country": "America",
+      "id": "2026-09-05-3092e2d3",
+      "headline": "Gaza teams recover remains of 55 people nearly 3 years after Israeli strike",
+      "summary": "The victims, all from one Palestinian family, had been sheltering at their family home when Israel hit it.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/5/gaza-teams-recover-remains-of-55-people-nearly-3-years-after-israeli-strike?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-09-05",
-      "time": "09:39",
-      "conflict_id": null,
-      "score": 45.0
+      "time": "16:17",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
+      "id": "2026-09-05-e7e89d0a",
+      "headline": "Israeli campaign of West Bank destruction moves on to region’s food basket",
+      "summary": "Palestinian farmland razed as violent Israeli settler expansion spreads into Area A of the occupied West Bank.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/5/israeli-campaign-of-west-bank-destruction-moves-on-to-regions-food-basket?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-09-05",
+      "time": "15:37",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-09-05-4489f705",
@@ -186,20 +228,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-09-05-065986ea",
-      "headline": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
-      "summary": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
-      "date": "2026-09-05",
-      "time": "09:52",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
       "id": "2026-09-05-7dea5fd0",
       "headline": "At least two dead in blast at Bolivia military barracks",
       "summary": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
@@ -209,7 +237,7 @@
       "country": "Bolivia",
       "category": "geopolitics",
       "date": "2026-09-05",
-      "time": "08:41",
+      "time": "15:22",
       "conflict_id": null,
       "score": 43.0
     },
@@ -237,7 +265,7 @@
       "country": null,
       "category": "politics",
       "date": "2026-09-05",
-      "time": "13:40",
+      "time": "15:13",
       "conflict_id": null,
       "score": 41.2
     },
@@ -322,20 +350,6 @@
       "category": "business",
       "date": "2026-09-05",
       "time": "12:25",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
-      "id": "2026-09-05-67428aaf",
-      "headline": "Three killed in Israeli strikes on Lebanon, health ministry says",
-      "summary": "The Israel Defense Forces (IDF) said it had targeted Hezbollah infrastructure in southern Lebanon \"in response to Hezbollah’s attempted attack yesterday against IDF troops operating in the security zone.\"",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/09/05/three-killed-in-israeli-strikes-on-lebanon-health-ministry-says",
-      "region": "MENA",
-      "country": "Lebanon",
-      "category": "geopolitics",
-      "date": "2026-09-05",
-      "time": "09:04",
       "conflict_id": null,
       "score": 37.0
     },
@@ -508,6 +522,34 @@
       "score": 26.4
     },
     {
+      "id": "2026-09-05-ce47e537",
+      "headline": "Bloomberg This Weekend 09/05/2026",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/bloomberg-this-weekend-09-05-2026-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-05",
+      "time": "16:17",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-09-05-2596b1a3",
+      "headline": "Jobs Surge Raises Odds of September Fed Hike",
+      "summary": "On Bloomberg This Weekend, Seaport Research Partner Managing Director & Chief Equity Strategist Jonathan Golub says a stronger-than-expected US jobs report reinforces the case for the Federal Reserve to raise interest rates, despite President Donald Trump’s calls for lower borrowing costs. Golub also says to hosts Christina Ruffini and Jeff Mason that his bigger concern is longer-term bond yields as heavy AI investment and government borrowing co",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-05/jobs-surge-raises-odds-of-september-fed-hike-video",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-09-05",
+      "time": "15:37",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-09-05-35fce9ba",
       "headline": "Singapore Government Won’t Interfere in Decisions on Air India",
       "summary": "The Singapore government said it will not interfere in any decision that Singapore Airlines Ltd. makes in Air India Ltd., which is said to be seeking financial aid from its shareholders.",
@@ -578,18 +620,18 @@
       "score": 25.2
     },
     {
-      "id": "2026-09-05-638bca8c",
-      "headline": "Mansour Abbas is betting on a Zionist to make Palestinian votes count",
-      "summary": "By allying with Segalovich in the Israeli vote, Abbas is hoping for greater acceptance in Israeli coalition politics.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/opinions/2026/9/5/mansour-abbas-is-betting-on-a-zionist-to-make-arab-votes-count?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
+      "id": "2026-09-05-2f872505",
+      "headline": "Chinese energy giants tap Brazil for imports, oil field exploration",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/chinese-energy-giants-tap-brazil-for-imports-oil-field-exploration",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "business",
       "date": "2026-09-05",
-      "time": "08:40",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-09-05-63f7cf06",
@@ -802,20 +844,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-09-04-1b66f998",
-      "headline": "S&P 500 Ends Week Flat as Strong Jobs Growth Fuels Fed-Hike Bets",
-      "summary": "US stocks finished lower on Friday as the American economy ​added more jobs than expected in August, raising expectations that the Federal Reserve may hike interest rates soon.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-04/us-stock-futures-steady-ahead-of-key-august-jobs-data",
-      "region": "NA",
-      "country": "America",
-      "category": "business",
-      "date": "2026-09-04",
-      "time": "11:50",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-09-04-baf7a65a",
       "headline": "In boost to GOP, Supreme Court says parties should get lower TV ad rates",
       "summary": "The Supreme Court ruled Friday that political parties should get discounted TV ad rates when they coordinate spending with candidates.",
@@ -826,20 +854,6 @@
       "category": "business",
       "date": "2026-09-04",
       "time": "22:29",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
-      "id": "2026-09-04-938b575a",
-      "headline": "ICE agent charged with lying to investigators in nonfatal Minneapolis shooting",
-      "summary": "The case is the first known instance of the Justice Department seeking to prosecute a federal immigration officer for actions taken during the Minneapolis operation.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/03/ice-agent-charged-with-making-false-statements-minneapolis-shooting/",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-04",
-      "time": "02:54",
       "conflict_id": null,
       "score": 24.9
     },
@@ -1038,20 +1052,6 @@
       "time": "15:33",
       "conflict_id": null,
       "score": 51.0
-    },
-    {
-      "id": "2026-09-02-95125379",
-      "headline": "China’s falling emissions amid Iran war spark hope of decarbonisation watershed",
-      "summary": "Oil consumption plummets and EV sales soar as analysts say demand may not fully return even if crude price fallsChina’s carbon dioxide emissions fell by 1% after the outbreak of the US-Israeli war on Iran, thanks to a sharp reduction in oil consumption and a steady rise in the use of electric vehicles and public transport, analysis shows.The report reveals the role of clean energy in cushioning the price shocks caused by the strait of Hormuz cris",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/sep/03/china-co2-emissions-iran-war",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-09-02",
-      "time": "23:01",
-      "conflict_id": null,
-      "score": 40.0
     },
     {
       "id": "2026-09-02-33d22e61",
