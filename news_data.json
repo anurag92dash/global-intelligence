@@ -1,8 +1,22 @@
 {
-  "updated": "2026-09-06T17:42:16.714645+00:00",
-  "story_count": 82,
+  "updated": "2026-09-06T19:29:58.372959+00:00",
+  "story_count": 84,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-09-06-32f84278",
+      "headline": "Zelensky says he expects war to continue into winter after talks with US envoys",
+      "summary": "Talks finished without an announcement of a major breakthrough, after Steve Witkoff and Jared Kushner travelled to Kyiv.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6248nvqy8po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "18:33",
+      "conflict_id": "ukraine-war",
+      "score": 80.0
+    },
     {
       "id": "2026-09-06-968da3dc",
       "headline": "Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow",
@@ -13,37 +27,23 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-09-06",
-      "time": "15:06",
+      "time": "17:46",
       "conflict_id": "ukraine-war",
-      "score": 78.4
+      "score": 79.4
     },
     {
-      "id": "2026-09-06-1b83dedc",
-      "headline": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
-      "summary": "Arrival marks first visit to Ukraine and comes day after ‘substantive plans’ on ending war discussed in MoscowThe US negotiators Jared Kushner and Steve Witkoff have arrived in Kyiv for a second day of talks on how to end the war in Ukraine.Ukraine’s president, Volodymyr Zelenskyy, met the pair in Sophia Square, in front of Kyiv’s historic Saint Sophia Cathedral. Zelenskyy greeted Witkoff with a hug, saying: “It’s good to see you, Steve.” Continu",
+      "id": "2026-09-06-3c8706ff",
+      "headline": "US envoys Kushner and Witkoff visit Kyiv for first time after Putin talks",
+      "summary": "Witkoff says he hopes trilateral talks involving the US, Ukraine and Europe will be announced ‘in short order’The US negotiators Jared Kushner and Steve Witkoff travelled to Ukraine for the first time on Sunday for talks with Volodymyr Zelenskyy in an attempt to end the war with Russia.The Ukrainian president announced plans to widen peace discussions to include European countries in the near future, saying he wanted to do “everything to ensure t",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/06/us-envoys-jared-kushner-steve-witkoff-arrive-kyiv-talks-on-ending-war",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-09-06",
-      "time": "13:05",
+      "time": "18:47",
       "conflict_id": "ukraine-war",
       "score": 77.0
-    },
-    {
-      "id": "2026-09-06-7f577fbb",
-      "headline": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
-      "summary": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "15:32",
-      "conflict_id": "ukraine-war",
-      "score": 67.4
     },
     {
       "id": "2026-09-06-dea877a2",
@@ -57,7 +57,35 @@
       "date": "2026-09-06",
       "time": "15:00",
       "conflict_id": "ukraine-war",
-      "score": 67.4
+      "score": 76.4
+    },
+    {
+      "id": "2026-09-06-cf53de52",
+      "headline": "War is likely to drag on into winter according to Zelenskyy following talks with US envoys",
+      "summary": "Following talks in Kyiv with US envoys, Zelenskyy said, \"We very much hope that we will be able to reach agreements with our American partners, and we are counting on the support of our European partners if the war continues in winter -- and this is how it appears at the moment.\"",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/09/06/war-is-likely-to-drag-on-into-winter-according-to-zelenskyy-following-talks-with-us-envoys",
+      "region": "EU",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "18:58",
+      "conflict_id": "ukraine-war",
+      "score": 74.0
+    },
+    {
+      "id": "2026-09-06-7f577fbb",
+      "headline": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
+      "summary": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "15:32",
+      "conflict_id": "ukraine-war",
+      "score": 68.4
     },
     {
       "id": "2026-09-06-8a8d9dc7",
@@ -88,37 +116,65 @@
       "score": 53.0
     },
     {
-      "id": "2026-09-06-dac113a4",
-      "headline": "Far-right AfD surges in German state elections, exit polls show",
-      "summary": "Alternative for Germany projected to secure more than 44 per cent of Saxony-Anhalt vote in big electoral setback for established parties",
+      "id": "2026-09-06-92e5b299",
+      "headline": "Germany's far-right AfD celebrate projected win in state election",
+      "summary": "AfD leaders celebrated tonight as exit polls projected a big lead in the Saxony-Anhalt vote.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c5yegd6ldy6o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-09-06",
+      "time": "18:32",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
+      "id": "2026-09-06-af34f80b",
+      "headline": "Far-right AfD surges in German state elections, partial results show",
+      "summary": "Alternative for Germany is projected to become the largest party in Saxony-Anhalt while falling short of a parliamentary majority",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
       "region": "EU",
       "country": "Germany",
       "category": "politics",
       "date": "2026-09-06",
-      "time": "16:26",
+      "time": "18:10",
       "conflict_id": null,
       "score": 51.4
     },
     {
       "id": "2026-09-06-d86c59ab",
       "headline": "Far-right AfD wins key German state election but may fail to secure majority",
-      "summary": "Exit poll shows Alternative für Deutschland on 44.5% of vote in Saxony-Anhalt after huge turnout, with votes still being countedThe populist far-right, anti-immigration Alternative für Deutschland has emerged as the winner in a crucial state election in Germany, exit polls have projected, but it remains unclear as to whether it will be able to form a government and become the first far-right party to gain power at regional or parliament level sin",
+      "summary": "Exit poll shows Alternative für Deutschland on 44.4% of vote in Saxony-Anhalt after huge turnout, with votes still being countedThe populist, far-right, anti-immigration Alternative für Deutschland (AfD) has emerged as the winner in a crucial state election in Germany, exit polls have projected, securing a historic result and more than doubling its support. The AfD now appear on the brink of becoming the first far-right party to gain power in Ger",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
       "region": "EU",
       "country": "Germany",
       "category": "politics",
       "date": "2026-09-06",
-      "time": "16:17",
+      "time": "18:13",
       "conflict_id": null,
       "score": 49.0
     },
     {
+      "id": "2026-09-06-ea2a90f1",
+      "headline": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting",
+      "summary": "With November midterms approaching, two swing states are sending ballots, and other states plan to send theirs soon.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/06/trump-is-running-out-time-he-tries-restrict-mail-voting/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-09-06",
+      "time": "15:24",
+      "conflict_id": null,
+      "score": 48.9
+    },
+    {
       "id": "2026-09-06-f35994f6",
       "headline": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
-      "summary": "The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.",
+      "summary": "Party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
       "region": "EU",
@@ -128,6 +184,20 @@
       "time": "16:07",
       "conflict_id": null,
       "score": 48.4
+    },
+    {
+      "id": "2026-09-06-7209b32d",
+      "headline": "Trump administration appeals again to US Supreme Court over mail-in voting",
+      "summary": "How the nation&#039;s highest court rules could have major implications in this year’s midterm elections.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/trump-administration-appeals-again-to-us-supreme-court-over-mail-in-voting?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-09-06",
+      "time": "18:47",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-09-06-bdbeffca",
@@ -144,6 +214,20 @@
       "score": 45.0
     },
     {
+      "id": "2026-09-06-0a073150",
+      "headline": "Adidas faces boycott calls over campaign featuring former Israeli soldier",
+      "summary": "Activists slam campaign showing soldier while over 5,000 Palestinians faced amputations due to Israeli attacks in Gaza.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/6/adidas-faces-boycott-calls-over-campaign-featuring-former-israeli-soldier?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "18:56",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
       "id": "2026-09-06-d6057b1f",
       "headline": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
       "summary": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
@@ -158,22 +242,8 @@
       "score": 43.4
     },
     {
-      "id": "2026-09-06-445f0f8e",
-      "headline": "Palestinians mourn loved ones in mass funeral in Gaza City",
-      "summary": "Thousands attended a mass funeral for 100 Palestinians whose bodies were recovered from rubble in Gaza City.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/palestinians-mourn-loved-ones-in-mass-funeral-in-gaza-city?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "13:13",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-09-06-f2f367ae",
-      "headline": "German far-right set for big win in eastern state - projections",
+      "id": "2026-09-06-9650401b",
+      "headline": "German far-right set for big win in eastern state, projections show",
       "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
@@ -181,7 +251,7 @@
       "country": "Germany",
       "category": "politics",
       "date": "2026-09-06",
-      "time": "17:13",
+      "time": "19:13",
       "conflict_id": null,
       "score": 43.0
     },
@@ -200,32 +270,18 @@
       "score": 43.0
     },
     {
-      "id": "2026-09-06-ea2a90f1",
-      "headline": "Trump appeals to Supreme Court as time runs out on push to restrict mail voting",
-      "summary": "With November midterms approaching, two swing states are sending ballots, and other states plan to send theirs soon.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/06/trump-is-running-out-time-he-tries-restrict-mail-voting/",
+      "id": "2026-09-06-391b1709",
+      "headline": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
+      "summary": "The filing puts the legality of the president’s push to impose limits on mail voting squarely before the justices even as states begin sending out ballots.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
       "region": "NA",
       "country": "Trump",
       "category": "politics",
       "date": "2026-09-06",
-      "time": "15:24",
+      "time": "18:01",
       "conflict_id": null,
-      "score": 40.9
-    },
-    {
-      "id": "2026-09-06-24794d12",
-      "headline": "Iranian forces target US naval drone attempting to enter Strait of Hormuz",
-      "summary": "It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/09/06/iranian-forces-target-us-naval-drone-attempting-to-enter-strait-of-hormuz",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "09:16",
-      "conflict_id": null,
-      "score": 37.0
+      "score": 41.2
     },
     {
       "id": "2026-09-06-ed1cb2a0",
@@ -256,20 +312,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-09-06-391b1709",
-      "headline": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
-      "summary": "The filing puts the legality of the president’s push to impose limits on mail voting squarely before the justices even as states begin sending out ballots.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-09-06",
-      "time": "16:55",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
       "id": "2026-09-06-f640b9e5",
       "headline": "Trump’s War on Mail-In Ballots Has Voters Baffled. That May Be the Point.",
       "summary": "From Oregon to Florida, officials are at once reassuring voters that their ballots are safe and encouraging them to use drop boxes or vote in person.",
@@ -294,20 +336,6 @@
       "category": "geopolitics",
       "date": "2026-09-06",
       "time": "09:07",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
-      "id": "2026-09-06-4f9315ea",
-      "headline": "Brisbane swelters under hottest September day in years as east coast faces unseasonably warm weather",
-      "summary": "Queensland capital hits 34.4C as firefighters battle fast-moving bushfire in Lockyer Valley west of IpswichGet our breaking news email, free app or daily news podcastResidents have been put on high alert as an unseasonably hot start to spring gives way to blazes and increased fire risks in the nation’s east.Queensland fire authorities issued local fire bans for Ipswich and the Lockyer Valley on Sunday as temperatures typically seen in summer grip",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/06/brisbane-queensland-hottest-september-day-in-years-east-coast-unseasonably-warm-weather",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "06:57",
       "conflict_id": null,
       "score": 32.0
     },
@@ -380,6 +408,20 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-09-06-eca4b479",
+      "headline": "Bond Traders Brace for More Swings at Both Ends of US Yield Curve",
+      "summary": "US bond investors are preparing for more turbulence across the maturity spectrum, with potential catalysts in the week ahead that may trigger big moves for both short- and long-term securities.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/bond-traders-brace-for-more-swings-at-both-ends-of-us-yield-curve",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-06",
+      "time": "19:00",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-09-06-a3b09f75",
@@ -494,6 +536,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-09-06-dc57ef12",
+      "headline": "Woman laid to rest in coffin made from mushrooms in Australian first",
+      "summary": "The casket, grown from mycelium and hemp fibres, takes just 45 days to break down, enriching the soil in the processGet our breaking news email, free app or daily news podcastA woman has been buried in a coffin made from mushrooms in New South Wales in an eco-friendly first for Australia.Carolyn, aged in her 70s, was laid to rest on Friday by friends and family at Springwood Cemetery in the Blue Mountains. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/07/australian-woman-buried-in-mushroom-coffin-blue-mountains",
+      "region": "MENA",
+      "country": "Australia",
+      "category": "business",
+      "date": "2026-09-06",
+      "time": "19:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-09-06-5b9c90b0",
       "headline": "German startup sends first commercial rocket into space from Europe",
       "summary": "Isar Aerospace plans rapid expansion amid race to capitalise on expanding satellite-launch marketA German startup has launched the first commercial rocket to reach orbit from continental Europe, a milestone for Europe’s efforts to secure independent access to space.Isar Aerospace said on Sunday that it would rapidly ⁠expand satellite deployments after the ⁠first orbital launch of ​its uncrewed Spectrum rocket from Arctic Norway, marking a ⁠breakt",
@@ -508,6 +564,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-09-06-e51dc2cf",
+      "headline": "Photos: UN urges global aid after China, Nepal floods kill over 1,300",
+      "summary": "UN launches $50m appeal to aid over 84,000 flood survivors in Nepal amid cholera threat and sanitation challenges.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-nepal-flood-survivors-face-overwhelming-devastation?traffic_source=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "17:50",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-09-06-b185af2d",
       "headline": "China, Nepal race to find thousands still missing 12 days after floods",
       "summary": "More than 5,500 people are still missing in China and Nepal after catastrophic floods across the two countries.",
@@ -518,20 +588,6 @@
       "category": "geopolitics",
       "date": "2026-09-06",
       "time": "14:14",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-09-06-95b773ae",
-      "headline": "Bangladesh protesters demand action over rising costs",
-      "summary": "Bangladesh sees its first major protests under PM Tarique Rahman, with thousands marching over rising living costs.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/6/bangladesh-protesters-demand-action-over-rising-costs?traffic_source=rss",
-      "region": "SA",
-      "country": "Bangladesh",
-      "category": "politics",
-      "date": "2026-09-06",
-      "time": "12:45",
       "conflict_id": null,
       "score": 23.4
     },
@@ -676,6 +732,20 @@
       "score": 41.2
     },
     {
+      "id": "2026-09-05-16871bed",
+      "headline": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
+      "summary": "Missouri’s Supreme Court said a map redrawn to help Republicans could not be used in November and said voters should decide on the new boundaries.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-05",
+      "time": "15:13",
+      "conflict_id": null,
+      "score": 41.2
+    },
+    {
       "id": "2026-09-05-b965fb64",
       "headline": "Trump begins major midterm spending with $10 million ad buy in Texas",
       "summary": "Republicans, nervous about the tight Senate race in the Lone Star state, hope Trump’s political war chest can boost GOP nominee Ken Paxton.",
@@ -714,34 +784,6 @@
       "category": "politics",
       "date": "2026-09-05",
       "time": "22:48",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-09-05-16871bed",
-      "headline": "Missouri Asks Supreme Court to Allow Voting Map Benefiting Republicans",
-      "summary": "Missouri’s Supreme Court said a map redrawn to help Republicans could not be used in November and said voters should decide on the new boundaries.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/missouri-supreme-court-voting-map.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-05",
-      "time": "15:13",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-09-05-b4349b00",
-      "headline": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
-      "summary": "Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-05",
-      "time": "09:03",
       "conflict_id": null,
       "score": 33.2
     },
@@ -814,20 +856,6 @@
       "time": "23:07",
       "conflict_id": null,
       "score": 43.0
-    },
-    {
-      "id": "2026-09-04-2c467495",
-      "headline": "Trump says he will spend some, not all, super PAC money on midterms",
-      "summary": "Republicans have fretted over his war chest sitting on the sidelines. The president says he plans to hold onto some of the money for 2028.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/04/trump-says-he-will-spend-some-political-war-chest-midterms/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-09-04",
-      "time": "20:30",
-      "conflict_id": null,
-      "score": 40.9
     },
     {
       "id": "2026-09-04-9dfdbc3e",
@@ -940,20 +968,6 @@
       "time": "00:58",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-09-03-2502ac3e",
-      "headline": "Spain’s PM says no evidence ‘whatsoever’ Morocco behind Ceuta border breach",
-      "summary": "Pedro Sánchez continues to defend Rabat after police report claiming border forces helped 70,000 cross borderEurope live – latest updatesSpain has seen no evidence “whatsoever” that Morocco planned or facilitated a mass border breach into its north African territory of Ceuta, the Spanish prime minister, Pedro Sánchez, has told parliament.The address on Thursday followed the emergence of a police report, commissioned by a judge and widely quoted i",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/03/spain-pm-evidence-morocco-ceuta-border-breach",
-      "region": "EU",
-      "country": "Morocco",
-      "category": "politics",
-      "date": "2026-09-03",
-      "time": "12:52",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-09-03-08192c92",
@@ -1136,6 +1150,20 @@
       "time": "12:27",
       "conflict_id": null,
       "score": 25.8
+    },
+    {
+      "id": "2026-08-31-1d8aaab9",
+      "headline": "US and Iran trade strikes for first time in weeks",
+      "summary": "The attack on Larak Island in the Strait of Hormuz - the first known US strike since late July - has killed two people and injured two others.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2z72x5z1po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-08-31",
+      "time": "13:47",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-08-30-e9d97607",
