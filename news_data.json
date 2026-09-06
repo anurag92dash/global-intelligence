@@ -1,8 +1,22 @@
 {
-  "updated": "2026-09-06T15:44:10.724541+00:00",
+  "updated": "2026-09-06T17:42:16.714645+00:00",
   "story_count": 82,
   "source_count": 10,
   "stories": [
+    {
+      "id": "2026-09-06-968da3dc",
+      "headline": "Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow",
+      "summary": "Steve Witkoff and Jared Kushner are seeking to revive earlier proposals to end war",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "15:06",
+      "conflict_id": "ukraine-war",
+      "score": 78.4
+    },
     {
       "id": "2026-09-06-1b83dedc",
       "headline": "US envoys Kushner and Witkoff arrive in Kyiv after talks with Putin",
@@ -15,7 +29,21 @@
       "date": "2026-09-06",
       "time": "13:05",
       "conflict_id": "ukraine-war",
-      "score": 76.0
+      "score": 77.0
+    },
+    {
+      "id": "2026-09-06-7f577fbb",
+      "headline": "US envoys hold ‘substantive’ talks with Zelenskyy in first visit to Kyiv",
+      "summary": "Meeting comes a day after US envoys Jared Kushner and Steve Witkoff met Russian President Vladimir Putin in Moscow.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/us-envoys-hold-substantive-talks-with-zelenskyy-in-first-visit-to-kyiv?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "15:32",
+      "conflict_id": "ukraine-war",
+      "score": 67.4
     },
     {
       "id": "2026-09-06-dea877a2",
@@ -29,35 +57,7 @@
       "date": "2026-09-06",
       "time": "15:00",
       "conflict_id": "ukraine-war",
-      "score": 75.4
-    },
-    {
-      "id": "2026-09-06-968da3dc",
-      "headline": "Trump envoys hold talks with Zelenskyy in Kyiv after meeting Putin in Moscow",
-      "summary": "Steve Witkoff and Jared Kushner are seeking to revive earlier proposals to end war",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/1e2d9db0-cb2c-4c79-942b-f0aff960e4c5?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "15:06",
-      "conflict_id": "ukraine-war",
-      "score": 70.4
-    },
-    {
-      "id": "2026-09-06-2f62f0f2",
-      "headline": "Witkoff and Kushner discussed ‘next steps’ with Putin to end Ukraine war, says US",
-      "summary": "Donald Trump’s business ally and son-in-law now heading from Moscow to Kyiv to meet ZelenskyySteve Witkoff and Jared Kushner are heading to Kyiv for the first time in their roles as Donald Trump’s peace envoys to Ukraine, after talks on Saturday in Moscow.The White House said Witkoff and Kushner had “discussed substantive plans for next steps” towards ending the war between Ukraine and Russia during their meeting on Saturday in Moscow with Vladim",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/05/steve-witkoff-jared-kushner-russia-revive-ukraine-talks",
-      "region": "NA",
-      "country": "White House",
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "09:23",
-      "conflict_id": "ukraine-war",
-      "score": 68.0
+      "score": 67.4
     },
     {
       "id": "2026-09-06-8a8d9dc7",
@@ -71,7 +71,91 @@
       "date": "2026-09-06",
       "time": "06:07",
       "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-09-06-ae9788ae",
+      "headline": "German far-right AfD wins by a landslide in Saxony-Anhalt: exit polls",
+      "summary": "If the AfD manages to form a government, it would be the first far-right party to lead a German state since World War II",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/09/06/german-far-right-afd-wins-by-a-landslide-in-saxony-anhalt-exit-polls",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "16:16",
+      "conflict_id": null,
       "score": 53.0
+    },
+    {
+      "id": "2026-09-06-dac113a4",
+      "headline": "Far-right AfD surges in German state elections, exit polls show",
+      "summary": "Alternative for Germany projected to secure more than 44 per cent of Saxony-Anhalt vote in big electoral setback for established parties",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/a0229455-1822-4de8-ad2f-7453577d95cd?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-09-06",
+      "time": "16:26",
+      "conflict_id": null,
+      "score": 51.4
+    },
+    {
+      "id": "2026-09-06-d86c59ab",
+      "headline": "Far-right AfD wins key German state election but may fail to secure majority",
+      "summary": "Exit poll shows Alternative für Deutschland on 44.5% of vote in Saxony-Anhalt after huge turnout, with votes still being countedThe populist far-right, anti-immigration Alternative für Deutschland has emerged as the winner in a crucial state election in Germany, exit polls have projected, but it remains unclear as to whether it will be able to form a government and become the first far-right party to gain power at regional or parliament level sin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/06/saxony-anhalt-germany-afd-exit-poll-ulrich-siegmund",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-09-06",
+      "time": "16:17",
+      "conflict_id": null,
+      "score": 49.0
+    },
+    {
+      "id": "2026-09-06-f35994f6",
+      "headline": "Far-right AfD wins vote in Germany’s Saxony-Anhalt state: Exit polls",
+      "summary": "The party hails &#039;historic&#039; result, but it is not immediately clear whether it will be able to form a government.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/far-right-afd-wins-vote-in-germanys-saxony-anhalt-state-exit-polls?traffic_source=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-09-06",
+      "time": "16:07",
+      "conflict_id": null,
+      "score": 48.4
+    },
+    {
+      "id": "2026-09-06-bdbeffca",
+      "headline": "Polls open in Saxony-Anhalt as AfD predicted to win state election",
+      "summary": "A large AfD victory would pile more pressure onto Merz and his increasingly unpopular coalition. The party has been polling at more than 40%.",
+      "source": "Euronews",
+      "url": "http://www.euronews.com/my-europe/2026/09/06/polls-open-in-saxony-anhalt-as-afd-predicted-to-win-state-election",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-06",
+      "time": "08:14",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-09-06-d6057b1f",
+      "headline": "Palestinian farmers battle settler sabotage to save Hebron crops, livestock",
+      "summary": "West Bank farmers defy daily settler attacks, sheep theft, and military restrictions to protect their land.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/6/palestinian-farmers-battle-settler-sabotage-to-save-hebron-crops-livestock?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-06",
+      "time": "17:03",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
     },
     {
       "id": "2026-09-06-445f0f8e",
@@ -88,46 +172,32 @@
       "score": 43.4
     },
     {
-      "id": "2026-09-06-170c4572",
-      "headline": "Photos: Gaza holds funeral for 100 Palestinians recovered from rubble",
-      "summary": "Gaza families hold mass funeral for 100 people recovered from rubble in Zeitoun neighbourhood.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/gallery/2026/9/6/photos-gaza-holds-funeral-for-100-palestinians-recovered-from-rubble?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
-      "category": "geopolitics",
+      "id": "2026-09-06-f2f367ae",
+      "headline": "German far-right set for big win in eastern state - projections",
+      "summary": "Germany's AfD has hailed a \"historic result\" and is projected to win more than 44% of the vote, far ahead of the conservative CDU on 18.4%.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cy4zejgz3z9o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
       "date": "2026-09-06",
-      "time": "11:13",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "time": "17:13",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
-      "id": "2026-09-06-f086df33",
-      "headline": "Palestinians in Gaza bury remains of 100 people recovered from rubble",
-      "summary": "The remains of thousands more people are believed to be buried under destroyed and damaged buildings in Gaza.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/6/palestinians-in-gaza-bury-remains-of-100-people-recovered-from-rubble?traffic_source=rss",
-      "region": "MENA",
-      "country": "Gaza",
+      "id": "2026-09-06-55d2e568",
+      "headline": "Iran warns of 'faster, heavier, more painful response' to US attacks",
+      "summary": "The comments came a day after Washington said it had struck Iranian oil tankers in response to Tehran's attacks on US warships in the region.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cp8d56w7d9po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Washington",
       "category": "geopolitics",
       "date": "2026-09-06",
-      "time": "10:42",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-09-06-6343c033",
-      "headline": "Israeli flags become the latest weapon of settlers in West Bank domination",
-      "summary": "Israel&#039;s visual colonisation aims to make Palestinians feel like guests in their own homeland.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/features/2026/9/6/israeli-flags-become-the-latest-weapon-of-settlers-in-west-bank-domination?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "09:40",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
+      "time": "17:00",
+      "conflict_id": null,
+      "score": 43.0
     },
     {
       "id": "2026-09-06-ea2a90f1",
@@ -144,20 +214,6 @@
       "score": 40.9
     },
     {
-      "id": "2026-09-06-921db3ec",
-      "headline": "Far-right AfD predicted to win big in crucial German state election",
-      "summary": "Polling stations open in Saxony-Anhalt with anti-immigration party AfD predicted to gain 41% vote sharePolls have opened in the east German state of Saxony-Anhalt, where the populist, far-right, anti-immigration Alternative für Deutschland (AfD) is predicted to emerge on top in an election that could have a groundbreaking effect on Germany’s political landscape.About 1.7 million people are eligible to vote. Polling booths opened at 8am local time",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/06/far-right-afd-saxony-anhalt-state-election-germany",
-      "region": "EU",
-      "country": "Germany",
-      "category": "politics",
-      "date": "2026-09-06",
-      "time": "10:50",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-09-06-24794d12",
       "headline": "Iranian forces target US naval drone attempting to enter Strait of Hormuz",
       "summary": "It comes after the US military announced that it had struck three Iranian oil tankers in response to what it said were ballistic missile strikes launched by the IRGC against two navy warships.",
@@ -170,20 +226,6 @@
       "time": "09:16",
       "conflict_id": null,
       "score": 37.0
-    },
-    {
-      "id": "2026-09-06-6ffe82cb",
-      "headline": "Why a famous Montreal sandwich shop has been forced to swap its soda",
-      "summary": "Schwartz’s, one of Montreal’s most famous delis, has changed suppliers for its black cherry soda.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/c99dpd083v9o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "06:04",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-09-06-ed1cb2a0",
@@ -200,6 +242,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-09-06-cde61a5a",
+      "headline": "OPEC+ Sticks With Plan to Keep Oil Output Quotas Unchanged",
+      "summary": "Major OPEC+ nations stuck with their plan to keep oil production quotas unchanged, while the Iran war continues to shutter vast swathes of output in the Middle East.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-06/opec-sticks-with-plan-to-keep-oil-production-quotas-unchanged",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "11:25",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-09-06-391b1709",
       "headline": "Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions",
       "summary": "The filing puts the legality of the president’s push to impose limits on mail voting squarely before the justices even as states begin sending out ballots.",
@@ -209,7 +265,7 @@
       "country": "Trump",
       "category": "politics",
       "date": "2026-09-06",
-      "time": "14:31",
+      "time": "16:55",
       "conflict_id": null,
       "score": 33.2
     },
@@ -256,6 +312,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-09-06-e40c6479",
+      "headline": "Iran touts military response as US maintains blockade, hits tankers",
+      "summary": "Tehran says time for proportionate retaliation is over after a US strike on Iranian tankers inside the blockade line.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/6/iran-touts-military-response-as-us-maintains-blockade-hits-tankers?traffic_source=rss",
+      "region": "MENA",
+      "country": "Tehran",
+      "category": "geopolitics",
+      "date": "2026-09-06",
+      "time": "16:17",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-09-06-c95f10a8",
       "headline": "Embattled FIFA President Gianni Infantino to stand for re-election",
       "summary": "FIFA says its chief has not changed his stance on re-election as Infantino faces widespread criticism.",
@@ -296,62 +366,6 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
-    },
-    {
-      "id": "2026-09-06-97d2b671",
-      "headline": "Mediterranean Sea now at spa temperature, daily average 28.54°C on 13 August",
-      "summary": "On 13 August the Mediterranean averaged 28.54°C, its highest level since comparable records began in 1940, Aemet reports, capping a summer with the warmest July on record at sea and in mainland Spain.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/09/06/mediterranean-sea-now-at-spa-temperature-daily-average-2854c-on-13-august",
-      "region": "EU",
-      "country": "Spain",
-      "category": "geopolitics",
-      "date": "2026-09-06",
-      "time": "14:41",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-09-06-52c674f8",
-      "headline": "FIFA chief Gianni Infantino to stand for re-election",
-      "summary": "The next FIFA presidential election is due to take place at the 77th FIFA Congress on Thursday, 18 March 2027 in Rabat, Morocco.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/2026/09/06/fifa-chief-gianni-infantino-to-stand-for-re-election",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-09-06",
-      "time": "12:51",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-09-06-e28d9422",
-      "headline": "AfD’s Ulrich Siegmund casts vote in key German state election",
-      "summary": "AfD candidate Ulrich Siegmund casts his ballot in Saxony-Anhalt, where his party is seeking a historic breakthrough in the state election.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/video/2026/09/06/afds-ulrich-siegmund-casts-vote-in-key-german-state-election",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-06",
-      "time": "12:26",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-09-06-bdbeffca",
-      "headline": "Polls open in Saxony-Anhalt as AfD predicted to win state election",
-      "summary": "A large AfD victory would pile more pressure onto Merz and his increasingly unpopular coalition. The party has been polling at more than 40%.",
-      "source": "Euronews",
-      "url": "http://www.euronews.com/my-europe/2026/09/06/polls-open-in-saxony-anhalt-as-afd-predicted-to-win-state-election",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-06",
-      "time": "08:14",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-09-06-128bd96c",
@@ -718,6 +732,20 @@
       "score": 33.2
     },
     {
+      "id": "2026-09-05-b4349b00",
+      "headline": "Gallup Polls Show Democrats Outnumber Republicans Ahead of 2026 Midterm Elections",
+      "summary": "Data from Gallup shows that Democrats and Democratic-leaning independents have their largest advantage over Republicans since 2008.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/05/us/politics/democrats-republicans-voters-gallup-midterms.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-05",
+      "time": "09:03",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-09-05-d65c6d95",
       "headline": "Drone attack blamed on guerrillas kills at least three soldiers in Colombia",
       "summary": "Officials accuse National Liberation Army of launching strike followed by clash inside military compoundAn attack involving explosives dropped from drones followed by a clash inside a military compound in north-eastern Colombia has killed at least three soldiers and wounded four, Colombia’s army said on Saturday.Local authorities blamed the attack – which took place late on Friday – on the rebel National Liberation Army (ELN). Continue reading...",
@@ -746,6 +774,20 @@
       "score": 32.0
     },
     {
+      "id": "2026-09-05-474a5cbc",
+      "headline": "Rescuers in Nepal find two more people alive after flash flood disaster",
+      "summary": "Chinese man at Trishuli hydropower project and Nepali woman in Nuwakot found 10 days into rescue operationEmergency responders have rescued a Chinese man and a Nepali woman in two separate operations as authorities continued to search for thousands of people missing 10 days after massive floods hit Nepal.The Nepali military said on Saturday a joint team comprising personnel from its army and South Korean disaster experts rescued the man from a 22",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/05/rescuers-nepal-find-two-more-people-alive-flood-disaster",
+      "region": "MENA",
+      "country": "South Korea",
+      "category": "geopolitics",
+      "date": "2026-09-05",
+      "time": "11:26",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-09-05-8a77af6a",
       "headline": "Tate brothers officially indicted with trafficking and sex crimes in Romania",
       "summary": "Andrew and Tristan Tate are currently in a Miami jail fighting extradition to the UK over separate charges and deny all the allegations.",
@@ -760,32 +802,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-09-05-07cff018",
-      "headline": "Indian state gives taxi and tuk-tuk drivers a year to learn local language",
-      "summary": "A new rule making it mandatory for drivers to learn Marathi or lose their licence had sparked protests.",
+      "id": "2026-09-04-c763c090",
+      "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c1j4g29l732o?at_medium=RSS&at_campaign=rss",
+      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
       "region": "EU",
-      "country": "India",
-      "category": "politics",
-      "date": "2026-09-05",
-      "time": "00:33",
+      "country": "Germany",
+      "category": "geopolitics",
+      "date": "2026-09-04",
+      "time": "23:07",
       "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-09-05-ce47e537",
-      "headline": "Bloomberg This Weekend 09/05/2026",
-      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-05/bloomberg-this-weekend-09-05-2026-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-05",
-      "time": "16:17",
-      "conflict_id": null,
-      "score": 26.1
+      "score": 43.0
     },
     {
       "id": "2026-09-04-2c467495",
@@ -800,20 +828,6 @@
       "time": "20:30",
       "conflict_id": null,
       "score": 40.9
-    },
-    {
-      "id": "2026-09-04-c763c090",
-      "headline": "Germany's far-right AfD bids for first taste of power in eastern vote",
-      "summary": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Germany",
-      "category": "geopolitics",
-      "date": "2026-09-04",
-      "time": "23:07",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-09-04-9dfdbc3e",
@@ -1054,20 +1068,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-09-02-99e186fb",
-      "headline": "New constitution in Guinea-Bissau will undermine democracy, opponents say",
-      "summary": "Referendum result means fewer seats in parliament and new rules on candidates, ahead of December electionsGuinea-Bissau voters have approved a new constitution, which critics say will undermine democracy, that significantly expands presidential powers ahead of elections due in December.According to provisional results, 70% of voters approved sweeping changes in the tiny west African state’s first constitutional amendment since revisions that ende",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/sep/02/guinea-bissau-voters-approve-constitution-elections",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-02",
-      "time": "09:20",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-09-01-2a0a8d5d",
       "headline": "Israel says Hamas security chief captured as strikes kill four during Gaza raid",
       "summary": "The Israeli military says it carried out strikes in Gaza City during a raid by special forces to capture the head of Hamas's internal security service.",
@@ -1082,20 +1082,6 @@
       "score": 47.0
     },
     {
-      "id": "2026-09-01-b0c499d3",
-      "headline": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
-      "summary": "BBC correspondents in Delhi and Moscow look at why the Indian PM made a very public peace plea to his Russian ally.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-09-01",
-      "time": "11:55",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-09-01-65f21efe",
       "headline": "Israel warns it will retaliate if UK imposes sanctions",
       "summary": "The UK's Foreign Secretary Ed Miliband pledged on Tuesday to introduce a \"comprehensive reset\" of policy on Israel.",
@@ -1108,6 +1094,20 @@
       "time": "19:27",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-09-01-b0c499d3",
+      "headline": "Why did Modi urge Putin to end Ukraine war - and will he listen?",
+      "summary": "BBC correspondents in Delhi and Moscow look at why the Indian PM made a very public peace plea to his Russian ally.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx2zy3wdqqeo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-09-01",
+      "time": "11:55",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-09-01-aa8f2b60",
