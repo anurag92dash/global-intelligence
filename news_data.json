@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-10T19:38:01.772814+00:00",
-  "story_count": 78,
+  "updated": "2026-09-10T21:51:37.764659+00:00",
+  "story_count": 80,
   "source_count": 10,
   "stories": [
     {
@@ -18,6 +18,20 @@
       "score": 51.4
     },
     {
+      "id": "2026-09-10-9fd83a53",
+      "headline": "Houthis capture Red Sea port in blow to Saudis",
+      "summary": "Rebels overrun historic Yemeni port of Mocha as they advance south towards strategic Bab al-Mandeb Strait",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/cd652b20-1fa3-4a51-bea7-4d7e33b1eaa2?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "14:31",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
       "id": "2026-09-10-d50e58e0",
       "headline": "25 killed after international cargo ship docked in China catches fire",
       "summary": "A total of 42 people had been on the vessel, and 17 of them were safely evacuated, state media reported.",
@@ -30,6 +44,20 @@
       "time": "14:20",
       "conflict_id": null,
       "score": 45.0
+    },
+    {
+      "id": "2026-09-10-6983f754",
+      "headline": "Canada offers air defense support for Ukraine as Zelenskyy visits",
+      "summary": "Canadian PM Mark Carney hosts president in Calgary, where he grew up alongside large Ukrainian communityCanada offered support on Thursday to boost Ukraine’s air defenses and help replenish its drone stocks, as the countries pledged to deepen their alliance during a visit by Volodymyr Zelenskyy.Mark Carney hosted the president of Ukraine in Calgary in the western province of Alberta, where the Canadian prime minister grew up among a large communi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/10/zelenskyy-canada-visit",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "20:35",
+      "conflict_id": "ukraine-war",
+      "score": 44.0
     },
     {
       "id": "2026-09-10-3bd43bc2",
@@ -60,20 +88,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-09-10-740c1a67",
-      "headline": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms",
-      "summary": "President puts himself at centre of congressional election campaign despite his plummeting approval ratings",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-09-10",
-      "time": "04:21",
-      "conflict_id": null,
-      "score": 42.4
-    },
-    {
       "id": "2026-09-10-38b7867f",
       "headline": "Supreme Court Again Blocks Republican-Backed Missouri Voting Map",
       "summary": "The ruling deferred to the state’s Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.",
@@ -84,20 +98,6 @@
       "category": "politics",
       "date": "2026-09-10",
       "time": "17:57",
-      "conflict_id": null,
-      "score": 41.2
-    },
-    {
-      "id": "2026-09-10-1fcf7431",
-      "headline": "Republican Senate Candidates Avoid Tariffs and Iran War at Trump’s Convention",
-      "summary": "Four battleground Senate nominees who spoke sidestepped a pair of issues that have posed political challenges, focusing instead on Mr. Trump’s tax law and other topics.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/09/us/politics/republican-senate-candidates-trump-convention.html",
-      "region": "NA",
-      "country": "Senate",
-      "category": "geopolitics",
-      "date": "2026-09-10",
-      "time": "05:09",
       "conflict_id": null,
       "score": 41.2
     },
@@ -125,7 +125,7 @@
       "country": "Congress",
       "category": "politics",
       "date": "2026-09-10",
-      "time": "18:55",
+      "time": "20:06",
       "conflict_id": null,
       "score": 40.9
     },
@@ -168,34 +168,6 @@
       "category": "politics",
       "date": "2026-09-10",
       "time": "16:44",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-09-10-8d6ca85e",
-      "headline": "Trump’s Iran war now has a midterm election problem",
-      "summary": "Trump has tied the end of his war on Iran to the midterms. But with Iran holding firm, the political cost is mounting.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/trumps-iran-war-now-has-a-midterm-election-problem?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-09-10",
-      "time": "16:43",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-09-10-33cf7540",
-      "headline": "Yemen’s Houthis seize strategic Red Sea city of Mocha",
-      "summary": "Houthis deliver &#039;significant blow&#039; to the Yemeni government, expand control over Bab al-Mandeb, analysts say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/yemens-houthis-seize-strategic-red-sea-city-of-mocha?traffic_source=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "politics",
-      "date": "2026-09-10",
-      "time": "14:16",
       "conflict_id": null,
       "score": 39.4
     },
@@ -256,20 +228,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-09-10-c508e1d9",
-      "headline": "Twenty-five dead after fire on cargo ship in eastern China",
-      "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-09-10",
-      "time": "12:24",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-09-10-cc202217",
       "headline": "More than 20 children killed in DR Congo school fire",
       "summary": "Officials say there was a stampede as they fled a fire that engulfed two schools in the eastern rebel-held city of Bukavu.",
@@ -280,6 +238,20 @@
       "category": "business",
       "date": "2026-09-10",
       "time": "19:16",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-09-10-c508e1d9",
+      "headline": "Twenty-five dead after fire on cargo ship in eastern China",
+      "summary": "Of the 42 people on board, 17 were were evacuated, CCTV reports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cj4jyv7l92eo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "12:24",
       "conflict_id": null,
       "score": 35.0
     },
@@ -298,20 +270,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-09-10-1ce86247",
-      "headline": "Four key takeaways from  Republican midterms convention",
-      "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-10",
-      "time": "04:07",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-09-10-f47460bb",
       "headline": "Druckenmiller says US borrowing costs still ‘a little low’ despite surge in yields",
       "summary": "Close ally of Kevin Warsh says Federal Reserve officials who argue rates are restrictive are ‘just ridiculous’",
@@ -322,6 +280,20 @@
       "category": "business",
       "date": "2026-09-10",
       "time": "17:21",
+      "conflict_id": null,
+      "score": 34.4
+    },
+    {
+      "id": "2026-09-10-740c1a67",
+      "headline": "Trump promises $5,000 ‘dividend’ for US voters if Republicans win midterms",
+      "summary": "President puts himself at centre of congressional election campaign despite his plummeting approval ratings",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/acfc3ed7-9e2d-4d86-a915-a68c9a55db1f?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-09-10",
+      "time": "04:21",
       "conflict_id": null,
       "score": 34.4
     },
@@ -340,46 +312,60 @@
       "score": 34.4
     },
     {
-      "id": "2026-09-10-0df2cbaa",
-      "headline": "Oracle Earnings to Test Market’s Tolerance for AI Spending Risk",
-      "summary": "Oracle Corp. shares are struggling this year as investors balk at the massive debt load the software and cloud computing company has taken on to build out artificial intelligence infrastructure.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/oracle-earnings-to-test-market-s-tolerance-for-ai-spending-risk",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-09-10",
-      "time": "09:03",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-09-10-2b723876",
-      "headline": "Trump Floats $5,000 ‘Trump Dividend’ Checks if Republicans Win the Midterms",
-      "summary": "In his convention speech, the president floated the idea of a $5,000 “Trump Dividend” for every adult American if Republicans keep control of Congress. The idea, like many others, may not come to pass.",
+      "id": "2026-09-10-09a51ba3",
+      "headline": "Some Republicans Balk at Trump’s $5,000 ‘Dividend’ Offer",
+      "summary": "The president’s call to send a $5,000 “dividend” to every American adult if Republicans win the midterms disturbed some members of his party.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-09-10",
-      "time": "16:04",
-      "conflict_id": null,
-      "score": 33.2
-    },
-    {
-      "id": "2026-09-10-b6523e13",
-      "headline": "7 Takeaways From the Republican Midterm Convention",
-      "summary": "At a first-of-its-kind midterm convention, President Trump mostly offered retreads and self-congratulation. Then, he offered to pay Americans $5,000 apiece if Republicans kept power.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-republicans-inflation.html",
       "region": "NA",
       "country": "America",
       "category": "politics",
       "date": "2026-09-10",
-      "time": "13:17",
+      "time": "21:04",
       "conflict_id": null,
       "score": 33.2
+    },
+    {
+      "id": "2026-09-10-843bfcd8",
+      "headline": "25 Years After 9/11, Trump Personifies a Nation Moving On",
+      "summary": "The president has de-emphasized and shifted the war on terrorism at a time when fear of foreign attack has receded into the background of American life.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/trump-sept-11-terrorism.html",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "21:35",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-09-10-40262a1e",
+      "headline": "Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War",
+      "summary": "Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "20:38",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-09-10-fee7adc1",
+      "headline": "GOP secretaries of state ask Supreme Court to block Trump mail-in ballot rule",
+      "summary": "The proposed change would significantly increase the likelihood of midterm election issues, they warned.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/10/gop-secretaries-state-ask-supreme-court-block-trump-mail-in-ballot-rule/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-09-10",
+      "time": "19:36",
+      "conflict_id": null,
+      "score": 32.9
     },
     {
       "id": "2026-09-10-ec9479ed",
@@ -396,6 +382,48 @@
       "score": 32.9
     },
     {
+      "id": "2026-09-10-21f98fd9",
+      "headline": "Rubio signals shift to working with allies to fight drug trade as latest boat strike kills three",
+      "summary": "Rubio visits Ecuador and welcomes cooperation after campaign of unilateral strikes on alleged ‘narco-terrorists’The US secretary of state, Marco Rubio, gave new clarity on the approach toward combating drug trafficking in Latin American waters, saying the Trump administration was focused on working with allied countries and aligning with their laws but insisted the military would “still blow up ships if need be”.The public acknowledgment of a shi",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/09/rubio-us-allies-drug-trafficking",
+      "region": "NA",
+      "country": "Latin America",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "01:02",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-09-10-7c66d7b4",
+      "headline": "North Korea has built new uranium facility to expand nuclear arsenal, UN agency says",
+      "summary": "The International Atomic Energy Agency voices ‘serious concerns’ over expansion of Yongbyon facility to enrich uraniumThe International Atomic Energy Agency (IAEA) has voiced “serious concern” over evidence that North Korea has built a facility capable of enriching weapons-grade uranium to bolster its nuclear arsenal.The new building, located at the the country’s main Yongbyon nuclear facility, can house up to 28 centrifuge cascades – machinery c",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/10/north-korea-has-built-new-uranium-facility-to-expand-nuclear-arsenal-un-agency-says",
+      "region": "NA",
+      "country": "North Korea",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "05:08",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-09-10-0e521092",
+      "headline": "‘I don’t want to be here’: Andrew Hastie was a reluctant but ‘straightforward’ witness in the Ben Roberts-Smith defamation case",
+      "summary": "The Liberal MP and former SAS soldier is under attack from One Nation after complying with a subpoena to give evidence in the failed 2022 civil caseFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcast“I don’t dislike Mr Roberts-Smith at all. I pity Mr Roberts-Smith. I pity this whole process. I don’t want to be here.”Andrew Hastie was a reluctant witness in the Ben Roberts-Smith defamat",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/11/andrew-hastie-reluctant-witness-ben-roberts-smith-case-one-nation-traitor-attack-ntwnfb",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
       "id": "2026-09-10-3d4b9225",
       "headline": "Oil jumps to $105, pushing up chances of a US interest rate increase",
       "summary": "Prices spiked as attacks on oil tankers escalated amid the US-Iran war.",
@@ -408,6 +436,20 @@
       "time": "16:05",
       "conflict_id": null,
       "score": 31.4
+    },
+    {
+      "id": "2026-09-10-17884896",
+      "headline": "BRICS Summit marks dual milestones and tests limits of cohesion",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/policy-asia/brics-summit-marks-dual-milestones-and-tests-limits-of-cohesion",
+      "region": "APJ",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-10",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
     },
     {
       "id": "2026-09-10-13c21fbc",
@@ -434,6 +476,20 @@
       "category": "politics",
       "date": "2026-09-10",
       "time": "16:48",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-09-10-1ce86247",
+      "headline": "Four key takeaways from  Republican midterms convention",
+      "summary": "The US president covered many of the subjects he has returned to time and again - with a few surprises thrown in.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cg7kjlzlev1o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-10",
+      "time": "04:07",
       "conflict_id": null,
       "score": 27.0
     },
@@ -466,8 +522,8 @@
       "score": 27.0
     },
     {
-      "id": "2026-09-10-315960bd",
-      "headline": "Global bond sell-off reignites as oil jumps to $107",
+      "id": "2026-09-10-7190e443",
+      "headline": "Global bond sell-off reignites as oil jumps to $108",
       "summary": "US yields reach highs of the day after Scott Bessent’s Treasury buyback operation undershoots its target",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/49e8c693-0064-4ef9-917f-5f2be97458fc?syn-25a6b1a6=1",
@@ -475,7 +531,21 @@
       "country": null,
       "category": "business",
       "date": "2026-09-10",
-      "time": "19:16",
+      "time": "20:18",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-09-10-b27bf18a",
+      "headline": "Oracle reports boost in data centre revenue as AI strategy accelerates",
+      "summary": "Database group spent $28.5bn capex last quarter as it tries to compete with larger rivals",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/9df99d0b-6ef6-4530-8771-8b220f740e74?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-10",
+      "time": "20:51",
       "conflict_id": null,
       "score": 26.4
     },
@@ -494,16 +564,30 @@
       "score": 26.4
     },
     {
-      "id": "2026-09-10-50a8a309",
-      "headline": "Pretty Far From 'Liz Truss Moment': Herr",
-      "summary": "Mike Contopoulos, head of multi-asset macro investing at Janus Henderson, and Kay Herr, US CIO of US GFICC JPMorgan Asset Management, join Scarlet Fu on \"Bloomberg Deals.\" Yields on US government bonds rose to fresh multiyear highs as oil prices extended their surge, prompting traders to add to bets that the Federal Reserve will raise interest rates as soon as next week. (Source: Bloomberg)",
+      "id": "2026-09-10-b50bd521",
+      "headline": "Saudi Arabia cuts oil output to lowest this year on Houthi threats",
+      "summary": "Rebels announced ‘maritime embargo’ against kingdom’s exports in July, forcing world’s biggest exporter to cut production",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/683a6973-ad54-42e1-8b53-f0e294d15022?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "business",
+      "date": "2026-09-10",
+      "time": "12:06",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-09-10-4a4e6fe2",
+      "headline": "Fanatics’ King on Sports Betting and Prediction Markets",
+      "summary": "Fanatics’ Betting and Gaming CEO Matt King discusses the company’s newly launched all-in-one app, which combines sports betting, casino, and prediction markets. King discusses Fanatics’ position in a market long dominated by DraftKings and FanDuel, and asked King how much share Fanatics has gained so far. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-10/pretty-far-from-liz-truss-moment-herr-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/fanatics-king-on-sports-betting-and-prediction-markets-video",
       "region": "NA",
       "country": null,
       "category": "business",
       "date": "2026-09-10",
-      "time": "19:18",
+      "time": "21:41",
       "conflict_id": null,
       "score": 26.1
     },
@@ -522,18 +606,46 @@
       "score": 26.1
     },
     {
-      "id": "2026-09-10-98b7f351",
-      "headline": "Windshield Giant Belron Is Said to Seek Banks for Amsterdam IPO",
-      "summary": "Belron Group SCA is reaching out to investment banks to pitch for roles on a potential initial public offering that could be one of the largest Europe has seen in recent years, according to people familiar with the matter.",
+      "id": "2026-09-10-aea3b118",
+      "headline": "Philip Morris CEO Is ‘Optimistic’ About Zyn Potential",
+      "summary": "Jacek Olczak discusses Zyn's strong demand and asking whether those issues have now been resolved. The conversation also focused on Philip Morris International’s year-end market share target for Zyn and whether offering larger cans with 15 to 20 pouches could boost revenue as well as margins. He speaks with Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-10/windshield-giant-belron-is-said-to-seek-banks-for-amsterdam-ipo",
-      "region": "EU",
-      "country": "Europe",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-10/philip-morris-ceo-is-optimistic-about-zyn-potential-video",
+      "region": "NA",
+      "country": null,
       "category": "business",
       "date": "2026-09-10",
-      "time": "17:23",
+      "time": "21:25",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-09-10-77eced90",
+      "headline": "Municipal Bond Yields Soar to Highest Since 2011 in Rout",
+      "summary": "Municipal bond yields jumped as much as 15 basis points with the longest-dated securities reaching the highest since 2011, as rising Treasury rates and heavy new issuance pressure the market.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-10/muni-bond-yields-climb-to-highest-since-april-2025-tariff-rout",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-10",
+      "time": "17:51",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-09-10-bf1958d5",
+      "headline": "While Trump Goes Big in Dallas, Collins Goes Small in Maine to Save Her Seat",
+      "summary": "Senator Susan Collins, the only Republican seeking re-election in a state President Trump lost, steered clear of his convention as she distances herself from him and his record.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/10/us/politics/susan-collins-trump-maine.html",
+      "region": "EU",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-09-10",
+      "time": "20:46",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-09-10-d1d74a21",
@@ -580,7 +692,7 @@
     {
       "id": "2026-09-10-5c132149",
       "headline": "Woolworths increased prices of at least four ‘family staples’ during ‘Price Freeze’ promotion",
-      "summary": "Exclusive: Analysis shows cost of chicken fillets, potatoes and donuts rose during supermarket giant’s three-month promotionGet our breaking news email, free app or daily news podcastWoolworths raised prices for popular items – including a 33% mark up on chicken fillets – within days of promising to freeze prices on 300 “family staples” for three months to help customers with the cost of living.Pricing data, compiled by comparison website CW Scan",
+      "summary": "Exclusive: Analysis shows cost of chicken fillets, potatoes and donuts rose during supermarket giant’s three-month promotionFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news podcastWoolworths raised prices for popular items – including a 33% mark up on chicken fillets – within days of promising to freeze prices on 300 “family staples” for three months to help customers with the cost of livin",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/business/2026/sep/11/woolworths-hike-family-staples-during-price-freeze-promotion",
       "region": "APJ",
@@ -592,30 +704,16 @@
       "score": 24.0
     },
     {
-      "id": "2026-09-10-4e3747b4",
-      "headline": "Houthis capture Yemeni town of Mocha: Why it’s important",
-      "summary": "The Houthi seizure of Mocha threatens global trade routes, severs vital supply lines, and displaces thousands in Yemen.",
+      "id": "2026-09-10-3c519dd1",
+      "headline": "Will foreign workers leave South Africa?",
+      "summary": "Anti-immigrant protests in the country are back.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/10/houthis-capture-yemeni-town-of-mocha-why-it-matters?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/10/will-foreign-workers-leave-south-africa?traffic_source=rss",
       "region": "MENA",
-      "country": "Yemen",
-      "category": "business",
-      "date": "2026-09-10",
-      "time": "14:53",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-09-10-ad5614e9",
-      "headline": "French Football Federation withdraws support for FIFA President Infantino",
-      "summary": "FFF aligns position with of other European federations, such as Belgium, England, Italy, Scotland, and Sweden.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/sports/2026/9/10/french-football-federation-withdraws-support-for-fifa-president-infantino?traffic_source=rss",
-      "region": "EU",
-      "country": "Belgium",
+      "country": null,
       "category": "politics",
       "date": "2026-09-10",
-      "time": "13:38",
+      "time": "20:42",
       "conflict_id": null,
       "score": 23.4
     },
@@ -690,6 +788,20 @@
       "score": 22.8
     },
     {
+      "id": "2026-09-10-da8b3b3a",
+      "headline": "Spanish parliament backs granting citizenship to Western Saharans born during Spanish rule",
+      "summary": "Although the exact number of beneficiaries is unknown, around 80,000 Sahrawis are believed to be eligible, with some estimates reaching almost 200,000 when including descendants.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/09/10/spanish-parliament-backs-granting-citizenship-to-western-saharans-born-during-spanish-rule",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-10",
+      "time": "20:28",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
       "id": "2026-09-09-d2ca3e53",
       "headline": "Muted US response to UK's West Bank sanctions may reflect simmering frustration",
       "summary": "The UK accuses Israel's government of turning a blind eye to the \"ethnic cleansing\" of Palestinians by settlers.",
@@ -718,34 +830,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-09-09-91606106",
-      "headline": "Trump accuses Iran of meddling in midterms as wave of missiles targets U.S. base in Jordan",
-      "summary": "Under economic pressure from the U.S., Iranian leaders have signaled they will not capitulate amid stunted diplomatic efforts to end the war.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/08/us-launches-strikes-5-iranian-oil-tankers-after-latest-attacks-warships/",
-      "region": "MENA",
-      "country": "Jordan",
-      "category": "geopolitics",
-      "date": "2026-09-09",
-      "time": "19:23",
-      "conflict_id": null,
-      "score": 40.9
-    },
-    {
-      "id": "2026-09-09-cec74421",
-      "headline": "Spanish intelligence warned of Ceuta mass crossing plans before surge",
-      "summary": "Declassified documents show Spanish and Moroccan authorities were alerted to social media calls for a mass migrant crossing the day before tens of thousands entered Ceuta.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ced7vj2gv82o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-09-09",
-      "time": "21:23",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-09-09-2a2a762f",
       "headline": "Germany's Merz attacks AfD in stormy debate after far-right election win",
       "summary": "Germany's chancellor clashes with AfD leader Alice Weidel, saying her migration policy amounts to \"ethnic cleansing\" for skilled workers.",
@@ -756,20 +840,6 @@
       "category": "politics",
       "date": "2026-09-09",
       "time": "13:29",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-09-09-cd885135",
-      "headline": "Passenger killed after train hits truck at Poland level crossing",
-      "summary": "It is the second such incident in Poland in days and the prime minister says tough new regulations are needed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cp30el2dkdlo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Poland",
-      "category": "politics",
-      "date": "2026-09-09",
-      "time": "16:13",
       "conflict_id": null,
       "score": 35.0
     },
@@ -800,20 +870,6 @@
       "time": "20:59",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-09-09-63221d34",
-      "headline": "Newsom’s defamation lawsuit against  Fox News is set for March 2028 trial",
-      "summary": "A Delaware judge has set a March 2028 trial date for California Gov. Gavin Newsom’s $787 million defamation lawsuit against Fox News.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/09/newsoms-defamation-lawsuit-against-fox-news-is-set-march-2028-trial/",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-09-09",
-      "time": "18:00",
-      "conflict_id": null,
-      "score": 32.9
     },
     {
       "id": "2026-09-09-b2a90fbd",
@@ -872,20 +928,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-09-09-2825d382",
-      "headline": "Latest Oil Market News and Analysis for Sept. 10",
-      "summary": "Brent oil spiked over $107 a barrel, the highest in nearly four months, as deteriorating conditions in the Middle East heightened concerns over global supplies.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-09/latest-oil-market-news-and-analysis-for-sept-10",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-09",
-      "time": "22:04",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
       "id": "2026-09-09-76ec5c45",
       "headline": "Five takeaways from the New Hampshire primaries and an under-the-radar Senate race",
       "summary": "Former Republican senator John E. Sununu and Democratic Rep. Chris Pappas easily won their primaries for an open U.S. Senate seat.",
@@ -940,20 +982,6 @@
       "time": "13:48",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-09-08-ad5b3b01",
-      "headline": "US bans Canadian dairy, alcohol and motorcycles as trade war escalates",
-      "summary": "Trump responds after Canada imposes $20bn in retaliatory tariffs and Canadian PM vows to diversify trade abroadThe US is banning dairy products, most alcoholic beverages and motorcycles from Canada, the White House said on Tuesday, as the trade war between the two neighbors and longtime allies escalates.The ban will take effect in three weeks and comes after Canada imposed retaliatory tariffs on $20bn in US imports earlier on Tuesday. Continue re",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/08/trump-canada-trade-war-dairy-alcohol",
-      "region": "NA",
-      "country": "White House",
-      "category": "business",
-      "date": "2026-09-08",
-      "time": "23:59",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-09-08-ebb22654",
