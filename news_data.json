@@ -1,22 +1,8 @@
 {
-  "updated": "2026-09-11T20:55:03.636796+00:00",
-  "story_count": 85,
+  "updated": "2026-09-11T22:50:22.921222+00:00",
+  "story_count": 86,
   "source_count": 10,
   "stories": [
-    {
-      "id": "2026-09-11-5865ebd6",
-      "headline": "At the Pentagon, Trump ties the legacy of 9/11 to his Iran war",
-      "summary": "President Donald Trump spoke at a solemn Pentagon ceremony marking the attacks of Sept. 11, 2001, and edged close to embracing policies he has long criticized.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/11/pentagon-trump-edges-toward-embracing-post-911-policies-he-attacked/",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-09-11",
-      "time": "17:02",
-      "conflict_id": null,
-      "score": 56.9
-    },
     {
       "id": "2026-09-11-05f43f3e",
       "headline": "Russia targets Kyiv petrol stations for first time with jet-powered drones",
@@ -32,20 +18,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-09-11-9469e09f",
-      "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
-      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "geopolitics",
-      "date": "2026-09-11",
-      "time": "20:11",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-09-11-fed0ff47",
       "headline": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
       "summary": "The capture by the rebels of a stretch Yemen's strategic coastline is the group's most impressive military coup for several years.",
@@ -58,6 +30,34 @@
       "time": "19:44",
       "conflict_id": null,
       "score": 51.0
+    },
+    {
+      "id": "2026-09-11-b96517cc",
+      "headline": "Trump Appears to Defend Iran War During 9/11 Anniversary Speech",
+      "summary": "The president appeared to embrace the idea that after 9/11, no risk can be tolerated, an echo of reasoning used by previous American officials in the “forever wars” that he has long denounced.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-09-11",
+      "time": "20:09",
+      "conflict_id": null,
+      "score": 49.2
+    },
+    {
+      "id": "2026-09-11-5865ebd6",
+      "headline": "At the Pentagon, Trump ties the legacy of 9/11 to his Iran war",
+      "summary": "President Donald Trump spoke at a solemn Pentagon ceremony marking the attacks of Sept. 11, 2001, and edged close to embracing policies he has long criticized.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/11/pentagon-trump-edges-toward-embracing-post-911-policies-he-attacked/",
+      "region": "NA",
+      "country": "Pentagon",
+      "category": "geopolitics",
+      "date": "2026-09-11",
+      "time": "17:02",
+      "conflict_id": null,
+      "score": 48.9
     },
     {
       "id": "2026-09-11-8215fead",
@@ -88,32 +88,46 @@
       "score": 44.0
     },
     {
-      "id": "2026-09-11-8b8cf82f",
-      "headline": "Houthis seize Red Sea islands in lightning offensive",
-      "summary": "Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets",
+      "id": "2026-09-11-9469e09f",
+      "headline": "Houthis claim major advance in Yemen and tighten grip on Red Sea shipping lane",
+      "summary": "The Iran-backed Houthis are also reported to have seized Perim - a strategic island on the major shipping route.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c23x72yx2rvo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "geopolitics",
+      "date": "2026-09-11",
+      "time": "22:17",
+      "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-09-11-c0da07e1",
+      "headline": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
+      "summary": "Move is likely to put further momentum behind fast-rising oil prices",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
       "region": "MENA",
       "country": "Saudi",
       "category": "business",
       "date": "2026-09-11",
-      "time": "19:07",
+      "time": "20:21",
       "conflict_id": null,
       "score": 42.4
     },
     {
-      "id": "2026-09-11-ac3febde",
-      "headline": "Lurking in Trump’s 9/11 Tribute, a Defense of His War With Iran",
-      "summary": "The president appeared to embrace the idea that after 9/11, no risk can be tolerated, an echo of reasoning used by previous American officials in the “forever wars” that he has long denounced.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/11/us/politics/trump-9-11-speech-iran.html",
-      "region": "NA",
-      "country": "America",
+      "id": "2026-09-11-1ab0662f",
+      "headline": "Saudi East-West Pipeline Shut Down as Precaution After Attack",
+      "summary": "Bloomberg's Veena Ali-Khan said that clashes between Houthi rebels and Saudi Arabia is an 'escalation' of regional tensions as fighting disrupts key areas for oil production. Ali-Kahn said that Saudi Arabia is caught between a rock and a hard place when it comes to responding to recent attacks, as leaders weigh the impact of military retaliation against gains in leverage for the Houthis.  (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-11/saudi-east-west-pipeline-shut-as-precaution-after-attack-video",
+      "region": "MENA",
+      "country": "Saudi",
       "category": "geopolitics",
       "date": "2026-09-11",
-      "time": "20:09",
+      "time": "20:07",
       "conflict_id": null,
-      "score": 41.2
+      "score": 42.1
     },
     {
       "id": "2026-09-11-08bce306",
@@ -130,6 +144,20 @@
       "score": 41.0
     },
     {
+      "id": "2026-09-11-4e58bae6",
+      "headline": "Saudi Arabia says East-West pipeline hit by drones launched from Iraq",
+      "summary": "Iraq condemns the attack, says Prime ⁠Minister Ali al-Zaidi orders an ⁠investigation ​into ⁠those responsible.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/11/saudi-arabia-says-east-west-pipeline-hit-by-drones-launched-from-iraq?traffic_source=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-09-11",
+      "time": "21:30",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
       "id": "2026-09-11-ebc8edbf",
       "headline": "Houthi advance in Yemen is about more than just the Red Sea",
       "summary": "Houthis were already able to disrupt shipping - their advance consolidates that power, and exposes government weakness.",
@@ -142,34 +170,6 @@
       "time": "19:01",
       "conflict_id": null,
       "score": 39.4
-    },
-    {
-      "id": "2026-09-11-0041b9d4",
-      "headline": "Houthis take control of Yemen’s entire Red Sea coast, reports say",
-      "summary": "The Iran-backed Houthi forces have taken control over most of the western Red Sea coastal line",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/houthis-take-control-of-yemens-entire-red-sea-coast-reports-say?traffic_source=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "geopolitics",
-      "date": "2026-09-11",
-      "time": "15:34",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-09-11-53d2a8be",
-      "headline": "US commemorates 25th anniversary of devastating 9/11 attacks as their legacy endures",
-      "summary": "Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, paid tribute to first responders and called for national unity.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-11",
-      "time": "19:04",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-09-11-56061773",
@@ -214,16 +214,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-09-11-c0da07e1",
-      "headline": "Saudi Arabia shuts East-West pipeline that bypasses Hormuz after attacks",
-      "summary": "Move is likely to put further momentum behind fast-rising oil prices",
+      "id": "2026-09-11-8b8cf82f",
+      "headline": "Houthis seize Red Sea islands in lightning offensive",
+      "summary": "Advance against Saudi-backed forces cements Yemeni rebels’ control over vital shipping artery and roils energy markets",
       "source": "Financial Times",
-      "url": "https://www.ft.com/content/3bafb3ae-ba94-44f0-984c-ec7c9f54a5e0?syn-25a6b1a6=1",
+      "url": "https://www.ft.com/content/976fa0d6-ed09-4a6f-be02-ff4317b45f40?syn-25a6b1a6=1",
       "region": "MENA",
       "country": "Saudi",
       "category": "business",
       "date": "2026-09-11",
-      "time": "20:21",
+      "time": "20:56",
       "conflict_id": null,
       "score": 34.4
     },
@@ -256,6 +256,20 @@
       "score": 34.4
     },
     {
+      "id": "2026-09-11-277fe898",
+      "headline": "Bond Trader Whose Wrong-Way Bets Collapsed Firm Gets 16 Years",
+      "summary": "A former trader at IFS Securities Inc. was ordered to serve more than 16 years in prison for unauthorized bond trades in 2019 that led to $30 million in losses and bankrupted the Chicago broker-dealer.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/bond-trader-whose-wrong-way-bets-collapsed-firm-gets-16-years",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-11",
+      "time": "22:33",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
       "id": "2026-09-11-6a6b7920",
       "headline": "CFTC Clears Faster Payouts for Tipster Awards Under $5 Million",
       "summary": "The Commodity Futures Trading Commission plans to automatically award successful whistleblowers 30% of any enforcement penalties collected if a tipster is due to receive $5 million or less, the agency said Friday.",
@@ -270,32 +284,18 @@
       "score": 34.1
     },
     {
-      "id": "2026-09-11-1ab0662f",
-      "headline": "Saudi East-West Pipeline Shut Down as Precaution After Attack",
-      "summary": "Bloomberg's Veena Ali-Khan said that clashes between Houthi rebels and Saudi Arabia is an 'escalation' of regional tensions as fighting disrupts key areas for oil production. Ali-Kahn said that Saudi Arabia is caught between a rock and a hard place when it comes to responding to recent attacks, as leaders weigh the impact of military retaliation against gains in leverage for the Houthis.  (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/saudi-east-west-pipeline-shut-as-precaution-after-attack-video",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-09-11",
-      "time": "20:07",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-09-11-cb4a0b4c",
-      "headline": "The Case Against Cutting Social Security: Kathryn Anne Edwards",
-      "summary": "Bloomberg Opinion's Kathryn Anne Edwards joins Scarlet Fu on \"Bloomberg Money.\" Edwards writes that for the last 43 years Social Security has been on autopilot, and makes the case for modernizing the program to meet 2026 economic issues. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/the-case-against-cutting-social-security-edwards-video",
+      "id": "2026-09-11-eae889c7",
+      "headline": "Will Stark Warnings About AI Shape the Midterm Elections?",
+      "summary": "Stark warnings from A.I. researchers have reverberated across the country.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/11/us/politics/midterm-elections-trump-ai.html",
       "region": "NA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-09-11",
-      "time": "19:01",
+      "time": "22:21",
       "conflict_id": null,
-      "score": 34.1
+      "score": 33.2
     },
     {
       "id": "2026-09-11-aacdceab",
@@ -424,6 +424,20 @@
       "score": 31.4
     },
     {
+      "id": "2026-09-11-256b3d7d",
+      "headline": "New $11bn canal underscores China's turn toward Southeast Asia",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/big-in-asia/new-11bn-canal-underscores-china-s-turn-toward-southeast-asia",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-09-11",
+      "time": "",
+      "conflict_id": null,
+      "score": 30.8
+    },
+    {
       "id": "2026-09-11-2c7e1744",
       "headline": "Japan eyes subsidies to create emergency capacity for drones, ammunition",
       "summary": "",
@@ -450,6 +464,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-09-11-53d2a8be",
+      "headline": "US commemorates 25th anniversary of devastating 9/11 attacks as their legacy endures",
+      "summary": "Traditionally, there are no political speeches at the Ground Zero commemoration. Victims’ relatives read their names, paid tribute to first responders and called for national unity.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/11/us-commemorates-25th-anniversary-of-devastating-911-attacks-as-their-legacy-endures",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-11",
+      "time": "19:04",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-09-11-94fc861b",
@@ -536,6 +564,48 @@
       "score": 26.4
     },
     {
+      "id": "2026-09-11-78bb3cc4",
+      "headline": "Lone Pine’s co-CIO to join early SpaceX backer Atreides Management",
+      "summary": "Kelly Granat to join tech-focused investment firm set up by former Fidelity Investments star stock picker Gavin Baker",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/282a7b82-49b1-48ce-b645-737da2ff093a?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-11",
+      "time": "20:54",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-09-11-427ad798",
+      "headline": "Oraclum Hedge Fund Founder Charged With Lying About Returns",
+      "summary": "Vuk Vukovic, a founder of New York hedge fund Oraclum Capital LLC, was charged by federal prosecutors with lying to investors about his fund’s performance.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-11/oraclum-hedge-fund-founder-is-charged-with-lying-about-returns",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-11",
+      "time": "13:55",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-09-11-2b03b183",
+      "headline": "Bill Dudley Expects Fed to Raise Rate by 25 Bps",
+      "summary": "Bill Dudley, a Bloomberg Opinion columnist and former president of the Federal Reserve Bank of New York, says he would be shocked if the Federal Reserve did not raise interest rates by 25 basis points at their next meeting. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-11/dudley-expects-fed-to-raise-rate-by-25-bps-video",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-11",
+      "time": "21:12",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-09-11-4e81e2a2",
       "headline": "Lululemon’s Newest Bear Sees More Pain Ahead After 81% Rout",
       "summary": "Lululemon Athletica Inc.’s turnaround won’t be a quick or easy fix as the athletic wear company cedes market share to rivals and suffers deepening sales declines, according to BMO Capital Markets, which initiated coverage of the stock this week with an underperform rating.",
@@ -560,34 +630,6 @@
       "category": "business",
       "date": "2026-09-11",
       "time": "13:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-09-11-59dc684e",
-      "headline": "National Guard Presence a 'Significant Investment' In DC Safety, Says Brig. Gen. Blanchard",
-      "summary": "Brigadier General Leland Blanchard II, Interim Commanding General of the DC National Guard, said that safety efforts in the 25 years since the September 11th terrorist attacks have been a balance between honoring personal liberties and the need for security. Brigadier General Blanchard also discussed his current mandate with the National Guard in DC and how his team works in coordination with the DC police, saying that it represents a 'significan",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/national-guard-presence-an-investment-in-dc-blanchard-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-11",
-      "time": "19:42",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-09-11-db1968f9",
-      "headline": "Must Think Of Wealth Transfers Differently: Zentner",
-      "summary": "Ellen Zentner, chief economic strategist and global head of thematic and macro investing at Morgan Stanley Wealth Management, joins Scarlet Fu on \"Bloomberg Money.\" They discuss how wealth managers must adjust to people living longer. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-11/must-think-of-wealth-transfers-differently-zentner-video",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-11",
-      "time": "19:13",
       "conflict_id": null,
       "score": 26.1
     },
@@ -648,6 +690,20 @@
       "score": 24.0
     },
     {
+      "id": "2026-09-11-44f1cd2a",
+      "headline": "Zohran Mamdani commemorates 9/11 amid widespread criticism",
+      "summary": "NYC Mayor Zohran Mamdani commemorated the 25th anniversary of 9/11, calling it the “darkest day” in the city&#039;s history.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/11/zohran-mamdani-commemorates-9-11-amid-widespread?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-11",
+      "time": "21:01",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-09-11-b7238189",
       "headline": "Hot pursuit: Man who robbed Indian bank using chilli powder arrested",
       "summary": "A man posing as a customer threw chilli powder into the eyes of employees at a bank in Nagpur city, western India.",
@@ -674,6 +730,20 @@
       "time": "17:16",
       "conflict_id": null,
       "score": 23.4
+    },
+    {
+      "id": "2026-09-11-a5b24557",
+      "headline": "Japan eyes next-gen fast breeder reactors as China, Russia lead",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/energy/japan-eyes-next-gen-fast-breeder-reactors-as-china-russia-lead",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-09-11",
+      "time": "",
+      "conflict_id": null,
+      "score": 22.8
     },
     {
       "id": "2026-09-11-cc3602d6",
@@ -712,20 +782,6 @@
       "region": "APJ",
       "country": "Japan",
       "category": "business",
-      "date": "2026-09-11",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
-      "id": "2026-09-11-a5c53715",
-      "headline": "China makes its vast market speak with one voice",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/opinion/china-makes-its-vast-market-speak-with-one-voice",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
       "date": "2026-09-11",
       "time": "",
       "conflict_id": null,
@@ -788,20 +844,6 @@
       "score": 22.8
     },
     {
-      "id": "2026-09-11-5a00b468",
-      "headline": "China's BYD shelves plan for own Malaysian plant, looks to local partner",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/automobiles/china-s-byd-shelves-plan-for-own-malaysian-plant-looks-to-local-partner",
-      "region": "APJ",
-      "country": "Malaysia",
-      "category": "geopolitics",
-      "date": "2026-09-11",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
-    },
-    {
       "id": "2026-09-11-05cb52ef",
       "headline": "French blockade looms over Commission’s plan to fast-track trade deals in English",
       "summary": "Eager to unlock new markets for EU businesses, the European Commission plans to accelerate trade deal ratification by circulating only English versions for approval by EU governments and the European Parliament – but sources told Euronews that Paris is set to oppose the move if it goes ahead.",
@@ -816,32 +858,18 @@
       "score": 21.0
     },
     {
-      "id": "2026-09-11-bdecfe27",
-      "headline": "French ESA astronaut Thomas Pesquet: Europe must 'maximise scientific return' from ISS before closure",
-      "summary": "The French astronaut urged Europe and his home country to \"maximise the scientific return\" from the European Space Agency's next mission to the International Space Station, while stressing the importance of spaceflight for Europe’s strategic sovereignty in space.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/next/2026/09/11/french-esa-astronaut-thomas-pesquet-europe-must-maximise-scientific-return-from-iss-before",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-09-11",
-      "time": "13:49",
+      "id": "2026-09-10-728c4dbb",
+      "headline": "Iran war won't end until after crucial November elections, says Trump",
+      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-09-10",
+      "time": "10:43",
       "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-09-11-4eaafa2d",
-      "headline": "From bottle stoppers to rockets: How Portugal is reinventing cork",
-      "summary": "Portugal produces around half of the world’s cork. Here, the world’s largest cork company, Corticeira Amorim, continues to open new markets by transforming this ancient natural resource into high-tech materials. In this report, we explore its  methods, from harvesting to production.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/09/11/from-bottle-stoppers-to-rockets-how-portugal-is-reinventing-cork",
-      "region": "EU",
-      "country": "Portugal",
-      "category": "business",
-      "date": "2026-09-11",
-      "time": "13:00",
-      "conflict_id": null,
-      "score": 21.0
+      "score": 51.0
     },
     {
       "id": "2026-09-10-6983f754",
@@ -856,20 +884,6 @@
       "time": "20:35",
       "conflict_id": "ukraine-war",
       "score": 44.0
-    },
-    {
-      "id": "2026-09-10-728c4dbb",
-      "headline": "Iran war won't end until after crucial November elections, says Trump",
-      "summary": "The president also said oil prices won't come down until after the November races, claiming without evidence that Iran wants to impact the election.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c5ydld0gykpo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-09-10",
-      "time": "10:43",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-09-10-cc202217",
