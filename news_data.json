@@ -1,6 +1,6 @@
 {
-  "updated": "2026-09-20T18:13:38.681165+00:00",
-  "story_count": 84,
+  "updated": "2026-09-20T20:47:28.871525+00:00",
+  "story_count": 83,
   "source_count": 10,
   "stories": [
     {
@@ -46,20 +46,6 @@
       "score": 52.0
     },
     {
-      "id": "2026-09-20-dc05df53",
-      "headline": "Israeli forces kill Palestinian near Jenin in occupied West Bank",
-      "summary": "Israeli forces have killed a Palestinian man near Jenin, and an Israeli settler was fatally shot in a separate incident.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/20/israeli-forces-kill-palestinian-near-jenin-in-occupied-west-bank?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "business",
-      "date": "2026-09-20",
-      "time": "12:11",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
-    },
-    {
       "id": "2026-09-20-da40aecf",
       "headline": "Trump says 250ft arch will be ‘military complex’ with drones and snipers",
       "summary": "President claims national security justification for controversial Washington monument",
@@ -72,6 +58,20 @@
       "time": "15:43",
       "conflict_id": null,
       "score": 51.4
+    },
+    {
+      "id": "2026-09-20-bc587d68",
+      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
+      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-20",
+      "time": "20:21",
+      "conflict_id": null,
+      "score": 51.0
     },
     {
       "id": "2026-09-20-dbd5c776",
@@ -111,9 +111,23 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-09-20",
-      "time": "15:04",
+      "time": "20:14",
       "conflict_id": null,
       "score": 49.9
+    },
+    {
+      "id": "2026-09-20-ff07a916",
+      "headline": "Friedrich Merz vows to stay in office after CDU ‘disaster’ in German state elections",
+      "summary": "Far-right AfD wins in Mecklenburg-Western Pomerania and leftwing Die Linke on course for victory in BerlinGermany’s embattled chancellor, Friedrich Merz, has vowed to stay in office and fight for future-proofing economic changes despite heavy losses for his conservatives in two state elections, one to the far right and the other to a leftwing party.Preliminary results indicated Merz’s Christian Democratic Union (CDU) tallied just over the 5% thre",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/20/friedrich-merz-chancellor-germany-state-elections-cdu-afd-linke-berlin",
+      "region": "EU",
+      "country": "Germany",
+      "category": "politics",
+      "date": "2026-09-20",
+      "time": "18:33",
+      "conflict_id": null,
+      "score": 49.0
     },
     {
       "id": "2026-09-20-346d46ec",
@@ -144,6 +158,20 @@
       "score": 48.4
     },
     {
+      "id": "2026-09-20-ec927912",
+      "headline": "Exit polls show Merz’s party suffering heavy losses in 2 German state elections",
+      "summary": "Merz’s centre-right Christian Democratic Union is projected to fall to 5.5% in Mecklenburg-Western Pomerania. That would be its worst result there since World War II. The CDU is projected to come in second with 20%, behind the Left party at 24.5%, according to the exit poll by public broadcaster ARD",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/my-europe/2026/09/20/german-exit-polls-show-merzs-party-suffering-heavy-losses-in-2-german-state-elections",
+      "region": "EU",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-09-20",
+      "time": "16:34",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-09-20-78f18b04",
       "headline": "'Situation in Gaza is unjustifiable,' says Ed Sheeran as he addresses Macklemore 'Free Palestine' controversy",
       "summary": "The English singer-songwriter opened his show sharing his opinions on Gaza, noting that while 7 October attacks were horrific, the Israeli response which killed countless women and children was “catastrophic” and “disproportionate”.",
@@ -158,32 +186,18 @@
       "score": 45.0
     },
     {
-      "id": "2026-09-20-b1a18a9e",
-      "headline": "Gaza’s children return to classrooms after years of Israeli attacks",
-      "summary": "Palestinian children have returned to classrooms after Israel destroyed Gaza’s schools.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/20/gazas-children-return-to-classrooms-after-years-of-israeli-attacks?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-09-20",
-      "time": "12:38",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-09-20-bc587d68",
-      "headline": "German Chancellor Merz calls state election a 'disaster' for his party but vows to stay on",
-      "summary": "Exit polls show damaging losses for Merz's centre-right CDU party in the states of Berlin and Mecklenburg-Vorpommern.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvwyz29n0nn2o?at_medium=RSS&at_campaign=rss",
+      "id": "2026-09-20-87a8bc47",
+      "headline": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
+      "summary": "Partial results suggest CDU may not secure parliamentary representation in Mecklenburg-Vorpommern",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
       "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-09-20",
-      "time": "17:46",
+      "time": "20:11",
       "conflict_id": null,
-      "score": 43.0
+      "score": 42.4
     },
     {
       "id": "2026-09-20-2bc45a8f",
@@ -214,36 +228,36 @@
       "score": 40.0
     },
     {
-      "id": "2026-09-20-ec927912",
-      "headline": "Exit polls show Merz’s party suffering heavy losses in 2 German state elections",
-      "summary": "Merz’s centre-right Christian Democratic Union is projected to fall to 5.5% in Mecklenburg-Western Pomerania. That would be its worst result there since World War II. The CDU is projected to come in second with 20%, behind the Left party at 24.5%, according to the exit poll by public broadcaster ARD",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/09/20/german-exit-polls-show-merzs-party-suffering-heavy-losses-in-2-german-state-elections",
-      "region": "EU",
-      "country": null,
+      "id": "2026-09-20-3f5abd88",
+      "headline": "Trump signs Russia sanctions bill that opens China, India to tariffs",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/spotlight/trump-administration/trump-signs-russia-sanctions-bill-that-opens-china-india-to-tariffs",
+      "region": "NA",
+      "country": "Trump",
       "category": "geopolitics",
       "date": "2026-09-20",
-      "time": "16:34",
+      "time": "",
+      "conflict_id": null,
+      "score": 38.8
+    },
+    {
+      "id": "2026-09-20-ba4d70be",
+      "headline": "US military says four killed in strike on suspected drug-trafficking boat in Caribbean",
+      "summary": "The US has moved to clamp down on drug-smuggling routes under US President Donald Trump, who has pledged to \"wage war\" against drug cartels.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/20/us-military-says-four-killed-in-strike-on-suspected-drug-trafficking-boat-in-caribbean",
+      "region": "NA",
+      "country": "Caribbean",
+      "category": "geopolitics",
+      "date": "2026-09-20",
+      "time": "07:11",
       "conflict_id": null,
       "score": 37.0
     },
     {
-      "id": "2026-09-20-87a8bc47",
-      "headline": "German chancellor Merz vows to stay on despite ‘disaster’ in regional elections",
-      "summary": "Partial results show CDU just above the 5 per cent threshold for parliamentary representation in Mecklenburg-Vorpommern",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/d74ce82a-2a15-404a-ae3a-3921e887bab3?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-20",
-      "time": "17:49",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-09-20-a075fcec",
-      "headline": "Qatar, Citi on Capital Discipline and Resilience",
+      "id": "2026-09-20-a73b40db",
+      "headline": "Qatar, Citi and PIMCO on Capital Discipline and Resilience",
       "summary": "H.E. Ali bin Ahmed Al-Kuwari, Minister of Finance for the State of Qatar, Jane Fraser, Chair & CEO at Citi and Emmanuel Roman, CEO at PIMCO, discuss fiscal discipline, capital and economic resilience with Bloomberg’s David Gura at the Qatar Economic Forum UNGA Special Edition in New York in 2026. (Source: Bloomberg)",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-citi-on-capital-discipline-and-resilience-video",
@@ -256,30 +270,16 @@
       "score": 34.1
     },
     {
-      "id": "2026-09-20-f9fa8352",
-      "headline": "How Prediction Markets Upstaged Election Polls",
-      "summary": "Voters, donors and media increasingly use the betting platforms Kalshi and Polymarket to forecast election outcomes. Critics warn of new risks to democracy.",
+      "id": "2026-09-20-9738e070",
+      "headline": "Bloomberg This Weekend 9/20/2026",
+      "summary": "CNN Senior National Security Reporter Jennifer Hansler, Qatar Airways Group CEO Hamad Ali Al-Khater, Marsh CEO John Doyle, Oaktree Capital Management Co-Chair Howard Marks, Advisor to the Prime Minister of Qatar and Official Spokesperson for the Ministry of Foreign Affairs Dr. Majed Al Ansari, Franklin Templeton Investments CEO Jenny Johnson, Former US Treasury Secretary and Liberty Strategic Capital Founder & Managing Partner Steven Mnuchin, Sta",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-20/how-prediction-markets-upstaged-election-polls",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-20/bloomberg-this-weekend-9-20-2026-video",
       "region": "NA",
-      "country": null,
+      "country": "Qatar",
       "category": "politics",
       "date": "2026-09-20",
-      "time": "15:00",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-09-20-c0671c07",
-      "headline": "Franklin CEO Says AI Payoff Remains Unclear",
-      "summary": "Franklin Templeton CEO Jenny Johnson says companies cannot afford to slow their adoption of AI even as questions persist about costs, governance and the eventual profitability of the technology. Johnson tells hosts of Bloomberg This Weekend David Gura and Christina Ruffini that Franklin has already seen productivity and sales gains from AI, while warning that the economics of increasingly capital-intensive AI companies remain uncertain.\n\nAt the 2",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-20/franklin-ceo-says-ai-payoff-remains-unclear-video",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "geopolitics",
-      "date": "2026-09-20",
-      "time": "14:28",
+      "time": "17:43",
       "conflict_id": null,
       "score": 34.1
     },
@@ -326,6 +326,34 @@
       "score": 32.0
     },
     {
+      "id": "2026-09-20-7ff70e67",
+      "headline": "Qatar PM describes fallout of US-Israel war on Iran as ‘earthquake’",
+      "summary": "Speaking before the UN General Assembly, Sheikh Mohammed also announces a key shift in Qatar&#039;s investment strategy.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/20/qatari-pm-warns-against-cycles-of-escalation-in-the-middle-east?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-09-20",
+      "time": "20:13",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-09-20-e97e42c2",
+      "headline": "How will Saudi Arabia deal with the Houthis?",
+      "summary": "Yemeni group warns of further attacks on the kingdom.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/9/20/how-will-saudi-arabia-deal-with-the-houthis?traffic_source=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "geopolitics",
+      "date": "2026-09-20",
+      "time": "18:34",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-09-20-d7d0353d",
       "headline": "Meloni promises to ban burqas, niqabs in Italy’s schools",
       "summary": "Prime minister of Italy&#039;s longest serving government since WW2 faces election threat from far-right rival party.",
@@ -368,18 +396,18 @@
       "score": 29.0
     },
     {
-      "id": "2026-09-20-ab1eaefd",
-      "headline": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
-      "summary": "Growing reliance on Treasury bills comes as Scott Bessent seeks to curb rise in long-term rates",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
+      "id": "2026-09-20-7bf6a664",
+      "headline": "Sister of Pakistan's ex-PM Imran Khan arrested",
+      "summary": "Aleema Khanum is accused of mobilising her brother’s supporters ahead of country-wide protests.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm36l2pye2kwo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Pakistan",
       "category": "politics",
       "date": "2026-09-20",
-      "time": "15:00",
+      "time": "19:04",
       "conflict_id": null,
-      "score": 26.4
+      "score": 27.0
     },
     {
       "id": "2026-09-20-4b9fcbe8",
@@ -408,6 +436,62 @@
       "time": "06:26",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-09-20-ab1eaefd",
+      "headline": "Wall Street expects US to issue about $1tn of short-term debt as borrowing costs climb",
+      "summary": "Growing reliance on Treasury bills comes as Scott Bessent seeks to curb rise in long-term rates",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/3fcee89f-b69d-4f4b-a944-39fe1c214fb8?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-20",
+      "time": "15:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-09-20-360efdef",
+      "headline": "Trump’s regulatory rollback puts $400mn in US audit fees at risk",
+      "summary": "Accounting firms are fighting SEC proposal to loosen the post-Enron rules that have handed them a revenue bonanza",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/b455ab48-76ef-4fd4-9137-1f666344ab45?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-09-20",
+      "time": "10:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-09-20-51280d1f",
+      "headline": "QatarEnergy on Energy Security and Supply",
+      "summary": "H.E. Saad Sherida Al-Kaabi, Minister of State for Energy Affairs for the State of Qatar and President & CEO of QatarEnergy discusses how geopolitics, energy security and investment are reshaping global energy markets with Bloomberg’s Annmarie Hordern at the Qatar Economic Forum UNGA Special Edition in New York in 2026. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-20/qatarenergy-on-energy-security-and-supply-video",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "politics",
+      "date": "2026-09-20",
+      "time": "18:49",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-09-20-1510cd30",
+      "headline": "Qatar on Diplomacy and Global Growth",
+      "summary": "H.E. Sheikh Mohammed bin Abdulrahman bin Jassim Al Thani, Prime Minister & Minister of Foreign Affairs for the State of Qatar discusses diplomacy, capital and global growth with Bloomberg’s Mishal Husain at the Qatar Economic Forum UNGA Special Edition in New York in 2026. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-20/qatar-on-diplomacy-and-global-growth-video",
+      "region": "MENA",
+      "country": "Qatar",
+      "category": "politics",
+      "date": "2026-09-20",
+      "time": "18:22",
+      "conflict_id": null,
+      "score": 26.1
     },
     {
       "id": "2026-09-20-54df0d37",
@@ -522,22 +606,8 @@
       "score": 26.1
     },
     {
-      "id": "2026-09-20-0e492787",
-      "headline": "Qatar Reshapes Its Wealth Fund Strategy With New Local Platform",
-      "summary": "Qatar is setting up a dedicated platform to manage and grow its wealth fund’s domestic portfolio worth hundreds of billions of dollars, marking a radical reshaping of the gas-rich country’s sovereign investing landscape.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-20/qatar-reshapes-its-wealth-fund-strategy-with-new-local-platform",
-      "region": "MENA",
-      "country": "Qatar",
-      "category": "business",
-      "date": "2026-09-20",
-      "time": "14:21",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-09-20-21ade4f5",
-      "headline": "Abdul-El Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
+      "id": "2026-09-20-71a28888",
+      "headline": "Abdul El-Sayed, a Democrat, Has an Unlikely Defender: Tucker Carlson",
       "summary": "Mr. Carlson, the far-right podcaster, has promoted Dr. El-Sayed’s comments and sharply criticized his Republican rival in a key Senate race. Strategists are scratching their heads.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html",
@@ -545,7 +615,7 @@
       "country": "Senate",
       "category": "politics",
       "date": "2026-09-20",
-      "time": "17:32",
+      "time": "19:17",
       "conflict_id": null,
       "score": 25.2
     },
@@ -562,6 +632,20 @@
       "time": "12:02",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-09-20-83ff8875",
+      "headline": "Eighteen suspects extradited to US over Haitian president’s 2021 killing",
+      "summary": "Federal court in Florida to try men accused of orchestrating the transnational plot to kill Jovenel Moise from US soil.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/20/eighteen-suspects-extradited-to-us-over-haitian-presidents-2021-killing?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-20",
+      "time": "20:31",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-09-20-0207066c",
@@ -732,20 +816,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-09-19-62b1ad6a",
-      "headline": "'Enough is enough': Women protest after string of murders near Johannesburg",
-      "summary": "The police have since set up a task team to investigate the murders and have urged women in the Kempton Park area to avoid walking or running alone \"particularly in isolated areas\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm4gjxq1dx2eo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-09-19",
-      "time": "11:50",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-09-19-05e59c4c",
       "headline": "Can India Turn Its Promise Into Prosperity?",
       "summary": "Blackstone COO Jon Gray says India’s young population, expanding middle class and improving infrastructure are drawing interest from global investors. But India’s demographic advantage also creates pressure: millions of young people graduate every year, while formal-sector job creation has not kept pace with their skills and expectations. At the same time, Indian states are competing aggressively for investment by cutting regulatory barriers, bui",
@@ -786,34 +856,6 @@
       "time": "10:00",
       "conflict_id": null,
       "score": 24.9
-    },
-    {
-      "id": "2026-09-19-81f36514",
-      "headline": "A ticking 'mercury bomb'? Ancient Nazi U-boat lies off Norway",
-      "summary": "Off the Norwegian island of Fedje lies a German WWII submarine believed to contain a huge load of mercury. Underwater footage shows the state of the wreck today and why salvaging it has become a race against time.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/my-europe/2026/09/19/a-ticking-mercury-bomb-ancient-nazi-u-boat-lies-off-norway",
-      "region": "EU",
-      "country": "Norway",
-      "category": "business",
-      "date": "2026-09-19",
-      "time": "15:15",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-09-18-8d63bf3e",
-      "headline": "More U.S. troops have died amid Iran war than Pentagon has disclosed publicly",
-      "summary": "Officials who spoke with The Post expressed frustration that the additional loss of life in the Middle East is not reflected in the Defense Department’s casualty database.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/national-security/2026/09/18/more-us-troops-have-died-amid-iran-war-than-pentagon-has-disclosed-publicly/",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-09-18",
-      "time": "18:23",
-      "conflict_id": null,
-      "score": 48.9
     },
     {
       "id": "2026-09-18-99849b92",
@@ -858,20 +900,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-09-18-97d436ea",
-      "headline": "Russian hybrid attacks against Europe intensifying, says Macron",
-      "summary": "The French president says he has tasked the government with protecting critical infrastructure and defence industry sites.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2dw1w9d3yjo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Europe",
-      "category": "politics",
-      "date": "2026-09-18",
-      "time": "18:04",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-09-18-2f26eb27",
       "headline": "Wall Street Week | India’s Growth Test, Bangalore’s Infrastructure Problem, Cricket Attracts Capital",
       "summary": "This week, a special edition of Wall Street Week from the fastest growing large economy in the world: India. The country's technology sector has helped power its growth, but its success has led to uneven progress that could turn its strengths into weaknesses. Bangalore became India’s tech capital by attracting global investment and growing a deep talent pool, but infrastructure and policies to support the expansion have struggled to keep up. Plus",
@@ -884,34 +912,6 @@
       "time": "23:27",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-09-18-efe9f18d",
-      "headline": "NAACP files lawsuit seeking to bar federal agents from polling places",
-      "summary": "The lawsuit is the second one this month aimed at keeping ICE and others away from the polls.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/18/naacp-files-lawsuit-seeking-bar-federal-agents-polling-places/",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-18",
-      "time": "19:10",
-      "conflict_id": null,
-      "score": 24.9
-    },
-    {
-      "id": "2026-09-18-3ab2791b",
-      "headline": "These midterm polls caught our attention this week. They’re good for Democrats.",
-      "summary": "Political strategists and pollsters say surveys are usually more reliable after Labor Day.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/18/these-midterm-polls-caught-our-attention-this-week-theyre-good-democrats/",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-18",
-      "time": "18:20",
-      "conflict_id": null,
-      "score": 24.9
     },
     {
       "id": "2026-09-17-de9e8d1e",
@@ -928,20 +928,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-09-17-3b0be0e9",
-      "headline": "UN experts say grounds to believe US committed war crimes in Iran strikes",
-      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-09-17",
-      "time": "20:34",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-09-17-ae62ada0",
       "headline": "Swedish PM Kristersson resigns after election loss",
       "summary": "Left-wing opposition parties led by Magdalena Andersson look set to form the next government.",
@@ -952,6 +938,20 @@
       "category": "politics",
       "date": "2026-09-17",
       "time": "12:41",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-09-17-3b0be0e9",
+      "headline": "UN experts say grounds to believe US committed war crimes in Iran strikes",
+      "summary": "The US has not acknowledged carrying out February's deadly strikes on a primary school in Minab and a sports complex in Lamerd.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm9w4n5nverdo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Iran",
+      "category": "geopolitics",
+      "date": "2026-09-17",
+      "time": "20:34",
       "conflict_id": null,
       "score": 35.0
     },
@@ -1026,6 +1026,20 @@
       "score": 43.0
     },
     {
+      "id": "2026-09-16-f08ed2ba",
+      "headline": "Eight German state premiers back Merz amid speculation over future",
+      "summary": "Christian Democratic Union leadership throws its weight behind the chancellor ahead of two state elections this weekend.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj4nn0n97ro?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-09-16",
+      "time": "14:50",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-09-16-081e55c0",
       "headline": "No fire alarms or sprinklers at Pakistan hospital ward where 14 babies died, report finds",
       "summary": "A firefighter tells the BBC that rescuers had said many doors near the unit were locked, obstructing their route to the babies.",
@@ -1066,34 +1080,6 @@
       "time": "18:17",
       "conflict_id": null,
       "score": 25.8
-    },
-    {
-      "id": "2026-09-16-ed148922",
-      "headline": "Battle of Chile director Patricio Guzmán dies aged 85",
-      "summary": "Passionate documentary maker  won international acclaim for unsparing but poetic films exploring the impact of the Pinochet regime in Chile Patricio Guzmán, the film-maker who chronicled Chile’s bloody 1970s political strife and its subsequent social and political turmoil in films such as The Battle of Chile and Nostalgia for the Light, has died aged 85. According to Chilean news outlet Emol, Guzmán died on Tuesday in Paris after a cardiorespirat",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/film/2026/sep/16/battle-of-chile-director-patricio-guzman-dies-aged-85",
-      "region": "SA",
-      "country": "Chile",
-      "category": "geopolitics",
-      "date": "2026-09-16",
-      "time": "13:15",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-09-15-368ef1d1",
-      "headline": "Iran war has led to US munitions shortfalls, Pentagon inspector confirms",
-      "summary": "The inspector also found a bottleneck in resupply, despite President Donald Trump's claims that US supplies are \"virtually limitless\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c9gk58xgng0vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Pentagon",
-      "category": "geopolitics",
-      "date": "2026-09-15",
-      "time": "20:34",
-      "conflict_id": null,
-      "score": 43.0
     },
     {
       "id": "2026-09-15-61327c7f",
