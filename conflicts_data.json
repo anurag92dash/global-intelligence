@@ -6,13 +6,13 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
-    "last_activity": "2026-09-19",
+    "status_signal": "escalating",
+    "last_activity": "2026-09-20",
     "recent_headlines": [
       {
-        "headline": "Trump signs into law sweeping Russia sanctions package aiming to choke off revenues funding the war in Ukraine",
-        "source": "Euronews",
-        "date": "2026-09-19"
+        "headline": "Russia’s new air campaign seeks to destroy Ukrainian economy",
+        "source": "Financial Times",
+        "date": "2026-09-20"
       },
       {
         "headline": "Russian attacks on Ukraine kill at least 11 and injure dozens over past 24 hours",
@@ -52,8 +52,13 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-09-19",
+    "last_activity": "2026-09-20",
     "recent_headlines": [
+      {
+        "headline": "Ed Sheeran says situation in Gaza is 'catastrophic and unjustifiable' as he opens Philadelphia show",
+        "source": "Euronews",
+        "date": "2026-09-20"
+      },
       {
         "headline": "Israel’s president pardons soldier who killed wounded Palestinian in 2016",
         "source": "Al Jazeera",
@@ -122,22 +127,22 @@
     "status": "open",
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-09-20",
     "recent_headlines": [
       {
-        "headline": "Iran war live: Tehran sets terms for peace; Saudi forces foil Riyadh attack",
+        "headline": "Why China is pushing back on US warnings over rapid AI development",
+        "source": "The Guardian",
+        "date": "2026-09-20"
+      },
+      {
+        "headline": "Iran war live: Tehran sets terms for talks; Saudi forces foil Riyadh attack",
         "source": "Al Jazeera",
         "date": "2026-09-20"
       },
       {
         "headline": "Dutch riot police break up violent far-right protest in The Hague",
         "source": "The Guardian",
-        "date": "2026-09-19"
-      },
-      {
-        "headline": "CNN, MS NOW, Politico say journalists blocked from White House after Trump announces ban",
-        "source": "Washington Post",
         "date": "2026-09-19"
       }
     ],
@@ -164,12 +169,12 @@
     "auto_status": false,
     "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
     "status_signal": "stable",
-    "last_activity": "2026-09-18",
+    "last_activity": "2026-09-20",
     "recent_headlines": [
       {
-        "headline": "Why Europe has been absent from the great AI safety debate",
+        "headline": "Why China is pushing back on US warnings over rapid AI development",
         "source": "The Guardian",
-        "date": "2026-09-18"
+        "date": "2026-09-20"
       }
     ],
     "timeline": [
