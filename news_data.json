@@ -1,35 +1,63 @@
 {
-  "updated": "2026-09-26T04:54:28.297944+00:00",
-  "story_count": 82,
+  "updated": "2026-09-26T09:35:35.553711+00:00",
+  "story_count": 79,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-09-26-32b211f2",
-      "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
-      "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Iran",
+      "id": "2026-09-26-94df5dfd",
+      "headline": "Israeli settlers seizing natural springs in the West Bank",
+      "summary": "Earlier this month, 12 countries announced new trade sanctions on Israeli settlements in the occupied West Bank amid what they called a \"rapidly deteriorating\" situation marked by increasing settler attacks on Palestinians.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/26/israeli-settlers-seizing-natural-springs-in-the-west-bank",
+      "region": "MENA",
+      "country": "Israel",
       "category": "geopolitics",
       "date": "2026-09-26",
-      "time": "04:14",
-      "conflict_id": null,
-      "score": 51.0
+      "time": "07:10",
+      "conflict_id": "israel-hamas",
+      "score": 49.0
     },
     {
-      "id": "2026-09-26-7fab56fe",
-      "headline": "Iran war live: Tehran offers US plan to reopen Hormuz within seven days",
-      "summary": "Iran&#039;s FM says the &quot;choice rests with the US&quot; to approve the proposed seven-day proposal to reopen Hormuz.",
+      "id": "2026-09-26-3b8db065",
+      "headline": "Behind the scenes: How the C8 summit and an oil deal exposed fragile Hungary-Ukraine ties",
+      "summary": "A dispute over Hungary’s role in Ukraine’s Carpathian Eight summit and the disclosure of an oil-storage deal between MOL and Naftogaz have further strained ties between Budapest and Kyiv, as a separate row over minority rights continues to hold up Ukraine’s EU accession talks.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/26/behind-the-scenes-how-the-c8-summit-and-an-oil-deal-exposed-fragile-hungary-ukraine-ties",
+      "region": "EU",
+      "country": "Hungary",
+      "category": "business",
+      "date": "2026-09-26",
+      "time": "06:42",
+      "conflict_id": "ukraine-war",
+      "score": 49.0
+    },
+    {
+      "id": "2026-09-26-9a1382f1",
+      "headline": "China, US to open AI ‘communication channel’ after summit, White House says",
+      "summary": "White House says the two countries agreed to open a &#039;bilateral communication channel&#039; for AI incidents.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/9/26/iran-war-live-tehran-offers-us-plan-to-reopen-hormuz-within-seven-days?traffic_source=rss",
-      "region": "MENA",
-      "country": "Tehran",
+      "url": "https://www.aljazeera.com/news/2026/9/26/china-us-to-open-ai-communication-channel-after-summit-white-house-says?traffic_source=rss",
+      "region": "NA",
+      "country": "White House",
       "category": "geopolitics",
       "date": "2026-09-26",
-      "time": "00:00",
+      "time": "09:02",
       "conflict_id": null,
       "score": 47.4
+    },
+    {
+      "id": "2026-09-26-fabfed7f",
+      "headline": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+      "summary": "Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-09-26",
+      "time": "05:25",
+      "conflict_id": null,
+      "score": 39.4
     },
     {
       "id": "2026-09-26-824f818d",
@@ -46,6 +74,34 @@
       "score": 38.8
     },
     {
+      "id": "2026-09-26-b7e263d9",
+      "headline": "White House bars CNN from travelling with Trump on Air Force One",
+      "summary": "CNN was scheduled to fly with US President Donald Trump for his trip to Tennessee on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cxq633770y16o?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "White House",
+      "category": "politics",
+      "date": "2026-09-26",
+      "time": "05:09",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-09-26-56ffd424",
+      "headline": "Brazil's Lula bans online gambling ahead of presidential election",
+      "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c914ddj21rzlo?at_medium=RSS&at_campaign=rss",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-09-26",
+      "time": "03:22",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-09-26-3a4cce28",
       "headline": "British climber, 28, dies in fall in northern Spain",
       "summary": "Mountaineer’s body recovered about 20 metres below the summit of Torrecerredo, the highest peak of the Picos de Europa rangeA British man has died after falling about 61 metres (200ft) while descending from the summit of a mountain in northern Spain, according to local law enforcement.The 28-year-old mountaineer fell down a vertical gully on the east side of the Torrecerredo – the highest peak of the Cantabrian mountains – on Thursday afternoon, ",
@@ -58,6 +114,34 @@
       "time": "02:02",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-09-26-64653e75",
+      "headline": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+      "summary": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq&#039;s economic dependence on oil, foreign goods.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "business",
+      "date": "2026-09-26",
+      "time": "08:13",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-09-26-1ade789f",
+      "headline": "Could AI firms be held responsible for mass shootings?",
+      "summary": "Canadian lawsuits against OpenAI raise questions about liability and duty to warn in the AI industry, say experts.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "geopolitics",
+      "date": "2026-09-26",
+      "time": "07:46",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-09-26-b3c974e5",
@@ -74,23 +158,9 @@
       "score": 30.8
     },
     {
-      "id": "2026-09-26-692c9fb6",
-      "headline": "OpenAI bots meddled with multiple US government agency sites",
-      "summary": "OpenAI said its bots accessed public data from the US Census and the Securities and Exchange Commission, which regulates US stock markets.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-26",
-      "time": "02:50",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-09-26-b6886074",
-      "headline": "Tourist taxes on the march",
-      "summary": "Governments see a revenue raiser that doesn’t annoy voters and a way to manage the tourist hordes. The leisure industry isn’t so keen",
+      "id": "2026-09-26-513a7db0",
+      "headline": "The great tourist tax boom",
+      "summary": "Some governments want to fight back the hordes",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/e6856a1a-77e4-42b5-bcd8-f91973ca9755?syn-25a6b1a6=1",
       "region": "EU",
@@ -100,6 +170,34 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 26.4
+    },
+    {
+      "id": "2026-09-26-8dd4404b",
+      "headline": "Cyber security stocks are pumped up on P(doom)",
+      "summary": "Besieged by growing cyber threats, organisations are hurling money at the problem",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/c3d9c47c-5431-4b1f-a737-504be06c7c5a?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-26",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-09-26-c42b7cc6",
+      "headline": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "summary": "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggestThe Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.The decision ends the operation, offering, intermediation and advertisin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-09-26",
+      "time": "07:58",
+      "conflict_id": null,
+      "score": 24.0
     },
     {
       "id": "2026-09-26-24d47d04",
@@ -114,6 +212,34 @@
       "time": "00:12",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-09-26-f87fc55c",
+      "headline": "Senegal draw in Vieira debut, Nigeria survive scare, but Cape Verde crash",
+      "summary": "Senegal draw with Mozambique, Nigeria edge past Madagascar, but Cape Verde beaten by Mali in AFCON qualifying openers.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/sports/2026/9/26/senegal-draw-in-vieira-debut-nigeria-survive-scare-but-cape-verde-crash?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-09-26",
+      "time": "09:02",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-09-26-cd9867e6",
+      "headline": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+      "summary": "India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+      "region": "SA",
+      "country": "India",
+      "category": "politics",
+      "date": "2026-09-26",
+      "time": "04:48",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-09-26-d97b8020",
@@ -154,20 +280,6 @@
       "category": "politics",
       "date": "2026-09-26",
       "time": "03:34",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-09-26-0a68bf38",
-      "headline": "Pro-Imran Khan rally delayed amid government closures",
-      "summary": "Authorities in Islamabad have blocked roads with shipping containers ahead of a Pakistan Tehreek-e-Insaf (PTI) protest.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/26/pro-imran-khan-rally-delayed-amid-government-closures?traffic_source=rss",
-      "region": "SA",
-      "country": "Islamabad",
-      "category": "politics",
-      "date": "2026-09-26",
-      "time": "00:38",
       "conflict_id": null,
       "score": 23.4
     },
@@ -270,18 +382,18 @@
       "score": 22.8
     },
     {
-      "id": "2026-09-26-ac3532d6",
-      "headline": "Global bond sell-off intensifies, hitting housing markets",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/global-bond-sell-off-intensifies-hitting-housing-markets",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-26",
-      "time": "",
+      "id": "2026-09-25-f3db96cf",
+      "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-09-25",
+      "time": "19:13",
       "conflict_id": null,
-      "score": 22.8
+      "score": 60.0
     },
     {
       "id": "2026-09-25-2f61a188",
@@ -298,18 +410,18 @@
       "score": 60.0
     },
     {
-      "id": "2026-09-25-f3db96cf",
-      "headline": "Supreme Court allows Trump to use controversial database to check voter citizenship",
-      "summary": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-09-25-9ef199ec",
+      "headline": "Pomp over progress in Xi’s US summit with Trump is a win for China",
+      "summary": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issuesKey takeaways from the Trump-Xi summit in WashingtonIf the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.Instead, it was described as a celebration of “diplotainme",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
       "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
+      "country": "Washington",
+      "category": "politics",
       "date": "2026-09-25",
-      "time": "19:13",
+      "time": "12:41",
       "conflict_id": null,
-      "score": 60.0
+      "score": 57.0
     },
     {
       "id": "2026-09-25-f1109b17",
@@ -340,34 +452,6 @@
       "score": 57.0
     },
     {
-      "id": "2026-09-25-3b4a9d22",
-      "headline": "Pope Leo XIV warns AI could undermine humanity during France visit",
-      "summary": "Thousands gather in Paris as the pope warns against a &#039;paradise of machines&#039; at the Elysee Palace.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/pope-leo-xiv-warns-ai-could-undermine-humanity-during-france-visit?traffic_source=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-09-25",
-      "time": "23:21",
-      "conflict_id": null,
-      "score": 56.4
-    },
-    {
-      "id": "2026-09-25-9ef199ec",
-      "headline": "Pomp over progress in Xi’s US summit with Trump is a win for China",
-      "summary": "While US president hailed visit as ‘great’, almost nothing of substance was achieved on resolving thorny issuesKey takeaways from the Trump-Xi summit in WashingtonIf the Beijing meeting between Donald Trump and Xi Jinping in May was the “stalemate summit”, the second round of talks between the presidents of the US and China this week seemed to give up entirely on the idea of breakthroughs.Instead, it was described as a celebration of “diplotainme",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/us-news/2026/sep/25/donald-trump-xi-jinping-china-president-us-visit-red-carpet-treatment",
-      "region": "NA",
-      "country": "Washington",
-      "category": "politics",
-      "date": "2026-09-25",
-      "time": "12:41",
-      "conflict_id": null,
-      "score": 56.0
-    },
-    {
       "id": "2026-09-25-115ab7f3",
       "headline": "AI must serve humans, rather than 'become an instrument of domination and injustice', pope warns",
       "summary": "Pope Leo XIV, who has made AI a central component of his pontificate, warned against the dangers of the technology at  UNESCO.",
@@ -379,21 +463,7 @@
       "date": "2026-09-25",
       "time": "17:52",
       "conflict_id": null,
-      "score": 54.0
-    },
-    {
-      "id": "2026-09-25-dc25eb4d",
-      "headline": "Iran proposes plan to US to reopen Hormuz in seven days and end the war",
-      "summary": "Iran’s foreign minister has proposed a seven-day roadmap to Washington by which Iran would reopen the Strait of Hormuz within seven days if the US lifts its naval blockade, together with other conditions aimed at ending the war.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/25/iran-proposes-plan-to-us-to-reopen-hormuz-in-seven-days-and-end-the-war",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-09-25",
-      "time": "17:33",
-      "conflict_id": null,
-      "score": 54.0
+      "score": 53.0
     },
     {
       "id": "2026-09-25-cc0ec6c3",
@@ -406,20 +476,6 @@
       "category": "geopolitics",
       "date": "2026-09-25",
       "time": "14:48",
-      "conflict_id": null,
-      "score": 54.0
-    },
-    {
-      "id": "2026-09-25-a67af28a",
-      "headline": "Emmanuel Macron and Pope Leo XIV set out clashing world views at first meeting in France",
-      "summary": "Speaking at the Elysée, the pontiff set the tone for his first visit to France; dialogue with the Republic, warnings over AI and a call for peace, while acknowledging ongoing disagreements.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/25/emmanuel-macron-and-pope-leo-xiv-set-out-clashing-world-views-at-first-meeting-in-france",
-      "region": "EU",
-      "country": "France",
-      "category": "geopolitics",
-      "date": "2026-09-25",
-      "time": "15:40",
       "conflict_id": null,
       "score": 53.0
     },
@@ -435,63 +491,7 @@
       "date": "2026-09-25",
       "time": "16:22",
       "conflict_id": null,
-      "score": 51.4
-    },
-    {
-      "id": "2026-09-25-70548582",
-      "headline": "Supreme Court Allows Use of Trump Administration’s Expansive Database for Voter Screening",
-      "summary": "Critics of a citizenship database built by the Trump administration have raised alarms about privacy and improper voter purges.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/09/25/us/politics/supreme-court-citizenship-voter-lists.html",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-09-25",
-      "time": "19:34",
-      "conflict_id": null,
-      "score": 50.2
-    },
-    {
-      "id": "2026-09-25-1abe3cc6",
-      "headline": "Government can use Social Security data to identify noncitizen voters, Supreme Court rules",
-      "summary": "President Donald Trump wants to let states use a federal database that includes voters’ personal information to check for noncitizens on voter rolls.",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-09-25",
-      "time": "17:55",
-      "conflict_id": null,
-      "score": 49.9
-    },
-    {
-      "id": "2026-09-25-b2c0ec7c",
-      "headline": "Ukraine: Russian drone barrage on Kyiv kills teenage boy and wounds 20 residents",
-      "summary": "A 14-year-old boy was killed after a Russian drone tore into a 16-storey apartment block in Kyiv’s Pecherskyi district overnight on Friday 25 September 2026.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/09/25/ukraine-russian-drone-barrage-on-kyiv-kills-teenage-boy-and-wounds-20-residents",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-09-25",
-      "time": "13:50",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
-    },
-    {
-      "id": "2026-09-25-a0b7e97d",
-      "headline": "Iran says it awaits US response on seven-day roadmap to end war",
-      "summary": "Tehran says the plan would reopen the Strait of Hormuz and resume nuclear talks within a week if Washington agrees.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/iran-says-it-awaits-us-response-on-seven-day-roadmap-to-end-war?traffic_source=rss",
-      "region": "NA",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-09-25",
-      "time": "23:52",
-      "conflict_id": null,
-      "score": 47.4
+      "score": 50.4
     },
     {
       "id": "2026-09-25-cc73fed2",
@@ -508,6 +508,20 @@
       "score": 47.0
     },
     {
+      "id": "2026-09-25-dc25eb4d",
+      "headline": "Iran proposes plan to US to reopen Hormuz in seven days and end the war",
+      "summary": "Iran’s foreign minister has proposed a seven-day roadmap to Washington by which Iran would reopen the Strait of Hormuz within seven days if the US lifts its naval blockade, together with other conditions aimed at ending the war.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/25/iran-proposes-plan-to-us-to-reopen-hormuz-in-seven-days-and-end-the-war",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-09-25",
+      "time": "17:33",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
       "id": "2026-09-25-950d5b9f",
       "headline": "Trump and Xi declare harmony, no confrontation, as US state visit ends",
       "summary": "Chinese president Xi Jinping’s state visit to Washington ends on a high note of pomp and less confrontation, as key details of his talks with US president Donald Trump are still to emerge",
@@ -518,6 +532,20 @@
       "category": "politics",
       "date": "2026-09-25",
       "time": "16:12",
+      "conflict_id": null,
+      "score": 45.0
+    },
+    {
+      "id": "2026-09-25-a67af28a",
+      "headline": "Emmanuel Macron and Pope Leo XIV set out clashing world views at first meeting in France",
+      "summary": "Speaking at the Elysée, the pontiff set the tone for his first visit to France; dialogue with the Republic, warnings over AI and a call for peace, while acknowledging ongoing disagreements.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/09/25/emmanuel-macron-and-pope-leo-xiv-set-out-clashing-world-views-at-first-meeting-in-france",
+      "region": "EU",
+      "country": "France",
+      "category": "geopolitics",
+      "date": "2026-09-25",
+      "time": "15:40",
       "conflict_id": null,
       "score": 45.0
     },
@@ -536,18 +564,46 @@
       "score": 43.0
     },
     {
-      "id": "2026-09-25-a7915da9",
-      "headline": "Explosion near Acropolis collapses building in Athens’ Plaka, injuring two",
-      "summary": "A powerful explosion in Athens’ historic Plaka district brought down a two-storey building near the Acropolis on Friday 25 September 2026, injuring at least two people. The cause remains under investigation, although a gas leak is suspected.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/09/25/explosion-near-acropolis-collapses-building-in-athens-plaka-injuring-two",
-      "region": "EU",
-      "country": null,
-      "category": "business",
+      "id": "2026-09-25-65f3f390",
+      "headline": "Saudi Arabia Open to Possibly Developing Nuclear Weapons",
+      "summary": "An intelligence assessment examined Saudi Arabia’s military ambitions as Congress reviews a new civilian nuclear deal between the U.S. and the kingdom.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/25/us/politics/saudi-arabia-nuclear-weapons.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "geopolitics",
       "date": "2026-09-25",
-      "time": "12:48",
+      "time": "22:51",
       "conflict_id": null,
-      "score": 37.0
+      "score": 41.2
+    },
+    {
+      "id": "2026-09-25-1abe3cc6",
+      "headline": "Government can use Social Security data to identify noncitizen voters, Supreme Court rules",
+      "summary": "President Donald Trump wants to let states use a federal database that includes voters’ personal information to check for noncitizens on voter rolls.",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/09/25/government-can-use-social-security-data-identify-noncitizen-voters-supreme-court-rules/",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-09-25",
+      "time": "17:55",
+      "conflict_id": null,
+      "score": 40.9
+    },
+    {
+      "id": "2026-09-25-82733aeb",
+      "headline": "Lula says Trump wants to ‘colonise’ and capture Brazil’s resources by meddling in election",
+      "summary": "A TV spot claims the US president is trying to sway October’s presidential vote in favour of Lula’s far-right opponentsLuiz Inácio Lula da Silva’s presidential campaign has accused Donald Trump of wanting to “colonise” Brazil in order to capture its natural resources by meddling in next month’s presidential election.The accusation came in a campaign advert that was published on social media on Thursday night by Lula’s team and will air on televis",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/sep/25/lula-says-trump-wants-to-colonise-and-capture-brazils-resources-by-meddling-in-election",
+      "region": "NA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-09-25",
+      "time": "03:33",
+      "conflict_id": null,
+      "score": 40.0
     },
     {
       "id": "2026-09-25-00e3f4d9",
@@ -560,20 +616,6 @@
       "category": "geopolitics",
       "date": "2026-09-25",
       "time": "11:44",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-09-25-1f020516",
-      "headline": "Why Trump gave Xi an ornate bald eagle statue at the state dinner",
-      "summary": "From redwood benches to DVDs, gifts are an important part of the art of diplomacy.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c6lyqlx0kp0po?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-09-25",
-      "time": "11:22",
       "conflict_id": null,
       "score": 35.0
     },
@@ -606,34 +648,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-09-25-192703eb",
-      "headline": "US court rules against Kalshi, says states can regulate prediction markets",
-      "summary": "US appeals courts have varied on regulation of prediction markets, opening the door to US Supreme Court debate.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/us-court-rules-against-kalshi-says-states-can-regulate-prediction-markets?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-25",
-      "time": "23:56",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-09-25-3d792660",
-      "headline": "DR Congo’s Ebola outbreak spreads to two new health zones, WHO says",
-      "summary": "Health workers struggle as new Ebola cases are found in border regions of South Ubangi and Haut-Uele.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/dr-congos-ebola-outbreak-spreads-to-two-new-health-zones-who-says?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-09-25",
-      "time": "22:16",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-09-25-268e0d9f",
       "headline": "Protests erupt in Granada after eviction of 87-year-old woman in Madrid",
       "summary": "Protesters gathered in Granada in support of 87-year-old Maricarmen Abascal after she was evicted from her Madrid apartment.",
@@ -644,20 +658,6 @@
       "category": "politics",
       "date": "2026-09-25",
       "time": "17:40",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-09-25-23eab4ff",
-      "headline": "Euronews explains: What would a US diesel export ban mean to European countries?",
-      "summary": "The EU has deepened energy ties with the US while seeking to reduce its exposure to geopolitical shocks. Yet US plans to limit diesel exports expose how quickly commercial dependence can become a strategic vulnerability.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/09/25/euronews-explains-what-would-a-us-diesel-export-ban-mean-to-european-countries",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-09-25",
-      "time": "12:44",
       "conflict_id": null,
       "score": 29.0
     },
@@ -692,7 +692,7 @@
     {
       "id": "2026-09-25-0111a77c",
       "headline": "Soaring bond yields ‘not even close’ to cooling red-hot US economy, investors say",
-      "summary": "Rising borrowing costs so far show no sign of putting a brake on activity in world’s biggest economy",
+      "summary": "Rising borrowing costs show no sign of putting a brake on activity in world’s biggest economy",
       "source": "Financial Times",
       "url": "https://www.ft.com/content/bcf0715b-4292-428e-80ec-e6702d430aa4?syn-25a6b1a6=1",
       "region": "NA",
@@ -700,20 +700,6 @@
       "category": "business",
       "date": "2026-09-25",
       "time": "20:00",
-      "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-09-25-0eb8be9a",
-      "headline": "US bond sell-off pushes long-term yields to highest since 2004",
-      "summary": "Investors ‘don’t want to hold risk going into the weekend’, said one investor, as market heads for worst week since 2024",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/c5af4151-2c14-481b-8145-f5ec1f43a3f4?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-09-25",
-      "time": "20:24",
       "conflict_id": null,
       "score": 26.4
     },
@@ -730,20 +716,6 @@
       "time": "17:00",
       "conflict_id": null,
       "score": 26.4
-    },
-    {
-      "id": "2026-09-25-e9ac4201",
-      "headline": "Lula Plans $28 Billion Debt Buyout to Aid Consumers Before Vote",
-      "summary": "Brazil’s government plans to spend 15 billion reais to buy as much as 150 billion reais ($28 billion) of delinquent consumer debt from banks, part of President Luiz Inácio Lula da Silva’s push to ease the financial strain on households and bolster his bid for a fourth term.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/lula-plans-28-billion-debt-buyout-to-aid-consumers-before-vote",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-09-25",
-      "time": "22:43",
-      "conflict_id": null,
-      "score": 26.1
     },
     {
       "id": "2026-09-25-6a9a3fe4",
@@ -788,6 +760,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-09-25-44d7fa98",
+      "headline": "Wall Street’s Nike (NKE) Fandom at 25-Year Low as Bank of America Cuts to Sell",
+      "summary": "Wall Street’s enthusiasm for Nike Inc. has reached the lowest in at least a quarter of a century as Bank of America Corp. became the latest to sour on the troubled sportswear firm.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-25/wall-street-s-nike-nke-fandom-at-25-year-low-as-bank-of-america-cuts-to-sell",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-09-25",
+      "time": "18:04",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-09-25-33e02e83",
       "headline": "ICE Raids in Beef Country Raise Fears of Higher Prices",
       "summary": "Cattle industry groups in Texas, Oklahoma and Kansas and two Republican senators said the Trump administration’s immigration enforcement actions were hurting operations.",
@@ -798,6 +784,20 @@
       "category": "politics",
       "date": "2026-09-25",
       "time": "23:01",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-09-25-0a7024a8",
+      "headline": "Four Beluga Whales Die Weeks After Major Rescue Mission",
+      "summary": "The belugas were among 30 whales transferred to aquariums in the United States and Spain from a closed marine attraction in Canada.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/09/25/us/marineland-beluga-whales-deaths.html",
+      "region": "NA",
+      "country": "United States",
+      "category": "business",
+      "date": "2026-09-25",
+      "time": "22:20",
       "conflict_id": null,
       "score": 25.2
     },
@@ -816,32 +816,18 @@
       "score": 24.9
     },
     {
-      "id": "2026-09-25-c7a85233",
-      "headline": "Netanyahu calls Al Jazeera a ‘toxic media outlet’",
-      "summary": "Israeli Prime Minister Benjamin Netanyahu called Al Jazeera a “toxic media outlet.”",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/25/netanyahu-calls-al-jazeera-a-toxic-media?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-09-25",
-      "time": "21:37",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-09-25-6ec1a4f1",
-      "headline": "Houthi attack on Mecca, Medina would cross ‘red line’, Pakistan PM tells UN",
-      "summary": "Shehbaz Sharif speaks as Islamabad, Riyadh and Ankara army chiefs meet to discuss Mecca pact, closer military ties.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/9/25/houthi-attack-on-mecca-medina-would-cross-red-line-pakistan-pm-tells-un?traffic_source=rss",
-      "region": "SA",
-      "country": "Islamabad",
+      "id": "2026-09-24-276b9406",
+      "headline": "Spain's housing crisis in focus after eviction of 87-year-old woman",
+      "summary": "The tenant of the flat in the Retiro area of central Madrid, Maricarmen, was unable to pay her rent set after it was increased by an investment firm.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm4gjvz734w3o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Spain",
       "category": "geopolitics",
-      "date": "2026-09-25",
-      "time": "20:59",
+      "date": "2026-09-24",
+      "time": "16:45",
       "conflict_id": null,
-      "score": 23.4
+      "score": 43.0
     },
     {
       "id": "2026-09-24-f0f58585",
@@ -855,21 +841,7 @@
       "date": "2026-09-24",
       "time": "21:10",
       "conflict_id": null,
-      "score": 48.9
-    },
-    {
-      "id": "2026-09-24-1ffa9a77",
-      "headline": "With Netanyahu at the U.N., Mamdani plants an olive tree with Palestinians",
-      "summary": "The Israeli prime minister, in his address to the U.N. General Assembly, called Mamdani \"the antisemitic mayor of New York.\"",
-      "source": "Washington Post",
-      "url": "https://www.washingtonpost.com/world/2026/09/24/with-netanyahu-un-mamdani-plants-an-olive-tree-with-palestinians/",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-09-24",
-      "time": "20:14",
-      "conflict_id": "israel-hamas",
-      "score": 44.9
+      "score": 40.9
     },
     {
       "id": "2026-09-24-121d2682",
@@ -998,20 +970,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-09-23-bedfcb0e",
-      "headline": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
-      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-09-23",
-      "time": "06:12",
-      "conflict_id": null,
-      "score": 51.0
-    },
-    {
       "id": "2026-09-23-7fcb785c",
       "headline": "Trump and Xi come face-to-face as US and China battle to win the AI race",
       "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
@@ -1022,6 +980,20 @@
       "category": "geopolitics",
       "date": "2026-09-23",
       "time": "22:01",
+      "conflict_id": null,
+      "score": 52.0
+    },
+    {
+      "id": "2026-09-23-bedfcb0e",
+      "headline": "US and Iran hold first talks since June after Trump's 'annihilation' threat",
+      "summary": "The talks are the first since a ceasefire collapsed in June, with the sides exchanging fire intermittently.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck62m1631d7po?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-09-23",
+      "time": "06:12",
       "conflict_id": null,
       "score": 51.0
     },
@@ -1136,20 +1108,6 @@
       "time": "14:14",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-09-19-b540cc93",
-      "headline": "Houthis say they targeted Saudi capital with ballistic missiles",
-      "summary": "A reported strike on a fuel depot at Riyadh airport caused delays on Saturday, as Saudi Arabia says it shot down a ballistic missile aimed at the capital.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwly5d9v7r43o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Riyadh",
-      "category": "geopolitics",
-      "date": "2026-09-19",
-      "time": "23:49",
-      "conflict_id": null,
-      "score": 27.0
     }
   ]
 }
