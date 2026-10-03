@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-03T11:51:20.840958+00:00",
-  "story_count": 87,
+  "updated": "2026-10-03T15:17:28.054441+00:00",
+  "story_count": 90,
   "source_count": 10,
   "stories": [
     {
@@ -13,23 +13,93 @@
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-10-03",
-      "time": "11:48",
+      "time": "12:59",
       "conflict_id": "ukraine-war",
-      "score": 55.0
+      "score": 63.0
     },
     {
-      "id": "2026-10-03-04abdece",
-      "headline": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
-      "summary": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+      "id": "2026-10-03-3f1b1899",
+      "headline": "Protesters across Spain demand action over housing crisis",
+      "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Spain",
+      "category": "politics",
+      "date": "2026-10-03",
+      "time": "13:34",
+      "conflict_id": null,
+      "score": 59.0
+    },
+    {
+      "id": "2026-10-03-61d28e42",
+      "headline": "Five killed as Kyiv and Moscow trade strikes, Russia hits second bridge",
+      "summary": "Russia has also attacked another key bridge in Kyiv, the second such strike in two days.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/3/five-killed-as-kyiv-and-moscow-trade-strikes-russia-hits-second-bridge?traffic_source=rss",
       "region": "MENA",
-      "country": "Israel",
+      "country": null,
       "category": "geopolitics",
       "date": "2026-10-03",
-      "time": "07:57",
-      "conflict_id": "israel-hamas",
-      "score": 51.4
+      "time": "12:55",
+      "conflict_id": null,
+      "score": 55.4
+    },
+    {
+      "id": "2026-10-03-c8e74597",
+      "headline": "Nearly 500,000 people protest in Madrid over Spain's housing crisis",
+      "summary": "Thousands take to the streets across Spain as protesters call for a general strike after parliament rejects two government housing decrees",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/03/nearly-500000-people-protest-in-madrid-over-spains-housing-crisis",
+      "region": "EU",
+      "country": "Spain",
+      "category": "politics",
+      "date": "2026-10-03",
+      "time": "15:16",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-10-03-50a65566",
+      "headline": "Will Spain's housing crisis lead to a snap election?",
+      "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-10-03",
+      "time": "12:26",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
+      "id": "2026-10-03-e6d584f8",
+      "headline": "The right and wrong lessons to learn from Spain’s housing crisis",
+      "summary": "Evictions and spiralling rents are the symptom, not the underlying disease",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/437ca3f0-9db4-4511-a441-ab7763d8f65c?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "Spain",
+      "category": "geopolitics",
+      "date": "2026-10-03",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 50.4
+    },
+    {
+      "id": "2026-10-03-8ee16b64",
+      "headline": "‘This can’t go on’: tens of thousands protest against housing crisis in Spain",
+      "summary": "Demonstrators take to the streets of Madrid ⁠and other Spanish cities ⁠after ​new legislation fails to passTens of thousands of people have taken to the streets of Madrid ⁠and other Spanish cities as they step up demands for action to tackle ⁠a mounting housing crisis ⁠after ​government measures were struck down by the opposition.Demonstrators on Saturday waved posters calling for a general strike ⁠after the measures drawn up to address mass ange",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/03/spain-housing-protest",
+      "region": "EU",
+      "country": "Spain",
+      "category": "politics",
+      "date": "2026-10-03",
+      "time": "14:19",
+      "conflict_id": null,
+      "score": 48.0
     },
     {
       "id": "2026-10-03-e306c4db",
@@ -74,62 +144,6 @@
       "score": 43.4
     },
     {
-      "id": "2026-10-03-b9adb2c7",
-      "headline": "Gaza voters want jobs and security as Palestinian elections approach",
-      "summary": "Ahead of first Palestinian national elections in 20 years, people in Gaza hope to rebuild after Israeli destruction.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/gaza-voters-want-jobs-and-security-as-palestinian-elections-approach?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-10-03",
-      "time": "05:39",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-10-03-50e6e0d5",
-      "headline": "New claims that Netanyahu rejected Hamas offer to release captives",
-      "summary": "Reports are building that Israel rejected a Hamas offer to release all civilian hostages taken on October 7, 2023.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/new-claims-that-netanyahu-rejected-hamas-offer-to-release-captives?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-10-03",
-      "time": "04:58",
-      "conflict_id": "israel-hamas",
-      "score": 43.4
-    },
-    {
-      "id": "2026-10-03-3f1b1899",
-      "headline": "Protesters across Spain demand action over housing crisis",
-      "summary": "More than 50 protests are planned to take place on Saturday after the government failed to get emergency legislation through parliament.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Spain",
-      "category": "politics",
-      "date": "2026-10-03",
-      "time": "11:35",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
-      "id": "2026-10-03-b4ef8a61",
-      "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
-      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "business",
-      "date": "2026-10-03",
-      "time": "04:38",
-      "conflict_id": null,
-      "score": 43.0
-    },
-    {
       "id": "2026-10-03-3f8931c6",
       "headline": "UAE Probe Labels FlyDubai Cockpit Ax Attack a Terrorist Act",
       "summary": "A United Arab Emirates investigation of the near-catastrophic FlyDubai flight earlier this week said the co-pilot attempted “to carry out a terrorist act” as more details emerged about what went down in the cockpit.",
@@ -142,6 +156,34 @@
       "time": "07:06",
       "conflict_id": null,
       "score": 42.1
+    },
+    {
+      "id": "2026-10-03-ce3ae7e2",
+      "headline": "What to know about Brazil’s 2026 presidential election",
+      "summary": "Polls show tight race between incumbent Lula and right-wing rival Flavio Bolsonaro amid concerns over crime and economy.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/what-to-know-about-brazils-2026-presidential-election?traffic_source=rss",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-10-03",
+      "time": "14:23",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-10-03-948c4db2",
+      "headline": "IEA says 325 million barrels of emergency oil released, with 75 million still to come",
+      "summary": "G7 leaders agreed on Friday to release 100 million barrels of diesel and crude after US pressure on Europe, with supplies squeezed by Iran's restrictions on shipping through the Strait of Hormuz.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/03/iea-says-325-million-barrels-of-emergency-oil-released-with-75-million-still-to-come",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-10-03",
+      "time": "13:59",
+      "conflict_id": null,
+      "score": 37.0
     },
     {
       "id": "2026-10-03-2440a7ff",
@@ -167,9 +209,65 @@
       "country": "Israel",
       "category": "geopolitics",
       "date": "2026-10-03",
-      "time": "11:20",
+      "time": "14:27",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-10-03-b4ef8a61",
+      "headline": "G7 to release millions of barrels of oil and diesel after Trump threat",
+      "summary": "The co-ordinated release is aimed at heading off further price spikes and avoiding a ban on US diesel exports.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck87zg8jnwngo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "business",
+      "date": "2026-10-03",
+      "time": "04:38",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-10-03-4827a95e",
+      "headline": "Why has Brazil accused the US of election interference?",
+      "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Latin America",
+      "category": "politics",
+      "date": "2026-10-03",
+      "time": "13:52",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-10-03-27e15f6c",
+      "headline": "Egypt Flagged Hamas Threat Before Oct. 7",
+      "summary": "Atlantic Staff Writer Vivian Salama tells Bloomberg This Weekend that Egypt’s then-intelligence chief Abbas Kamel made an unusual 67-minute trip to Israel less than two weeks before the Oct. 7, 2023, attack to warn Israeli officials that intelligence indicated Hamas was mobilizing for a major assault. Speaking with hosts David Gura and Christina Ruffini, Salama says Egypt was among several regional governments that raised concerns before the atta",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-03/egypt-flagged-hamas-threat-before-oct-7-video",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-03",
+      "time": "15:09",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-10-03-ccd53a28",
+      "headline": "Pakistan Summons Indian Diplomat Over Civilian Deaths at Border",
+      "summary": "Pakistan said it summoned India’s chargé d’affaires on Saturday to protest against the killing of two Pakistani civilians by India’s Border Security Force.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/pakistan-summons-indian-diplomat-over-civilian-deaths-at-border",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-10-03",
+      "time": "11:50",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-10-03-2cc44545",
@@ -284,22 +382,36 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-03-8653f968",
-      "headline": "Half of UK wants to rejoin EU and backing it could drive up Labour vote, megapoll finds",
-      "summary": "Exclusive: Findings will bolster those in No 10 who want to negotiate on re-entry but some senior figures remain waryAndy Burnham’s personal preference to rejoin the European Union after the next election is supported by almost half of all voters, a new megapoll has found, although cabinet ministers concerned about reopening Brexit divides are privately urging him to proceed with caution.The poll by the Messina Group (TMG) found that renegotiatin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/03/half-want-to-rejoin-eu-and-backing-it-could-drive-up-labour-vote-megapoll-finds",
-      "region": "EU",
-      "country": "Europe",
+      "id": "2026-10-03-51d5ce6a",
+      "headline": "French high school engulfed in flames as student protests continue",
+      "summary": "A French high school in Metz went up in flames as student protests over school conditions spread across the country.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/french-high-school-engulfed-in-flames-as-student-protests-continue?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
       "category": "politics",
       "date": "2026-10-03",
-      "time": "05:00",
+      "time": "12:59",
       "conflict_id": null,
-      "score": 32.0
+      "score": 31.4
     },
     {
-      "id": "2026-10-03-3b3cee71",
-      "headline": "Yemen’s army claims over 1,500 Houthi casualties in past 24 hours",
+      "id": "2026-10-03-1096f806",
+      "headline": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
+      "summary": "Foreign Ministry says it summoned India&#039;s ⁠charge d&#039;affaires to lodge &#039;strong protest&#039; over killing of two civilians.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
+      "region": "SA",
+      "country": "Pakistan",
+      "category": "geopolitics",
+      "date": "2026-10-03",
+      "time": "10:46",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-10-03-626364b3",
+      "headline": "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa",
       "summary": "Government forces close a key crossing connecting Houthi-held al-Houban to government-held Taiz city.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss",
@@ -354,6 +466,34 @@
       "score": 27.0
     },
     {
+      "id": "2026-10-03-cafa560a",
+      "headline": "The town where 94% voted for Lula — and some now waver",
+      "summary": "Despite his hallowed status, some voters are growing disaffected with Brazil’s president in Guaribas, the cradle of his flagship Bolsa Família welfare programme",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/e884e8f3-ad16-48a9-af41-29d3122f7d76?syn-25a6b1a6=1",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-10-03",
+      "time": "11:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-10-03-d0a36d09",
+      "headline": "Can AI Outrun America’s Deficit Problem?",
+      "summary": "National Economic Council Director Kevin Hassett argues that the economic benefits of AI may be greater than current data show, comparing today’s dynamics with the early internet era, when improvements in computing were difficult to capture in official statistics.  At the same time, Hassett says reducing the federal workforce can generate budget savings, and he remains optimistic about economic growth in the face of a growing debt burden. He ackn",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-03/can-ai-outrun-america-s-deficit-problem",
+      "region": "NA",
+      "country": "America",
+      "category": "business",
+      "date": "2026-10-03",
+      "time": "12:03",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-10-03-1f31ec78",
       "headline": "London Gold Body’s Legal Fight Exposes Threat to Bullion Market",
       "summary": "The industry body that sets the rules for the world’s biggest gold market faces an existential legal battle in a London courtroom next week, in a case that could have far-reaching implications for how the industry polices its supply chain.",
@@ -396,6 +536,20 @@
       "score": 26.1
     },
     {
+      "id": "2026-10-03-159970eb",
+      "headline": "Defining consent and the psychology behind the ‘Cornell 7’ rape case",
+      "summary": "How a Cornell student went from blaming herself, to reporting an alleged fraternity rape.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/defining-consent-and-the-psychology-behind-the-cornell-7-rape-case?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-10-03",
+      "time": "12:39",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
       "id": "2026-10-03-87b25cb8",
       "headline": "Ethiopia’s government forces retake airport from Tigray rebels in Mekelle",
       "summary": "The rebels have been seen leaving the capital of the northern Tigray region, according to local sources.",
@@ -406,34 +560,6 @@
       "category": "politics",
       "date": "2026-10-03",
       "time": "11:16",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-10-03-1096f806",
-      "headline": "Pakistan summons Indian diplomat over border killing of two Pakistanis",
-      "summary": "Foreign Ministry says it summoned India&#039;s ⁠charge d&#039;affaires to lodge &#039;strong protest&#039; over killing of two civilians.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/3/pakistan-summons-indian-diplomat-over-border-killing-of-two-pakistanis?traffic_source=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-10-03",
-      "time": "10:46",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-10-03-d173b046",
-      "headline": "Bosnian Serb leader says Bosnia is ‘dead’ ahead of election",
-      "summary": "Bosnian Serb leader Milorad Dodik says Bosnia and Herzegovina is ‘dead’ at a final campaign rally ahead of elections.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/3/bosnian-serb-leader-says-bosnia-is-dead-ahead-of-election?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-03",
-      "time": "07:57",
       "conflict_id": null,
       "score": 23.4
     },
@@ -522,18 +648,32 @@
       "score": 22.8
     },
     {
-      "id": "2026-10-03-0a7e5dda",
-      "headline": "Japan's largest power producer JERA sets up oil storage company",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/energy/japan-s-largest-power-producer-jera-sets-up-oil-storage-company",
-      "region": "APJ",
-      "country": "Japan",
+      "id": "2026-10-03-f9666f00",
+      "headline": "Azerbaijan International Investment Forum: Where capital meets opportunity",
+      "summary": "The 2nd Azerbaijan International Investment Forum brought together representatives from more than 70 countries to discuss investment, trade, infrastructure and diversification, with more than $10 billion in contracts and agreements signed.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/03/azerbaijan-international-investment-forum-where-capital-meets-opportunity",
+      "region": "EU",
+      "country": null,
       "category": "business",
       "date": "2026-10-03",
-      "time": "",
+      "time": "13:00",
       "conflict_id": null,
-      "score": 22.8
+      "score": 21.0
+    },
+    {
+      "id": "2026-10-03-5a9d27e3",
+      "headline": "Germany marks 36 years of unity: Why was the country divided and how united is it today?",
+      "summary": "Only 17% of former GDR citizens kept their jobs after the change of system, a legacy still visible in regions short of people and corporate headquarters.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/03/germany-marks-36-years-of-unity-why-was-the-country-divided-and-how-united-is-it-today",
+      "region": "EU",
+      "country": "Germany",
+      "category": "business",
+      "date": "2026-10-03",
+      "time": "12:44",
+      "conflict_id": null,
+      "score": 21.0
     },
     {
       "id": "2026-10-03-ce04f890",
@@ -564,34 +704,6 @@
       "score": 55.0
     },
     {
-      "id": "2026-10-02-9d9797d1",
-      "headline": "French students clash with police as school protests spread nationwide",
-      "summary": "Footage shows pupils in Paris, Toulouse and Lille clashing with police as they demand better school resources, warning protests will continue nationwide.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/10/02/french-students-clash-with-police-as-school-protests-spread-nationwide",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-10-02",
-      "time": "16:00",
-      "conflict_id": null,
-      "score": 53.0
-    },
-    {
-      "id": "2026-10-02-6bb55efa",
-      "headline": "G7 agrees 100 million-barrel emergency oil release amid US pressure over diesel",
-      "summary": "The G7, led by France, announced the release of 100 million barrels of diesel and crude oil after Trump threatened a ban of diesel exports.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/02/g7-agrees-100-million-barrel-emergency-oil-release-amid-us-pressure-over-diesel",
-      "region": "NA",
-      "country": "France",
-      "category": "business",
-      "date": "2026-10-02",
-      "time": "14:48",
-      "conflict_id": null,
-      "score": 45.0
-    },
-    {
       "id": "2026-10-02-0409004e",
       "headline": "‘No one disrespects Our Lady’: fears for Brazil’s patron saint grip country ahead of election",
       "summary": "Speculation that Flávio Bolsonaro will try to strip Our Lady of Aparecida of position could become deciding factor in run-up to SundayA row of Biblical proportions has erupted in the run-up to Brazil’s presidential election, with the country’s patron saint, Our Lady of Aparecida, emerging as an unlikely kingmaker in the deadlocked race.Ahead of Sunday’s vote, the two frontrunners – the leftwing president, Luiz Inácio Lula da Silva, and his far-ri",
@@ -604,20 +716,6 @@
       "time": "04:00",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-10-02-56b88cb4",
-      "headline": "Riot police clash with students as education protests rage in France",
-      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-10-02",
-      "time": "21:13",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-10-02-a76c6b23",
@@ -634,20 +732,6 @@
       "score": 35.0
     },
     {
-      "id": "2026-10-02-ec4426fc",
-      "headline": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
-      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Oman",
-      "category": "politics",
-      "date": "2026-10-02",
-      "time": "15:30",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-10-02-863fae2a",
       "headline": "School protests send shivers down French government's spine",
       "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield.",
@@ -658,6 +742,20 @@
       "category": "politics",
       "date": "2026-10-02",
       "time": "12:43",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-10-02-ec4426fc",
+      "headline": "Spanish PM Sánchez loses key housing crisis vote after eviction of woman, 87",
+      "summary": "The defeat raises pressure on Sánchez to call a snap election, after a series of scandals affecting his party and allies.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Oman",
+      "category": "politics",
+      "date": "2026-10-02",
+      "time": "15:30",
       "conflict_id": null,
       "score": 35.0
     },
@@ -700,34 +798,6 @@
       "category": "business",
       "date": "2026-10-02",
       "time": "21:42",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-10-02-979d19c1",
-      "headline": "Using Decision Science in Investing | Masters in Business with Omar Aguilar",
-      "summary": "Barry speaks with Omar Aguilar, CEO and CIO of Schwab Asset Management. They discuss his time at Financial Engines, where he worked under Nobel laureate William Sharpe before joining Schwab Asset Management in 2011. They discuss how his doctorate in decision sciences helps him build trust with clients and push them toward their goals. They also discuss how he built Schwab Asset Management to over a trillion dollars and how he is using his backgro",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/using-decision-science-in-investing-video",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-10-02",
-      "time": "21:00",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
-      "id": "2026-10-02-9f85e785",
-      "headline": "Wall Street Tries to Live With 5% Yields as Market Cracks Grow",
-      "summary": "Wall Street has spent weeks trying to make peace with the great bond selloff. Friday offered some short-lived relief — along with a warning about the damage from stubbornly high yields across investment strategies of all stripes.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-02/wall-street-tries-to-live-with-5-yields-as-market-cracks-grow",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-10-02",
-      "time": "20:40",
       "conflict_id": null,
       "score": 34.1
     },
@@ -788,6 +858,34 @@
       "score": 32.0
     },
     {
+      "id": "2026-10-02-438a65b6",
+      "headline": "US suspends consular services in Brazil as Lula and Bolsonaro fight for election",
+      "summary": "President Luiz Inacio Lula da Silva and rival Flavio Bolsonaro are pulling no punches in a last-ditch effort to win voters ahead of Sunday's election in Brazil, where the US and Australia suspended consular services Friday over security concerns.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/02/us-suspends-consular-services-in-brazil-as-lula-and-bolsonaro-fight-for-election",
+      "region": "NA",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-10-02",
+      "time": "20:40",
+      "conflict_id": null,
+      "score": 29.0
+    },
+    {
+      "id": "2026-10-02-56b88cb4",
+      "headline": "Riot police clash with students as education protests rage in France",
+      "summary": "About 735 schools have faced disruption as violent protests over standards and lack of teachers continue.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ck3r5dxxwqzpo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-10-02",
+      "time": "21:13",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
       "id": "2026-10-02-7f27333d",
       "headline": "Japan's first mayor to take maternity leave lands on TIME100 Next list",
       "summary": "Shoko Kawata's maternity leave drew mixed reactions in Japan, a country struggling to lift birth rates.",
@@ -800,20 +898,6 @@
       "time": "05:53",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-10-02-0e850510",
-      "headline": "US justice department will not reopen criminal probe of Fed’s Jay Powell",
-      "summary": "US attorney-general Todd Blanche says not having ‘any oversight’ of the central bank’s $2.5bn renovation project ‘isn’t necessarily a crime’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/887e90a5-8456-4eba-9ed0-205c873d4846?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-10-02",
-      "time": "21:03",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-10-02-771df26d",
@@ -844,18 +928,32 @@
       "score": 26.1
     },
     {
-      "id": "2026-10-02-34e3fe27",
-      "headline": "Pam Bondi’s Secret DOJ Email Address Revealed",
-      "summary": "A FOIA request has uncovered another little-known feature of life at the top of the Justice Department: attorneys general have used alternate email addresses to conduct government business for over a decade. This time around, Bloomberg News Senior Investigative Reporter Jason Leopold obtained the alias used by former Attorney General Pam Bondi.\n\nThe discovery raises broader questions about government transparency and access to public records. Leo",
+      "id": "2026-10-02-eef3d652",
+      "headline": "Former CEA Chair on Jobs Report, GDP Growth",
+      "summary": "Former CEA Chair Cecilia Rouse believes that we may be 'entering a new normal' of the jobs report, with the break even potentially settling in around 50,000. She speaks with Romaine Bostick on Bloomberg's \"The Close.\" (Source: Bloomberg)",
       "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-02/pam-bondi-s-secret-doj-email-address-revealed-video",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-02/former-cea-chair-on-jobs-report-gdp-growth-video",
       "region": "NA",
       "country": null,
-      "category": "politics",
+      "category": "business",
       "date": "2026-10-02",
-      "time": "21:47",
+      "time": "22:17",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-10-02-966e49e4",
+      "headline": "The Holei Sea Arch, a Centuries-Old Hawaii Wonder, Crumbles Into the Pacific",
+      "summary": "A tropical storm was moving through the area when the 90-foot lava rock formation disintegrated, the National Park Service said.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/02/us/holei-sea-arch-hawaii-collapse.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-10-02",
+      "time": "21:01",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-10-02-fc0ed9c6",
@@ -868,20 +966,6 @@
       "category": "politics",
       "date": "2026-10-02",
       "time": "08:55",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
-      "id": "2026-10-02-b824dbc6",
-      "headline": "Brazil’s Lula says only he can stop rise of fascism under Bolsonaro’s son",
-      "summary": "President leads huge rally in Rio before election on Sunday seen as most important for decadesThe Brazilian president, Luiz Inácio Lula da Silva, has claimed he is the only thing standing in the way of far-right “fascists” reclaiming power, as he led a huge rally through the streets of Rio ahead of Sunday’s crunch election.Speaking on the eve of the demonstration, the 80-year-old leftwinger said he had decided to seek a historic fourth term becau",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/02/brazil-lula-stop-fascism-bolsonaro-son",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-10-02",
-      "time": "21:12",
       "conflict_id": null,
       "score": 24.0
     },
@@ -900,34 +984,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-10-02-25e6ea15",
-      "headline": "Debt-saddled Argentina pitches 'golden passport' scheme to woo wealthy foreigners",
-      "summary": "Argentina on Friday announced plans to offer citizenship to wealthy foreigners in exchange for cash contributions or investments in government bonds, as libertarian President Javier Milei seeks new sources of dollars for the debt-burdened nation.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/02/debt-saddled-argentina-pitches-golden-passport-scheme-to-woo-wealthy-foreigners",
-      "region": "SA",
-      "country": "Argentina",
-      "category": "politics",
-      "date": "2026-10-02",
-      "time": "17:35",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
-      "id": "2026-10-01-56b7f344",
-      "headline": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
-      "summary": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-10-01",
-      "time": "19:38",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
       "id": "2026-10-01-31d0c5bd",
       "headline": "Russian dissident Garry Kasparov says US warned him of danger to his life",
       "summary": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
@@ -938,6 +994,20 @@
       "category": "geopolitics",
       "date": "2026-10-01",
       "time": "14:05",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-10-01-274d1563",
+      "headline": "What we know about stabbing on Flydubai flight to Israel",
+      "summary": "A pilot has been arrested and is being questioned after another pilot was stabbed, officials say.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-01",
+      "time": "14:22",
       "conflict_id": null,
       "score": 35.0
     },
@@ -970,20 +1040,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-10-01-acb93e51",
-      "headline": "Why are students protesting at schools in France?",
-      "summary": "The BBC's Hugh Schofield is in Paris as a wave of school protests over overcrowded classes and teacher shortages spreads across France.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cwy8z8rney97o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-10-01",
-      "time": "12:31",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-01-d65954ef",
       "headline": "Japan raises permanent residency fee by 20 times",
       "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population.",
@@ -994,6 +1050,20 @@
       "category": "politics",
       "date": "2026-10-01",
       "time": "02:57",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-10-01-e2b1a849",
+      "headline": "The wealthy Cuban Americans ready and waiting for Havana to fall",
+      "summary": "Cuban exiles in Florida are increasingly hopeful that regime change in Cuba is now on the horizon.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckrerylrlg9vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "America",
+      "category": "geopolitics",
+      "date": "2026-10-01",
+      "time": "23:00",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1107,21 +1177,7 @@
       "date": "2026-09-29",
       "time": "12:39",
       "conflict_id": "israel-hamas",
-      "score": 47.0
-    },
-    {
-      "id": "2026-09-29-442296a3",
-      "headline": "Fires and blockades as students stage school protests across France",
-      "summary": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "France",
-      "category": "politics",
-      "date": "2026-09-29",
-      "time": "21:53",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 55.0
     },
     {
       "id": "2026-09-29-c5a1d8ad",
@@ -1194,20 +1250,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-09-27-c2a0f1aa",
-      "headline": "Venezuela releases dozens of political prisoners as election calls grow",
-      "summary": "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Venezuela",
-      "category": "politics",
-      "date": "2026-09-27",
-      "time": "15:56",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-09-26-56ffd424",
       "headline": "Brazil's Lula bans online gambling ahead of presidential election",
       "summary": "Lula, who is currently in a tight presidential race against Flávio Bolsonaro, said the industry was a \"cancer\" that he must \"remove\".",
@@ -1219,7 +1261,7 @@
       "date": "2026-09-26",
       "time": "15:46",
       "conflict_id": null,
-      "score": 35.0
+      "score": 43.0
     }
   ]
 }
