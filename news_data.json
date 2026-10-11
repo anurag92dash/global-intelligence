@@ -1,25 +1,39 @@
 {
-  "updated": "2026-10-11T00:57:32.531950+00:00",
-  "story_count": 88,
+  "updated": "2026-10-11T06:43:24.579678+00:00",
+  "story_count": 85,
   "source_count": 10,
   "stories": [
     {
-      "id": "2026-10-11-d0f059bf",
-      "headline": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
-      "summary": "In an unannounced change, the Defense Department is now acknowledging troops who died or were wounded in support roles.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
-      "region": "NA",
-      "country": "Pentagon",
+      "id": "2026-10-11-8dea0aeb",
+      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
+      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-10-11",
-      "time": "00:01",
-      "conflict_id": null,
-      "score": 49.2
+      "time": "01:41",
+      "conflict_id": "ukraine-war",
+      "score": 80.0
     },
     {
-      "id": "2026-10-11-feb9b928",
-      "headline": "Iran war live: 12 killed in Riyadh, US weighs joining fight against Houthis",
+      "id": "2026-10-11-bb0cfde6",
+      "headline": "Global pro-Palestinian protests one year after Gaza ‘ceasefire’",
+      "summary": "Pro-Palestinian demonstrations have been held worldwide to mark one year since the so-called Gaza ‘ceasefire&#039;.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/11-10-sv-global-protests-for-gaza-solidarity-uk?traffic_source=rss",
+      "region": "MENA",
+      "country": "Gaza",
+      "category": "geopolitics",
+      "date": "2026-10-11",
+      "time": "01:11",
+      "conflict_id": "israel-hamas",
+      "score": 51.4
+    },
+    {
+      "id": "2026-10-11-5606ddd7",
+      "headline": "Iran war live: 12 killed in Riyadh, Saudi-led coalition vows to respond",
       "summary": "As strikes on airports in Saudi Arabia turn deadly, Washington debates striking Houthis and restarting strikes on Iran.",
       "source": "Al Jazeera",
       "url": "https://www.aljazeera.com/news/liveblog/2026/10/11/iran-war-live-12-killed-in-riyadh-us-weighs-joining-fight-against-houthis?traffic_source=rss",
@@ -32,32 +46,74 @@
       "score": 47.4
     },
     {
-      "id": "2026-10-11-e67286c7",
-      "headline": "Twelve killed in attack on airport in Saudi capital Riyadh",
-      "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Riyadh",
+      "id": "2026-10-11-d0f059bf",
+      "headline": "Pentagon Again Increases Number of U.S. Casualties in Iran War",
+      "summary": "In an unannounced change, the Defense Department is now acknowledging troops who died or were wounded in support roles.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/10/us/politics/pentagon-casualties-iran-war.html",
+      "region": "NA",
+      "country": "Pentagon",
       "category": "geopolitics",
       "date": "2026-10-11",
-      "time": "00:21",
+      "time": "00:01",
       "conflict_id": null,
-      "score": 43.0
+      "score": 41.2
     },
     {
-      "id": "2026-10-11-a951f888",
-      "headline": "Nobel laureate Pillay calls US sanctions on ICC judges 'shocking'",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/editor-s-picks/interview/nobel-laureate-pillay-calls-us-sanctions-on-icc-judges-shocking",
+      "id": "2026-10-11-ef24113b",
+      "headline": "Trump ‘may’ join Saudi strikes on Houthis after Riyadh airport attack",
+      "summary": "President Donald Trump says the US ‘may’ join Saudi strikes against Yemen’s Houthis.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/11/10-10-clip-trump-weighs-joining-saudi-strikes-on-houthis-us?traffic_source=rss",
+      "region": "MENA",
+      "country": "Riyadh",
+      "category": "politics",
+      "date": "2026-10-11",
+      "time": "01:59",
+      "conflict_id": null,
+      "score": 39.4
+    },
+    {
+      "id": "2026-10-11-7eec41d0",
+      "headline": "US hits commercial tanker in Gulf of Oman as tensions flare",
+      "summary": "The ship tried to break through America’s naval blockade of Iranian ports, Central Command says of its first attack in a month",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f9b9f937-97b0-4a03-90f6-05d7c7344ab9?syn-25a6b1a6=1",
       "region": "NA",
-      "country": null,
+      "country": "America",
       "category": "geopolitics",
       "date": "2026-10-11",
-      "time": "",
+      "time": "05:26",
       "conflict_id": null,
-      "score": 38.8
+      "score": 34.4
+    },
+    {
+      "id": "2026-10-11-b00d0222",
+      "headline": "India Protests Set to Continue Despite Heavy Delhi Security",
+      "summary": "Parts of New Delhi remained under tight security for a second straight day as protesters pressed ahead with their demand for the resignation of India’s top election official over a contentious revision of voter rolls.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/indian-cockroaches-plan-new-protest-amid-heavy-delhi-security",
+      "region": "SA",
+      "country": "New Delhi",
+      "category": "politics",
+      "date": "2026-10-11",
+      "time": "05:24",
+      "conflict_id": null,
+      "score": 34.1
+    },
+    {
+      "id": "2026-10-11-9be6e30c",
+      "headline": "Taiz hospitals near collapse as Houthis tighten siege: Yemen government",
+      "summary": "Medical services in Taiz risk shutting down as fuel, medicines, and supplies run alarmingly low under Houthi blockade.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/11/taiz-hospitals-near-collapse-as-houthis-tighten-siege-yemen-government?traffic_source=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "politics",
+      "date": "2026-10-11",
+      "time": "03:41",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-10-11-c01aea3b",
@@ -116,6 +172,62 @@
       "score": 30.8
     },
     {
+      "id": "2026-10-11-7493be4a",
+      "headline": "Delhi braces for more protests as 'cockroach' group's leaders released",
+      "summary": "The leaders, including CJP founder Abhijeet Dipke, had been detained when they arrived in Delhi on Saturday.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-10-11",
+      "time": "06:02",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-10-11-a8eafdea",
+      "headline": "Trump is failing to arrest decline in popularity, FT poll shows",
+      "summary": "Voters increasingly doubt the president’s ability to steer the economy with weeks to go until elections",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/f6d29414-412d-4422-a5f4-cb3338f73d3a",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-10-11",
+      "time": "04:00",
+      "conflict_id": null,
+      "score": 26.4
+    },
+    {
+      "id": "2026-10-11-278116b7",
+      "headline": "China Issues Draft Standards for Remanufactured Automotive Parts",
+      "summary": "China released draft rules that would establish nationwide requirements for automotive-parts remanufacturing, including standards for the sourcing of used components, product quality, traceability and market oversight.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/china-issues-draft-standards-for-remanufactured-automotive-parts",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
+      "date": "2026-10-11",
+      "time": "03:21",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
+      "id": "2026-10-11-d60e88d2",
+      "headline": "India’s Rupee Defense Raises Question of How Far RBI Will Go",
+      "summary": "The Reserve Bank of India is broadening its defenses to steady the rupee, taking some of its strongest measures since the 2013 taper tantrum. That may give the currency a boost as trading resumes Monday, but the question remains: how far is the central bank willing to go as external pressures mount?",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-11/india-s-rupee-defense-raises-question-of-how-far-rbi-will-go",
+      "region": "SA",
+      "country": "India",
+      "category": "business",
+      "date": "2026-10-11",
+      "time": "03:00",
+      "conflict_id": null,
+      "score": 26.1
+    },
+    {
       "id": "2026-10-11-ab4ba864",
       "headline": "Once-Hot AI Trade Leaves Korean Stocks Struggling for Buyers",
       "summary": "South Korea spent much of this year as a poster child of the scorching global AI trade. Now, by almost every measure, the $4.3 trillion stock market is rapidly losing relevance with investors.",
@@ -172,20 +284,6 @@
       "score": 85.0
     },
     {
-      "id": "2026-10-10-8dea0aeb",
-      "headline": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
-      "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-10-10",
-      "time": "19:28",
-      "conflict_id": "ukraine-war",
-      "score": 80.0
-    },
-    {
       "id": "2026-10-10-e49c4beb",
       "headline": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
       "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\".",
@@ -214,20 +312,6 @@
       "score": 77.0
     },
     {
-      "id": "2026-10-10-41467f25",
-      "headline": "Trump says Ukraine needs a new president who will agree to end the war",
-      "summary": "US leader suggests Zelenskyy has not done enough to end the war amid tensions with Kyiv over a diesel deal with Russia.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/10/trump-says-ukraine-needs-a-new-president-who-will-agree-to-end-the-war?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-10-10",
-      "time": "19:32",
-      "conflict_id": "ukraine-war",
-      "score": 76.4
-    },
-    {
       "id": "2026-10-10-1583e81d",
       "headline": "Trump says Ukraine should ‘get a new president’ after U.S.-Russia diesel deal",
       "summary": "Ukraine’s Zelensky \"wants to make problems for the world,\" Trump said Saturday, a day after praising Russia’s Putin.",
@@ -240,20 +324,6 @@
       "time": "20:22",
       "conflict_id": "ukraine-war",
       "score": 69.9
-    },
-    {
-      "id": "2026-10-10-97e44c41",
-      "headline": "Trump calls for new president in Ukraine",
-      "summary": "US President Trump criticised Ukraine’s Volodymyr Zelenskyy as he called for new leadership in Ukraine.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/trump-calls-for-new-president-in-ukraine?traffic_source=rss",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-10-10",
-      "time": "18:50",
-      "conflict_id": "ukraine-war",
-      "score": 67.4
     },
     {
       "id": "2026-10-10-56d659b9",
@@ -270,18 +340,18 @@
       "score": 66.0
     },
     {
-      "id": "2026-10-10-a5c1771c",
-      "headline": "Palestinians still being killed in Gaza, one year into ‘ceasefire’",
-      "summary": "One year to the day after the US-brokered ceasefire was agreed, more Israeli attacks killed Palestinians in Gaza.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/palestinians-still-being-killed-in-gaza-one-year-into?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
+      "id": "2026-10-10-6d70fabb",
+      "headline": "Trump fumes at ‘stain’ on Norway after missing out on Nobel Peace Prize",
+      "summary": "The president described the decision to award the Nobel Peace Prize to Navi Pillay as “disgraceful and embarrassing” and said he would “not forget.”",
+      "source": "Washington Post",
+      "url": "https://www.washingtonpost.com/politics/2026/10/10/trump-fumes-norway-nobel-peace-prize-winner-navi-pillay-over-award/",
+      "region": "EU",
+      "country": "Norway",
       "category": "geopolitics",
       "date": "2026-10-10",
-      "time": "18:38",
-      "conflict_id": "israel-hamas",
-      "score": 59.4
+      "time": "12:45",
+      "conflict_id": null,
+      "score": 57.9
     },
     {
       "id": "2026-10-10-fac0e791",
@@ -340,18 +410,18 @@
       "score": 54.4
     },
     {
-      "id": "2026-10-10-43dc34fe",
-      "headline": "Russia targets Ukraine’s bridges as Vladimir Putin expands air war",
-      "summary": "Moscow’s drones have hit two bridges in Kyiv and one in Zaporizhzhia over the past week",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4e4ea744-6603-499b-baf7-83c74e4dc53e?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
+      "id": "2026-10-10-62b8c0f6",
+      "headline": "12 killed and more than 300 wounded in attack on Riyadh airport",
+      "summary": "Turki Al-Maliki, a spokesperson for the Saudi-led coalition forces, said that the attack had been carried out by Yemen's Houthi rebels and that it had targeted a passenger terminal.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/10/evacuations-and-injuries-reported-at-riyadh-airport-after-another-alleged-houthi-attack",
+      "region": "MENA",
+      "country": "Riyadh",
+      "category": "politics",
       "date": "2026-10-10",
-      "time": "04:00",
-      "conflict_id": "ukraine-war",
-      "score": 54.4
+      "time": "15:48",
+      "conflict_id": null,
+      "score": 54.0
     },
     {
       "id": "2026-10-10-6740426d",
@@ -410,6 +480,20 @@
       "score": 50.1
     },
     {
+      "id": "2026-10-10-3175fa7d",
+      "headline": "Missile strike on Riyadh airport kills 12 and injures hundreds",
+      "summary": "Deadly assault in Saudi Arabia comes days after multiple attacks by Iran-backed Houthi rebels",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/391ddf3f-b233-41fd-819b-fcdbfb0ed010?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Riyadh",
+      "category": "geopolitics",
+      "date": "2026-10-10",
+      "time": "22:18",
+      "conflict_id": null,
+      "score": 42.4
+    },
+    {
       "id": "2026-10-10-54b389f8",
       "headline": "Thousands detained in New Delhi as police crack down on 'cockroach' movement",
       "summary": "Police detained “cockroach movement” leader Abhijeet Dipke and two others as hundreds of protesters defied a heavy security clampdown in New Delhi.",
@@ -421,21 +505,7 @@
       "date": "2026-10-10",
       "time": "14:06",
       "conflict_id": null,
-      "score": 45.0
-    },
-    {
-      "id": "2026-10-10-930fb301",
-      "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
-      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-10-10",
-      "time": "15:23",
-      "conflict_id": null,
-      "score": 43.0
+      "score": 37.0
     },
     {
       "id": "2026-10-10-25f3e6ed",
@@ -452,16 +522,16 @@
       "score": 35.0
     },
     {
-      "id": "2026-10-10-5aaa8962",
-      "headline": "'Cockroach' group leaders among hundreds detained in Delhi protest",
-      "summary": "The group - who are not registered as a political party in India - want electoral reforms ahead of crucial state elections.",
+      "id": "2026-10-10-930fb301",
+      "headline": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+      "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\".",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
-      "region": "SA",
-      "country": "India",
-      "category": "politics",
+      "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-10-10",
-      "time": "12:29",
+      "time": "15:23",
       "conflict_id": null,
       "score": 35.0
     },
@@ -536,20 +606,6 @@
       "score": 34.1
     },
     {
-      "id": "2026-10-10-23576631",
-      "headline": "Why This Canadian Community Is Betting on Coal Again",
-      "summary": "A proposed metallurgical coal mine in Alberta’s Crowsnest Pass is reviving an old industry at a time when Canada is looking for new trade relationships beyond the United States. Northback Holdings says Grassy Mountain could supply steelmaking coal to customers in Europe and Asia while bringing jobs and investment back to a community that lost much of its mining economy. But opponents, including musician and activist Corb Lund, warn that the proje",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-10/why-this-canadian-community-is-betting-on-coal-again",
-      "region": "EU",
-      "country": "United States",
-      "category": "business",
-      "date": "2026-10-10",
-      "time": "12:00",
-      "conflict_id": null,
-      "score": 34.1
-    },
-    {
       "id": "2026-10-10-3b3caaf8",
       "headline": "Some Republicans Reject Trump’s Move to Import Diesel Fuel From Russia",
       "summary": "High diesel costs have posed a problem for Republicans in the midterms, but President Trump’s decision did not satisfy some candidates in key Senate races.",
@@ -606,20 +662,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-10-6386fe7a",
-      "headline": "Falling international student numbers create ‘massive problems’ for Australian universities, expert warns",
-      "summary": "Immigration debate and visa uncertainty are putting students off and increasing pressure on budgetsGet our breaking news email, free app or daily news podcastUniversity leaders warn they’re struggling to fill international student places due to visa uncertainty and heated political debate on immigration, with regional areas hit the hardest amid concern that financial deficits could affect domestic students.The latest numbers from the Department o",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/australia-news/2026/oct/11/falling-international-student-numbers-australian-universities",
-      "region": "APJ",
-      "country": "Australia",
-      "category": "business",
-      "date": "2026-10-10",
-      "time": "19:00",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-10-10-4d3519af",
       "headline": "Pope Leo condemns death penalty, Vance vows not to watch Hasan’s execution live",
       "summary": "Without explicitly referring to the scheduled execution of the Fort Hood killer, the Pope reiterates the Church’s opposition to the death penalty. In the US, Vice-President Vance says he will not watch the execution by firing squad, which is due to be live-streamed in December",
@@ -648,32 +690,18 @@
       "score": 27.0
     },
     {
-      "id": "2026-10-10-ac015326",
-      "headline": "Nixonmaxxing: the strange revival of America’s disgraced president",
-      "summary": "Richard Nixon has become the unlikely darling of Trump’s Washington",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e3945b16-13f0-4640-882d-fafaca9d25e9?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Washington",
-      "category": "politics",
+      "id": "2026-10-10-9d163b1b",
+      "headline": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
+      "summary": "Taiwanese President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that US President Donald Trump’s rapprochement with China could come at Taiwan’s expense.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
+      "region": "APJ",
+      "country": "Beijing",
+      "category": "geopolitics",
       "date": "2026-10-10",
-      "time": "10:00",
+      "time": "03:35",
       "conflict_id": null,
-      "score": 26.4
-    },
-    {
-      "id": "2026-10-10-5ef2b332",
-      "headline": "EU joint budget proposal slashed in race to find end-year agreement",
-      "summary": "Proposal would still be a 30 per cent increase on the bloc’s current spending",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/a96adda5-89fb-4f8b-96c4-96c171489a40?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-10-10",
-      "time": "09:28",
-      "conflict_id": null,
-      "score": 26.4
+      "score": 26.1
     },
     {
       "id": "2026-10-10-72a03bee",
@@ -730,48 +758,6 @@
       "time": "17:02",
       "conflict_id": null,
       "score": 26.1
-    },
-    {
-      "id": "2026-10-10-9d163b1b",
-      "headline": "Taiwan’s Lai Urges Democracies to Unite After Trump-Xi Talks",
-      "summary": "Taiwanese President Lai Ching-te called on democracies in the region to unite against threats to stability, as the island faces pressure from Beijing and concerns that US President Donald Trump’s rapprochement with China could come at Taiwan’s expense.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-10/taiwan-s-lai-urges-democracies-to-unite-after-trump-xi-summit",
-      "region": "APJ",
-      "country": "Beijing",
-      "category": "geopolitics",
-      "date": "2026-10-10",
-      "time": "03:35",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-10-10-a43b7470",
-      "headline": "Poland Central Bank Faces Meeting Hurdles Without Glapinski: PAP",
-      "summary": "The potential suspension of Polish central bank governor Adam Glapinski could make it difficult to convene meetings of the rate-setting panel, a policymaker said, as an “unprecedented” legal challenge raises questions about the institution’s leadership.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-10/poland-central-bank-faces-meeting-hurdles-without-glapinski-pap",
-      "region": "EU",
-      "country": "Poland",
-      "category": "business",
-      "date": "2026-10-10",
-      "time": "11:02",
-      "conflict_id": null,
-      "score": 26.1
-    },
-    {
-      "id": "2026-10-10-b1d4bd42",
-      "headline": "Azerbaijan school pupils protest over reported hijab restrictions",
-      "summary": "Pupils have been protesting after the implementation of a new dress code restricting the hijab in Azerbaijan’s schools.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/10/azerbaijan-school-pupils-protest-over-reported-hijab-restrictions?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-10",
-      "time": "19:49",
-      "conflict_id": null,
-      "score": 23.4
     },
     {
       "id": "2026-10-10-ffa68041",
@@ -844,6 +830,20 @@
       "score": 51.0
     },
     {
+      "id": "2026-10-09-b05ee56c",
+      "headline": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+      "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Riyadh",
+      "category": "geopolitics",
+      "date": "2026-10-09",
+      "time": "13:50",
+      "conflict_id": null,
+      "score": 51.0
+    },
+    {
       "id": "2026-10-09-20e6787e",
       "headline": "Russian strikes and approaching winter force some in Kyiv to pack bags and flee",
       "summary": "A renewed Russian campaign of strikes on power and energy infrastructure has made some contemplate leaving Ukraine's capital.",
@@ -912,20 +912,6 @@
       "time": "05:55",
       "conflict_id": null,
       "score": 32.0
-    },
-    {
-      "id": "2026-10-09-1884a127",
-      "headline": "Police clash with protesters in Brussels as thousands march against spending cuts",
-      "summary": "Clashes broke out between police and protesters in Brussels on Friday, 9 October, as thousands marched against the Belgian government's planned spending cuts. Police estimated that 30,000 people took part in the demonstration, organised by trade unions amid growing opposition to austerity measures.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/video/2026/10/10/police-clash-with-protesters-in-brussels-as-thousands-march-against-spending-cuts",
-      "region": "EU",
-      "country": "Brussels",
-      "category": "politics",
-      "date": "2026-10-09",
-      "time": "22:27",
-      "conflict_id": null,
-      "score": 29.0
     },
     {
       "id": "2026-10-09-93850360",
@@ -1110,20 +1096,6 @@
       "score": 25.8
     },
     {
-      "id": "2026-10-08-0f380eeb",
-      "headline": "South Korea threatens legal action if fuel shipments to Russia found to have broken law",
-      "summary": "Responding to a Guardian report that revealed thousands of tonnes of fuel was transported to Russia, Seoul said it was investigating the casesSouth Korea will take legal action if it finds that shipments of fuel from its ports to Russia broke domestic law, the government has said, responding to a Guardian report on the trade.The government, in a statement issued by the foreign and trade ministries and the customs service, said that it is “checkin",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/08/south-korea-fuel-shipments-to-russia-domestic-law",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-10-08",
-      "time": "04:45",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-10-08-a8bf846a",
       "headline": "Japan beer giants raided over suspicions they colluded to set the price of beverages",
       "summary": "Investigators probe Asahi, Kirin, Suntory and Sapporo breweries – which together control more than 90% of Japan’s beer marketJapanese authorities have raided the country’s four biggest breweries over suspicions they colluded to set the price of beer and other beverages – a practice media reports said could have forced drinkers to pay over the odds.Officials from the Fair Trade Commission this week searched the offices of Asahi Breweries, Kirin Br",
@@ -1191,21 +1163,7 @@
       "date": "2026-10-06",
       "time": "21:22",
       "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-10-06-ec6c5053",
-      "headline": "What is Russia saying about death of woman linked to plague lab?",
-      "summary": "BBC Verify looks into the death of a woman linked to plague lab in Siberia.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1r1k1d0ro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Oman",
-      "category": "geopolitics",
-      "date": "2026-10-06",
-      "time": "07:58",
-      "conflict_id": null,
-      "score": 35.0
+      "score": 27.0
     },
     {
       "id": "2026-10-05-d1fef861",
