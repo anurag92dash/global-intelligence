@@ -6,22 +6,22 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-10-15",
     "recent_headlines": [
       {
-        "headline": "Ukraine to resume strikes on Russian refineries, Zelenskyy says",
+        "headline": "Russia and Ukraine resume energy strikes despite Trump warnings",
+        "source": "The Guardian",
+        "date": "2026-10-15"
+      },
+      {
+        "headline": "Zelenskyy defies Trump as Ukraine resumes strikes on Russian refineries",
         "source": "Financial Times",
         "date": "2026-10-15"
       },
       {
-        "headline": "Europe Today: Kallas speaks exclusively to Euronews as crucial EU summit kicks off",
-        "source": "Euronews",
-        "date": "2026-10-15"
-      },
-      {
-        "headline": "Musk suggests US government behind slowdown in Ukraine's Starshield system",
-        "source": "Euronews",
+        "headline": "Ukraine to Resume Russia Refinery Strikes, Defying Trump",
+        "source": "Bloomberg",
         "date": "2026-10-15"
       }
     ],
@@ -52,8 +52,18 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-10-08",
+    "last_activity": "2026-10-15",
     "recent_headlines": [
+      {
+        "headline": "‘Our works are next to each other’: Art bridges Gaza and West Bank",
+        "source": "Al Jazeera",
+        "date": "2026-10-15"
+      },
+      {
+        "headline": "ICJ judge Navi Pillay wins Nobel peace prize for promoting international law",
+        "source": "The Guardian",
+        "date": "2026-10-09"
+      },
       {
         "headline": "'Every day there is killing': Gazans face Israeli strikes despite ceasefire as peace deal stalls",
         "source": "BBC News",
@@ -118,22 +128,12 @@
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
     "status_signal": "stable",
-    "last_activity": "2026-10-14",
+    "last_activity": "2026-10-15",
     "recent_headlines": [
       {
-        "headline": "FBI arrest Saudi OpenAI employee for allegedly planting recording device in office",
-        "source": "Euronews",
-        "date": "2026-10-14"
-      },
-      {
-        "headline": "Appeals Court Blocks California Law Mandating I.D. for Federal Agents",
+        "headline": "Glitch Delays 600,000 Voter Registrations in Texas as Early Voting Looms",
         "source": "New York Times",
-        "date": "2026-10-14"
-      },
-      {
-        "headline": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-        "source": "BBC News",
-        "date": "2026-10-13"
+        "date": "2026-10-15"
       }
     ],
     "timeline": [
@@ -162,14 +162,19 @@
     "last_activity": "2026-10-15",
     "recent_headlines": [
       {
-        "headline": "‘Manosphere’ podcasts and moon-landing conspiracy theories to remain online under new laws, Wells says",
-        "source": "The Guardian",
+        "headline": "Market Calm Shatters as AI, Rate Fears Collide",
+        "source": "Bloomberg",
         "date": "2026-10-15"
       },
       {
-        "headline": "Dozens of gold prospectors killed in strikes on Egypt-Sudan border, rights group says",
-        "source": "BBC News",
-        "date": "2026-10-11"
+        "headline": "Glitch Delays 600,000 Voter Registrations in Texas as Early Voting Looms",
+        "source": "New York Times",
+        "date": "2026-10-15"
+      },
+      {
+        "headline": "Jordan is “becoming a safe gateway” for neighbouring countries, says investment minister.",
+        "source": "Euronews",
+        "date": "2026-10-15"
       }
     ],
     "timeline": [
