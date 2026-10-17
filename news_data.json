@@ -1,8 +1,22 @@
 {
-  "updated": "2026-10-17T16:41:46.609291+00:00",
+  "updated": "2026-10-17T18:49:11.318276+00:00",
   "story_count": 94,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-10-17-7126e3cf",
+      "headline": "Israeli settlers attack European diplomats during West Bank olive harvest",
+      "summary": "Four Palestinian women and a child are among those injured in separate ongoing Israeli assaults and pogroms.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+      "region": "EU",
+      "country": "Europe",
+      "category": "business",
+      "date": "2026-10-17",
+      "time": "12:48",
+      "conflict_id": "israel-hamas",
+      "score": 68.4
+    },
     {
       "id": "2026-10-17-ecef1769",
       "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
@@ -32,16 +46,16 @@
       "score": 60.0
     },
     {
-      "id": "2026-10-17-a9daa22a",
-      "headline": "Child, four women among Palestinians injured in West Bank pogroms",
-      "summary": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
+      "id": "2026-10-17-8a865017",
+      "headline": "Israeli drone attacks kill six Palestinians across Gaza despite ‘ceasefire’",
+      "summary": "Attacks hit several areas as UNICEF reports more than 340 children killed since &#039;ceasefire&#039; began a year ago.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
+      "url": "https://www.aljazeera.com/news/2026/10/17/israeli-drone-attacks-kill-six-palestinians-across-gaza-despite-ceasefire?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "12:48",
+      "time": "18:26",
       "conflict_id": "israel-hamas",
       "score": 59.4
     },
@@ -56,6 +70,20 @@
       "category": "geopolitics",
       "date": "2026-10-17",
       "time": "09:53",
+      "conflict_id": null,
+      "score": 59.4
+    },
+    {
+      "id": "2026-10-17-922fa604",
+      "headline": "Israeli settlers attack European diplomats in the West Bank",
+      "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+      "region": "EU",
+      "country": "Europe",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "17:58",
       "conflict_id": null,
       "score": 59.4
     },
@@ -88,18 +116,32 @@
       "score": 58.2
     },
     {
-      "id": "2026-10-17-e258f924",
-      "headline": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
-      "summary": "Analysts say Russia will benefit most from US sanctions waiver.",
+      "id": "2026-10-17-c6b7994a",
+      "headline": "Trump faces bipartisan backlash over Russia sanctions waiver",
+      "summary": "Republicans and Democrats condemn Trump’s decision to suspend sanctions, saying it undermines support for Ukraine.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/17/trump-faces-bipartisan-backlash-over-russia-sanctions-waiver?traffic_source=rss",
       "region": "EU",
-      "country": "Europe",
+      "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "11:10",
+      "time": "17:24",
       "conflict_id": null,
       "score": 56.4
+    },
+    {
+      "id": "2026-10-17-9162f77d",
+      "headline": "European diplomats attacked by Israeli settlers amid rising violence in occupied West Bank",
+      "summary": "Belgium’s foreign minister blamed what he called Israel’s “illegal settlement policy” for the attack and pledged to push for further European Union sanctions.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/17/european-diplomats-attacked-by-israeli-settlers-amid-rising-violence-in-occupied-west-bank",
+      "region": "EU",
+      "country": "Belgium",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "17:23",
+      "conflict_id": null,
+      "score": 54.0
     },
     {
       "id": "2026-10-17-336c82bf",
@@ -116,18 +158,32 @@
       "score": 54.0
     },
     {
-      "id": "2026-10-17-922fa604",
-      "headline": "Israeli settlers attack European diplomats in the West Bank",
-      "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
+      "id": "2026-10-17-6267478a",
+      "headline": "Police clash with protesters as tens of thousands take to streets across France",
+      "summary": "Police fire teargas in Paris and protesters storm town hall in Marseille – with officials blaming violence on ‘ultra-left’Police have fired teargas and clashed with protesters supporting high school student grievances, as demonstrations across France were boosted by other groups angry over high prices and the fraying of a social welfare system.Hundreds of thousands of people took to the streets across the country, and tensions erupted on the frin",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/protests-france-high-prices-social-security-gilets-jaunes",
       "region": "EU",
-      "country": "Europe",
+      "country": "France",
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "16:11",
+      "time": "16:55",
       "conflict_id": null,
-      "score": 50.4
+      "score": 48.0
+    },
+    {
+      "id": "2026-10-17-0be03dd5",
+      "headline": "Jerusalem Daily: Israeli settlers attack farmers and journalists",
+      "summary": "After Israeli settlers beat and severely wounded Palestinian farmers, settler violence continues.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/aje-onl-nf_yt-dnrbltn-261017-salehm-jerusalem_daily-171026?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "17:18",
+      "conflict_id": null,
+      "score": 47.4
     },
     {
       "id": "2026-10-17-1eea7258",
@@ -156,6 +212,20 @@
       "time": "02:33",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-10-17-f5371856",
+      "headline": "Russia Sanctions Waived, AI Debt Concerns, Making 'GTA VI'",
+      "summary": "The news doesn’t stop when markets close. Hosts David Gura, Christina Ruffini and Lisa Mateo bring clarity, context and a bit of humor to the weekend’s biggest headlines, LIVE from New York. Joined by International Rescue Committee CEO and Fmr. UK Foreign Secretary David Miliband, Fmr. Deputy Prime Minister of Canada and “Unreliable Boyfriend” Author Chrystia Freeland and Northwell Health President & CEO Dr. John D’Angelo. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-17/bloomberg-this-weekend-10-17-2026-video",
+      "region": "EU",
+      "country": "Canada",
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "16:31",
+      "conflict_id": null,
+      "score": 34.1
     },
     {
       "id": "2026-10-17-8c141604",
@@ -223,7 +293,7 @@
       "country": null,
       "category": "business",
       "date": "2026-10-17",
-      "time": "16:33",
+      "time": "18:26",
       "conflict_id": null,
       "score": 33.2
     },
@@ -256,6 +326,48 @@
       "score": 32.0
     },
     {
+      "id": "2026-10-17-0327c69e",
+      "headline": "Al Jazeera reports from Paris as protests turn violent",
+      "summary": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "16:56",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-10-17-55d4f969",
+      "headline": "Why are Latin American countries building closer ties with Israel?",
+      "summary": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+      "region": "MENA",
+      "country": "Latin America",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "16:54",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-10-17-76d364f8",
+      "headline": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+      "summary": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+      "region": "MENA",
+      "country": "Saudi",
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "16:49",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-10-17-305226e7",
       "headline": "Buildings and cars set on fire as cost of living protests rock France",
       "summary": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
@@ -284,32 +396,32 @@
       "score": 31.4
     },
     {
-      "id": "2026-10-17-51a8a166",
-      "headline": "Protests spread across France as ‘yellow vests’ set to join",
-      "summary": "Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.",
+      "id": "2026-10-17-9e8b7d85",
+      "headline": "Tens of thousands protest for reforms in France amid tear gas and unrest",
+      "summary": "Large cross-sector demonstrations in Paris and other cities unite students, teachers, unions and &#039;yellow vests&#039;.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/17/france-wave-of-nationwide-protests?traffic_source=rss",
       "region": "EU",
       "country": "France",
       "category": "politics",
       "date": "2026-10-17",
-      "time": "11:21",
+      "time": "13:44",
       "conflict_id": null,
       "score": 31.4
     },
     {
-      "id": "2026-10-17-f647513f",
-      "headline": "Solar power booms in Philippines as war on Iran spikes energy costs",
-      "summary": "With Southeast Asia&#039;s largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
-      "region": "MENA",
-      "country": "Philippines",
+      "id": "2026-10-17-e3f4c57e",
+      "headline": "Japan set to move forward with Bangladesh's first economic pact",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/trade/japan-set-to-move-forward-with-bangladesh-s-first-economic-pact",
+      "region": "APJ",
+      "country": "Bangladesh",
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "10:12",
+      "time": "",
       "conflict_id": null,
-      "score": 31.4
+      "score": 30.8
     },
     {
       "id": "2026-10-17-9adae981",
@@ -382,18 +494,18 @@
       "score": 30.8
     },
     {
-      "id": "2026-10-17-e3b5a8b8",
-      "headline": "Fed's Warsh warns of financial stability risk as investment rises",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/markets/fed-s-warsh-warns-of-financial-stability-risk-as-investment-rises",
-      "region": "APJ",
-      "country": null,
-      "category": "business",
+      "id": "2026-10-17-2d0906c2",
+      "headline": "Protesters clash with police in Belgium as demonstrations turn violent across Europe",
+      "summary": "Belgian Interior Minister Bernard Quintin said on Saturday that the situation was \"no longer simply a protest,\" calling it \"pure and simple violence.\"",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/17/protesters-clash-with-police-in-belgium-as-demonstrations-turn-violent-across-europe",
+      "region": "EU",
+      "country": "Belgium",
+      "category": "politics",
       "date": "2026-10-17",
-      "time": "",
+      "time": "17:29",
       "conflict_id": null,
-      "score": 30.8
+      "score": 29.0
     },
     {
       "id": "2026-10-17-4b082ace",
@@ -410,22 +522,8 @@
       "score": 29.0
     },
     {
-      "id": "2026-10-17-40043d91",
-      "headline": "'We are here to help them,' says yellow vests representative on joining students for nationwide protests",
-      "summary": "Two separate major protests – one led by trade unions, the other by students – were initially slated to take place in Paris on Saturday. Eyewitnesses say the protests have converged into one massive demonstration demanding government remedies to the ongoing crises.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/17/we-are-here-to-help-them-says-yellow-vests-representative-on-joining-students-for-nationwi",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-17",
-      "time": "15:43",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-10-17-5b1cc09e",
-      "headline": "Dozens arrested as protesters clash with security forces in Paris in major day of planned demonstrations",
+      "id": "2026-10-17-becc03c0",
+      "headline": "Dozens arrested as protesters clash with security forces in Paris",
       "summary": "The French government stepped up security measures ahead of Saturday’s nationwide protests over the cost-of-living crisis, with student groups also expected to join demonstrations amid fears of potential clashes.",
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/10/17/france-braces-for-tense-protests-as-security-concerns-take-centre-stage",
@@ -436,20 +534,6 @@
       "time": "06:00",
       "conflict_id": null,
       "score": 29.0
-    },
-    {
-      "id": "2026-10-17-80545dc2",
-      "headline": "Nursery owner in China jailed for life after hundreds of children poisoned",
-      "summary": "She and five staff members were found to have used the inedible paint in meals to make them look more appealing.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqe9lx54g7x9o?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-10-17",
-      "time": "12:11",
-      "conflict_id": null,
-      "score": 27.0
     },
     {
       "id": "2026-10-17-dcbf869b",
@@ -478,20 +562,6 @@
       "time": "00:41",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-10-17-3e499dc5",
-      "headline": "Trump’s press secretary Katie Zacharia fired after five days",
-      "summary": "Exit comes amid deepening turmoil for White House as midterm elections loom",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/ae21e5e0-6696-4cd2-877c-7d269b3bcf48?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
-      "date": "2026-10-17",
-      "time": "01:29",
-      "conflict_id": null,
-      "score": 26.4
     },
     {
       "id": "2026-10-17-c70f3158",
@@ -648,6 +718,20 @@
       "score": 25.2
     },
     {
+      "id": "2026-10-17-73e01b74",
+      "headline": "What Pennsylvania Reveals About the Midterms",
+      "summary": "In Pennsylvania, four congressional districts exemplify the types of seats that Democrats are aiming to flip. Our national political correspondent Shane Goldmacher explains.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "13:42",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
       "id": "2026-10-17-f3986fc5",
       "headline": "Gas Prices Soar to Over $10 a Gallon at This California Outpost",
       "summary": "Drive along a meandering highway through Big Sur in California, and you could happen upon this roadside stop. Maybe you won’t notice the prices.",
@@ -700,34 +784,6 @@
       "category": "politics",
       "date": "2026-10-17",
       "time": "14:00",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-10-17-2ecf97dc",
-      "headline": "California Gov Newsom boosts AI regulation as he eyes 2028 presidential run",
-      "summary": "Newsom signed an executive order to examine kill switches for AI models and other measures he had earlier vetoed.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/17/california-gov-newsom-boosts-ai-regulation-as-he-eyes-2028-presidential-run?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-17",
-      "time": "13:56",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-10-17-0d41af01",
-      "headline": "Women protest in New Delhi against police brutality",
-      "summary": "Women protest in New Delhi against police brutality",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/women-protest-in-new-delhi-against-police-brutality?traffic_source=rss",
-      "region": "SA",
-      "country": "New Delhi",
-      "category": "politics",
-      "date": "2026-10-17",
-      "time": "12:07",
       "conflict_id": null,
       "score": 23.4
     },
@@ -785,7 +841,7 @@
       "date": "2026-10-16",
       "time": "14:31",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 72.0
     },
     {
       "id": "2026-10-16-b0c55696",
@@ -799,7 +855,7 @@
       "date": "2026-10-16",
       "time": "11:40",
       "conflict_id": "israel-hamas",
-      "score": 63.0
+      "score": 72.0
     },
     {
       "id": "2026-10-16-4ebc201b",
@@ -830,18 +886,18 @@
       "score": 47.0
     },
     {
-      "id": "2026-10-16-58474c58",
-      "headline": "Indonesia Unveils $117 Million in Fines After MSCI Warning",
-      "summary": "Indonesia announced about $117 million in fines tied to manipulative market practices involving three companies, hours after global index provider MSCI Inc. said it was weighing a downgrade of the country’s stock market over investability concerns.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/indonesia-unveils-117-million-in-fines-after-msci-warning",
-      "region": "APJ",
-      "country": "Indonesia",
-      "category": "business",
+      "id": "2026-10-16-e2e32dff",
+      "headline": "Albanian protests turn violent: What we know",
+      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "politics",
       "date": "2026-10-16",
-      "time": "09:40",
+      "time": "14:33",
       "conflict_id": null,
-      "score": 34.1
+      "score": 35.0
     },
     {
       "id": "2026-10-16-965696a3",
@@ -900,20 +956,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-10-16-e2e32dff",
-      "headline": "Albanian protests turn violent: What we know",
-      "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "14:33",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-16-cd19aaf8",
       "headline": "Ship attack reports near Hormuz reach record high as oil exports slow",
       "summary": "BBC Verify analysis of data from a UK maritime agency shows 12 vessels were struck in a week.",
@@ -956,20 +998,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-10-16-2c2e8f5b",
-      "headline": "N.I.H. Hospital Board Rebukes Kennedy Over New Vaccine Injury Clinic",
-      "summary": "The board that oversees the N.I.H. Clinical Center voted unanimously to support a statement accusing Health Secretary Robert F. Kennedy Jr. of undermining trust in the hospital’s work.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/10/16/us/politics/kennedy-nih-hospital-board-rebuke.html",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "22:38",
-      "conflict_id": null,
-      "score": 25.2
-    },
-    {
       "id": "2026-10-16-f5c16d9e",
       "headline": "Brazil’s Lula says he now backs lowering age of criminal responsibility to 16",
       "summary": "Lula reverses position on age of responsibility for ‘heinous’ crimes in what many see as a desperate electoral gambitBrazil’s president, Luiz Inácio Lula da Silva, has announced that he now supports lowering the age of criminal responsibility for “heinous” crimes from 18 to 16, reversing a longstanding policy in what is widely seen as a desperate electoral gambit.The U-turn, which Lula announced during a Thursday night interview with TV Globo, co",
@@ -984,18 +1012,18 @@
       "score": 24.0
     },
     {
-      "id": "2026-10-16-1338b798",
-      "headline": "Pope Leo XIV urges Putin to agree to truce in besieged Ukrainian city of Oleshky",
-      "summary": "The call took place at Rome's Gemelli Polyclinic, where the Pope is recovering well from surgery, on the same day he celebrated his first Mass since the operation.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/16/pope-leo-xiv-urges-putin-to-agree-to-truce-in-besieged-ukrainian-city-of-oleshky",
-      "region": "EU",
-      "country": null,
+      "id": "2026-10-16-7fe68733",
+      "headline": "Revealed: VW, Ford and Tesla batteries linked to destructive deforestation of indigenous lands",
+      "summary": "Mines in supply chains of western carmakers linked to widespread deforestation of primary rainforest in nickel-rich lands inhabited by Tolaki people in IndonesiaVolkswagen, Ford and Tesla are among the electric carmakers whose batteries may contain nickel mined in indigenous woodlands plagued by deforestation, an analysis has found, highlighting the struggle to make vehicles that are free from environmental destruction.Corporate disclosures and t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/vw-ford-tesla-batteries-deforestation-indigenous-lands",
+      "region": "NA",
+      "country": "Indonesia",
       "category": "business",
       "date": "2026-10-16",
-      "time": "19:56",
+      "time": "07:00",
       "conflict_id": null,
-      "score": 21.0
+      "score": 24.0
     },
     {
       "id": "2026-10-15-fe3eaf71",
@@ -1166,20 +1194,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-14-6159e9ce",
-      "headline": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
-      "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-10-14",
-      "time": "12:26",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-14-42747186",
       "headline": "What if you could turn off your algorithm? Australia is about to try",
       "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
@@ -1208,6 +1222,20 @@
       "score": 27.0
     },
     {
+      "id": "2026-10-13-70b05726",
+      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Riyadh",
+      "category": "politics",
+      "date": "2026-10-13",
+      "time": "04:30",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
       "id": "2026-10-13-4391cb1d",
       "headline": "'I'd talk to the TV': The paid companions bringing warmth to China's lonely",
       "summary": "As loneliness grows in China, a new industry is emerging to provide companionship and support.",
@@ -1232,34 +1260,6 @@
       "category": "business",
       "date": "2026-10-13",
       "time": "21:42",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-10-13-70b05726",
-      "headline": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-      "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Riyadh",
-      "category": "politics",
-      "date": "2026-10-13",
-      "time": "04:30",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-10-13-bb01e0dd",
-      "headline": "Who are the Houthis and what do they want?",
-      "summary": "Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Saudi",
-      "category": "geopolitics",
-      "date": "2026-10-13",
-      "time": "06:38",
       "conflict_id": null,
       "score": 27.0
     },
