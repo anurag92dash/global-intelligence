@@ -1,21 +1,21 @@
 {
-  "updated": "2026-10-17T06:08:15.227149+00:00",
-  "story_count": 98,
-  "source_count": 8,
+  "updated": "2026-10-17T10:34:23.526977+00:00",
+  "story_count": 95,
+  "source_count": 9,
   "stories": [
     {
-      "id": "2026-10-17-cc7f91e8",
-      "headline": "Trump waives several Russia sanctions as new US law takes effect",
-      "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+      "id": "2026-10-17-ecef1769",
+      "headline": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
       "source": "BBC News",
       "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Ukraine",
+      "region": "NA",
+      "country": "Congress",
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "05:02",
+      "time": "09:42",
       "conflict_id": null,
-      "score": 68.0
+      "score": 60.0
     },
     {
       "id": "2026-10-17-3647d2d5",
@@ -27,7 +27,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "02:31",
+      "time": "09:53",
       "conflict_id": null,
       "score": 59.4
     },
@@ -41,7 +41,7 @@
       "country": "Trump",
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "03:07",
+      "time": "08:35",
       "conflict_id": null,
       "score": 58.2
     },
@@ -57,7 +57,7 @@
       "date": "2026-10-17",
       "time": "04:58",
       "conflict_id": null,
-      "score": 55.4
+      "score": 56.4
     },
     {
       "id": "2026-10-17-174669c3",
@@ -71,7 +71,35 @@
       "date": "2026-10-17",
       "time": "04:45",
       "conflict_id": null,
-      "score": 55.4
+      "score": 56.4
+    },
+    {
+      "id": "2026-10-17-336c82bf",
+      "headline": "Trump signs executive order waiving new Russia sanctions package",
+      "summary": "Russian presidential envoy Kirill Dmitriev has called the decision to put the sanctions on hold a \"significant and truly historic moment.\"",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/17/trump-signs-executive-order-waiving-new-russia-sanctions-package",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "06:37",
+      "conflict_id": null,
+      "score": 54.0
+    },
+    {
+      "id": "2026-10-17-4ca9f15c",
+      "headline": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+      "summary": "Rapid Support Forces accuses army of killing 30 civilians in attack on Nyala&#039;s busy livestock market.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-10-17",
+      "time": "09:44",
+      "conflict_id": "sudan-civil-war",
+      "score": 51.4
     },
     {
       "id": "2026-10-17-9f71fdbd",
@@ -102,6 +130,20 @@
       "score": 51.4
     },
     {
+      "id": "2026-10-17-6f332312",
+      "headline": "Ukraine and Europe have little choice but to work with Trump",
+      "summary": "Despite growing tensions over Russia, Kyiv and European leaders remain dependent on US support.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/opinions/2026/10/17/ukraine-and-europe-have-little-choice-but-to-work-with-trump?traffic_source=rss",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "06:36",
+      "conflict_id": "ukraine-war",
+      "score": 43.4
+    },
+    {
       "id": "2026-10-17-36b637df",
       "headline": "Brazil sees record fall in Amazon deforestation as key election looms",
       "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro.",
@@ -113,21 +155,21 @@
       "date": "2026-10-17",
       "time": "02:33",
       "conflict_id": null,
-      "score": 43.0
+      "score": 35.0
     },
     {
-      "id": "2026-10-17-f41266ec",
-      "headline": "Brazil’s Amazon deforestation hits lowest level on record",
-      "summary": "Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
+      "id": "2026-10-17-fa12d605",
+      "headline": "China Warns Corrupt Officials Can’t Expect a Safe Landing",
+      "summary": "China’s top anti-graft authorities warned that officials who engage in corruption cannot expect a “safe landing,” regardless of their rank, past contributions or whether they’ve retired, according to a commentary from the CPC Central Commission for Discipline Inspection and National Commission of Supervision.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-17/china-warns-corrupt-officials-can-t-expect-a-safe-landing",
+      "region": "APJ",
+      "country": "China",
+      "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "02:49",
+      "time": "05:35",
       "conflict_id": null,
-      "score": 39.4
+      "score": 34.1
     },
     {
       "id": "2026-10-17-0966b0de",
@@ -158,16 +200,16 @@
       "score": 34.1
     },
     {
-      "id": "2026-10-17-6143c3ab",
-      "headline": "School Shootings Have Dropped Lately, but Gun Violence Remains Above Pre-Covid Levels",
-      "summary": "One data scientist who tracks gun violence in schools says he is encouraged that people have become more vigilant about spotting warning signs.",
+      "id": "2026-10-17-4934133b",
+      "headline": "Hegseth Singled Out in Democrats’ Campaign Attacks for War and High Prices",
+      "summary": "Cabinet members are seldom major figures in campaigns, but the defense secretary’s forays into politics and his bravado in defense of an unpopular war have made him a target.",
       "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/10/16/us/bend-school-shooting-statistics.html",
+      "url": "https://www.nytimes.com/2026/10/17/us/elections/hegseth-singled-out-in-democrats-campaign-attacks-for-war-and-high-prices.html",
       "region": "NA",
       "country": null,
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "00:23",
+      "time": "09:00",
       "conflict_id": null,
       "score": 33.2
     },
@@ -184,6 +226,48 @@
       "time": "01:49",
       "conflict_id": null,
       "score": 32.0
+    },
+    {
+      "id": "2026-10-17-ff67de43",
+      "headline": "‘Austerity is inevitably painful’: How Michael Gove justifies his politics | Radical Thinking with Aditya Chakrabortty – podcast",
+      "summary": "For more than three decades, Michael Gove has been a leading figure in British Conservatism. As a journalist, government minister and now editor of the Tory bible, the Spectator, he has helped shape the right even as it has moved further rightwards. In the latest episode of Radical Thinking, Gove joins Aditya Chakrabortty to discuss the future of the right, his record on Brexit and austerity, and the Spectator’s position on IslamWatch the full ep",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/politics/commentisfree/audio/2026/oct/17/austerity-is-inevitably-painful-how-michael-gove-justifies-his-politics-radical-thinking-with-aditya-chakrabortty-podcast",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "06:45",
+      "conflict_id": null,
+      "score": 32.0
+    },
+    {
+      "id": "2026-10-17-f647513f",
+      "headline": "Solar power booms in Philippines as war on Iran spikes energy costs",
+      "summary": "With Southeast Asia&#039;s largest electricity bills rising even higher, Filipinos invest in rooftop panels.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
+      "region": "MENA",
+      "country": "Philippines",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "10:12",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-10-17-0c819a6b",
+      "headline": "Can Yemen’s government forces sustain their offensive against the Houthis?",
+      "summary": "Houthi missile strikes threaten key supply routes on Yemen&#039;s Red Sea coast, intensifying pressure on government forces.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news-analysis/2026/10/17/can-yemens-government-forces-sustain-their-offensive-against-the-houthis?traffic_source=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "geopolitics",
+      "date": "2026-10-17",
+      "time": "06:41",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-10-17-5afe3059",
@@ -214,32 +298,18 @@
       "score": 31.4
     },
     {
-      "id": "2026-10-17-bddc44c2",
-      "headline": "Healthcare crisis escalating in Yemen’s besieged Taiz",
-      "summary": "Fighting between Yemen’s Houthis and the internationally recognised government is deepening the humanitarian crisis.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/healthcare-crisis-escalating-in-yemens-besieged-taiz?traffic_source=rss",
+      "id": "2026-10-17-9adae981",
+      "headline": "Saudi finance minister says Middle East economies divided by crisis",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/economy/saudi-finance-minister-says-middle-east-economies-divided-by-crisis",
       "region": "MENA",
-      "country": "Yemen",
+      "country": "Saudi",
       "category": "geopolitics",
       "date": "2026-10-17",
-      "time": "01:37",
+      "time": "",
       "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-10-17-f52d1c66",
-      "headline": "Iran war live: IRGC says supertanker hit naval mine in Hormuz, catches fire",
-      "summary": "Iran’s IRGC says an oil supertanker is on fire in the Strait of Hormuz after striking a naval mine.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-10-17",
-      "time": "00:00",
-      "conflict_id": null,
-      "score": 31.4
+      "score": 30.8
     },
     {
       "id": "2026-10-17-d034ec30",
@@ -310,6 +380,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-10-17-3c8d1e2e",
+      "headline": "France braces for tense day of protests as demonstrations gather pace amid mounting security fears",
+      "summary": "The French government stepped up security measures ahead of Saturday’s nationwide protests over the cost-of-living crisis, with student groups also expected to join demonstrations amid fears of potential clashes.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/17/france-braces-for-tense-protests-as-security-concerns-take-centre-stage",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "06:00",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-10-17-dcbf869b",
@@ -452,8 +536,8 @@
       "score": 26.1
     },
     {
-      "id": "2026-10-17-779811d4",
-      "headline": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With Young Indians",
+      "id": "2026-10-17-0e1c37c1",
+      "headline": "Jio’s $3.2 Billion IPO Tests Ambani Appeal With India’s Gen Z",
       "summary": "For generations of Indians, Reliance Industries Ltd. was their introduction to the stock market. Founder Dhirubhai Ambani drew middle-income savers into shares, building a following that endured for decades.",
       "source": "Bloomberg",
       "url": "https://www.bloomberg.com/news/articles/2026-10-17/jio-s-3-2-billion-ipo-tests-ambani-appeal-with-young-indians",
@@ -478,6 +562,62 @@
       "time": "00:00",
       "conflict_id": null,
       "score": 26.1
+    },
+    {
+      "id": "2026-10-17-e255b697",
+      "headline": "Trump Revives 2020 Election Conspiracies, With Help From the Federal Government",
+      "summary": "Voting rights advocates fear the Trump administration may use the federal government to cast doubt on the election, discourage participation or try to delegitimize results.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/election-fraud-conspiracies-trump.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "09:02",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-10-17-0e84f7d2",
+      "headline": "How Pennsylvania Explains the Forces Shaping the Midterms",
+      "summary": "Four battleground congressional districts in the state reveal fault lines that are echoing nationwide.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/17/us/politics/how-pennsylvania-explains-the-forces-shaping-the-midterms.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "09:01",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-10-17-73e01b74",
+      "headline": "What Pennsylvania Reveals About the Midterms",
+      "summary": "In Pennsylvania, four congressional districts exemplify the types of seats that Democrats are aiming to flip. Our national political correspondent Shane Goldmacher explains.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/video/us/politics/100000011200802/what-pennsylvania-reveals-about-the-midterms.html",
+      "region": "NA",
+      "country": "Congress",
+      "category": "politics",
+      "date": "2026-10-17",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-10-17-2398f9f4",
+      "headline": "$10 a Gallon at This Gas Station by the Sea",
+      "summary": "Drive along a meandering highway through Big Sur in California, and you could happen upon this roadside stop. Maybe you won’t notice the prices.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/17/us/10-gallon-gas-station.html",
+      "region": "NA",
+      "country": null,
+      "category": "business",
+      "date": "2026-10-17",
+      "time": "09:00",
+      "conflict_id": null,
+      "score": 25.2
     },
     {
       "id": "2026-10-17-58b16614",
@@ -508,46 +648,32 @@
       "score": 25.2
     },
     {
-      "id": "2026-10-17-e9fdcef6",
-      "headline": "Appeals Court Questions Justice Dept. Claim That Trump Owns White House Records",
-      "summary": "A three-judge panel appeared unconvinced by claims that a federal law requiring the president to preserve and hand over his presidential papers was unconstitutional.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/10/16/us/politics/appeals-court-trump-presidential-records.html",
-      "region": "NA",
-      "country": "White House",
-      "category": "politics",
+      "id": "2026-10-17-4ecf255f",
+      "headline": "Not cool: who hacked France’s supermarket fridges?",
+      "summary": "Whether it was youngsters proving their skills or state sabotage, Europe’s most hacked country was left with a mountain of waste after food began cooking in freezersShortly before midnight last Sunday, the digital thermostats controlling hundreds of supermarket cold aisles across France began to flicker and rise.In a “bizarre and unprecedented” cyber-attack, hackers had remotely overridden the temperature settings on thousands of freezers, fridge",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/17/who-hacked-frances-supermarket-fridges",
+      "region": "EU",
+      "country": "France",
+      "category": "business",
       "date": "2026-10-17",
-      "time": "01:42",
+      "time": "04:00",
       "conflict_id": null,
-      "score": 25.2
+      "score": 24.0
     },
     {
-      "id": "2026-10-17-8f089042",
-      "headline": "Cameroonians await government reshuffle after Biya’s return",
-      "summary": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.",
+      "id": "2026-10-17-ebb6b377",
+      "headline": "Houthis strike Yemen’s Aden: What that means",
+      "summary": "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+      "url": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
       "region": "MENA",
-      "country": null,
+      "country": "Yemen",
       "category": "politics",
       "date": "2026-10-17",
-      "time": "03:14",
+      "time": "09:16",
       "conflict_id": null,
       "score": 23.4
-    },
-    {
-      "id": "2026-10-17-9b8ae577",
-      "headline": "Japan's ICC rift with US limits options in handling China, Russia pressure",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/international-relations/japan-s-icc-rift-with-us-limits-options-in-handling-china-russia-pressure",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-10-17",
-      "time": "",
-      "conflict_id": null,
-      "score": 22.8
     },
     {
       "id": "2026-10-17-6d95ba22",
@@ -578,20 +704,6 @@
       "score": 60.0
     },
     {
-      "id": "2026-10-16-2fb93c1c",
-      "headline": "Families demand justice after Pakistan school collapse",
-      "summary": "Parents are demanding accountability after a school roof collapse in Pakistan&#039;s Peshawar killed 34 children.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss",
-      "region": "SA",
-      "country": "Pakistan",
-      "category": "geopolitics",
-      "date": "2026-10-16",
-      "time": "22:38",
-      "conflict_id": null,
-      "score": 55.4
-    },
-    {
       "id": "2026-10-16-e69ac3b1",
       "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
       "summary": "The BBC sees masked settlers attack Palestinians trying to harvest olives, amid a surge in similar incidents.",
@@ -603,6 +715,34 @@
       "date": "2026-10-16",
       "time": "14:31",
       "conflict_id": "israel-hamas",
+      "score": 55.0
+    },
+    {
+      "id": "2026-10-16-ece20b10",
+      "headline": "Israeli settlers attack Palestinians carrying out olive harvest in West Bank",
+      "summary": "Washington Post journalist among those injured during violence in occupied territory",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/432c9cff-b86f-4712-8e64-56cf3895d687?syn-25a6b1a6=1",
+      "region": "NA",
+      "country": "Washington",
+      "category": "geopolitics",
+      "date": "2026-10-16",
+      "time": "19:42",
+      "conflict_id": "israel-hamas",
+      "score": 54.4
+    },
+    {
+      "id": "2026-10-16-4ebc201b",
+      "headline": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Brussels",
+      "category": "geopolitics",
+      "date": "2026-10-16",
+      "time": "15:45",
+      "conflict_id": "ukraine-war",
       "score": 47.0
     },
     {
@@ -616,20 +756,6 @@
       "category": "geopolitics",
       "date": "2026-10-16",
       "time": "15:59",
-      "conflict_id": "ukraine-war",
-      "score": 47.0
-    },
-    {
-      "id": "2026-10-16-4ebc201b",
-      "headline": "Watch: Will Ukraine get the support needed as tensions with US rise?",
-      "summary": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Brussels",
-      "category": "geopolitics",
-      "date": "2026-10-16",
-      "time": "15:45",
       "conflict_id": "ukraine-war",
       "score": 47.0
     },
@@ -648,76 +774,6 @@
       "score": 44.0
     },
     {
-      "id": "2026-10-16-149a531a",
-      "headline": "Big US Bank Stocks Log Worst Weekly Losing Streak Since 2008",
-      "summary": "Big US bank shares recorded their worst weekly losing streak since the 2008 Global Financial Crisis after quarterly earnings didn’t do enough to lift sentiment for the ailing sector.",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-10-16",
-      "time": "17:13",
-      "conflict_id": null,
-      "score": 42.1
-    },
-    {
-      "id": "2026-10-16-f17fa6df",
-      "headline": "Palestinians in Gaza dread another winter with nowhere safe to shelter",
-      "summary": "More than 44,000 people still live in buildings marked for demolition across the territory, unable to leave because no alternative shelter exists. Euronews spoke to families in Al-Mughraqa as tarpaulin prices double and Israel blocks timber and shelter kits from entering Gaza.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/16/palestinians-in-gaza-dread-another-winter-with-nowhere-safe-to-shelter",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-10-16",
-      "time": "14:34",
-      "conflict_id": "israel-hamas",
-      "score": 41.0
-    },
-    {
-      "id": "2026-10-16-91880fba",
-      "headline": "'‘It’s easier dealing with Trump than Putin,’ Zelenskyy tells Euronews amid US tensions",
-      "summary": "After a week of tensions between Washington and Kyiv, Zelenskyy said Trump was still easier to deal with than Putin, despite the US president’s calls for new leadership in Ukraine and criticism of the Ukrainian leader.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/16/its-easier-dealing-with-trump-than-putin-zelenskyy-tells-euronews-amid-us-tensions",
-      "region": "EU",
-      "country": "Washington",
-      "category": "geopolitics",
-      "date": "2026-10-16",
-      "time": "14:12",
-      "conflict_id": "ukraine-war",
-      "score": 41.0
-    },
-    {
-      "id": "2026-10-16-965696a3",
-      "headline": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
-      "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-offDeforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows.But whether this globally important success is maintained or reversed is on a knife edge ahead of a presidential election run-off on 25 October between two candidates with sharply different visions for the future of the ra",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "19:37",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
-      "id": "2026-10-16-a7de4e7a",
-      "headline": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
-      "summary": "Police said 160 people were detained following violent incidents on Thursday evening.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "17:25",
-      "conflict_id": null,
-      "score": 37.0
-    },
-    {
       "id": "2026-10-16-36dc0d8c",
       "headline": "India's 'cockroach' party founder detained ahead of protest",
       "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders.",
@@ -730,34 +786,6 @@
       "time": "11:44",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-10-16-063cefa1",
-      "headline": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
-      "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/e2acd655-0a6a-4de6-9404-c838f6e7b8cb?syn-25a6b1a6=1",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "10:00",
-      "conflict_id": null,
-      "score": 34.4
-    },
-    {
-      "id": "2026-10-16-8681f26e",
-      "headline": "Big Tech stocks suffer biggest weekly drop since ‘liberation day’",
-      "summary": "AI trade jitters send investors scrambling for government debt in a move that halts a months-long Treasury sell-off",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/4c4f03f4-f878-4bd6-8128-5be7e3bb8ca1?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": null,
-      "category": "business",
-      "date": "2026-10-16",
-      "time": "20:42",
-      "conflict_id": null,
-      "score": 34.4
     },
     {
       "id": "2026-10-16-58474c58",
@@ -816,18 +844,32 @@
       "score": 34.1
     },
     {
-      "id": "2026-10-16-4d89d474",
-      "headline": "What Measures Keep Students Safe? Prevention, Not Defenses, Experts Say",
-      "summary": "The gunman who killed four in Bend, Ore., entered an elementary school by shooting through a locked door, raising questions about what more schools can do to protect children.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/10/16/us/bend-oregon-school-shooting-safety-measures-prevention-defenses.html",
+      "id": "2026-10-16-149a531a",
+      "headline": "Big US Bank Stocks Log Worst Weekly Losing Streak Since 2008",
+      "summary": "Big US bank shares recorded their worst weekly losing streak since the 2008 Global Financial Crisis after quarterly earnings didn’t do enough to lift sentiment for the ailing sector.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-16/big-us-bank-shares-set-for-worst-weekly-losing-streak-since-2008",
       "region": "NA",
       "country": null,
-      "category": "geopolitics",
+      "category": "business",
       "date": "2026-10-16",
-      "time": "20:07",
+      "time": "17:13",
       "conflict_id": null,
-      "score": 33.2
+      "score": 34.1
+    },
+    {
+      "id": "2026-10-16-965696a3",
+      "headline": "Brazilian Amazon deforestation falls to lowest on record as pivotal vote looms",
+      "summary": "Forest clearance at smallest total since records began in 1988 in success for Lula ahead of presidential run-offDeforestation in the Brazilian Amazon has fallen to its lowest level since records began, new government data shows.But whether this globally important success is maintained or reversed is on a knife edge ahead of a presidential election run-off on 25 October between two candidates with sharply different visions for the future of the ra",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-10-16",
+      "time": "19:37",
+      "conflict_id": null,
+      "score": 32.0
     },
     {
       "id": "2026-10-16-64625d34",
@@ -844,32 +886,18 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-16-4edbe488",
-      "headline": "Albanian PM blames ‘foreign hands’ for unrest as student protests intensify",
-      "summary": "Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss",
-      "region": "MENA",
+      "id": "2026-10-16-a7de4e7a",
+      "headline": "Albanian PM blames 'foreign hands' for escalating anti-government unrest",
+      "summary": "Police said 160 people were detained following violent incidents on Thursday evening.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/16/albanian-pm-blames-foreign-hands-for-escalating-anti-government-unrest",
+      "region": "EU",
       "country": null,
       "category": "politics",
       "date": "2026-10-16",
-      "time": "23:27",
+      "time": "17:25",
       "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-10-16-6322acaf",
-      "headline": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
-      "summary": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here&#039;s how it works.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-10-16",
-      "time": "21:08",
-      "conflict_id": null,
-      "score": 31.4
+      "score": 29.0
     },
     {
       "id": "2026-10-16-ac1ceccf",
@@ -882,20 +910,6 @@
       "category": "politics",
       "date": "2026-10-16",
       "time": "16:21",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-10-16-66c5c8d1",
-      "headline": "Uzbekistan signs $4.7bn energy deals and outlines plans for two more nuclear power plants",
-      "summary": "Foreign firms including ACWA Power, EDF and Toyota Tsusho are involved in projects covering 3,000 MW of generating capacity and 400 MW of storage. Tashkent is also preparing 128 oil and gas exploration blocks for investors and pursuing a future electricity connection to Europe.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/16/uzbekistan-signs-47bn-energy-deals-and-outlines-plans-for-two-more-nuclear-power-plants",
-      "region": "EU",
-      "country": "Europe",
-      "category": "business",
-      "date": "2026-10-16",
-      "time": "14:44",
       "conflict_id": null,
       "score": 29.0
     },
@@ -928,16 +942,16 @@
       "score": 27.0
     },
     {
-      "id": "2026-10-16-6eff4f19",
-      "headline": "China tells Israel to stop 'forced establishment' of West Bank settlements",
-      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "id": "2026-10-16-94fdc95f",
+      "headline": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
       "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
+      "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
       "date": "2026-10-16",
-      "time": "08:45",
+      "time": "18:11",
       "conflict_id": null,
       "score": 27.0
     },
@@ -952,6 +966,20 @@
       "category": "politics",
       "date": "2026-10-16",
       "time": "19:09",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-10-16-6eff4f19",
+      "headline": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+      "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-16",
+      "time": "08:45",
       "conflict_id": null,
       "score": 27.0
     },
@@ -984,48 +1012,6 @@
       "score": 24.0
     },
     {
-      "id": "2026-10-16-bf8ad81b",
-      "headline": "Trump mocks Middle Eastern names with ‘Mohammed’ joke",
-      "summary": "“If you’re in doubt about somebody’s name from the Middle East, just say ‘Mohammed,’” says US President Donald Trump.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/trump-mocks-middle-eastern-names-with-mohammed-joke?traffic_source=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "23:55",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-10-16-5ac82af9",
-      "headline": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
-      "summary": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
-      "region": "SA",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "21:08",
-      "conflict_id": null,
-      "score": 23.4
-    },
-    {
-      "id": "2026-10-16-635c0b73",
-      "headline": "Sanchez rejects criticism of Spain's migration policy: 'Words do not match reality'",
-      "summary": "Spain's prime minister defended the country's record on tackling irregular migration amid criticism of its mass regularisation plan, while Ursula von der Leyen called for full implementation of the EU migration and asylum pact.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/16/sanchez-rejects-criticism-of-spains-migration-policy-words-do-not-match-reality",
-      "region": "EU",
-      "country": "Spain",
-      "category": "politics",
-      "date": "2026-10-16",
-      "time": "20:30",
-      "conflict_id": null,
-      "score": 21.0
-    },
-    {
       "id": "2026-10-15-fe3eaf71",
       "headline": "Watch: Pupils heard 'cracking' sound  moments before Pakistan school roof collapse",
       "summary": "Our Urdu correspondent reports from the scene in Peshawar, north-west Pakistan, where emergency services have been responding to the incident.",
@@ -1037,7 +1023,7 @@
       "date": "2026-10-15",
       "time": "15:05",
       "conflict_id": null,
-      "score": 59.0
+      "score": 51.0
     },
     {
       "id": "2026-10-15-a054d546",
@@ -1096,48 +1082,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-15-ae110b51",
-      "headline": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "summary": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "geopolitics",
-      "date": "2026-10-15",
-      "time": "17:47",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-10-15-a675e376",
-      "headline": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-10-15",
-      "time": "23:27",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-10-15-96169252",
-      "headline": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
-      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Yemen",
-      "category": "politics",
-      "date": "2026-10-15",
-      "time": "23:38",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-15-6d71b64e",
       "headline": "Are student protests being manipulated ahead of France's presidential election?",
       "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too.",
@@ -1162,6 +1106,34 @@
       "category": "politics",
       "date": "2026-10-15",
       "time": "16:15",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-10-15-96169252",
+      "headline": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
+      "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Yemen",
+      "category": "politics",
+      "date": "2026-10-15",
+      "time": "23:38",
+      "conflict_id": null,
+      "score": 27.0
+    },
+    {
+      "id": "2026-10-15-01693a6a",
+      "headline": "Hundreds of IDF investigations into killings still have no public outcome, BBC Verify finds",
+      "summary": "BBC Verify has identified 254 incidents from the past three years the Israeli military said it is reviewing after being accused of harm.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/c574e228vlygo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-15",
+      "time": "05:00",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1222,20 +1194,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-10-14-b1c38778",
-      "headline": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
-      "summary": "Article in Atlantic claims The Blue Fighter was artificially generated, days after it won Caine prize for African writersThe Zimbabwean writer Simbarashe Kundizeza has denied using AI to write a prize-winning short story after an article in the Atlantic said software had flagged it as almost completely AI-generated.Kundizeza’s story The Blue Fighter was announced as the winner of the prestigious Caine prize for African writers on 6 October. Five ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/technology/2026/oct/14/zimbabwean-author-simbarashe-kundizeza-denies-ai-story",
-      "region": "NA",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-10-14",
-      "time": "19:01",
-      "conflict_id": null,
-      "score": 32.0
-    },
-    {
       "id": "2026-10-14-42747186",
       "headline": "What if you could turn off your algorithm? Australia is about to try",
       "summary": "New legislation is being tabled in Australia's parliament on Thursday to force big tech to allow users to switch off algorithms which send them recommended content.",
@@ -1262,20 +1220,6 @@
       "time": "23:32",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-10-14-f92e65e7",
-      "headline": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
-      "summary": "Health minister says government ‘did not authorize’ Danish-led hepatitis B trial in babies backed by RFK JrGuinea-Bissau has not approved the controversial hepatitis B study in newborns that would be funded by the US government and private partners, the African country’s minister of health said on Tuesday.The study, which would not investigate the safety or effectiveness of vaccines but would instead track “nonspecific” health outcomes like overa",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-14",
-      "time": "13:16",
-      "conflict_id": null,
-      "score": 24.0
     },
     {
       "id": "2026-10-13-4391cb1d",
@@ -1374,6 +1318,20 @@
       "time": "16:28",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-10-12-2ba746f3",
+      "headline": "Bartleby newsletter: Tiny workplace triumphs",
+      "summary": "Andrew Palmer, our Bartleby columnist, celebrates our readers’ finest micro-achievements",
+      "source": "The Economist",
+      "url": "https://www.economist.com/business/2026/10/12/bartleby-newsletter-tiny-workplace-triumphs",
+      "region": "EU",
+      "country": null,
+      "category": "business",
+      "date": "2026-10-12",
+      "time": "13:52",
+      "conflict_id": null,
+      "score": 25.8
     }
   ]
 }
