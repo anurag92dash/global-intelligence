@@ -6,23 +6,23 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-10-20",
     "recent_headlines": [
+      {
+        "headline": "US allegedly holding up delivery of Patriot air defence missiles, Zelenskyy says",
+        "source": "Euronews",
+        "date": "2026-10-20"
+      },
+      {
+        "headline": "Europe Today: Blame continues in France, Russia kills two children in Kharkiv",
+        "source": "Euronews",
+        "date": "2026-10-20"
+      },
       {
         "headline": "Trump envoys to hold fresh Ukraine talks as energy crunch looms over midterms",
         "source": "Financial Times",
         "date": "2026-10-20"
-      },
-      {
-        "headline": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
-        "source": "BBC News",
-        "date": "2026-10-19"
-      },
-      {
-        "headline": "Tennis star Svitolina says emotional toll of Ukraine war led to Monfils separation",
-        "source": "BBC News",
-        "date": "2026-10-19"
       }
     ],
     "timeline": [
@@ -52,12 +52,12 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-10-19",
+    "last_activity": "2026-10-20",
     "recent_headlines": [
       {
-        "headline": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
-        "source": "BBC News",
-        "date": "2026-10-19"
+        "headline": "Hegseth meets Netanyahu in unannounced Israel visit",
+        "source": "Al Jazeera",
+        "date": "2026-10-20"
       },
       {
         "headline": "Funding shortages force World Food Programme to cut aid to Gaza",
@@ -65,9 +65,9 @@
         "date": "2026-10-19"
       },
       {
-        "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "headline": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
         "source": "BBC News",
-        "date": "2026-10-16"
+        "date": "2026-10-19"
       }
     ],
     "timeline": [
@@ -131,6 +131,11 @@
     "last_activity": "2026-10-20",
     "recent_headlines": [
       {
+        "headline": "US Supreme Court to hear case on race in school admissions",
+        "source": "Al Jazeera",
+        "date": "2026-10-20"
+      },
+      {
         "headline": "Exiled critic of Rwandan president found beheaded in Uganda",
         "source": "Al Jazeera",
         "date": "2026-10-20"
@@ -138,11 +143,6 @@
       {
         "headline": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
         "source": "BBC News",
-        "date": "2026-10-19"
-      },
-      {
-        "headline": "French authorities announce partial curfews as PM blames ‘ultra-left’ for exploiting protests – as it happened",
-        "source": "The Guardian",
         "date": "2026-10-19"
       }
     ],
@@ -179,11 +179,6 @@
       {
         "headline": "160 people reported killed in escalating drone attacks across Sudan",
         "source": "Al Jazeera",
-        "date": "2026-10-19"
-      },
-      {
-        "headline": "Bomb threat forces Israel to Austria flight into emergency landing",
-        "source": "BBC News",
         "date": "2026-10-19"
       }
     ],
