@@ -7,8 +7,13 @@
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
     "status_signal": "escalating",
-    "last_activity": "2026-10-20",
+    "last_activity": "2026-10-21",
     "recent_headlines": [
+      {
+        "headline": "How Zelensky Is Trying to Navigate Trump’s Tilt Toward Russia",
+        "source": "New York Times",
+        "date": "2026-10-21"
+      },
       {
         "headline": "US has resumed sharing intelligence with Ukraine about Russian strikes, says Zelenskyy",
         "source": "The Guardian",
@@ -17,11 +22,6 @@
       {
         "headline": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
         "source": "BBC News",
-        "date": "2026-10-20"
-      },
-      {
-        "headline": "Ukraine thankful that intelligence on missile strikes ‘works now’, says Zelenskyy – as it happened",
-        "source": "The Guardian",
         "date": "2026-10-20"
       }
     ],
@@ -52,22 +52,22 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-10-20",
+    "last_activity": "2026-10-19",
     "recent_headlines": [
-      {
-        "headline": "Jerusalem Daily: half a million Palestinians lose food aid",
-        "source": "Al Jazeera",
-        "date": "2026-10-20"
-      },
-      {
-        "headline": "Can a humanitarian crisis in Gaza be averted?",
-        "source": "Al Jazeera",
-        "date": "2026-10-20"
-      },
       {
         "headline": "Funding shortages force World Food Programme to cut aid to Gaza",
         "source": "BBC News",
         "date": "2026-10-19"
+      },
+      {
+        "headline": "Israeli police arrest 10 over settler attacks on journalist and diplomats in West Bank",
+        "source": "BBC News",
+        "date": "2026-10-19"
+      },
+      {
+        "headline": "Palestinians and US journalist injured by Israeli settlers in West Bank harvest attack",
+        "source": "BBC News",
+        "date": "2026-10-16"
       }
     ],
     "timeline": [
