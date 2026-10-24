@@ -1,6 +1,6 @@
 {
-  "updated": "2026-10-24T17:34:19.220766+00:00",
-  "story_count": 84,
+  "updated": "2026-10-24T19:45:21.625691+00:00",
+  "story_count": 85,
   "source_count": 9,
   "stories": [
     {
@@ -18,6 +18,20 @@
       "score": 68.0
     },
     {
+      "id": "2026-10-24-31c5dec4",
+      "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
+      "summary": "Days before tight elections are due to be held in Israel, Prime Minister Benjamin Netanyahu has announced a massive operation on the West Bank after two Israeli soldiers were killed by militants at a checkpoint.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "14:31",
+      "conflict_id": "israel-hamas",
+      "score": 65.0
+    },
+    {
       "id": "2026-10-24-603dacf1",
       "headline": "Ukraine military says Starlink service restrictions have been lifted",
       "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
@@ -30,20 +44,6 @@
       "time": "13:16",
       "conflict_id": "ukraine-war",
       "score": 62.4
-    },
-    {
-      "id": "2026-10-24-31c5dec4",
-      "headline": "Israel removes around 250 Palestinian families from West Bank city of Hebron after soldier deaths",
-      "summary": "Days before tight elections are due to be held in Israel, Prime Minister Benjamin Netanyahu has announced a massive operation on the West Bank after two Israeli soldiers were killed by militants at a checkpoint.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/24/israel-removes-around-250-palestinian-families-from-west-bank-city-of-hebron-after-soldier",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "politics",
-      "date": "2026-10-24",
-      "time": "14:31",
-      "conflict_id": "israel-hamas",
-      "score": 57.0
     },
     {
       "id": "2026-10-24-7cdbec40",
@@ -88,6 +88,48 @@
       "score": 51.0
     },
     {
+      "id": "2026-10-24-e1077258",
+      "headline": "Tens of thousands of Lula supporters rally on eve of Brazilian election runoff",
+      "summary": "Nearly 159 million people to head to polls on Sunday in battle between leftwing incumbent and Flávio BolsonaroTens of thousands of supporters of Brazil’s leftwing president, Luiz Inácio Lula da Silva, have streamed on to Rio’s most famous beach for a giant protest they hope will propel him towards a historic election fightback against his far-right rival, Flávio Bolsonaro.Nearly 159m Brazilians will vote in the election’s runoff on Sunday, with t",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro",
+      "region": "NA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "18:11",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
+      "id": "2026-10-24-66e081ee",
+      "headline": "Hundreds of thousands march in France as protests take place across Europe – Europe live",
+      "summary": "French police have made 1,000 arrests and Italian officers have raided homes in Milan, with protests also taking place in Spain and AlbaniaJesse, 40, a charity worker from the north of Paris, had turned out for the street march.She said: “I’m so angry. I’m here to support schoolchildren’s demands for better conditions. I’m so proud of them and we have to stand together.” Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/live/2026/oct/24/france-demonstrations-police-macron-italy-albania-belgium-spain-ukraine-russia-europe-latest-news",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "19:37",
+      "conflict_id": null,
+      "score": 48.0
+    },
+    {
+      "id": "2026-10-24-897e642a",
+      "headline": "Thousands of Israelis rally against Netanyahu gov’t days before election",
+      "summary": "Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "19:11",
+      "conflict_id": null,
+      "score": 47.4
+    },
+    {
       "id": "2026-10-24-468d6581",
       "headline": "Ukraine says Starlink connection 'now stable' after network limits",
       "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
@@ -100,6 +142,20 @@
       "time": "12:12",
       "conflict_id": null,
       "score": 43.0
+    },
+    {
+      "id": "2026-10-24-081094fa",
+      "headline": "Hundreds of thousands protest in France in second weekend of mass demonstrations",
+      "summary": "Government puts 70,000 police officers on the streets to boost security after last weekend’s riots",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/643b2bc6-2963-4759-82ae-03db082c71f7?syn-25a6b1a6=1",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "17:13",
+      "conflict_id": null,
+      "score": 42.4
     },
     {
       "id": "2026-10-24-c56c2cef",
@@ -158,18 +214,46 @@
       "score": 40.0
     },
     {
-      "id": "2026-10-24-efaff55b",
-      "headline": "Is Iran planning attacks on Americans; why is the US on alert?",
-      "summary": "US intelligence memo warns that Iranian plots against US citizens in the Middle East &#039;have reached advanced stages&#039;.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/is-iran-planning-attacks-on-americans-why-is-the-us-on-alert?traffic_source=rss",
-      "region": "NA",
-      "country": "America",
-      "category": "geopolitics",
+      "id": "2026-10-24-5c43d8b2",
+      "headline": "Hundreds of thousands march across France in protests over schools and policing",
+      "summary": "Government estimates at least 400,000 people took part, but trade unions say the number is double thatHundreds of thousands marched in cities across France on Saturday in largely peaceful protests to support schoolchildren’s demands for more teachers and repairs to dilapidated buildings, as Emmanuel Macron faces a social and political crisis in his final months as president.In Paris, at least 110,000 people marched along the eastern edge of the c",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/hundreds-of-thousands-march-across-france-in-protests-over-schools-and-policing",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
       "date": "2026-10-24",
-      "time": "12:51",
+      "time": "17:54",
+      "conflict_id": null,
+      "score": 40.0
+    },
+    {
+      "id": "2026-10-24-326cf112",
+      "headline": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
+      "summary": "The race between Brazil&#039;s president and the right-wing senator has tightened in recent days.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
+      "region": "EU",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "15:36",
       "conflict_id": null,
       "score": 39.4
+    },
+    {
+      "id": "2026-10-24-cc22e0f3",
+      "headline": "Palestinian families displaced as Israeli forces demolish Hebron homes",
+      "summary": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-24",
+      "time": "17:21",
+      "conflict_id": null,
+      "score": 35.0
     },
     {
       "id": "2026-10-24-60baccae",
@@ -184,6 +268,20 @@
       "time": "07:17",
       "conflict_id": null,
       "score": 35.0
+    },
+    {
+      "id": "2026-10-24-01f87410",
+      "headline": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+      "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
+      "source": "Financial Times",
+      "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-24",
+      "time": "19:19",
+      "conflict_id": null,
+      "score": 34.4
     },
     {
       "id": "2026-10-24-90522ef0",
@@ -214,8 +312,22 @@
       "score": 34.1
     },
     {
-      "id": "2026-10-24-1a624b56",
-      "headline": "New York Archdiocese Close to Settling Sexual Abuse Claims for Over $800 Million",
+      "id": "2026-10-24-58cd6900",
+      "headline": "Republicans Aim to Push Trans Issues to Front Burner in Final Days Before Election",
+      "summary": "In an election that has often focused on the economy, Republican groups are featuring transgender issues in ads, portraying Democrats as extreme and out of touch.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/24/us/transgender-midterm-election.html",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "17:17",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-10-24-811ff3d0",
+      "headline": "New York Archdiocese Agrees to Settle Sexual Abuse Claims for Over $800 Million",
       "summary": "The Roman Catholic archdiocese might now avoid bankruptcy by reaching a settlement with 1,300 people who said they had been abused by clergy members and lay leaders.",
       "source": "New York Times",
       "url": "https://www.nytimes.com/2026/10/24/us/archdiocese-new-york-sexual-abuse-settlement.html",
@@ -223,23 +335,37 @@
       "country": "Oman",
       "category": "business",
       "date": "2026-10-24",
-      "time": "04:12",
+      "time": "19:03",
       "conflict_id": null,
       "score": 33.2
     },
     {
-      "id": "2026-10-24-f3791d2c",
-      "headline": "Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say",
-      "summary": "The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html",
-      "region": "MENA",
-      "country": "America",
+      "id": "2026-10-24-6689ae4d",
+      "headline": "Kim Jong-un crosses newly opened bridge into China",
+      "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour.The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North ",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
+      "region": "APJ",
+      "country": "South Korea",
       "category": "geopolitics",
       "date": "2026-10-24",
-      "time": "16:09",
+      "time": "13:34",
       "conflict_id": null,
-      "score": 33.2
+      "score": 32.0
+    },
+    {
+      "id": "2026-10-24-7045d7eb",
+      "headline": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "summary": "Kim Jong Un crosses new bridge linking North Korea and China",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/kim-jong-un-crosses-new-bridge-linking-north-korea-and-china?traffic_source=rss",
+      "region": "APJ",
+      "country": "North Korea",
+      "category": "geopolitics",
+      "date": "2026-10-24",
+      "time": "18:00",
+      "conflict_id": null,
+      "score": 31.4
     },
     {
       "id": "2026-10-24-04ada27e",
@@ -252,20 +378,6 @@
       "category": "politics",
       "date": "2026-10-24",
       "time": "17:01",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-10-24-326cf112",
-      "headline": "Brazil’s Lula and Bolsonaro about even ahead of election run-off: Poll",
-      "summary": "The race between Brazil&#039;s president and the right-wing senator has tightened in recent days.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-about-even-ahead-of-election-run-off-poll?traffic_source=rss",
-      "region": "EU",
-      "country": "Brazil",
-      "category": "politics",
-      "date": "2026-10-24",
-      "time": "15:36",
       "conflict_id": null,
       "score": 31.4
     },
@@ -312,16 +424,16 @@
       "score": 31.4
     },
     {
-      "id": "2026-10-24-2991601b",
-      "headline": "Serbia elections test student movement demanding justice for 16 victims",
-      "summary": "Serbia elections test student movement demanding justice for 16 victims",
+      "id": "2026-10-24-ef62a2bc",
+      "headline": "Iran says won’t allow US warships to get close as Trump ponders new attacks",
+      "summary": "Iranian officials, media and analysts sense war is closer, but signal there will be no backing down.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/serbia-elections-test-student-movement-demanding-justice-for-16-victims?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
+      "url": "https://www.aljazeera.com/news/2026/10/24/iran-says-wont-allow-us-warships-to-get-close-as-trump-ponders-new-attacks?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "geopolitics",
       "date": "2026-10-24",
-      "time": "12:18",
+      "time": "13:06",
       "conflict_id": null,
       "score": 31.4
     },
@@ -352,6 +464,20 @@
       "time": "",
       "conflict_id": null,
       "score": 30.8
+    },
+    {
+      "id": "2026-10-24-443262ce",
+      "headline": "Euronews on the ground as hundreds of thousands take to the streets of Paris",
+      "summary": "The government has blamed the hard-left France Unbowed (LFI) party and Jean-Luc Mélenchon for what it says is stoking violence, an accusation the party denies.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/video/2026/10/24/euronews-on-the-ground-as-hundreds-of-thousands-take-to-the-streets-of-paris",
+      "region": "EU",
+      "country": "France",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "18:51",
+      "conflict_id": null,
+      "score": 29.0
     },
     {
       "id": "2026-10-24-211d2a7f",
@@ -480,20 +606,6 @@
       "score": 26.1
     },
     {
-      "id": "2026-10-24-6689ae4d",
-      "headline": "Kim Jong-un crosses newly opened bridge into China",
-      "summary": "North Korean leader travels over New Yalu River Bridge to meet senior Communist party memberKim Jong-un has visited China, inaugurating a bridge that connects the two countries and saying he hopes to expand cooperation with his neighbour.The North Korean leader arrived in the Chinese border city of Dandong on Saturday after crossing the New Yalu River Bridge, according to South Korea’s unification ministry, which handles affairs related to North ",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/24/kim-jong-un-crosses-newly-opened-bridge-into-china",
-      "region": "APJ",
-      "country": "South Korea",
-      "category": "geopolitics",
-      "date": "2026-10-24",
-      "time": "13:34",
-      "conflict_id": null,
-      "score": 24.0
-    },
-    {
       "id": "2026-10-24-f91cfb32",
       "headline": "Helen Haines’s condition improves days after losing both legs from alleged attack",
       "summary": "Independent MP now serious but stable, according to update from Melbourne’s Alfred hospitalGet our breaking news email, free app or daily news podcastIndependent MP Helen Haines’s condition has been downgraded to serious but stable after she lost both legs following an alleged attack near her electorate office in north-east Victoria on Monday afternoon.The Alfred hospital in Melbourne provided an update on Haines’s condition on Saturday morning. ",
@@ -508,16 +620,30 @@
       "score": 24.0
     },
     {
-      "id": "2026-10-24-3ce69ee8",
-      "headline": "Security forces deploy as Milan braces for another day of protests",
-      "summary": "The Italian government has sent hundreds of soldiers to the country&#039;s financial hub ahead of anticipated unrest.",
+      "id": "2026-10-24-fb4ac5d7",
+      "headline": "Thousands join Paris protests as authorities clamp down on disorder",
+      "summary": "Thousands of protesters are on the streets of Paris for a second weekend.",
       "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/24/security-forces-deploy-as-milan-braces-for-another-day-of-protests?traffic_source=rss",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss",
       "region": "MENA",
       "country": null,
       "category": "politics",
       "date": "2026-10-24",
-      "time": "15:05",
+      "time": "19:01",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-10-24-96cb4cc6",
+      "headline": "Thousands gather at new Albanian antigovernment rally",
+      "summary": "More than 300 protesters and police were injured in the Albanian capital Tirana&#039;s fiercest clashes in days.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/24/thousands-gather-at-new-albanian-antigovernment-rally?traffic_source=rss",
+      "region": "MENA",
+      "country": "Iran",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "18:30",
       "conflict_id": null,
       "score": 23.4
     },
@@ -592,8 +718,22 @@
       "score": 22.8
     },
     {
-      "id": "2026-10-24-42dfba14",
-      "headline": "Thousands rally in Tirana as anti-government protests persist",
+      "id": "2026-10-24-85b0dbc9",
+      "headline": "Rallies, opinion polls and a final debate - Brazil gets ready for Sunday's knife-edge presidential election",
+      "summary": "Lula against Flavio - both candidates in the second-round presidential election in Brazil hold rallies in major cities on the last day of campaigning. With around 20% of the electorate having abstained in the first round, the result is wide open and opinion polls show them neck and neck.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/24/rallies-opinion-polls-and-a-final-debate-brazil-gets-ready-for-sundays-knife-edge-presiden",
+      "region": "SA",
+      "country": "Brazil",
+      "category": "politics",
+      "date": "2026-10-24",
+      "time": "17:54",
+      "conflict_id": null,
+      "score": 21.0
+    },
+    {
+      "id": "2026-10-24-1b9ec420",
+      "headline": "Violent protests shake Tirana as police use tear gas and water cannons against demonstrators",
       "summary": "Opposition supporters and students mobilised in the Albanian capital, with riot police using water cannons on large groups of protesters. Authorities said 2,500 police officers were deployed to the streets of Tirana.",
       "source": "Euronews",
       "url": "https://www.euronews.com/2026/10/24/tensions-rise-in-albania-as-protesters-burn-symbolic-pillows-outside-prime-ministers-offic",
@@ -618,20 +758,6 @@
       "time": "11:55",
       "conflict_id": null,
       "score": 21.0
-    },
-    {
-      "id": "2026-10-23-9ee0530d",
-      "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
-      "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-10-23",
-      "time": "15:37",
-      "conflict_id": "israel-hamas",
-      "score": 55.0
     },
     {
       "id": "2026-10-23-13229893",
@@ -660,20 +786,6 @@
       "time": "07:53",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-10-23-ec740220",
-      "headline": "Why a student protest movement is challenging 12 years of Vučić rule in Serbia",
-      "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-23",
-      "time": "06:26",
-      "conflict_id": null,
-      "score": 35.0
     },
     {
       "id": "2026-10-23-ac4f08c6",
@@ -732,20 +844,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-23-8a1ad3f9",
-      "headline": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
-      "summary": "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-23",
-      "time": "23:08",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-23-252f735c",
       "headline": "Trump administration sues to block certification of upcoming Alaska election",
       "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters.",
@@ -802,20 +900,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-10-23-b824a567",
-      "headline": "Denmark to ban mink farming in government U-turn",
-      "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": "Denmark",
-      "category": "politics",
-      "date": "2026-10-23",
-      "time": "12:17",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-23-7f3b911c",
       "headline": "Rubio turns to small Indian town as US faces high oil prices",
       "summary": "US Secretary of State Marco Rubio pushed a business and energy agenda over diplomacy on his second trip to India this year.",
@@ -856,20 +940,6 @@
       "time": "22:28",
       "conflict_id": null,
       "score": 26.4
-    },
-    {
-      "id": "2026-10-23-8fe9a7e3",
-      "headline": "A MAGA Bank’s Financial Woes Entangle Vivek Ramaswamy and Rick Jackson",
-      "summary": "Georgia’s Rick Jackson has spearheaded a court battle over a failed ‘anti-woke’ bank that also counted Ohio’s Vivek Ramaswamy as a major investor.",
-      "source": "New York Times",
-      "url": "https://www.nytimes.com/2026/10/23/us/rick-jackson-bankruptcy-court-glorifi.html",
-      "region": "NA",
-      "country": null,
-      "category": "business",
-      "date": "2026-10-23",
-      "time": "22:01",
-      "conflict_id": null,
-      "score": 25.2
     },
     {
       "id": "2026-10-23-c87efea1",
@@ -928,20 +998,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-22-5ba709ca",
-      "headline": "Paris extends curfew as Marseille and Lyon ban protests after riots",
-      "summary": "Protests will only be allowed in some towns and cities if organised by unions, and top museums will be closed on Saturday.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-22",
-      "time": "19:25",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-22-039703b0",
       "headline": "How Arab parties could hold critical balance of power in Israeli election",
       "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition.",
@@ -966,20 +1022,6 @@
       "category": "geopolitics",
       "date": "2026-10-22",
       "time": "09:27",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-10-22-7125385c",
-      "headline": "No order, no seat: Starbucks China rolls out new store policy",
-      "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
-      "region": "APJ",
-      "country": "China",
-      "category": "geopolitics",
-      "date": "2026-10-22",
-      "time": "04:02",
       "conflict_id": null,
       "score": 27.0
     },
@@ -1040,20 +1082,6 @@
       "score": 43.0
     },
     {
-      "id": "2026-10-21-e7be09e5",
-      "headline": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-      "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Trump",
-      "category": "politics",
-      "date": "2026-10-21",
-      "time": "02:37",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-20-0cf5bede",
       "headline": "Houthi missile strike on Yemen camp kills 73 security recruits, local authorities say",
       "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says.",
@@ -1080,20 +1108,6 @@
       "time": "23:21",
       "conflict_id": null,
       "score": 35.0
-    },
-    {
-      "id": "2026-10-20-f8787412",
-      "headline": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
-      "summary": "Result is a victory for prime minister Mark Carney and supporters of Canadian unityVoters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement.With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, accord",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum",
-      "region": "NA",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-10-20",
-      "time": "16:24",
-      "conflict_id": null,
-      "score": 32.0
     },
     {
       "id": "2026-10-20-20d981d3",
