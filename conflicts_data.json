@@ -6,7 +6,7 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-10-28",
     "recent_headlines": [
       {
@@ -15,14 +15,14 @@
         "date": "2026-10-28"
       },
       {
+        "headline": "Putin hails Elon Musk’s ‘genius’ amid plans for Russian version of Starlink",
+        "source": "The Guardian",
+        "date": "2026-10-28"
+      },
+      {
         "headline": "Ceasefire extended across Ukraine's Kherson region, officials say",
         "source": "BBC News",
         "date": "2026-10-27"
-      },
-      {
-        "headline": "Surveillance and 'constant paranoia': Western diplomats tell BBC of life in war-time Moscow",
-        "source": "BBC News",
-        "date": "2026-10-22"
       }
     ],
     "timeline": [
@@ -51,14 +51,9 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "escalating",
+    "status_signal": "stable",
     "last_activity": "2026-10-28",
     "recent_headlines": [
-      {
-        "headline": "What are the implications of Israel’s elections?",
-        "source": "Al Jazeera",
-        "date": "2026-10-28"
-      },
       {
         "headline": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
         "source": "The Guardian",
@@ -66,6 +61,11 @@
       },
       {
         "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "source": "BBC News",
+        "date": "2026-10-28"
+      },
+      {
+        "headline": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
         "source": "BBC News",
         "date": "2026-10-28"
       }
@@ -128,22 +128,22 @@
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
     "status_signal": "stable",
-    "last_activity": "2026-10-28",
+    "last_activity": "2026-10-29",
     "recent_headlines": [
       {
-        "headline": "EU and Canada explore LNG deal as Europe grapples with gas crisis",
-        "source": "Euronews",
-        "date": "2026-10-28"
+        "headline": "Judge rejects Trump effort to block California ‘noncitizen’ ballots",
+        "source": "Al Jazeera",
+        "date": "2026-10-29"
       },
       {
-        "headline": "Death toll rises to 68 with dozens injured after high-speed train collision in Spain – as it happened",
-        "source": "The Guardian",
-        "date": "2026-10-28"
+        "headline": "Anthropic IPO: How Investors in Asia Can Get In",
+        "source": "Bloomberg",
+        "date": "2026-10-29"
       },
       {
-        "headline": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "source": "BBC News",
-        "date": "2026-10-28"
+        "headline": "Anthropic’s IPO Plans Draw Skepticism From Australian CIOs",
+        "source": "Bloomberg",
+        "date": "2026-10-29"
       }
     ],
     "timeline": [
@@ -169,8 +169,13 @@
     "auto_status": false,
     "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
     "status_signal": "stable",
-    "last_activity": "2026-10-26",
+    "last_activity": "2026-10-29",
     "recent_headlines": [
+      {
+        "headline": "Strikes on Darfur market in Sudan killed more than 100, rights group says",
+        "source": "Al Jazeera",
+        "date": "2026-10-29"
+      },
       {
         "headline": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
         "source": "The Guardian",
