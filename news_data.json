@@ -1,8 +1,22 @@
 {
-  "updated": "2026-10-31T18:53:00.116144+00:00",
-  "story_count": 84,
+  "updated": "2026-10-31T21:58:16.241875+00:00",
+  "story_count": 85,
   "source_count": 9,
   "stories": [
+    {
+      "id": "2026-10-31-64416ddc",
+      "headline": "Evacuees from Russian-occupied Oleshky arrive in Ukraine amid localised truce between Kyiv and Moscow",
+      "summary": "It comes as Ukrainian President Volodymyr Zelenskyy said around 280,000 Ukrainian households had been left without power after Russian strikes overnight.",
+      "source": "Euronews",
+      "url": "https://www.euronews.com/2026/10/31/oleshky-evacuees-arrive-in-belarus-amid-localised-truce-between-kyiv-and-moscow",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-10-31",
+      "time": "12:05",
+      "conflict_id": "ukraine-war",
+      "score": 65.0
+    },
     {
       "id": "2026-10-31-ae6a2253",
       "headline": "Evacuees from Russian-occupied city arrive in Ukraine",
@@ -32,20 +46,6 @@
       "score": 57.0
     },
     {
-      "id": "2026-10-31-64eb61b0",
-      "headline": "US approves $2.1bn sale of Patriot interceptors to Ukraine",
-      "summary": "Volodymyr Zelenskyy welcomes ‘strong decision’ but calls for the missiles to be provided  immediately",
-      "source": "Financial Times",
-      "url": "https://www.ft.com/content/321cf4f9-d236-4b50-a52c-c2a21f7c447b?syn-25a6b1a6=1",
-      "region": "EU",
-      "country": "Ukraine",
-      "category": "geopolitics",
-      "date": "2026-10-31",
-      "time": "07:04",
-      "conflict_id": "ukraine-war",
-      "score": 54.4
-    },
-    {
       "id": "2026-10-31-10d60540",
       "headline": "At least four Palestinians killed in Gaza as Israeli attacks continue",
       "summary": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
@@ -60,18 +60,18 @@
       "score": 51.4
     },
     {
-      "id": "2026-10-31-64416ddc",
-      "headline": "Evacuees from Russian-occupied Oleshky arrive in Ukraine amid localised truce between Kyiv and Moscow",
-      "summary": "It comes as Ukrainian President Volodymyr Zelenskyy said around 280,000 Ukrainian households had been left without power after Russian strikes overnight.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/31/oleshky-evacuees-arrive-in-belarus-amid-localised-truce-between-kyiv-and-moscow",
+      "id": "2026-10-31-32fa9dc0",
+      "headline": "Oleshky evacuees reunite with families after truce allows crossing back into Ukraine",
+      "summary": "Residents of nearby villages line highway waving flags to greet the evacuees’ convoy from the Russian-occupied cityEvacuees from Russian-occupied Oleshky have been reunited with their families after crossing into Ukrainian-held territory on Saturday.The major rescue operation began on Friday and was carried out under the most significant truce since Russia’s full-scale invasion of Ukraine four and a half years ago. Continue reading...",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/world/2026/oct/31/oleshky-evacuees-reunite-with-families-after-truce-allows-crossing-into-ukraine",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-10-31",
-      "time": "12:05",
-      "conflict_id": "ukraine-war",
-      "score": 49.0
+      "time": "19:17",
+      "conflict_id": null,
+      "score": 48.0
     },
     {
       "id": "2026-10-31-dcc74b8f",
@@ -88,16 +88,44 @@
       "score": 45.0
     },
     {
-      "id": "2026-10-31-f683977e",
-      "headline": "US approves sale of 500 Patriot missiles to Ukraine",
-      "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+      "id": "2026-10-31-08308846",
+      "headline": "Turkiye’s Erdogan urges Russia and Ukraine to stop Black Sea attacks",
+      "summary": "Turkish president hosts Zelenskyy in Istanbul as the two leaders agree to work on a new Black Sea grain corridor.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/turkiyes-erdogan-urges-russia-and-ukraine-to-stop-black-sea-attacks?traffic_source=rss",
       "region": "EU",
       "country": "Ukraine",
       "category": "geopolitics",
       "date": "2026-10-31",
-      "time": "12:21",
+      "time": "20:09",
+      "conflict_id": "ukraine-war",
+      "score": 43.4
+    },
+    {
+      "id": "2026-10-31-18f2be10",
+      "headline": "Palestinians ‘Stealing their own olives’",
+      "summary": "In the occupied West Bank, Israeli settlers have turned olive harvesting into a deadly activity for Palestinians.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/palestinians-stealing-their-own?traffic_source=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-31",
+      "time": "19:18",
+      "conflict_id": "israel-hamas",
+      "score": 43.4
+    },
+    {
+      "id": "2026-10-31-4beaf742",
+      "headline": "Responsible or panicked? Meet the people around the world already preparing for crisis",
+      "summary": "Filter straws to a disposable toilet - people in the US, Japan, Sweden and Netherlands on what's in their emergency stashes.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/ckreypn92w49o?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": "Netherlands",
+      "category": "geopolitics",
+      "date": "2026-10-31",
+      "time": "01:32",
       "conflict_id": null,
       "score": 43.0
     },
@@ -116,6 +144,20 @@
       "score": 42.4
     },
     {
+      "id": "2026-10-31-69d95c49",
+      "headline": "Rubio Defends Russian G20 Presence Despite Criticism From Allies",
+      "summary": "Secretary of State Marco Rubio defended the US decision to include Russia in this year’s Group of 20 meetings after criticism from the European Union and other allies, calling dialogue the only way to end the war in Ukraine.",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-31/rubio-defends-russian-g20-presence-despite-criticism-from-allies",
+      "region": "EU",
+      "country": "Ukraine",
+      "category": "geopolitics",
+      "date": "2026-10-31",
+      "time": "20:41",
+      "conflict_id": null,
+      "score": 42.1
+    },
+    {
       "id": "2026-10-31-57775e9d",
       "headline": "EU’s Kallas Says Hosting Putin at G20 May Normalize War Crimes",
       "summary": "Vladimir Putin’s possible attendance at the Group of 20 leaders’ summit in Florida in December would risk regularizing Russia’s return to international forums while its war in Ukraine continues, according to the European Union’s top diplomat Kaja Kallas.",
@@ -130,9 +172,9 @@
       "score": 42.1
     },
     {
-      "id": "2026-10-31-785d360e",
-      "headline": "Protests under way in Germany and France as minister warns against use of Halloween masks – Europe live",
-      "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in finesProtesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon.Crowds of people have gathered in Paris for the protests, where two French student unions have called for a blockade of schools and universities on Tuesday and Thursday. Continue reading...",
+      "id": "2026-10-31-d8198aa8",
+      "headline": "Protests under way in Germany and France as minister warns against use of Halloween masks – as it happened",
+      "summary": "France’s interior minister, Laurent Nuñez, has warned protesters that covering their faces with Halloween costumes could result in finesFull report: Police clash with masked rioters after largely peaceful protests across FranceProtesters in Paris have begun marching from Porte de Bagnolet, with demonstrations also taking place in Lille and Lyon.Crowds of people have gathered in Paris for the protests, where two French student unions have called f",
       "source": "The Guardian",
       "url": "https://www.theguardian.com/world/live/2026/oct/31/france-germany-protests-paris-europe-latest-news-updates",
       "region": "EU",
@@ -142,34 +184,6 @@
       "time": "18:31",
       "conflict_id": null,
       "score": 40.0
-    },
-    {
-      "id": "2026-10-31-e908e469",
-      "headline": "Iran lawmakers call for withdrawal from NPT: Will we have war or peace?",
-      "summary": "Withdrawal from the nuclear treaty doses not mean that Iran would build a nuclear weapon, observers say.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/iran-lawmakers-call-for-withdrawal-from-npt-will-we-have-war-or-peace?traffic_source=rss",
-      "region": "MENA",
-      "country": "Iran",
-      "category": "geopolitics",
-      "date": "2026-10-31",
-      "time": "12:22",
-      "conflict_id": null,
-      "score": 39.4
-    },
-    {
-      "id": "2026-10-31-2a65544a",
-      "headline": "How many bats are killed by wind turbines? Study warns of ‘shocking’ increase amid clean energy boom",
-      "summary": "Researchers warn the death toll of bats has spiralled since the boom in wind energy – but there are solutions at hand.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/31/how-many-bats-are-killed-by-wind-turbines-study-warns-of-shocking-increase-amid-clean-ener",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-10-31",
-      "time": "06:02",
-      "conflict_id": null,
-      "score": 37.0
     },
     {
       "id": "2026-10-31-56c51663",
@@ -214,6 +228,34 @@
       "score": 34.4
     },
     {
+      "id": "2026-10-31-b511077f",
+      "headline": "Newsom Issues Warning to Judges About Election Interference From Trump Administration",
+      "summary": "California Gov. Gavin Newsom warned judges that the Trump administration may seek search warrants to seize ballots and voting machines.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/31/us/newsom-california-election-interference.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-10-31",
+      "time": "21:50",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
+      "id": "2026-10-31-037f470c",
+      "headline": "Trump’s Arch Faces New Legal Challenge From Virginia and D.C.",
+      "summary": "The two jurisdictions contend that President Trump’s proposed 250-foot arch is “flagrantly unlawful,” citing concerns over traffic, the environment and historic preservation.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/31/us/politics/trump-arch-virginia-dc.html",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-10-31",
+      "time": "19:11",
+      "conflict_id": null,
+      "score": 33.2
+    },
+    {
       "id": "2026-10-31-19cc0142",
       "headline": "As Midterms Near, Top Law Firms That Capitulated to Trump Are on the Sidelines",
       "summary": "None of the firms that struck deals to avoid crippling executive orders are publicly involved in the major legal efforts to check the Trump administration’s attempts to meddle in the midterm elections, a review by The New York Times shows.",
@@ -242,6 +284,34 @@
       "score": 32.0
     },
     {
+      "id": "2026-10-31-213d88a5",
+      "headline": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+      "summary": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+      "region": "NA",
+      "country": "Trump",
+      "category": "politics",
+      "date": "2026-10-31",
+      "time": "20:30",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
+      "id": "2026-10-31-3ac287b9",
+      "headline": "What is ranked-choice voting and how does it work in US elections?",
+      "summary": "Ranked-choice voting in Alaska could shape a key 2026 race, amid a US lawsuit involving two candidates named Dan Sullivan.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/news/2026/10/31/what-is-ranked-choice-voting-and-how-does-it-work-in-us-elections?traffic_source=rss",
+      "region": "NA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-10-31",
+      "time": "20:11",
+      "conflict_id": null,
+      "score": 31.4
+    },
+    {
       "id": "2026-10-31-d3efa517",
       "headline": "A cure for Trump? Why Democratic doctors are running in the 2026 midterms",
       "summary": "Democratic doctors aim to convert the backlash against the Trump administration’s health policies into midterm votes.",
@@ -256,34 +326,6 @@
       "score": 31.4
     },
     {
-      "id": "2026-10-31-1489f2fc",
-      "headline": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
-      "summary": "Despite genocide, regional war and isolation, Israel&#039;s election revealed little appetite for political alternatives.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
-      "region": "MENA",
-      "country": "Israel",
-      "category": "geopolitics",
-      "date": "2026-10-31",
-      "time": "13:35",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
-      "id": "2026-10-31-c0cc5ebb",
-      "headline": "Former rebel leader elected chief minister of Philippine Muslim region",
-      "summary": "Former Muslim rebel leader Abdulraof Macacua has been elected chief minister of the Philippines&#039; Bangsamoro region.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/former-rebel-leader-elected-chief-minister-of-philippine-muslim-region?traffic_source=rss",
-      "region": "APJ",
-      "country": "Philippines",
-      "category": "politics",
-      "date": "2026-10-31",
-      "time": "12:23",
-      "conflict_id": null,
-      "score": 31.4
-    },
-    {
       "id": "2026-10-31-e20df3ad",
       "headline": "What Lies Ahead: Stephen Schwarzman (30)",
       "summary": "",
@@ -292,20 +334,6 @@
       "region": "APJ",
       "country": null,
       "category": "geopolitics",
-      "date": "2026-10-31",
-      "time": "",
-      "conflict_id": null,
-      "score": 30.8
-    },
-    {
-      "id": "2026-10-31-6b44afd2",
-      "headline": "Philippine Muslim region elects chief minister in historic vote",
-      "summary": "",
-      "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/politics/philippine-muslim-region-elects-chief-minister-in-historic-vote",
-      "region": "APJ",
-      "country": null,
-      "category": "politics",
       "date": "2026-10-31",
       "time": "",
       "conflict_id": null,
@@ -336,20 +364,6 @@
       "category": "business",
       "date": "2026-10-31",
       "time": "02:39",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-10-31-b6afa487",
-      "headline": "CCTV and zip ties: How US mail-in votes are secured and counted",
-      "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-31",
-      "time": "09:16",
       "conflict_id": null,
       "score": 27.0
     },
@@ -480,6 +494,34 @@
       "score": 26.1
     },
     {
+      "id": "2026-10-31-d8cf524f",
+      "headline": "El-Sayed’s Campaign Doesn’t Want Haley Stevens at His Events",
+      "summary": "Tensions have flared between Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, and his former primary rival. “I don’t want any distractions,” Dr. El-Sayed said Saturday.",
+      "source": "New York Times",
+      "url": "https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html",
+      "region": "NA",
+      "country": "Senate",
+      "category": "geopolitics",
+      "date": "2026-10-31",
+      "time": "20:48",
+      "conflict_id": null,
+      "score": 25.2
+    },
+    {
+      "id": "2026-10-31-4c74740d",
+      "headline": "Disquiet grows in Albanese’s back yard as Grayndler artists unite against ‘insane’ AI proposal",
+      "summary": "Inner west Sydney seat has long been safely held by the PM – but potential changes to copyright laws are angering its large creative communityGet our daily political email, free app or daily news podcastThe prime minister is facing growing discontent within his own electorate as creatives push back against the federal government’s proposal to allow AI companies to scrape everything Australians create online.Anthony Albanese’s seat of Grayndler in",
+      "source": "The Guardian",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/01/artists-against-ai-proposal-anthony-albanese-grayndler-sydney-inner-west",
+      "region": "APJ",
+      "country": "Australia",
+      "category": "politics",
+      "date": "2026-10-31",
+      "time": "19:00",
+      "conflict_id": null,
+      "score": 24.0
+    },
+    {
       "id": "2026-10-31-dfe9f706",
       "headline": "A top-secret spy mission, a decades-old scandal – and the Austin Powers-esque saga to lift the lid",
       "summary": "Rex Patrick’s latest transparency fight is over what he calls ‘most open secret in the history of Australian spying’ – maybe even the worldGet our daily political email, free app or daily news podcastA campaign to uncover any documents relating to whether Australian spies bugged Timor-Leste to gain the upper hand in sensitive oil and gas negotiations will be a little less secret after a critical win by the former senator Rex Patrick.The politicia",
@@ -492,6 +534,34 @@
       "time": "00:04",
       "conflict_id": null,
       "score": 24.0
+    },
+    {
+      "id": "2026-10-31-cb096b42",
+      "headline": "Fiery confrontations between protestors and police in Albania",
+      "summary": "Fiery confrontations between protestors and police in Albania",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "politics",
+      "date": "2026-10-31",
+      "time": "21:12",
+      "conflict_id": null,
+      "score": 23.4
+    },
+    {
+      "id": "2026-10-31-975cfe50",
+      "headline": "How vulnerable are cryptocurrency platforms?",
+      "summary": "Hackers have targeted Binance, the world’s largest exchange.",
+      "source": "Al Jazeera",
+      "url": "https://www.aljazeera.com/video/inside-story/2026/10/31/how-vulnerable-are-cryptocurrency-platforms?traffic_source=rss",
+      "region": "MENA",
+      "country": null,
+      "category": "business",
+      "date": "2026-10-31",
+      "time": "19:19",
+      "conflict_id": null,
+      "score": 23.4
     },
     {
       "id": "2026-10-31-866c12d8",
@@ -508,18 +578,18 @@
       "score": 23.4
     },
     {
-      "id": "2026-10-31-fb2c8aca",
-      "headline": "Alaska’s two ‘Dan Sullivans’: How common is ballot stacking, does it work?",
-      "summary": "Same names on Alaska ballot triggered political firestorm in US, prompting a Justice Department investigation.",
-      "source": "Al Jazeera",
-      "url": "https://www.aljazeera.com/news/2026/10/31/alaskas-two-dan-sullivans-how-common-is-ballot-stacking-does-it-work?traffic_source=rss",
-      "region": "MENA",
-      "country": null,
-      "category": "politics",
+      "id": "2026-10-31-d81e9a16",
+      "headline": "Yen bond offerings hit record $16bn as AI funding race reaches Japan",
+      "summary": "",
+      "source": "Nikkei Asia",
+      "url": "https://asia.nikkei.com/business/markets/bonds/yen-bond-offerings-hit-record-16bn-as-ai-funding-race-reaches-japan",
+      "region": "APJ",
+      "country": "Japan",
+      "category": "business",
       "date": "2026-10-31",
-      "time": "12:47",
+      "time": "",
       "conflict_id": null,
-      "score": 23.4
+      "score": 22.8
     },
     {
       "id": "2026-10-31-d1ffcdd6",
@@ -564,14 +634,14 @@
       "score": 22.8
     },
     {
-      "id": "2026-10-31-e9f30d65",
-      "headline": "Foxconn chief downplays AI bubble concerns, sees strong 2027 growth",
+      "id": "2026-10-31-6b44afd2",
+      "headline": "Philippine Muslim region elects chief minister in historic vote",
       "summary": "",
       "source": "Nikkei Asia",
-      "url": "https://asia.nikkei.com/business/technology/foxconn-chief-downplays-ai-bubble-concerns-sees-strong-2027-growth",
+      "url": "https://asia.nikkei.com/politics/philippine-muslim-region-elects-chief-minister-in-historic-vote",
       "region": "APJ",
       "country": null,
-      "category": "business",
+      "category": "politics",
       "date": "2026-10-31",
       "time": "",
       "conflict_id": null,
@@ -603,6 +673,20 @@
       "date": "2026-10-30",
       "time": "22:11",
       "conflict_id": null,
+      "score": 43.0
+    },
+    {
+      "id": "2026-10-30-93fafa6f",
+      "headline": "Student-backed election winners demand sweeping resignations in Serbia",
+      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
+      "region": "EU",
+      "country": null,
+      "category": "politics",
+      "date": "2026-10-30",
+      "time": "00:17",
+      "conflict_id": null,
       "score": 35.0
     },
     {
@@ -616,20 +700,6 @@
       "category": "politics",
       "date": "2026-10-30",
       "time": "15:03",
-      "conflict_id": null,
-      "score": 35.0
-    },
-    {
-      "id": "2026-10-30-93fafa6f",
-      "headline": "Student-backed election winners demand sweeping resignations in Serbia",
-      "summary": "Days after ousting Aleksandar Vučić's party from power, Student List MPs call for top figures to stand down.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-      "region": "EU",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-30",
-      "time": "00:17",
       "conflict_id": null,
       "score": 35.0
     },
@@ -732,34 +802,6 @@
       "score": 32.0
     },
     {
-      "id": "2026-10-30-0e96416a",
-      "headline": "Polish president cuts short trip to Senegal amid court 'coup d'état' claims",
-      "summary": "The Polish government has been pushing to remove the Constitutional Tribunal's judges, who were appointed by the previous right-wing administration led by the nationalist Law and Justice (PiS) party.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/30/polish-president-turns-back-mid-flight-amid-coup-detat-allegations",
-      "region": "NA",
-      "country": null,
-      "category": "politics",
-      "date": "2026-10-30",
-      "time": "20:43",
-      "conflict_id": null,
-      "score": 29.0
-    },
-    {
-      "id": "2026-10-30-57681c1d",
-      "headline": "Pope Leo XIV becomes first pontiff to vote in a US election",
-      "summary": "The Chicago-born pontiff, who has a tense relationship with Trump, mailed in a ballot for the midterm elections that will decide control of the US Congress.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/ckwyq2509p7xo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Congress",
-      "category": "politics",
-      "date": "2026-10-30",
-      "time": "14:48",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
       "id": "2026-10-30-f15f8c59",
       "headline": "US tech stocks see sharp falls as AI spending nears $1tn",
       "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
@@ -770,20 +812,6 @@
       "category": "business",
       "date": "2026-10-30",
       "time": "20:34",
-      "conflict_id": null,
-      "score": 27.0
-    },
-    {
-      "id": "2026-10-30-8cc571af",
-      "headline": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
-      "summary": "A 55-year-old dog rescue programme that has found missing hikers and children in the Canadian wilderness was axed as part of government budget cuts.",
-      "source": "BBC News",
-      "url": "https://www.bbc.co.uk/news/articles/cwdd8q8e9e9yo?at_medium=RSS&at_campaign=rss",
-      "region": "NA",
-      "country": "Canada",
-      "category": "politics",
-      "date": "2026-10-30",
-      "time": "17:00",
       "conflict_id": null,
       "score": 27.0
     },
@@ -828,20 +856,6 @@
       "time": "09:33",
       "conflict_id": null,
       "score": 27.0
-    },
-    {
-      "id": "2026-10-30-f4d4693d",
-      "headline": "French economy 'at a standstill' as budget uncertainty swirls",
-      "summary": "France has recorded no growth since the start of the year, while GDP fell 0.1% between July and September. The government is urging political forces to adopt the 2027 budget, as the country's ability to reassure markets is in doubt.",
-      "source": "Euronews",
-      "url": "https://www.euronews.com/2026/10/30/french-economy-at-a-standstill-adds-to-budget-uncertainty",
-      "region": "EU",
-      "country": "France",
-      "category": "business",
-      "date": "2026-10-30",
-      "time": "17:55",
-      "conflict_id": null,
-      "score": 21.0
     },
     {
       "id": "2026-10-29-7d8ec2fc",
@@ -1096,20 +1110,6 @@
       "score": 27.0
     },
     {
-      "id": "2026-10-26-bb2ec469",
-      "headline": "UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’",
-      "summary": "Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freezeSenior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a mass atrocity that saw tens of thousands of civilians killed over several days.A year after the fall of El Fasher, the British government said it had sanctioned mi",
-      "source": "The Guardian",
-      "url": "https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of",
-      "region": "EU",
-      "country": null,
-      "category": "geopolitics",
-      "date": "2026-10-26",
-      "time": "15:07",
-      "conflict_id": null,
-      "score": 40.0
-    },
-    {
       "id": "2026-10-26-7507941f",
       "headline": "Don’t expect supersize profits from Anthropic soon",
       "summary": "Lurking in its IPO prospectus are warnings of challenges ahead",
@@ -1176,6 +1176,20 @@
       "category": "geopolitics",
       "date": "2026-10-25",
       "time": "22:11",
+      "conflict_id": null,
+      "score": 35.0
+    },
+    {
+      "id": "2026-10-25-1ba2ae8e",
+      "headline": "How do Israel's elections work and who are the main contenders?",
+      "summary": "Israel heads to the polls on Tuesday for what many view as one of the most pivotal elections in the country's history.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/cx8dz75633vjo?at_medium=RSS&at_campaign=rss",
+      "region": "MENA",
+      "country": "Israel",
+      "category": "geopolitics",
+      "date": "2026-10-25",
+      "time": "17:13",
       "conflict_id": null,
       "score": 35.0
     }
