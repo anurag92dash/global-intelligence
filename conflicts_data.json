@@ -6,22 +6,22 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-11-02",
     "recent_headlines": [
       {
-        "headline": "Ukraine and Russia say air raid alert apps hit by cyberattacks after truce ends",
-        "source": "Euronews",
+        "headline": "Hackers send fake nuclear threat alert to Ukraine emergency app",
+        "source": "The Guardian",
         "date": "2026-11-02"
       },
       {
-        "headline": "Russia, Ukraine air raid alert apps hit by cyberattacks after truce ends",
-        "source": "Al Jazeera",
+        "headline": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
+        "source": "BBC News",
         "date": "2026-11-02"
       },
       {
-        "headline": "'An unprecedented situation': Warsaw wobbles with constitutional crisis",
-        "source": "Euronews",
+        "headline": "Fighting returns to Kherson region after longest Ukraine war ceasefire",
+        "source": "BBC News",
         "date": "2026-11-02"
       }
     ],
@@ -52,13 +52,8 @@
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
     "status_signal": "stable",
-    "last_activity": "2026-11-02",
+    "last_activity": "2026-11-01",
     "recent_headlines": [
-      {
-        "headline": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
-        "source": "Al Jazeera",
-        "date": "2026-11-02"
-      },
       {
         "headline": "Israeli strikes in Gaza kill eight including child, hospitals say",
         "source": "BBC News",
@@ -68,6 +63,11 @@
         "headline": "Israeli opposition accuses Netanyahu of trying to 'delegitimise' election",
         "source": "BBC News",
         "date": "2026-10-30"
+      },
+      {
+        "headline": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+        "source": "BBC News",
+        "date": "2026-10-28"
       }
     ],
     "timeline": [
@@ -131,13 +131,13 @@
     "last_activity": "2026-11-02",
     "recent_headlines": [
       {
-        "headline": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
-        "source": "Al Jazeera",
+        "headline": "Russian bombing kills 18 people at Ukraine aid centre, Kyiv says",
+        "source": "BBC News",
         "date": "2026-11-02"
       },
       {
-        "headline": "German Firms Mahle, Schott Said to Seek Banks for India IPOs",
-        "source": "Bloomberg",
+        "headline": "How a Tax Cut Could Threaten a Florida Necessity: Mosquito Control",
+        "source": "New York Times",
         "date": "2026-11-02"
       },
       {
@@ -169,8 +169,13 @@
     "auto_status": false,
     "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
     "status_signal": "stable",
-    "last_activity": "2026-10-30",
+    "last_activity": "2026-11-02",
     "recent_headlines": [
+      {
+        "headline": "Drone attacks extend campaign targeting Sudan’s power system",
+        "source": "Al Jazeera",
+        "date": "2026-11-02"
+      },
       {
         "headline": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
         "source": "The Guardian",
