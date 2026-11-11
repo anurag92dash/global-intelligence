@@ -6,9 +6,14 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-11-11",
     "recent_headlines": [
+      {
+        "headline": "Ukraine peace talks end with prisoner swap but no breakthrough",
+        "source": "Financial Times",
+        "date": "2026-11-11"
+      },
       {
         "headline": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
         "source": "The Guardian",
@@ -17,11 +22,6 @@
       {
         "headline": "Russia-Ukraine talks turn to post-war security but end without breakthrough",
         "source": "BBC News",
-        "date": "2026-11-11"
-      },
-      {
-        "headline": "Russia-Ukraine talks in Abu Dhabi end with prisoner exchange agreement",
-        "source": "Al Jazeera",
         "date": "2026-11-11"
       }
     ],
@@ -51,21 +51,21 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "stable",
+    "status_signal": "escalating",
     "last_activity": "2026-11-11",
     "recent_headlines": [
       {
-        "headline": "Humanoid robot start-up backed by Eric Trump in talks to supply IDF",
-        "source": "Financial Times",
-        "date": "2026-11-11"
-      },
-      {
-        "headline": "Palestinian American activist refused UK entry for Gaza fundraiser",
+        "headline": "Gaza goalkeeper killed in Israeli attack",
         "source": "Al Jazeera",
         "date": "2026-11-11"
       },
       {
-        "headline": "Israeli army kills Palestinian footballer Mahmoud Kamal Abdel-Malek in Gaza",
+        "headline": "Scenes show aftermath of horrific Israeli strike on Gaza tents",
+        "source": "Al Jazeera",
+        "date": "2026-11-11"
+      },
+      {
+        "headline": "F1 champion Lewis Hamilton calls on Israel to open Gaza’s Rafah border",
         "source": "Al Jazeera",
         "date": "2026-11-11"
       }
@@ -128,22 +128,17 @@
     "auto_status": false,
     "description": "Heightened tensions along the Line of Control in Kashmir.",
     "status_signal": "stable",
-    "last_activity": "2026-11-11",
+    "last_activity": "2026-11-08",
     "recent_headlines": [
       {
-        "headline": "Hegseth impeachment effort is blocked by House Republicans",
-        "source": "Washington Post",
-        "date": "2026-11-11"
+        "headline": "NZ election 2026: New Zealand faces weeks of uncertainty with results ‘too close to call’",
+        "source": "The Guardian",
+        "date": "2026-11-08"
       },
       {
-        "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+        "headline": "Israel's president tasks opposition leader Eisenkot with forming government",
         "source": "BBC News",
-        "date": "2026-11-11"
-      },
-      {
-        "headline": "Transport workers in Chile block highways in protest over surging fuel prices",
-        "source": "BBC News",
-        "date": "2026-11-11"
+        "date": "2026-11-07"
       }
     ],
     "timeline": [
@@ -177,14 +172,9 @@
         "date": "2026-11-11"
       },
       {
-        "headline": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
+        "headline": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
         "source": "BBC News",
-        "date": "2026-11-11"
-      },
-      {
-        "headline": "California’s Kim Says Insurance Should Fund Wildfire Safety, Not Super Bowl Ads",
-        "source": "Bloomberg",
-        "date": "2026-11-11"
+        "date": "2026-11-10"
       }
     ],
     "timeline": [
