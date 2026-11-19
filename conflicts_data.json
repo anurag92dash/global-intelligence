@@ -7,21 +7,21 @@
     "auto_status": false,
     "description": "Full-scale Russian invasion since Feb 2022. Active fighting in eastern Ukraine. Peace talks stalled.",
     "status_signal": "escalating",
-    "last_activity": "2026-11-18",
+    "last_activity": "2026-11-19",
     "recent_headlines": [
       {
-        "headline": "Europe Tonight: EU proposes €45bn Ukraine loan as Trump, Xi and Putin meet",
-        "source": "Euronews",
-        "date": "2026-11-18"
+        "headline": "Trump, Xi and Putin Hold Unprecedented Trilateral Meeting",
+        "source": "Bloomberg",
+        "date": "2026-11-19"
+      },
+      {
+        "headline": "Putin vows 'far more painful' response to Ukraine's strikes on Crimean Bridge",
+        "source": "BBC News",
+        "date": "2026-11-19"
       },
       {
         "headline": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
         "source": "BBC News",
-        "date": "2026-11-18"
-      },
-      {
-        "headline": "Putin Will Continue Ukraine War Despite Plans to Meet Trump, Intelligence Says",
-        "source": "New York Times",
         "date": "2026-11-18"
       }
     ],
@@ -51,23 +51,23 @@
     "status": "ongoing",
     "auto_status": false,
     "description": "Military conflict in Gaza following Hamas attacks on Oct 7, 2023. Ceasefire negotiations ongoing.",
-    "status_signal": "escalating",
-    "last_activity": "2026-11-18",
+    "status_signal": "stable",
+    "last_activity": "2026-11-19",
     "recent_headlines": [
       {
-        "headline": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+        "headline": "Israeli military completes ground operation in Gaza beyond Yellow Line",
         "source": "BBC News",
-        "date": "2026-11-18"
+        "date": "2026-11-19"
       },
       {
-        "headline": "Israeli military launches new operation on central Gaza despite ceasefire",
-        "source": "Euronews",
-        "date": "2026-11-18"
-      },
-      {
-        "headline": "Israel uses Gaza swimming video to minimise winter hardships",
+        "headline": "‘Displacement by design’: Trump’s Gaza peace plan a failure, aid groups say",
         "source": "Al Jazeera",
-        "date": "2026-11-18"
+        "date": "2026-11-19"
+      },
+      {
+        "headline": "Mosque set on fire in Israel, politicians blame Netanyahu’s ‘incitement’",
+        "source": "Al Jazeera",
+        "date": "2026-11-19"
       }
     ],
     "timeline": [
@@ -100,14 +100,14 @@
     "last_activity": "2026-11-19",
     "recent_headlines": [
       {
-        "headline": "Jeffrey Sachs Expects Friendly Trilateral Outcome",
+        "headline": "Trump, Xi and Putin Hold Unprecedented Trilateral Meeting",
         "source": "Bloomberg",
         "date": "2026-11-19"
       },
       {
-        "headline": "Europe Tonight: EU proposes €45bn Ukraine loan as Trump, Xi and Putin meet",
-        "source": "Euronews",
-        "date": "2026-11-18"
+        "headline": "Putin says US-China-Russia can strengthen global stability",
+        "source": "Al Jazeera",
+        "date": "2026-11-19"
       }
     ],
     "timeline": [
@@ -136,18 +136,18 @@
     "last_activity": "2026-11-19",
     "recent_headlines": [
       {
-        "headline": "Anthropic IPO Hands Korean Tycoon’s Firm $3 Billion Windfall",
-        "source": "Bloomberg",
+        "headline": "‘Remarkable luck’: wreck of first Australian-built warship discovered exactly 128 years after sinking",
+        "source": "The Guardian",
         "date": "2026-11-19"
       },
       {
-        "headline": "Treasuries Draw Record Demand From South Korean Investors",
-        "source": "Bloomberg",
+        "headline": "What is a stake at the EU-UK summit in Brussels?",
+        "source": "The Guardian",
         "date": "2026-11-19"
       },
       {
-        "headline": "Anthropic raises $81.3bn in biggest IPO of all time",
-        "source": "Al Jazeera",
+        "headline": "Retail investors face squeeze in blockbuster IPO",
+        "source": "Financial Times",
         "date": "2026-11-19"
       }
     ],
@@ -174,17 +174,12 @@
     "auto_status": false,
     "description": "War between SAF and RSF since April 2023. Humanitarian catastrophe in Darfur.",
     "status_signal": "stable",
-    "last_activity": "2026-11-16",
+    "last_activity": "2026-11-19",
     "recent_headlines": [
       {
-        "headline": "OpenAI sued by California over 80 ‘loss of control’ incidents",
-        "source": "Financial Times",
-        "date": "2026-11-16"
-      },
-      {
-        "headline": "California files lawsuit against OpenAI alleging lack of proper safeguards",
-        "source": "Al Jazeera",
-        "date": "2026-11-16"
+        "headline": "US President Trump rejects global AI regulation as China's Xi calls for cooperation on safety",
+        "source": "Euronews",
+        "date": "2026-11-19"
       }
     ],
     "timeline": [
@@ -210,8 +205,13 @@
     "auto_status": false,
     "description": "Iran enriches beyond JCPOA limits. IAEA access restricted. Regional proxy conflicts intensify.",
     "status_signal": "stable",
-    "last_activity": "2026-11-13",
+    "last_activity": "2026-11-19",
     "recent_headlines": [
+      {
+        "headline": "North Korea expanding uranium enrichment facility, UN nuclear watchdog says",
+        "source": "Al Jazeera",
+        "date": "2026-11-19"
+      },
       {
         "headline": "UN watchdog 'increasingly concerned' over uninspected Iran nuclear site",
         "source": "BBC News",
